@@ -7,8 +7,8 @@ export default function Podcast() {
   return (
     <>
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="space-y-2 pb-8 pt-6 md:space-y-5">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+        <div className="space-y-2 pt-6 pb-8 md:space-y-5">
+          <h1 className="text-3xl leading-9 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14 dark:text-gray-100">
             SecureHub Podcast
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
@@ -20,7 +20,7 @@ export default function Podcast() {
               href="https://spotify.com/your-podcast"
               target="_blank"
               rel="noopener noreferrer"
-              className="rounded-lg bg-primary-500 px-4 py-2 font-medium text-white hover:bg-primary-600 dark:hover:bg-primary-400"
+              className="bg-primary-500 hover:bg-primary-600 dark:hover:bg-primary-400 rounded-lg px-4 py-2 font-medium text-white"
             >
               Listen on Spotify
             </a>
@@ -50,9 +50,9 @@ export default function Podcast() {
                         day: 'numeric',
                       })}
                     </time>
-                    <span className="text-sm font-medium text-primary-500">{episode.duration}</span>
+                    <span className="text-primary-500 text-sm font-medium">{episode.duration}</span>
                   </div>
-                  <h2 className="text-2xl font-bold leading-8 tracking-tight">
+                  <h2 className="text-2xl leading-8 font-bold tracking-tight">
                     <span className="text-gray-900 dark:text-gray-100">{episode.title}</span>
                   </h2>
                   <p className="prose max-w-none text-gray-500 dark:text-gray-400">
@@ -64,7 +64,7 @@ export default function Podcast() {
                         href={episode.spotifyUrl}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-sm font-medium text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                        className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 text-sm font-medium"
                       >
                         Spotify →
                       </a>
@@ -74,7 +74,7 @@ export default function Podcast() {
                         href={episode.appleUrl}
                         target="_blank"
                         rel="noopener noreferrer"
-                        className="text-sm font-medium text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                        className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 text-sm font-medium"
                       >
                         Apple Podcasts →
                       </a>

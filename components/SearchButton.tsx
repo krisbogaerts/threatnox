@@ -11,7 +11,10 @@ const SearchButton = () => {
       siteMetadata.search.provider === 'algolia' ? AlgoliaButton : KBarButton
 
     return (
-      <SearchButtonWrapper aria-label="Search">
+      <SearchButtonWrapper
+        aria-label="Search"
+        className="focus-visible:ring-primary-500 inline-flex h-10 w-10 items-center justify-center rounded-lg hover:bg-gray-100 focus-visible:ring-2 focus-visible:outline-none dark:hover:bg-gray-800"
+      >
         <svg
           xmlns="http://www.w3.org/2000/svg"
           fill="none"
@@ -29,6 +32,7 @@ const SearchButton = () => {
       </SearchButtonWrapper>
     )
   }
+  return null
 }
 
 export default SearchButton
