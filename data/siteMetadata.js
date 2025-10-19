@@ -1,14 +1,13 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'SecureHub - Cybersecurity Insights',
-  author: 'Your Name',
-  headerTitle: 'SecureHub',
-  description:
-    'Expert cybersecurity insights, threat analysis, and security best practices. Stay ahead of emerging threats with our newsletter and podcast.',
+  title: 'Next.js Starter Blog',
+  author: 'Tails Azimuth',
+  headerTitle: 'TailwindBlog',
+  description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
-  theme: 'dark', // system, dark or light - default to dark for cybersec aesthetic
-  siteUrl: 'https://your-domain.com',
-  siteRepo: 'https://github.com/yourusername/securehub',
+  theme: 'system', // system, dark or light
+  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',
