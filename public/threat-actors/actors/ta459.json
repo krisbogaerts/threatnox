@@ -1,0 +1,31 @@
+{
+  "slug": "ta459",
+  "name": "TA459",
+  "uuid": "c6472ae1-c6ad-4cf1-8d6e-8c94b94fe314",
+  "description": "",
+  "aliases": [
+    "G0062"
+  ],
+  "refs": [
+    "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts",
+    "https://attack.mitre.org/groups/G0062/"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "CN",
+    "refs": [
+      "https://www.proofpoint.com/us/threat-insight/post/apt-targets-financial-analysts",
+      "https://attack.mitre.org/groups/G0062/"
+    ],
+    "synonyms": [
+      "G0062"
+    ]
+  },
+  "order": 117
+}

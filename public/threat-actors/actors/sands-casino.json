@@ -1,0 +1,19 @@
+{
+  "slug": "sands-casino",
+  "name": "Sands Casino",
+  "uuid": "1de1a64e-ea14-4e79-9e41-6958bdb6c0ff",
+  "description": "",
+  "aliases": [],
+  "refs": [],
+  "country": "IR",
+  "countries": [
+    "IR"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "IR"
+  },
+  "order": 50
+}

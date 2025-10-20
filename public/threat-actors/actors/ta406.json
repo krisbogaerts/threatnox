@@ -1,0 +1,44 @@
+{
+  "slug": "ta406",
+  "name": "TA406",
+  "uuid": "89f005f9-22e9-4c50-9b48-e94c521266e5",
+  "description": "TA406 is engaging in malware distribution, phishing, intelligence collection, and cryptocurrency theft, resulting in a wide range of criminal activities.",
+  "aliases": [],
+  "refs": [
+    "https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals"
+  ],
+  "country": "KR",
+  "countries": [
+    "KR"
+  ],
+  "sectors": [
+    "Government",
+    "Journalists",
+    "NGOs"
+  ],
+  "related": [],
+  "rawMeta": {
+    "cfr-suspected-victims": [
+      "China",
+      "France",
+      "Germany",
+      "India",
+      "Japan",
+      "North America",
+      "Russia",
+      "South Africa",
+      "South Korea",
+      "United Kingdom"
+    ],
+    "cfr-target-category": [
+      "Government",
+      "Journalists",
+      "NGOs"
+    ],
+    "country": "KR",
+    "refs": [
+      "https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals"
+    ]
+  },
+  "order": 410
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "teamxrat",
+  "name": "TeamXRat",
+  "uuid": "43ec65d1-a334-4c44-9a44-0fd21f27249d",
+  "description": "",
+  "aliases": [
+    "CorporacaoXRat",
+    "CorporationXRat"
+  ],
+  "refs": [
+    "https://securelist.com/blog/research/76153/teamxrat-brazilian-cybercrime-meets-ransomware/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://securelist.com/blog/research/76153/teamxrat-brazilian-cybercrime-meets-ransomware/"
+    ],
+    "synonyms": [
+      "CorporacaoXRat",
+      "CorporationXRat"
+    ]
+  },
+  "order": 85
+}

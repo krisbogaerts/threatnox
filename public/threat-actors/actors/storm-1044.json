@@ -1,0 +1,24 @@
+{
+  "slug": "storm-1044",
+  "name": "Storm-1044",
+  "uuid": "5ec7a98e-9725-4f87-8a6e-91e2b4ba04ac",
+  "description": "Storm-1044 has been identified as part of a cyber campaign in collaboration with Twisted Spider. They employ a strategic approach, targeting specific endpoints using an initial access trojan called DanaBot. Once they gain access, Storm-1044 initiates lateral movement through Remote Desktop Protocol sign-in attempts, passing control to Twisted Spider. Twisted Spider then compromises the endpoints by introducing the CACTUS ransomware. Microsoft has detected ongoing malvertising attacks involving Storm-1044, leading to the deployment of CACTUS ransomware.",
+  "aliases": [
+    "DEV-1044"
+  ],
+  "refs": [
+    "https://twitter.com/MsftSecIntel/status/1730383711437283757"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://twitter.com/MsftSecIntel/status/1730383711437283757"
+    ],
+    "synonyms": [
+      "DEV-1044"
+    ]
+  },
+  "order": 598
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "corsair-jackal",
+  "name": "Corsair Jackal",
+  "uuid": "59d63dd6-f46f-4334-ad15-30d2e1ee0623",
+  "description": "",
+  "aliases": [
+    "TunisianCyberArmy"
+  ],
+  "refs": [
+    "https://web.archive.org/web/20160315044507/https://www.crowdstrike.com/blog/regional-conflict-and-cyber-blowback/"
+  ],
+  "country": "TN",
+  "countries": [
+    "TN"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "TN",
+    "refs": [
+      "https://web.archive.org/web/20160315044507/https://www.crowdstrike.com/blog/regional-conflict-and-cyber-blowback/"
+    ],
+    "synonyms": [
+      "TunisianCyberArmy"
+    ]
+  },
+  "order": 69
+}

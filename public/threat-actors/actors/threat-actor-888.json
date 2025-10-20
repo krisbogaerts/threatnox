@@ -1,0 +1,25 @@
+{
+  "slug": "threat-actor-888",
+  "name": "Threat Actor 888",
+  "uuid": "8f31b9b1-44c9-4b7f-b850-7cf02c306e25",
+  "description": "Threat actor 888 is a hacker active in 2024, targeting companies for data breaches. They've hit Microsoft, BMW (Hong Kong), and others in tech, freight, and oil & gas industries",
+  "aliases": [],
+  "refs": [
+    "https://cybersecuritynews.com/threats-claimimg-breach/",
+    "https://www.cloudways.com/blog/hacker-allegedly-leaks-data-from-shopify-breach-on-breachforums/",
+    "https://twitter.com/H4ckManac/status/1810569160180515171",
+    "https://medium.com/@DoingFedTime/80-000-records-exposed-in-shell-data-breach-by-threat-actor-888-64c407dfac94"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://cybersecuritynews.com/threats-claimimg-breach/",
+      "https://www.cloudways.com/blog/hacker-allegedly-leaks-data-from-shopify-breach-on-breachforums/",
+      "https://twitter.com/H4ckManac/status/1810569160180515171",
+      "https://medium.com/@DoingFedTime/80-000-records-exposed-in-shell-data-breach-by-threat-actor-888-64c407dfac94"
+    ]
+  },
+  "order": 711
+}

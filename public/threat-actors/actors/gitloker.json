@@ -1,0 +1,21 @@
+{
+  "slug": "gitloker",
+  "name": "Gitloker",
+  "uuid": "75cc313a-6a95-4ab8-b7f8-bfd7e4a7fe00",
+  "description": "Gitloker is a threat actor group targeting GitHub repositories, wiping their contents, and extorting victims for their data. They use stolen credentials to compromise accounts, claim to have created a backup, and instruct victims to contact them on Telegram. The attackers leave a ransom note in the form of a README file, urging victims to negotiate the return of their data. GitHub is working to combat these evolving attacks and the vulnerabilities they exploit.",
+  "aliases": [],
+  "refs": [
+    "https://www.itsecurityguru.org/2024/06/13/guest-blog-proactive-application-security-learning-from-the-recent-github-extortion-campaigns/",
+    "https://www.bleepingcomputer.com/news/security/new-gitloker-attacks-wipe-github-repos-in-extortion-scheme/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.itsecurityguru.org/2024/06/13/guest-blog-proactive-application-security-learning-from-the-recent-github-extortion-campaigns/",
+      "https://www.bleepingcomputer.com/news/security/new-gitloker-attacks-wipe-github-repos-in-extortion-scheme/"
+    ]
+  },
+  "order": 687
+}

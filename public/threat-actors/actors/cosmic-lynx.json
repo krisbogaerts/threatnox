@@ -1,0 +1,20 @@
+{
+  "slug": "cosmic-lynx",
+  "name": "Cosmic Lynx",
+  "uuid": "54ae5c75-8aab-41a8-971a-03d53db9b35c",
+  "description": "Cosmic Lynx is a Russia-based BEC cybercriminal organization that has significantly impacted the email threat landscape with sophisticated, high-dollar phishing attacks.",
+  "aliases": [],
+  "refs": [
+    "https://www.agari.com/cyber-intelligence-research/whitepapers/acid-agari-cosmic-lynx.pdf"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "cfr-type-of-incident": "Business Email Compromise",
+    "refs": [
+      "https://www.agari.com/cyber-intelligence-research/whitepapers/acid-agari-cosmic-lynx.pdf"
+    ]
+  },
+  "order": 360
+}

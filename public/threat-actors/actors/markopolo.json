@@ -1,0 +1,21 @@
+{
+  "slug": "markopolo",
+  "name": "Markopolo",
+  "uuid": "c1e2121a-84c9-4fd0-99ef-917ded9cb3e1",
+  "description": "Markopolo is a threat actor known for running scams targeting cryptocurrency users through a fake app called Vortax. They use social media and a dedicated blog to legitimize their malicious activities. Markopolo has been linked to a credential-harvesting operation and is agile in pivoting to new scams when detected. The actor leverages shared hosting and C2 infrastructure for their malicious builds.",
+  "aliases": [],
+  "refs": [
+    "https://www.darkreading.com/remote-workforce/vortax-meeting-software-branding-spreads-infostealers",
+    "https://www.recordedfuture.com/the-travels-of-markopolo-self-proclaimed-meeting-software-vortax-spreads-infostealers"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.darkreading.com/remote-workforce/vortax-meeting-software-branding-spreads-infostealers",
+      "https://www.recordedfuture.com/the-travels-of-markopolo-self-proclaimed-meeting-software-vortax-spreads-infostealers"
+    ]
+  },
+  "order": 694
+}

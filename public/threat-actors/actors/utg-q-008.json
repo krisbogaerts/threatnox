@@ -1,0 +1,19 @@
+{
+  "slug": "utg-q-008",
+  "name": "UTG-Q-008",
+  "uuid": "fd17cd3c-5131-4907-be7d-83a0c7dabd36",
+  "description": "UTG-Q-008 is a threat actor targeting Linux platforms, primarily focusing on government and enterprise entities in China. They utilize a massive botnet network for espionage activities, including reconnaissance, brute-forcing, and Trojan component delivery. The actor has a history of compromising thousands of servers in China using a password dictionary based on Chinese Pinyin. UTG-Q-008 operates during standard working hours in the UTC+8 time zone, with potential ties to Eastern Europe.",
+  "aliases": [],
+  "refs": [
+    "https://ti.qianxin.com/blog/articles/Operation-Veles-Decade-Long-Espionage-Targeting-the-Global-Research-and-Education-Sector-EN/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://ti.qianxin.com/blog/articles/Operation-Veles-Decade-Long-Espionage-Targeting-the-Global-Research-and-Education-Sector-EN/"
+    ]
+  },
+  "order": 686
+}

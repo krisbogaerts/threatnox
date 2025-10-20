@@ -1,0 +1,44 @@
+{
+  "slug": "wagemole",
+  "name": "WageMole",
+  "uuid": "09aa3edb-e956-43f0-9fcb-a3154b47d202",
+  "description": "WageMole is a North Korean state-sponsored APT that employs social engineering and technology to secure remote job opportunities in Western countries, leveraging stolen personal data from the Contagious Interview campaign. Threat actors create fake identities, including passports and driver's licenses, and prepare study guides for interviews, often utilizing generative AI for well-structured responses. They target small to mid-sized businesses and utilize job platforms like Upwork and Indeed, while employing automation scripts for account creation. WageMole's activities include sharing code within their group and requesting payments through platforms like PayPal to conceal their identity.",
+  "aliases": [
+    "Famous Chollima",
+    "UNC5267",
+    "Wagemole",
+    "Nickel Tapestry",
+    "Storm-1877",
+    "Void Dokkaebi"
+  ],
+  "refs": [
+    "https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/",
+    "https://www.zscaler.com/blogs/security-research/pyongyang-your-payroll-rise-north-korean-remote-workers-west",
+    "https://unit42.paloaltonetworks.com/fake-north-korean-it-worker-activity-cluster/",
+    "https://www.trendmicro.com/en_us/research/25/d/russian-infrastructure-north-korean-cybercrime.html"
+  ],
+  "country": "KP",
+  "countries": [
+    "KP"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "country": "KP",
+    "refs": [
+      "https://unit42.paloaltonetworks.com/two-campaigns-by-north-korea-bad-actors-target-job-hunters/",
+      "https://www.zscaler.com/blogs/security-research/pyongyang-your-payroll-rise-north-korean-remote-workers-west",
+      "https://unit42.paloaltonetworks.com/fake-north-korean-it-worker-activity-cluster/",
+      "https://www.trendmicro.com/en_us/research/25/d/russian-infrastructure-north-korean-cybercrime.html"
+    ],
+    "synonyms": [
+      "Famous Chollima",
+      "UNC5267",
+      "Wagemole",
+      "Nickel Tapestry",
+      "Storm-1877",
+      "Void Dokkaebi"
+    ]
+  },
+  "order": 772
+}

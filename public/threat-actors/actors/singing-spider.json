@@ -1,0 +1,19 @@
+{
+  "slug": "singing-spider",
+  "name": "SINGING SPIDER",
+  "uuid": "769bf551-ff39-4f84-b7f2-654a28df1e50",
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
+    ]
+  },
+  "order": 145
+}

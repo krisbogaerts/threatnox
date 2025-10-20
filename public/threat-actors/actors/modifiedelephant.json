@@ -1,0 +1,24 @@
+{
+  "slug": "modifiedelephant",
+  "name": "ModifiedElephant",
+  "uuid": "6cce6ecc-e6f5-4ae5-b8c5-cf633b7cf973",
+  "description": "Our research into these intrusions revealed a decade of persistent malicious activity targeting specific groups and individuals that we now attribute to a previously unknown threat actor named ModifiedElephant. This actor has operated for years, evading research attention and detection due to their limited scope of operations, the mundane nature of their tools, and their regionally-specific targeting. ModifiedElephant is still active at the time of writing.",
+  "aliases": [],
+  "refs": [
+    "https://www.sentinelone.com/labs/modifiedelephant-apt-and-a-decade-of-fabricating-evidence/"
+  ],
+  "countries": [],
+  "sectors": [
+    "Civil Society"
+  ],
+  "related": [],
+  "rawMeta": {
+    "cfr-target-category": [
+      "Civil Society"
+    ],
+    "refs": [
+      "https://www.sentinelone.com/labs/modifiedelephant-apt-and-a-decade-of-fabricating-evidence/"
+    ]
+  },
+  "order": 361
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "guru-spider",
+  "name": "GURU SPIDER",
+  "uuid": "0a667713-bc31-4a72-9ea3-34fc094a9dde",
+  "description": "Early in 2018, CrowdStrike Intelligence observed GURU SPIDER supporting the distribution of multiple crimeware families through its flagship malware loader, Quant Loader.",
+  "aliases": [],
+  "refs": [
+    "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/"
+    ]
+  },
+  "order": 210
+}

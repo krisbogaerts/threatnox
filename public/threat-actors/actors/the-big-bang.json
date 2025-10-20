@@ -1,0 +1,21 @@
+{
+  "slug": "the-big-bang",
+  "name": "The Big Bang",
+  "uuid": "a3cc5105-3bc6-498b-8d53-981e12d86909",
+  "description": "While it is not clear exactly what the attacker is looking for, what is clear is that once he finds it, a second stage of the attack awaits, fetching additional modules and/or malware from the Command and Control server. This then is a surveillance attack in progress and has been dubbed ‘Big Bang’ due to the attacker’s fondness for the ‘Big Bang Theory’ TV show, after which some of the malware’s modules are named.",
+  "aliases": [],
+  "refs": [
+    "https://research.checkpoint.com/apt-attack-middle-east-big-bang/",
+    "https://blog.talosintelligence.com/2017/06/palestine-delphi.html"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://research.checkpoint.com/apt-attack-middle-east-big-bang/",
+      "https://blog.talosintelligence.com/2017/06/palestine-delphi.html"
+    ]
+  },
+  "order": 167
+}

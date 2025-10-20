@@ -1,0 +1,19 @@
+{
+  "slug": "operation-cobalt-whisper",
+  "name": "Operation Cobalt Whisper",
+  "uuid": "75d2d875-6e49-4152-b055-62337b0a22df",
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://www.seqrite.com/blog/operation-cobalt-whisper-targets-industries-hong-kong-pakistan/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.seqrite.com/blog/operation-cobalt-whisper-targets-industries-hong-kong-pakistan/"
+    ]
+  },
+  "order": 763
+}

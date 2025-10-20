@@ -1,0 +1,19 @@
+{
+  "slug": "scully-spider",
+  "name": "SCULLY SPIDER",
+  "uuid": "7fb1662e-0257-4606-b3a2-bf294c64c098",
+  "description": "Mentioned as operator of DanaBot in CrowdStrike's 2020 Report.",
+  "aliases": [],
+  "refs": [
+    "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+    ]
+  },
+  "order": 281
+}

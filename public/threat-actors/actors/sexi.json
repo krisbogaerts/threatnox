@@ -1,0 +1,23 @@
+{
+  "slug": "sexi",
+  "name": "SEXi",
+  "uuid": "1bd2034f-a135-4c71-b08f-867b7f9e7998",
+  "description": "SEXi is a ransomware group that targets VMware ESXi servers, encrypting data and demanding ransom payments. They have been observed encrypting virtual machines and backups, causing significant disruptions to services. The group's name is a play on the word \"ESXi,\" indicating a deliberate focus on these systems. SEXi has been linked to other ransomware variants based on the Babuk source code.",
+  "aliases": [],
+  "refs": [
+    "https://www.cybersecurity-insiders.com/proven-data-restores-powerhosts-vmware-backups-after-sexi-ransomware-attack/",
+    "https://heimdalsecurity.com/blog/powerhosts-esxi-servers-encrypted-with-new-sexi-ransomware/",
+    "https://www.darkreading.com/threat-intelligence/sexi-ransomware-desires-vmware-hypervisors"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.cybersecurity-insiders.com/proven-data-restores-powerhosts-vmware-backups-after-sexi-ransomware-attack/",
+      "https://heimdalsecurity.com/blog/powerhosts-esxi-servers-encrypted-with-new-sexi-ransomware/",
+      "https://www.darkreading.com/threat-intelligence/sexi-ransomware-desires-vmware-hypervisors"
+    ]
+  },
+  "order": 683
+}

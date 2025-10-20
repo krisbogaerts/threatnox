@@ -1,0 +1,28 @@
+{
+  "slug": "outlaw-spider",
+  "name": "OUTLAW SPIDER",
+  "uuid": "ae121063-3960-4834-90d7-66aad69c5e8b",
+  "description": "On May 7, 2019, Mayor Bernard “Jack” Young confirmed that the network for the U.S. City of Baltimore (CoB) was infected with ransomware, which was announced via Twitter1. This infection was later confirmed to be conducted by OUTLAW SPIDER, which is the actor behind the RobbinHood ransomware. The actor demanded to be paid 3 BTC (approximately $17,600 USD at the time) per infected system, or 13 BTC (approximately $76,500 USD at the time) for all infected systems to recover the city’s files.",
+  "aliases": [],
+  "refs": [
+    "https://statescoop.com/baltimore-ransomware-crowdstrike-extortion/",
+    "https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1",
+    "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf",
+    "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeServicesCyberFrontLines.pdf"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://statescoop.com/baltimore-ransomware-crowdstrike-extortion/",
+      "https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1",
+      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf",
+      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeServicesCyberFrontLines.pdf"
+    ],
+    "targeted-sector": [
+      "Government, Administration"
+    ]
+  },
+  "order": 318
+}

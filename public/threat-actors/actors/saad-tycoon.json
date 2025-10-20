@@ -1,0 +1,19 @@
+{
+  "slug": "saad-tycoon",
+  "name": "Saad Tycoon",
+  "uuid": "d9709373-7a3a-4905-8c90-ba74237e77ea",
+  "description": "Saad Tycoon is the operator and alleged developer of the Tycoon 2FA PhaaS, a phishing service that targets users for financial gain. The actor utilizes Bitcoin transactions to generate significant profits from the fraudulent service. The phishing infrastructure includes domain registration, server hosting, and possibly Cloudflare protection.",
+  "aliases": [],
+  "refs": [
+    "https://blog.sekoia.io/tycoon-2fa-an-in-depth-analysis-of-the-latest-version-of-the-aitm-phishing-kit/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://blog.sekoia.io/tycoon-2fa-an-in-depth-analysis-of-the-latest-version-of-the-aitm-phishing-kit/"
+    ]
+  },
+  "order": 650
+}

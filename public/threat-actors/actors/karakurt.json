@@ -1,0 +1,35 @@
+{
+  "slug": "karakurt",
+  "name": "Karakurt",
+  "uuid": "035fbd5c-e4a1-4c7b-80fb-f5a89a361aed",
+  "description": "Karakurt actors have employed a variety of tactics, techniques, and procedures (TTPs), creating significant challenges for defense and mitigation. Karakurt victims have not reported encryption of compromised machines or files; rather, Karakurt actors have claimed to steal data and threatened to auction it off or release it to the public unless they receive payment of the demanded ransom. Known ransom demands have ranged from $25,000 to $13,000,000 in Bitcoin, with payment deadlines typically set to expire within a week of first contact with the victim.",
+  "aliases": [
+    "Karakurt Lair"
+  ],
+  "refs": [
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-152a",
+    "https://www.advintel.io/post/enter-karakurt-data-extortion-arm-of-prolific-ransomware-group",
+    "https://www.accenture.com/us-en/blogs/cyber-defense/karakurt-threat-mitigation"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "cfr-suspected-victims": [
+      "Canada",
+      "Germany",
+      "United Kingdom",
+      "United States"
+    ],
+    "cfr-type-of-incident": "Extortion",
+    "refs": [
+      "https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-152a",
+      "https://www.advintel.io/post/enter-karakurt-data-extortion-arm-of-prolific-ransomware-group",
+      "https://www.accenture.com/us-en/blogs/cyber-defense/karakurt-threat-mitigation"
+    ],
+    "synonyms": [
+      "Karakurt Lair"
+    ]
+  },
+  "order": 414
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "storm-2372",
+  "name": "Storm-2372",
+  "uuid": "9c2600e2-d9e6-42ea-963c-972a4b5673c6",
+  "description": "Storm-2372 is a suspected nation-state actor aligned with Russian interests, engaging in device code phishing campaigns targeting governments, NGOs, and various industries across Europe, North America, Africa, and the Middle East. The actor employs tactics that involve impersonating prominent individuals through third-party messaging services like WhatsApp and Signal to gain rapport before sending phishing invitations. These invitations lure users into completing device code authentication requests, granting Storm-2372 initial access to victim accounts and enabling Graph API data collection activities, including email harvesting. Microsoft has observed the actor utilizing keyword searches within compromised accounts to exfiltrate sensitive information.",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2025/02/13/storm-2372-conducts-device-code-phishing-campaign/"
+  ],
+  "country": "RU",
+  "countries": [
+    "RU"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "country": "RU",
+    "refs": [
+      "https://www.microsoft.com/en-us/security/blog/2025/02/13/storm-2372-conducts-device-code-phishing-campaign/"
+    ]
+  },
+  "order": 815
+}

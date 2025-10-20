@@ -1,0 +1,21 @@
+{
+  "slug": "zerosevengroup",
+  "name": "ZeroSevenGroup",
+  "uuid": "c54b9a98-1436-4e29-b194-e5bde003dd4d",
+  "description": "ZeroSevenGroup is a threat actor that claims to have breached a U.S. branch of Toyota, stealing 240GB of sensitive data, including employee and customer information, contracts, and financial details. They have also allegedly gained full network access to critical Israeli infrastructure, with access to 80TB of sensitive data across various sectors. The group has threatened to use the stolen data for malicious activities, including ransomware attacks. Their operations involve exploiting vulnerabilities, as indicated by their reference to manipulating memory through buffer overflow techniques.",
+  "aliases": [],
+  "refs": [
+    "https://siliconangle.com/2024/08/20/toyota-alleges-stolen-customer-data-published-hacking-site-came-outside-supplier/",
+    "https://www.oodaloop.com/briefs/2024/08/21/toyota-customer-employee-data-leaked-in-confirmed-data-breach/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://siliconangle.com/2024/08/20/toyota-alleges-stolen-customer-data-published-hacking-site-came-outside-supplier/",
+      "https://www.oodaloop.com/briefs/2024/08/21/toyota-customer-employee-data-leaked-in-confirmed-data-breach/"
+    ]
+  },
+  "order": 724
+}

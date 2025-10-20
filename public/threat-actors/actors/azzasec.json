@@ -1,0 +1,25 @@
+{
+  "slug": "azzasec",
+  "name": "AzzaSec",
+  "uuid": "7d067b1a-89df-46ff-a2fc-d688da721236",
+  "description": "AzzaSec is a hacktivist group that originated in Italy. Known for their pro-Palestine stance, they have been involved in various cyberattacks targeting Israel and pro-Israel countries. Additionally, AzzaSec has engaged in ransomware activities and has been known to collaborate with other cybercriminal groups.\n\n\n\n\n\n\n\n\n",
+  "aliases": [],
+  "refs": [
+    "https://socradar.io/dark-peep-16-play-ransomware-lockbits-alliance-breachforums-leak-and-cyberniggers-revival/",
+    "https://thecyberexpress.com/azzasec-noname-join-hands-to-target-ukriane/"
+  ],
+  "country": "IT",
+  "countries": [
+    "IT"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "country": "IT",
+    "refs": [
+      "https://socradar.io/dark-peep-16-play-ransomware-lockbits-alliance-breachforums-leak-and-cyberniggers-revival/",
+      "https://thecyberexpress.com/azzasec-noname-join-hands-to-target-ukriane/"
+    ]
+  },
+  "order": 741
+}

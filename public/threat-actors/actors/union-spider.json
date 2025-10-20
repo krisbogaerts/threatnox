@@ -1,0 +1,28 @@
+{
+  "slug": "union-spider",
+  "name": "UNION SPIDER",
+  "uuid": "db774b7d-a0ee-4375-b24e-fd278f5ab2fd",
+  "description": "Adversary targeting manufacturing and industrial organizations.",
+  "aliases": [],
+  "refs": [
+    "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
+  ],
+  "country": "RU",
+  "countries": [
+    "RU"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "RU",
+    "refs": [
+      "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
+    ],
+    "targeted-sector": [
+      "Manufacturing",
+      "Industrial"
+    ]
+  },
+  "order": 64
+}

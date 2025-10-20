@@ -1,0 +1,62 @@
+{
+  "slug": "flying-kitten",
+  "name": "Flying Kitten",
+  "uuid": "ba724df5-9aa0-45ca-8e0e-7101c208ae48",
+  "description": "Activity: defense and aerospace sectors, also interested in targeting entities in the oil/gas industry.",
+  "aliases": [
+    "SaffronRose",
+    "Saffron Rose",
+    "AjaxSecurityTeam",
+    "Ajax Security Team",
+    "Group 26",
+    "Sayad"
+  ],
+  "refs": [
+    "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-operation-saffron-rose.pdf",
+    "https://www.crowdstrike.com/blog/cat-scratch-fever-crowdstrike-tracks-newly-reported-iranian-actor-flying-kitten/",
+    "https://www.cfr.org/interactive/cyber-operations/saffron-rose"
+  ],
+  "country": "IR",
+  "countries": [
+    "IR"
+  ],
+  "sectors": [
+    "Military",
+    "Civil society"
+  ],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+    "cfr-suspected-victims": [
+      "United States",
+      "Iranian internet activists"
+    ],
+    "cfr-target-category": [
+      "Military",
+      "Civil society"
+    ],
+    "cfr-type-of-incident": "Espionage",
+    "country": "IR",
+    "refs": [
+      "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-operation-saffron-rose.pdf",
+      "https://www.crowdstrike.com/blog/cat-scratch-fever-crowdstrike-tracks-newly-reported-iranian-actor-flying-kitten/",
+      "https://www.cfr.org/interactive/cyber-operations/saffron-rose"
+    ],
+    "synonyms": [
+      "SaffronRose",
+      "Saffron Rose",
+      "AjaxSecurityTeam",
+      "Ajax Security Team",
+      "Group 26",
+      "Sayad"
+    ],
+    "targeted-sector": [
+      "Aerospace",
+      "Defense",
+      "Gas",
+      "Oil"
+    ]
+  },
+  "order": 43
+}

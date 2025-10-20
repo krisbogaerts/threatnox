@@ -1,0 +1,19 @@
+{
+  "slug": "swan-vector",
+  "name": "Swan Vector",
+  "uuid": "e2a6fb97-b193-46a2-af73-098e13100dca",
+  "description": "Seqrite Labs APT-Team has recently uncovered a campaign which we have termed as Swan Vector, that has been targeting the nations across the East China sea such as Taiwan and Japan. The campaign is aimed at educational institutes and mechanical engineering industry with lures aiming to deliver fake resume of candidates which acts as a decoy.",
+  "aliases": [],
+  "refs": [
+    "https://www.seqrite.com/blog/swan-vector-apt-targeting-taiwan-japan-dll-implants/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.seqrite.com/blog/swan-vector-apt-targeting-taiwan-japan-dll-implants/"
+    ]
+  },
+  "order": 821
+}

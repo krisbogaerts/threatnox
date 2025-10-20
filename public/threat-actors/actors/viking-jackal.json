@@ -1,0 +1,24 @@
+{
+  "slug": "viking-jackal",
+  "name": "Viking Jackal",
+  "uuid": "7f99ba32-421c-4905-9deb-006e8eda40c1",
+  "description": "",
+  "aliases": [
+    "Vikingdom"
+  ],
+  "refs": [],
+  "country": "AE",
+  "countries": [
+    "AE"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "AE",
+    "synonyms": [
+      "Vikingdom"
+    ]
+  },
+  "order": 52
+}

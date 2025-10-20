@@ -1,0 +1,23 @@
+{
+  "slug": "evilbyte",
+  "name": "Evilbyte",
+  "uuid": "fa65c8b2-50ce-4dea-86a3-8c6b960ce1dd",
+  "description": "EvilByte is a hacktivist group that has conducted several high-profile cyber attacks in 2024, including breaching MyFatoorah's banking system in retaliation against Saudi media 1 and targeting Radio 10 Rosario in Argentina 2. The group has also claimed responsibility for breaching Israeli government websites and leaking data of government employees and intelligence agencies 4.\n\n",
+  "aliases": [],
+  "refs": [
+    "https://www.cyfirma.com/research/hamas-leadership-assassination-explainer/",
+    "https://x.com/MonThreat/status/1851901195201163720",
+    "https://x.com/MonThreat/status/1821478543001293136"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.cyfirma.com/research/hamas-leadership-assassination-explainer/",
+      "https://x.com/MonThreat/status/1851901195201163720",
+      "https://x.com/MonThreat/status/1821478543001293136"
+    ]
+  },
+  "order": 765
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "impersonating-panda",
+  "name": "IMPERSONATING PANDA",
+  "uuid": "b56ecbda-6b2a-4aa9-b592-d9a0bc810ec1",
+  "description": "",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "CN"
+  },
+  "order": 38
+}

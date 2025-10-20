@@ -1,0 +1,23 @@
+{
+  "slug": "morh4x",
+  "name": "MORH4x",
+  "uuid": "4bfc01ee-4c07-40bd-941c-d9e77050e24f",
+  "description": "MORH4x is a self-proclaimed Moroccan hacking group that claimed responsibility for a data leak from Algeria's pharmaceutical industry ministry. The group announced the breach on the BreachForums website, stating that the leaked files span from 2019 to 2025 and include internal documents related to Algeria's pharmaceutical imports. This incident is part of a series of escalating cyberattacks between Moroccan and Algerian hacking groups.",
+  "aliases": [],
+  "refs": [
+    "https://cybersecurity88.com/news/algerias-ministry-of-pharmaceutical-industry-data-leaked-in-retaliatory-cyberattack/"
+  ],
+  "country": "MA",
+  "countries": [
+    "MA"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "country": "MA",
+    "refs": [
+      "https://cybersecurity88.com/news/algerias-ministry-of-pharmaceutical-industry-data-leaked-in-retaliatory-cyberattack/"
+    ]
+  },
+  "order": 843
+}

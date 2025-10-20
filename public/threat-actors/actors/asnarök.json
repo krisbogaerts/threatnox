@@ -1,0 +1,26 @@
+{
+  "slug": "asnarök",
+  "name": "Asnarök",
+  "uuid": "4e26b4ac-5530-428b-8694-3dd6d24ee286",
+  "description": "Asnarök is a threat actor that exploited CVE-2020-12271 and utilized command injection privilege escalation to gain root access to devices and install the Asnarök Trojan and demonstrated significant changes in TTPs, including the deployment of a web shell that did not reach out to external C2 for commands. X-Ops identified a patient-zero device linked to the attack and observed the use of an IC.sh script that stole local user account data. The actor's activities were linked to a broader pattern of malicious exploit research and targeted vulnerabilities disclosed by bug bounty researchers.",
+  "aliases": [
+    "Personal Panda"
+  ],
+  "refs": [
+    "https://news.sophos.com/en-us/2024/10/31/pacific-rim-neutralizing-china-based-threat/",
+    "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://news.sophos.com/en-us/2024/10/31/pacific-rim-neutralizing-china-based-threat/",
+      "https://news.sophos.com/en-us/2024/10/31/pacific-rim-timeline/"
+    ],
+    "synonyms": [
+      "Personal Panda"
+    ]
+  },
+  "order": 752
+}

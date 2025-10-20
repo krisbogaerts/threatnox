@@ -1,0 +1,24 @@
+{
+  "slug": "ta530",
+  "name": "TA530",
+  "uuid": "4b79d1f6-8333-44b6-ac32-d1ea7e47e77f",
+  "description": "TA530, who we previously examined in relation to large-scale personalized phishing campaigns",
+  "aliases": [],
+  "refs": [
+    "https://www.proofpoint.com/uk/threat-insight/post/august-in-december-new-information-stealer-hits-the-scene"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "CN",
+    "refs": [
+      "https://www.proofpoint.com/uk/threat-insight/post/august-in-december-new-information-stealer-hits-the-scene"
+    ]
+  },
+  "order": 80
+}

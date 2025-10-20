@@ -1,0 +1,19 @@
+{
+  "slug": "water-makara",
+  "name": "Water Makara",
+  "uuid": "54bc063d-fc4e-4076-a282-cdb98480da2a",
+  "description": "Water Makara employs the Astaroth banking malware, which features a new defense evasion technique. Their spear phishing campaigns exploit human error by targeting users to click on malicious files. To mitigate these threats, organizations should implement regular security training, enforce strong password policies, utilize multifactor authentication (MFA), keep security solutions updated, and apply the principle of least privilege.",
+  "aliases": [],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/24/j/water-makara-uses-obfuscated-javascript-in-spear-phishing-campai.html"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.trendmicro.com/en_us/research/24/j/water-makara-uses-obfuscated-javascript-in-spear-phishing-campai.html"
+    ]
+  },
+  "order": 758
+}

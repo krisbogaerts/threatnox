@@ -1,0 +1,24 @@
+{
+  "slug": "belialdemon",
+  "name": "BelialDemon",
+  "uuid": "e7aff414-fc21-43eb-ad5d-9a46e07be9f5",
+  "description": "Mentioned as operator of TriumphLoader and Matanbuchus",
+  "aliases": [
+    "Matanbuchus"
+  ],
+  "refs": [
+    "https://unit42.paloaltonetworks.com/matanbuchus-malware-as-a-service/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://unit42.paloaltonetworks.com/matanbuchus-malware-as-a-service/"
+    ],
+    "synonyms": [
+      "Matanbuchus"
+    ]
+  },
+  "order": 337
+}

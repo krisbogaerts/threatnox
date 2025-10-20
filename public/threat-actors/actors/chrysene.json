@@ -1,0 +1,48 @@
+{
+  "slug": "chrysene",
+  "name": "CHRYSENE",
+  "uuid": "a0082cfa-32e2-42b8-92d8-5c7a7409dcf1",
+  "description": "Adversaries abusing ICS (based on Dragos Inc adversary list).\nThis threat actor targets organizations involved in oil, gas, and electricity production, primarily in the Gulf region, for espionage purposes. According to one cybersecurity company, the threat actor “compromises a target machine and passes it off to another threat actor for further exploitation.”",
+  "aliases": [
+    "OilRig",
+    "Greenbug"
+  ],
+  "refs": [
+    "https://dragos.com/adversaries.html",
+    "https://dragos.com/media/2017-Review-Industrial-Control-System-Threats.pdf",
+    "https://www.cfr.org/interactive/cyber-operations/chrysene"
+  ],
+  "countries": [],
+  "sectors": [
+    "Private sector"
+  ],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "capabilities": "Watering holes, 64-bit malware, covert C2 via IPv6 DNS, ISMDOOR",
+    "cfr-suspected-state-sponsor": "Unknown",
+    "cfr-suspected-victims": [
+      "Iraq",
+      "United Kingdom",
+      "Pakistan",
+      "Israel"
+    ],
+    "cfr-target-category": [
+      "Private sector"
+    ],
+    "cfr-type-of-incident": "Espionage",
+    "mode-of-operation": "IT compromise, information gathering and recon against industrial orgs",
+    "refs": [
+      "https://dragos.com/adversaries.html",
+      "https://dragos.com/media/2017-Review-Industrial-Control-System-Threats.pdf",
+      "https://www.cfr.org/interactive/cyber-operations/chrysene"
+    ],
+    "since": "2017",
+    "synonyms": [
+      "OilRig",
+      "Greenbug"
+    ],
+    "victimology": "Oil and Gas, Manufacturing, Europe, MENA, North America"
+  },
+  "order": 164
+}

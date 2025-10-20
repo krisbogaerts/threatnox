@@ -1,0 +1,19 @@
+{
+  "slug": "dextorous-spider",
+  "name": "DEXTOROUS SPIDER",
+  "uuid": "445c7b62-028b-455e-9d65-74899b7006a4",
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
+    ]
+  },
+  "order": 149
+}

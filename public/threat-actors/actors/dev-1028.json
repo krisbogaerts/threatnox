@@ -1,0 +1,19 @@
+{
+  "slug": "dev-1028",
+  "name": "DEV-1028",
+  "uuid": "6616d2ac-2025-47f8-bb1a-1ece2b627c16",
+  "description": "Microsoft reported on MCCrash, an IoT botnet operated by the DEV-1028 threat actor and used to launch DDoS attacks against private Minecraft servers.",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2022/12/15/mccrash-cross-platform-ddos-botnet-targets-private-minecraft-servers/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.microsoft.com/en-us/security/blog/2022/12/15/mccrash-cross-platform-ddos-botnet-targets-private-minecraft-servers/"
+    ]
+  },
+  "order": 485
+}

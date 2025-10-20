@@ -1,0 +1,24 @@
+{
+  "slug": "mana-team",
+  "name": "Mana Team",
+  "uuid": "110792e8-38d2-4df2-9ea3-08b60321e994",
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://webcache.googleusercontent.com/search?q=cache:TWoHHzH9gU0J:en.hackdig.com/02/39538.htm"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "CN",
+    "refs": [
+      "http://webcache.googleusercontent.com/search?q=cache:TWoHHzH9gU0J:en.hackdig.com/02/39538.htm"
+    ]
+  },
+  "order": 153
+}

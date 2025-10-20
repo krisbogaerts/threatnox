@@ -1,0 +1,21 @@
+{
+  "slug": "malteiro",
+  "name": "Malteiro",
+  "uuid": "ba57c28a-47d0-46ba-a933-9aed69f7b84f",
+  "description": "This group of cybercriminals is named Malteiroby SCILabs, they operate and distribute the URSA/Mispadu banking trojan.",
+  "aliases": [],
+  "refs": [
+    "https://blog.scilabs.mx/en/cyber-threat-profile-malteiro/",
+    "https://blog.scilabs.mx/cyber-threat-profile-malteiro/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://blog.scilabs.mx/en/cyber-threat-profile-malteiro/",
+      "https://blog.scilabs.mx/cyber-threat-profile-malteiro/"
+    ]
+  },
+  "order": 403
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ta2536",
+  "name": "TA2536",
+  "uuid": "9687a6a9-0a66-4373-b546-60553857a442",
+  "description": "TA2536, which has been active since at least 2015, is likely Nigerian based on its unique linguistic style, tactics and tools. It uses keyloggers such as HawkEye and distinctive stylometric features in typo-squatted domains that resemble legitimate names and the use of recurring names and substrings in email addresses.",
+  "aliases": [],
+  "refs": [
+    "https://www.proofpoint.com/us/blog/threat-insight/dtpacker-net-packer-curious-password-1"
+  ],
+  "country": "NG",
+  "countries": [
+    "NG"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "country": "NG",
+    "refs": [
+      "https://www.proofpoint.com/us/blog/threat-insight/dtpacker-net-packer-curious-password-1"
+    ]
+  },
+  "order": 408
+}

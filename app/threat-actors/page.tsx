@@ -1,17 +1,23 @@
-import { allCoreContent, sortPosts } from 'pliny/utils/contentlayer'
-import { allBlogs } from 'contentlayer/generated'
-import ListLayout from '@/layouts/ListLayout'
 import { genPageMetadata } from 'app/seo'
-import { slug } from 'github-slugger'
+import Client from './Client'
+import RansomwareVictimsCard from '@/components/RansomwareVictimsCard'
 
 export const metadata = genPageMetadata({ title: 'Threat Actors' })
 
-export default async function ThreatActorsPage() {
-  const filteredPosts = allCoreContent(
-    sortPosts(
-      allBlogs.filter((post) => post.tags && post.tags.map((t) => slug(t)).includes('threat-actor'))
-    )
+export default function ThreatActorsPage() {
+  return (
+    <>
+      <div className="mb-4 xl:hidden">
+        <RansomwareVictimsCard maxItems={10} />
+      </div>
+      <div className="xl:grid xl:grid-cols-4 xl:gap-6">
+        <div className="xl:col-span-3">
+          <Client />
+        </div>
+        <div className="hidden xl:mt-22 xl:block">
+          <RansomwareVictimsCard maxItems={10} />
+        </div>
+      </div>
+    </>
   )
-
-  return <ListLayout posts={filteredPosts} title="Threat Actors" />
 }

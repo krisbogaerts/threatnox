@@ -1,0 +1,37 @@
+{
+  "slug": "greenbug",
+  "name": "Greenbug",
+  "uuid": "47204403-34c9-4d25-a006-296a0939d1a2",
+  "description": "Greenbug was discovered targeting a range of organizations in the Middle East including companies in the aviation, energy, government, investment, and education sectors.",
+  "aliases": [],
+  "refs": [
+    "https://web.archive.org/web/20190331181353/https://www.symantec.com/connect/blogs/greenbug-cyberespionage-group-targeting-middle-east-possible-links-shamoon",
+    "https://unit42.paloaltonetworks.com/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/",
+    "https://threatpost.com/shamoon-collaborator-greenbug-adopts-new-communication-tool/125383/",
+    "https://www.clearskysec.com/greenbug/"
+  ],
+  "country": "IR",
+  "countries": [
+    "IR"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "IR",
+    "refs": [
+      "https://web.archive.org/web/20190331181353/https://www.symantec.com/connect/blogs/greenbug-cyberespionage-group-targeting-middle-east-possible-links-shamoon",
+      "https://unit42.paloaltonetworks.com/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/",
+      "https://threatpost.com/shamoon-collaborator-greenbug-adopts-new-communication-tool/125383/",
+      "https://www.clearskysec.com/greenbug/"
+    ],
+    "targeted-sector": [
+      "Education",
+      "Energy",
+      "Investment",
+      "Aerospace",
+      "Government, Administration"
+    ]
+  },
+  "order": 101
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "uat-5394",
+  "name": "UAT-5394",
+  "uuid": "6038ceaf-4c1b-470d-af36-c62948488786",
+  "description": "UAT-5394 is a state-sponsored North Korean threat actor known for developing the MoonPeak RAT, which is based on XenoRAT. They have transitioned from using QuasarRAT to MoonPeak and have established command and control infrastructure. UAT-5394 employs tactics such as using RDP for remote access and has implemented State Machines in their malware to complicate analysis. Their activity indicates a focus on rapidly evolving their malware and infrastructure to enhance operational capabilities.",
+  "aliases": [],
+  "refs": [
+    "https://blog.talosintelligence.com/moonpeak-malware-infrastructure-north-korea/"
+  ],
+  "country": "KP",
+  "countries": [
+    "KP"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "country": "KP",
+    "refs": [
+      "https://blog.talosintelligence.com/moonpeak-malware-infrastructure-north-korea/"
+    ]
+  },
+  "order": 731
+}

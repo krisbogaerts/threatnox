@@ -1,0 +1,21 @@
+{
+  "slug": "bamboo-spider",
+  "name": "BAMBOO SPIDER",
+  "uuid": "419599eb-c1ea-4d32-8c9e-0ad61d7c5ba5",
+  "description": "Crowdstrike tracks the developer of Panda Zeus as BAMBOO SPIDER",
+  "aliases": [],
+  "refs": [
+    "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018GlobalThreatReport.pdf",
+    "https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018GlobalThreatReport.pdf",
+      "https://www.crowdstrike.com/blog/cutwail-spam-campaign-uses-steganography-to-distribute-urlzone/"
+    ]
+  },
+  "order": 315
+}

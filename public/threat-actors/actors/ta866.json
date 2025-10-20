@@ -1,0 +1,21 @@
+{
+  "slug": "ta866",
+  "name": "TA866",
+  "uuid": "a3c22f46-5135-4b39-a33f-92906ac12c31",
+  "description": "According to Proofpoint, TA866 is a newly identified threat actor that distributes malware via email utilizing both commodity and custom tools. While most of the activity observed occurred since October 2022, Proofpoint researchers identified multiple activity clusters since 2019 that overlap with TA866 activity. Most of the activity recently observed by Proofpoint suggests recent campaigns are financially motivated, however assessment of historic related activities suggests a possible, additional espionage objective.",
+  "aliases": [],
+  "refs": [
+    "https://www.proofpoint.com/us/blog/threat-insight/screentime-sometimes-it-feels-like-somebodys-watching-me"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "cfr-type-of-incident": "Financial Theft",
+    "motive": "mainly financially motivated, additional espionage objective.",
+    "refs": [
+      "https://www.proofpoint.com/us/blog/threat-insight/screentime-sometimes-it-feels-like-somebodys-watching-me"
+    ]
+  },
+  "order": 417
+}

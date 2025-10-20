@@ -1,0 +1,102 @@
+{
+  "slug": "cleaver",
+  "name": "Cleaver",
+  "uuid": "86724806-7ec9-4a48-a0a7-ecbde3bf4810",
+  "description": "A group of cyber actors utilizing infrastructure located in Iran have been conducting computer network exploitation activity against public and private U.S. organizations, including Cleared Defense Contractors (CDCs), academic institutions, and energy sector companies. This threat actor targets entities in the government, energy, and technology sectors that are located in or do business with Saudi Arabia.",
+  "aliases": [
+    "Operation Cleaver",
+    "Op Cleaver",
+    "Tarh Andishan",
+    "Alibaba",
+    "TG-2889",
+    "Cobalt Gypsy",
+    "G0003"
+  ],
+  "refs": [
+    "https://www.secureworks.com/research/the-curious-case-of-mia-ash",
+    "https://www.cfr.org/interactive/cyber-operations/operation-cleaver",
+    "http://www.secureworks.com/cyber-threat-intelligence/threats/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles/",
+    "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-woolen-goldfish-when-kittens-go-phishing",
+    "https://www.secureworks.com/blog/iranian-pupyrat-bites-middle-eastern-organizations",
+    "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
+    "https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf",
+    "https://blog.checkpoint.com/wp-content/uploads/2015/11/rocket-kitten-report.pdf",
+    "https://attack.mitre.org/groups/G0003/",
+    "https://xorl.wordpress.com/2021/05/06/iran-cyber-operations-groups/",
+    "https://www.secureworks.com/research/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles",
+    "https://know.netenrich.com/threatintel/threat_actor/Cutting%20Kitten",
+    "https://www.cfr.org/cyber-operations/operation-cleaver",
+    "https://securityaffairs.co/wordpress/33682/cyber-crime/ali-baba-apt-middle-east.html",
+    "https://scadahacker.com/library/Documents/Cyber_Events/Cylance%20-%20Operation%20Cleaver%20Report.pdf"
+  ],
+  "country": "IR",
+  "countries": [
+    "IR"
+  ],
+  "sectors": [
+    "Private sector",
+    "Government"
+  ],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
+    "cfr-suspected-victims": [
+      "Canada",
+      "France",
+      "Israel",
+      "Mexico",
+      "Saudi Arabia",
+      "China",
+      "Germany",
+      "United States",
+      "Pakistan",
+      "South Korea",
+      "United Kingdom",
+      "India",
+      "Kuwait",
+      "Qatar",
+      "Turkey"
+    ],
+    "cfr-target-category": [
+      "Private sector",
+      "Government"
+    ],
+    "cfr-type-of-incident": "Espionage",
+    "country": "IR",
+    "refs": [
+      "https://www.secureworks.com/research/the-curious-case-of-mia-ash",
+      "https://www.cfr.org/interactive/cyber-operations/operation-cleaver",
+      "http://www.secureworks.com/cyber-threat-intelligence/threats/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles/",
+      "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-woolen-goldfish-when-kittens-go-phishing",
+      "https://www.secureworks.com/blog/iranian-pupyrat-bites-middle-eastern-organizations",
+      "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
+      "https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf",
+      "https://blog.checkpoint.com/wp-content/uploads/2015/11/rocket-kitten-report.pdf",
+      "https://attack.mitre.org/groups/G0003/",
+      "https://xorl.wordpress.com/2021/05/06/iran-cyber-operations-groups/",
+      "https://www.secureworks.com/research/suspected-iran-based-hacker-group-creates-network-of-fake-linkedin-profiles",
+      "https://know.netenrich.com/threatintel/threat_actor/Cutting%20Kitten",
+      "https://www.cfr.org/cyber-operations/operation-cleaver",
+      "https://securityaffairs.co/wordpress/33682/cyber-crime/ali-baba-apt-middle-east.html",
+      "https://scadahacker.com/library/Documents/Cyber_Events/Cylance%20-%20Operation%20Cleaver%20Report.pdf"
+    ],
+    "synonyms": [
+      "Operation Cleaver",
+      "Op Cleaver",
+      "Tarh Andishan",
+      "Alibaba",
+      "TG-2889",
+      "Cobalt Gypsy",
+      "G0003"
+    ],
+    "targeted-sector": [
+      "Defense",
+      "Energy",
+      "Technology",
+      "Government, Administration",
+      "Academia - University"
+    ]
+  },
+  "order": 49
+}

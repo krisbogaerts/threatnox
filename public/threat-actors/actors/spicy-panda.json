@@ -1,0 +1,24 @@
+{
+  "slug": "spicy-panda",
+  "name": "SPICY PANDA",
+  "uuid": "4959652d-72fa-46e4-be20-4ec686409bfb",
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "CN",
+    "refs": [
+      "http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"
+    ]
+  },
+  "order": 7
+}

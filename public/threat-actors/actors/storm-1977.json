@@ -1,0 +1,19 @@
+{
+  "slug": "storm-1977",
+  "name": "Storm-1977",
+  "uuid": "e02cea12-e033-49ab-843d-d67b45bfd794",
+  "description": "Storm-1977 is a sophisticated threat actor that conducts password-spraying attacks targeting cloud tenants, particularly in the education sector, utilizing the AzureChecker.exe CLI tool as their primary infection vector. They have successfully compromised over 200 containers, repurposing them for cryptocurrency mining operations by leveraging guest accounts to create new resource groups within compromised subscriptions. Microsoft Threat Intelligence researchers have identified unique operational patterns that distinguish Storm-1977 from other cryptomining threat actors. The group exploits compromised accounts as a primary attack surface in their operations.",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2025/04/23/understanding-the-threat-landscape-for-kubernetes-and-containerized-assets/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.microsoft.com/en-us/security/blog/2025/04/23/understanding-the-threat-landscape-for-kubernetes-and-containerized-assets/"
+    ]
+  },
+  "order": 845
+}

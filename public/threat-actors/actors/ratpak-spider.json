@@ -1,0 +1,19 @@
+{
+  "slug": "ratpak-spider",
+  "name": "RATPAK SPIDER",
+  "uuid": "ec3fda76-8c1c-4019-8109-3f92e6b15633",
+  "description": "In July 2018, the source code of Pegasus, RATPAK SPIDER’s malware framework, was anonymously leaked. This malware has been linked to the targeting of Russia’s financial sector. Associated malware, Buhtrap, which has been leaked previously, was observed this year in connection with SWC campaigns that also targeted Russian users.",
+  "aliases": [],
+  "refs": [
+    "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/"
+    ]
+  },
+  "order": 216
+}

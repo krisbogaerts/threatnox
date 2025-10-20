@@ -1,0 +1,24 @@
+{
+  "slug": "monty-spider",
+  "name": "MONTY SPIDER",
+  "uuid": "168a9e38-70e3-4542-b78f-afa2414436bb",
+  "description": "Spambots continued to decline in 2019, with MONTY SPIDER’s CraP2P spambot falling silent in April.",
+  "aliases": [
+    "Spandex Tempest"
+  ],
+  "refs": [
+    "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
+    ],
+    "synonyms": [
+      "Spandex Tempest"
+    ]
+  },
+  "order": 278
+}

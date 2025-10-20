@@ -1,0 +1,23 @@
+{
+  "slug": "frostyneighbor",
+  "name": "FrostyNeighbor",
+  "uuid": "ca448608-83fa-467d-8637-1cf004fd8e8a",
+  "description": "FrostyNeighbor is a Belarus-aligned APT group known for conducting influence and disinformation campaigns, particularly targeting Ukraine, Poland, and Lithuania. They have compromised various governmental and private sector entities, including the Polish Anti-Doping Agency, through hack-and-leak operations. The group is believed to collaborate with initial access brokers to exploit high-value targets, utilizing techniques such as zero-day vulnerabilities. Their operations are linked to cyber-enabled disinformation campaigns critical of the North Atlantic Alliance.",
+  "aliases": [],
+  "refs": [
+    "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2024-q3-2024.pdf"
+  ],
+  "country": "BY",
+  "countries": [
+    "BY"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "country": "BY",
+    "refs": [
+      "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2024-q3-2024.pdf"
+    ]
+  },
+  "order": 770
+}

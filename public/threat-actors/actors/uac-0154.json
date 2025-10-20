@@ -1,0 +1,19 @@
+{
+  "slug": "uac-0154",
+  "name": "UAC-0154",
+  "uuid": "8356805a-5612-449c-9fdc-cbe536c1f392",
+  "description": "UAC-0154 is a threat actor orchestrating the STARK#VORTEX phishing campaign, specifically targeting Ukraine’s military. They employ a Microsoft Help file containing obfuscated JavaScript as a lure, disguised as a manual for Pilot-in-Command Drones, to deliver the MerlinAgent malware. This PowerShell-based RAT is heavily obfuscated and downloads a payload from a remote server, enabling full control over compromised systems. The group initially targeted Ukrainian entities using military-themed documents sent via email to @ukr.net addresses.",
+  "aliases": [],
+  "refs": [
+    "https://www.securonix.com/blog/securonix-threat-labs-monthly-intelligence-insights-september-2023/"
+  ],
+  "countries": [],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "refs": [
+      "https://www.securonix.com/blog/securonix-threat-labs-monthly-intelligence-insights-september-2023/"
+    ]
+  },
+  "order": 728
+}

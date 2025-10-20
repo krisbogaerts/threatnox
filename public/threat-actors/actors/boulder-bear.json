@@ -1,0 +1,19 @@
+{
+  "slug": "boulder-bear",
+  "name": "Boulder Bear",
+  "uuid": "85b40169-3d1c-491b-9fbf-877ed57f32e0",
+  "description": "First observed activity in December 2013.",
+  "aliases": [],
+  "refs": [],
+  "country": "RU",
+  "countries": [
+    "RU"
+  ],
+  "sectors": [],
+  "related": [],
+  "rawMeta": {
+    "attribution-confidence": "50",
+    "country": "RU"
+  },
+  "order": 62
+}
