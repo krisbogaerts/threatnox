@@ -63,7 +63,8 @@ jobs:
         run: newsboat -u ./news-live/config/urls -C ./news-live/config/newsboat-config -c ./news-live/cache.db -x reload
 
       - name: Run liveboat
-        run: ./bin/liveboat --template-path ./news-live/templates/default --config-file ./news-live/config/liveboat-config.toml
+        run: |
+          (cd news-live && ./bin/liveboat --template-path ./templates/default --config-file ./config/liveboat-config.toml)
 
       - name: Truncate database
         run: |

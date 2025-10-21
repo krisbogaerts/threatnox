@@ -20,4 +20,4 @@ show_read_articles = true
 # and typically should not be changed.
 newsboat_urls_file = "./config/urls"
 newsboat_cache_file = "./cache.db"
-build_dir = "./news-live/docs"
+build_dir = "./docs"
