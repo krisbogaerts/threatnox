@@ -66,6 +66,11 @@ jobs:
         run: |
           (cd news-live && ./bin/liveboat --template-path ./templates/default --config-file ./config/liveboat-config.toml)
 
+      - name: List generated artifacts
+        run: |
+          echo "Listing contents of news-live/docs:" 
+          ls -la ./news-live/docs || true
+
       - name: Truncate database
         run: |
           (cd news-live && ./scripts/truncate_db ${{ env.NEWSBOAT_CACHE_RETENTION_DAYS }})
@@ -76,6 +81,7 @@ jobs:
         run: |
           mkdir -p ./public/threat-news-live
           if [ -f ./news-live/docs/rss.xml ]; then cp ./news-live/docs/rss.xml ./public/threat-news-live/rss.xml; fi
+          if [ -f ./news-live/docs/opml.xml ]; then cp ./news-live/docs/opml.xml ./public/threat-news-live/opml.xml; fi
           if [ -f ./news-live/docs/build_time.txt ]; then cp ./news-live/docs/build_time.txt ./public/threat-news-live/build_time.txt; fi
         shell: bash
 
@@ -83,6 +89,7 @@ jobs:
         id: commit
         run: |
           git add ./public/threat-news-live/rss.xml || true
+          git add ./public/threat-news-live/opml.xml || true
           git add ./public/threat-news-live/build_time.txt || true
           let ts=$(date +"%s")
           git diff-index --quiet HEAD || git commit -m "Feed rebuild @ ${ts}" -a
