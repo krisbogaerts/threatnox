@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-21T19:10:02.220Z",
+  "updatedAt": "2025-10-21T20:13:26.165Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Nelligan White Architects",
+      "link": "https://www.ransomware.live/id/TmVsbGlnYW4gV2hpdGUgQXJjaGl0ZWN0c0BwbGF5",
+      "summary": "United States",
+      "pubDate": "Tue, 21 Oct 2025 19:18:06 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?25a4a07940c323fdd4dc2e027f7673c5",
+      "group": "Play",
+      "victim": "Nelligan White Architects",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : National Coatings",
+      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgQ29hdGluZ3NAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Tue, 21 Oct 2025 19:17:26 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/play?9c9a8e67dc184a776f72e580d387796a",
+      "group": "Play",
+      "victim": "National Coatings",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Prime Dental",
       "link": "https://www.ransomware.live/id/UHJpbWUgRGVudGFsQHNpbm9iaQ==",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Gittens Healthcare",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Trans-World Shipping Service",
-      "link": "https://www.ransomware.live/id/VHJhbnMtV29ybGQgU2hpcHBpbmcgU2VydmljZUBxaWxpbg==",
-      "summary": "Trans-World Shipping Service, Inc. and Toledo Air Cargo, Inc. are full-service companies offering a wide variety of import and export services including US customs brokerage, international freight forwarding, air freight services, warehousing            ...",
-      "pubDate": "Tue, 14 Oct 2025 20:21:42 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?26f7c188fbcad160c8643f830c2ba26e",
-      "group": "Qilin",
-      "victim": "Trans-World Shipping Service",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Addis",
-      "link": "https://www.ransomware.live/id/QWRkaXNAcWlsaW4=",
-      "summary": "Addis, Louisiana, located in West Baton Rouge Parish, along the Mississippi River, situated on Louisiana Highway One, is located just minutes from Louisiana’s State Capitol City – Baton Rouge. The Town of Addis is a growing town, home to             ...",
-      "pubDate": "Tue, 14 Oct 2025 20:21:04 +0000",
-      "category": "ET",
-      "guid": "https://www.ransomware.live/group/qilin?11ef9ab40a44996ba28ba7e9af0828b7",
-      "group": "Qilin",
-      "victim": "Addis",
-      "country": "ET"
     }
   ]
 }
