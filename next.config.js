@@ -89,6 +89,8 @@ module.exports = () => {
         },
       ]
     },
+    async redirects() { return [] },
+    async rewrites() { return [] },
     webpack: (config, options) => {
       config.module.rules.push({
         test: /\.svg$/,
