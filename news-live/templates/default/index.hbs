@@ -1,0 +1,150 @@
+<html lang=''>
+  <head>
+    <meta charset='utf-8' />
+
+    <title>{{options.title}}</title>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge' />
+    <meta name='description' content='{{options.title}}' />
+    <meta name='viewport' content='width=device-width, initial-scale=1' />
+
+    <meta name='mobile-web-app-capable' content='yes' />
+
+    <link rel='icon' href='./assets/favicon.ico' type='image/x-icon' />
+    <link rel='apple-touch-icon' href='./assets/apple-touch-icon.png' />
+    <link rel='icon' type='image/png' sizes='16x16' href='./assets/favicon-16x16.png' />
+    <link rel='icon' type='image/png' sizes='32x32' href='./assets/favicon-32x32.png' />
+    <link rel='icon' type='image/png' sizes='192x192' href='./assets/android-chrome-192x192.png' />
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name='apple-mobile-web-app-capable' content='yes' />
+    <meta name='apple-mobile-web-app-status-bar-style' content='black' />
+    <meta name='apple-mobile-web-app-title' content='{{options.title}}' />
+
+    <link rel='stylesheet' href='./assets/index.css?tv={{template_version}}' />
+    <style>
+      :root {
+      {{#if template_settings.text-color}}
+        --color-text:
+        {{template_settings.text-color}}
+        !important;
+      {{/if}}
+      {{#if template_settings.highlight-color}}
+        --color-highlight:
+        {{template_settings.highlight-color}}
+        !important;
+      {{/if}}
+      {{#if template_settings.accent-color}}
+        --color-accent:
+        {{template_settings.accent-color}}
+        !important;
+      {{/if}}
+      {{#if template_settings.background-color}}
+        --color-background:
+        {{template_settings.background-color}}
+        !important;
+      {{/if}}
+      {{#if template_settings.custom-color}}
+        --color-custom:
+        {{template_settings.custom-color}}
+        !important;
+      {{/if}}
+      }
+    </style>
+
+  </head>
+  <body>
+    <script>
+      window.buildTime =
+      {{build_time}}; window.templateVer = "{{template_version}}"; window.pageTitle = '{{options.title}}';
+      window.sitePath = '{{options.site_path}}'; window.templateVersion = "{{template_version}}";
+      window.feeds = [
+      {{#each feeds}}
+        {{#unless this.isEmpty}}
+          {{#unless this.isHidden}}
+            { id: "{{this.id}}", url: "{{this.url}}", title: "{{this.title}}", displayTitle: "{{this.displayTitle}}",
+            feedLink: "{{this.feedLink}}", itemCount: "{{this.itemCount}}", isQuery:
+            {{this.isQuery}}, tags: [{{#each this.tags}}
+              "{{this}}",
+            {{/each}}] },
+          {{/unless}}
+        {{/unless}}
+      {{/each}}
+      ];
+      {{#if template_settings.autoreload}}
+        window.autoreload =
+        {{template_settings.autoreload}}
+      {{/if}}
+      {{#if template_settings.default-filter}}
+        window.defaultFilter = "{{template_settings.default-filter}}"
+      {{/if}}
+      {{#with (lookup template_settings 'repo-url') as |repoUrl|}}
+        {{#if repoUrl}}
+          window.repoUrl = "{{repoUrl}}"
+        {{/if}}
+      {{/with}}
+      {{#if template_settings.subheader-text}}
+        window.subHeaderText = "{{template_settings.subheader-text}}"
+      {{/if}}
+      {{#with (lookup template_settings 'header-svg') as |headerSvg|}}
+        {{#if headerSvg}}
+          window.headerSvg = "{{headerSvg}}"
+        {{/if}}
+      {{/with}}
+    </script>
+    <div id='app'></div>
+
+    <script type='module' src='./assets/index.js?tv={{template_version}}'></script>
+    <script>
+      // Apply default filter (e.g., Last day) by simulating a click on the matching control
+      (function(){ const key = window.defaultFilter; if(!key) return; const map = { last_day: 'Last
+      day', last_20: 'Last 20', last_50: 'Last 50', firehose: 'Firehose' }; const label = map[key];
+      if(!label) return; function tryClick(){ try { const els =
+      Array.from(document.querySelectorAll('button, a')); const target = els.find(el =>
+      (el.textContent||'').trim().toLowerCase() === label.toLowerCase()); if(target){
+      target.click(); return true; } } catch(_){} return false; } function init(){ if(tryClick())
+      return; const mo = new MutationObserver(()=>{ if(tryClick()) mo.disconnect(); });
+      mo.observe(document.body, {childList:true, subtree:true}); setTimeout(()=>mo.disconnect(),
+      10000); } if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',
+      init); else init(); })();
+    </script>
+    <script>
+      // Post-process default credit to avoid redirecting to the Liveboat repo (function () { const
+      replacementHref = window.repoUrl || 'https://github.com/krisbogaerts/news-securehub'; const
+      replacementLabel = 'SecureHub'; const hrefRegex = /liveboat/i; // match any link that points
+      to 'liveboat' function retargetAll() { try { const anchors =
+      Array.from(document.querySelectorAll('a[href]')) .filter(a =>
+      hrefRegex.test(a.getAttribute('href') || '')); if (anchors.length === 0) return;
+      anchors.forEach(a => { a.setAttribute('href', replacementHref); a.setAttribute('rel',
+      'noopener noreferrer'); a.setAttribute('target', '_blank'); // If the link text contains
+      'liveboat', relabel it if (a.textContent && /liveboat/i.test(a.textContent)) { a.textContent =
+      replacementLabel; } // If parent text includes credit phrase, lightly tweak it const parent =
+      a.parentElement; if (parent && parent.textContent && /generated/i.test(parent.textContent) &&
+      /liveboat/i.test(parent.textContent)) { parent.textContent =
+      parent.textContent.replace(/liveboat/ig, replacementLabel); parent.appendChild(a); } }); }
+      catch (_) {} } // Try to rewrite or hide the credit text even if it's not a link function
+      rewriteFooterCredit() { try { const nodes = Array.from(document.querySelectorAll('footer, div,
+      p, span, small')); for (const el of nodes) { const txt = (el.textContent || '').trim(); if
+      (/generated\s+with/i.test(txt) && /liveboat/i.test(txt)) { if (window.repoUrl) { el.innerHTML
+      = `Page generated with <span aria-label="love">❤</span> by <a href="${replacementHref}"
+      target="_blank" rel="noopener noreferrer">${replacementLabel}</a>`; } else { // If no repoUrl,
+      just drop the brand name el.textContent = txt.replace(/liveboat/ig, replacementLabel); } //
+      stop after first match break; } } } catch (_) {} } function setupObserver() { try { const mo =
+      new MutationObserver(() => retargetAll()); mo.observe(document.body, { childList: true,
+      subtree: true }); // Keep the observer for a while to catch SPA route changes setTimeout(() =>
+      mo.disconnect(), 60000); } catch (_) {} } // Periodic polling to catch very late insertions
+      let tick = 0; const interval = setInterval(() => { retargetAll(); if (++tick > 60)
+      clearInterval(interval); }, 1000); if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', () => { retargetAll(); setupObserver(); }); }
+      else { retargetAll(); rewriteFooterCredit(); setupObserver(); // Also schedule a retry after
+      SPA mounts setTimeout(() => { retargetAll(); rewriteFooterCredit(); }, 800); } // Intercept
+      clicks on any 'liveboat' credit links and redirect to replacement
+      document.addEventListener('click', function (e) { const a = e.target && e.target.closest ?
+      e.target.closest('a[href]') : null; if (!a) return; const href = a.getAttribute('href') || '';
+      if (/liveboat/i.test(href)) { e.preventDefault(); try { window.open(replacementHref, '_blank',
+      'noopener'); } catch (_) {} } }, true); // Also poll a few times to catch very late inserts
+      let tries = 0; const maxTries = 30; const poll = setInterval(() => { retargetAll();
+      rewriteFooterCredit(); if (++tries >= maxTries) clearInterval(poll); }, 500); })();
+    </script>
+
+  </body>
+</html>

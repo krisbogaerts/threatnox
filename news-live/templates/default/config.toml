@@ -1,0 +1,17 @@
+version = "1.2.8"
+builder = "spa"
+
+[template_settings]
+text-color = "#c7cfcc"
+accent-color = "#2D4566"
+highlight-color = "#73bed3"
+background-color = "#121414"
+autoreload = "1"
+custom-color = "#f3a833"
+subheader-text = "SecureHub — curated cybersecurity news"
+# To show a GitHub corner linking to your repo, set the URL below.
+repo-url = "https://github.com/krisbogaerts/news-securehub"
+# Set a custom header icon (SVG). Put the file under templates/default/include/assets/.
+header-svg = "./assets/logo.svg"
+ # Default filter on load: one of last_20, last_50, last_day, firehose
+ default-filter = "last_day"
