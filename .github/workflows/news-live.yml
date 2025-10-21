@@ -55,7 +55,7 @@ jobs:
 
       - name: Update Liveboat version and templates
         run: |
-          make update;
+          make -C news-live update;
           git add ./news-live/templates ./news-live/config
         if: env.ENABLE_AUTOMATIC_UPDATES == '1'
 
