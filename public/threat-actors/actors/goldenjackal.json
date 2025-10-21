@@ -13,9 +13,7 @@
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Germany"
-    ],
+    "cfr-suspected-victims": ["Germany"],
     "refs": [
       "https://securelist.com/it-threat-evolution-q2-2023/110355/",
       "https://securelist.com/goldenjackal-apt-group/109677/",

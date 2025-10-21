@@ -3,29 +3,21 @@
   "name": "GOLD BURLAP",
   "uuid": "d34ca487-1613-4ee5-8930-2ac8a60f945f",
   "description": "GOLD BURLAP is a group of financially motivated criminals responsible for the development of the Pysa ransomware, also referred to as Mespinoza. Pysa is a cross-platform ransomware with known versions written in C++ and Python. As of December 2020, approximately 50 organizations had reportedly been targeted in Pysa ransomware attacks. The operators leverage 'name and shame' tactics to apply additional pressure to victims. As of January 2021, CTU researchers had found no Pysa advertisements on underground forums, which likely indicates that it is not operated as ransomware as a service (RaaS).",
-  "aliases": [
-    "CYBORG SPIDER"
-  ],
+  "aliases": ["CYBORG SPIDER"],
   "refs": [
     "http://www.secureworks.com/research/threat-profiles/gold-burlap",
     "https://www.hhs.gov/sites/default/files/mespinoza-goldburlap-cyborgspider-analystnote-tlpwhite.pdf"
   ],
   "countries": [],
-  "sectors": [
-    "Healthcare"
-  ],
+  "sectors": ["Healthcare"],
   "related": [],
   "rawMeta": {
-    "cfr-target-category": [
-      "Healthcare"
-    ],
+    "cfr-target-category": ["Healthcare"],
     "refs": [
       "http://www.secureworks.com/research/threat-profiles/gold-burlap",
       "https://www.hhs.gov/sites/default/files/mespinoza-goldburlap-cyborgspider-analystnote-tlpwhite.pdf"
     ],
-    "synonyms": [
-      "CYBORG SPIDER"
-    ]
+    "synonyms": ["CYBORG SPIDER"]
   },
   "order": 321
 }

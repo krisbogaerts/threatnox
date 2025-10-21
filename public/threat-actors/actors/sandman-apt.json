@@ -6,13 +6,8 @@
   "aliases": [],
   "refs": [],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "Government",
-    "Telecommunications"
-  ],
+  "countries": ["CN"],
+  "sectors": ["Government", "Telecommunications"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -38,10 +33,7 @@
       "Iraq",
       "United Arab Emirates"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Telecommunications"
-    ],
+    "cfr-target-category": ["Government", "Telecommunications"],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "references": [

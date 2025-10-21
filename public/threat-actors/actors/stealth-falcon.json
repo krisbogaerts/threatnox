@@ -3,10 +3,7 @@
   "name": "Stealth Falcon",
   "uuid": "dab75e38-6969-4e78-9304-dc269c3cbcf0",
   "description": "This threat actor targets civil society groups and Emirati journalists, activists, and dissidents. ",
-  "aliases": [
-    "FruityArmor",
-    "G0038"
-  ],
+  "aliases": ["FruityArmor", "G0038"],
   "refs": [
     "https://citizenlab.ca/2016/05/stealth-falcon/",
     "https://www.cfr.org/interactive/cyber-operations/stealth-falcon",
@@ -14,23 +11,14 @@
     "https://attack.mitre.org/groups/G0038/"
   ],
   "country": "AE",
-  "countries": [
-    "AE"
-  ],
-  "sectors": [
-    "Civil society"
-  ],
+  "countries": ["AE"],
+  "sectors": ["Civil society"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "United Arab Emirates",
-    "cfr-suspected-victims": [
-      "United Arab Emirates",
-      "United Kingdom"
-    ],
-    "cfr-target-category": [
-      "Civil society"
-    ],
+    "cfr-suspected-victims": ["United Arab Emirates", "United Kingdom"],
+    "cfr-target-category": ["Civil society"],
     "cfr-type-of-incident": "Espionage",
     "country": "AE",
     "refs": [
@@ -39,16 +27,8 @@
       "https://securelist.com/cve-2019-0797-zero-day-vulnerability/89885/",
       "https://attack.mitre.org/groups/G0038/"
     ],
-    "synonyms": [
-      "FruityArmor",
-      "G0038"
-    ],
-    "targeted-sector": [
-      "Activists",
-      "Dissidents",
-      "Journalist",
-      "Civil society"
-    ]
+    "synonyms": ["FruityArmor", "G0038"],
+    "targeted-sector": ["Activists", "Dissidents", "Journalist", "Civil society"]
   },
   "order": 73
 }

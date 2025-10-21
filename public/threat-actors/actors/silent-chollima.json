@@ -18,9 +18,7 @@
     "https://www.microsoft.com/en-us/security/blog/2023/10/18/multiple-north-korean-threat-actors-exploiting-the-teamcity-cve-2023-42793-vulnerability/"
   ],
   "country": "KP",
-  "countries": [
-    "KP"
-  ],
+  "countries": ["KP"],
   "sectors": [],
   "related": [],
   "rawMeta": {

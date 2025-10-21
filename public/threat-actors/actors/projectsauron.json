@@ -3,12 +3,7 @@
   "name": "ProjectSauron",
   "uuid": "f3179cfb-9c86-4980-bd6b-e4fa74adaaa7",
   "description": "ProjectSauron is the name for a top level modular cyber-espionage platform, designed to enable and manage long-term campaigns through stealthy survival mechanisms coupled with multiple exfiltration methods.  Technical details show how attackers learned from other extremely advanced actors in order to avoid repeating their mistakes. As such, all artifacts are customized per given target, reducing their value as indicators of compromise for any other victim.  Usually APT campaigns have a geographical nexus, aimed at extracting information within a specific region or from a given industry. That usually results in several infections in countries within that region, or in the targeted industry around the world. Interestingly, ProjectSauron seems to be dedicated to just a couple of countries, focused on collecting high value intelligence by compromising almost all key entities it could possibly reach within the target area.  The name, ProjectSauron reflects the fact that the code authors refer to ‘Sauron’ in the Lua scripts.",
-  "aliases": [
-    "Strider",
-    "Sauron",
-    "Project Sauron",
-    "G0041"
-  ],
+  "aliases": ["Strider", "Sauron", "Project Sauron", "G0041"],
   "refs": [
     "https://securelist.com/analysis/publications/75533/faq-the-projectsauron-apt/",
     "https://www.cfr.org/interactive/cyber-operations/project-sauron",
@@ -17,29 +12,14 @@
     "https://attack.mitre.org/groups/G0041/"
   ],
   "country": "US",
-  "countries": [
-    "US"
-  ],
-  "sectors": [
-    "Government",
-    "Military"
-  ],
+  "countries": ["US"],
+  "sectors": ["Government", "Military"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "United States",
-    "cfr-suspected-victims": [
-      "Russia",
-      "Iran",
-      "Belgium",
-      "China",
-      "Sweden",
-      "Rwanda"
-    ],
-    "cfr-target-category": [
-      "Government",
-      "Military"
-    ],
+    "cfr-suspected-victims": ["Russia", "Iran", "Belgium", "China", "Sweden", "Rwanda"],
+    "cfr-target-category": ["Government", "Military"],
     "cfr-type-of-incident": "Espionage",
     "country": "US",
     "refs": [
@@ -49,15 +29,8 @@
       "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07190154/The-ProjectSauron-APT_research_KL.pdf",
       "https://attack.mitre.org/groups/G0041/"
     ],
-    "synonyms": [
-      "Strider",
-      "Sauron",
-      "Project Sauron",
-      "G0041"
-    ],
-    "targeted-sector": [
-      "Intelligence"
-    ]
+    "synonyms": ["Strider", "Sauron", "Project Sauron", "G0041"],
+    "targeted-sector": ["Intelligence"]
   },
   "order": 79
 }

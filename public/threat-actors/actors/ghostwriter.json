@@ -3,14 +3,7 @@
   "name": "Ghostwriter",
   "uuid": "749aaa11-f0fd-416b-bf6c-112f9b5930a5",
   "description": "Ghostwriter is referred as an 'activity set', with various incidents tied together by overlapping behavioral characteristics and personas, rather than as an actor or group in itself.",
-  "aliases": [
-    "UNC1151",
-    "TA445",
-    "PUSHCHA",
-    "Storm-0257",
-    "DEV-0257",
-    "UAC-0057"
-  ],
+  "aliases": ["UNC1151", "TA445", "PUSHCHA", "Storm-0257", "DEV-0257", "UAC-0057"],
   "refs": [
     "https://www.fireeye.com/blog/threat-research/2020/07/ghostwriter-influence-campaign.html",
     "https://twitter.com/hatr/status/1377220336597483520",
@@ -24,26 +17,14 @@
     "https://cert.gov.ua/article/5098518"
   ],
   "country": "BY",
-  "countries": [
-    "BY"
-  ],
-  "sectors": [
-    "Government"
-  ],
+  "countries": ["BY"],
+  "sectors": ["Government"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "Belarus",
-    "cfr-suspected-victims": [
-      "Germany",
-      "Latvia",
-      "Lithuania",
-      "Poland",
-      "Ukraine"
-    ],
-    "cfr-target-category": [
-      "Government"
-    ],
+    "cfr-suspected-victims": ["Germany", "Latvia", "Lithuania", "Poland", "Ukraine"],
+    "cfr-target-category": ["Government"],
     "country": "BY",
     "refs": [
       "https://www.fireeye.com/blog/threat-research/2020/07/ghostwriter-influence-campaign.html",
@@ -57,14 +38,7 @@
       "https://socprime.com/blog/picassoloader-and-cobalt-strike-beacon-detection-uac-0057-aka-ghostwriter-hacking-group-attacks-the-ukrainian-leading-military-educational-institution/",
       "https://cert.gov.ua/article/5098518"
     ],
-    "synonyms": [
-      "UNC1151",
-      "TA445",
-      "PUSHCHA",
-      "Storm-0257",
-      "DEV-0257",
-      "UAC-0057"
-    ]
+    "synonyms": ["UNC1151", "TA445", "PUSHCHA", "Storm-0257", "DEV-0257", "UAC-0057"]
   },
   "order": 305
 }

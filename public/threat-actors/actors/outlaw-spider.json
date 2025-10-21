@@ -20,9 +20,7 @@
       "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf",
       "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeServicesCyberFrontLines.pdf"
     ],
-    "targeted-sector": [
-      "Government, Administration"
-    ]
+    "targeted-sector": ["Government, Administration"]
   },
   "order": 318
 }

@@ -3,11 +3,7 @@
   "name": "Common Raven",
   "uuid": "da581c60-7c3d-4de6-b54c-cafea1c58389",
   "description": "Threat actor Common Raven has been actively targeting financial sector institutions, compromising their SWIFT payment infrastructure to send out fraudulent payments.",
-  "aliases": [
-    "OPERA1ER",
-    "NXSMS",
-    "DESKTOP-GROUP"
-  ],
+  "aliases": ["OPERA1ER", "NXSMS", "DESKTOP-GROUP"],
   "refs": [
     "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-common-raven-iocs",
     "https://www2.swift.com/isac/report/10118",
@@ -22,11 +18,7 @@
       "https://www2.swift.com/isac/report/10118",
       "https://blog.group-ib.com/opera1er-apt"
     ],
-    "synonyms": [
-      "OPERA1ER",
-      "NXSMS",
-      "DESKTOP-GROUP"
-    ]
+    "synonyms": ["OPERA1ER", "NXSMS", "DESKTOP-GROUP"]
   },
   "order": 338
 }

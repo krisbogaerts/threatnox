@@ -3,22 +3,14 @@
   "name": "Aggressive Inventory Zombies",
   "uuid": "ceabe862-3d89-4696-9d7f-32a4850334d9",
   "description": "Aggressive Inventory Zombies is a threat actor involved in a large-scale phishing and pig-butchering network targeting retail brands and cryptocurrency users. They create fraudulent sites using a popular website template that scrapes product details from legitimate e-commerce platforms and integrate chat services for phishing. Financial ties to India have been identified, and collaboration with Stark Industries has led to the dismantling of parts of their infrastructure, revealing the network's breadth. AIZ is also linked to Entropy ransomware infections, which were preceded by detections of Cobalt Strike beacons and Dridex malware.",
-  "aliases": [
-    "AIZ"
-  ],
-  "refs": [
-    "https://www.silentpush.com/blog/aiz-retail-crypto-phishing/"
-  ],
+  "aliases": ["AIZ"],
+  "refs": ["https://www.silentpush.com/blog/aiz-retail-crypto-phishing/"],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.silentpush.com/blog/aiz-retail-crypto-phishing/"
-    ],
-    "synonyms": [
-      "AIZ"
-    ]
+    "refs": ["https://www.silentpush.com/blog/aiz-retail-crypto-phishing/"],
+    "synonyms": ["AIZ"]
   },
   "order": 788
 }

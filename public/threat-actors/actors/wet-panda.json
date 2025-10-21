@@ -3,27 +3,17 @@
   "name": "WET PANDA",
   "uuid": "ba8973b2-fd97-4aa7-9307-ea4838d96428",
   "description": "",
-  "aliases": [
-    "Red Chimera"
-  ],
-  "refs": [
-    "http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"
-  ],
+  "aliases": ["Red Chimera"],
+  "refs": ["http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "country": "CN",
-    "refs": [
-      "http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"
-    ],
-    "synonyms": [
-      "Red Chimera"
-    ]
+    "refs": ["http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"],
+    "synonyms": ["Red Chimera"]
   },
   "order": 3
 }

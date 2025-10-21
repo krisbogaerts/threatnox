@@ -37,14 +37,8 @@
     "https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-and-vietnam"
   ],
   "country": "VN",
-  "countries": [
-    "VN"
-  ],
-  "sectors": [
-    "Government",
-    "Private sector",
-    "Civil society"
-  ],
+  "countries": ["VN"],
+  "sectors": ["Government", "Private sector", "Civil society"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -57,11 +51,7 @@
       "Philippines",
       "Association of Southeast Asian Nations"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Private sector",
-      "Civil society"
-    ],
+    "cfr-target-category": ["Government", "Private sector", "Civil society"],
     "cfr-type-of-incident": "Espionage",
     "country": "VN",
     "refs": [
@@ -97,11 +87,7 @@
       "G0050",
       "Canvas Cyclone"
     ],
-    "targeted-sector": [
-      "Dissidents",
-      "Government, Administration",
-      "Journalist"
-    ]
+    "targeted-sector": ["Dissidents", "Government, Administration", "Journalist"]
   },
   "order": 109
 }

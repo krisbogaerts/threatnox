@@ -3,12 +3,7 @@
   "name": "GALLIUM",
   "uuid": "e400b6c5-77cf-453d-ba0f-44575583ac6c",
   "description": "GALLIUM, is a threat actor believed to be targeting telecommunication providers over the world, mostly South-East Asia, Europe and Africa. To compromise targeted networks, GALLIUM target unpatched internet-facing services using publicly available exploits and have been known to target vulnerabilities in WildFly/JBoss.",
-  "aliases": [
-    "Red Dev 4",
-    "Alloy Taurus",
-    "Granite Typhoon",
-    "PHANTOM PANDA"
-  ],
+  "aliases": ["Red Dev 4", "Alloy Taurus", "Granite Typhoon", "PHANTOM PANDA"],
   "refs": [
     "https://www.microsoft.com/security/blog/2019/12/12/gallium-targeting-global-telecom/",
     "https://www.youtube.com/watch?v=fBFm2fiEPTg",
@@ -17,9 +12,7 @@
     "https://unit42.paloaltonetworks.com/alloy-taurus-targets-se-asian-government/"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -31,12 +24,7 @@
       "https://unit42.paloaltonetworks.com/atoms/alloytaurus/",
       "https://unit42.paloaltonetworks.com/alloy-taurus-targets-se-asian-government/"
     ],
-    "synonyms": [
-      "Red Dev 4",
-      "Alloy Taurus",
-      "Granite Typhoon",
-      "PHANTOM PANDA"
-    ]
+    "synonyms": ["Red Dev 4", "Alloy Taurus", "Granite Typhoon", "PHANTOM PANDA"]
   },
   "order": 292
 }

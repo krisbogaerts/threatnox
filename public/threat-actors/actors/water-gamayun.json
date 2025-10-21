@@ -4,20 +4,14 @@
   "uuid": "a9d807bc-2ecd-47f8-be7e-d1b96e876c9d",
   "description": "Water Gamayun exploits the MSC EvilTwin zero-day vulnerability to compromise systems and exfiltrate data, utilizing custom payloads and advanced data exfiltration techniques. Their arsenal includes backdoors like SilentPrism and DarkWisp, as well as information stealers such as Stealc and Rhadamanthys. They employ delivery methods like provisioning malicious payloads through signed Microsoft Installer files and leveraging LOLBins to maintain persistence and control over infected systems. Comprehensive analysis of their command-and-control infrastructure reveals sophisticated evasion techniques and dynamic control capabilities.",
   "aliases": [],
-  "refs": [
-    "https://www.trendmicro.com/en_us/research/25/c/deep-dive-into-water-gamayun.html"
-  ],
+  "refs": ["https://www.trendmicro.com/en_us/research/25/c/deep-dive-into-water-gamayun.html"],
   "country": "RU",
-  "countries": [
-    "RU"
-  ],
+  "countries": ["RU"],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "country": "RU",
-    "refs": [
-      "https://www.trendmicro.com/en_us/research/25/c/deep-dive-into-water-gamayun.html"
-    ]
+    "refs": ["https://www.trendmicro.com/en_us/research/25/c/deep-dive-into-water-gamayun.html"]
   },
   "order": 833
 }

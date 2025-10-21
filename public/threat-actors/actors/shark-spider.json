@@ -6,17 +6,13 @@
   "aliases": [],
   "refs": [],
   "country": "RU",
-  "countries": [
-    "RU"
-  ],
+  "countries": ["RU"],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "country": "RU",
-    "targeted-sector": [
-      "Bank"
-    ]
+    "targeted-sector": ["Bank"]
   },
   "order": 63
 }

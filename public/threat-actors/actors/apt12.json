@@ -24,25 +24,14 @@
     "https://www.mandiant.com/resources/insights/apt-groups"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "Private sector",
-    "Government"
-  ],
+  "countries": ["CN"],
+  "sectors": ["Private sector", "Government"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "Taiwan",
-      "Japan"
-    ],
-    "cfr-target-category": [
-      "Private sector",
-      "Government"
-    ],
+    "cfr-suspected-victims": ["Taiwan", "Japan"],
+    "cfr-target-category": ["Private sector", "Government"],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [

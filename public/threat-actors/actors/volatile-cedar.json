@@ -3,10 +3,7 @@
   "name": "Volatile Cedar",
   "uuid": "cf421ce6-ddfe-419a-bc65-6a9fc953232a",
   "description": "Beginning in late 2012, a carefully orchestrated attack campaign we call Volatile Cedar has been targeting individuals, companies and institutions worldwide. This campaign, led by a persistent attacker group, has successfully penetrated a large number of targets using various attack techniques, and specifically, a custom-made malware implant codenamed Explosive.",
-  "aliases": [
-    "Lebanese Cedar",
-    "DeftTorero"
-  ],
+  "aliases": ["Lebanese Cedar", "DeftTorero"],
   "refs": [
     "https://blog.checkpoint.com/2015/03/31/volatilecedar/",
     "https://blog.checkpoint.com/2015/06/09/new-data-volatile-cedar/",
@@ -16,9 +13,7 @@
     "https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/"
   ],
   "country": "LB",
-  "countries": [
-    "LB"
-  ],
+  "countries": ["LB"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -31,16 +26,8 @@
       "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/03/20082004/volatile-cedar-technical-report.pdf",
       "https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/"
     ],
-    "suspected-victims": [
-      "Middle East",
-      "Israel",
-      "Lebanon",
-      "Saudi Arabia"
-    ],
-    "synonyms": [
-      "Lebanese Cedar",
-      "DeftTorero"
-    ]
+    "suspected-victims": ["Middle East", "Israel", "Lebanon", "Saudi Arabia"],
+    "synonyms": ["Lebanese Cedar", "DeftTorero"]
   },
   "order": 87
 }

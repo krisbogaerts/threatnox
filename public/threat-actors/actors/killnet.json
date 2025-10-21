@@ -10,18 +10,11 @@
     "https://www.expats.cz/czech-news/article/pro-russian-hackers-target-czech-websites-in-a-series-of-attacks"
   ],
   "countries": [],
-  "sectors": [
-    "Government"
-  ],
+  "sectors": ["Government"],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "United States",
-      "Czech Republic"
-    ],
-    "cfr-target-category": [
-      "Government"
-    ],
+    "cfr-suspected-victims": ["United States", "Czech Republic"],
+    "cfr-target-category": ["Government"],
     "cfr-type-of-incident": "Denial of service",
     "refs": [
       "https://www.cisa.gov/uscert/ncas/alerts/aa22-110a",

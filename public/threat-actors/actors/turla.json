@@ -69,13 +69,8 @@
     "https://cip.gov.ua/services/cm/api/attachment/download?id=60068"
   ],
   "country": "RU",
-  "countries": [
-    "RU"
-  ],
-  "sectors": [
-    "Government",
-    "Military"
-  ],
+  "countries": ["RU"],
+  "sectors": ["Government", "Military"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -97,10 +92,7 @@
       "Uzbekistan",
       "Iraq"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Military"
-    ],
+    "cfr-target-category": ["Government", "Military"],
     "cfr-type-of-incident": "Espionage",
     "country": "RU",
     "refs": [
@@ -168,13 +160,7 @@
       "UAC-0024",
       "UAC-0003"
     ],
-    "targeted-sector": [
-      "Government, Administration",
-      "Education",
-      "Electric",
-      "Energy",
-      "Health"
-    ]
+    "targeted-sector": ["Government, Administration", "Education", "Electric", "Energy", "Health"]
   },
   "order": 55
 }

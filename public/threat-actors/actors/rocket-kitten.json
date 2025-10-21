@@ -22,13 +22,8 @@
     "https://www.cfr.org/interactive/cyber-operations/rocket-kitten"
   ],
   "country": "IR",
-  "countries": [
-    "IR"
-  ],
-  "sectors": [
-    "Government",
-    "Military"
-  ],
+  "countries": ["IR"],
+  "sectors": ["Government", "Military"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -50,10 +45,7 @@
       "Syria",
       "Jordan"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Military"
-    ],
+    "cfr-target-category": ["Government", "Military"],
     "cfr-type-of-incident": "Espionage",
     "country": "IR",
     "refs": [

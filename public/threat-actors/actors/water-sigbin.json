@@ -3,9 +3,7 @@
   "name": "Water Sigbin",
   "uuid": "745fd45f-9076-4c88-a977-01940bc0d36e",
   "description": "The 8220 Gang, also known as Water Sigbin, is a threat actor group that focuses on deploying cryptocurrency-mining malware. They exploit vulnerabilities in Oracle WebLogic servers, such as CVE-2017-3506 and CVE-2023-21839, to deliver cryptocurrency miners using PowerShell scripts. The group has demonstrated a sophisticated multistage loading technique to deploy the PureCrypter loader and XMRIG crypto miner. They are known for using obfuscation techniques, such as hexadecimal encoding and code obfuscation, to evade detection and compromise systems.",
-  "aliases": [
-    "8220 Gang"
-  ],
+  "aliases": ["8220 Gang"],
   "refs": [
     "https://www.trendmicro.com/en_us/research/24/f/water-sigbin-xmrig.html",
     "https://www.trendmicro.com/en_us/research/24/e/decoding-8220-latest-obfuscation-tricks.html",
@@ -17,9 +15,7 @@
     "https://www.sentinelone.com/blog/from-the-front-lines-8220-gang-massively-expands-cloud-botnet-to-30000-infected-hosts/"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -34,9 +30,7 @@
       "https://blog.aquasec.com/8220-gang-confluence-vulnerability-cve-2022-26134",
       "https://www.sentinelone.com/blog/from-the-front-lines-8220-gang-massively-expands-cloud-botnet-to-30000-infected-hosts/"
     ],
-    "synonyms": [
-      "8220 Gang"
-    ]
+    "synonyms": ["8220 Gang"]
   },
   "order": 706
 }

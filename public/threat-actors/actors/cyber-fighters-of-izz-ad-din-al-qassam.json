@@ -3,17 +3,13 @@
   "name": "Cyber fighters of Izz Ad-Din Al Qassam",
   "uuid": "22c2b363-5d8f-4b04-96db-1b6cf4d7e8db",
   "description": "",
-  "aliases": [
-    "Fraternal Jackal"
-  ],
+  "aliases": ["Fraternal Jackal"],
   "refs": [
     "http://pastebin.com/u/QassamCyberFighters",
     "http://ddanchev.blogspot.com.es/2012/09/dissecting-operation-ababil-osint.html"
   ],
   "country": "IR",
-  "countries": [
-    "IR"
-  ],
+  "countries": ["IR"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -23,9 +19,7 @@
       "http://pastebin.com/u/QassamCyberFighters",
       "http://ddanchev.blogspot.com.es/2012/09/dissecting-operation-ababil-osint.html"
     ],
-    "synonyms": [
-      "Fraternal Jackal"
-    ]
+    "synonyms": ["Fraternal Jackal"]
   },
   "order": 146
 }

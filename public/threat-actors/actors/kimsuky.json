@@ -37,13 +37,8 @@
     "https://unit42.paloaltonetworks.com/kimsuky-new-keylogger-backdoor-variant/"
   ],
   "country": "KP",
-  "countries": [
-    "KP"
-  ],
-  "sectors": [
-    "Government",
-    "Private sector"
-  ],
+  "countries": ["KP"],
+  "sectors": ["Government", "Private sector"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -54,10 +49,7 @@
       "Korea Institute for Defense Analyses",
       "Germany"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Private sector"
-    ],
+    "cfr-target-category": ["Government", "Private sector"],
     "cfr-type-of-incident": "Espionage",
     "country": "KP",
     "refs": [

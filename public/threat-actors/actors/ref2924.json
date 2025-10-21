@@ -9,9 +9,7 @@
     "https://www.elastic.co/security-labs/introducing-the-ref5961-intrusion-set"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {

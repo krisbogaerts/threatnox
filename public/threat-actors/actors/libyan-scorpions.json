@@ -6,17 +6,13 @@
   "aliases": [],
   "refs": [],
   "country": "LY",
-  "countries": [
-    "LY"
-  ],
+  "countries": ["LY"],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "country": "LY",
-    "targeted-sector": [
-      "Intelligence"
-    ]
+    "targeted-sector": ["Intelligence"]
   },
   "order": 84
 }

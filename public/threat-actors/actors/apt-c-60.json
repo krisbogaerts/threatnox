@@ -3,9 +3,7 @@
   "name": "APT-C-60",
   "uuid": "6a83b2bf-0c51-4c9b-89b0-35df7cab1dd5",
   "description": "APT-C-60",
-  "aliases": [
-    "APT-Q-12"
-  ],
+  "aliases": ["APT-Q-12"],
   "refs": [
     "https://mp.weixin.qq.com/s/Hzq4_tWmunDpKfHTlZNM-A",
     "https://cert.360.cn/report/detail?id=6c9a1b56e4ceb84a8ab9e96044429adc"
@@ -18,9 +16,7 @@
       "https://mp.weixin.qq.com/s/Hzq4_tWmunDpKfHTlZNM-A",
       "https://cert.360.cn/report/detail?id=6c9a1b56e4ceb84a8ab9e96044429adc"
     ],
-    "synonyms": [
-      "APT-Q-12"
-    ]
+    "synonyms": ["APT-Q-12"]
   },
   "order": 398
 }

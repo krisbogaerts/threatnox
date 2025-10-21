@@ -3,17 +3,13 @@
   "name": "Patched Lightning",
   "uuid": "3071973c-b3da-4c74-8fec-3cd6138bf146",
   "description": "",
-  "aliases": [
-    "Storm-0113"
-  ],
+  "aliases": ["Storm-0113"],
   "refs": [],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "synonyms": [
-      "Storm-0113"
-    ]
+    "synonyms": ["Storm-0113"]
   },
   "order": 856
 }

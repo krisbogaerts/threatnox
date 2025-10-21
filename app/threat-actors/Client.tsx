@@ -127,7 +127,7 @@ export default function Client() {
                 <Link
                   key={a.slug}
                   href={`/threat-actors/${a.slug}`}
-                  className="rounded-full border border-gray-200 px-2 py-0.5 text-xs text-gray-700 hover:border-primary-400 hover:text-primary-700 dark:border-gray-700 dark:text-gray-300 dark:hover:text-primary-300"
+                  className="hover:border-primary-400 hover:text-primary-700 dark:hover:text-primary-300 rounded-full border border-gray-200 px-2 py-0.5 text-xs text-gray-700 dark:border-gray-700 dark:text-gray-300"
                 >
                   {a.name}
                 </Link>
@@ -141,7 +141,7 @@ export default function Client() {
             placeholder="Search by name, alias, description"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            className="focus:ring-primary-500 block w-full rounded-lg border border-gray-200 bg-white px-4 py-2 text-gray-900 shadow-sm focus:ring-2 dark:border-gray-800 dark:bg-gray-800 dark:text-gray-100 sm:col-span-2"
+            className="focus:ring-primary-500 block w-full rounded-lg border border-gray-200 bg-white px-4 py-2 text-gray-900 shadow-sm focus:ring-2 sm:col-span-2 dark:border-gray-800 dark:bg-gray-800 dark:text-gray-100"
           />
           <select
             value={country}
@@ -169,10 +169,13 @@ export default function Client() {
           </select>
         </div>
         <div className="mt-2 flex items-center gap-2">
-          <label className="text-sm text-gray-600 dark:text-gray-400">Sort</label>
+          <label htmlFor="sort" className="text-sm text-gray-600 dark:text-gray-400">
+            Sort
+          </label>
           <select
+            id="sort"
             value={sort}
-            onChange={(e) => setSort(e.target.value as any)}
+            onChange={(e) => setSort(e.target.value as 'name_asc' | 'name_desc' | 'recent')}
             className="focus:ring-primary-500 rounded-md border border-gray-200 bg-white px-2 py-1 text-sm text-gray-900 shadow-sm focus:ring-2 dark:border-gray-800 dark:bg-gray-800 dark:text-gray-100"
           >
             <option value="name_asc">Name A–Z</option>
@@ -192,7 +195,10 @@ export default function Client() {
             <li key={a.slug} className="rounded-lg border border-gray-200 p-4 dark:border-gray-800">
               <div className="flex items-start justify-between">
                 <h2 className="text-lg font-bold tracking-tight">
-                  <Link href={`/threat-actors/${a.slug}`} className="text-gray-900 dark:text-gray-100">
+                  <Link
+                    href={`/threat-actors/${a.slug}`}
+                    className="text-gray-900 dark:text-gray-100"
+                  >
                     {a.name}
                   </Link>
                 </h2>

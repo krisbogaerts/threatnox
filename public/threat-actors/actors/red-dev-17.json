@@ -9,24 +9,12 @@
     "https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-attack-online-gaming-asia/"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "High-Tech",
-    "Military",
-    "Energy"
-  ],
+  "countries": ["CN"],
+  "sectors": ["High-Tech", "Military", "Energy"],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "India"
-    ],
-    "cfr-target-category": [
-      "High-Tech",
-      "Military",
-      "Energy"
-    ],
+    "cfr-suspected-victims": ["India"],
+    "cfr-target-category": ["High-Tech", "Military", "Energy"],
     "country": "CN",
     "refs": [
       "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/cyber-year-in-retrospect/yir-cyber-threats-report-download.pdf",

@@ -3,9 +3,7 @@
   "name": "UNC5174",
   "uuid": "0b158297-ee47-48ef-9346-0cb0f9cb348a",
   "description": "UNC5174, a Chinese state-sponsored threat actor, has been identified by Mandiant for exploiting critical vulnerabilities in F5 BIG-IP and ScreenConnect. They have been linked to targeting research and education institutions, businesses, charities, NGOs, and government organizations in Southeast Asia, the U.S., and the UK. UNC5174 is believed to have connections to China's Ministry of State Security and has been observed using custom tooling and the SUPERSHELL framework in their operations. The actor has shown indications of transitioning from hacktivist collectives to working as a contractor for Chinese intelligence agencies.",
-  "aliases": [
-    "Uteus"
-  ],
+  "aliases": ["Uteus"],
   "refs": [
     "https://rhisac.org/threat-intelligence/f5-big-ip-and-screenconnect-cves/",
     "https://www.mandiant.com/resources/blog/initial-access-brokers-exploit-f5-screenconnect"
@@ -18,9 +16,7 @@
       "https://rhisac.org/threat-intelligence/f5-big-ip-and-screenconnect-cves/",
       "https://www.mandiant.com/resources/blog/initial-access-brokers-exploit-f5-screenconnect"
     ],
-    "synonyms": [
-      "Uteus"
-    ]
+    "synonyms": ["Uteus"]
   },
   "order": 651
 }

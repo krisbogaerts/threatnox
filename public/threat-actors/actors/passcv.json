@@ -8,9 +8,7 @@
     "https://threatvector.cylance.com/en_us/home/digitally-signed-malware-targeting-gaming-companies.html"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {

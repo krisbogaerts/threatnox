@@ -3,9 +3,7 @@
   "name": "MALLARD SPIDER",
   "uuid": "08f4bfa6-8326-42b5-a9e2-d6e1c360a160",
   "description": "Crowdstrike tarcks the operators behind the Qbot as MALLARD SPIDER",
-  "aliases": [
-    "GOLD LAGOON"
-  ],
+  "aliases": ["GOLD LAGOON"],
   "refs": [
     "https://www.crowdstrike.com/blog/duck-hunting-with-falcon-complete-analyzing-a-fowl-banking-trojan-part-1/",
     "http://www.secureworks.com/research/threat-profiles/gold-lagoon"
@@ -18,9 +16,7 @@
       "https://www.crowdstrike.com/blog/duck-hunting-with-falcon-complete-analyzing-a-fowl-banking-trojan-part-1/",
       "http://www.secureworks.com/research/threat-profiles/gold-lagoon"
     ],
-    "synonyms": [
-      "GOLD LAGOON"
-    ]
+    "synonyms": ["GOLD LAGOON"]
   },
   "order": 308
 }

@@ -3,10 +3,7 @@
   "name": "Earth Kapre",
   "uuid": "d4004926-bf12-4cfe-b141-563c8ffb304a",
   "description": "Earth Kapre is an APT group specializing in cyberespionage. They target organizations in various countries through phishing campaigns using malicious attachments to infect machines. Earth Kapre employs techniques like abusing PowerShell, curl, and Program Compatibility Assistant to execute malicious commands and evade detection within targeted networks. The group has been active since at least 2018 and has been linked to multiple incidents involving data theft and espionage.",
-  "aliases": [
-    "RedCurl",
-    "Red Wolf"
-  ],
+  "aliases": ["RedCurl", "Red Wolf"],
   "refs": [
     "https://www.trendmicro.com/en_us/research/24/c/unveiling-earth-kapre-aka-redcurls-cyberespionage-tactics-with-t.html"
   ],
@@ -17,10 +14,7 @@
     "refs": [
       "https://www.trendmicro.com/en_us/research/24/c/unveiling-earth-kapre-aka-redcurls-cyberespionage-tactics-with-t.html"
     ],
-    "synonyms": [
-      "RedCurl",
-      "Red Wolf"
-    ]
+    "synonyms": ["RedCurl", "Red Wolf"]
   },
   "order": 645
 }

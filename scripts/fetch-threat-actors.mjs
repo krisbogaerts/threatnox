@@ -36,41 +36,39 @@ function normalizeEntry(entry, slugger) {
   const aliases = Array.isArray(meta.synonyms)
     ? meta.synonyms.filter(Boolean)
     : typeof meta.synonyms === 'string'
-    ? [meta.synonyms]
-    : []
+      ? [meta.synonyms]
+      : []
   const refs = Array.isArray(meta.refs)
     ? meta.refs
     : typeof meta.refs === 'string'
-    ? [meta.refs]
-    : []
+      ? [meta.refs]
+      : []
   const countries = Array.isArray(meta.country)
     ? meta.country
     : typeof meta.country === 'string'
-    ? [meta.country]
-    : []
+      ? [meta.country]
+      : []
   const region = Array.isArray(meta.region)
     ? meta.region[0]
     : typeof meta.region === 'string'
-    ? meta.region
-    : undefined
+      ? meta.region
+      : undefined
   const motivation = Array.isArray(meta.motivation)
     ? meta.motivation[0]
     : typeof meta.motivation === 'string'
-    ? meta.motivation
-    : undefined
+      ? meta.motivation
+      : undefined
   const sophistication = Array.isArray(meta.sophistication)
     ? meta.sophistication[0]
     : typeof meta.sophistication === 'string'
-    ? meta.sophistication
-    : undefined
-  const mitre = Array.isArray(meta['mitre-attack'])
-    ? meta['mitre-attack'][0]
-    : meta['mitre-attack']
+      ? meta.sophistication
+      : undefined
+  const mitre = Array.isArray(meta['mitre-attack']) ? meta['mitre-attack'][0] : meta['mitre-attack']
   const sectors = Array.isArray(meta['cfr-target-category'])
     ? meta['cfr-target-category'].filter(Boolean)
     : typeof meta['cfr-target-category'] === 'string'
-    ? [meta['cfr-target-category']]
-    : []
+      ? [meta['cfr-target-category']]
+      : []
   const firstSeen = meta['first-seen'] || meta['first_seen'] || undefined
   const lastSeen = meta['last-seen'] || meta['last_seen'] || undefined
 

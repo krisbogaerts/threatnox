@@ -3,27 +3,17 @@
   "name": "Clever Kitten",
   "uuid": "d56c99fa-4710-472c-81a6-41b7a84ea4be",
   "description": "",
-  "aliases": [
-    "Group 41"
-  ],
-  "refs": [
-    "http://www.crowdstrike.com/blog/whois-clever-kitten/"
-  ],
+  "aliases": ["Group 41"],
+  "refs": ["http://www.crowdstrike.com/blog/whois-clever-kitten/"],
   "country": "IR",
-  "countries": [
-    "IR"
-  ],
+  "countries": ["IR"],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "country": "IR",
-    "refs": [
-      "http://www.crowdstrike.com/blog/whois-clever-kitten/"
-    ],
-    "synonyms": [
-      "Group 41"
-    ]
+    "refs": ["http://www.crowdstrike.com/blog/whois-clever-kitten/"],
+    "synonyms": ["Group 41"]
   },
   "order": 141
 }

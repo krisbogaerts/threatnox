@@ -3,23 +3,13 @@
   "name": "APT-C-12",
   "uuid": "53771ca5-f1cb-47b6-a92a-53a485307cf7",
   "description": "According to 360 TIC the actor has carried out continuous cyber espionage activities since 2011 on key units and departments of the Chinese government, military industry, scientific research, and finance. The organization focuses on information related to the nuclear industry and scientific research. The targets were mainly concentrated in mainland China...[M]ore than 670 malware samples have been collected from the group, including more than 60 malicious plugins specifically for lateral movement; more than 40 C2 domain names and IPs related to the organization have also been discovered.",
-  "aliases": [
-    "Sapphire Mushroom",
-    "Blue Mushroom",
-    "NuclearCrisis"
-  ],
+  "aliases": ["Sapphire Mushroom", "Blue Mushroom", "NuclearCrisis"],
   "refs": [
     "https://mp.weixin.qq.com/s/S-hiGFNC6WXGrkjytAVbpA",
     "https://bitofhex.com/2020/02/10/sapphire-mushroom-lnk-files/"
   ],
   "countries": [],
-  "sectors": [
-    "Private sector",
-    "Government",
-    "Military",
-    "Scientific Research",
-    "Finance"
-  ],
+  "sectors": ["Private sector", "Government", "Military", "Scientific Research", "Finance"],
   "related": [],
   "rawMeta": {
     "cfr-target-category": [
@@ -35,11 +25,7 @@
       "https://bitofhex.com/2020/02/10/sapphire-mushroom-lnk-files/"
     ],
     "suspected-victims": "China",
-    "synonyms": [
-      "Sapphire Mushroom",
-      "Blue Mushroom",
-      "NuclearCrisis"
-    ]
+    "synonyms": ["Sapphire Mushroom", "Blue Mushroom", "NuclearCrisis"]
   },
   "order": 273
 }

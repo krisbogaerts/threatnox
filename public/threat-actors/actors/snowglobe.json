@@ -3,11 +3,7 @@
   "name": "SNOWGLOBE",
   "uuid": "3b8e7462-c83f-4e7d-9511-2fe430d80aab",
   "description": "In 2014, researchers at Kaspersky Lab discovered and reported on three zero-days that were being used in cyberattacks in the wild. Two of these zero-day vulnerabilities are associated with an advanced threat actor we call Animal Farm. Over the past few years, Animal Farm has targeted a wide range of global organizations. The group has been active since at least 2009 and there are signs that earlier malware versions  were developed as far back as 2007.",
-  "aliases": [
-    "Animal Farm",
-    "Snowglobe",
-    "ATK8"
-  ],
+  "aliases": ["Animal Farm", "Snowglobe", "ATK8"],
   "refs": [
     "https://securelist.com/blog/research/69114/animals-in-the-apt-farm/",
     "https://motherboard.vice.com/read/meet-babar-a-new-malware-almost-certainly-created-by-france",
@@ -18,13 +14,8 @@
     "https://resources.infosecinstitute.com/animal-farm-apt-and-the-shadow-of-france-intelligence/"
   ],
   "country": "FR",
-  "countries": [
-    "FR"
-  ],
-  "sectors": [
-    "Government",
-    "Private sector"
-  ],
+  "countries": ["FR"],
+  "sectors": ["Government", "Private sector"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -46,10 +37,7 @@
       "Ivory Coast",
       "Greece"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Private sector"
-    ],
+    "cfr-target-category": ["Government", "Private sector"],
     "cfr-type-of-incident": "Espionage",
     "country": "FR",
     "refs": [
@@ -61,11 +49,7 @@
       "https://www.cfr.org/interactive/cyber-operations/snowglobe",
       "https://resources.infosecinstitute.com/animal-farm-apt-and-the-shadow-of-france-intelligence/"
     ],
-    "synonyms": [
-      "Animal Farm",
-      "Snowglobe",
-      "ATK8"
-    ]
+    "synonyms": ["Animal Farm", "Snowglobe", "ATK8"]
   },
   "order": 70
 }

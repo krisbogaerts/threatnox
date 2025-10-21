@@ -44,7 +44,8 @@ const Header = () => {
   }, [router])
 
   const headerClass = useMemo(() => {
-    let base = 'relative z-50 flex flex-nowrap w-full items-center justify-between border-b border-gray-200 bg-white/90 backdrop-blur-sm dark:border-gray-800 dark:bg-gray-950/60 '
+    let base =
+      'relative z-50 flex flex-nowrap w-full items-center justify-between border-b border-gray-200 bg-white/90 backdrop-blur-sm dark:border-gray-800 dark:bg-gray-950/60 '
     base += scrolled ? 'py-2' : 'py-3'
     if (siteMetadata.stickyNav) base += ' sticky top-0 z-50'
     return base

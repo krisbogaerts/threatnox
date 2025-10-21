@@ -29,25 +29,15 @@
     "https://www.microsoft.com/en-us/security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets/"
   ],
   "country": "IR",
-  "countries": [
-    "IR"
-  ],
-  "sectors": [
-    "Private sector"
-  ],
+  "countries": ["IR"],
+  "sectors": ["Private sector"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "capabilities": "STONEDRILL wiper, variants of TURNEDUP malware",
     "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
-    "cfr-suspected-victims": [
-      "United States",
-      "Saudi Arabia",
-      "South Korea"
-    ],
-    "cfr-target-category": [
-      "Private sector"
-    ],
+    "cfr-suspected-victims": ["United States", "Saudi Arabia", "South Korea"],
+    "cfr-target-category": ["Private sector"],
     "cfr-type-of-incident": "Espionage",
     "country": "IR",
     "mode-of-operation": "IT network limited, information gathering against industrial orgs",

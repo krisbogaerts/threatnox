@@ -46,9 +46,7 @@
     "https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/"
   ],
   "country": "RU",
-  "countries": [
-    "RU"
-  ],
+  "countries": ["RU"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -95,12 +93,7 @@
       "UNC4057",
       "Blue Callisto"
     ],
-    "targeted-sector": [
-      "Government Administration",
-      "Military",
-      "Think Tanks",
-      "Journalist"
-    ]
+    "targeted-sector": ["Government Administration", "Military", "Think Tanks", "Journalist"]
   },
   "order": 108
 }

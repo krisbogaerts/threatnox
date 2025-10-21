@@ -90,13 +90,8 @@
     "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/"
   ],
   "country": "RU",
-  "countries": [
-    "RU"
-  ],
-  "sectors": [
-    "Government",
-    "Military"
-  ],
+  "countries": ["RU"],
+  "sectors": ["Government", "Military"],
   "related": [],
   "rawMeta": {
     "GRU": "Military unit 26165",
@@ -129,10 +124,7 @@
       "Kazakhstan",
       "China"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Military"
-    ],
+    "cfr-target-category": ["Government", "Military"],
     "cfr-type-of-incident": "Espionage",
     "country": "RU",
     "refs": [
@@ -221,11 +213,7 @@
       "Fancy Bear",
       "GruesomeLarch"
     ],
-    "targeted-sector": [
-      "Military",
-      "Government, Administration",
-      "Security Service"
-    ]
+    "targeted-sector": ["Military", "Government, Administration", "Security Service"]
   },
   "order": 53
 }

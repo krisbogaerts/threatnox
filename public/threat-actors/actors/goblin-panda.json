@@ -3,10 +3,7 @@
   "name": "GOBLIN PANDA",
   "uuid": "8d73715a-8bbd-4eaa-ae24-2f1b1c84cf21",
   "description": "Goblin Panda is one of a handful of elite Chinese advanced persistent threat (APT) groups. Most Chinese APTs target the United States and NATO, but Goblin Panda focuses primarily on Southeast Asia.",
-  "aliases": [
-    "Conimes",
-    "Cycldek"
-  ],
+  "aliases": ["Conimes", "Cycldek"],
   "refs": [
     "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-august-goblin-panda/",
     "https://securelist.com/cycldek-bridging-the-air-gap/97157/",
@@ -15,12 +12,8 @@
     "https://cyberthreat.thalesgroup.com/sites/default/files/2022-05/THALES%20THREAT%20HANDBOOK%202022%20Light%20Version_1.pdf"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "Private Sector"
-  ],
+  "countries": ["CN"],
+  "sectors": ["Private Sector"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "75",
@@ -35,9 +28,7 @@
       "South Korea",
       "Vietnam"
     ],
-    "cfr-target-category": [
-      "Private Sector"
-    ],
+    "cfr-target-category": ["Private Sector"],
     "country": "CN",
     "refs": [
       "https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-august-goblin-panda/",
@@ -46,10 +37,7 @@
       "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
       "https://cyberthreat.thalesgroup.com/sites/default/files/2022-05/THALES%20THREAT%20HANDBOOK%202022%20Light%20Version_1.pdf"
     ],
-    "synonyms": [
-      "Conimes",
-      "Cycldek"
-    ]
+    "synonyms": ["Conimes", "Cycldek"]
   },
   "order": 388
 }

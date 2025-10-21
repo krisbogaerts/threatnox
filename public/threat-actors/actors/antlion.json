@@ -8,20 +8,12 @@
     "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/china-apt-antlion-taiwan-financial-attacks"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "Financial"
-  ],
+  "countries": ["CN"],
+  "sectors": ["Financial"],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Taiwan"
-    ],
-    "cfr-target-category": [
-      "Financial"
-    ],
+    "cfr-suspected-victims": ["Taiwan"],
+    "cfr-target-category": ["Financial"],
     "country": "CN",
     "refs": [
       "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/china-apt-antlion-taiwan-financial-attacks"

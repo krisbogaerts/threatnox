@@ -8,9 +8,7 @@
     "https://cloud.google.com/blog/topics/threat-intelligence/unc1860-iran-middle-eastern-networks"
   ],
   "country": "IR",
-  "countries": [
-    "IR"
-  ],
+  "countries": ["IR"],
   "sectors": [],
   "related": [],
   "rawMeta": {

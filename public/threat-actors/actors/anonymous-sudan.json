@@ -12,13 +12,8 @@
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Denmark",
-      "Sweden"
-    ],
-    "cfr-type-of-incident": [
-      "Denial of service"
-    ],
+    "cfr-suspected-victims": ["Denmark", "Sweden"],
+    "cfr-type-of-incident": ["Denial of service"],
     "refs": [
       "https://files.truesec.com/hubfs/Reports/Anonymous%20Sudan%20-%20Publish%201.2%20-%20a%20Truesec%20Report.pdf",
       "https://www.truesec.com/hub/blog/what-is-anonymous-sudan"

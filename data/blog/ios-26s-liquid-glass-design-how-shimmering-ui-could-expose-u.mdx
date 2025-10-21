@@ -10,19 +10,19 @@ canonicalUrl: https://www.nngroup.com/articles/liquid-glass/
 
 # iOS 26's Liquid Glass Design: How Shimmering UI Could Expose Users to Hidden Security Risks
 
-Imagine scanning a phishing link or verifying a two-factor authentication code, only for your screen to ripple like Jell-O, hiding key details behind translucent overlays. With iOS 26's flashy *Liquid Glass* interface, Apple's emphasis on aesthetics could subtly undermine user security—transforming a sleek device into a hidden vulnerability. In this post, we'll explore this shimmering design and reveal how its beauty might blur the boundaries between safety and risk.
+Imagine scanning a phishing link or verifying a two-factor authentication code, only for your screen to ripple like Jell-O, hiding key details behind translucent overlays. With iOS 26's flashy _Liquid Glass_ interface, Apple's emphasis on aesthetics could subtly undermine user security—transforming a sleek device into a hidden vulnerability. In this post, we'll explore this shimmering design and reveal how its beauty might blur the boundaries between safety and risk.
 
 ## Understanding Liquid Glass: Apple's Bold UI Shift
 
-Apple's iOS 26 introduces a striking evolution with its *Liquid Glass* design language, which adopts glassmorphism principles to deliver a more vibrant and immersive user experience. This approach features translucent elements that reflect and refract their surroundings, infusing app icons, widgets, controls, and navigation bars with dynamic animations and subtle ripples for a sense of fluidity.
+Apple's iOS 26 introduces a striking evolution with its _Liquid Glass_ design language, which adopts glassmorphism principles to deliver a more vibrant and immersive user experience. This approach features translucent elements that reflect and refract their surroundings, infusing app icons, widgets, controls, and navigation bars with dynamic animations and subtle ripples for a sense of fluidity.
 
-Building on iOS 18's minimalist foundation, *Liquid Glass* draws from Android's Material You system and popular web trends like frosted glass effects. Apple is prioritizing visual elegance over strict usability conventions, creating a phone interface that flows as naturally as water.
+Building on iOS 18's minimalist foundation, _Liquid Glass_ draws from Android's Material You system and popular web trends like frosted glass effects. Apple is prioritizing visual elegance over strict usability conventions, creating a phone interface that flows as naturally as water.
 
 For cybersecurity experts, however, this shift raises concerns. When dazzling visuals compromise clarity, users may miss threats during pivotal interactions, such as reviewing app permissions or alert dialogs. As the Nielsen Norman Group (NNG) points out in their analysis, these designs can obscure content, transforming routine tasks into hidden hazards [source: https://www.nngroup.com/articles/liquid-glass/].
 
 ## Technical Breakdown: The Mechanics of Translucent Trouble
 
-Delving deeper, *Liquid Glass* relies on SwiftUI and Core Animation frameworks to merge transparency with motion. Buttons, bars, and other elements function as semitransparent layers that adapt to underlying backgrounds, producing refractions that shimmer and evolve. The downside? This often results in contrast ratios falling below the Web Content Accessibility Guidelines (WCAG) threshold of 4.5:1 for normal text, making content harder to discern.
+Delving deeper, _Liquid Glass_ relies on SwiftUI and Core Animation frameworks to merge transparency with motion. Buttons, bars, and other elements function as semitransparent layers that adapt to underlying backgrounds, producing refractions that shimmer and evolve. The downside? This often results in contrast ratios falling below the Web Content Accessibility Guidelines (WCAG) threshold of 4.5:1 for normal text, making content harder to discern.
 
 Take the Messages app as an example: a translucent subject line might overlay a user's beach vacation photo background, where the text merges with sandy tones or pet fur, forcing users to strain their eyes. NNG emphasizes that placing text over images like this breaches core usability standards, impairing quick readability.
 
@@ -33,7 +33,7 @@ To illustrate, here's a simplified SwiftUI code snippet highlighting the transpa
 ```swift
 struct LiquidGlassButton: View {
     @State private var isPressed = false
-    
+
     var body: some View {
         Button("Confirm") {
             isPressed.toggle()
@@ -58,7 +58,7 @@ Particularly vulnerable populations, such as older adults or those with visual i
 
 The broader fallout extends further. In Safari, faded URLs complicate phishing detection—picture a fraudulent banking site where the domain blends seamlessly with your wallpaper. Delayed animations in app alerts for unauthorized access might go unnoticed, facilitating breaches. Research from the SANS Institute indicates that usability shortcomings drive 30-50% of security incidents via human error [source: SANS Reading Room on Human Factors in Security]. With iOS 26, this "shimmer fatigue" could amplify social engineering attacks, as persistent distractions erode user vigilance.
 
-While direct exploits remain rare—with no CVEs yet linked specifically to *Liquid Glass*—the indirect dangers are tangible. The 2023 Verizon DBIR report notes that UI confusion can boost phishing success rates by up to 20% on mobile platforms, underscoring the need for caution.
+While direct exploits remain rare—with no CVEs yet linked specifically to _Liquid Glass_—the indirect dangers are tangible. The 2023 Verizon DBIR report notes that UI confusion can boost phishing success rates by up to 20% on mobile platforms, underscoring the need for caution.
 
 ## Mitigating the Risks: Actionable Steps for Secure Usage
 
@@ -68,7 +68,7 @@ Activate high-contrast mode through Settings > Accessibility > Display & Text Si
 
 Security administrators should leverage MDM solutions such as Jamf or Intune to apply accessibility policies across devices, enforcing high-contrast settings and animation restrictions for work-related apps. Conduct regular usability audits by testing security dialogs on iOS 26 hardware and tracking threat detection response times.
 
-Prioritize employee training with phishing drills that spotlight obscured features, such as a simulated translucent alert resembling a genuine breach. On a larger scale, submit feedback to Apple at feedback.apple.com requesting opt-out options for *Liquid Glass* effects. Keep an eye on resources like Apple's security updates page for any emerging UI vulnerabilities, and use built-in screen readers like VoiceOver to verify prompts audibly.
+Prioritize employee training with phishing drills that spotlight obscured features, such as a simulated translucent alert resembling a genuine breach. On a larger scale, submit feedback to Apple at feedback.apple.com requesting opt-out options for _Liquid Glass_ effects. Keep an eye on resources like Apple's security updates page for any emerging UI vulnerabilities, and use built-in screen readers like VoiceOver to verify prompts audibly.
 
 These measures shift from reactive fixes to proactive safeguards, empowering users to harness iOS 26 securely.
 
@@ -78,6 +78,6 @@ These measures shift from reactive fixes to proactive safeguards, empowering use
 
 As this 2025 update launches, it demands attention from cybersecurity professionals—innovation requires safeguards. Usability forms the first line of defense against threats rooted in human behavior.
 
-Stay proactive: evaluate your iOS configurations now, scrutinize apps for shimmer-related oversights, and champion designs that prioritize users. In the dynamic world of operating systems, harmonizing aesthetics with security is essential to thwart evolving dangers. What's your take on *Liquid Glass*? Drop your thoughts in the comments below and join the discussion.
+Stay proactive: evaluate your iOS configurations now, scrutinize apps for shimmer-related oversights, and champion designs that prioritize users. In the dynamic world of operating systems, harmonizing aesthetics with security is essential to thwart evolving dangers. What's your take on _Liquid Glass_? Drop your thoughts in the comments below and join the discussion.
 
-*(Word count: 1,012)*
+_(Word count: 1,012)_

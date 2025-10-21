@@ -8,9 +8,7 @@
     "https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine"
   ],
   "country": "KP",
-  "countries": [
-    "KP"
-  ],
+  "countries": ["KP"],
   "sectors": [],
   "related": [],
   "rawMeta": {

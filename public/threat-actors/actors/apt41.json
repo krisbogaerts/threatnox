@@ -60,9 +60,7 @@
     "https://www.trendmicro.com/en_us/research/24/d/earth-freybug.html"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [
     "Automotive",
     "Business",

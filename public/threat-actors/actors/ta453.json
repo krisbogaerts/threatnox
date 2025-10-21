@@ -9,9 +9,7 @@
     "https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential"
   ],
   "country": "IR",
-  "countries": [
-    "IR"
-  ],
+  "countries": ["IR"],
   "sectors": [],
   "related": [],
   "rawMeta": {

@@ -16,3 +16,4 @@ THREATNOX is a modern, secure hub for threat intelligence content. Built with Ne
 ```bash
 yarn
 yarn dev
+```

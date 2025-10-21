@@ -14,9 +14,7 @@
     "refs": [
       "https://securelist.com/chrome-0-day-exploit-cve-2019-13720-used-in-operation-wizardopium/94866/"
     ],
-    "threat-actor-classification": [
-      "operation"
-    ]
+    "threat-actor-classification": ["operation"]
   },
   "order": 264
 }

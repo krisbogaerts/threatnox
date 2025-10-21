@@ -8,26 +8,14 @@
     "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
   ],
   "country": "PS",
-  "countries": [
-    "PS"
-  ],
-  "sectors": [
-    "Military",
-    "Defense",
-    "Transportation"
-  ],
+  "countries": ["PS"],
+  "sectors": ["Military", "Defense", "Transportation"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "Palestine",
-    "cfr-suspected-victims": [
-      "Israel"
-    ],
-    "cfr-target-category": [
-      "Military",
-      "Defense",
-      "Transportation"
-    ],
+    "cfr-suspected-victims": ["Israel"],
+    "cfr-target-category": ["Military", "Defense", "Transportation"],
     "cfr-type-of-incident": "Espionage",
     "country": "PS",
     "refs": [

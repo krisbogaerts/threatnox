@@ -9,9 +9,7 @@
     "https://www.justice.gov/opa/pr/seven-international-cyber-defendants-including-apt41-actors-charged-connection-computer"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [
     "Aviation",
     "Automotive",
@@ -33,10 +31,7 @@
       "Information Technology",
       "Religious Organizations"
     ],
-    "cfr-type-of-incident": [
-      "Financial Theft",
-      "Espionage"
-    ],
+    "cfr-type-of-incident": ["Financial Theft", "Espionage"],
     "country": "CN",
     "motive": "state-sponsored espionage and financially motivated",
     "refs": [

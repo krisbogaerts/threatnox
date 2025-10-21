@@ -36,23 +36,14 @@
     "https://thecyberwire.com/podcasts/microsoft-threat-intelligence/4/notes"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "Civil society"
-  ],
+  "countries": ["CN"],
+  "sectors": ["Civil society"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "United States",
-      "Germany"
-    ],
-    "cfr-target-category": [
-      "Civil society"
-    ],
+    "cfr-suspected-victims": ["United States", "Germany"],
+    "cfr-target-category": ["Civil society"],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [

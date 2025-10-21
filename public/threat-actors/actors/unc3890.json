@@ -9,9 +9,7 @@
     "https://www.mandiant.com/resources/suspected-iranian-actor-targeting-israeli-shipping"
   ],
   "country": "IR",
-  "countries": [
-    "IR"
-  ],
+  "countries": ["IR"],
   "sectors": [],
   "related": [],
   "rawMeta": {

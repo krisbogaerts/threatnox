@@ -19,26 +19,14 @@
     "https://www.mandiant.com/resources/insights/apt-groups"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "Government",
-    "Private sector",
-    "Civil society"
-  ],
+  "countries": ["CN"],
+  "sectors": ["Government", "Private sector", "Civil society"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "United States"
-    ],
-    "cfr-target-category": [
-      "Government",
-      "Private sector",
-      "Civil society"
-    ],
+    "cfr-suspected-victims": ["United States"],
+    "cfr-target-category": ["Government", "Private sector", "Civil society"],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [
@@ -56,13 +44,7 @@
       "G0026",
       "Satin Typhoon"
     ],
-    "targeted-sector": [
-      "Aerospace",
-      "Defense",
-      "Health",
-      "High tech",
-      "Telecoms"
-    ]
+    "targeted-sector": ["Aerospace", "Defense", "Health", "High tech", "Telecoms"]
   },
   "order": 18
 }

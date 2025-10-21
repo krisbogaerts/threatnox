@@ -37,16 +37,8 @@
     "https://www.tenable.com/blog/cve-2020-1472-advanced-persistent-threat-actors-use-zerologon-vulnerability-in-exploit-chain"
   ],
   "country": "RU",
-  "countries": [
-    "RU"
-  ],
-  "sectors": [
-    "Education",
-    "Finance",
-    "Health",
-    "Retail",
-    "Hospitality"
-  ],
+  "countries": ["RU"],
+  "sectors": ["Education", "Finance", "Health", "Retail", "Hospitality"],
   "related": [],
   "rawMeta": {
     "cfr-suspected-victims": [
@@ -67,13 +59,7 @@
       "United Kingdom",
       "United States"
     ],
-    "cfr-target-category": [
-      "Education",
-      "Finance",
-      "Health",
-      "Retail",
-      "Hospitality"
-    ],
+    "cfr-target-category": ["Education", "Finance", "Health", "Retail", "Hospitality"],
     "country": "RU",
     "refs": [
       "https://www.bleepingcomputer.com/news/security/ta505-group-adopts-new-servhelper-backdoor-and-flawedgrace-rat/",

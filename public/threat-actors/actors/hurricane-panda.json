@@ -11,9 +11,7 @@
     "https://www.crowdstrike.com/blog/cyber-deterrence-in-action-a-story-of-one-long-hurricane-panda-campaign/"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -25,10 +23,7 @@
       "https://www.crowdstrike.com/blog/storm-chasing/",
       "https://www.crowdstrike.com/blog/cyber-deterrence-in-action-a-story-of-one-long-hurricane-panda-campaign/"
     ],
-    "targeted-sector": [
-      "Technology",
-      "Telecoms"
-    ]
+    "targeted-sector": ["Technology", "Telecoms"]
   },
   "order": 23
 }

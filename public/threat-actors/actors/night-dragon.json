@@ -3,18 +3,14 @@
   "name": "Night Dragon",
   "uuid": "b3714d59-b61e-4713-903a-9b4f04ae7f3d",
   "description": "",
-  "aliases": [
-    "G0014"
-  ],
+  "aliases": ["G0014"],
   "refs": [
     "https://kc.mcafee.com/corporate/index?page=content&id=KB71150",
     "https://securingtomorrow.mcafee.com/wp-content/uploads/2011/02/McAfee_NightDragon_wp_draft_to_customersv1-1.pdf",
     "https://attack.mitre.org/groups/G0014/"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -25,9 +21,7 @@
       "https://securingtomorrow.mcafee.com/wp-content/uploads/2011/02/McAfee_NightDragon_wp_draft_to_customersv1-1.pdf",
       "https://attack.mitre.org/groups/G0014/"
     ],
-    "synonyms": [
-      "G0014"
-    ]
+    "synonyms": ["G0014"]
   },
   "order": 27
 }

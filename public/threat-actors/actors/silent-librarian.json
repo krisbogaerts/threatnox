@@ -3,13 +3,7 @@
   "name": "Silent Librarian",
   "uuid": "5059b44d-2753-4977-b987-4922f09afe6b",
   "description": "Last Friday, Deputy Attorney General Rod Rosenstein announced the indictment of nine Iranians who worked for an organization named the Mabna Institute. According to prosecutors, the defendants stole more than 31 terabytes of data from universities, companies, and government agencies around the world. The cost to the universities alone reportedly amounted to approximately $3.4 billion. The information stolen from these universities was used by the Islamic Revolutionary Guard Corps (IRGC) or sold for profit inside Iran. PhishLabs has been tracking this same threat group since late-2017, designating them Silent Librarian. Since discovery, we have been working with the FBI, ISAC partners, and other international law enforcement agencies to help understand and mitigate these attacks.",
-  "aliases": [
-    "COBALT DICKENS",
-    "Mabna Institute",
-    "TA407",
-    "TA4900",
-    "Yellow Nabu"
-  ],
+  "aliases": ["COBALT DICKENS", "Mabna Institute", "TA407", "TA4900", "Yellow Nabu"],
   "refs": [
     "https://info.phishlabs.com/blog/silent-librarian-more-to-the-story-of-the-iranian-mabna-institute-indictment",
     "https://info.phishlabs.com/blog/silent-librarian-university-attacks-continue-unabated-in-days-following-indictment",
@@ -24,9 +18,7 @@
     "https://www.proofpoint.com/us/corporate-blog/post/iranian-state-sponsored-and-aligned-attacks-what-you-need-know-and-steps-protect"
   ],
   "country": "IR",
-  "countries": [
-    "IR"
-  ],
+  "countries": ["IR"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -44,13 +36,7 @@
       "https://community.riskiq.com/article/44eb0802",
       "https://www.proofpoint.com/us/corporate-blog/post/iranian-state-sponsored-and-aligned-attacks-what-you-need-know-and-steps-protect"
     ],
-    "synonyms": [
-      "COBALT DICKENS",
-      "Mabna Institute",
-      "TA407",
-      "TA4900",
-      "Yellow Nabu"
-    ]
+    "synonyms": ["COBALT DICKENS", "Mabna Institute", "TA407", "TA4900", "Yellow Nabu"]
   },
   "order": 226
 }

@@ -3,12 +3,7 @@
   "name": "UNC4393",
   "uuid": "8191e28a-fb2d-4d50-b992-b877807a2f37",
   "description": "UNC4393 is a financially motivated threat actor primarily using BASTA ransomware. They have been active since early 2022 and have targeted over 40 organizations across various industries. UNC4393 has shown a willingness to cooperate with other threat clusters for initial access and has evolved from using existing tools to developing custom malware. They focus on efficient data exfiltration and multi-faceted extortion, often utilizing tools like COGSCAN and RCLONE for reconnaissance and data theft.",
-  "aliases": [
-    "Storm-1811",
-    "CURLY SPIDER",
-    "STAC5777",
-    "Cardinal"
-  ],
+  "aliases": ["Storm-1811", "CURLY SPIDER", "STAC5777", "Cardinal"],
   "refs": [
     "https://cloud.google.com/blog/topics/threat-intelligence/unc4393-goes-gently-into-silentnight",
     "https://www.security.com/threat-intelligence/black-basta-ransomware-zero-day",
@@ -49,12 +44,7 @@
       "https://go.crowdstrike.com/rs/281-OBQ-266/images/CrowdStrikeGlobalThreatReport2025.pdf",
       "https://www.crowdstrike.com/adversaries/curly-spider/"
     ],
-    "synonyms": [
-      "Storm-1811",
-      "CURLY SPIDER",
-      "STAC5777",
-      "Cardinal"
-    ]
+    "synonyms": ["Storm-1811", "CURLY SPIDER", "STAC5777", "Cardinal"]
   },
   "order": 719
 }

@@ -11,9 +11,7 @@
     "https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/i/earth-baxia-uses-spear-phishing-and-geoserver-exploit-to-target-apac/IOCs%20-%20Earth%20Baxia%20Uses%20Spear-Phishing%20and%20GeoServer%20Exploit%20to%20Target%20APAC.txt"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {

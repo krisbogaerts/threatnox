@@ -34,13 +34,7 @@ export async function generateStaticParams() {
 
 export default async function ThreatActorPage(props: { params: Promise<{ slug: string }> }) {
   const { slug } = await props.params
-  const file = path.join(
-    process.cwd(),
-    'public',
-    'threat-actors',
-    'actors',
-    `${slug}.json`
-  )
+  const file = path.join(process.cwd(), 'public', 'threat-actors', 'actors', `${slug}.json`)
   const actor = readJSON<Actor>(file)
   if (!actor) return notFound()
 
@@ -62,7 +56,7 @@ export default async function ThreatActorPage(props: { params: Promise<{ slug: s
             {actor.aliases.slice(0, 10).map((al) => (
               <span
                 key={al}
-                className="rounded-full border border-primary-100 bg-primary-50 px-2 py-0.5 text-xs text-primary-700 dark:border-primary-400/20 dark:bg-primary-400/10 dark:text-primary-300"
+                className="border-primary-100 bg-primary-50 text-primary-700 dark:border-primary-400/20 dark:bg-primary-400/10 dark:text-primary-300 rounded-full border px-2 py-0.5 text-xs"
               >
                 {al}
               </span>
@@ -73,17 +67,17 @@ export default async function ThreatActorPage(props: { params: Promise<{ slug: s
 
       {actor.description && (
         <section>
-          <h2 className="mb-2 text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400">
+          <h2 className="mb-2 text-sm font-semibold tracking-wide text-gray-500 uppercase dark:text-gray-400">
             Overview
           </h2>
-          <p className="prose max-w-none text-gray-700 dark:prose-invert/80 dark:text-gray-300">
+          <p className="prose dark:prose-invert/80 max-w-none text-gray-700 dark:text-gray-300">
             {actor.description}
           </p>
         </section>
       )}
 
       <section>
-        <h2 className="mb-2 text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400">
+        <h2 className="mb-2 text-sm font-semibold tracking-wide text-gray-500 uppercase dark:text-gray-400">
           Quick facts
         </h2>
         <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
@@ -94,7 +88,7 @@ export default async function ThreatActorPage(props: { params: Promise<{ slug: s
                 href={`https://attack.mitre.org/groups/${actor.mitre_attack}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-primary-600 hover:underline dark:text-primary-400"
+                className="text-primary-600 dark:text-primary-400 hover:underline"
               >
                 {actor.mitre_attack}
               </a>
@@ -123,7 +117,7 @@ export default async function ThreatActorPage(props: { params: Promise<{ slug: s
 
       {actor.refs?.length > 0 && (
         <section>
-          <h2 className="mb-2 text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400">
+          <h2 className="mb-2 text-sm font-semibold tracking-wide text-gray-500 uppercase dark:text-gray-400">
             References
           </h2>
           <ul className="space-y-2 text-sm">
@@ -133,7 +127,7 @@ export default async function ThreatActorPage(props: { params: Promise<{ slug: s
                   href={r}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="text-primary-600 hover:underline dark:text-primary-400"
+                  className="text-primary-600 dark:text-primary-400 hover:underline"
                 >
                   {r}
                 </a>
@@ -144,7 +138,10 @@ export default async function ThreatActorPage(props: { params: Promise<{ slug: s
       )}
 
       <div className="pt-2">
-        <Link href="/threat-actors" className="text-primary-600 hover:underline dark:text-primary-400">
+        <Link
+          href="/threat-actors"
+          className="text-primary-600 dark:text-primary-400 hover:underline"
+        >
           ← Back to Threat Actors
         </Link>
       </div>

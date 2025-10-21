@@ -3,11 +3,7 @@
   "name": "APT21",
   "uuid": "b80f4788-ccb2-466d-ae16-b397159d907e",
   "description": "",
-  "aliases": [
-    "HAMMER PANDA",
-    "TEMP.Zhenbao",
-    "NetTraveler"
-  ],
+  "aliases": ["HAMMER PANDA", "TEMP.Zhenbao", "NetTraveler"],
   "refs": [
     "https://securelist.com/blog/research/35936/nettraveler-is-running-red-star-apt-attacks-compromise-high-profile-victims/",
     "https://www.cfr.org/interactive/cyber-operations/nettraveler",
@@ -19,13 +15,8 @@
     "https://www.mandiant.com/resources/insights/apt-groups"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "Government",
-    "Military"
-  ],
+  "countries": ["CN"],
+  "sectors": ["Government", "Military"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -47,10 +38,7 @@
       "Canada",
       "Morocco"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Military"
-    ],
+    "cfr-target-category": ["Government", "Military"],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [
@@ -63,11 +51,7 @@
       "http://www.darkreading.com/endpoint/chinese-cyberspies-pivot-to-russia-in-wake-of-obama-xi-pact/d/d-id/1324242",
       "https://www.mandiant.com/resources/insights/apt-groups"
     ],
-    "synonyms": [
-      "HAMMER PANDA",
-      "TEMP.Zhenbao",
-      "NetTraveler"
-    ]
+    "synonyms": ["HAMMER PANDA", "TEMP.Zhenbao", "NetTraveler"]
   },
   "order": 30
 }

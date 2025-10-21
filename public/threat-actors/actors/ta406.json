@@ -8,14 +8,8 @@
     "https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals"
   ],
   "country": "KR",
-  "countries": [
-    "KR"
-  ],
-  "sectors": [
-    "Government",
-    "Journalists",
-    "NGOs"
-  ],
+  "countries": ["KR"],
+  "sectors": ["Government", "Journalists", "NGOs"],
   "related": [],
   "rawMeta": {
     "cfr-suspected-victims": [
@@ -30,11 +24,7 @@
       "South Korea",
       "United Kingdom"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Journalists",
-      "NGOs"
-    ],
+    "cfr-target-category": ["Government", "Journalists", "NGOs"],
     "country": "KR",
     "refs": [
       "https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals"

@@ -3,19 +3,14 @@
   "name": "PROMETHIUM",
   "uuid": "43894e2a-174e-4931-94a8-2296afe8f650",
   "description": "PROMETHIUM is an activity group that has been active as early as 2012. The group primarily uses Truvasys, a first-stage malware that has been in circulation for several years. Truvasys has been involved in several attack campaigns, where it has masqueraded as one of server common computer utilities, including WinUtils, TrueCrypt, WinRAR, or SanDisk. In each of the campaigns, Truvasys malware evolved with additional features—this shows a close relationship between the activity groups behind the campaigns and the developers of the malware.",
-  "aliases": [
-    "StrongPity",
-    "G0056"
-  ],
+  "aliases": ["StrongPity", "G0056"],
   "refs": [
     "https://www.microsoft.com/security/blog/2016/12/14/twin-zero-day-attacks-promethium-and-neodymium-target-individuals-in-europe/",
     "https://www.virusbulletin.com/conference/vb2016/abstracts/last-minute-paper-strongpity-waterhole-attacks-targeting-italian-and-belgian-encryption-users",
     "https://attack.mitre.org/groups/G0056/"
   ],
   "country": "TR",
-  "countries": [
-    "TR"
-  ],
+  "countries": ["TR"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -26,10 +21,7 @@
       "https://www.virusbulletin.com/conference/vb2016/abstracts/last-minute-paper-strongpity-waterhole-attacks-targeting-italian-and-belgian-encryption-users",
       "https://attack.mitre.org/groups/G0056/"
     ],
-    "synonyms": [
-      "StrongPity",
-      "G0056"
-    ]
+    "synonyms": ["StrongPity", "G0056"]
   },
   "order": 91
 }

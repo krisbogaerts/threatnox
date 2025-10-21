@@ -3,17 +3,13 @@
   "name": "DIZZY PANDA",
   "uuid": "8a8f39df-74b3-4946-ab64-f84968bababe",
   "description": "",
-  "aliases": [
-    "LadyBoyle"
-  ],
+  "aliases": ["LadyBoyle"],
   "refs": [],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "synonyms": [
-      "LadyBoyle"
-    ]
+    "synonyms": ["LadyBoyle"]
   },
   "order": 9
 }

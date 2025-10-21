@@ -4,16 +4,12 @@
   "uuid": "dc8a7137-f56e-41db-a500-920e69fa29f5",
   "description": "Wildcard is a threat actor that initially targeted Israel's educational sector with the SysJoker malware. They have since expanded their operations and developed additional malware variants, disguised as legitimate software, including one written in the Rust programming language called RustDown. Their precise identity remains unknown, but they have shown advanced capabilities and a focus on critical sectors within Israel.",
   "aliases": [],
-  "refs": [
-    "https://intezer.com/blog/research/wildcard-evolution-of-sysjoker-cyber-threat/"
-  ],
+  "refs": ["https://intezer.com/blog/research/wildcard-evolution-of-sysjoker-cyber-threat/"],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://intezer.com/blog/research/wildcard-evolution-of-sysjoker-cyber-threat/"
-    ]
+    "refs": ["https://intezer.com/blog/research/wildcard-evolution-of-sysjoker-cyber-threat/"]
   },
   "order": 540
 }

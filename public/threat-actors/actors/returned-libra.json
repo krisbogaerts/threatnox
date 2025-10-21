@@ -3,22 +3,14 @@
   "name": "Returned Libra",
   "uuid": "7831d56e-5913-44ca-8835-f42017aeb0cd",
   "description": "Returned Libra, also known as 8220 Mining Group, is a cloud threat actor group that has been active since at least 2017. Tools commonly employed during their operations are PwnRig or DBUsed which are customized variants of the XMRig Monero mining software. The Returned Libra mining group is believed to have originated from a GitHub fork of the Rocke group's software. Returned Libra has elevated its mining operations with the use of cloud service platform credential scrapping.",
-  "aliases": [
-    "8220 Mining Group"
-  ],
-  "refs": [
-    "https://unit42.paloaltonetworks.com/atoms/returnedlibra/"
-  ],
+  "aliases": ["8220 Mining Group"],
+  "refs": ["https://unit42.paloaltonetworks.com/atoms/returnedlibra/"],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://unit42.paloaltonetworks.com/atoms/returnedlibra/"
-    ],
-    "synonyms": [
-      "8220 Mining Group"
-    ]
+    "refs": ["https://unit42.paloaltonetworks.com/atoms/returnedlibra/"],
+    "synonyms": ["8220 Mining Group"]
   },
   "order": 385
 }

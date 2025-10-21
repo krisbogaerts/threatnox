@@ -8,29 +8,14 @@
     "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/grayling-taiwan-cyber-attacks"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
-  "sectors": [
-    "Biomedical",
-    "Government",
-    "Information technology"
-  ],
+  "countries": ["CN"],
+  "sectors": ["Biomedical", "Government", "Information technology"],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "Taiwan",
-      "United States",
-      "Vietnam",
-      "Solomon Islands"
-    ],
-    "cfr-target-category": [
-      "Biomedical",
-      "Government",
-      "Information technology"
-    ],
+    "cfr-suspected-victims": ["Taiwan", "United States", "Vietnam", "Solomon Islands"],
+    "cfr-target-category": ["Biomedical", "Government", "Information technology"],
     "country": "CN",
     "refs": [
       "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/grayling-taiwan-cyber-attacks"

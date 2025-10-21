@@ -3,9 +3,7 @@
   "name": "Hezb",
   "uuid": "fd82cd40-9306-4285-8fae-ad29a9711603",
   "description": "Hezb is a group deploying cryptominers when new exploit are available for public facing vulnerabilities. The name is after the miner process they deploy.",
-  "aliases": [
-    "Mimo"
-  ],
+  "aliases": ["Mimo"],
   "refs": [
     "https://www.pwndefend.com/2022/06/04/cve-2022-26134-honeypot-payload-analysis-example/",
     "https://asec.ahnlab.com/en/60440/"
@@ -18,9 +16,7 @@
       "https://www.pwndefend.com/2022/06/04/cve-2022-26134-honeypot-payload-analysis-example/",
       "https://asec.ahnlab.com/en/60440/"
     ],
-    "synonyms": [
-      "Mimo"
-    ]
+    "synonyms": ["Mimo"]
   },
   "order": 394
 }

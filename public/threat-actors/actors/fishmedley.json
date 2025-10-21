@@ -4,16 +4,12 @@
   "uuid": "f0e7f369-a67d-4361-9710-9987bb306e92",
   "description": "Verticals targeted during Operation FishMedley include governments, NGOs, and think tanks, across Asia, Europe, and the United States. ; Operators used implants – such as ShadowPad, SodaMaster, and Spyder – that are common or exclusive to China-aligned threat actors. ; We assess with high confidence that Operation FishMedley was conducted by the FishMonger APT group.",
   "aliases": [],
-  "refs": [
-    "https://www.welivesecurity.com/en/eset-research/operation-fishmedley/"
-  ],
+  "refs": ["https://www.welivesecurity.com/en/eset-research/operation-fishmedley/"],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.welivesecurity.com/en/eset-research/operation-fishmedley/"
-    ]
+    "refs": ["https://www.welivesecurity.com/en/eset-research/operation-fishmedley/"]
   },
   "order": 820
 }

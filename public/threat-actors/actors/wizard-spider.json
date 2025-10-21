@@ -35,16 +35,8 @@
     "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/"
   ],
   "country": "RU",
-  "countries": [
-    "RU"
-  ],
-  "sectors": [
-    "Defense",
-    "Financial",
-    "Government",
-    "Healthcare",
-    "Telecommunications"
-  ],
+  "countries": ["RU"],
+  "sectors": ["Defense", "Financial", "Government", "Healthcare", "Telecommunications"],
   "related": [],
   "rawMeta": {
     "cfr-suspected-state-sponsor": "Russian Federation",

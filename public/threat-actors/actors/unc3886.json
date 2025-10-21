@@ -11,9 +11,7 @@
     "https://www.mandiant.com/resources/blog/vmware-detection-containment-hardening"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {

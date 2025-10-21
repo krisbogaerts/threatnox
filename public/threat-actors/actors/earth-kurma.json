@@ -4,16 +4,12 @@
   "uuid": "a4852709-089e-4dc2-a17f-6a00225512a3",
   "description": "Earth Kurma is an APT group targeting government and telecommunications sectors in Southeast Asia, with a primary focus on data exfiltration. They employ advanced custom malware, including rootkits like KRNRAT and MORIYA, and utilize cloud storage services for exfiltration. Their toolsets include TESDAT and SIMPOBOXSPY, and they demonstrate adaptive TTPs and complex evasion techniques. Attribution overlaps with other APT groups, but distinct attack patterns warrant their separate designation.",
   "aliases": [],
-  "refs": [
-    "https://www.trendmicro.com/en_us/research/25/d/earth-kurma-apt-campaign.html"
-  ],
+  "refs": ["https://www.trendmicro.com/en_us/research/25/d/earth-kurma-apt-campaign.html"],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.trendmicro.com/en_us/research/25/d/earth-kurma-apt-campaign.html"
-    ]
+    "refs": ["https://www.trendmicro.com/en_us/research/25/d/earth-kurma-apt-campaign.html"]
   },
   "order": 840
 }

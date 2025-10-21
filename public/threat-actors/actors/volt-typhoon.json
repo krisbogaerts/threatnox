@@ -19,9 +19,7 @@
     "https://www.dragos.com/threat/voltzite/"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {

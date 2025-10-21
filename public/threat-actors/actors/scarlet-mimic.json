@@ -3,10 +3,7 @@
   "name": "Scarlet Mimic",
   "uuid": "0da10682-85c6-4c0b-bace-ba1f7adfb63e",
   "description": "Scarlet Mimic is a threat group that has targeted minority rights activists. This group has not been directly linked to a government source, but the group’s motivations appear to overlap with those of the Chinese government. While there is some overlap between IP addresses used by Scarlet Mimic and Putter Panda, APT 2, it has not been concluded that the groups are the same.\nThe attacks began over four years ago and their targeting pattern suggests that this adversary’s primary mission is to gather information about minority rights activists. We do not have evidence directly linking these attacks to a government source, but the information derived from these activities supports an assessment that a group or groups with motivations similar to the stated position of the Chinese government in relation to these targets is involved.\nThe attacks we attribute to Scarlet Mimic have primarily targeted Uyghur and Tibetan activists as well as those who are interested in their causes. Both the Tibetan community and the Uyghurs, a Turkic Muslim minority residing primarily in northwest China, have been targets of multiple sophisticated attacks in the past decade. Both also have history of strained relationships with the government of the People’s Republic of China (PRC), though we do not have evidence that links Scarlet Mimic attacks to the PRC.\nScarlet Mimic attacks have also been identified against government organizations in Russia and India, who are responsible for tracking activist and terrorist activities. While we do not know the precise target of each of the Scarlet Mimic attacks, many of them align to the patterns described above.",
-  "aliases": [
-    "G0029",
-    "Golfing Taurus"
-  ],
+  "aliases": ["G0029", "Golfing Taurus"],
   "refs": [
     "https://attack.mitre.org/wiki/Groups",
     "https://unit42.paloaltonetworks.com/scarlet-mimic-years-long-espionage-targets-minority-activists/",
@@ -14,9 +11,7 @@
     "https://unit42.paloaltonetworks.com/atoms/golfing-taurus/"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -28,13 +23,8 @@
       "https://attack.mitre.org/groups/G0029/",
       "https://unit42.paloaltonetworks.com/atoms/golfing-taurus/"
     ],
-    "synonyms": [
-      "G0029",
-      "Golfing Taurus"
-    ],
-    "targeted-sector": [
-      "Activists"
-    ]
+    "synonyms": ["G0029", "Golfing Taurus"],
+    "targeted-sector": ["Activists"]
   },
   "order": 76
 }

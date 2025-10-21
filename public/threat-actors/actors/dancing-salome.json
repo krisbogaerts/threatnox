@@ -14,13 +14,8 @@
     "refs": [
       "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07170728/Guerrero-Saade-Raiu-VB2017.pdf"
     ],
-    "suspected-victims": [
-      "Ukraine"
-    ],
-    "targeted-sector": [
-      "Think Tanks",
-      "Government, Administration"
-    ]
+    "suspected-victims": ["Ukraine"],
+    "targeted-sector": ["Think Tanks", "Government, Administration"]
   },
   "order": 88
 }

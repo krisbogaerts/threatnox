@@ -9,9 +9,7 @@
     "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-gimmick-malware-active-iocs"
   ],
   "country": "CN",
-  "countries": [
-    "CN"
-  ],
+  "countries": ["CN"],
   "sectors": [],
   "related": [],
   "rawMeta": {
