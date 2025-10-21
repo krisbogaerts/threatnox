@@ -354,7 +354,7 @@ export default function ThreatNewsLive() {
                           href={it.link}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="transition-opacity opacity-0 group-hover:opacity-100"
+                          className="opacity-0 transition-opacity group-hover:opacity-100"
                           aria-label="Open in new tab"
                         >
                           ↗
