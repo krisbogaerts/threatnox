@@ -32,13 +32,14 @@ export async function generateStaticParams() {
   return list.map((a) => ({ slug: a.slug }))
 }
 
-export default function ThreatActorPage({ params }: { params: { slug: string } }) {
+export default async function ThreatActorPage(props: { params: Promise<{ slug: string }> }) {
+  const { slug } = await props.params
   const file = path.join(
     process.cwd(),
     'public',
     'threat-actors',
     'actors',
-    `${params.slug}.json`
+    `${slug}.json`
   )
   const actor = readJSON<Actor>(file)
   if (!actor) return notFound()
