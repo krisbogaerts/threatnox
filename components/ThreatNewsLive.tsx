@@ -37,9 +37,9 @@ export default function ThreatNewsLive() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string>('')
   const [search, setSearch] = useState('')
-  const [filter, setFilter] = useState<Filter>('last_day')
+  const [filter, setFilter] = useState<Filter>('last_20')
   const [buildTime, setBuildTime] = useState<number | null>(null)
-  const [channel, setChannel] = useState<'all' | 'emerging' | 'security' | 'threatintel' | 'vulns'>('all')
+  const [channel, setChannel] = useState<'all' | 'emerging' | 'security' | 'threatintel' | 'vulns'>('emerging')
   const searchRef = useRef<HTMLInputElement | null>(null)
 
   useEffect(() => {

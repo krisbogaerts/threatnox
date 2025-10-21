@@ -20,7 +20,7 @@ export default function Home({ posts }) {
         <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(ellipse_at_center,rgba(37,99,235,0.06),rgba(255,255,255,0)_60%)] dark:bg-[radial-gradient(ellipse_at_center,rgba(37,99,235,0.12),rgba(0,0,0,0)_60%)]" />
         <div className="rounded-lg border border-gray-200 bg-white/80 px-5 py-6 shadow-sm backdrop-blur-[2px] dark:border-gray-800 dark:bg-gray-900/60">
           <h1 className="text-2xl font-semibold tracking-tight text-gray-900 sm:text-3xl dark:text-gray-100">
-            {siteMetadata.title}
+            {/*{siteMetadata.title}*/}
           </h1>
           <p className="mt-2 max-w-3xl text-base text-gray-600 dark:text-gray-400">
             {siteMetadata.description}

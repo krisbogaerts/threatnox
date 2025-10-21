@@ -1,8 +1,8 @@
 const headerNavLinks = [
   { href: '/', title: 'Home' },
   { href: '/blog', title: 'Blog' },
-  { href: '/threat-actors', title: 'Threat Actors' },
-  { href: '/threat-news', title: 'Threat News' },
+  { href: '/threat-actors', title: 'Actors' },
+  { href: '/threat-news', title: 'News' },
   { href: '/tags', title: 'Tags' },
   { href: '/projects', title: 'Projects' },
   { href: '/about', title: 'About' },
