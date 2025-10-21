@@ -15,14 +15,17 @@
   --color-primary-50: #eff6ff; /* blue-50 */
   --color-primary-100: #dbeafe; /* blue-100 */
   --color-primary-200: #bfdbfe; /* blue-200 */
-  --color-primary-300: #93c5fd; /* blue-300 */
-  --color-primary-400: #60a5fa; /* blue-400 */
-  --color-primary-500: #2563eb; /* blue-600 as main */
-  --color-primary-600: #1d4ed8; /* blue-700 */
-  --color-primary-700: #1e40af; /* blue-800 */
-  --color-primary-800: #1e3a8a; /* blue-900 */
+  --color-primary-300: #3f6ea0; /* lighter navy */
+  --color-primary-400: #2b5c8a; /* lighter step for contrast */
+  --color-primary-500: #0f2a5a; /* main navy */
+  --color-primary-600: #0c234b; /* hover navy */
+  --color-primary-700: #0b1f42; /* pressed */
+  --color-primary-800: #091a37; /* deepest ui */
   --color-primary-900: #172554; /* blue-950 */
   --color-primary-950: #0b1220; /* deep */
+
+  /* Optional accent (logo cyan) */
+  --color-accent-500: #22d3ee;
 
   /* Dark theme grays */
   --color-gray-50: oklch(0.985 0.002 247.839);
@@ -58,6 +61,13 @@
   color utility to any element that depends on these defaults.
 */
 @layer base {
+  /* Brighten primary on dark mode for better contrast */
+  :where(.dark, .dark *) {
+    --color-primary-400: #3b82f6; /* blue-500 */
+    --color-primary-500: #2563eb; /* blue-600 */
+    --color-primary-600: #1e40af; /* blue-800 */
+  }
+
   *,
   ::after,
   ::before,

@@ -337,7 +337,15 @@ export default function ThreatNewsLive() {
                           const src = faviconUrl(host)
                           return (
                             <>
-                              {src && <Image src={src} alt="" width={16} height={16} className="inline-block" />}
+                              {src && (
+                                <Image
+                                  src={src}
+                                  alt=""
+                                  width={16}
+                                  height={16}
+                                  className="inline-block"
+                                />
+                              )}
                               <span>{it.source || shortSource(host) || host}</span>
                             </>
                           )
@@ -346,7 +354,7 @@ export default function ThreatNewsLive() {
                           href={it.link}
                           target="_blank"
                           rel="noopener noreferrer"
-                          className="opacity-0 transition-opacity group-hover:opacity-100"
+                          className="transition-opacity opacity-0 group-hover:opacity-100"
                           aria-label="Open in new tab"
                         >
                           ↗

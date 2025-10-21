@@ -1,10 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'SecureHub',
-  author: 'SecureHub Team',
-  headerTitle: 'SecureHub',
-  description:
-    'Professional cyber threat analysis, research, and tooling for practitioners and experts.',
+  title: 'THREATNOX',
+  author: 'THREATNOX Team',
+  headerTitle: 'THREATNOX',
+  description: 'Signal over noise for defenders.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
