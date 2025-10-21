@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-21T18:16:22.044Z",
+  "updatedAt": "2025-10-21T19:10:02.220Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Prime Dental",
+      "link": "https://www.ransomware.live/id/UHJpbWUgRGVudGFsQHNpbm9iaQ==",
+      "summary": "Our practice specializes in procedures ranging from cosmetic dentistry, preventive dentistry, orthodontics, and early intervention orthodontics for young children and teenagers. Providing high-quality dental care is what we strive for daily and this is reflected in our detail-oriented work ethic. We work with patients closely to achieve the best results clinically possible, placing emphasis on educating our patients along the way. At Prime Dental we take extra care to explain the specifics of each procedure provided as well as to inform patients on what they can personally do to achieve better results. Because we see dentistry as a partnership, educating our patients is a top priority in our goal to improve patients overall dental health. We also place a strong emphasis on keeping current with modern technological advances so youll find our clean and contemporary facility equipped with quality, state-of-the-art technology",
+      "pubDate": "Tue, 21 Oct 2025 18:38:35 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?7016a41412dff3845c228c700382a1b5",
+      "group": "Sinobi",
+      "victim": "Prime Dental",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Crave Management",
+      "link": "https://www.ransomware.live/id/Q3JhdmUgTWFuYWdlbWVudEBzaW5vYmk=",
+      "summary": "Crave Management Group is a fast-food franchisee operator based in Montana, known for its diverse brands and commitment to operational excellence. With a growing presence in Utah, the company is expanding its portfolio to include Bobbys Burgers by Bobby Flay alongside its existing Taco Bell locations. They prioritize exceptional customer experiences and offer unique benefits to employees, including early parental leave and paid volunteer opportunities. Crave Management Group is excited about creating numerous new career opportunities while maintaining a focus on community engagement and employee growth.",
+      "pubDate": "Tue, 21 Oct 2025 18:38:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?52023a13980157a1f2c27c4aaa4b7d9c",
+      "group": "Sinobi",
+      "victim": "Crave Management",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Peraso",
+      "link": "https://www.ransomware.live/id/UGVyYXNvQHJoeXNpZGE=",
+      "summary": "Peraso",
+      "pubDate": "Tue, 21 Oct 2025 18:37:21 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/rhysida?6b83104dfa2657fe79fea0f9d2d442a5",
+      "group": "Rhysida",
+      "victim": "Peraso",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Beast has just published a new victim : Microdevice",
       "link": "https://www.ransomware.live/id/TWljcm9kZXZpY2VAYmVhc3Q=",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Addis",
       "country": "ET"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Ditransa",
-      "link": "https://www.ransomware.live/id/RGl0cmFuc2FAcWlsaW4=",
-      "summary": "Ditransa specializes in logistics services aimed at optimizing every stage of the supply chain, from mass transport to last-mile delivery. With over 30 years of experience, the company has established itself as a leader in ground freight tran            ...",
-      "pubDate": "Tue, 14 Oct 2025 20:20:24 +0000",
-      "category": "CO",
-      "guid": "https://www.ransomware.live/group/qilin?599451be6d5b9f41c758f16a7f789cc1",
-      "group": "Qilin",
-      "victim": "Ditransa",
-      "country": "CO"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : LaRosa's",
-      "link": "https://www.ransomware.live/id/TGFSb3NhJ3NAcWlsaW4=",
-      "summary": "LaRosa&#x27;s, Inc. operates and franchises Italian restaurants and family pizzerias. The company offers pizzas and other Italian favorites for dine-in, delivery, and carrying out. It serves guests and neighborhoods throughout Greater Cincinnati,             ...",
-      "pubDate": "Tue, 14 Oct 2025 20:19:47 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?08e163bafcd8dee4ba7542f3263ac6d0",
-      "group": "Qilin",
-      "victim": "LaRosa's",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : McGeorge Architecture Interiors",
-      "link": "https://www.ransomware.live/id/TWNHZW9yZ2UgQXJjaGl0ZWN0dXJlIEludGVyaW9yc0BxaWxpbg==",
-      "summary": "McGeorge Architecture Interiors (MAI) is a full service architecture and interior design firm specializing in corporate office, retail projects of all varying scopes and sizes, and single family residential properties. MAI was founded by Matt            ...",
-      "pubDate": "Tue, 14 Oct 2025 20:19:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?0d75fd8cf9de5dd9434c1ce806b9f74b",
-      "group": "Qilin",
-      "victim": "McGeorge Architecture Interiors",
-      "country": "US"
     }
   ]
 }
