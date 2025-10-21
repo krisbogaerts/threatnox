@@ -88,8 +88,8 @@ jobs:
       - name: Commit files
         id: commit
         run: |
-          git add ./public/threat-news-live/rss.xml || true
-          git add ./public/threat-news-live/opml.xml || true
+          git add -f ./public/threat-news-live/rss.xml || true
+          git add -f ./public/threat-news-live/opml.xml || true
           git add ./public/threat-news-live/build_time.txt || true
           let ts=$(date +"%s")
           git diff-index --quiet HEAD || git commit -m "Feed rebuild @ ${ts}" -a
