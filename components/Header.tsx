@@ -1,9 +1,9 @@
-"use client"
+'use client'
 
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
 import Image from 'next/image'
-import Brand from '../THREATNOX_logo.png'
+import Brand from '../css/THREATNOX_logo.png'
 import Link from './Link'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
