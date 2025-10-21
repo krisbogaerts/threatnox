@@ -1,5 +1,6 @@
 'use client'
 
+import Image from 'next/image'
 import { useEffect, useMemo, useRef, useState } from 'react'
 
 type Item = {
@@ -11,6 +12,7 @@ type Item = {
 }
 
 type Filter = 'last_20' | 'last_50' | 'last_day' | 'firehose'
+type Channel = 'all' | 'emerging' | 'security' | 'threatintel' | 'vulns'
 
 function domainFromUrl(url: string): string {
   try {
@@ -51,7 +53,7 @@ export default function ThreatNewsLive() {
   const [search, setSearch] = useState('')
   const [filter, setFilter] = useState<Filter>('last_20')
   const [buildTime, setBuildTime] = useState<number | null>(null)
-  const [channel, setChannel] = useState<'all' | 'emerging' | 'security' | 'threatintel' | 'vulns'>('emerging')
+  const [channel, setChannel] = useState<Channel>('emerging')
   const searchRef = useRef<HTMLInputElement | null>(null)
   const [density, setDensity] = useState<'compact' | 'comfy'>(() => {
     if (typeof window === 'undefined') return 'compact'
@@ -215,110 +217,63 @@ export default function ThreatNewsLive() {
           scrolled ? 'border-b border-gray-200 shadow-sm dark:border-gray-800' : ''
         }`}
       >
-      <div className="flex items-center justify-between gap-4 py-2">
-        <div className="flex flex-wrap items-center gap-2">
-          {/* Channel presets */}
-          <div className="mr-2 flex flex-wrap items-center gap-2">
-            <button
-              onClick={() => setChannel('emerging')}
-              className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'emerging' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
-              title="t"
-            >
-              ⚠️ Emerging
-            </button>
-            <button
-              onClick={() => setChannel('security')}
-              className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'security' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
-              title="w"
-            >
-              Security News
-            </button>
-            <button
-              onClick={() => setChannel('threatintel')}
-              className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'threatintel' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
-              title="e"
-            >
-              Threat Intelligence
-            </button>
-            <button
-              onClick={() => setChannel('vulns')}
-              className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'vulns' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
-              title="r"
-            >
-              Exploits & Vulns
-            </button>
-            <button
-              onClick={() => setChannel('all')}
-              className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'all' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
-              title="q"
-            >
-              All
-            </button>
+        <div className="flex items-center justify-between gap-4 py-2">
+          <div className="flex flex-wrap items-center gap-2">
+            {/* Channel presets */}
+            <div className="mr-2 flex flex-wrap items-center gap-2">
+              <button
+                onClick={() => setChannel('emerging')}
+                className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'emerging' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
+                title="t"
+              >
+                ⚠️ Emerging
+              </button>
+              <button
+                onClick={() => setChannel('security')}
+                className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'security' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
+                title="w"
+              >
+                Security News
+              </button>
+              <button
+                onClick={() => setChannel('threatintel')}
+                className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'threatintel' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
+                title="e"
+              >
+                Threat Intelligence
+              </button>
+              <button
+                onClick={() => setChannel('vulns')}
+                className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'vulns' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
+                title="r"
+              >
+                Exploits & Vulns
+              </button>
+              <button
+                onClick={() => setChannel('all')}
+                className={`rounded-full border px-2 py-0.5 text-xs ${channel === 'all' ? 'border-primary-400 text-primary-700 dark:text-primary-300' : 'border-gray-300 text-gray-700 dark:border-gray-700 dark:text-gray-300'}`}
+                title="q"
+              >
+                All
+              </button>
+            </div>
+            {/* ... */}
           </div>
-          <button
-            onClick={() => setFilter('last_20')}
-            className={`rounded-md border px-2 py-1 text-sm ${filter === 'last_20' ? 'border-primary-400 text-primary-600 dark:text-primary-300' : 'border-gray-200 text-gray-700 dark:border-gray-800 dark:text-gray-300'}`}
-          >
-            Last 20
-          </button>
-          <button
-            onClick={() => setFilter('last_50')}
-            className={`rounded-md border px-2 py-1 text-sm ${filter === 'last_50' ? 'border-primary-400 text-primary-600 dark:text-primary-300' : 'border-gray-200 text-gray-700 dark:border-gray-800 dark:text-gray-300'}`}
-          >
-            Last 50
-          </button>
-          <button
-            onClick={() => setFilter('last_day')}
-            className={`rounded-md border px-2 py-1 text-sm ${filter === 'last_day' ? 'border-primary-400 text-primary-600 dark:text-primary-300' : 'border-gray-200 text-gray-700 dark:border-gray-800 dark:text-gray-300'}`}
-          >
-            Last day
-          </button>
-          <button
-            onClick={() => setFilter('firehose')}
-            className={`rounded-md border px-2 py-1 text-sm ${filter === 'firehose' ? 'border-primary-400 text-primary-600 dark:text-primary-300' : 'border-gray-200 text-gray-700 dark:border-gray-800 dark:text-gray-300'}`}
-          >
-            Firehose
-          </button>
+          <div className="text-right text-xs text-gray-500 dark:text-gray-400">
+            <div className="hidden md:block">/ focus • 1–4 filters • q/w/e/r/t channel</div>
+            <div>
+              Updated{' '}
+              {buildTime
+                ? new Date(buildTime * 1000).toLocaleString()
+                : items[0]
+                  ? items[0].pubDate.toLocaleString()
+                  : '—'}
+            </div>
+          </div>
+        </div>
+      </div>
 
-          {/* Density toggle */}
-          <div className="ml-2 hidden items-center gap-1 sm:flex">
-            <button
-              onClick={() => setDensity('compact')}
-              className={`rounded-md border px-2 py-1 text-xs ${density === 'compact' ? 'border-primary-400 text-primary-600 dark:text-primary-300' : 'border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-400'}`}
-              title="Compact"
-            >
-              Compact
-            </button>
-            <button
-              onClick={() => setDensity('comfy')}
-              className={`rounded-md border px-2 py-1 text-xs ${density === 'comfy' ? 'border-primary-400 text-primary-600 dark:text-primary-300' : 'border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-400'}`}
-              title="Comfortable"
-            >
-              Comfy
-            </button>
-          </div>
-          <input
-            type="search"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder="Search titles, sources, tags"
-            ref={searchRef}
-            className="focus:ring-primary-500 w-56 rounded-md border border-gray-200 bg-white px-2 py-1 text-sm text-gray-900 shadow-sm focus:ring-2 dark:border-gray-800 dark:bg-gray-800 dark:text-gray-100"
-          />
-        </div>
-        <div className="text-right text-xs text-gray-500 dark:text-gray-400">
-          <div className="hidden md:block">/ focus • 1–4 filters • q/w/e/r/t channel</div>
-          <div>
-            Updated{' '}
-            {buildTime
-              ? new Date(buildTime * 1000).toLocaleString()
-              : items[0]
-                ? items[0].pubDate.toLocaleString()
-                : '—'}
-          </div>
-        </div>
-      </div>
-      </div>
+      {/* ... */}
 
       {loading ? (
         <ul className="mt-4 space-y-2">
@@ -342,7 +297,7 @@ export default function ThreatNewsLive() {
                 </div>
                 <a
                   href={`#${day.replaceAll(' ', '-')}`}
-                  className="text-xs text-gray-400 opacity-0 hover:text-gray-500 group-hover:opacity-100"
+                  className="text-xs text-gray-400 opacity-0 group-hover:opacity-100 hover:text-gray-500"
                   aria-label={`Anchor link for ${day}`}
                 >
                   #
@@ -375,16 +330,14 @@ export default function ThreatNewsLive() {
                           </div>
                         )}
                       </div>
-                      <div className="text-xs whitespace-nowrap text-gray-500 dark:text-gray-400 flex items-center gap-1">
+                      <div className="flex items-center gap-1 text-xs whitespace-nowrap text-gray-500 dark:text-gray-400">
                         {timeAgo(it.pubDate)} ·
                         {(() => {
                           const host = domainFromUrl(it.link)
                           const src = faviconUrl(host)
                           return (
                             <>
-                              {src && (
-                                <img src={src} alt="" width={16} height={16} className="inline-block" />
-                              )}
+                              {src && <Image src={src} alt="" width={16} height={16} className="inline-block" />}
                               <span>{it.source || shortSource(host) || host}</span>
                             </>
                           )
