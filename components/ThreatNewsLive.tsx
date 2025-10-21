@@ -14,11 +14,23 @@ type Filter = 'last_20' | 'last_50' | 'last_day' | 'firehose'
 
 function domainFromUrl(url: string): string {
   try {
-    const u = new URL(url)
-    return u.hostname.replace(/^www\./, '')
+    return new URL(url).hostname.replace(/^www\./, '')
   } catch {
     return ''
   }
+}
+
+function faviconUrl(host: string) {
+  if (!host) return ''
+  // Google s2 favicons; sz=16 keeps it tiny and fast
+  return `https://www.google.com/s2/favicons?domain=${encodeURIComponent(host)}&sz=16`
+}
+
+function shortSource(host: string) {
+  if (!host) return ''
+  const parts = host.split('.')
+  if (parts.length <= 2) return host
+  return parts.slice(-2).join('.')
 }
 
 function timeAgo(d: Date): string {
@@ -41,6 +53,11 @@ export default function ThreatNewsLive() {
   const [buildTime, setBuildTime] = useState<number | null>(null)
   const [channel, setChannel] = useState<'all' | 'emerging' | 'security' | 'threatintel' | 'vulns'>('emerging')
   const searchRef = useRef<HTMLInputElement | null>(null)
+  const [density, setDensity] = useState<'compact' | 'comfy'>(() => {
+    if (typeof window === 'undefined') return 'compact'
+    return (localStorage.getItem('tn_density') as 'compact' | 'comfy') || 'compact'
+  })
+  const [scrolled, setScrolled] = useState(false)
 
   useEffect(() => {
     let cancelled = false
@@ -112,11 +129,22 @@ export default function ThreatNewsLive() {
     }
 
     window.addEventListener('keydown', onKeydown)
+    const onScroll = () => setScrolled(window.scrollY > 8)
+    window.addEventListener('scroll', onScroll)
     return () => {
       cancelled = true
       window.removeEventListener('keydown', onKeydown)
+      window.removeEventListener('scroll', onScroll)
     }
   }, [])
+
+  useEffect(() => {
+    try {
+      localStorage.setItem('tn_density', density)
+    } catch {
+      const _ = null
+    }
+  }, [density])
 
   const filtered = useMemo(() => {
     let arr = items
@@ -177,9 +205,17 @@ export default function ThreatNewsLive() {
     return { groups, order }
   }, [filtered])
 
+  const rowPadding = density === 'compact' ? 'py-1' : 'py-2'
+  const rowText = density === 'compact' ? 'text-sm' : 'text-[15px]'
+
   return (
     <div className="space-y-4">
-      <div className="flex items-center justify-between gap-4">
+      <div
+        className={`sticky top-14 z-10 -mx-2 px-2 backdrop-blur supports-[backdrop-filter]:bg-white/70 dark:supports-[backdrop-filter]:bg-gray-950/50 ${
+          scrolled ? 'border-b border-gray-200 shadow-sm dark:border-gray-800' : ''
+        }`}
+      >
+      <div className="flex items-center justify-between gap-4 py-2">
         <div className="flex flex-wrap items-center gap-2">
           {/* Channel presets */}
           <div className="mr-2 flex flex-wrap items-center gap-2">
@@ -243,6 +279,24 @@ export default function ThreatNewsLive() {
           >
             Firehose
           </button>
+
+          {/* Density toggle */}
+          <div className="ml-2 hidden items-center gap-1 sm:flex">
+            <button
+              onClick={() => setDensity('compact')}
+              className={`rounded-md border px-2 py-1 text-xs ${density === 'compact' ? 'border-primary-400 text-primary-600 dark:text-primary-300' : 'border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-400'}`}
+              title="Compact"
+            >
+              Compact
+            </button>
+            <button
+              onClick={() => setDensity('comfy')}
+              className={`rounded-md border px-2 py-1 text-xs ${density === 'comfy' ? 'border-primary-400 text-primary-600 dark:text-primary-300' : 'border-gray-200 text-gray-600 dark:border-gray-800 dark:text-gray-400'}`}
+              title="Comfortable"
+            >
+              Comfy
+            </button>
+          </div>
           <input
             type="search"
             value={search}
@@ -253,7 +307,7 @@ export default function ThreatNewsLive() {
           />
         </div>
         <div className="text-right text-xs text-gray-500 dark:text-gray-400">
-          <div>Template ver. 1.2.8</div>
+          <div className="hidden md:block">/ focus • 1–4 filters • q/w/e/r/t channel</div>
           <div>
             Updated{' '}
             {buildTime
@@ -264,9 +318,16 @@ export default function ThreatNewsLive() {
           </div>
         </div>
       </div>
+      </div>
 
       {loading ? (
-        <div className="py-8 text-gray-500 dark:text-gray-400">Loading external news…</div>
+        <ul className="mt-4 space-y-2">
+          {Array.from({ length: 10 }).map((_, i) => (
+            <li key={i} className="animate-pulse">
+              <div className="h-3 w-2/3 rounded bg-gray-200 dark:bg-gray-800" />
+            </li>
+          ))}
+        </ul>
       ) : error ? (
         <div className="py-8 text-red-600 dark:text-red-400">{error}</div>
       ) : filtered.length === 0 ? (
@@ -274,13 +335,22 @@ export default function ThreatNewsLive() {
       ) : (
         <div className="space-y-6">
           {grouped.order.map((day) => (
-            <div key={day} className="space-y-1.5">
-              <div className="text-xs font-semibold text-gray-600 dark:text-gray-400">
-                {day}
+            <div key={day} className="space-y-1.5" id={day.replaceAll(' ', '-')}>
+              <div className="flex items-center gap-2">
+                <div className="rounded-full bg-gray-100 px-2 py-0.5 text-[11px] font-semibold text-gray-700 dark:bg-gray-800 dark:text-gray-300">
+                  {day}
+                </div>
+                <a
+                  href={`#${day.replaceAll(' ', '-')}`}
+                  className="text-xs text-gray-400 opacity-0 hover:text-gray-500 group-hover:opacity-100"
+                  aria-label={`Anchor link for ${day}`}
+                >
+                  #
+                </a>
               </div>
               <ul className="space-y-1">
                 {grouped.groups[day].map((it, idx) => (
-                  <li key={idx} className="py-1 text-sm">
+                  <li key={idx} className={`${rowPadding} ${rowText} group`}>
                     <div className="flex items-center justify-between gap-3">
                       <div className="flex min-w-0 flex-1 items-center gap-2">
                         <a
@@ -305,8 +375,29 @@ export default function ThreatNewsLive() {
                           </div>
                         )}
                       </div>
-                      <div className="text-xs text-gray-500 whitespace-nowrap dark:text-gray-400">
-                        {timeAgo(it.pubDate)} · {it.source || domainFromUrl(it.link)}
+                      <div className="text-xs whitespace-nowrap text-gray-500 dark:text-gray-400 flex items-center gap-1">
+                        {timeAgo(it.pubDate)} ·
+                        {(() => {
+                          const host = domainFromUrl(it.link)
+                          const src = faviconUrl(host)
+                          return (
+                            <>
+                              {src && (
+                                <img src={src} alt="" width={16} height={16} className="inline-block" />
+                              )}
+                              <span>{it.source || shortSource(host) || host}</span>
+                            </>
+                          )
+                        })()}
+                        <a
+                          href={it.link}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="opacity-0 transition-opacity group-hover:opacity-100"
+                          aria-label="Open in new tab"
+                        >
+                          ↗
+                        </a>
                       </div>
                     </div>
                   </li>
