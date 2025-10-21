@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-21T20:13:26.165Z",
+  "updatedAt": "2025-10-21T21:10:43.873Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : SANHUA INTERNATIONAL",
+      "link": "https://www.ransomware.live/id/U0FOSFVBIElOVEVSTkFUSU9OQUxAc2lub2Jp",
+      "summary": "Sanhua International is delivering on its commitment to offer eco-friendly products with the North America introduction at the 2017 AHR Expo in Las Vegas of the Green Tech Line of refrigeration and air conditioning components, designed for use with natural refrigerants R290 (propane), R600a (isobutane) and R744 (CO2). Recent mandates from the U.S. Environmental Protection Agency (U.S. EPA) are leading commercial refrigeration and air conditioning manufacturers to redesign product offerings for a greener future. Sanhua works closely with these world-class manufacturers by providing high quality, hydrocarbon and CO2 ready system components including valves, controllers, transducers, filter driers and micro-channel heat exchangers.",
+      "pubDate": "Tue, 21 Oct 2025 20:11:33 +0000",
+      "category": "CN",
+      "guid": "https://www.ransomware.live/group/sinobi?c20fb527161effdc34c4a17092f67899",
+      "group": "Sinobi",
+      "victim": "SANHUA INTERNATIONAL",
+      "country": "CN"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Nelligan White Architects",
       "link": "https://www.ransomware.live/id/TmVsbGlnYW4gV2hpdGUgQXJjaGl0ZWN0c0BwbGF5",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "City of Riviera Beach, Florida",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Gittens Healthcare",
-      "link": "https://www.ransomware.live/id/R2l0dGVucyBIZWFsdGhjYXJlQHFpbGlu",
-      "summary": "Gittens Healthcare is a leading pharmacy located in Grenada, offering a wide variety of products including vitamins, over-the-counter medications, health and beauty aids, baby care products, and household essentials. The company is committed             ...",
-      "pubDate": "Tue, 14 Oct 2025 20:22:20 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?515fabbc97c7d1f5ce01bf93e9a05a1d",
-      "group": "Qilin",
-      "victim": "Gittens Healthcare",
-      "country": ""
     }
   ]
 }
