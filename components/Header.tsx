@@ -63,6 +63,7 @@ const Header = () => {
                 width={100}
                 height={100}
                 priority
+                unoptimized
                 className="h-full w-full border-0 object-contain"
               />
             </div>

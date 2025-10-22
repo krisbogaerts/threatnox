@@ -55,7 +55,7 @@ const securityHeaders = [
 
 const output = process.env.EXPORT ? 'export' : undefined
 const basePath = process.env.BASE_PATH || undefined
-const unoptimized = process.env.UNOPTIMIZED ? true : undefined
+const unoptimized = output === 'export' ? true : process.env.UNOPTIMIZED ? true : undefined
 
 /** @type {import('next').NextConfig | (() => import('next').NextConfig)} */
 const nextConfigFactory = () => {
