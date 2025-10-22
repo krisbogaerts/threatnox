@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-22T06:18:17.360Z",
+  "updatedAt": "2025-10-22T07:11:57.213Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : PT Pupuk Iskandar Muda",
+      "link": "https://www.ransomware.live/id/UFQgUHVwdWsgSXNrYW5kYXIgTXVkYUB0aGVnZW50bGVtZW4=",
+      "summary": "www.pim.co.id https://www.zoominfo.com/c/pt-pupuk-iskandar-muda/372769605 PT Pupuk Iskandar Muda is a chemical manufacturing company based in Lhokseumawe, Aceh. As a subsidiary of PT PIHC, they focus on producing two key agricultural products: urea and ammonia fertilizers. Their factory helps farmers across Indonesia grow better crops by creating high-quality chemical fertilizers that improve soil nutrition and support agricultural productivity.",
+      "pubDate": "Wed, 22 Oct 2025 06:54:27 +0000",
+      "category": "ID",
+      "guid": "https://www.ransomware.live/group/thegentlemen?1f1b96adcf1a472dd948f06ce81bf553",
+      "group": "Thegentlemen",
+      "victim": "PT Pupuk Iskandar Muda",
+      "country": "ID"
+    },
     {
       "title": "🏴‍☠️ Radar has just published a new victim : Capital Reinforcing LTD.",
       "link": "https://www.ransomware.live/id/Q2FwaXRhbCBSZWluZm9yY2luZyBMVEQuQHJhZGFy",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "EURORDIS",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : PQCNC Hospitals",
-      "link": "https://www.ransomware.live/id/UFFDTkMgSG9zcGl0YWxzQHFpbGlu",
-      "summary": "The Perinatal Quality Collaborative of North Carolina is a community-focused organization dedicated to improving maternal and infant health outcomes in the state. They offer various initiatives and resources aimed at enhancing the quality of             ...",
-      "pubDate": "Tue, 14 Oct 2025 20:25:46 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?3979cade00145f27592a7bedafcb12e5",
-      "group": "Qilin",
-      "victim": "PQCNC Hospitals",
-      "country": ""
     }
   ]
 }
