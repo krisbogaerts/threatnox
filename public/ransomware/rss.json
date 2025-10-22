@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-22T07:11:57.213Z",
+  "updatedAt": "2025-10-22T08:17:46.437Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Applied Technology Resources",
+      "link": "https://www.ransomware.live/id/QXBwbGllZCBUZWNobm9sb2d5IFJlc291cmNlc0BxaWxpbg==",
+      "summary": "Applied Technology Resources, Inc. is an international leader in Title Search Exams throughout the United States, offering unmatched accuracy and turnaround times through their proprietary information system. The company specializes in custom            ...",
+      "pubDate": "Wed, 22 Oct 2025 07:48:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?cf246f5aa78c769d620b689682d89da9",
+      "group": "Qilin",
+      "victim": "Applied Technology Resources",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Northern Light Technologies",
+      "link": "https://www.ransomware.live/id/Tm9ydGhlcm4gTGlnaHQgVGVjaG5vbG9naWVzQHFpbGlu",
+      "summary": "Founded in 1984, Northern Light Technologies (NLT) designs and manufactures underground lighting and networking solutions for the mining and tunnelling industries with manufacturing/assembly locations in Canada, Australia and Chile. Northern             ...",
+      "pubDate": "Wed, 22 Oct 2025 07:47:21 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?0e68c87f9345c85c2c6b53290a04aacb",
+      "group": "Qilin",
+      "victim": "Northern Light Technologies",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : PT Pupuk Iskandar Muda",
       "link": "https://www.ransomware.live/id/UFQgUHVwdWsgSXNrYW5kYXIgTXVkYUB0aGVnZW50bGVtZW4=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Alqueria",
       "country": "CO"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : SICE",
-      "link": "https://www.ransomware.live/id/U0lDRUBxaWxpbg==",
-      "summary": "SICE is a leading multinational company in technology integration for public infrastructure management. With over 100 years of history, it has become an international benchmark in the areas of ITS, tunnels, transportation, mobility and smart             ...",
-      "pubDate": "Tue, 14 Oct 2025 21:47:13 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?98c86f3d15442de4992710b9f0a037ab",
-      "group": "Qilin",
-      "victim": "SICE",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : EURORDIS",
-      "link": "https://www.ransomware.live/id/RVVST1JESVNAcWlsaW4=",
-      "summary": "EURORDIS is an organization dedicated to advocating for, empowering, and engaging individuals affected by rare diseases across Europe. They provide information and support related to rare diseases, facilitate connections among patient organiz            ...",
-      "pubDate": "Tue, 14 Oct 2025 20:26:24 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?37d649852c9ee42ec16d9aee0045f514",
-      "group": "Qilin",
-      "victim": "EURORDIS",
-      "country": "FR"
     }
   ]
 }
