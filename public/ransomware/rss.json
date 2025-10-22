@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-22T16:15:05.793Z",
+  "updatedAt": "2025-10-22T17:11:14.216Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Securotrop has just published a new victim : Superior Air Parts",
+      "link": "https://www.ransomware.live/id/U3VwZXJpb3IgQWlyIFBhcnRzQHNlY3Vyb3Ryb3A=",
+      "summary": "Status: AWAITING Size: 383 GB",
+      "pubDate": "Wed, 22 Oct 2025 16:50:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/securotrop?4db070bb57263a60eba568a1583a225a",
+      "group": "Securotrop",
+      "victim": "Superior Air Parts",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Magna Hospitality Group",
+      "link": "https://www.ransomware.live/id/TWFnbmEgSG9zcGl0YWxpdHkgR3JvdXBAcWlsaW4=",
+      "summary": "Magna Hospitality Group, USA -  a private equity firm dedicated to the investment, development and management of hotel properties. Magna employs more than 100 professionals specializing in all areas including investment, finance, legal, hotel            ...",
+      "pubDate": "Wed, 22 Oct 2025 16:47:48 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?acd346383f7bfb6ebf4c535169acd172",
+      "group": "Qilin",
+      "victim": "Magna Hospitality Group",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : AT&T Careers",
       "link": "https://www.ransomware.live/id/QVQmVCBDYXJlZXJzQGV2ZXJlc3Q=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?d8d3e220c80c78b6f46b23f5f1bbb7c4",
       "group": "Qilin",
       "victim": "Alu Perpignan",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Home/ Schramm Udo Dipl Kfm Steuerberater",
-      "link": "https://www.ransomware.live/id/SG9tZS8gU2NocmFtbSBVZG8gRGlwbCBLZm0gU3RldWVyYmVyYXRlckBxaWxpbg==",
-      "summary": "The Marcus Schramm Law Firm offers competent legal advice and an experienced team. We specialize in various areas of law and place the highest priority on quality and professionalism. The amount of downloaded data is unknown at the moment. I            ...",
-      "pubDate": "Tue, 14 Oct 2025 21:50:02 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/qilin?93b8531de7f320c3e786d8490736bc52",
-      "group": "Qilin",
-      "victim": "Home/ Schramm Udo Dipl Kfm Steuerberater",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Roger RENARD Entreprise",
-      "link": "https://www.ransomware.live/id/Um9nZXIgUkVOQVJEIEVudHJlcHJpc2VAcWlsaW4=",
-      "summary": "A family business founded in 1951 in Amélie-les-Bains (66) by Roger RENARD, we specialize in air conditioning, heating, air handling, smoke extraction, plumbing, water treatment, and thermal process installations. We operate nationwide, bot            ...",
-      "pubDate": "Tue, 14 Oct 2025 21:49:45 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?47cfc49258d3767e61f842595a48ea40",
-      "group": "Qilin",
-      "victim": "Roger RENARD Entreprise",
       "country": "FR"
     }
   ]
