@@ -3,7 +3,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
 import Image from 'next/image'
-import Brand from '../css/THREATNOX_logo.png'
 import Link from './Link'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
@@ -58,7 +57,7 @@ const Header = () => {
           <div className="mr-0 ml-0 shrink-0">
             <div className="flex h-[60px] w-[60px] items-center justify-center overflow-visible rounded-none sm:h-24 sm:w-24 md:h-28 md:w-28">
               <Image
-                src={Brand}
+                src={siteMetadata.siteLogo}
                 alt="THREATNOX logo"
                 width={100}
                 height={100}
