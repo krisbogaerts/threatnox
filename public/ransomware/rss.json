@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-22T17:11:14.216Z",
+  "updatedAt": "2025-10-22T18:17:46.810Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : More Than Gourmet",
+      "link": "https://www.ransomware.live/id/TW9yZSBUaGFuIEdvdXJtZXRAcWlsaW4=",
+      "summary": "More Than Gourmet, USA - is a food company based on classic French culinary traditions. MTG products are used in gourmet restaurants, resorts and sold in specialty gourmet food stores.  Privately held since 1993, MTG has been financially soun            ...",
+      "pubDate": "Wed, 22 Oct 2025 17:38:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?8a7ae287973c211628381d11b3707843",
+      "group": "Qilin",
+      "victim": "More Than Gourmet",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Securotrop has just published a new victim : Superior Air Parts",
       "link": "https://www.ransomware.live/id/U3VwZXJpb3IgQWlyIFBhcnRzQHNlY3Vyb3Ryb3A=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Executive Cabinetry",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Alu Perpignan",
-      "link": "https://www.ransomware.live/id/QWx1IFBlcnBpZ25hbkBxaWxpbg==",
-      "summary": "ALU Perpignan specializes in PVC and aluminum joinery for individuals and professionals, working on both residential and commercial projects. Drawing on its expertise and know-how, the company offers a wide range of products, including window            ...",
-      "pubDate": "Tue, 14 Oct 2025 21:50:40 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?d8d3e220c80c78b6f46b23f5f1bbb7c4",
-      "group": "Qilin",
-      "victim": "Alu Perpignan",
-      "country": "FR"
     }
   ]
 }
