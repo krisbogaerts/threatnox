@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-22T13:27:49.697Z",
+  "updatedAt": "2025-10-22T14:13:04.540Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : KIS Asset Evaluation",
+      "link": "https://www.ransomware.live/id/S0lTIEFzc2V0IEV2YWx1YXRpb25AcWlsaW4=",
+      "summary": "KIS Asset Evaluation, Korea - company operating in the financial market, strives to become the No. 1 company in the field of financial asset valuation. KIS Pricing offers a wide range of services and solutions required in the financial indust            ...",
+      "pubDate": "Wed, 22 Oct 2025 13:46:31 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?8220370c25547574d40731b4d25c6dac",
+      "group": "Qilin",
+      "victim": "KIS Asset Evaluation",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Payoutsking has just published a new victim : T****s",
       "link": "https://www.ransomware.live/id/VCoqKipzQHBheW91dHNraW5n",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Hunter Construction Group",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Urban Linker",
-      "link": "https://www.ransomware.live/id/VXJiYW4gTGlua2VyQHFpbGlu",
-      "summary": "Urban Linker is a recruitment agency that specializes in sourcing and placing digital and tech professionals. Founded over eight years ago, the company has a strong presence in France with offices in Paris, Lyon, Toulouse, and Bordeaux, and i            ...",
-      "pubDate": "Tue, 14 Oct 2025 21:48:29 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?ea1253953535d44f21490c1dc415b319",
-      "group": "Qilin",
-      "victim": "Urban Linker",
-      "country": "FR"
     }
   ]
 }
