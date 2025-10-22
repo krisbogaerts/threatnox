@@ -3,7 +3,11 @@
   "name": "NARWHAL SPIDER",
   "uuid": "fda9cdea-0017-495e-879d-0f348db2aa07",
   "description": "NARWHAL SPIDER’s operation of Cutwail v2 was limited to country-specific spam campaigns, although late in 2019 there appeared to be an effort to expand by bringing in INDRIK SPIDER as a customer.",
-  "aliases": ["GOLD ESSEX", "TA544", "Storm-0302"],
+  "aliases": [
+    "GOLD ESSEX",
+    "TA544",
+    "Storm-0302"
+  ],
   "refs": [
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
     "http://www.secureworks.com/research/threat-profiles/gold-essex",
@@ -26,7 +30,11 @@
       "https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta544-targets-geographies-italy-japan-range-malware",
       "https://www.proofpoint.com/us/blog/threat-insight/q4-2020-threat-report-quarterly-analysis-cybersecurity-trends-tactics-and-themes"
     ],
-    "synonyms": ["GOLD ESSEX", "TA544", "Storm-0302"]
+    "synonyms": [
+      "GOLD ESSEX",
+      "TA544",
+      "Storm-0302"
+    ]
   },
   "order": 279
 }

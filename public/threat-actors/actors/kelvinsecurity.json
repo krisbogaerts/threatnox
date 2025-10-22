@@ -11,7 +11,9 @@
     "https://www.ibtimes.com/anonymous-challenges-russias-supposed-cyber-prowess-repeat-rosatom-breach-leaks-data-3505131"
   ],
   "country": "ES",
-  "countries": ["ES"],
+  "countries": [
+    "ES"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

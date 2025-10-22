@@ -22,7 +22,9 @@
     "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
   ],
   "country": "IR",
-  "countries": ["IR"],
+  "countries": [
+    "IR"
+  ],
   "sectors": [
     "Defense",
     "Government",
@@ -44,7 +46,12 @@
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
-    "cfr-suspected-victims": ["United States", "Israel", "Middle East", "Europe"],
+    "cfr-suspected-victims": [
+      "United States",
+      "Israel",
+      "Middle East",
+      "Europe"
+    ],
     "cfr-target-category": [
       "Defense",
       "Government",

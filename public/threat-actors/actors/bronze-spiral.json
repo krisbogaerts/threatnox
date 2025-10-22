@@ -13,7 +13,9 @@
     "https://www.cisa.gov/news-events/analysis-reports/ar21-112a"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

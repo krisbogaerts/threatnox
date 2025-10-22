@@ -3,15 +3,21 @@
   "name": "APT30",
   "uuid": "d3881afe-f781-4c53-9f68-33487a119a59",
   "description": "APT30 is a threat group suspected to be associated with the Chinese government. While Naikon shares some characteristics with APT30, the two groups do not appear to be exact matches",
-  "aliases": ["G0013"],
+  "aliases": [
+    "G0013"
+  ],
   "refs": [
     "https://attack.mitre.org/wiki/Group/G0013",
     "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
     "https://www.mandiant.com/resources/insights/apt-groups"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -25,7 +31,9 @@
       "Malaysia",
       "India"
     ],
-    "cfr-target-category": ["Government"],
+    "cfr-target-category": [
+      "Government"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [
@@ -33,7 +41,9 @@
       "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
       "https://www.mandiant.com/resources/insights/apt-groups"
     ],
-    "synonyms": ["G0013"]
+    "synonyms": [
+      "G0013"
+    ]
   },
   "order": 21
 }

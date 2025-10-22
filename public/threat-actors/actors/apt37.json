@@ -39,14 +39,26 @@
     "https://unit42.paloaltonetworks.com/atoms/moldypisces/"
   ],
   "country": "KP",
-  "countries": ["KP"],
-  "sectors": ["Government", "Private sector"],
+  "countries": [
+    "KP"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "Korea (Democratic People's Republic of)",
-    "cfr-suspected-victims": ["Republic of Korea", "Japan", "Vietnam"],
-    "cfr-target-category": ["Government", "Private sector"],
+    "cfr-suspected-victims": [
+      "Republic of Korea",
+      "Japan",
+      "Vietnam"
+    ],
+    "cfr-target-category": [
+      "Government",
+      "Private sector"
+    ],
     "country": "KP",
     "refs": [
       "https://www.volexity.com/blog/2021/08/17/north-korean-apt-inkysquid-infects-victims-using-browser-exploits/",

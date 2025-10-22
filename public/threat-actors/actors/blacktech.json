@@ -29,7 +29,9 @@
     "https://blogs.jpcert.or.jp/en/2022/03/jsac2022report1.html"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

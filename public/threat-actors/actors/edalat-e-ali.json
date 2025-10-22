@@ -10,7 +10,9 @@
     "https://www.chronline.com/stories/a-hacking-slugfest-between-iran-and-its-foes-sparks-fears-of-a-wider-cyberwar,281423"
   ],
   "country": "IR",
-  "countries": ["IR"],
+  "countries": [
+    "IR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

@@ -36,7 +36,9 @@
     "https://www.welivesecurity.com/en/eset-research/operation-fishmedley/"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [
     "Gambling companies",
     "Government Institutions",

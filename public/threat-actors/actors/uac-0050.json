@@ -15,7 +15,9 @@
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Germany"],
+    "cfr-suspected-victims": [
+      "Germany"
+    ],
     "refs": [
       "https://cert.gov.ua/article/3931296",
       "https://socprime.com/blog/remcos-rat-detection-uac-0050-hackers-launch-phishing-attacks-impersonating-the-security-service-of-ukraine/",

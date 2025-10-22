@@ -8,13 +8,19 @@
     "https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Private Sector"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Private Sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "75",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-target-category": ["Private Sector"],
+    "cfr-target-category": [
+      "Private Sector"
+    ],
     "country": "CN",
     "refs": [
       "https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf"

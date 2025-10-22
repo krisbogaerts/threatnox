@@ -8,7 +8,9 @@
     "https://www.symantec.com/connect/blogs/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets"
   ],
   "country": "IR",
-  "countries": ["IR"],
+  "countries": [
+    "IR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

@@ -3,7 +3,9 @@
   "name": "TA570",
   "uuid": "82a808ad-3f2f-43c0-bd15-848a6e27da95",
   "description": "One of the most active Qbot malware affiliates, Proofpoint has tracked the large cybercrime threat actor TA570 since 2018.",
-  "aliases": ["DEV-0450"],
+  "aliases": [
+    "DEV-0450"
+  ],
   "refs": [
     "https://www.proofpoint.com/us/blog/threat-insight/first-step-initial-access-leads-ransomware",
     "https://therecord.media/hackers-using-follina-windows-zero-day-to-spread-qbot-malware/",
@@ -11,7 +13,9 @@
     "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -22,7 +26,9 @@
       "https://isc.sans.edu/diary/TA570+Qakbot+Qbot+tries+CVE202230190+Follina+exploit+msmsdt/28728",
       "https://www.microsoft.com/en-us/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself/"
     ],
-    "synonyms": ["DEV-0450"]
+    "synonyms": [
+      "DEV-0450"
+    ]
   },
   "order": 405
 }

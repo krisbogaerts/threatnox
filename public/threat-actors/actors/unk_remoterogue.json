@@ -8,7 +8,9 @@
     "https://www.proofpoint.com/us/blog/threat-insight/around-world-90-days-state-sponsored-actors-try-clickfix"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

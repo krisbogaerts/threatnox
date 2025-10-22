@@ -46,8 +46,13 @@
     "https://services.google.com/fh/files/misc/apt44-unearthing-sandworm.pdf"
   ],
   "country": "RU",
-  "countries": ["RU"],
-  "sectors": ["Private sector", "Government"],
+  "countries": [
+    "RU"
+  ],
+  "sectors": [
+    "Private sector",
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
     "GRU": "Military unit 74455",
@@ -66,7 +71,10 @@
       "Azerbaijan",
       "Iran"
     ],
-    "cfr-target-category": ["Private sector", "Government"],
+    "cfr-target-category": [
+      "Private sector",
+      "Government"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "RU",
     "refs": [
@@ -111,7 +119,11 @@
       "UAC-0082",
       "APT44"
     ],
-    "targeted-sector": ["Electric", "Energy", "Industrial"]
+    "targeted-sector": [
+      "Electric",
+      "Energy",
+      "Industrial"
+    ]
   },
   "order": 57
 }

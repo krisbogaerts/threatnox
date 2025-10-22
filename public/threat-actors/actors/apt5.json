@@ -20,7 +20,9 @@
     "http://internal-www.fireeye.com/blog/threat-research/2021/04/suspected-apt-actors-leverage-bypass-techniques-pulse-secure-zero-day.html"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -41,7 +43,11 @@
       "Mulberry Typhoon",
       "Poisoned Flight"
     ],
-    "targeted-sector": ["Electronic", "Telecoms", "Technology"]
+    "targeted-sector": [
+      "Electronic",
+      "Telecoms",
+      "Technology"
+    ]
   },
   "order": 121
 }

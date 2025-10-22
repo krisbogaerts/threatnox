@@ -116,8 +116,13 @@
     "https://www.microsoft.com/en-us/security/blog/2024/08/30/north-korean-threat-actor-citrine-sleet-exploiting-chromium-zero-day/"
   ],
   "country": "KP",
-  "countries": ["KP"],
-  "sectors": ["Government", "Private sector"],
+  "countries": [
+    "KP"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -143,8 +148,14 @@
       "Australia",
       "Cryptocurrency exchanges in South Korea"
     ],
-    "cfr-target-category": ["Government", "Private sector"],
-    "cfr-type-of-incident": ["Espionage", "Sabotage"],
+    "cfr-target-category": [
+      "Government",
+      "Private sector"
+    ],
+    "cfr-type-of-incident": [
+      "Espionage",
+      "Sabotage"
+    ],
     "country": "KP",
     "refs": [
       "https://threatpost.com/operation-blockbuster-coalition-ties-destructive-attacks-to-lazarus-group/116422/",

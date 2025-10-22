@@ -8,7 +8,9 @@
     "https://www.trendmicro.com/en_us/research/25/c/the-espionage-toolkit-of-earth-alux.html"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

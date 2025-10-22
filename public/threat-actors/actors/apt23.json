@@ -28,7 +28,9 @@
     "https://www.trendmicro.com/en_us/research/21/l/collecting-in-the-dark-tropic-trooper-targets-transportation-and-government-organizations.html"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -58,7 +60,10 @@
       "Red Orthrus",
       "Earth Centaur"
     ],
-    "targeted-sector": ["Military", "Government, Administration"]
+    "targeted-sector": [
+      "Military",
+      "Government, Administration"
+    ]
   },
   "order": 42
 }

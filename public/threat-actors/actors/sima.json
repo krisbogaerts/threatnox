@@ -9,7 +9,9 @@
     "https://iranthreats.github.io/"
   ],
   "country": "IR",
-  "countries": ["IR"],
+  "countries": [
+    "IR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

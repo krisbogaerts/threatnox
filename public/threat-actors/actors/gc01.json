@@ -3,7 +3,11 @@
   "name": "GC01",
   "uuid": "6bd7c91a-fdf5-11e8-95a8-e712ad4b0a9d",
   "description": "From November 2017 to October 2018, we attributed 14 campaigns to the GC threat actors that used a specific MaaS provider (hereinafter “the Provider”) offered by a known individual (hereinafter “the Provider Operator”).",
-  "aliases": ["Golden Chickens", "Golden Chickens01", "Golden Chickens 01"],
+  "aliases": [
+    "Golden Chickens",
+    "Golden Chickens01",
+    "Golden Chickens 01"
+  ],
   "refs": [
     "https://medium.com/@quoscient/golden-chickens-uncovering-a-malware-as-a-service-maas-provider-and-two-new-threat-actors-using-61cf0cb87648"
   ],
@@ -14,7 +18,11 @@
     "refs": [
       "https://medium.com/@quoscient/golden-chickens-uncovering-a-malware-as-a-service-maas-provider-and-two-new-threat-actors-using-61cf0cb87648"
     ],
-    "synonyms": ["Golden Chickens", "Golden Chickens01", "Golden Chickens 01"]
+    "synonyms": [
+      "Golden Chickens",
+      "Golden Chickens01",
+      "Golden Chickens 01"
+    ]
   },
   "order": 195
 }

@@ -3,7 +3,12 @@
   "name": "RAZOR TIGER",
   "uuid": "c4ce1174-9462-47e9-8038-794f40a184b3",
   "description": "An actor mainly targeting Pakistan military targets, active since at least 2012. We have low confidence that this malware might be authored by an Indian company. To spread the malware, they use unique implementations to leverage the exploits of known vulnerabilities (such as CVE-2017-11882) and later deploy a Powershell payload in the final stages.",
-  "aliases": ["SideWinder", "Rattlesnake", "APT-C-17", "T-APT-04"],
+  "aliases": [
+    "SideWinder",
+    "Rattlesnake",
+    "APT-C-17",
+    "T-APT-04"
+  ],
   "refs": [
     "https://securelist.com/apt-trends-report-q1-2018/85280/",
     "https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/",
@@ -16,13 +21,28 @@
     "https://mp.weixin.qq.com/s/8j_rHA7gdMxY1_X8alj8Zg"
   ],
   "country": "IN",
-  "countries": ["IN"],
-  "sectors": ["Government", "Military", "Private Sector"],
+  "countries": [
+    "IN"
+  ],
+  "sectors": [
+    "Government",
+    "Military",
+    "Private Sector"
+  ],
   "related": [],
   "rawMeta": {
     "cfr-suspected-state-sponsor": "India",
-    "cfr-suspected-victims": ["China", "Pakistan", "Nepal", "Afghanistan"],
-    "cfr-target-category": ["Government", "Military", "Private Sector"],
+    "cfr-suspected-victims": [
+      "China",
+      "Pakistan",
+      "Nepal",
+      "Afghanistan"
+    ],
+    "cfr-target-category": [
+      "Government",
+      "Military",
+      "Private Sector"
+    ],
     "country": "IN",
     "refs": [
       "https://securelist.com/apt-trends-report-q1-2018/85280/",
@@ -35,7 +55,12 @@
       "https://medium.com/@Sebdraven/apt-sidewinder-tricks-powershell-anti-forensics-and-execution-side-loading-5bc1a7e7c84c",
       "https://mp.weixin.qq.com/s/8j_rHA7gdMxY1_X8alj8Zg"
     ],
-    "synonyms": ["SideWinder", "Rattlesnake", "APT-C-17", "T-APT-04"]
+    "synonyms": [
+      "SideWinder",
+      "Rattlesnake",
+      "APT-C-17",
+      "T-APT-04"
+    ]
   },
   "order": 269
 }

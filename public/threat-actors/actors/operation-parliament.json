@@ -10,7 +10,10 @@
     "https://blog.talosintelligence.com/2018/02/targeted-attacks-in-middle-east.html"
   ],
   "countries": [],
-  "sectors": ["Government", "Civil society"],
+  "sectors": [
+    "Government",
+    "Civil society"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -44,7 +47,10 @@
       "Oman",
       "Denmark"
     ],
-    "cfr-target-category": ["Government", "Civil society"],
+    "cfr-target-category": [
+      "Government",
+      "Civil society"
+    ],
     "cfr-type-of-incident": "Espionage",
     "refs": [
       "https://www.cfr.org/interactive/cyber-operations/operation-parliament",

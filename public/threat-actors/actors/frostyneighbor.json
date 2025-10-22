@@ -8,7 +8,9 @@
     "https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-apt-activity-report-q2-2024-q3-2024.pdf"
   ],
   "country": "BY",
-  "countries": ["BY"],
+  "countries": [
+    "BY"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

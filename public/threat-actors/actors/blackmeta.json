@@ -3,7 +3,9 @@
   "name": "Blackmeta",
   "uuid": "969753d8-3cc9-43a2-9b8d-753d2bb385b4",
   "description": "BLACKMETA is a pro-Palestinian hacktivist group that has claimed responsibility for a series of DDoS attacks and data breaches targeting organizations perceived as supportive of Israel, including the Internet Archive and various entities in the UAE and Saudi Arabia. The group employs DDoS attacks, website defacement, and data exfiltration, with motivations rooted in political ideology and retribution for perceived injustices against Palestinians. Their operations have been linked to a Telegram channel, where they publicize their activities and collaborate with other hacktivist groups. Additionally, they have been attributed to significant cyber disruptions, including a 100-hour DDoS campaign against a UAE bank, showcasing their operational capabilities.",
-  "aliases": ["SN Blackmeta"],
+  "aliases": [
+    "SN Blackmeta"
+  ],
   "refs": [
     "https://thecyberexpress.com/sn-blackmeta-claim-snapchat-cyberattack/",
     "https://www.radware.com/security/threat-advisories-and-attack-reports/six-day-web-ddos-attack-campaign/",
@@ -11,7 +13,9 @@
     "https://socradar.io/internet-archive-data-breach-and-ddos-attacks/"
   ],
   "country": "PS",
-  "countries": ["PS"],
+  "countries": [
+    "PS"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -22,7 +26,9 @@
       "https://securityboulevard.com/?p=2033037",
       "https://socradar.io/internet-archive-data-breach-and-ddos-attacks/"
     ],
-    "synonyms": ["SN Blackmeta"]
+    "synonyms": [
+      "SN Blackmeta"
+    ]
   },
   "order": 762
 }

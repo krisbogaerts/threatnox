@@ -8,10 +8,14 @@
     "https://www.sentinelone.com/labs/modifiedelephant-apt-and-a-decade-of-fabricating-evidence/"
   ],
   "countries": [],
-  "sectors": ["Civil Society"],
+  "sectors": [
+    "Civil Society"
+  ],
   "related": [],
   "rawMeta": {
-    "cfr-target-category": ["Civil Society"],
+    "cfr-target-category": [
+      "Civil Society"
+    ],
     "refs": [
       "https://www.sentinelone.com/labs/modifiedelephant-apt-and-a-decade-of-fabricating-evidence/"
     ]

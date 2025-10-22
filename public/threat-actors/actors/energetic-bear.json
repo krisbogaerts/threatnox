@@ -43,8 +43,13 @@
     "https://www.cfr.org/interactive/cyber-operations/dymalloy"
   ],
   "country": "RU",
-  "countries": ["RU"],
-  "sectors": ["Private sector", "Government"],
+  "countries": [
+    "RU"
+  ],
+  "sectors": [
+    "Private sector",
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "75",
@@ -61,7 +66,10 @@
       "Italy",
       "Poland"
     ],
-    "cfr-target-category": ["Private sector", "Government"],
+    "cfr-target-category": [
+      "Private sector",
+      "Government"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "RU",
     "refs": [
@@ -103,7 +111,9 @@
       "Blue Kraken",
       "Ghost Blizzard"
     ],
-    "targeted-sector": ["Energy"]
+    "targeted-sector": [
+      "Energy"
+    ]
   },
   "order": 56
 }

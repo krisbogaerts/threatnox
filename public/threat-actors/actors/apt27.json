@@ -46,8 +46,13 @@
     "https://www.trendmicro.com/en_us/research/21/d/iron-tiger-apt-updates-toolkit-with-evolved-sysupdate-malware-va.html"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government", "Private sector"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -69,7 +74,10 @@
       "Iran",
       "Turkey"
     ],
-    "cfr-target-category": ["Government", "Private sector"],
+    "cfr-target-category": [
+      "Government",
+      "Private sector"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [
@@ -114,7 +122,11 @@
       "Circle Typhoon",
       "Linen Typhoon"
     ],
-    "targeted-sector": ["Technology", "Government, Administration", "Defense"]
+    "targeted-sector": [
+      "Technology",
+      "Government, Administration",
+      "Defense"
+    ]
   },
   "order": 24
 }

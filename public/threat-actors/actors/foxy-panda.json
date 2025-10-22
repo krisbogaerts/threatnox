@@ -8,7 +8,9 @@
     "https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492182276.pdf"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -17,7 +19,10 @@
     "refs": [
       "https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492182276.pdf"
     ],
-    "targeted-sector": ["Technology", "Telecoms"]
+    "targeted-sector": [
+      "Technology",
+      "Telecoms"
+    ]
   },
   "order": 4
 }

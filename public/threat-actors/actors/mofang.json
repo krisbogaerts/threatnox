@@ -3,7 +3,10 @@
   "name": "Mofang",
   "uuid": "999f3008-2b2f-467d-ab4d-c5a2fd80b344",
   "description": "",
-  "aliases": ["Superman", "BRONZE WALKER"],
+  "aliases": [
+    "Superman",
+    "BRONZE WALKER"
+  ],
   "refs": [
     "https://blog.fox-it.com/2016/06/15/mofang-a-politically-motivated-information-stealing-adversary/",
     "https://www.cfr.org/interactive/cyber-operations/mofang",
@@ -11,8 +14,13 @@
     "https://www.secureworks.com/research/threat-profiles/bronze-walker"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government", "Private sector"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -26,7 +34,10 @@
       "United States",
       "South Korea"
     ],
-    "cfr-target-category": ["Government", "Private sector"],
+    "cfr-target-category": [
+      "Government",
+      "Private sector"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [
@@ -35,7 +46,10 @@
       "https://foxitsecurity.files.wordpress.com/2016/06/fox-it_mofang_threatreport_tlp-white.pdf",
       "https://www.secureworks.com/research/threat-profiles/bronze-walker"
     ],
-    "synonyms": ["Superman", "BRONZE WALKER"]
+    "synonyms": [
+      "Superman",
+      "BRONZE WALKER"
+    ]
   },
   "order": 129
 }

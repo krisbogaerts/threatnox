@@ -10,7 +10,9 @@
     "https://mybroadband.co.za/news/security/443090-cybercriminals-love-south-africa-study.html"
   ],
   "country": "BR",
-  "countries": ["BR"],
+  "countries": [
+    "BR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

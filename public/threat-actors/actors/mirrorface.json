@@ -3,7 +3,9 @@
   "name": "MirrorFace",
   "uuid": "e992d874-604b-4a09-9c6c-0319d5be652a",
   "description": "MirrorFace is a Chinese-speaking advanced persistent threat group that has been targeting high-value organizations in Japan, including media, government, diplomatic, and political entities. They have been conducting spear-phishing campaigns, utilizing malware such as LODEINFO and MirrorStealer to steal credentials and exfiltrate sensitive data. While there is speculation about their connection to APT10, ESET currently track them as a separate entity.",
-  "aliases": ["Earth Kasha"],
+  "aliases": [
+    "Earth Kasha"
+  ],
   "refs": [
     "https://www.welivesecurity.com/2022/12/14/unmasking-mirrorface-operation-liberalface-targeting-japanese-political-entities/",
     "https://web-assets.esetstatic.com/wls/2023/01/eset_apt_activity_report_t32022.pdf",
@@ -12,7 +14,9 @@
     "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -24,7 +28,9 @@
       "https://www.trendmicro.com/en_us/research/24/k/return-of-anel-in-the-recent-earth-kasha-spearphishing-campaign.html",
       "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html"
     ],
-    "synonyms": ["Earth Kasha"]
+    "synonyms": [
+      "Earth Kasha"
+    ]
   },
   "order": 506
 }

@@ -3,12 +3,17 @@
   "name": "Pearl Sleet",
   "uuid": "ef0d776a-51de-4965-ba1c-69ed256e0e5d",
   "description": "Pearl Sleet is a nation state activity group based in North Korea that has been active since at least 2012. They primarily target defectors from North Korea, media organizations in carrying out their cyber espionage activities.",
-  "aliases": ["DEV-0215", "LAWRENCIUM"],
+  "aliases": [
+    "DEV-0215",
+    "LAWRENCIUM"
+  ],
   "refs": [
     "https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2023/ba-p/3998431"
   ],
   "country": "KP",
-  "countries": ["KP"],
+  "countries": [
+    "KP"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -16,7 +21,10 @@
     "refs": [
       "https://techcommunity.microsoft.com/t5/microsoft-defender-xdr-blog/monthly-news-december-2023/ba-p/3998431"
     ],
-    "synonyms": ["DEV-0215", "LAWRENCIUM"]
+    "synonyms": [
+      "DEV-0215",
+      "LAWRENCIUM"
+    ]
   },
   "order": 582
 }

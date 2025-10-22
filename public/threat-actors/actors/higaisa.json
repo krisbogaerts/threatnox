@@ -9,8 +9,12 @@
     "https://blog.malwarebytes.com/threat-analysis/2020/06/higaisa/"
   ],
   "country": "KR",
-  "countries": ["KR"],
-  "sectors": ["Government"],
+  "countries": [
+    "KR"
+  ],
+  "sectors": [
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
     "cfr-suspected-state-sponsor": "Korea (Republic of)",
@@ -24,7 +28,9 @@
       "Poland",
       "Switzerland"
     ],
-    "cfr-target-category": ["Government"],
+    "cfr-target-category": [
+      "Government"
+    ],
     "country": "KR",
     "refs": [
       "https://s.tencent.com/research/report/836.html",

@@ -9,7 +9,9 @@
     "https://www.dragos.com/threat/wassonite/"
   ],
   "country": "KP",
-  "countries": ["KP"],
+  "countries": [
+    "KP"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

@@ -11,7 +11,9 @@
     "https://github.com/avast/ioc/tree/master/OperationDragonCastling"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [
     "Private Sector",
     "Gambling companies",
@@ -26,7 +28,13 @@
   "rawMeta": {
     "attribution-confidence": "75",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": ["China", "Hong Kong", "Kazakhstan", "Taiwan", "Philippines"],
+    "cfr-suspected-victims": [
+      "China",
+      "Hong Kong",
+      "Kazakhstan",
+      "Taiwan",
+      "Philippines"
+    ],
     "cfr-target-category": [
       "Private Sector",
       "Gambling companies",

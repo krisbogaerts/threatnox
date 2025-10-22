@@ -17,14 +17,25 @@
     "https://www.cfr.org/interactive/cyber-operations/saffron-rose"
   ],
   "country": "IR",
-  "countries": ["IR"],
-  "sectors": ["Military", "Civil society"],
+  "countries": [
+    "IR"
+  ],
+  "sectors": [
+    "Military",
+    "Civil society"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
-    "cfr-suspected-victims": ["United States", "Iranian internet activists"],
-    "cfr-target-category": ["Military", "Civil society"],
+    "cfr-suspected-victims": [
+      "United States",
+      "Iranian internet activists"
+    ],
+    "cfr-target-category": [
+      "Military",
+      "Civil society"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "IR",
     "refs": [
@@ -40,7 +51,12 @@
       "Group 26",
       "Sayad"
     ],
-    "targeted-sector": ["Aerospace", "Defense", "Gas", "Oil"]
+    "targeted-sector": [
+      "Aerospace",
+      "Defense",
+      "Gas",
+      "Oil"
+    ]
   },
   "order": 43
 }

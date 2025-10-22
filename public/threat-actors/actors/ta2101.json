@@ -25,7 +25,9 @@
     "https://youtu.be/U7p0J8aMZhM?t=193"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

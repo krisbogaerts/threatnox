@@ -9,11 +9,17 @@
     "https://www.sentinelone.com/labs/chinese-threat-actor-scarab-targeting-ukraine"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Russia", "Ukraine", "United States"],
+    "cfr-suspected-victims": [
+      "Russia",
+      "Ukraine",
+      "United States"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [

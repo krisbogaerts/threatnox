@@ -11,7 +11,9 @@
     "https://www.securityjoes.com/post/bibi-linux-a-new-wiper-dropped-by-pro-hamas-hacktivist-group"
   ],
   "country": "PS",
-  "countries": ["PS"],
+  "countries": [
+    "PS"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

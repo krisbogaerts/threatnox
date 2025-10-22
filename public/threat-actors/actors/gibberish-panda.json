@@ -8,7 +8,9 @@
     "http://www.slideshare.net/CrowdStrike/crowd-casts-monthly-you-have-an-adversary-problem"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

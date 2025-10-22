@@ -10,7 +10,9 @@
     "https://intezer.com/blog/research/stealth-wiper-israeli-infrastructure/"
   ],
   "country": "PS",
-  "countries": ["PS"],
+  "countries": [
+    "PS"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

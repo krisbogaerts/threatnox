@@ -8,7 +8,9 @@
     "https://www.proofpoint.com/us/blog/threat-insight/dtpacker-net-packer-curious-password-1"
   ],
   "country": "NG",
-  "countries": ["NG"],
+  "countries": [
+    "NG"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

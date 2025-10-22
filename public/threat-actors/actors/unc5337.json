@@ -8,7 +8,9 @@
     "https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

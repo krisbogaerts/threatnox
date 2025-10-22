@@ -4,14 +4,20 @@
   "uuid": "9900e010-f7ca-4354-b969-a5cd2b02f9d3",
   "description": "SpaceBears is a ransomware group believed to be based in Moscow, Russia, that has taken credit for several high-profile cyberattacks while primarily operating as a Data Broker. They currently list eight organizations on their Data Leak Site, focusing on medium to small-sized targets. Their methods suggest a reliance on basic extortion strategies rather than sophisticated malware tactics, with no advanced techniques or indicators of ransomware detected.",
   "aliases": [],
-  "refs": ["https://socradar.io/dark-web-profile-spacebears/"],
+  "refs": [
+    "https://socradar.io/dark-web-profile-spacebears/"
+  ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "country": "RU",
-    "refs": ["https://socradar.io/dark-web-profile-spacebears/"]
+    "refs": [
+      "https://socradar.io/dark-web-profile-spacebears/"
+    ]
   },
   "order": 768
 }

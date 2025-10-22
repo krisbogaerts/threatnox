@@ -37,8 +37,13 @@
     "https://www.volexity.com/blog/2024/02/13/charmingcypress-innovating-persistence/"
   ],
   "country": "IR",
-  "countries": ["IR"],
-  "sectors": ["Government", "Military"],
+  "countries": [
+    "IR"
+  ],
+  "sectors": [
+    "Government",
+    "Military"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -50,7 +55,10 @@
       "Iraq",
       "United Kingdom"
     ],
-    "cfr-target-category": ["Government", "Military"],
+    "cfr-target-category": [
+      "Government",
+      "Military"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "IR",
     "refs": [

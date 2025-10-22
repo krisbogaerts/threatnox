@@ -4,13 +4,17 @@
   "uuid": "bee8b09c-07e5-4c12-94d6-266ebcb1ec24",
   "description": "Mandiant observed this group operating since December 2019. Its techniques partially overlap with multiple Russian-based espionage actors (APT28 and APT29). They are described as having a high level of operational security, low malware footprint, adept evasive skills, and a large Internet of Things (IoT) device botnet at their disposal.",
   "aliases": [],
-  "refs": ["https://www.mandiant.com/resources/unc3524-eye-spy-email"],
+  "refs": [
+    "https://www.mandiant.com/resources/unc3524-eye-spy-email"
+  ],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "cfr-type-of-incident": "Espionage",
-    "refs": ["https://www.mandiant.com/resources/unc3524-eye-spy-email"]
+    "refs": [
+      "https://www.mandiant.com/resources/unc3524-eye-spy-email"
+    ]
   },
   "order": 357
 }

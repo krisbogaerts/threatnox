@@ -37,8 +37,13 @@
     "https://cip.gov.ua/services/cm/api/attachment/download?id=60068"
   ],
   "country": "RU",
-  "countries": ["RU"],
-  "sectors": ["Government", "Private sector"],
+  "countries": [
+    "RU"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -61,7 +66,10 @@
       "India",
       "Germany"
     ],
-    "cfr-target-category": ["Government", "Private sector"],
+    "cfr-target-category": [
+      "Government",
+      "Private sector"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "RU",
     "refs": [
@@ -97,7 +105,10 @@
       "Nobelium",
       "UAC-0029"
     ],
-    "targeted-sector": ["Think Tanks", "Government, Administration"]
+    "targeted-sector": [
+      "Think Tanks",
+      "Government, Administration"
+    ]
   },
   "order": 54
 }

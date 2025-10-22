@@ -28,8 +28,13 @@
     "https://www.fireeye.com/content/dam/fireeye-www/summit/cds-2019/presentations/cds19-executive-s08-achievement-unlocked.pdf"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government", "Private sector"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -50,7 +55,10 @@
       "Indonesia",
       "Laos"
     ],
-    "cfr-target-category": ["Government", "Private sector"],
+    "cfr-target-category": [
+      "Government",
+      "Private sector"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [

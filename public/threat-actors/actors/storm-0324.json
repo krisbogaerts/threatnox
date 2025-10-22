@@ -3,7 +3,11 @@
   "name": "Storm-0324",
   "uuid": "8cb6f57b-9ebb-45a6-a89f-9efdb8065d70",
   "description": "The threat actor that Microsoft tracks as Storm-0324 is a financially motivated group known to gain initial access using email-based initial infection vectors and then hand off access to compromised networks to other threat actors. These handoffs frequently lead to ransomware deployment.",
-  "aliases": ["DEV-0324", "Sagrid", "TA543"],
+  "aliases": [
+    "DEV-0324",
+    "Sagrid",
+    "TA543"
+  ],
   "refs": [
     "https://www.microsoft.com/en-us/security/blog/2023/09/12/malware-distributor-storm-0324-facilitates-ransomware-access/",
     "https://www.proofpoint.com/us/blog/threat-insight/jssloader-recoded-and-reloaded"
@@ -16,7 +20,11 @@
       "https://www.microsoft.com/en-us/security/blog/2023/09/12/malware-distributor-storm-0324-facilitates-ransomware-access/",
       "https://www.proofpoint.com/us/blog/threat-insight/jssloader-recoded-and-reloaded"
     ],
-    "synonyms": ["DEV-0324", "Sagrid", "TA543"]
+    "synonyms": [
+      "DEV-0324",
+      "Sagrid",
+      "TA543"
+    ]
   },
   "order": 427
 }

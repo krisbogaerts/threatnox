@@ -18,7 +18,9 @@
       "https://vblocalhost.com/uploads/VB2020-Faou-Labelle.pdf",
       "https://github.com/eset/malware-ioc/tree/master/xdspy/"
     ],
-    "targeted-sector": ["Government, Administration"]
+    "targeted-sector": [
+      "Government, Administration"
+    ]
   },
   "order": 295
 }

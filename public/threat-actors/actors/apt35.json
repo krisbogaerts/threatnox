@@ -28,7 +28,9 @@
     "https://unit42.paloaltonetworks.com/iranian-attackers-impersonate-model-agency/"
   ],
   "country": "IR",
-  "countries": ["IR"],
+  "countries": [
+    "IR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

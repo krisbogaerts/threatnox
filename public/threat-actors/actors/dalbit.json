@@ -11,7 +11,9 @@
     "https://blog.sekoia.io/my-teas-not-cold-an-overview-of-china-cyber-threat/"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

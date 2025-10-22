@@ -10,7 +10,9 @@
     "https://blog.talosintelligence.com/get-a-loda-this/"
   ],
   "country": "MA",
-  "countries": ["MA"],
+  "countries": [
+    "MA"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

@@ -18,7 +18,9 @@
       "https://www.techzine.eu/news/security/135120/red-hat-hit-by-github-breach-570gb-stolen-including-client-info/",
       "https://securityaffairs.com/182866/data-breach/cybercrime-group-claims-to-have-breached-red-hat-s-private-github-repositories.html"
     ],
-    "targeted-sector": ["Technology"]
+    "targeted-sector": [
+      "Technology"
+    ]
   },
   "order": 862
 }

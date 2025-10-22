@@ -4,13 +4,19 @@
   "uuid": "9b670978-f346-48dc-a292-7ae05b6f90a0",
   "description": "RGB-TEAM is a previously unknown Russian-speaking threat actor. They describe themselves as “a community of anonymous hacktivists fighting for freedom.” The group stated that it doesn’t have enemies in the U.S., Europe, “in the East, or in the West.”",
   "aliases": [],
-  "refs": ["https://therecord.media/hackers-claim-to-breach-russia-prosecutor-general-database"],
+  "refs": [
+    "https://therecord.media/hackers-claim-to-breach-russia-prosecutor-general-database"
+  ],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Russia"],
-    "refs": ["https://therecord.media/hackers-claim-to-breach-russia-prosecutor-general-database"]
+    "cfr-suspected-victims": [
+      "Russia"
+    ],
+    "refs": [
+      "https://therecord.media/hackers-claim-to-breach-russia-prosecutor-general-database"
+    ]
   },
   "order": 661
 }

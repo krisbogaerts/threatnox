@@ -3,14 +3,25 @@
   "name": "NoName057(16)",
   "uuid": "e62937d0-dec6-4c39-a836-e43b1d138df4",
   "description": "NoName057(16) is performing DDoS attacks on websites belonging to governments, news agencies, armies, suppliers, telecommunications companies, transportation authorities, financial institutions, and more in Ukraine and neighboring countries supporting Ukraine, like Ukraine itself, Estonia, Lithuania, Norway, and Poland.",
-  "aliases": ["NoName057", "NoName05716", "05716nnm", "Nnm05716"],
+  "aliases": [
+    "NoName057",
+    "NoName05716",
+    "05716nnm",
+    "Nnm05716"
+  ],
   "refs": [
     "https://decoded.avast.io/martinchlumecky/bobik/",
     "https://www.sentinelone.com/labs/noname05716-the-pro-russian-hacktivist-group-targeting-nato/",
     "https://www.gov.pl/web/special-services/russian-cyberattacks"
   ],
   "countries": [],
-  "sectors": ["Financial", "Government", "Military", "Telecommunications", "Transportation"],
+  "sectors": [
+    "Financial",
+    "Government",
+    "Military",
+    "Telecommunications",
+    "Transportation"
+  ],
   "related": [],
   "rawMeta": {
     "cfr-suspected-victims": [
@@ -30,13 +41,20 @@
       "Telecommunications",
       "Transportation"
     ],
-    "cfr-type-of-incident": ["Denial of service"],
+    "cfr-type-of-incident": [
+      "Denial of service"
+    ],
     "refs": [
       "https://decoded.avast.io/martinchlumecky/bobik/",
       "https://www.sentinelone.com/labs/noname05716-the-pro-russian-hacktivist-group-targeting-nato/",
       "https://www.gov.pl/web/special-services/russian-cyberattacks"
     ],
-    "synonyms": ["NoName057", "NoName05716", "05716nnm", "Nnm05716"]
+    "synonyms": [
+      "NoName057",
+      "NoName05716",
+      "05716nnm",
+      "Nnm05716"
+    ]
   },
   "order": 395
 }

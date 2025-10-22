@@ -8,12 +8,23 @@
     "https://www.trendmicro.com/en_us/research/21/a/earth-wendigo-injects-javascript-backdoor-to-service-worker-for-.html"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government", "Education"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government",
+    "Education"
+  ],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Hong Kong", "Taiwan"],
-    "cfr-target-category": ["Government", "Education"],
+    "cfr-suspected-victims": [
+      "Hong Kong",
+      "Taiwan"
+    ],
+    "cfr-target-category": [
+      "Government",
+      "Education"
+    ],
     "country": "CN",
     "refs": [
       "https://www.trendmicro.com/en_us/research/21/a/earth-wendigo-injects-javascript-backdoor-to-service-worker-for-.html"

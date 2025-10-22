@@ -4,16 +4,24 @@
   "uuid": "8ed5e3f0-ed30-4eb8-bbee-4e221bd76d73",
   "description": "Groundbait is a group targeting anti-government separatists in the self-declared Donetsk and Luhansk People’s Republics.",
   "aliases": [],
-  "refs": ["http://www.welivesecurity.com/2016/05/18/groundbait"],
+  "refs": [
+    "http://www.welivesecurity.com/2016/05/18/groundbait"
+  ],
   "country": "UA",
-  "countries": ["UA"],
+  "countries": [
+    "UA"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "country": "UA",
-    "refs": ["http://www.welivesecurity.com/2016/05/18/groundbait"],
-    "targeted-sector": ["Separatists"]
+    "refs": [
+      "http://www.welivesecurity.com/2016/05/18/groundbait"
+    ],
+    "targeted-sector": [
+      "Separatists"
+    ]
   },
   "order": 106
 }

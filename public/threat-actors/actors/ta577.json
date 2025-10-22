@@ -3,7 +3,9 @@
   "name": "TA577",
   "uuid": "e405b7d0-3eed-4f9d-9b68-728e9793974c",
   "description": "TA577 is a prolific cybercrime threat actor tracked by Proofpoint since mid-2020. This actor conducts broad targeting across various industries and geographies, and Proofpoint has observed TA577 deliver payloads including Qbot, IcedID, SystemBC, SmokeLoader, Ursnif, and Cobalt Strike.",
-  "aliases": ["Hive0118"],
+  "aliases": [
+    "Hive0118"
+  ],
   "refs": [
     "https://www.proofpoint.com/us/blog/threat-insight/first-step-initial-access-leads-ransomware",
     "https://thehackernews.com/2021/06/ransomware-attackers-partnering-with.html",
@@ -11,7 +13,9 @@
     "https://exchange.xforce.ibmcloud.com/threat-group/guid:1dda890fa2662ed26b451c703e922315"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -22,7 +26,9 @@
       "https://www.itpro.com/security/ransomware/359919/ransomware-criminals-look-to-other-hackers-to-provide-them-with-network",
       "https://exchange.xforce.ibmcloud.com/threat-group/guid:1dda890fa2662ed26b451c703e922315"
     ],
-    "synonyms": ["Hive0118"]
+    "synonyms": [
+      "Hive0118"
+    ]
   },
   "order": 407
 }
