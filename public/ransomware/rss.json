@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-22T14:13:04.540Z",
+  "updatedAt": "2025-10-22T15:14:32.038Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : AT&T Careers",
+      "link": "https://www.ransomware.live/id/QVQmVCBDYXJlZXJzQGV2ZXJlc3Q=",
+      "summary": "[AI generated] AT&amp;T Careers is the employment division of AT&amp;T, an American multinational conglomeric communications company. It offers opportunities in various fields including technology, sales, marketing, customer service, cybersecurity. The company seeks individuals interested in the tech industry with drive for innovation. Roles include internships, entry-level, management, and more experienced positions. It provides competitive benefits and a diverse, inclusive workplace.",
+      "pubDate": "Wed, 22 Oct 2025 14:15:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?7983e9455a30efd522ef16a8b3a77d36",
+      "group": "Everest",
+      "victim": "AT&T Careers",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : KIS Asset Evaluation",
       "link": "https://www.ransomware.live/id/S0lTIEFzc2V0IEV2YWx1YXRpb25AcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Roger RENARD Entreprise",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Hunter Construction Group",
-      "link": "https://www.ransomware.live/id/SHVudGVyIENvbnN0cnVjdGlvbiBHcm91cEBxaWxpbg==",
-      "summary": "With a relentless drive to exceed excellence, Jason and West Hunter III, have grown Hunter Construction Group exponentially from a small landscaping company to one of the most respected contractors in the industry. As an unlimited licensed ge            ...",
-      "pubDate": "Tue, 14 Oct 2025 21:49:08 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?cbb342550efe962b67a0eb694e14af0f",
-      "group": "Qilin",
-      "victim": "Hunter Construction Group",
-      "country": ""
     }
   ]
 }
