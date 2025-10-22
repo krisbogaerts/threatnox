@@ -31,8 +31,13 @@
     "http://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-asia-governments-cert-authority"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Military", "Government"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Military",
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -45,7 +50,10 @@
       "Taiwan",
       "Vietnam"
     ],
-    "cfr-target-category": ["Military", "Government"],
+    "cfr-target-category": [
+      "Military",
+      "Government"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [
@@ -75,7 +83,10 @@
       "Billbug",
       "Lotus Blossom"
     ],
-    "targeted-sector": ["Military", "Government, Administration"]
+    "targeted-sector": [
+      "Military",
+      "Government, Administration"
+    ]
   },
   "order": 22
 }

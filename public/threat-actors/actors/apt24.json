@@ -3,7 +3,11 @@
   "name": "APT24",
   "uuid": "4d37813c-b8e9-4e58-a758-03168d8aa189",
   "description": "The Pitty Tiger group has been active since at least 2011. They have been seen using HeartBleed vulnerability in order to directly get valid credentials",
-  "aliases": ["PITTY PANDA", "G0011", "Temp.Pittytiger"],
+  "aliases": [
+    "PITTY PANDA",
+    "G0011",
+    "Temp.Pittytiger"
+  ],
   "refs": [
     "http://blog.airbuscybersecurity.com/post/2014/07/The-Eye-of-the-Tiger2",
     "http://blog.cassidiancybersecurity.com/post/2014/07/The-Eye-of-the-Tiger2",
@@ -14,7 +18,9 @@
     "https://www.mandiant.com/resources/insights/apt-groups"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -29,7 +35,11 @@
       "https://attack.mitre.org/groups/G0011",
       "https://www.mandiant.com/resources/insights/apt-groups"
     ],
-    "synonyms": ["PITTY PANDA", "G0011", "Temp.Pittytiger"]
+    "synonyms": [
+      "PITTY PANDA",
+      "G0011",
+      "Temp.Pittytiger"
+    ]
   },
   "order": 32
 }

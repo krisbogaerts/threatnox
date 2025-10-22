@@ -3,7 +3,13 @@
   "name": "RANCOR",
   "uuid": "79c7c7e0-79d5-11e8-9b9c-1ff96be20c0b",
   "description": "The Rancor group’s attacks use two primary malware families which are naming DDKONG and PLAINTEE. DDKONG is used throughout the campaign and PLAINTEE appears to be new addition to these attackers’ toolkit.  Countries Unit 42 has identified as targeted by Rancor with these malware families include, but are not limited to Singapore and Cambodia.",
-  "aliases": ["Rancor group", "Rancor", "Rancor Group", "G0075", "Rancor Taurus"],
+  "aliases": [
+    "Rancor group",
+    "Rancor",
+    "Rancor Group",
+    "G0075",
+    "Rancor Taurus"
+  ],
   "refs": [
     "https://unit42.paloaltonetworks.com/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/",
     "https://www.cfr.org/interactive/cyber-operations/rancor",
@@ -11,14 +17,25 @@
     "https://unit42.paloaltonetworks.com/atoms/rancortaurus/"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government", "Civil society"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government",
+    "Civil society"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": ["Singapore", "Cambodia"],
-    "cfr-target-category": ["Government", "Civil society"],
+    "cfr-suspected-victims": [
+      "Singapore",
+      "Cambodia"
+    ],
+    "cfr-target-category": [
+      "Government",
+      "Civil society"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [
@@ -27,7 +44,13 @@
       "https://attack.mitre.org/groups/G0075/",
       "https://unit42.paloaltonetworks.com/atoms/rancortaurus/"
     ],
-    "synonyms": ["Rancor group", "Rancor", "Rancor Group", "G0075", "Rancor Taurus"]
+    "synonyms": [
+      "Rancor group",
+      "Rancor",
+      "Rancor Group",
+      "G0075",
+      "Rancor Taurus"
+    ]
   },
   "order": 166
 }

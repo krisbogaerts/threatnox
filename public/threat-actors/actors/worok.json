@@ -4,10 +4,17 @@
   "uuid": "77742419-aa71-4bc2-94c6-29c394b350e7",
   "description": "Worok is a cyber espionage group, mostly targeting Central Asia. The group toolset includes a C++ loader named CLRLoad, a PowerShell backdoor named PowHeartBeat, and a C# loader named PNGLoad.",
   "aliases": [],
-  "refs": ["https://www.welivesecurity.com/2022/09/06/worok-big-picture/"],
+  "refs": [
+    "https://www.welivesecurity.com/2022/09/06/worok-big-picture/"
+  ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government", "Energy Company"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government",
+    "Energy Company"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -19,10 +26,15 @@
       "The Middle East",
       "Southern Africa"
     ],
-    "cfr-target-category": ["Government", "Energy Company"],
+    "cfr-target-category": [
+      "Government",
+      "Energy Company"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
-    "refs": ["https://www.welivesecurity.com/2022/09/06/worok-big-picture/"]
+    "refs": [
+      "https://www.welivesecurity.com/2022/09/06/worok-big-picture/"
+    ]
   },
   "order": 425
 }

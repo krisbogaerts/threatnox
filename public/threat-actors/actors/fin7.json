@@ -51,7 +51,9 @@
     "https://www.wired.com/story/fin7-carbanak-hacking-group-behind-a-string-of-big-breaches/"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

@@ -4,12 +4,16 @@
   "uuid": "090d0553-cdcf-4f4e-ae3b-b5d751acaf5d",
   "description": "According to Crowdstrike, RIDDLE SPIDER is the operator behind the avaddon ransomware",
   "aliases": [],
-  "refs": ["https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf"],
+  "refs": [
+    "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf"
+  ],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "refs": ["https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf"]
+    "refs": [
+      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf"
+    ]
   },
   "order": 309
 }

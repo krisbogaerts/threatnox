@@ -4,15 +4,21 @@
   "uuid": "67adfa07-869f-4052-9d56-b88a51489902",
   "description": "",
   "aliases": [],
-  "refs": ["http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"],
+  "refs": [
+    "http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"
+  ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "country": "CN",
-    "refs": ["http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"]
+    "refs": [
+      "http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"
+    ]
   },
   "order": 124
 }

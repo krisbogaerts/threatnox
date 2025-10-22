@@ -8,14 +8,25 @@
     "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/"
   ],
   "country": "BY",
-  "countries": ["BY"],
-  "sectors": ["Government"],
+  "countries": [
+    "BY"
+  ],
+  "sectors": [
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "Belarus",
-    "cfr-suspected-victims": ["Europe", "Eastern Europe", "South Asia", "Northeast Africa"],
-    "cfr-target-category": ["Government"],
+    "cfr-suspected-victims": [
+      "Europe",
+      "Eastern Europe",
+      "South Asia",
+      "Northeast Africa"
+    ],
+    "cfr-target-category": [
+      "Government"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "BY",
     "refs": [

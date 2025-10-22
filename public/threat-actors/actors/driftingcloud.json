@@ -10,7 +10,9 @@
     "https://www.trendmicro.com/en_us/research/23/g/supply-chain-attack-targeting-pakistani-government-delivers-shad.html"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

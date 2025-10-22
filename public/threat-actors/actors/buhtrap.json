@@ -14,7 +14,9 @@
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -29,7 +31,11 @@
       "https://www.welivesecurity.com/2015/04/09/operation-buhtrap/",
       "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
     ],
-    "targeted-sector": ["Bank", "Payment", "Finance"]
+    "targeted-sector": [
+      "Bank",
+      "Payment",
+      "Finance"
+    ]
   },
   "order": 60
 }

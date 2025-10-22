@@ -10,11 +10,17 @@
     "https://ti.qianxin.com/blog/articles/Blade-hawk-The-activities-of-targeted-the-Middle-East-and-West-Asia-are-exposed/"
   ],
   "countries": [],
-  "sectors": ["Government"],
+  "sectors": [
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Kurdistan"],
-    "cfr-target-category": ["Government"],
+    "cfr-suspected-victims": [
+      "Kurdistan"
+    ],
+    "cfr-target-category": [
+      "Government"
+    ],
     "cfr-type-of-incident": "Espionage",
     "refs": [
       "https://www.welivesecurity.com/2021/09/07/bladehawk-android-espionage-kurdish/",

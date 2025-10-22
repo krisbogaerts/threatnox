@@ -14,7 +14,9 @@
     "refs": [
       "https://www.cybereason.com/blog/operation-soft-cell-a-worldwide-campaign-against-telecommunications-providers"
     ],
-    "threat-actor-classification": ["operation"]
+    "threat-actor-classification": [
+      "operation"
+    ]
   },
   "order": 263
 }

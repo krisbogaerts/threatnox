@@ -34,13 +34,23 @@
     "https://www.reco.ai/blog/how-apt36-elizarat-redefines-cyber-espionage"
   ],
   "country": "PK",
-  "countries": ["PK"],
-  "sectors": ["Civil society", "Military", "Government"],
+  "countries": [
+    "PK"
+  ],
+  "sectors": [
+    "Civil society",
+    "Military",
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "Pakistan",
-    "cfr-target-category": ["Civil society", "Military", "Government"],
+    "cfr-target-category": [
+      "Civil society",
+      "Military",
+      "Government"
+    ],
     "country": "PK",
     "refs": [
       "http://documents.trendmicro.com/assets/pdf/Indian-military-personnel-targeted-by-information-theft-campaign-cmajor.pdf",
@@ -72,7 +82,11 @@
       "Earth Karkaddan",
       "Storm-0156"
     ],
-    "targeted-sector": ["Activists", "Civil society", "Military"]
+    "targeted-sector": [
+      "Activists",
+      "Civil society",
+      "Military"
+    ]
   },
   "order": 72
 }

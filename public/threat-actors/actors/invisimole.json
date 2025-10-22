@@ -9,11 +9,17 @@
     "https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/"
   ],
   "countries": [],
-  "sectors": ["Government"],
+  "sectors": [
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Ukraine"],
-    "cfr-target-category": ["Government"],
+    "cfr-suspected-victims": [
+      "Ukraine"
+    ],
+    "cfr-target-category": [
+      "Government"
+    ],
     "cfr-type-of-incident": "Espionage",
     "refs": [
       "https://www.welivesecurity.com/2018/06/07/invisimole-equipped-spyware-undercover/",

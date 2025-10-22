@@ -11,11 +11,19 @@
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Ivory Coast", "Morocco", "Cameroon", "Senegal", "Togo"],
+    "cfr-suspected-victims": [
+      "Ivory Coast",
+      "Morocco",
+      "Cameroon",
+      "Senegal",
+      "Togo"
+    ],
     "refs": [
       "https://research.checkpoint.com/2022/dangeroussavanna-two-year-long-campaign-targets-financial-institutions-in-french-speaking-africa/"
     ],
-    "threat-actor-classification": ["campaign"]
+    "threat-actor-classification": [
+      "campaign"
+    ]
   },
   "order": 393
 }

@@ -3,7 +3,13 @@
   "name": "AridViper",
   "uuid": "0cfff0f4-868c-40a1-b9b4-0d153c0b33b6",
   "description": "AridViper is a state-sponsored APT primarily targeting military personnel, journalists, and dissidents in the Middle East, with a focus on Israel and Palestine. The group employs custom-developed mobile malware, including variants like AridSpy, GnatSpy, and Micropsia, often delivered through spear-phishing emails and deceptive applications. Their operations involve sophisticated social engineering tactics, including the use of fake social media profiles and weaponized apps masquerading as legitimate services. AridViper's activities are characterized by a blend of technical sophistication and psychological manipulation, aiming to exfiltrate sensitive data from compromised systems.",
-  "aliases": ["Desert Falcon", "Arid Viper", "APT-C-23", "Bearded Barbie", "Two-tailed Scorpion"],
+  "aliases": [
+    "Desert Falcon",
+    "Arid Viper",
+    "APT-C-23",
+    "Bearded Barbie",
+    "Two-tailed Scorpion"
+  ],
   "refs": [
     "http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-operation-arid-viper.pdf",
     "http://securityaffairs.co/wordpress/33785/cyber-crime/arid-viper-israel-sex-video.html",
@@ -18,7 +24,9 @@
     "https://www.sentinelone.com/labs/gaza-cybergang-unified-front-targeting-hamas-opposition/"
   ],
   "country": "PS",
-  "countries": ["PS"],
+  "countries": [
+    "PS"
+  ],
   "sectors": [
     "Government",
     "Defense",
@@ -37,7 +45,13 @@
   "related": [],
   "rawMeta": {
     "cfr-suspected-state-sponsor": "Palestine",
-    "cfr-suspected-victims": ["United States", "Israel", "Palestine", "Middle East", "Europe"],
+    "cfr-suspected-victims": [
+      "United States",
+      "Israel",
+      "Palestine",
+      "Middle East",
+      "Europe"
+    ],
     "cfr-target-category": [
       "Government",
       "Defense",
@@ -68,7 +82,13 @@
       "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064309/The-Desert-Falcons-targeted-attacks.pdf",
       "https://www.sentinelone.com/labs/gaza-cybergang-unified-front-targeting-hamas-opposition/"
     ],
-    "synonyms": ["Desert Falcon", "Arid Viper", "APT-C-23", "Bearded Barbie", "Two-tailed Scorpion"]
+    "synonyms": [
+      "Desert Falcon",
+      "Arid Viper",
+      "APT-C-23",
+      "Bearded Barbie",
+      "Two-tailed Scorpion"
+    ]
   },
   "order": 148
 }

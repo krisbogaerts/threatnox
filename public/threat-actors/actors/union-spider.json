@@ -8,7 +8,9 @@
     "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -17,7 +19,10 @@
     "refs": [
       "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
     ],
-    "targeted-sector": ["Manufacturing", "Industrial"]
+    "targeted-sector": [
+      "Manufacturing",
+      "Industrial"
+    ]
   },
   "order": 64
 }

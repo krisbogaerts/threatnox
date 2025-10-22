@@ -9,7 +9,9 @@
     "https://vulners.com/thn/THN:4C1C2CD10F20E08DD74D465450DF3F17?utm_source=rss&utm_medium=rss&utm_campaign=rss"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

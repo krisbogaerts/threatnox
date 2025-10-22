@@ -6,7 +6,9 @@
   "aliases": [],
   "refs": [],
   "country": "TR",
-  "countries": ["TR"],
+  "countries": [
+    "TR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

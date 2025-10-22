@@ -3,7 +3,13 @@
   "name": "DragonOK",
   "uuid": "a9b44750-992c-4743-8922-129880d277ea",
   "description": "Threat group that has targeted Japanese organizations with phishing emails. Due to overlapping TTPs, including similar custom tools, DragonOK is thought to have a direct or indirect relationship with the threat group Moafee. 2223 It is known to use a variety of malware, including Sysget/HelloBridge, PlugX, PoisonIvy, FormerFirstRat, NFlog, and NewCT.",
-  "aliases": ["Moafee", "BRONZE OVERBROOK", "G0017", "G0002", "Shallow Taurus"],
+  "aliases": [
+    "Moafee",
+    "BRONZE OVERBROOK",
+    "G0017",
+    "G0002",
+    "Shallow Taurus"
+  ],
   "refs": [
     "https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/wp-operation-quantum-entanglement.pdf",
     "https://attack.mitre.org/wiki/Groups",
@@ -19,14 +25,22 @@
     "https://unit42.paloaltonetworks.com/atoms/shallowtaurus/"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Private sector"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": ["United States"],
-    "cfr-target-category": ["Private sector"],
+    "cfr-suspected-victims": [
+      "United States"
+    ],
+    "cfr-target-category": [
+      "Private sector"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [
@@ -43,7 +57,13 @@
       "https://www.secureworks.com/research/threat-profiles/bronze-overbrook",
       "https://unit42.paloaltonetworks.com/atoms/shallowtaurus/"
     ],
-    "synonyms": ["Moafee", "BRONZE OVERBROOK", "G0017", "G0002", "Shallow Taurus"]
+    "synonyms": [
+      "Moafee",
+      "BRONZE OVERBROOK",
+      "G0017",
+      "G0002",
+      "Shallow Taurus"
+    ]
   },
   "order": 78
 }

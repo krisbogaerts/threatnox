@@ -10,7 +10,9 @@
     "https://securelist.com/apt-trends-report-q2-2017/79332/"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

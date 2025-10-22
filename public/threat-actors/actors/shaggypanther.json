@@ -10,7 +10,9 @@
     "https://securelist.com/apt-review-of-the-year/89117/"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

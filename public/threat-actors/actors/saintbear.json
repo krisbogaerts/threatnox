@@ -35,7 +35,9 @@
     "https://attack.mitre.org/groups/G1003/"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

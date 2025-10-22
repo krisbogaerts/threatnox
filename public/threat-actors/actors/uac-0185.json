@@ -3,14 +3,22 @@
   "name": "UAC-0185",
   "uuid": "d44be76b-07ad-47b3-a296-3899f27f0702",
   "description": "UAC-0185 has been active since at least 2022, primarily targeting Ukrainian defense organizations through credential theft via messaging apps like Signal, Telegram, and WhatsApp, as well as military systems such as DELTA, TENETA, and Kropyva. The group employs phishing attacks, often impersonating the Ukrainian Union of Industrialists and Entrepreneurs (UUIE), to gain unauthorized access to the PCs of defense sector employees. They utilize custom tools, including MESHAGENT and UltraVNC, to facilitate their operations. Their activities are mapped to MITRE ATT&CK, focusing on tactics related to credential theft and remote access.",
-  "aliases": ["UNC4221"],
-  "refs": ["https://cert.gov.ua/article/6281632"],
+  "aliases": [
+    "UNC4221"
+  ],
+  "refs": [
+    "https://cert.gov.ua/article/6281632"
+  ],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "refs": ["https://cert.gov.ua/article/6281632"],
-    "synonyms": ["UNC4221"]
+    "refs": [
+      "https://cert.gov.ua/article/6281632"
+    ],
+    "synonyms": [
+      "UNC4221"
+    ]
   },
   "order": 792
 }

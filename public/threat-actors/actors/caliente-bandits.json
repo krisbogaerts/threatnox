@@ -3,7 +3,9 @@
   "name": "Caliente Bandits",
   "uuid": "6a77a337-bfa0-416c-8c06-1d489d0d6838",
   "description": "Caliente Bandits is a highly active threat group that targets multiple industries, including finance and entertainment. They distribute the Bandook remote access trojan using Spanish-language lures through low-volume email campaigns. The group primarily impacts individuals with Spanish surnames and conducts reconnaissance to obtain employee data. They masquerade as companies in South America and use Hotmail or Gmail email addresses.",
-  "aliases": ["TA2721"],
+  "aliases": [
+    "TA2721"
+  ],
   "refs": [
     "https://www.proofpoint.com/us/blog/threat-insight/new-threat-actor-uses-spanish-language-lures-distribute-seldom-observed-bandook"
   ],
@@ -14,7 +16,9 @@
     "refs": [
       "https://www.proofpoint.com/us/blog/threat-insight/new-threat-actor-uses-spanish-language-lures-distribute-seldom-observed-bandook"
     ],
-    "synonyms": ["TA2721"]
+    "synonyms": [
+      "TA2721"
+    ]
   },
   "order": 576
 }

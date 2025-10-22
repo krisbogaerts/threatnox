@@ -3,21 +3,39 @@
   "name": "APT14",
   "uuid": "c82c904f-b3b4-40a2-bf0d-008912953104",
   "description": "PLA Navy\nAnchor Panda is an adversary that CrowdStrike has tracked extensively over the last year targeting both civilian and military maritime operations in the green/brown water regions primarily in the area of operations of the South Sea Fleet of the PLA Navy. In addition to maritime operations in this region, Anchor Panda also heavily targeted western companies in the US, Germany, Sweden, the UK, and Australia, and other countries involved in maritime satellite systems, aerospace companies, and defense contractors. \nNot surprisingly, embassies and diplomatic missions in the region, foreign intelligence services, and foreign governments with space programs were also targeted.",
-  "aliases": ["ANCHOR PANDA", "QAZTeam", "ALUMINUM"],
+  "aliases": [
+    "ANCHOR PANDA",
+    "QAZTeam",
+    "ALUMINUM"
+  ],
   "refs": [
     "http://www.crowdstrike.com/blog/whois-anchor-panda/",
     "https://www.cfr.org/interactive/cyber-operations/anchor-panda",
     "https://www.mandiant.com/resources/insights/apt-groups"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government", "Military"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government",
+    "Military"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": ["United States", "United Kingdom", "Germany", "Australia", "Sweden"],
-    "cfr-target-category": ["Government", "Military"],
+    "cfr-suspected-victims": [
+      "United States",
+      "United Kingdom",
+      "Germany",
+      "Australia",
+      "Sweden"
+    ],
+    "cfr-target-category": [
+      "Government",
+      "Military"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "motive": "Espionage",
@@ -26,7 +44,11 @@
       "https://www.cfr.org/interactive/cyber-operations/anchor-panda",
       "https://www.mandiant.com/resources/insights/apt-groups"
     ],
-    "synonyms": ["ANCHOR PANDA", "QAZTeam", "ALUMINUM"],
+    "synonyms": [
+      "ANCHOR PANDA",
+      "QAZTeam",
+      "ALUMINUM"
+    ],
     "targeted-sector": [
       "Other",
       "Aerospace",

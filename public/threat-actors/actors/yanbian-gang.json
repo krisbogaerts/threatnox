@@ -15,7 +15,10 @@
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["South Korea", "Japan"],
+    "cfr-suspected-victims": [
+      "South Korea",
+      "Japan"
+    ],
     "refs": [
       "https://www.riskiq.com/blog/external-threat-management/yanbian-gang-malware-distribution/",
       "https://www.trendmicro.com/en_us/research/18/k/a-look-into-the-connection-between-xloader-and-fakespy-and-their-possible-ties-with-the-yanbian-gang.html",

@@ -8,7 +8,9 @@
     "https://www.mandiant.com/resources/blog/suspected-iranian-unc1549-targets-israel-middle-east"
   ],
   "country": "IR",
-  "countries": ["IR"],
+  "countries": [
+    "IR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

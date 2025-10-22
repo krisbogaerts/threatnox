@@ -35,8 +35,12 @@
     "https://www.trendmicro.com/en_us/research/21/c/earth-vetala---muddywater-continues-to-target-organizations-in-t.html"
   ],
   "country": "IR",
-  "countries": ["IR"],
-  "sectors": ["Government"],
+  "countries": [
+    "IR"
+  ],
+  "sectors": [
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -52,7 +56,9 @@
       "Pakistan",
       "United States"
     ],
-    "cfr-target-category": ["Government"],
+    "cfr-target-category": [
+      "Government"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "IR",
     "refs": [

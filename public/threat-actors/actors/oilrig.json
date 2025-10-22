@@ -57,8 +57,14 @@
     "https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-cyberattacks.html"
   ],
   "country": "IR",
-  "countries": ["IR"],
-  "sectors": ["Government", "Private sector", "Civil society"],
+  "countries": [
+    "IR"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector",
+    "Civil society"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -73,7 +79,11 @@
       "Lebanon",
       "Middle East"
     ],
-    "cfr-target-category": ["Government", "Private sector", "Civil society"],
+    "cfr-target-category": [
+      "Government",
+      "Private sector",
+      "Civil society"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "IR",
     "refs": [

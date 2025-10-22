@@ -58,8 +58,13 @@
     "https://blog.google/threat-analysis-group/government-backed-actors-exploiting-winrar-vulnerability/"
   ],
   "country": "CN",
-  "countries": ["CN"],
-  "sectors": ["Government", "Private sector"],
+  "countries": [
+    "CN"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -79,7 +84,10 @@
       "Switzerland",
       "United Kingdom"
     ],
-    "cfr-target-category": ["Government", "Private sector"],
+    "cfr-target-category": [
+      "Government",
+      "Private sector"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "CN",
     "refs": [

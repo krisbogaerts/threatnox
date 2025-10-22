@@ -9,8 +9,13 @@
     "https://www.lookout.com/blog/stealth-mango"
   ],
   "country": "PK",
-  "countries": ["PK"],
-  "sectors": ["Government", "Civil society"],
+  "countries": [
+    "PK"
+  ],
+  "sectors": [
+    "Government",
+    "Civil society"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -25,7 +30,10 @@
       "India",
       "United States"
     ],
-    "cfr-target-category": ["Government", "Civil society"],
+    "cfr-target-category": [
+      "Government",
+      "Civil society"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "PK",
     "refs": [

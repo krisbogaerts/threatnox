@@ -3,7 +3,14 @@
   "name": "Inception Framework",
   "uuid": "71ef51ca-a791-11e8-a026-07980ca910ca",
   "description": "This threat actor uses spear-phishing techniques to target private-sector energy, defense, aerospace, research, and media organizations and embassies in Africa, Europe, and the Middle East, for the purpose of espionage.",
-  "aliases": ["Clean Ursa", "Cloud Atlas", "OXYGEN", "G0100", "ATK116", "Blue Odin"],
+  "aliases": [
+    "Clean Ursa",
+    "Cloud Atlas",
+    "OXYGEN",
+    "G0100",
+    "ATK116",
+    "Blue Odin"
+  ],
   "refs": [
     "https://www.cfr.org/interactive/cyber-operations/inception-framework",
     "https://web.archive.org/web/20160710180729/https://www.bluecoat.com/security-blog/2014-12-09/blue-coat-exposes-%E2%80%9C-inception-framework%E2%80%9D-very-sophisticated-layered-malware",
@@ -28,8 +35,13 @@
     "https://attack.mitre.org/groups/G0100"
   ],
   "country": "RU",
-  "countries": ["RU"],
-  "sectors": ["Government", "Private sector"],
+  "countries": [
+    "RU"
+  ],
+  "sectors": [
+    "Government",
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
@@ -57,7 +69,10 @@
       "United States",
       "Vietnam"
     ],
-    "cfr-target-category": ["Government", "Private sector"],
+    "cfr-target-category": [
+      "Government",
+      "Private sector"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "RU",
     "refs": [
@@ -83,7 +98,14 @@
       "https://www.cfr.org/cyber-operations/red-october",
       "https://attack.mitre.org/groups/G0100"
     ],
-    "synonyms": ["Clean Ursa", "Cloud Atlas", "OXYGEN", "G0100", "ATK116", "Blue Odin"]
+    "synonyms": [
+      "Clean Ursa",
+      "Cloud Atlas",
+      "OXYGEN",
+      "G0100",
+      "ATK116",
+      "Blue Odin"
+    ]
   },
   "order": 173
 }

@@ -3,7 +3,9 @@
   "name": "Vicious Panda",
   "uuid": "68d8c25b-8595-4c20-a5c7-a11a2a34b717",
   "description": "Check Point Research discovered a new campaign against the Mongolian public sector, which takes advantage of the current Coronavirus scare, in order to deliver a previously unknown malware implant to the target. \nA closer look at this campaign allowed us to tie it to other operations which were carried out by the same anonymous group, dating back to at least 2016. Over the years, these operations targeted different sectors in multiple countries, such as Ukraine, Russia, and Belarus.",
-  "aliases": ["SixLittleMonkeys"],
+  "aliases": [
+    "SixLittleMonkeys"
+  ],
   "refs": [
     "https://securelist.com/microcin-is-here/97353",
     "https://securelist.com/a-simple-example-of-a-complex-cyberattack/82636",
@@ -19,11 +21,18 @@
     "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Belarus", "Russia", "Mongolia", "Ukraine"],
+    "cfr-suspected-victims": [
+      "Belarus",
+      "Russia",
+      "Mongolia",
+      "Ukraine"
+    ],
     "country": "CN",
     "refs": [
       "https://securelist.com/microcin-is-here/97353",
@@ -39,7 +48,9 @@
       "https://securelist.com/apt-trends-report-q3-2021/104708",
       "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/"
     ],
-    "synonyms": ["SixLittleMonkeys"]
+    "synonyms": [
+      "SixLittleMonkeys"
+    ]
   },
   "order": 381
 }

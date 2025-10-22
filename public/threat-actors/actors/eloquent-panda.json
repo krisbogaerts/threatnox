@@ -4,15 +4,21 @@
   "uuid": "432b0304-768f-4fb9-9762-e745ef524ec7",
   "description": "",
   "aliases": [],
-  "refs": ["https://dokumen.tips/documents/detecting-and-responding-pandas-and-bears.html"],
+  "refs": [
+    "https://dokumen.tips/documents/detecting-and-responding-pandas-and-bears.html"
+  ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "country": "CN",
-    "refs": ["https://dokumen.tips/documents/detecting-and-responding-pandas-and-bears.html"]
+    "refs": [
+      "https://dokumen.tips/documents/detecting-and-responding-pandas-and-bears.html"
+    ]
   },
   "order": 8
 }

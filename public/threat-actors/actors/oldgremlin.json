@@ -10,7 +10,9 @@
     "https://www.group-ib.com/media-center/press-releases/oldgremlin/"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

@@ -3,14 +3,22 @@
   "name": "Iron Group",
   "uuid": "6a0ea861-229a-45a6-98f5-228f69b43905",
   "description": "Iron group has developed multiple types of malware (backdoors, crypto-miners, and ransomware) for Windows, Linux and Android platforms. They have used their malware to successfully infect, at least, a few thousand victims.",
-  "aliases": ["Iron Cyber Group"],
-  "refs": ["https://www.intezer.com/iron-cybercrime-group-under-the-scope-2/"],
+  "aliases": [
+    "Iron Cyber Group"
+  ],
+  "refs": [
+    "https://www.intezer.com/iron-cybercrime-group-under-the-scope-2/"
+  ],
   "countries": [],
   "sectors": [],
   "related": [],
   "rawMeta": {
-    "refs": ["https://www.intezer.com/iron-cybercrime-group-under-the-scope-2/"],
-    "synonyms": ["Iron Cyber Group"]
+    "refs": [
+      "https://www.intezer.com/iron-cybercrime-group-under-the-scope-2/"
+    ],
+    "synonyms": [
+      "Iron Cyber Group"
+    ]
   },
   "order": 180
 }

@@ -3,7 +3,9 @@
   "name": "UNC4841",
   "uuid": "8959fbb4-95f0-485d-bba2-db9140b95386",
   "description": "UNC4841 is a well-resourced threat actor that has utilized a wide range of malware and purpose-built tooling to enable their global espionage operations. They have been observed selectively deploying specific malware families at high priority targets, with SKIPJACK being the most widely deployed. UNC4841 primarily targeted government and technology organizations, but they have also been observed targeting other verticals.",
-  "aliases": ["SLIME57"],
+  "aliases": [
+    "SLIME57"
+  ],
   "refs": [
     "https://cloud.google.com/blog/topics/threat-intelligence/unc4841-post-barracuda-zero-day-remediation/",
     "https://cloud.google.com/blog/topics/threat-intelligence/barracuda-esg-exploited-globally/",
@@ -22,7 +24,9 @@
     "https://jsac.jpcert.or.jp/archive/2025/pdf/JSAC2025_1_5_leon-chang_theo-chen_en.pdf"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -44,7 +48,9 @@
       "https://mandiant.widen.net/s/qwlxddwdg6/barracuda-cve-2023-2868-hardening",
       "https://jsac.jpcert.or.jp/archive/2025/pdf/JSAC2025_1_5_leon-chang_theo-chen_en.pdf"
     ],
-    "synonyms": ["SLIME57"]
+    "synonyms": [
+      "SLIME57"
+    ]
   },
   "order": 516
 }

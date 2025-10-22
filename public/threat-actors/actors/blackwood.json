@@ -9,7 +9,9 @@
     "https://blog.sonicwall.com/en-us/2024/01/blackwood-apt-group-has-a-new-dll-loader/"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

@@ -9,7 +9,9 @@
     "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-offers-10-million-bounty-for-members-of-iranian-hacking-gang/"
   ],
   "country": "IR",
-  "countries": ["IR"],
+  "countries": [
+    "IR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

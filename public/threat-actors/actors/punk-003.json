@@ -9,7 +9,9 @@
     "https://s2w.inc/en/resource/detail/581"
   ],
   "country": "KP",
-  "countries": ["KP"],
+  "countries": [
+    "KP"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

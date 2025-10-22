@@ -3,7 +3,9 @@
   "name": "APT-C-36",
   "uuid": "ae1c64ff-5a37-4291-97f8-ea402c63efd0",
   "description": "Since April 2018, an APT group (Blind Eagle, APT-C-36) suspected coming from South America carried out continuous targeted attacks against Colombian government institutions as well as important corporations in financial sector, petroleum industry, professional manufacturing, etc.",
-  "aliases": ["Blind Eagle"],
+  "aliases": [
+    "Blind Eagle"
+  ],
   "refs": [
     "https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/",
     "https://www.ecucert.gob.ec/wp-content/uploads/2022/03/alerta-APTs-2022-03-23.pdf",
@@ -14,10 +16,22 @@
     "https://attack.mitre.org/groups/G0099/"
   ],
   "countries": [],
-  "sectors": ["Petroleum", "Manufacturing", "Financial", "Private sector", "Government"],
+  "sectors": [
+    "Petroleum",
+    "Manufacturing",
+    "Financial",
+    "Private sector",
+    "Government"
+  ],
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": ["Ecuador", "Colombia", "Spain", "Panama", "Chile"],
+    "cfr-suspected-victims": [
+      "Ecuador",
+      "Colombia",
+      "Spain",
+      "Panama",
+      "Chile"
+    ],
     "cfr-target-category": [
       "Petroleum",
       "Manufacturing",
@@ -35,7 +49,9 @@
       "https://research.checkpoint.com/2023/blindeagle-targeting-ecuador-with-sharpened-tools/",
       "https://attack.mitre.org/groups/G0099/"
     ],
-    "synonyms": ["Blind Eagle"]
+    "synonyms": [
+      "Blind Eagle"
+    ]
   },
   "order": 218
 }

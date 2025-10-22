@@ -11,7 +11,9 @@
     "https://www.dragos.com/blog/responding-to-chernovites-pipedream-with-dragos-global-services/"
   ],
   "country": "RU",
-  "countries": ["RU"],
+  "countries": [
+    "RU"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

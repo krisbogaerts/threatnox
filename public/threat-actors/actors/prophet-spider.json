@@ -3,7 +3,10 @@
   "name": "Prophet Spider",
   "uuid": "eb0b100c-8a4e-4859-b6f8-eebd66c3d20c",
   "description": "PROPHET SPIDER is an eCrime actor, active since at least May 2017, that primarily gains access to victims by compromising vulnerable web servers, which commonly involves leveraging a variety of publicly disclosed vulnerabilities. The adversary has likely functioned as an access broker — handing off access to a third party to deploy ransomware — in multiple instances.",
-  "aliases": ["GOLD MELODY", "UNC961"],
+  "aliases": [
+    "GOLD MELODY",
+    "UNC961"
+  ],
   "refs": [
     "https://www.crowdstrike.com/blog/prophet-spider-exploits-oracle-weblogic-to-facilitate-ransomware-activity/",
     "https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/",
@@ -11,7 +14,9 @@
     "https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated"
   ],
   "country": "",
-  "countries": [""],
+  "countries": [
+    ""
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -22,7 +27,10 @@
       "https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker",
       "https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated"
     ],
-    "synonyms": ["GOLD MELODY", "UNC961"]
+    "synonyms": [
+      "GOLD MELODY",
+      "UNC961"
+    ]
   },
   "order": 416
 }

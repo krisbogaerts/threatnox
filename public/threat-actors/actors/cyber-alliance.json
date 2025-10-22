@@ -9,7 +9,9 @@
     "https://therecord.media/russia-carmoney-data-breach-ukrainian-cyber-alliance"
   ],
   "country": "UA",
-  "countries": ["UA"],
+  "countries": [
+    "UA"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {

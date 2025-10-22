@@ -35,14 +35,26 @@
     "https://www.antiy.cn/research/notice&report/research_report/20200522.html"
   ],
   "country": "KR",
-  "countries": ["KR"],
-  "sectors": ["Private sector"],
+  "countries": [
+    "KR"
+  ],
+  "sectors": [
+    "Private sector"
+  ],
   "related": [],
   "rawMeta": {
     "attribution-confidence": "50",
     "cfr-suspected-state-sponsor": "Korea (Republic of)",
-    "cfr-suspected-victims": ["Japan", "Russia", "Taiwan", "South Korea", "China"],
-    "cfr-target-category": ["Private sector"],
+    "cfr-suspected-victims": [
+      "Japan",
+      "Russia",
+      "Taiwan",
+      "South Korea",
+      "China"
+    ],
+    "cfr-target-category": [
+      "Private sector"
+    ],
     "cfr-type-of-incident": "Espionage",
     "country": "KR",
     "refs": [

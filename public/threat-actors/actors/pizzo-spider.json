@@ -3,12 +3,17 @@
   "name": "PIZZO SPIDER",
   "uuid": "dd9806a9-a600-48f8-81fb-07f0f1b7690d",
   "description": "",
-  "aliases": ["DD4BC", "Ambiorx"],
+  "aliases": [
+    "DD4BC",
+    "Ambiorx"
+  ],
   "refs": [
     "https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/"
   ],
   "country": "US",
-  "countries": ["US"],
+  "countries": [
+    "US"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -17,7 +22,10 @@
     "refs": [
       "https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/"
     ],
-    "synonyms": ["DD4BC", "Ambiorx"]
+    "synonyms": [
+      "DD4BC",
+      "Ambiorx"
+    ]
   },
   "order": 68
 }

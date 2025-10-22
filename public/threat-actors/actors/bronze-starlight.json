@@ -3,7 +3,12 @@
   "name": "BRONZE STARLIGHT",
   "uuid": "737c0207-1a1a-4480-86e7-b6a5066e1ee5",
   "description": "BRONZE STARLIGHT has been active since mid 2021 and targets organizations globally across a range of industry verticals. The group leverages HUI Loader to load Cobalt Strike and PlugX payloads for command and control. CTU researchers have observed BRONZE STARLIGHT deploying ransomware to compromised networks as part of name-and-shame ransomware schemes, and posted victim names to leak sites. \nCTU researchers assess with moderate confidence that BRONZE STARLIGHT is located in China based on observed tradecraft, including the use of HUI Loader and PlugX which are associated with China-based threat group activity. It is plausible that BRONZE STARLIGHT deploys ransomware as a smokescreen rather than for financial gain, with the underlying motivation of stealing intellectual property theft or conducting espionage.",
-  "aliases": ["SLIME34", "DEV-0401", "Cinnamon Tempest", "Emperor Dragonfly"],
+  "aliases": [
+    "SLIME34",
+    "DEV-0401",
+    "Cinnamon Tempest",
+    "Emperor Dragonfly"
+  ],
   "refs": [
     "https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf",
     "https://www.microsoft.com/security/blog/2022/05/09/ransomware-as-a-service-understanding-the-cybercrime-gig-economy-and-how-to-protect-yourself",
@@ -17,7 +22,9 @@
     "https://attack.mitre.org/groups/G1021/"
   ],
   "country": "CN",
-  "countries": ["CN"],
+  "countries": [
+    "CN"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -34,7 +41,12 @@
       "https://www.secureworks.com/research/bronze-starlight-ransomware-operations-use-hui-loader",
       "https://attack.mitre.org/groups/G1021/"
     ],
-    "synonyms": ["SLIME34", "DEV-0401", "Cinnamon Tempest", "Emperor Dragonfly"]
+    "synonyms": [
+      "SLIME34",
+      "DEV-0401",
+      "Cinnamon Tempest",
+      "Emperor Dragonfly"
+    ]
   },
   "order": 377
 }

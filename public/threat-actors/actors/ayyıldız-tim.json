@@ -3,10 +3,14 @@
   "name": "Ayyıldız Tim",
   "uuid": "ab1771de-25bb-4688-b132-eabb5d6452a1",
   "description": "Ayyıldız (Crescent and Star) Tim is a nationalist hacking group founded in 2002. It performs defacements and DDoS attacks against the websites of governments that it considers to be repressing Muslim minorities or engaged in Islamophobic policies.",
-  "aliases": ["Crescent and Star"],
+  "aliases": [
+    "Crescent and Star"
+  ],
   "refs": [],
   "country": "TR",
-  "countries": ["TR"],
+  "countries": [
+    "TR"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
@@ -14,8 +18,12 @@
     "cfr-type-of-incident": "Denial of service",
     "country": "TR",
     "motive": "Hacktivists-Nationalists",
-    "synonyms": ["Crescent and Star"],
-    "targeted-sector": ["Government, Administration"]
+    "synonyms": [
+      "Crescent and Star"
+    ],
+    "targeted-sector": [
+      "Government, Administration"
+    ]
   },
   "order": 98
 }

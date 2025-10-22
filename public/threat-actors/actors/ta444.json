@@ -10,7 +10,9 @@
     "https://www.darkreading.com/remote-workforce/north-korea-apt-swindled-1b-crypto-investors-2022"
   ],
   "country": "KP",
-  "countries": ["KP"],
+  "countries": [
+    "KP"
+  ],
   "sectors": [],
   "related": [],
   "rawMeta": {
