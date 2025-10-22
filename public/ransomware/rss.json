@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-10-22T00:54:10.762Z",
+  "updatedAt": "2025-10-22T02:26:25.005Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Radar has just published a new victim : Capital Reinforcing LTD.",
+      "link": "https://www.ransomware.live/id/Q2FwaXRhbCBSZWluZm9yY2luZyBMVEQuQHJhZGFy",
+      "summary": "Steel fabricator in Birkenhead, Englandю Address: Capital House, 1 Bromborough Pool Business Park, Prices Way, Bromborough CH62 4LP, United Kingdom. Phone: +44 151 644 1559",
+      "pubDate": "Wed, 22 Oct 2025 02:11:41 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/radar?f97d6423b1f64c1660e794a9faa089e7",
+      "group": "Radar",
+      "victim": "Capital Reinforcing LTD.",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Radar has just published a new victim : ROBERT G. DASHIELL, JR., P.E., INC.",
+      "link": "https://www.ransomware.live/id/Uk9CRVJUIEcuIERBU0hJRUxMLCBKUi4sIFAuRS4sIElOQy5AcmFkYXI=",
+      "summary": "Robert G Dashiell Jr PE Inc is a reputable engineering firm based in Norfolk, VA, specializing in providing professional engineering services. Around ~500GB of confidential data. The leak of internal company documents contains a huge variety of personal documents and information of clients, employees private data, private contacts, confidential contracts, confidential projects, orders, IDs, SSN, email conversations. Bank documents: statements, balances, Tax bills, signatures, checks. Video - https://streamable.com/4wn1jk , screenshots - https://imgur.com/a/Er9J1Kp, all contacts - http://4q5tsu5o3msmv4am4dfhupwhzlyg7wv3lpswbvbhcrknr4ega7xetxad.onion/RGELECTRIC_part2/dataRobert%20G%20Dashiel/contacts.csv",
+      "pubDate": "Wed, 22 Oct 2025 02:11:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/radar?9f88b39641b2c6b0fb7a455e393dfdbd",
+      "group": "Radar",
+      "victim": "ROBERT G. DASHIELL, JR., P.E., INC.",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Radar has just published a new victim : Epia Financial Services",
+      "link": "https://www.ransomware.live/id/RXBpYSBGaW5hbmNpYWwgU2VydmljZXNAcmFkYXI=",
+      "summary": "+264816013040. Mail. info@epiafs.com. Home. No 17 Eulenweg Street, Hochland Park, Windhoek ,Namibia. RELATABLE PARTNERS. NAMRA · NAMFISA. NBWPF. CIFNAMIBIA",
+      "pubDate": "Wed, 22 Oct 2025 02:11:27 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/radar?d4eb2121f7273d799ac7219946fa6237",
+      "group": "Radar",
+      "victim": "Epia Financial Services",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Kumwell",
+      "link": "https://www.ransomware.live/id/S3Vtd2VsbEBpbmNyYW5zb20=",
+      "summary": "Kumwell deliver safety to society for life and property with a International Standard for Grounding System, Lightning Protection System, Surge Protection Lightning Detection and Warning System for safety and security in the infrastructure system in various countries such as Electricity sector (Electricity Generation, Solar Power Plant, Wind Power Plant or Transmission, Distribution) Transportation sector (Subway, Electric train, High-speed train, Airport, Port or Expressway) Telecommunications sector (Microwave Station, Radio Station, Television Station, Mobile Phone Station or Data Center) Industrial sector (Petrochemical Plant, Oil Refinery, Steel Factory and Farm) Building (Tower, Complex Building, Stadium, Hospital, School, Home, Castle or Temple) Kumwell focus on establishing brand awareness in business and technology through world trade shows in China, India, Saudi Arabia, United Arab Emirate, Malaysia, Philippines, Vietnam and Indonesia.",
+      "pubDate": "Wed, 22 Oct 2025 00:52:55 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/incransom?d66e3b65255a1092c42bbebf6d49e957",
+      "group": "Incransom",
+      "victim": "Kumwell",
+      "country": "TH"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Tri City Foods",
       "link": "https://www.ransomware.live/id/VHJpIENpdHkgRm9vZHNAcWlsaW4=",
@@ -2156,50 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?3979cade00145f27592a7bedafcb12e5",
       "group": "Qilin",
       "victim": "PQCNC Hospitals",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : UT Health Austin",
-      "link": "https://www.ransomware.live/id/VVQgSGVhbHRoIEF1c3RpbkBxaWxpbg==",
-      "summary": "UT Health Austin is the clinical practice of the Dell Medical School located in downtown Austin, offering personalized and comprehensive health care services. The organization provides a wide range of medical services including adult psychiat            ...",
-      "pubDate": "Tue, 14 Oct 2025 20:25:07 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?413b05fd272a0f0734774382ca63b48b",
-      "group": "Qilin",
-      "victim": "UT Health Austin",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : ZEF's",
-      "link": "https://www.ransomware.live/id/WkVGJ3NAcWlsaW4=",
-      "summary": "The Center for Development Research (ZEF) is an institute of the University of Bonn, Germany. It started its research activities in 1997. ZEF’s researchers aim to find science-based solutions to promote sustainable development and planetary            ...",
-      "pubDate": "Tue, 14 Oct 2025 20:24:29 +0000",
-      "category": "FI",
-      "guid": "https://www.ransomware.live/group/qilin?14bb4ae5b8873b79217ee7e0142d4457",
-      "group": "Qilin",
-      "victim": "ZEF's",
-      "country": "FI"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Paris Rétina Vision",
-      "link": "https://www.ransomware.live/id/UGFyaXMgUsOpdGluYSBWaXNpb25AcWlsaW4=",
-      "summary": "The center features a state-of-the-art technical platform on two levels, allowing for the performance of most of your ophthalmological examinations (OCT, optical biometry, visual field, etc.). The center is also equipped with an operating ro            ...",
-      "pubDate": "Tue, 14 Oct 2025 20:24:13 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?c8e192c2fea7e1a43a0982548d921679",
-      "group": "Qilin",
-      "victim": "Paris Rétina Vision",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Buldi",
-      "link": "https://www.ransomware.live/id/QnVsZGlAcWlsaW4=",
-      "summary": "Buldi offers a platform for individuals looking to build or expand their homes by configuring their ideal project online. Users can receive up to six personalized proposals from qualified construction professionals in their region. The servic            ...",
-      "pubDate": "Tue, 14 Oct 2025 20:23:36 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?ebdaf3ffdb47b5b9c5dc14300b3d560b",
-      "group": "Qilin",
-      "victim": "Buldi",
       "country": ""
     }
   ]
