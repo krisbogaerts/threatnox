@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-23T18:16:45.209Z",
+  "updatedAt": "2025-10-23T19:09:32.498Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : S Food Co., Ltd.",
+      "link": "https://www.ransomware.live/id/UyBGb29kIENvLiwgTHRkLkByYW5zb21ob3VzZQ==",
+      "summary": "S Food Co., Ltd.  is a mid-sized company specializing in the production and distribution of high-quality meat products. Established as a key player in the livestock slaughtering and meat processing industry, the company focuses on manufacturing sausages. Utilizing advanced vacuum or gas-packaging techniques and cold/frozen storage, S Food ensures product quality and a shelf life of up to 12 months under frozen conditions (-18°C). S Food demonstrates robust market presence. The company is publicly traded (ticker: ACWPGZ:KS). Adhering to regulations set by the Ministry of Food and Drug Safety (MFDS), S Food continues to expand its footprint in the domestic market, delivering safe and reliable meat products to consumers.",
+      "pubDate": "Thu, 23 Oct 2025 18:43:27 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/ransomhouse?402749760a404501fde38cb6c20294e2",
+      "group": "Ransomhouse",
+      "victim": "S Food Co., Ltd.",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : ozsoft.com.au",
       "link": "https://www.ransomware.live/id/b3pzb2Z0LmNvbS5hdUBseW54",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?9d945d850332c98bd0d11ec53bbc4abd",
       "group": "Qilin",
       "victim": "Victory Christian Center",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Bay West",
-      "link": "https://www.ransomware.live/id/QmF5IFdlc3RAcWlsaW4=",
-      "summary": "Bay West LLC provides environmental consulting and remediation services for government and commercial enterprises. The company offers services in the areas of industrial storm water permitting and consulting; brownfield site assessment, clean            ...",
-      "pubDate": "Wed, 15 Oct 2025 13:50:27 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?e119d1e2fdc331f5e5255ec2f815583d",
-      "group": "Qilin",
-      "victim": "Bay West",
       "country": ""
     }
   ]
