@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-23T19:09:32.498Z",
+  "updatedAt": "2025-10-23T20:12:40.546Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tengu has just published a new victim : UniCursos, Brazil",
+      "link": "https://www.ransomware.live/id/VW5pQ3Vyc29zLCBCcmF6aWxAdGVuZ3U=",
+      "summary": "UniCursos, Brazil - Offers preparation courses for public sector exams in São José dos Campos and surrounding areas in the state of São Paulo.",
+      "pubDate": "Thu, 23 Oct 2025 19:15:52 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/tengu?060fa6dc076bd2a5c4ccf288be04462f",
+      "group": "Tengu",
+      "victim": "UniCursos, Brazil",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Gericke AG",
+      "link": "https://www.ransomware.live/id/R2VyaWNrZSBBR0BxaWxpbg==",
+      "summary": "The Swiss Gericke Group has been designing and manufacturing equipment and systems for modern bulk material processes, as well as providing design and consultation services, for more than 125 years. Gericke bulk materials processing technolog            ...",
+      "pubDate": "Thu, 23 Oct 2025 19:12:10 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/qilin?e8f136b85122081cbca29a130fd687b7",
+      "group": "Qilin",
+      "victim": "Gericke AG",
+      "country": "CH"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : S Food Co., Ltd.",
       "link": "https://www.ransomware.live/id/UyBGb29kIENvLiwgTHRkLkByYW5zb21ob3VzZQ==",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Buanderie Blanchelle",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Pangea",
-      "link": "https://www.ransomware.live/id/UGFuZ2VhQHFpbGlu",
-      "summary": "PANGEA The Travel Store is a boutique travel agency that designs bespoke, full-service trips tailored to individual tastes. It blends an online platform with physical flagship stores so customers can get face-to-face consultations as well as            ...",
-      "pubDate": "Wed, 15 Oct 2025 13:51:26 +0000",
-      "category": "CL",
-      "guid": "https://www.ransomware.live/group/qilin?bba43132984cfe957254006a4dffd801",
-      "group": "Qilin",
-      "victim": "Pangea",
-      "country": "CL"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Victory Christian Center",
-      "link": "https://www.ransomware.live/id/VmljdG9yeSBDaHJpc3RpYW4gQ2VudGVyQHFpbGlu",
-      "summary": "Victory Church is a community-focused church located in Tulsa, OK, dedicated to fostering a space where individuals can love God and love people. The church offers a variety of ministries, including programs for children, youth, and young adu            ...",
-      "pubDate": "Wed, 15 Oct 2025 13:51:09 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?9d945d850332c98bd0d11ec53bbc4abd",
-      "group": "Qilin",
-      "victim": "Victory Christian Center",
-      "country": ""
     }
   ]
 }
