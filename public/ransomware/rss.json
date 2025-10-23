@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-23T20:12:40.546Z",
+  "updatedAt": "2025-10-23T21:10:30.193Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : IREM companies",
+      "link": "https://www.ransomware.live/id/SVJFTSBjb21wYW5pZXNAcWlsaW4=",
+      "summary": "IREM companies, USA - is an international institute for real estate and asset managers, promoting management through education and information exchange. IREM conducts real estate management training courses, organizes national meetings of rea            ...",
+      "pubDate": "Thu, 23 Oct 2025 20:41:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?73e43082e857517a9e663d3dfeb2e7c5",
+      "group": "Qilin",
+      "victim": "IREM companies",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Kurogane Kasei Co.",
+      "link": "https://www.ransomware.live/id/S3Vyb2dhbmUgS2FzZWkgQ28uQHJhbnNvbWhvdXNl",
+      "summary": "Kurogane Kasei Co., Ltd. is a development-oriented Japanese chemical company specializing in organic synthesis and fine chemicals production.  Its core activities include joint R&amp;D projects, entrusted synthesis, and scalable production from gram-level prototypes to ton-scale manufacturing. The company caters to industries such as electronics, pharmaceuticals, and agrochemicals, leveraging advanced technologies like esterification and specialized equipment for dust-free, metal-free environments. With a workforce of about 193 employees, Kurogane Kasei positions itself as an &#x27;all-round player&#x27; in the chemical sector, prioritizing customer satisfaction through rapid prototyping and innovative solutions.",
+      "pubDate": "Thu, 23 Oct 2025 20:16:05 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/ransomhouse?8b1be39dd3564e5368ff03a6aa3c8c68",
+      "group": "Ransomhouse",
+      "victim": "Kurogane Kasei Co.",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Tengu has just published a new victim : UniCursos, Brazil",
       "link": "https://www.ransomware.live/id/VW5pQ3Vyc29zLCBCcmF6aWxAdGVuZ3U=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Turnkey Africa",
       "country": "KE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Superior Linen Service",
-      "link": "https://www.ransomware.live/id/U3VwZXJpb3IgTGluZW4gU2VydmljZUBxaWxpbg==",
-      "summary": "The Superior Linen Supply Company is designed to serve as an extension of our customers&#x27; business. By providing timely delivery of quality merchandise, outstanding service and affordable prices for over a century, customers have come to know             ...",
-      "pubDate": "Wed, 15 Oct 2025 13:52:43 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?f796efe338a507a60fe2a8e05264aeda",
-      "group": "Qilin",
-      "victim": "Superior Linen Service",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Buanderie Blanchelle",
-      "link": "https://www.ransomware.live/id/QnVhbmRlcmllIEJsYW5jaGVsbGVAcWlsaW4=",
-      "summary": "Buanderie Blanchelle specializes in the provision and maintenance of hospital textile products, offering a comprehensive turnkey service that includes product supply, post-use recovery, and distribution at a single per-kilogram rate. They pro            ...",
-      "pubDate": "Wed, 15 Oct 2025 13:52:05 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?893c5c36b96c8286708b0e412aa0d142",
-      "group": "Qilin",
-      "victim": "Buanderie Blanchelle",
-      "country": "CA"
     }
   ]
 }
