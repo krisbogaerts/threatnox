@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-23T11:10:07.541Z",
+  "updatedAt": "2025-10-23T12:22:46.230Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Goodfellow & Schuettlaw",
+      "link": "https://www.ransomware.live/id/R29vZGZlbGxvdyAmIFNjaHVldHRsYXdAYW51Ymlz",
+      "summary": "Personal data, confidential documents, and more.",
+      "pubDate": "Thu, 23 Oct 2025 11:48:50 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/anubis?0f141d17a7f8095c52f46d1fdaa26ce5",
+      "group": "Anubis",
+      "victim": "Goodfellow & Schuettlaw",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Paterson & Dowding Family Lawyers",
+      "link": "https://www.ransomware.live/id/UGF0ZXJzb24gJiBEb3dkaW5nIEZhbWlseSBMYXd5ZXJzQGFudWJpcw==",
+      "summary": "Law firm data breach",
+      "pubDate": "Thu, 23 Oct 2025 11:47:47 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/anubis?1331f0428d77f73523559aaa719f6c75",
+      "group": "Anubis",
+      "victim": "Paterson & Dowding Family Lawyers",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : The Laxmi Niwas Palace",
       "link": "https://www.ransomware.live/id/VGhlIExheG1pIE5pd2FzIFBhbGFjZUBub3Zh",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "All Truck Transportation Co., Inc.",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Charles River Properties",
-      "link": "https://www.ransomware.live/id/Q2hhcmxlcyBSaXZlciBQcm9wZXJ0aWVzQHFpbGlu",
-      "summary": "Charles River Properties, USA -  a real estate brokerage based in Waltham, Massachusetts, that handles residential and commercial sales and rentals. The company works only with very large properties. In its portfolio you will not find real es            ...",
-      "pubDate": "Wed, 15 Oct 2025 00:12:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?4c409164682a2310c309913b85127e4a",
-      "group": "Qilin",
-      "victim": "Charles River Properties",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : ICET Studios",
-      "link": "https://www.ransomware.live/id/SUNFVCBTdHVkaW9zQHRoZWdlbnRsZW1lbg==",
-      "summary": "www.icetstudios.com All&#x27;interno delle proprie strutture la ICET Studios dispone di personale qualificato in tutte le attività legate alla realizzazione di scenografie (falegnami, pittori, decoratori, fabbri, elettricisti e montatori) e di personale esperto nelle problematiche di progettazione e gestione delle produzioni cinetelevisive e pubblicitarie, nonché nell&#x27;organizzazione e gestione di eventi e fiere. È in grado di fornire ai clienti un servizio \"chiavi in mano\" e di operare sia in Italia sia all&#x27;estero.",
-      "pubDate": "Tue, 14 Oct 2025 23:27:53 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/thegentlemen?5e2af2295998ed5ff3d7cbf13c3bdf4d",
-      "group": "Thegentlemen",
-      "victim": "ICET Studios",
-      "country": ""
     }
   ]
 }
