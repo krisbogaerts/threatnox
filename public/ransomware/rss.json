@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-23T08:16:25.169Z",
+  "updatedAt": "2025-10-23T09:13:19.814Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : The Laxmi Niwas Palace",
+      "link": "https://www.ransomware.live/id/VGhlIExheG1pIE5pd2FzIFBhbGFjZUBub3Zh",
+      "summary": "India A luxury historic hotel located in a palace in Bikaner, India. It was built in 1902 for Maharaja Ganga Singh and is now a popular tourist destination offering guests accommodation in the former royal palace.",
+      "pubDate": "Thu, 23 Oct 2025 08:16:47 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/nova?33a335e38919726b3e516a72523f42bc",
+      "group": "Nova",
+      "victim": "The Laxmi Niwas Palace",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : NurseSpring",
       "link": "https://www.ransomware.live/id/TnVyc2VTcHJpbmdAcWlsaW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/thegentlemen?5e2af2295998ed5ff3d7cbf13c3bdf4d",
       "group": "Thegentlemen",
       "victim": "ICET Studios",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Landmark Management",
-      "link": "https://www.ransomware.live/id/TGFuZG1hcmsgTWFuYWdlbWVudEBxaWxpbg==",
-      "summary": "Landmark Management, Inc., manages 90 projects, consisting of 2,462 units across 5 states. Whether you are searching for an apartment to rent or a reliable company to manage your rural development property, let us put our thirty-six years of             ...",
-      "pubDate": "Tue, 14 Oct 2025 22:38:45 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?eb1d026725d13380242dfc6f09c4c4cd",
-      "group": "Qilin",
-      "victim": "Landmark Management",
       "country": ""
     }
   ]
