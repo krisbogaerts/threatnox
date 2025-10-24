@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-24T05:11:47.477Z",
+  "updatedAt": "2025-10-24T06:16:56.460Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : ClearCare Periodontal & Implant Centre",
+      "link": "https://www.ransomware.live/id/Q2xlYXJDYXJlIFBlcmlvZG9udGFsICYgSW1wbGFudCBDZW50cmVAcWlsaW4=",
+      "summary": "The ClearCare Periodontal &amp; Implant Centre was attacked on 13 of October 2025. At the time of the attack, critical data on customers and their employees was uploaded. The company was informed of the colossal data leak, but ignored demands to             ...",
+      "pubDate": "Fri, 24 Oct 2025 05:41:19 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?d8d310d317285b00d7bd37a84d5e183d",
+      "group": "Qilin",
+      "victim": "ClearCare Periodontal & Implant Centre",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Kryptos has just published a new victim : Adichunchanagiri Institute Of Technology",
       "link": "https://www.ransomware.live/id/QWRpY2h1bmNoYW5hZ2lyaSBJbnN0aXR1dGUgT2YgVGVjaG5vbG9neUBrcnlwdG9z",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?064120308279598940d9769277727837",
       "group": "Sinobi",
       "victim": "Zierick Manufacturing Corporation",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Centurion Family Office Services LLC",
-      "link": "https://www.ransomware.live/id/Q2VudHVyaW9uIEZhbWlseSBPZmZpY2UgU2VydmljZXMgTExDQHFpbGlu",
-      "summary": "Centurion originated as an idea to bring the high-value, high-impact services, traditionally reserved for only the wealthiest of individuals, to a broader network of families and entrepreneurs. Our Family Office Services address the needs of             ...",
-      "pubDate": "Wed, 15 Oct 2025 15:50:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?19ad3ddfd0096fdde6191a21bd86dbb1",
-      "group": "Qilin",
-      "victim": "Centurion Family Office Services LLC",
       "country": "US"
     }
   ]
