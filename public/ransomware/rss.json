@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-24T07:12:09.506Z",
+  "updatedAt": "2025-10-24T08:15:50.765Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Crypto24 has just published a new victim : Mei ***",
+      "link": "https://www.ransomware.live/id/TWVpICoqKkBjcnlwdG8yNA==",
+      "summary": "...",
+      "pubDate": "Fri, 24 Oct 2025 07:17:55 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/crypto24?250f2f0a5bbd1d080b1bb06055560c07",
+      "group": "Crypto24",
+      "victim": "Mei ***",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : ClearCare Periodontal & Implant Centre",
       "link": "https://www.ransomware.live/id/Q2xlYXJDYXJlIFBlcmlvZG9udGFsICYgSW1wbGFudCBDZW50cmVAcWlsaW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?64471e67593b4126d7c3b008a473eda6",
       "group": "Sinobi",
       "victim": "East Jefferson General Hospital",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Zierick Manufacturing Corporation",
-      "link": "https://www.ransomware.live/id/WmllcmljayBNYW51ZmFjdHVyaW5nIENvcnBvcmF0aW9uQHNpbm9iaQ==",
-      "summary": "Founded in 1919 and headquartered in Mount Kisco, New York, Zierick Manufacturing engages in designing, engineering, prototyping, and manufacturing connectors and other stamped metal components for the electronics industry.",
-      "pubDate": "Wed, 15 Oct 2025 16:45:34 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?064120308279598940d9769277727837",
-      "group": "Sinobi",
-      "victim": "Zierick Manufacturing Corporation",
       "country": "US"
     }
   ]
