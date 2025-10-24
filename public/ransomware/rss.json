@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-24T02:18:28.193Z",
+  "updatedAt": "2025-10-24T03:28:17.102Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Kryptos has just published a new victim : Adichunchanagiri Institute Of Technology",
+      "link": "https://www.ransomware.live/id/QWRpY2h1bmNoYW5hZ2lyaSBJbnN0aXR1dGUgT2YgVGVjaG5vbG9neUBrcnlwdG9z",
+      "summary": "Educational Institute – 2500 Students – 150 Staff",
+      "pubDate": "Fri, 24 Oct 2025 02:20:21 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/kryptos?19325e9be3f054a1ea8f5825bcff12e2",
+      "group": "Kryptos",
+      "victim": "Adichunchanagiri Institute Of Technology",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : OCI International Holdings",
       "link": "https://www.ransomware.live/id/T0NJIEludGVybmF0aW9uYWwgSG9sZGluZ3NAcmFuc29taG91c2U=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?19ad3ddfd0096fdde6191a21bd86dbb1",
       "group": "Qilin",
       "victim": "Centurion Family Office Services LLC",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : ChampionX",
-      "link": "https://www.ransomware.live/id/Q2hhbXBpb25YQGNvaW5iYXNlY2FydGVs",
-      "summary": "Headquartered in The Woodlands, Texas, ChampionX is a global leader in chemistry solutions and highly engineered equipment and technologies that he...",
-      "pubDate": "Wed, 15 Oct 2025 14:13:31 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?58afab5dffc25f8658128cf21763cea1",
-      "group": "Coinbasecartel",
-      "victim": "ChampionX",
       "country": "US"
     }
   ]
