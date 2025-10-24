@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-24T10:13:19.937Z",
+  "updatedAt": "2025-10-24T11:10:08.212Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Beast has just published a new victim : Danthi Comunicacao Integrada",
+      "link": "https://www.ransomware.live/id/RGFudGhpIENvbXVuaWNhY2FvIEludGVncmFkYUBiZWFzdA==",
+      "summary": "With a senior team and over 130 clients, Danthi Comunicacao Integrada believes in building close, long-term, and trust-based relationships with all its partners. With extensive experience in positive exposure, brand reputation building, and image and reputation crisis management, Danthi works in an integrated and strategic manner with traditional press relations and digital communications. A company&#x27;s image is directly linked to how it communicates with the public. In a 24/7 connected world, this premise requires strategy and a communications team that knows how to plan, identify key messages, and convey them assertively across multiple platforms.",
+      "pubDate": "Fri, 24 Oct 2025 10:16:01 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/beast?6880c57794503642599b0289e7c0efdc",
+      "group": "Beast",
+      "victim": "Danthi Comunicacao Integrada",
+      "country": "BR"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : simmerscrane.com",
       "link": "https://www.ransomware.live/id/c2ltbWVyc2NyYW5lLmNvbUBseW54",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?c89dccd95d33dcaa3db6a9e3d27c0f54",
       "group": "Sinobi",
       "victim": "Core Resources Inc (CRI)",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Newmark Healthcare Services",
-      "link": "https://www.ransomware.live/id/TmV3bWFyayBIZWFsdGhjYXJlIFNlcnZpY2VzQHNpbm9iaQ==",
-      "summary": "Newmark Healthcare Services specializes in healthcare recruiting, staffing, and medical career placement, including locum tenens physician placement. The company provides customized solutions tailored to meet the unique needs of healthcare organizations, enhancing recruitment strategies with the latest techniques and digital marketing. Their services extend to healthcare consulting, focused on optimizing organizational efficiency and addressing specific challenges faced by clients. With a commitment to honest engagement and personalized service, Newmark aims to build genuine partnerships with both clients and candidates.",
-      "pubDate": "Wed, 15 Oct 2025 16:46:17 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?f264e0f49c058c5568be539f552f0bd9",
-      "group": "Sinobi",
-      "victim": "Newmark Healthcare Services",
       "country": "US"
     }
   ]
