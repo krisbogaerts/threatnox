@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-24T19:09:32.474Z",
+  "updatedAt": "2025-10-24T20:12:45.909Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tengu has just published a new victim : Le MULTI LABORATOIRE LC2A",
+      "link": "https://www.ransomware.live/id/TGUgTVVMVEkgTEFCT1JBVE9JUkUgTEMyQUB0ZW5ndQ==",
+      "summary": "Le Multi Laboratoire LC2A offers a platform for businesses looking to test or analyze their products by configuring their ideal analytical project online",
+      "pubDate": "Fri, 24 Oct 2025 19:13:27 +0000",
+      "category": "MA",
+      "guid": "https://www.ransomware.live/group/tengu?6db9980574b93bdeb2b7c7eb12490cbc",
+      "group": "Tengu",
+      "victim": "Le MULTI LABORATOIRE LC2A",
+      "country": "MA"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Doha British School",
       "link": "https://www.ransomware.live/id/RG9oYSBCcml0aXNoIFNjaG9vbEBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Legacy Manufacturing",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Koch & White Heating & Cooling",
-      "link": "https://www.ransomware.live/id/S29jaCAmIFdoaXRlIEhlYXRpbmcgJiBDb29saW5nQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Wed, 15 Oct 2025 18:40:05 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?ce36e3f560809854674be1b3227b68b7",
-      "group": "Play",
-      "victim": "Koch & White Heating & Cooling",
-      "country": "US"
     }
   ]
 }
