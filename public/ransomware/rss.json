@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-24T16:14:24.639Z",
+  "updatedAt": "2025-10-24T17:10:20.063Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Doha British School",
+      "link": "https://www.ransomware.live/id/RG9oYSBCcml0aXNoIFNjaG9vbEBxaWxpbg==",
+      "summary": "Doha British School, Qatar - is one of the leading British international schools in Qatar, operating in the country since 1997. After 28 years, DBS has grown into a group of three outstanding campuses offering the English National Curriculum             ...",
+      "pubDate": "Fri, 24 Oct 2025 16:46:04 +0000",
+      "category": "QA",
+      "guid": "https://www.ransomware.live/group/qilin?1cc6a4ca206c6b7e2b826a4c32a8ca2d",
+      "group": "Qilin",
+      "victim": "Doha British School",
+      "country": "QA"
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Summit Hotel Properties",
       "link": "https://www.ransomware.live/id/U3VtbWl0IEhvdGVsIFByb3BlcnRpZXNAd29ybGRsZWFrcw==",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Koch & White Heating & Cooling",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Royal Thai",
-      "link": "https://www.ransomware.live/id/Um95YWwgVGhhaUBwbGF5",
-      "summary": "United States",
-      "pubDate": "Wed, 15 Oct 2025 18:39:27 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/play?d935a124a5aa6e0e58440240ca10c205",
-      "group": "Play",
-      "victim": "Royal Thai",
-      "country": "TH"
     }
   ]
 }
