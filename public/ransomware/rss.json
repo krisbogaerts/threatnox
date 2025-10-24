@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-24T15:11:50.795Z",
+  "updatedAt": "2025-10-24T16:14:24.639Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Summit Hotel Properties",
+      "link": "https://www.ransomware.live/id/U3VtbWl0IEhvdGVsIFByb3BlcnRpZXNAd29ybGRsZWFrcw==",
+      "summary": "[AI generated] Summit Hotel Properties is an American real estate investment trust (REIT) focused on owning premium-branded hotels. They specifically target upscale hotels in the US operated by top-tier lodging brands like Hilton, Hyatt, and Marriott. The company&#x27;s portfolio extends to various markets, including business, airport, convention, and suburban locations.",
+      "pubDate": "Fri, 24 Oct 2025 15:56:48 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?1dcd56bbec432768ef68141a4d97f70d",
+      "group": "Worldleaks",
+      "victim": "Summit Hotel Properties",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Essilor of America",
+      "link": "https://www.ransomware.live/id/RXNzaWxvciBvZiBBbWVyaWNhQHdvcmxkbGVha3M=",
+      "summary": "[AI generated] Essilor of America is a subsidiary of the renowned French company, Essilor International. Based in the US, it is a leading manufacturer and wholesale distributor of optical lenses. It specializes in creating lenses for eyeglasses and sunglasses, holding a strong reputation for its progressive and high-index lenses. It focuses on promoting good vision health and developing innovative solutions for vision correction.",
+      "pubDate": "Fri, 24 Oct 2025 15:56:00 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?b5905a9aa9d58c4f7b925b05f503bdb8",
+      "group": "Worldleaks",
+      "victim": "Essilor of America",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Peruvian Connection",
+      "link": "https://www.ransomware.live/id/UGVydXZpYW4gQ29ubmVjdGlvbkB3b3JsZGxlYWtz",
+      "summary": "[AI generated] Peruvian Connection is a high-end fashion retailer that specializes in luxurious alpaca wool and pima cotton clothing and accessories for women. Founded in 1976, the company blends modern, bohemian styles with traditional Andean knitting techniques. Its offerings include sweaters, dresses, skirts, and jewelry, among others. Peruvian Connection operates both online and through physical stores around the world.",
+      "pubDate": "Fri, 24 Oct 2025 15:55:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?8196b0ba2c7c19ae28607aa77f136d10",
+      "group": "Worldleaks",
+      "victim": "Peruvian Connection",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Beast has just published a new victim : Danthi Comunicacao Integrada",
       "link": "https://www.ransomware.live/id/RGFudGhpIENvbXVuaWNhY2FvIEludGVncmFkYUBiZWFzdA==",
@@ -2168,39 +2201,6 @@
       "group": "Play",
       "victim": "Royal Thai",
       "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : EMBASY OF BOLIVIA DC",
-      "link": "https://www.ransomware.live/id/RU1CQVNZIE9GIEJPTElWSUEgRENAZGV2bWFu",
-      "summary": "Ransom: 200k 400gb",
-      "pubDate": "Wed, 15 Oct 2025 18:21:31 +0000",
-      "category": "BO",
-      "guid": "https://www.ransomware.live/group/devman?b6fd8a90924f332fb80a46785a88d2be",
-      "group": "Devman",
-      "victim": "EMBASY OF BOLIVIA DC",
-      "country": "BO"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : regionalurology.com",
-      "link": "https://www.ransomware.live/id/cmVnaW9uYWx1cm9sb2d5LmNvbUBkZXZtYW4=",
-      "summary": "Ransom: 200k 300gb",
-      "pubDate": "Wed, 15 Oct 2025 18:20:56 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?bb3fffd360ef01c298d9fa97bd1afee1",
-      "group": "Devman",
-      "victim": "regionalurology.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Core Resources Inc (CRI)",
-      "link": "https://www.ransomware.live/id/Q29yZSBSZXNvdXJjZXMgSW5jIChDUkkpQHNpbm9iaQ==",
-      "summary": "Core Resources specializes in real estate development, general contracting, and owner representation, aiming to establish lasting partnerships in the construction industry. Their services encompass a holistic approach, covering everything from blueprints to financial consulting, to cater to clients’ essential assets. The company emphasizes integrity and strong values, which guide their operations and relationships. They serve a diverse clientele, including notable projects like Washington Park and Coldstream Country Club.",
-      "pubDate": "Wed, 15 Oct 2025 16:46:39 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?c89dccd95d33dcaa3db6a9e3d27c0f54",
-      "group": "Sinobi",
-      "victim": "Core Resources Inc (CRI)",
-      "country": "US"
     }
   ]
 }
