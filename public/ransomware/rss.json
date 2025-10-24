@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-24T20:12:45.909Z",
+  "updatedAt": "2025-10-24T21:09:54.420Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Hall Estill",
+      "link": "https://www.ransomware.live/id/SGFsbCBFc3RpbGxAU2lsZW50UmFuc29tR3JvdXA=",
+      "summary": "Founded in 1966 in Tulsa, Oklahoma, Hall Estill is a full-service law firm with clients ranging from F…",
+      "pubDate": "Fri, 24 Oct 2025 19:43:47 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/SilentRansomGroup?f6f03934edda8dae6c5abec3aee568ce",
+      "group": "Silentransomgroup",
+      "victim": "Hall Estill",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Tengu has just published a new victim : Le MULTI LABORATOIRE LC2A",
       "link": "https://www.ransomware.live/id/TGUgTVVMVEkgTEFCT1JBVE9JUkUgTEMyQUB0ZW5ndQ==",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Global Shop Solutions",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Legacy Manufacturing",
-      "link": "https://www.ransomware.live/id/TGVnYWN5IE1hbnVmYWN0dXJpbmdAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Wed, 15 Oct 2025 18:40:44 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?ba18ddfca8d3746f346911989e7b57f6",
-      "group": "Play",
-      "victim": "Legacy Manufacturing",
-      "country": ""
     }
   ]
 }
