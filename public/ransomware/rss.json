@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-25T16:12:12.761Z",
+  "updatedAt": "2025-10-25T17:09:35.947Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Svenska Kraftnät",
+      "link": "https://www.ransomware.live/id/U3ZlbnNrYSBLcmFmdG7DpHRAZXZlcmVzdA==",
+      "summary": "[AI generated] Svenska Kraftnät is a Swedish state-owned energy company responsible for the nation&#x27;s transmission grid for electricity. It operates on a national level ensuring the balancing of supply and demand for electricity. It manages the transmission grid (about 15,000 km of high voltage lines) and ensures that the grid is safe, reliable, and efficient. It also coordinates the cross-border exchanges of electricity and guarantees a balanced energy market.",
+      "pubDate": "Sat, 25 Oct 2025 15:43:23 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/everest?69d86529cd17a41e6ab07111e7063694",
+      "group": "Everest",
+      "victim": "Svenska Kraftnät",
+      "country": "SE"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : City of Sugar Land",
       "link": "https://www.ransomware.live/id/Q2l0eSBvZiBTdWdhciBMYW5kQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Rhysida",
       "victim": "Sibbalds",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Kraken has just published a new victim : www.ronvil.com",
-      "link": "https://www.ransomware.live/id/d3d3LnJvbnZpbC5jb21Aa3Jha2Vu",
-      "summary": "Ronemus &amp; Vilensky LLP is a New York-based law firm specializing in personal injury, civil rights, medical malpractice, and acci...",
-      "pubDate": "Thu, 16 Oct 2025 09:24:25 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/kraken?cda7da6f92153eb5773bfc2b7e921eab",
-      "group": "Kraken",
-      "victim": "www.ronvil.com",
-      "country": "US"
     }
   ]
 }
