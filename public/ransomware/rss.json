@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-25T19:08:08.355Z",
+  "updatedAt": "2025-10-25T20:11:36.449Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Essential Cabinetry Group",
+      "link": "https://www.ransomware.live/id/RXNzZW50aWFsIENhYmluZXRyeSBHcm91cEBxaWxpbg==",
+      "summary": "Simpsonville, SC-based Essential Cabinetry is a manufacturer of custom, semi-custom and stock-plus kitchen and bathroom cabinetry that is sold primarily through the dealer channel. Through its three market-leading brands (Tedd Wood Fine Cabin            ...",
+      "pubDate": "Sat, 25 Oct 2025 19:12:14 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?b17cfd4771d57a4d33ddbb0a7c653697",
+      "group": "Qilin",
+      "victim": "Essential Cabinetry Group",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Air Arabia",
+      "link": "https://www.ransomware.live/id/QWlyIEFyYWJpYUBldmVyZXN0",
+      "summary": "[AI generated] Air Arabia is a low-cost airline that started its operations in 2003, based in Sharjah, United Arab Emirates. The company offers flights to over 170 destinations across the Middle East, North Africa, Asia, and Europe. Apart from passenger transportation, Air Arabia also has diversified into travel management, tourism, and hospitality through various subsidiaries. It operates a fleet of Airbus A320 aircraft. It&#x27;s the first publicly listed airline in the Middle East, priding itself on being a profitable venture since the second year of its operation.",
+      "pubDate": "Sat, 25 Oct 2025 18:43:03 +0000",
+      "category": "AE",
+      "guid": "https://www.ransomware.live/group/everest?c05c39bfc7ef813cb99c77fe010b3b70",
+      "group": "Everest",
+      "victim": "Air Arabia",
+      "country": "AE"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Svenska Kraftnät",
       "link": "https://www.ransomware.live/id/U3ZlbnNrYSBLcmFmdG7DpHRAZXZlcmVzdA==",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "coppage.net",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : arizonafireplaces.com",
-      "link": "https://www.ransomware.live/id/YXJpem9uYWZpcmVwbGFjZXMuY29tQHFpbGlu",
-      "summary": "Arizona Fireplaces offers its customers top-notch quality and service for fireplaces and accessories from leading global brands. 1.Arizona Department of Revenue — Contractor’s Certificate (Form 5005) “Contractor&#x27;s Certificate for Prime            ...",
-      "pubDate": "Thu, 16 Oct 2025 10:39:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?4bece81af09dbf2195213e178fde1a79",
-      "group": "Qilin",
-      "victim": "arizonafireplaces.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Sibbalds",
-      "link": "https://www.ransomware.live/id/U2liYmFsZHNAcmh5c2lkYQ==",
-      "summary": "Sibbalds Sibbalds Chartered Accountants, based in Derby, specializes in providing a wide range of accountancy services to owner-managed businesses across England.    More",
-      "pubDate": "Thu, 16 Oct 2025 09:46:47 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/rhysida?5053bd3e2e1cf3aa1bed4c3f927b2f46",
-      "group": "Rhysida",
-      "victim": "Sibbalds",
-      "country": "GB"
     }
   ]
 }
