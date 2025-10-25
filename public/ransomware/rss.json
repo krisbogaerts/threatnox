@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-25T12:19:19.254Z",
+  "updatedAt": "2025-10-25T13:17:18.589Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Saturday Unveilings – Shadows Have Names",
+      "link": "https://www.ransomware.live/id/U2F0dXJkYXkgVW52ZWlsaW5ncyDigJMgU2hhZG93cyBIYXZlIE5hbWVzQGhhbmRhbGE=",
+      "summary": "In the realm of silence and secrets, every shadow carries a story, and every story eventually finds the light. Today, as promised, six new names are drawn from the heart of darkness: high-ranking engineers, architects of Israel’s air and naval power, elusive minds behind the Weizmann Institutes’ most covert operations, and now, nuclear scientists whose…",
+      "pubDate": "Sat, 25 Oct 2025 11:42:58 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?623e73584940a5996f5d8a7c25c392e6",
+      "group": "Handala",
+      "victim": "Saturday Unveilings – Shadows Have Names",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : constructiondprovost.com",
       "link": "https://www.ransomware.live/id/Y29uc3RydWN0aW9uZHByb3Zvc3QuY29tQHNhZmVwYXk=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Middlesex Appraisal Associates",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Sprague & Jackson",
-      "link": "https://www.ransomware.live/id/U3ByYWd1ZSAmIEphY2tzb25AcWlsaW4=",
-      "summary": "Sprague &amp; Jackson, USA - Sprague &amp; Jackson is a tax services firm that offers a range of client services including secure document submission and payment options. They provide personalized assistance through scheduled meetings to help clients            ...",
-      "pubDate": "Thu, 16 Oct 2025 00:46:37 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?4c9b01a1863cb8c030646a93346f956d",
-      "group": "Qilin",
-      "victim": "Sprague & Jackson",
-      "country": ""
     }
   ]
 }
