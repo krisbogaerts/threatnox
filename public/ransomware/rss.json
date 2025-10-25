@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-25T21:09:20.934Z",
+  "updatedAt": "2025-10-25T22:09:53.437Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Precision Machined Products",
+      "link": "https://www.ransomware.live/id/UHJlY2lzaW9uIE1hY2hpbmVkIFByb2R1Y3RzQGFraXJh",
+      "summary": "Precision Machined Products is a tier one supplier of downhole eq uipment for the Oil and Gas Industry. We are ready to upload more than 12gb of corporate documents. Emp loyee information and other HR files, projects, internal confiden tial files, clients confidential files, lots of specifications an d drawings, NDA, etc.",
+      "pubDate": "Sat, 25 Oct 2025 20:48:49 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?665d374a82d99713715b297a333b4799",
+      "group": "Akira",
+      "victim": "Precision Machined Products",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Essential Cabinetry Group",
       "link": "https://www.ransomware.live/id/RXNzZW50aWFsIENhYmluZXRyeSBHcm91cEBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Cloak",
       "victim": "L********den.com",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : coppage.net",
-      "link": "https://www.ransomware.live/id/Y29wcGFnZS5uZXRAcWlsaW4=",
-      "summary": "At Coppage Construction, we design and build homes. 1.The document is a statement of income for Coppage Construction Company, Inc. for the period ending April 30, 2025. 2.The document is a report entitled “Work in Process” by Coppage Co            ...",
-      "pubDate": "Thu, 16 Oct 2025 10:40:15 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?9b8b18a468b2863f90fed7bdacc1c21c",
-      "group": "Qilin",
-      "victim": "coppage.net",
-      "country": "US"
     }
   ]
 }
