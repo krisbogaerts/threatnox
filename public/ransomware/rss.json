@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-25T13:17:18.589Z",
+  "updatedAt": "2025-10-25T14:09:13.255Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : MetroWest Community FCU",
+      "link": "https://www.ransomware.live/id/TWV0cm9XZXN0IENvbW11bml0eSBGQ1VAYWtpcmE=",
+      "summary": "MetroWest Community Federal Credit Union offers a range of person al banking services including checking and savings accounts, mobi le banking, and various lending products such as vehicle, home, a nd personal loans. We are ready to upload corporate and client documents. Lots of cl ients documents (DLs, birth and death certs and numerous forms wi th personal information), financial and accounting information, c ourt cases information, employee personal files, etc.",
+      "pubDate": "Sat, 25 Oct 2025 12:39:16 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?e041bfd0501dd20fa830207d92c09b23",
+      "group": "Akira",
+      "victim": "MetroWest Community FCU",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Saturday Unveilings – Shadows Have Names",
       "link": "https://www.ransomware.live/id/U2F0dXJkYXkgVW52ZWlsaW5ncyDigJMgU2hhZG93cyBIYXZlIE5hbWVzQGhhbmRhbGE=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?d0f045805d657808c221125e7b8897d9",
       "group": "Qilin",
       "victim": "Beta Dyne",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Middlesex Appraisal Associates",
-      "link": "https://www.ransomware.live/id/TWlkZGxlc2V4IEFwcHJhaXNhbCBBc3NvY2lhdGVzQHFpbGlu",
-      "summary": "Middlesex Appraisal Associates, USA - provides appraisal services in Eastern Massachusetts in Middlesex, Essex, Suffolk, Norfolk, Worcester, and Plymouth counties. Founded in 1992, the company provides appraisal and consulting services utiliz            ...",
-      "pubDate": "Thu, 16 Oct 2025 00:47:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?202faed8bfdf93c22b4d42141e2f6030",
-      "group": "Qilin",
-      "victim": "Middlesex Appraisal Associates",
       "country": "US"
     }
   ]
