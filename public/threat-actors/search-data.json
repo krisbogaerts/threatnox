@@ -3965,7 +3965,7 @@
     "id": "ta406",
     "name": "TA406",
     "aliases": [],
-    "country": "KR",
+    "country": "KP",
     "description": "TA406 is engaging in malware distribution, phishing, intelligence collection, and cryptocurrency theft, resulting in a wide range of criminal activities."
   },
   {
@@ -4401,7 +4401,9 @@
   {
     "id": "sharppanda",
     "name": "SharpPanda",
-    "aliases": [],
+    "aliases": [
+      "Sharp Dragon"
+    ],
     "country": "CN",
     "description": "SharpPanda, an APT group originating from China, has seen a rise in its cyber-attack operations starting from at least 2018. The APT group utilizes spear-phishing techniques to obtain initial access, employing a combination of outdated Microsoft Office document vulnerabilities, novel evasion techniques, and highly potent backdoor malware."
   },
