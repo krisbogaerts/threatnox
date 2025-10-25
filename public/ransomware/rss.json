@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-10-25T15:10:12.093Z",
+  "updatedAt": "2025-10-25T16:12:12.761Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : City of Sugar Land",
+      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBTdWdhciBMYW5kQHFpbGlu",
+      "summary": "Founded as a sugar plantation in the early mid-20th century and incorporated in 1959, Sugar Land is a city in the state of Texas, in the United States. The city is within the Houston, The Woodlands and Sugar Land metropolitan area and Fort Be            ...",
+      "pubDate": "Sat, 25 Oct 2025 15:22:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?39428eab10fa2c7a04ba136c3a7f4f3c",
+      "group": "Qilin",
+      "victim": "City of Sugar Land",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Zacho-Lind",
+      "link": "https://www.ransomware.live/id/WmFjaG8tTGluZEBxaWxpbg==",
+      "summary": "Zacho-Lind A/S is a construction company based in Copenhagen with over 85 years of experience, specializing in infrastructure, concrete, and utility services. The company undertakes projects for both public and private clients, focusing on ar            ...",
+      "pubDate": "Sat, 25 Oct 2025 15:22:00 +0000",
+      "category": "DK",
+      "guid": "https://www.ransomware.live/group/qilin?11c05f6e62c212f162ff293f52865b38",
+      "group": "Qilin",
+      "victim": "Zacho-Lind",
+      "country": "DK"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Kaufman & Stigger",
+      "link": "https://www.ransomware.live/id/S2F1Zm1hbiAmIFN0aWdnZXJAcWlsaW4=",
+      "summary": "When you call Kaufman &amp; Stigger, PLLC Injury Lawyers, you will talk to a team with decades of experience helping people injured after an accident. Our Louisville-based law firm is focused exclusively on providing counsel to injured clients th            ...",
+      "pubDate": "Sat, 25 Oct 2025 15:21:22 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?e48bd0f38d78be29835a1f2b7e77d4bb",
+      "group": "Qilin",
+      "victim": "Kaufman & Stigger",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Omrin",
+      "link": "https://www.ransomware.live/id/T21yaW5AcWlsaW4=",
+      "summary": "Omrin is a leading waste management company in the Netherlands, dedicated to creating a clean and sustainable world. They provide a range of services including waste collection for over 1.6 million residents and 10,000 businesses, as well as             ...",
+      "pubDate": "Sat, 25 Oct 2025 15:20:44 +0000",
+      "category": "NL",
+      "guid": "https://www.ransomware.live/group/qilin?cb5ab4bff2290adfecba52cf2b85d40c",
+      "group": "Qilin",
+      "victim": "Omrin",
+      "country": "NL"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : MetroWest Community FCU",
       "link": "https://www.ransomware.live/id/TWV0cm9XZXN0IENvbW11bml0eSBGQ1VAYWtpcmE=",
@@ -2156,50 +2200,6 @@
       "guid": "https://www.ransomware.live/group/kraken?cda7da6f92153eb5773bfc2b7e921eab",
       "group": "Kraken",
       "victim": "www.ronvil.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : Gulf Warranties LLC",
-      "link": "https://www.ransomware.live/id/R3VsZiBXYXJyYW50aWVzIExMQ0BibGFja3NocmFudGFj",
-      "summary": "[AI generated] \"Gulf Warranties LLC\" is a company based in Dubai, United Arab Emirates that provides a range of consumer-focused products. Their product line includes extended warranty programs and insurance for motor vehicles, gadgets, and home appliances. Their solutions cater to both individual and corporate clients, offering protection against unexpected repair costs.",
-      "pubDate": "Thu, 16 Oct 2025 02:48:58 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/blackshrantac?99b98e7e90f4c1455aa03094e1e5198b",
-      "group": "Blackshrantac",
-      "victim": "Gulf Warranties LLC",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Radiant has just published a new victim : Docurail",
-      "link": "https://www.ransomware.live/id/RG9jdXJhaWxAcmFkaWFudA==",
-      "summary": "Docurail simplifies railway compliance, transforming complex paperwork into seamless digital workflows to...",
-      "pubDate": "Thu, 16 Oct 2025 01:47:52 +0000",
-      "category": "FI",
-      "guid": "https://www.ransomware.live/group/radiant?801dec290a18463d86d83daf8c14e7ab",
-      "group": "Radiant",
-      "victim": "Docurail",
-      "country": "FI"
-    },
-    {
-      "title": "🏴‍☠️ Radiant has just published a new victim : Dutch ???",
-      "link": "https://www.ransomware.live/id/RHV0Y2ggPz8/QHJhZGlhbnQ=",
-      "summary": "Unknown. Contact within 7 days based in the Netherlands.",
-      "pubDate": "Thu, 16 Oct 2025 01:47:48 +0000",
-      "category": "NL",
-      "guid": "https://www.ransomware.live/group/radiant?143aed1c544b44209126328defa309a9",
-      "group": "Radiant",
-      "victim": "Dutch ???",
-      "country": "NL"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Beta Dyne",
-      "link": "https://www.ransomware.live/id/QmV0YSBEeW5lQHFpbGlu",
-      "summary": "Beta Dyne, USA - develops and manufactures electrical equipment for the industrial plants, communications и medical. With over 20 years in the power industry, Beta Dyne, Inc. has developed a wide range of unique and high performance power pr            ...",
-      "pubDate": "Thu, 16 Oct 2025 01:47:34 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?d0f045805d657808c221125e7b8897d9",
-      "group": "Qilin",
-      "victim": "Beta Dyne",
       "country": "US"
     }
   ]
