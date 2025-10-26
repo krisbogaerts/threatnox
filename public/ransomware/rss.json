@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-25T23:10:12.431Z",
+  "updatedAt": "2025-10-26T00:56:10.184Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : Papsud",
+      "link": "https://www.ransomware.live/id/UGFwc3VkQG5vdmE=",
+      "summary": "Papsud is a company that operates in the Office Products Retail &amp; Distribution industry. It employs 10to19 people and has 1Mto5M of revenue. The company is headquartered in Marseille, Provence-Alpes-Cote d&#x27;Azur, France - 100GB of data taking include gov billing and costumers infos, invoices and IDs details etc",
+      "pubDate": "Sat, 25 Oct 2025 23:17:34 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/nova?14701e7fe40fe461085afff375dce3e3",
+      "group": "Nova",
+      "victim": "Papsud",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Precision Machined Products",
       "link": "https://www.ransomware.live/id/UHJlY2lzaW9uIE1hY2hpbmVkIFByb2R1Y3RzQGFraXJh",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/cloak?4e7c41f915774913c6c14860a9157b16",
       "group": "Cloak",
       "victim": "*****.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Cloak has just published a new victim : L********den.com",
-      "link": "https://www.ransomware.live/id/TCoqKioqKioqZGVuLmNvbUBjbG9haw==",
-      "summary": "",
-      "pubDate": "Thu, 16 Oct 2025 11:23:34 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/cloak?277969f4d3adc3d34f399c2e13459996",
-      "group": "Cloak",
-      "victim": "L********den.com",
       "country": ""
     }
   ]
