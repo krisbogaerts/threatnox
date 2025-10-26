@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-26T18:14:48.059Z",
+  "updatedAt": "2025-10-26T19:08:31.370Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Donacoop (VinaCapital)",
+      "link": "https://www.ransomware.live/id/RG9uYWNvb3AgKFZpbmFDYXBpdGFsKUB0aGVnZW50bGVtZW4=",
+      "summary": "https://www.zoominfo.com/c/vinacapital/345647395 DonaCoop is a major Vietnamese conglomerate based in Dong Nai province that evolved from agricultural and handicraft cooperatives into large-scale real estate and infrastructure development acting as a key investor in metro line extension projects with VinaCapital and developing major projects like Dong Nai Waterfront City in partnership with Keppel Land while also participating in philanthropic efforts such as donating.",
+      "pubDate": "Sun, 26 Oct 2025 18:26:53 +0000",
+      "category": "VN",
+      "guid": "https://www.ransomware.live/group/thegentlemen?8965ee0ef126bd2676cc6c878cfbd492",
+      "group": "Thegentlemen",
+      "victim": "Donacoop (VinaCapital)",
+      "country": "VN"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : InfraCom Group",
+      "link": "https://www.ransomware.live/id/SW5mcmFDb20gR3JvdXBAcWlsaW4=",
+      "summary": "InfraCom Group AB (publ) is a leading player in IT infrastructure, offering services like mobile and fixed telephony, cloud PBX, fiber internet, server hosting, and web platforms since 1999. The company serves approximately 20,000 clients, pr            ...",
+      "pubDate": "Sun, 26 Oct 2025 18:21:44 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/qilin?aaec5da0438fe25f9c458d2d98fcb522",
+      "group": "Qilin",
+      "victim": "InfraCom Group",
+      "country": "SE"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Dublin Airport",
       "link": "https://www.ransomware.live/id/RHVibGluIEFpcnBvcnRAZXZlcmVzdA==",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "dalton.com",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : bmcinnovation.com",
-      "link": "https://www.ransomware.live/id/Ym1jaW5ub3ZhdGlvbi5jb21AcWlsaW4=",
-      "summary": "BMC Strategic Innovation is a company specializing in strategic marketing that collaborates with partners to develop unique solutions to complex problems. They use a modular approach to tailor their services to individual client needs, drawin            ...",
-      "pubDate": "Thu, 16 Oct 2025 12:53:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?fed88021267b5653bbe9ea8848f5921a",
-      "group": "Qilin",
-      "victim": "bmcinnovation.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : gslong.com",
-      "link": "https://www.ransomware.live/id/Z3Nsb25nLmNvbUBxaWxpbg==",
-      "summary": "GS Long provides specialized services in plant nutrition, plant protection, and field consulting for the agricultural industry.  The company specializes in developing customized solutions to increase crop yields and safety. Committed to buil            ...",
-      "pubDate": "Thu, 16 Oct 2025 12:52:32 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?c20d6fc0660f794404709739c74b4bfb",
-      "group": "Qilin",
-      "victim": "gslong.com",
-      "country": "US"
     }
   ]
 }
