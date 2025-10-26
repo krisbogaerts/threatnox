@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-26T16:12:22.834Z",
+  "updatedAt": "2025-10-26T17:09:18.723Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Dublin Airport",
+      "link": "https://www.ransomware.live/id/RHVibGluIEFpcnBvcnRAZXZlcmVzdA==",
+      "summary": "[AI generated] Dublin Airport, located in Collinstown, Fingal, Ireland, is an international airport serving Dublin, the capital city of Ireland. It is operated by DAA (Dublin Airport Authority). The airport is the 12th busiest in Europe, offering flights to over 180 destinations by more than 40 airlines. It boasts two terminals, numerous shops and eateries, and various transport options including taxis, buses, and car rentals.",
+      "pubDate": "Sun, 26 Oct 2025 15:43:26 +0000",
+      "category": "IE",
+      "guid": "https://www.ransomware.live/group/everest?194d3d3c5a99dcefe53811a0f6d4f908",
+      "group": "Everest",
+      "victim": "Dublin Airport",
+      "country": "IE"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : South Alabama Regional Planning Commission",
       "link": "https://www.ransomware.live/id/U291dGggQWxhYmFtYSBSZWdpb25hbCBQbGFubmluZyBDb21taXNzaW9uQHFpbGlu",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?c20d6fc0660f794404709739c74b4bfb",
       "group": "Qilin",
       "victim": "gslong.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : arpis.com",
-      "link": "https://www.ransomware.live/id/YXJwaXMuY29tQHFpbGlu",
-      "summary": "For fifty years, Arpi&#x27;s has maintained this traditional approach to providing the highest quality service to our Calgary customers in the heating and cooling industry.Arpis Industries is proud to be recognized for its services and commitment             ...",
-      "pubDate": "Thu, 16 Oct 2025 12:51:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?ef814be15ae32940f5d3d0509c8b05d4",
-      "group": "Qilin",
-      "victim": "arpis.com",
       "country": "US"
     }
   ]
