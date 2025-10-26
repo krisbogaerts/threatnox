@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-26T22:10:38.908Z",
+  "updatedAt": "2025-10-26T23:10:25.173Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Limocar by Transdev.ca",
+      "link": "https://www.ransomware.live/id/TGltb2NhciBieSBUcmFuc2Rldi5jYUBjb2luYmFzZWNhcnRlbA==",
+      "summary": "Limocar, operated by Transdev Canada, is an intercity bus service offering reliable and efficient transportation between Sherbrooke, Bromont, and M...",
+      "pubDate": "Sun, 26 Oct 2025 21:39:36 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?c091cb200745b53adf19cd7c89dd58c6",
+      "group": "Coinbasecartel",
+      "victim": "Limocar by Transdev.ca",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : LaBonne",
       "link": "https://www.ransomware.live/id/TGFCb25uZUBwbGF5",
@@ -2190,17 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Coilplus",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : pandarose.ca",
-      "link": "https://www.ransomware.live/id/cGFuZGFyb3NlLmNhQHFpbGlu",
-      "summary": "A full range of technology consulting services—from infrastructure and specialized software to digital strategy and support. 1.This is a Non-Disclosure Agreement (NDA) between Fuels Inc. (the client) and Panda Rose Consulting Studios Inc.             ...",
-      "pubDate": "Thu, 16 Oct 2025 12:55:13 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?6e391016fd239ed5eaf89cfd99c8d4c6",
-      "group": "Qilin",
-      "victim": "pandarose.ca",
-      "country": "CA"
     }
   ]
 }
