@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-26T12:19:28.801Z",
+  "updatedAt": "2025-10-26T13:17:48.733Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : auge.com",
+      "link": "https://www.ransomware.live/id/YXVnZS5jb21AaW5jcmFuc29t",
+      "summary": "Industrias Auge S.A de C.V is a company that specializes in manufacturing and distribution of commercial and specialty alloy fasteners, including machined components.\r It offers alloy fasteners, machined components, anchoring systems, line pipe, boiler and heat exchanger tubing, casing tubing, platings &amp; coatings, fittings, flanges, and structural material. The company was founded in 1965 and is based in Houston, Texas\r \r We have contracts, data of all employees of the company internal mail, drawings and more at our disposal. We will share all this.",
+      "pubDate": "Sun, 26 Oct 2025 11:55:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?d18703c5e0eda8f95f332550b2604357",
+      "group": "Incransom",
+      "victim": "auge.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : Papsud",
       "link": "https://www.ransomware.live/id/UGFwc3VkQG5vdmE=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "pcdpackaging.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Cloak has just published a new victim : *****.com",
-      "link": "https://www.ransomware.live/id/KioqKiouY29tQGNsb2Fr",
-      "summary": "",
-      "pubDate": "Thu, 16 Oct 2025 11:23:37 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/cloak?4e7c41f915774913c6c14860a9157b16",
-      "group": "Cloak",
-      "victim": "*****.com",
-      "country": ""
     }
   ]
 }
