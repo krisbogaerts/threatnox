@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-26T19:08:31.370Z",
+  "updatedAt": "2025-10-26T20:11:43.811Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : LaBonne",
+      "link": "https://www.ransomware.live/id/TGFCb25uZUBwbGF5",
+      "summary": "United States",
+      "pubDate": "Sun, 26 Oct 2025 19:49:02 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/play?00b37b39d52ce4299d9d26710867518d",
+      "group": "Play",
+      "victim": "LaBonne",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Metal Pros",
+      "link": "https://www.ransomware.live/id/TWV0YWwgUHJvc0BwbGF5",
+      "summary": "United States",
+      "pubDate": "Sun, 26 Oct 2025 19:48:19 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?6887cae3ef2779827f65fd453f6422a3",
+      "group": "Play",
+      "victim": "Metal Pros",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Donacoop (VinaCapital)",
       "link": "https://www.ransomware.live/id/RG9uYWNvb3AgKFZpbmFDYXBpdGFsKUB0aGVnZW50bGVtZW4=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "pandarose.ca",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : montship.ca",
-      "link": "https://www.ransomware.live/id/bW9udHNoaXAuY2FAcWlsaW4=",
-      "summary": "Montship is Canada&#x27;s largest shipping agency, providing comprehensive agency services for liner vessels and ports across the country. 1.The document is an internal financial report of Trealship Services Inc. (TSI), prepared by the Allied Mar            ...",
-      "pubDate": "Thu, 16 Oct 2025 12:54:33 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?da17267a6de13cb95f43d0ce232cdd36",
-      "group": "Qilin",
-      "victim": "montship.ca",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : dalton.com",
-      "link": "https://www.ransomware.live/id/ZGFsdG9uLmNvbUBxaWxpbg==",
-      "summary": "Founded in 1986, Dalton Pharma Services is a contract pharmaceutical company providing a full range of development and manufacturing services to pharmaceutical and research companies worldwide. 1.The document is a bank statement from MUFG Ba            ...",
-      "pubDate": "Thu, 16 Oct 2025 12:53:52 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?3d929c6f5a5afe17f1449664e661fbf3",
-      "group": "Qilin",
-      "victim": "dalton.com",
-      "country": ""
     }
   ]
 }
