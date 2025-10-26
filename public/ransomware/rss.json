@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-26T14:09:26.281Z",
+  "updatedAt": "2025-10-26T15:10:30.767Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : South Alabama Regional Planning Commission",
+      "link": "https://www.ransomware.live/id/U291dGggQWxhYmFtYSBSZWdpb25hbCBQbGFubmluZyBDb21taXNzaW9uQHFpbGlu",
+      "summary": "SARPC is a locally controlled and organized instrument of local government in Southwestern Alabama, serving Mobile, Baldwin, and Escambia counties, along with twenty-nine municipalities. The organization provides programs and services focused            ...",
+      "pubDate": "Sun, 26 Oct 2025 14:38:43 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?8224460aabd42ef409b79f62f1434223",
+      "group": "Qilin",
+      "victim": "South Alabama Regional Planning Commission",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : auge.com",
       "link": "https://www.ransomware.live/id/YXVnZS5jb21AaW5jcmFuc29t",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?ef814be15ae32940f5d3d0509c8b05d4",
       "group": "Qilin",
       "victim": "arpis.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : pcdpackaging.com",
-      "link": "https://www.ransomware.live/id/cGNkcGFja2FnaW5nLmNvbUBxaWxpbg==",
-      "summary": "Development of customized industrial packaging. Single-use racks, export packaging, packaging for power units, specialized packaging, packaging for sea containers. 1.The document is an official bank statement from PCD Packaging de México S.            ...",
-      "pubDate": "Thu, 16 Oct 2025 12:51:08 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?97472c808b0a8c161d7512fcce5f9049",
-      "group": "Qilin",
-      "victim": "pcdpackaging.com",
       "country": "US"
     }
   ]
