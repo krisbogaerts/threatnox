@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-27T14:12:19.469Z",
+  "updatedAt": "2025-10-27T15:12:37.819Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : MotorsportMarkt.de",
+      "link": "https://www.ransomware.live/id/TW90b3JzcG9ydE1hcmt0LmRlQGV2ZXJlc3Q=",
+      "summary": "[AI generated] \"MotorsportMarkt.de\" is a German company that operates an online portal specializing in the market for motorsports. It provides a marketplace for buying and selling of motorsport vehicles, parts, equipment, and accessories. Additionally, it offers listings for motorsport-related jobs, properties and services. The platform corresponds to a broad range of motorsport disciplines including cars, motorcycles, karts, and offroad vehicles.",
+      "pubDate": "Mon, 27 Oct 2025 14:10:02 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/everest?d0f323cbeacea68c9a93cb70e513e98d",
+      "group": "Everest",
+      "victim": "MotorsportMarkt.de",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : ANIA KRUK",
+      "link": "https://www.ransomware.live/id/QU5JQSBLUlVLQGV2ZXJlc3Q=",
+      "summary": "[AI generated] ANIA KRUK is a Polish luxury jewelry brand that has been creating high-quality accessories since 1986. Founded by Ania Kruk, the company offers a wide variety of jewelry crafted in the finest materials like silver, gold, and diamonds. ANIA KRUK’s collections are known for their modern designs, uniqueness and high-quality craftsmanship. They operate online and have several boutiques across Poland and internationally.",
+      "pubDate": "Mon, 27 Oct 2025 14:09:19 +0000",
+      "category": "PL",
+      "guid": "https://www.ransomware.live/group/everest?6f6b86a8c0f9c8ed68527423e20defdf",
+      "group": "Everest",
+      "victim": "ANIA KRUK",
+      "country": "PL"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Abilene Family Medical Associates",
       "link": "https://www.ransomware.live/id/QWJpbGVuZSBGYW1pbHkgTWVkaWNhbCBBc3NvY2lhdGVzQHJoeXNpZGE=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Long Island Weight Loss Institute",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : summitgolfbrands.com",
-      "link": "https://www.ransomware.live/id/c3VtbWl0Z29sZmJyYW5kcy5jb21AaW5jcmFuc29t",
-      "summary": "SUMMIT GOLF BRANDS specializes in high-end golf apparel and sportswear, selling products online and through leading country clubs and resorts worldwide. Their portfolio includes brands such as Fairway Greene, Zero Restriction, B. Draddy, and EP New York, with a presence in over 3,000 accounts across more than 25 countries. The company emphasizes quality through vertical integration for decoration and fulfillment, ensuring exceptional service. They cater to various clients including pro shops, corporations, and retailers, focused on delivering innovative and stylish apparel for golf enthusiasts.\r Employees: 125\r Revenue: $27.9 Million\r Industry: Holding Companies &amp; Conglomerates \r Phone Number:(212) 302-7255\r 760-607-7574\r 501-940-5393\r 203-722-2472\r 207-317-1954\r 203-984-1657\r 516-776-3298\r 203-402-9704\r 917-975-9357\r 585-967-0609\r 917-587-2409\r 540-270-5566\r 800-926-8010",
-      "pubDate": "Sun, 19 Oct 2025 00:47:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?8f3ebc21dc5b4ba77ce880f538b8c20f",
-      "group": "Incransom",
-      "victim": "summitgolfbrands.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Radar has just published a new victim : MC INVERSIONES INMOBILIARIAS Construction company in Peru",
-      "link": "https://www.ransomware.live/id/TUMgSU5WRVJTSU9ORVMgSU5NT0JJTElBUklBUyBDb25zdHJ1Y3Rpb24gY29tcGFueSBpbiBQZXJ1QHJhZGFy",
-      "summary": "MC INVERSIONES INMOBILIARIAS Construction company in Peru. A lot of confidential information.",
-      "pubDate": "Sat, 18 Oct 2025 21:12:50 +0000",
-      "category": "PE",
-      "guid": "https://www.ransomware.live/group/radar?470f22a98613ddc916f90031ff8f1ddb",
-      "group": "Radar",
-      "victim": "MC INVERSIONES INMOBILIARIAS Construction company in Peru",
-      "country": "PE"
     }
   ]
 }
