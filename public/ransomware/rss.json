@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-10-27T10:14:43.407Z",
+  "updatedAt": "2025-10-27T11:10:31.225Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Malgor",
+      "link": "https://www.ransomware.live/id/TWFsZ29yQHFpbGlu",
+      "summary": "Founded in 1926 in San Juan, Puerto Rico, Malgor &amp; Co., Inc. is a leader in supplying proprietary lines of food and miscellaneous items, as well as recognized brands through special distribution agreements. They serve a diverse clientele that            ...",
+      "pubDate": "Mon, 27 Oct 2025 10:50:55 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?8f25544de71a32381764bb533e3f845a",
+      "group": "Qilin",
+      "victim": "Malgor",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Miami Management",
+      "link": "https://www.ransomware.live/id/TWlhbWkgTWFuYWdlbWVudEBwZWFy",
+      "summary": "A licensed and insured company providing a full range of property management services",
+      "pubDate": "Mon, 27 Oct 2025 10:49:45 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?868e7c38907061b308f276788ebf6b45",
+      "group": "Pear",
+      "victim": "Miami Management",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Beast has just published a new victim : GeBePro",
+      "link": "https://www.ransomware.live/id/R2VCZVByb0BiZWFzdA==",
+      "summary": "The company&#x27;s activities include the operational management of technical systems, project management, trading/distribution of technical systems and their products, business consulting, expert opinions, and service provision. The company may acquire similar or similar companies, participate in them, represent them, and establish branches. The company is authorized to conduct all transactions that are suitable for furthering the company&#x27;s purpose.",
+      "pubDate": "Mon, 27 Oct 2025 10:20:38 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/beast?b720baa7dd9680b28bef2582816b4840",
+      "group": "Beast",
+      "victim": "GeBePro",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Beast has just published a new victim : Bolt Electricity, Oil & Gas",
+      "link": "https://www.ransomware.live/id/Qm9sdCBFbGVjdHJpY2l0eSwgT2lsICYgR2FzQGJlYXN0",
+      "summary": "Bolt Energy specializes in providing energy solutions aimed at reducing costs by at least 25% for high voltage companies, and offering clean and affordable energy for residential and small business customers. They also deliver customized energy solutions for power plants. Established in 2010, Bolt Energy operates in both the free and captive markets, helping clients achieve significant energy savings. The company is actively engaged in energy generation and commercialization, focusing on efficient energy solutions",
+      "pubDate": "Mon, 27 Oct 2025 10:19:51 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/beast?3ec51735b080f6226ed6072e24d0f61a",
+      "group": "Beast",
+      "victim": "Bolt Electricity, Oil & Gas",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Flegenheimer International",
+      "link": "https://www.ransomware.live/id/RmxlZ2VuaGVpbWVyIEludGVybmF0aW9uYWxAYWtpcmE=",
+      "summary": "Flegenheimer International is Licensed Customs Broker company bas ed out of 227 W Grand Ave, El Segundo, CA, United States. We are ready to upload more than 16gb of corporate documents. Emp loyee information (address, phones and so on), customer informati on, accounting and other business files.",
+      "pubDate": "Mon, 27 Oct 2025 10:18:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?cad781e8491e6a72af1675ff85f4b1b2",
+      "group": "Akira",
+      "victim": "Flegenheimer International",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Crypto24 has just published a new victim : Meinhardt Group",
       "link": "https://www.ransomware.live/id/TWVpbmhhcmR0IEdyb3VwQGNyeXB0bzI0",
@@ -2146,61 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "WEBER",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : GEIGER",
-      "link": "https://www.ransomware.live/id/R0VJR0VSQHJoeXNpZGE=",
-      "summary": "GEIGER GEIGER Antriebstechnik is a leading manufacturer of innovative mechanical and electric drive solutions for sun protection products such as blinds, awnings, and shutters, employing over 250 staff.",
-      "pubDate": "Fri, 17 Oct 2025 07:49:36 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/rhysida?ce20ef0e44a31e05fa060f535a4fbcec",
-      "group": "Rhysida",
-      "victim": "GEIGER",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : SK shieldus",
-      "link": "https://www.ransomware.live/id/U0sgc2hpZWxkdXNAYmxhY2tzaHJhbnRhYw==",
-      "summary": "[AI generated] \"SK shieldus\" is a technology company focused on mobile and web application security. They specialize in providing comprehensive security solutions by using Artificial Intelligence algorithms to identify and prevent potential threats. Their services include penetration testing, code review, and vulnerability assessments to help businesses secure their digital assets effectively. They also offer consulting services to help organizations establish and enforce robust security policies.",
-      "pubDate": "Fri, 17 Oct 2025 03:21:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/blackshrantac?b0ae3dfbd1b59da7b94ed5cbc4268fa7",
-      "group": "Blackshrantac",
-      "victim": "SK shieldus",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Aussie Fluid Power",
-      "link": "https://www.ransomware.live/id/QXVzc2llIEZsdWlkIFBvd2VyQGFudWJpcw==",
-      "summary": "An Australian engineering leader has fallen victim to a cyberattack causing a data breach.",
-      "pubDate": "Thu, 16 Oct 2025 23:37:53 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/anubis?961ee95b97b570a70c53a22c3519ed51",
-      "group": "Anubis",
-      "victim": "Aussie Fluid Power",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : www.o****m*nt.com",
-      "link": "https://www.ransomware.live/id/d3d3Lm8qKioqbSpudC5jb21AZGV2bWFu",
-      "summary": "Ransom: 1400000 USD",
-      "pubDate": "Thu, 16 Oct 2025 22:50:50 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/devman?4a3c492114c15da59523a10a6d9c8dc9",
-      "group": "Devman",
-      "victim": "www.o****m*nt.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : M3 Group Sp. z oo",
-      "link": "https://www.ransomware.live/id/TTMgR3JvdXAgU3AuIHogb29Abm92YQ==",
-      "summary": "Poland IT company providing services in the areas of IT support, dedicated software, web software, implementation, consulting, and the delivery of IT systems for businesses.",
-      "pubDate": "Thu, 16 Oct 2025 22:14:37 +0000",
-      "category": "PL",
-      "guid": "https://www.ransomware.live/group/nova?bc08caa46e679dc18315b649f76d1fda",
-      "group": "Nova",
-      "victim": "M3 Group Sp. z oo",
-      "country": "PL"
     }
   ]
 }
