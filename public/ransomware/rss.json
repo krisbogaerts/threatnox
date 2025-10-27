@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-10-27T21:10:17.405Z",
+  "updatedAt": "2025-10-27T22:10:38.007Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : French Government",
+      "link": "https://www.ransomware.live/id/RnJlbmNoIEdvdmVybm1lbnRAc3Rvcm1vdXM=",
+      "summary": "Stealer-type breach Valid credentials, sensitive access",
+      "pubDate": "Mon, 27 Oct 2025 20:48:51 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/stormous?57e1bb52ebe6ec3ee6c42b883fcfd4de",
+      "group": "Stormous",
+      "victim": "French Government",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : Volkswagen",
+      "link": "https://www.ransomware.live/id/Vm9sa3N3YWdlbkBzdG9ybW91cw==",
+      "summary": "CarNet system breach Internal data accessed",
+      "pubDate": "Mon, 27 Oct 2025 20:48:04 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/stormous?2075bad703fa19224fe0fad7313cf916",
+      "group": "Stormous",
+      "victim": "Volkswagen",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : usbmemorydirect.com",
+      "link": "https://www.ransomware.live/id/dXNibWVtb3J5ZGlyZWN0LmNvbUBzdG9ybW91cw==",
+      "summary": "Personal data (individual names, photos, etc.), company/business data (company names, services, tools, equipment), backup copies, system archive compressed files, internal documents and project files, and more.",
+      "pubDate": "Mon, 27 Oct 2025 20:47:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/stormous?48c95d3e782d58993e3977e90a4e143e",
+      "group": "Stormous",
+      "victim": "usbmemorydirect.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : www.sincroslab.com",
+      "link": "https://www.ransomware.live/id/d3d3LnNpbmNyb3NsYWIuY29tQHN0b3Jtb3Vz",
+      "summary": "Sincroslab Sas is a company in Colombia, with a head office in Bogota D.C.. It operates in the Miscellaneous Nondurable Goods Merchant Wholesalers industry.",
+      "pubDate": "Mon, 27 Oct 2025 20:47:35 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/stormous?c908004a209a23abf095cde6b1adc748",
+      "group": "Stormous",
+      "victim": "www.sincroslab.com",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : www.visioninksltd.in",
+      "link": "https://www.ransomware.live/id/d3d3LnZpc2lvbmlua3NsdGQuaW5Ac3Rvcm1vdXM=",
+      "summary": "Vision Inks and Resins Limited ( previously known as Vision Inks &amp; Resins ) is established in May 1999 with Factory at MIDC, Murbad, Maharashtra INDIA having ...",
+      "pubDate": "Mon, 27 Oct 2025 20:47:10 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/stormous?bd02736bcae35bba92e636e6bb849d58",
+      "group": "Stormous",
+      "victim": "www.visioninksltd.in",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : www.americanadecolchones.com",
+      "link": "https://www.ransomware.live/id/d3d3LmFtZXJpY2FuYWRlY29sY2hvbmVzLmNvbUBzdG9ybW91cw==",
+      "summary": "VPN access to the company’s internal network is provided.",
+      "pubDate": "Mon, 27 Oct 2025 20:46:44 +0000",
+      "category": "CO",
+      "guid": "https://www.ransomware.live/group/stormous?6bd95413d835d0a8adb2cd89fc7fa2b1",
+      "group": "Stormous",
+      "victim": "www.americanadecolchones.com",
+      "country": "CO"
+    },
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : www.francetravail.fr",
+      "link": "https://www.ransomware.live/id/d3d3LmZyYW5jZXRyYXZhaWwuZnJAc3Rvcm1vdXM=",
+      "summary": "Plaintext authentication credentials (usernames/passwords)-(full names, dates of birth, gender)-(addresses, phone numbers, emails)-Employment history and professional skills-CNI-RIB - Relevé d&#x27;Identité Bancair - CDD, CDI, temporary missions - spanning multiple years -   Tax documents (Avis d&#x27;imposition) -   Social security attestations -   Training certificates -   Work authorization documents and more ....",
+      "pubDate": "Mon, 27 Oct 2025 20:46:19 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/stormous?0f4c8bfd4b859253bd207402114c551c",
+      "group": "Stormous",
+      "victim": "www.francetravail.fr",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : MedImpact Healthcare",
       "link": "https://www.ransomware.live/id/TWVkSW1wYWN0IEhlYWx0aGNhcmVAcWlsaW4=",
@@ -2124,83 +2201,6 @@
       "group": "Qilin",
       "victim": "Stephenson's Rental Services",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : London Women's Clinic",
-      "link": "https://www.ransomware.live/id/TG9uZG9uIFdvbWVuJ3MgQ2xpbmljQHFpbGlu",
-      "summary": "London Women&#x27;s Clinic is a leading fertility clinic established in 1985, offering a wide range of fertility treatments and services across fourteen locations in the UK. Their offerings include IVF, ICSI, IUI, egg donation, and surrogacy, cate            ...",
-      "pubDate": "Sun, 19 Oct 2025 16:09:19 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/qilin?f7703a62668f1c05f3e7b1d5de6865b5",
-      "group": "Qilin",
-      "victim": "London Women's Clinic",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Scales Sales & Service",
-      "link": "https://www.ransomware.live/id/U2NhbGVzIFNhbGVzICYgU2VydmljZUBxaWxpbg==",
-      "summary": "Scales Sales &amp; Service LLC was originally founded in 2004 in Omaha, Nebraska. A full-service scale company with locations in Greeley, CO, Colorado Springs, CO, Denver, CO, Omaha, NE, Kearney, NE, Scottsbluff, NE and Atlantic, IA, in addition             ...",
-      "pubDate": "Sun, 19 Oct 2025 16:08:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?a32d65e1b35e9ce8983241c568b30847",
-      "group": "Qilin",
-      "victim": "Scales Sales & Service",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Laloma",
-      "link": "https://www.ransomware.live/id/TGFsb21hQHFpbGlu",
-      "summary": "La Loma Tamales is a Mexican restaurant chain in the Minneapolis-St. Paul area known for its traditional, handmade tamales made from fresh ingredients, including a unique process of cooking and grinding their own corn. They offer both savory             ...",
-      "pubDate": "Sun, 19 Oct 2025 16:08:06 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?284948d3bb99168fe303d8d68002d419",
-      "group": "Qilin",
-      "victim": "Laloma",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Khatami Law",
-      "link": "https://www.ransomware.live/id/S2hhdGFtaSBMYXdAcWlsaW4=",
-      "summary": "Hoss Law is a law firm specializing in personal injury and family law services, dedicated to helping clients in Sacramento and surrounding areas. They focus on maximizing compensation for accident victims and offer a no-win, no-fee guarantee,            ...",
-      "pubDate": "Sun, 19 Oct 2025 16:07:27 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?a96fb789206325570ab3398df0bc8b5f",
-      "group": "Qilin",
-      "victim": "Khatami Law",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : SANgel",
-      "link": "https://www.ransomware.live/id/U0FOZ2VsQHFpbGlu",
-      "summary": "SANgel est une entreprise gabonaise de production et de distribution alimentaire basée à Libreville, dans la province de l&#x27;Estuaire. Fondée en 1994, l&#x27;entreprise est spécialisée dans les produits surgelés, qu&#x27;elle importe, transforme et            ...",
-      "pubDate": "Sun, 19 Oct 2025 16:06:51 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?0711580d316551cf86fcee20e99c8960",
-      "group": "Qilin",
-      "victim": "SANgel",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Kudela & Weinheimer",
-      "link": "https://www.ransomware.live/id/S3VkZWxhICYgV2VpbmhlaW1lckBxaWxpbg==",
-      "summary": "KW Landscape Architects is a landscape architecture firm that specializes in creating exceptional built environments by balancing innovation with functionality. With over 30 years of experience, they offer services across various markets incl            ...",
-      "pubDate": "Sun, 19 Oct 2025 16:06:15 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?61bc3671c0c91855e79c7925a34999aa",
-      "group": "Qilin",
-      "victim": "Kudela & Weinheimer",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Distribuciones Camba",
-      "link": "https://www.ransomware.live/id/RGlzdHJpYnVjaW9uZXMgQ2FtYmFAcWlsaW4=",
-      "summary": "Distribuciones Camba is a wholesale distributor of snacks and candies throughout Galicia. They offer a wide range of products including beverages, chocolates, gummies, and toys, catering primarily to the hospitality sector. Their distribution            ...",
-      "pubDate": "Sun, 19 Oct 2025 16:05:39 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?72b760cafb6bb5a0abe77b7a55c04631",
-      "group": "Qilin",
-      "victim": "Distribuciones Camba",
-      "country": "ES"
     }
   ]
 }
