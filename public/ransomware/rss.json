@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-27T04:21:42.995Z",
+  "updatedAt": "2025-10-27T05:12:38.963Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Crypto24 has just published a new victim : Meinhardt Group",
+      "link": "https://www.ransomware.live/id/TWVpbmhhcmR0IEdyb3VwQGNyeXB0bzI0",
+      "summary": "...",
+      "pubDate": "Mon, 27 Oct 2025 04:22:26 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/crypto24?5fa679eee12a61dab4e3ed15745d4016",
+      "group": "Crypto24",
+      "victim": "Meinhardt Group",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Crypto24 has just published a new victim : Bayu Buana Travel",
       "link": "https://www.ransomware.live/id/QmF5dSBCdWFuYSBUcmF2ZWxAY3J5cHRvMjQ=",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "M3 Group Sp. z oo",
       "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : ShareP",
-      "link": "https://www.ransomware.live/id/U2hhcmVQQG5vdmE=",
-      "summary": "Switzerland Startup that provides a plug-and-play solution to digitize and optimize urban parking and electric vehicle (EV) charging infrastructure. Revenue - 31 million$ Employees - 29",
-      "pubDate": "Thu, 16 Oct 2025 22:13:50 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/nova?707c675a75f285fa36542e606706f04e",
-      "group": "Nova",
-      "victim": "ShareP",
-      "country": ""
     }
   ]
 }
