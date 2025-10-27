@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-27T16:14:55.641Z",
+  "updatedAt": "2025-10-27T17:10:18.677Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Maki Building Centers",
+      "link": "https://www.ransomware.live/id/TWFraSBCdWlsZGluZyBDZW50ZXJzQGludGVybG9jaw==",
+      "summary": "Maki Building Centers is a company engaged in commerce and manufacturing with three branches in central Massachusetts. The company has warehouses, manufacturing facilities, large volumes, and financial resources! Security was very low, and the entire system was successfully compromised and taken over. Company, employee, and customer data ended up in our hands and, accordingly, in the public!",
+      "pubDate": "Mon, 27 Oct 2025 15:48:11 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/interlock?91fa3ce3e95572373505f65995529e02",
+      "group": "Interlock",
+      "victim": "Maki Building Centers",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Domy",
       "link": "https://www.ransomware.live/id/RG9teUBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Gas Generator Solutions",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Cellini Design Center",
-      "link": "https://www.ransomware.live/id/Q2VsbGluaSBEZXNpZ24gQ2VudGVyQHFpbGlu",
-      "summary": "Cellini is a Singapore-based online furniture shop offering a wide selection of designer home furniture that embodies comfort, luxury, and quality. The company specializes in various furniture categories, including living room, dining room, a            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:01:18 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/qilin?a004a4e1edf795ee364abde74862c666",
-      "group": "Qilin",
-      "victim": "Cellini Design Center",
-      "country": "SG"
     }
   ]
 }
