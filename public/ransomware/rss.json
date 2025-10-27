@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2025-10-27T17:10:18.677Z",
+  "updatedAt": "2025-10-27T18:17:34.292Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Deltta + Unique data center",
+      "link": "https://www.ransomware.live/id/RGVsdHRhICsgVW5pcXVlIGRhdGEgY2VudGVyQHNpbm9iaQ==",
+      "summary": "Unique DataCenter provides tailored cloud computing solutions designed to enhance business operations through high performance, security, scalability, and unmatched agility. Their services include cloud backup, dedicated servers, SD-WAN solutions, and advanced firewalls, aimed at businesses of all sizes seeking reliable IT infrastructure. With a focus on 24/7 technical support and compliance with Tier 3 standards, they ensure data security and seamless connectivity. Unique DataCenter emphasizes sustainability and flexibility, enabling clients to control their IT resources effectively.",
+      "pubDate": "Mon, 27 Oct 2025 17:15:53 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?cf00881f2c01a4231d3aafe951635055",
+      "group": "Sinobi",
+      "victim": "Deltta + Unique data center",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Cavalry Consulting",
+      "link": "https://www.ransomware.live/id/Q2F2YWxyeSBDb25zdWx0aW5nQHNpbm9iaQ==",
+      "summary": "Cavalry Co is a prominent player in Australia&#x27;s face-to-face sales and marketing industry, dedicated to delivering promotional excellence for leading brands. The company specializes in collaboration with established sports and non-profit organizations, focusing on helping clients achieve their goals and passions. With ambitions for national and international expansion, Cavalry Co aims to lead the industry through innovative strategies and campaigns. Their commitment to core values ensures they maintain a quality environment and workforce, striving for excellence in every aspect of their operations.",
+      "pubDate": "Mon, 27 Oct 2025 17:15:32 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?aa6983eec962b9b34682c542fc6d91e4",
+      "group": "Sinobi",
+      "victim": "Cavalry Consulting",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Mainetti UK - Data breach",
+      "link": "https://www.ransomware.live/id/TWFpbmV0dGkgVUsgLSBEYXRhIGJyZWFjaEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 27 Oct 2025 17:12:33 +0000",
+      "category": "UK",
+      "guid": "https://www.ransomware.live/group/qilin?bc24eba150c4fbaa69ddbff4edb9ef73",
+      "group": "Qilin",
+      "victim": "Mainetti UK - Data breach",
+      "country": "UK"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Micke Stridh Maskin",
+      "link": "https://www.ransomware.live/id/TWlja2UgU3RyaWRoIE1hc2tpbkBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 27 Oct 2025 17:12:00 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/qilin?12ee76f643e7f3d83f40d6063360f22f",
+      "group": "Qilin",
+      "victim": "Micke Stridh Maskin",
+      "country": "SE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Henrietta Ezeoke Law Firm",
+      "link": "https://www.ransomware.live/id/SGVucmlldHRhIEV6ZW9rZSBMYXcgRmlybUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 27 Oct 2025 17:11:20 +0000",
+      "category": "NG",
+      "guid": "https://www.ransomware.live/group/qilin?6610fb9ce7495ec2ced337e4210c9541",
+      "group": "Qilin",
+      "victim": "Henrietta Ezeoke Law Firm",
+      "country": "NG"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Izaki Group Investments",
+      "link": "https://www.ransomware.live/id/SXpha2kgR3JvdXAgSW52ZXN0bWVudHNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 27 Oct 2025 17:10:36 +0000",
+      "category": "IL",
+      "guid": "https://www.ransomware.live/group/qilin?33fe6c77c1d3949aaeee7280d9409a11",
+      "group": "Qilin",
+      "victim": "Izaki Group Investments",
+      "country": "IL"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Maki Building Centers",
       "link": "https://www.ransomware.live/id/TWFraSBCdWlsZGluZyBDZW50ZXJzQGludGVybG9jaw==",
@@ -2135,72 +2201,6 @@
       "group": "Qilin",
       "victim": "Wassa, SRO",
       "country": "CZ"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : SIGN Fracture Care International",
-      "link": "https://www.ransomware.live/id/U0lHTiBGcmFjdHVyZSBDYXJlIEludGVybmF0aW9uYWxAcWlsaW4=",
-      "summary": "SIGN Fracture Care International is a humanitarian organization dedicated to creating equality in fracture care globally by building sustainable orthopedic capacity in developing countries. They provide education to surgeons and donate the ne            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:05:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?f4d2127e43ab1def4f990414819626f8",
-      "group": "Qilin",
-      "victim": "SIGN Fracture Care International",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Indian Spring Country Club",
-      "link": "https://www.ransomware.live/id/SW5kaWFuIFNwcmluZyBDb3VudHJ5IENsdWJAcWlsaW4=",
-      "summary": "Located in beautiful Boynton Beach, Florida, Indian Spring Country Club is a gated, private country club that has the total package ...championship golf, tennis, fitness, casual and formal dining. The Indian Spring Country Club experience is             ...",
-      "pubDate": "Sun, 19 Oct 2025 15:04:26 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?00f2580fe807d4f107b0ad8a1faa1217",
-      "group": "Qilin",
-      "victim": "Indian Spring Country Club",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Grande Prairie Public Library",
-      "link": "https://www.ransomware.live/id/R3JhbmRlIFByYWlyaWUgUHVibGljIExpYnJhcnlAcWlsaW4=",
-      "summary": "The Grande Prairie Public Library District is located at 3479 West 183rd Street, in Hazel Crest, Illinois. We serve the communities of Hazel Crest and Country Club Hills. We provide service to all residents living within our district boundari            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:03:49 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?8a7ea6e10d902e91a72c0254f56a5838",
-      "group": "Qilin",
-      "victim": "Grande Prairie Public Library",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : BARCO Rent-A-Truck",
-      "link": "https://www.ransomware.live/id/QkFSQ08gUmVudC1BLVRydWNrQHFpbGlu",
-      "summary": "Barco Rent-A-Truck is a leading provider of corporate 4x4 pickup truck rentals in the United States, offering a comprehensive fleet of brand new trucks, including 1/2, 3/4, and 1-ton models. Their services cater to a wide range of clients, fr            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:03:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?b84b5fc17ce4c553dbcca2b1cad6d928",
-      "group": "Qilin",
-      "victim": "BARCO Rent-A-Truck",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Octomeca OY",
-      "link": "https://www.ransomware.live/id/T2N0b21lY2EgT1lAcWlsaW4=",
-      "summary": "Octomeca Oy specializes in load protection solutions for transportation and warehousing, offering a range of stretch film wrapping machines designed to meet demanding packaging challenges. Their products include various series of wrapping mac            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:02:35 +0000",
-      "category": "FI",
-      "guid": "https://www.ransomware.live/group/qilin?972e2c0522fc871b7714cd8623df8b47",
-      "group": "Qilin",
-      "victim": "Octomeca OY",
-      "country": "FI"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Gas Generator Solutions",
-      "link": "https://www.ransomware.live/id/R2FzIEdlbmVyYXRvciBTb2x1dGlvbnNAcWlsaW4=",
-      "summary": "Gas Generator Solutions (GGS) is a privately owned, independent organization established to provide Lab Managers with single point of contact for the Servicing and Repair of ANY Laboratory Gas Generator within their facility, independent of b            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:01:57 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/qilin?8f9b3b7987848d7261e389bab4eca009",
-      "group": "Qilin",
-      "victim": "Gas Generator Solutions",
-      "country": "GB"
     }
   ]
 }
