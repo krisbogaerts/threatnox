@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-27T02:46:53.005Z",
+  "updatedAt": "2025-10-27T03:47:02.681Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Crypto24 has just published a new victim : Bayu Buana Travel",
+      "link": "https://www.ransomware.live/id/QmF5dSBCdWFuYSBUcmF2ZWxAY3J5cHRvMjQ=",
+      "summary": "...",
+      "pubDate": "Mon, 27 Oct 2025 02:51:52 +0000",
+      "category": "ID",
+      "guid": "https://www.ransomware.live/group/crypto24?6c1a084945ef54f21ebd07c30aa3a922",
+      "group": "Crypto24",
+      "victim": "Bayu Buana Travel",
+      "country": "ID"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : dwgra.com",
       "link": "https://www.ransomware.live/id/ZHdncmEuY29tQGluY3JhbnNvbQ==",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "ShareP",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : BMP Worldwide",
-      "link": "https://www.ransomware.live/id/Qk1QIFdvcmxkd2lkZUBwbGF5",
-      "summary": "United States",
-      "pubDate": "Thu, 16 Oct 2025 18:46:25 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?0db3d190acf050a9be13bb82118c6f1d",
-      "group": "Play",
-      "victim": "BMP Worldwide",
-      "country": "US"
     }
   ]
 }
