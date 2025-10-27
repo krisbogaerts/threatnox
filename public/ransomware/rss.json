@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-27T15:12:37.819Z",
+  "updatedAt": "2025-10-27T16:14:55.641Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Domy",
+      "link": "https://www.ransomware.live/id/RG9teUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 27 Oct 2025 15:23:55 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?6dd89bf57cf5d502804517413cbafaf3",
+      "group": "Qilin",
+      "victim": "Domy",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Engineered Profiles",
+      "link": "https://www.ransomware.live/id/RW5naW5lZXJlZCBQcm9maWxlc0Bha2lyYQ==",
+      "summary": "Engineered Profiles specializes in high-quality plastic extrusion , design, and advanced manufacturing technologies. We are ready to upload more than 56gb of corporate documents. Emp loyee information (social security cards, driver licenses, medica l information, addresses, phones and so on), projects, customer i nformation, accounting, confidentiality agreements, NDA, etc.",
+      "pubDate": "Mon, 27 Oct 2025 14:48:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?47b82652188fcf5e3aebe15307b370f9",
+      "group": "Akira",
+      "victim": "Engineered Profiles",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : SK group, Za Za Bazaar, TH UK & Ireland Ltd and a few more.",
+      "link": "https://www.ransomware.live/id/U0sgZ3JvdXAsIFphIFphIEJhemFhciwgVEggVUsgJiBJcmVsYW5kIEx0ZCBhbmQgYSBmZXcgbW9yZS5AYWtpcmE=",
+      "summary": "You will get access to files these companies soon. Here is what w e got: 70gb of corporate documents. We&#x27;ve taken lots of personal  files (passports, social security cards, driver licenses, medical information, address, phones and other information of numerous p eople), confidential files, projects, customer information, detai led accounting, confidentiality agreements, NDA, etc.",
+      "pubDate": "Mon, 27 Oct 2025 14:48:29 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/akira?d27d44bd3573eb68d55a543037b5c8e2",
+      "group": "Akira",
+      "victim": "SK group, Za Za Bazaar, TH UK & Ireland Ltd and a few more.",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : MotorsportMarkt.de",
       "link": "https://www.ransomware.live/id/TW90b3JzcG9ydE1hcmt0LmRlQGV2ZXJlc3Q=",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Cellini Design Center",
       "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Stowaway Storage",
-      "link": "https://www.ransomware.live/id/U3Rvd2F3YXkgU3RvcmFnZUBxaWxpbg==",
-      "summary": "Opened in the fall of 1998, Stowaway Storage has long been part of the North Haven community. The business has always been family owned and operated since it&#x27;s beginning. Owner Raymond V Iannucci started the company on land previously utilize            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:00:38 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?b380bc800345cb3d508a8344e543eecb",
-      "group": "Qilin",
-      "victim": "Stowaway Storage",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Handala has just published a new victim : Commemoration of Commander Martyr Reza Awada",
-      "link": "https://www.ransomware.live/id/Q29tbWVtb3JhdGlvbiBvZiBDb21tYW5kZXIgTWFydHlyIFJlemEgQXdhZGFAaGFuZGFsYQ==",
-      "summary": "On this significant anniversary of the martyrdom of Commander Reza Awada, we bow our heads in respect to a man who was not only a leader on the battlefield, but also a beacon of thought and vision. Today, we commemorate someone who, above all, showed us the way, a path leading from darkness to light,…",
-      "pubDate": "Sun, 19 Oct 2025 06:43:36 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/handala?56f17b7469fb8c14b1ccb37857679a6c",
-      "group": "Handala",
-      "victim": "Commemoration of Commander Martyr Reza Awada",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Long Island Weight Loss Institute",
-      "link": "https://www.ransomware.live/id/TG9uZyBJc2xhbmQgV2VpZ2h0IExvc3MgSW5zdGl0dXRlQHFpbGlu",
-      "summary": "Long Island Weight Loss Institute is a medical weight loss clinic that offers physician-supervised weight loss programs designed to treat the whole person. The clinic provides individualized support tailored to each patient&#x27;s unique needs wit            ...",
-      "pubDate": "Sun, 19 Oct 2025 04:14:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?43b18308db01cf14917cab106b0df79d",
-      "group": "Qilin",
-      "victim": "Long Island Weight Loss Institute",
-      "country": "US"
     }
   ]
 }
