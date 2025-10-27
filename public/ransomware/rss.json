@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-27T00:57:39.551Z",
+  "updatedAt": "2025-10-27T02:46:53.005Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : dwgra.com",
+      "link": "https://www.ransomware.live/id/ZHdncmEuY29tQGluY3JhbnNvbQ==",
+      "summary": "D. W. Gould Realty Advisors Inc. (“DWGRA”) is a privately owned, non-commission compensation Canadian brokerage offering.\r Derek Gould is President and the Broker of Record at D.W. Gould Realty Advisors Inc. \r He was Vice President at CBRE Limited from 1998 until June 2013 when he decided to open his own boutique brokerage. \r Mr. Gould works with corporations and individuals requiring brokerage services within the Greater GTA as well as across Ontario from west of London to Kingston and north to Sudbury / North Bay and further North.\r \r We have at our disposal fiscal data, internal mail, data of all employees of the company, as well as strategic development plans.",
+      "pubDate": "Mon, 27 Oct 2025 00:44:41 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/incransom?abd9e69da8e1d420aebe9b006b6e8940",
+      "group": "Incransom",
+      "victim": "dwgra.com",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : partitio.com",
+      "link": "https://www.ransomware.live/id/cGFydGl0aW8uY29tQGluY3JhbnNvbQ==",
+      "summary": "About Partitio\r Partitio specializes in digital technologies aimed at enhancing human interaction within organizations. They provide services in information system management, including private cloud hosting and content management solutions. Their target clients include SMEs, retailers, and accounting professionals, with a focus on improving collaboration and data security. As a trusted partner, Partitio is certified in ISO 27 001 and HDS, ensuring high standards in their offerings",
+      "pubDate": "Mon, 27 Oct 2025 00:44:07 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/incransom?02d99fa504e39d195706cb45b1b45ebd",
+      "group": "Incransom",
+      "victim": "partitio.com",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Limocar by Transdev.ca",
       "link": "https://www.ransomware.live/id/TGltb2NhciBieSBUcmFuc2Rldi5jYUBjb2luYmFzZWNhcnRlbA==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?0db3d190acf050a9be13bb82118c6f1d",
       "group": "Play",
       "victim": "BMP Worldwide",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Regency Specialist Hospital",
-      "link": "https://www.ransomware.live/id/UmVnZW5jeSBTcGVjaWFsaXN0IEhvc3BpdGFsQG5vdmE=",
-      "summary": "Founded in 2009, Regency Specialist Hospital is a tertiary care hospital located in the growing township of Bandar Seri Alam in Malaysia. Regency Specialist Hospital provides specialist inpatient and outpatient healthcare services supported by a full range of diagnostic, radiology and clinical laboratory services.",
-      "pubDate": "Thu, 16 Oct 2025 13:40:20 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/nova?8b4414ee83f0732ccb602b0c228af322",
-      "group": "Nova",
-      "victim": "Regency Specialist Hospital",
-      "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Coilplus",
-      "link": "https://www.ransomware.live/id/Q29pbHBsdXNAd29ybGRsZWFrcw==",
-      "summary": "[AI generated] Coilplus is a company that mainly specializes in the metal processing industry. They provide tailored solutions for metal coil processing, including slitting, roll forming and cut-to-length lines. Founded in 1985 in Illinois, USA, Coilplus has expanded globally with facilities in Mexico, Spain, and China. The company emphasizes on quality control and employs a team of experts to ensure their products meet high industry standards.",
-      "pubDate": "Thu, 16 Oct 2025 13:02:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?4a36725f9c3e27ad45bb214bd1b27f93",
-      "group": "Worldleaks",
-      "victim": "Coilplus",
       "country": "US"
     }
   ]
