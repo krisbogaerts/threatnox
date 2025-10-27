@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-27T20:10:21.072Z",
+  "updatedAt": "2025-10-27T21:10:17.405Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : MedImpact Healthcare",
+      "link": "https://www.ransomware.live/id/TWVkSW1wYWN0IEhlYWx0aGNhcmVAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 27 Oct 2025 20:18:33 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?b4d01d19f96b6e75f72eb565ed67f0c5",
+      "group": "Qilin",
+      "victim": "MedImpact Healthcare",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : Navigator Business Solutions",
+      "link": "https://www.ransomware.live/id/TmF2aWdhdG9yIEJ1c2luZXNzIFNvbHV0aW9uc0BseW54",
+      "summary": "Life Sciences/Biotechnology, Distribution, and Consumer Products Organizations come to Navigator Business Solutions when they find their ability to grow and or adapt is being limited by their current business processes and systems.",
+      "pubDate": "Mon, 27 Oct 2025 20:15:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lynx?e98a27390c495146aee9665e7c67fb91",
+      "group": "Lynx",
+      "victim": "Navigator Business Solutions",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Blacknevas has just published a new victim : Trojan Construction & Holding Group",
+      "link": "https://www.ransomware.live/id/VHJvamFuIENvbnN0cnVjdGlvbiAmIEhvbGRpbmcgR3JvdXBAYmxhY2tuZXZhcw==",
+      "summary": "Over 3 terabytes of project and financial reporting data for 2024–2025. https://gofile.io/d/4Uf42V For an example of what data we have and sell at a high price, please write to us if you are interested: Qualitydatarecovery@mail.comTrojan Holding is an Abu Dhabi-based construction company founded in 2012. It is a diversified group of companies engaged in a wide range of construction projects, including high-rise buildings, hospitals, schools, resorts, and residential complexes. The company is a leader in the construction sector in the UAE and the region, with a large project portfolio and is a subsidiary of Alpha Dhabi Holding.The Group currently has eight subsidiaries:Trojan General Contracting,National Projects &amp;amp; Construction,Royal Advance Electromechanical Works,Reem Emirates Aluminum,Hi-Tech Concrete Products,Al Maha Modular Industries,Phoenix Timber Factory andReem Readymix.",
+      "pubDate": "Mon, 27 Oct 2025 19:46:11 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/blacknevas?683a038b2bbb97cf6128a20263ee94aa",
+      "group": "Blacknevas",
+      "victim": "Trojan Construction & Holding Group",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : glawitsch-sutter",
       "link": "https://www.ransomware.live/id/Z2xhd2l0c2NoLXN1dHRlckBzaW5vYmk=",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Distribuciones Camba",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Klima-Therm",
-      "link": "https://www.ransomware.live/id/S2xpbWEtVGhlcm1AcWlsaW4=",
-      "summary": "The Company provides innovative air-conditioning, ventilation, cooling and heating solutions and is rapidly growing its business in the Renewable Energy Sources (RES) segment. The flagship brands distributed by Klima-Therm include: Fujitsu, K            ...",
-      "pubDate": "Sun, 19 Oct 2025 16:05:04 +0000",
-      "category": "PL",
-      "guid": "https://www.ransomware.live/group/qilin?47bb26fdaaddd4f48c87a147e35aa18b",
-      "group": "Qilin",
-      "victim": "Klima-Therm",
-      "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : The Blood and Marrow Transplant Group of Georgia",
-      "link": "https://www.ransomware.live/id/VGhlIEJsb29kIGFuZCBNYXJyb3cgVHJhbnNwbGFudCBHcm91cCBvZiBHZW9yZ2lhQHFpbGlu",
-      "summary": "The Blood and Marrow Transplant Group of Georgia (BMTGA) specializes in providing advanced care for patients undergoing blood and marrow stem cell transplantation, acute leukemia treatment, and CAR T-cell immunotherapy. They are recognized fo            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:08:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?df48c72c2427dc977a08251c542d3848",
-      "group": "Qilin",
-      "victim": "The Blood and Marrow Transplant Group of Georgia",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Platinum Wines & Spirits",
-      "link": "https://www.ransomware.live/id/UGxhdGludW0gV2luZXMgJiBTcGlyaXRzQHFpbGlu",
-      "summary": "Platinum is one of the leading wines and spirits distributors in Singapore, having been in the industry for over a decade. Being the appointed wholesaler for many major wines and spirits companies like Beam Suntory Asia, Bacardi-Martini Singa            ...",
-      "pubDate": "Sun, 19 Oct 2025 15:08:09 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/qilin?efb08bc71a7c3b15045a4ed3431f75dd",
-      "group": "Qilin",
-      "victim": "Platinum Wines & Spirits",
-      "country": "SG"
     }
   ]
 }
