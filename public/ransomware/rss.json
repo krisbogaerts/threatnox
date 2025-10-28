@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-28T18:17:35.220Z",
+  "updatedAt": "2025-10-28T19:09:42.187Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Lorber, Greenfield & Polito, LLP",
+      "link": "https://www.ransomware.live/id/TG9yYmVyLCBHcmVlbmZpZWxkICYgUG9saXRvLCBMTFBAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 28 Oct 2025 18:20:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?b1ecced733b2e30bc3a682c8155e2759",
+      "group": "Qilin",
+      "victim": "Lorber, Greenfield & Polito, LLP",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Gemini Group",
       "link": "https://www.ransomware.live/id/R2VtaW5pIEdyb3VwQHJoeXNpZGE=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/lynx?bac92a38a5db535aa327b03eb30c8146",
       "group": "Lynx",
       "victim": "trailridgeenergy",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : www.dekalbcountyga.gov",
-      "link": "https://www.ransomware.live/id/d3d3LmRla2FsYmNvdW50eWdhLmdvdkBseW54",
-      "summary": "DeKalb County is the third most populated county in the state of Georgia and is the county seat of Decatur.",
-      "pubDate": "Tue, 21 Oct 2025 08:50:49 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?c19aa8bd457bad77dd9968a87f8bff0c",
-      "group": "Lynx",
-      "victim": "www.dekalbcountyga.gov",
       "country": "US"
     }
   ]
