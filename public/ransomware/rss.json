@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-28T11:09:50.300Z",
+  "updatedAt": "2025-10-28T12:21:54.201Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Axelson WilliamowskyBender & Fishman",
+      "link": "https://www.ransomware.live/id/QXhlbHNvbiBXaWxsaWFtb3dza3lCZW5kZXIgJiBGaXNobWFuQGFraXJh",
+      "summary": "Axelson, Williamowsky, Bender &amp; Fishman, P.C. is a full-service l aw firm serving the Washington Metropolitan Area with over 100 ye ars of combined experience. They offer a wide range of legal serv ices including personal injury, family law, estate planning, real estate, and business law.  We are ready to upload more than 100GB data. There are lots of es sential corporate documents such as: financial data (audit, payme nt details,financial reports, invoices), detailed employees and c ustomers information (passports, driver&#x27;s license , Social Securi ty Numbers, medical information, emails, phones) confidential inf ormation, NDAs and other documents with detailed personal informa tion.",
+      "pubDate": "Tue, 28 Oct 2025 11:47:52 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?b1cc4fdc7479e95533efab3f5c544648",
+      "group": "Akira",
+      "victim": "Axelson WilliamowskyBender & Fishman",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Riddell Law Group",
+      "link": "https://www.ransomware.live/id/UmlkZGVsbCBMYXcgR3JvdXBAcGVhcg==",
+      "summary": "Real Estate Law, Title Insurance, Probate Estate Planning, Bankruptcy, Foreclosures/Short Sales",
+      "pubDate": "Tue, 28 Oct 2025 11:11:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?faea5fed440ef8f0ea1c8e4e15a2998a",
+      "group": "Pear",
+      "victim": "Riddell Law Group",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ciphbit has just published a new victim : Jimfor, S.A.",
       "link": "https://www.ransomware.live/id/SmltZm9yLCBTLkEuQGNpcGhiaXQ=",
@@ -2179,28 +2201,6 @@
       "group": "Medusa",
       "victim": "DALCANS",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Accord Carton",
-      "link": "https://www.ransomware.live/id/QWNjb3JkIENhcnRvbkBwbGF5",
-      "summary": "United States",
-      "pubDate": "Sun, 19 Oct 2025 20:40:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?d287da34a5e73b2484defa46dfae708a",
-      "group": "Play",
-      "victim": "Accord Carton",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Collins Aerospace Admits Responsibility for Flight Chaos at Heathrow, Brussels and Other M...",
-      "link": "https://www.ransomware.live/id/Q29sbGlucyBBZXJvc3BhY2UgQWRtaXRzIFJlc3BvbnNpYmlsaXR5IGZvciBGbGlnaHQgQ2hhb3MgYXQgSGVhdGhyb3csIEJydXNzZWxzIGFuZCBPdGhlciBNLi4uQGV2ZXJlc3Q=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Sun, 19 Oct 2025 20:13:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/everest?482c5fc2f0c5c83ac7e5924585bf3f92",
-      "group": "Everest",
-      "victim": "Collins Aerospace Admits Responsibility for Flight Chaos at Heathrow, Brussels and Other M...",
-      "country": "US"
     }
   ]
 }
