@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-28T05:12:38.896Z",
+  "updatedAt": "2025-10-28T06:18:31.260Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ciphbit has just published a new victim : Jimfor, S.A.",
+      "link": "https://www.ransomware.live/id/SmltZm9yLCBTLkEuQGNpcGhiaXQ=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Tue, 28 Oct 2025 05:11:55 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/ciphbit?dd4e5add575ab069441d62dd6014533f",
+      "group": "Ciphbit",
+      "victim": "Jimfor, S.A.",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Genesis has just published a new victim : Advantage CDC",
       "link": "https://www.ransomware.live/id/QWR2YW50YWdlIENEQ0BnZW5lc2lz",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/everest?482c5fc2f0c5c83ac7e5924585bf3f92",
       "group": "Everest",
       "victim": "Collins Aerospace Admits Responsibility for Flight Chaos at Heathrow, Brussels and Other M...",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : healthandvitalitycenter.com",
-      "link": "https://www.ransomware.live/id/aGVhbHRoYW5kdml0YWxpdHljZW50ZXIuY29tQHNhZmVwYXk=",
-      "summary": "The Health &amp; Vitality Center is a holistic medical practice located at 11600 Wilshire Blvd, Suite 120, Los Angeles, CA. …",
-      "pubDate": "Sun, 19 Oct 2025 17:41:17 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?11a8470465ac1cefb14952b63ff3df66",
-      "group": "Safepay",
-      "victim": "healthandvitalitycenter.com",
       "country": "US"
     }
   ]
