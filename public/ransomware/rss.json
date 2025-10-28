@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-28T12:21:54.201Z",
+  "updatedAt": "2025-10-28T13:24:50.596Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Bellflower Unified School District",
+      "link": "https://www.ransomware.live/id/QmVsbGZsb3dlciBVbmlmaWVkIFNjaG9vbCBEaXN0cmljdEByaHlzaWRh",
+      "summary": "Bellflower Unified School District Headquartered Bellflower, California, Bellflower Unified School District is a general education district that offers K-12 classes.    More",
+      "pubDate": "Tue, 28 Oct 2025 12:55:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?6ccb784ecb9a4402d55d888c2eb0edd6",
+      "group": "Rhysida",
+      "victim": "Bellflower Unified School District",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Axelson WilliamowskyBender & Fishman",
       "link": "https://www.ransomware.live/id/QXhlbHNvbiBXaWxsaWFtb3dza3lCZW5kZXIgJiBGaXNobWFuQGFraXJh",
@@ -2190,17 +2201,6 @@
       "group": "Medusa",
       "victim": "Linxx Global Solutions",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Medusa has just published a new victim : DALCANS",
-      "link": "https://www.ransomware.live/id/REFMQ0FOU0BtZWR1c2E=",
-      "summary": "Otherwise, DALCANS will not make any exchange or refund of products ordered. Any product given back will be returned to DALCANS in its original condition and packaging and must include all of the product and its accessories. Any risk associated with returning the product is the responsibility of the Buyer. Failure to follow the procedure outlined above and specified period, the Purchaser cannot make any claim for nonconformity or defect of goods delivered, the products being deemed conformable and free from defect. company is headquartered in 36, rue des Petits Champs, 75002 Paris, France. <25 Employees, The total amount of data leakage is 1 TB.",
-      "pubDate": "Mon, 20 Oct 2025 07:14:28 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/medusa?81388a340d9a955994155fbf89dca319",
-      "group": "Medusa",
-      "victim": "DALCANS",
-      "country": "FR"
     }
   ]
 }
