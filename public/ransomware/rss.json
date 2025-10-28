@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-28T14:12:05.018Z",
+  "updatedAt": "2025-10-28T15:13:24.059Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : CESO",
+      "link": "https://www.ransomware.live/id/Q0VTT0Bha2lyYQ==",
+      "summary": "CESO is a comprehensive firm offering multi-disciplinary capabili ties through our ability to provide surveying, landscape architec ture, civil engineering, environmental, architecture, and interio r services to our clients. We will upload corporate documents soon. Very detailed personal e mployees information (passport scans, SSN lists, driver licenses, phones, emails, addresses, medical cards and so on), accounting  and financials, confidential clients projects and other files, lo ts of NDA, credit card information, etc.",
+      "pubDate": "Tue, 28 Oct 2025 14:08:10 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/akira?99d2985a38bc8bd445d906657e15dded",
+      "group": "Akira",
+      "victim": "CESO",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Productive Tool Products",
       "link": "https://www.ransomware.live/id/UHJvZHVjdGl2ZSBUb29sIFByb2R1Y3RzQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Pear",
       "victim": "B. G. Schneider Treuhand AG Information",
       "country": "CH"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Gruppe Lehnen",
-      "link": "https://www.ransomware.live/id/R3J1cHBlIExlaG5lbkBub3Zh",
-      "summary": "Wir bauen für Ihre Zukunft. Die Gruppe mit Stammsitz in Sehlem weist bereits 90 Jahre Erfahrung im Tief- und Straenbau auf. Als modernes und leistungsfhiges Familienunternehmen mit heute über 270 qualifizierten Mitarbeitern sind wir dank jahrzehntelanger Erfahrung zuverlssiger und kompetenter Partner im Tief- und Straenbau. Mit dem Laden des Videos akzeptieren Sie die Datenschutzerklrung von YouTube. Unser kompetentes und hochmotiviertes Team braucht Unterstützung. Sollten wir für ein Stellenangebot Ihr Interesse geweckt haben, so freuen wir uns auf Ihre schriftliche Bewerbung. Für weitere Informationen klicken Sie bitte auf das jeweilige Stellenangebot. Das Downloadcenter hlt immer die wichtigsten und aktuellsten Dokumente Für Sie bereit. Hier finden Sie die aktuellen Preislisten unserer Hartsteinwerke, die Prqualifizierungsbesttigung, Broschüren zum Leistungsspektrum, unsere gültigen Freistellungsbescheinigungen und noch vieles mehr. Schauen Sie einfach mal rein - 350 GB of documents stolen , get in touch by follow readme",
-      "pubDate": "Mon, 20 Oct 2025 11:40:11 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/nova?d15e8be3c40fe6e1b32e12d2ba93871d",
-      "group": "Nova",
-      "victim": "Gruppe Lehnen",
-      "country": "DE"
     }
   ]
 }
