@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-27T23:10:32.447Z",
+  "updatedAt": "2025-10-28T00:51:21.043Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Cohen's Fashion Optical",
+      "link": "https://www.ransomware.live/id/Q29oZW4ncyBGYXNoaW9uIE9wdGljYWxAc2lub2Jp",
+      "summary": "Cohen&#x27;s Fashion Optical (formerly known as Cohen&#x27;s Optical) is an optical retailer headquartered in New York City featuring fashion products such as eyeglasses, frames and sunglasses, lenses, contact lenses, and accessories. Professional eye exams are usually available with on-site Doctors of Optometry",
+      "pubDate": "Tue, 28 Oct 2025 00:26:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?b08f8db816b8a44bf2d0a8e657578665",
+      "group": "Sinobi",
+      "victim": "Cohen's Fashion Optical",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Stormous has just published a new victim : French Government",
       "link": "https://www.ransomware.live/id/RnJlbmNoIEdvdmVybm1lbnRAc3Rvcm1vdXM=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "BIOPHARMEX, SA de CV",
       "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Stephenson's Rental Services",
-      "link": "https://www.ransomware.live/id/U3RlcGhlbnNvbidzIFJlbnRhbCBTZXJ2aWNlc0BxaWxpbg==",
-      "summary": "Stephenson&#x27;s Rental Services is a Canadian construction equipment and tool rental company that has been operating for over 70 years. The company provides a wide range of rentals, including construction equipment, scaffolding, and small tools,            ...",
-      "pubDate": "Sun, 19 Oct 2025 16:09:55 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?b301fd1c712958ca4a22d3b801888869",
-      "group": "Qilin",
-      "victim": "Stephenson's Rental Services",
-      "country": "CA"
     }
   ]
 }
