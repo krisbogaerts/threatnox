@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-28T02:22:51.778Z",
+  "updatedAt": "2025-10-28T03:36:31.340Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Advantage CDC",
+      "link": "https://www.ransomware.live/id/QWR2YW50YWdlIENEQ0BnZW5lc2lz",
+      "summary": "A company that provides long-term loans",
+      "pubDate": "Tue, 28 Oct 2025 02:13:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?41f4e0bf571362e51a3f60d34a6c0bdc",
+      "group": "Genesis",
+      "victim": "Advantage CDC",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Kipp & Christian",
+      "link": "https://www.ransomware.live/id/S2lwcCAmIENocmlzdGlhbkBnZW5lc2lz",
+      "summary": "A law firm located in Salt Lake City",
+      "pubDate": "Tue, 28 Oct 2025 02:13:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?8f9077ea8ea16cdf1da15dad330b7a43",
+      "group": "Genesis",
+      "victim": "Kipp & Christian",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Chaos has just published a new victim : DeCeTe",
+      "link": "https://www.ransomware.live/id/RGVDZVRlQGNoYW9z",
+      "summary": "DeCeTe Duisburger Container-Terminalgesellschaft mbH",
+      "pubDate": "Tue, 28 Oct 2025 02:10:34 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/chaos?ae63d3210ef229021b02d17468c181d7",
+      "group": "Chaos",
+      "victim": "DeCeTe",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Cohen's Fashion Optical",
       "link": "https://www.ransomware.live/id/Q29oZW4ncyBGYXNoaW9uIE9wdGljYWxAc2lub2Jp",
@@ -2168,39 +2201,6 @@
       "group": "Safepay",
       "victim": "healthandvitalitycenter.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Radar has just published a new victim : My Florida Case Management Services, LLC",
-      "link": "https://www.ransomware.live/id/TXkgRmxvcmlkYSBDYXNlIE1hbmFnZW1lbnQgU2VydmljZXMsIExMQ0ByYWRhcg==",
-      "summary": "My Florida Case Management Services, LLC, a professional case management company located in Doral, FL. It could also be a general reference to the state of Florida&#x27;s case management services, such as the Medicaid Mental Health Targeted Case Management program provided through the Florida Agency for Health Care Administration (AHCA) for individuals with serious mental illnesses or emotional disturbances. Additionally, it may refer to court-based case management, such as the Family Court Case Management process.",
-      "pubDate": "Sun, 19 Oct 2025 16:44:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/radar?71d79d192d2d451de57a7860098361fd",
-      "group": "Radar",
-      "victim": "My Florida Case Management Services, LLC",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : JA Jennings",
-      "link": "https://www.ransomware.live/id/SkEgSmVubmluZ3NAcWlsaW4=",
-      "summary": "Founded in 1917, J.A. Jennings is a mid-size full-service construction company which constructs private sector commercial interiors projects as well as full-scale building renovations and infrastructure programs throughout the New York City m            ...",
-      "pubDate": "Sun, 19 Oct 2025 16:11:12 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/qilin?4eb81fc7b72fd9ba867ec12eaad215ce",
-      "group": "Qilin",
-      "victim": "JA Jennings",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : BIOPHARMEX, SA de CV",
-      "link": "https://www.ransomware.live/id/QklPUEhBUk1FWCwgU0EgZGUgQ1ZAcWlsaW4=",
-      "summary": "BIOPHARMEX specializes in transforming scientific innovations into health solutions, providing over 30 medical products in Mexico from 10 different countries. The company serves more than 2,000 physicians who use and prescribe their products             ...",
-      "pubDate": "Sun, 19 Oct 2025 16:10:30 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/qilin?82cb8761118c7b503fd5162a72da7b3a",
-      "group": "Qilin",
-      "victim": "BIOPHARMEX, SA de CV",
-      "country": "MX"
     }
   ]
 }
