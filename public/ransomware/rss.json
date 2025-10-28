@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-28T21:10:52.378Z",
+  "updatedAt": "2025-10-28T22:11:07.266Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : WarmBlue",
+      "link": "https://www.ransomware.live/id/V2FybUJsdWVAc2lub2Jp",
+      "summary": "Small company",
+      "pubDate": "Tue, 28 Oct 2025 21:49:16 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?77105d2baae9cb0f04d214840729e06b",
+      "group": "Sinobi",
+      "victim": "WarmBlue",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Heimbrock",
+      "link": "https://www.ransomware.live/id/SGVpbWJyb2NrQGdlbmVzaXM=",
+      "summary": "Heimbrock Inc. is a national refractory contractor.",
+      "pubDate": "Tue, 28 Oct 2025 21:18:26 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?1aa02ca11d49cab5ee332a28c637afb6",
+      "group": "Genesis",
+      "victim": "Heimbrock",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : Eligibility Tracking Calculators",
+      "link": "https://www.ransomware.live/id/RWxpZ2liaWxpdHkgVHJhY2tpbmcgQ2FsY3VsYXRvcnNAYmxhY2tzaHJhbnRhYw==",
+      "summary": "[AI generated] \"Eligibility Tracking Calculators\" (ETC) is a company that offers technological solutions for employee benefits management. It provides software applications that help employers, insurance brokers, and CPA firms to track and calculate their employee benefits eligibility efficiently. This assists organizations in adhering to various legal compliance requirements related to employee benefits.",
+      "pubDate": "Tue, 28 Oct 2025 21:14:52 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/blackshrantac?3a52ef935b2e9c2df048d3d3460913dc",
+      "group": "Blackshrantac",
+      "victim": "Eligibility Tracking Calculators",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Alios Finance Group",
       "link": "https://www.ransomware.live/id/QWxpb3MgRmluYW5jZSBHcm91cEBpbmNyYW5zb20=",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/genesis?ad660c1c4fed4a2785e58a27b99b5e89",
       "group": "Genesis",
       "victim": "Dependable Plastic",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : I-Tek Medical Technologies",
-      "link": "https://www.ransomware.live/id/SS1UZWsgTWVkaWNhbCBUZWNobm9sb2dpZXNAZ2VuZXNpcw==",
-      "summary": "A provider of contract design, development, and manufacturing",
-      "pubDate": "Tue, 21 Oct 2025 15:13:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?d56c9a8daffaa281fb6986fafb1da0e0",
-      "group": "Genesis",
-      "victim": "I-Tek Medical Technologies",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : marquscompanies.com",
-      "link": "https://www.ransomware.live/id/bWFycXVzY29tcGFuaWVzLmNvbUBseW54",
-      "summary": "Marquis Companies offers healthcare services. The Company offers assisted living services, rehabilitation services, alzheimer care, and residential care services. Marquis Companies founded in 1989 and is headquartered in Milwaukie, Oregon.",
-      "pubDate": "Tue, 21 Oct 2025 13:21:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?c1c76983f2d8146ddda5f01a7cd61994",
-      "group": "Lynx",
-      "victim": "marquscompanies.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Crypto24 has just published a new victim : U.S. Vanadium Holding Company LLC",
-      "link": "https://www.ransomware.live/id/VS5TLiBWYW5hZGl1bSBIb2xkaW5nIENvbXBhbnkgTExDQGNyeXB0bzI0",
-      "summary": "We have successfully extracted over 300GB of documents from your internal network, including internal company documents, customer and project information, and other data stored within your internal systems.",
-      "pubDate": "Tue, 21 Oct 2025 12:53:52 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/crypto24?ca39857515c850771f56283566e8f251",
-      "group": "Crypto24",
-      "victim": "U.S. Vanadium Holding Company LLC",
       "country": "US"
     }
   ]
