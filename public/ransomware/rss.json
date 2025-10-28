@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-28T22:11:07.266Z",
+  "updatedAt": "2025-10-28T23:10:53.604Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Florida-Spectrum Environmental Services",
+      "link": "https://www.ransomware.live/id/RmxvcmlkYS1TcGVjdHJ1bSBFbnZpcm9ubWVudGFsIFNlcnZpY2VzQHNpbm9iaQ==",
+      "summary": "Florida-Spectrum Environmental Services, Inc. is a premier full-service environmental testing and analytical chemistry laboratory specializing in the assessment of contamination in various mediums, including water, soil, and hazardous wastes. With over 40 years of experience and multiple locations in Florida and Georgia, the company serves the Engineering, Consulting, Chemical, Petroleum, and Waste Management industries. They offer a range of analytical and sampling services, supported by a commitment to superior service and client satisfaction through dedicated Client Service Managers. Their philosophy emphasizes building partnerships with clients, ensuring that the data quality objectives of environmental projects are met efficiently.",
+      "pubDate": "Tue, 28 Oct 2025 22:53:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?e4d0fbe3b608ce935caae067c5281f97",
+      "group": "Sinobi",
+      "victim": "Florida-Spectrum Environmental Services",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : WarmBlue",
       "link": "https://www.ransomware.live/id/V2FybUJsdWVAc2lub2Jp",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/genesis?b3025b9e2cae84d8547760f57dbb554d",
       "group": "Genesis",
       "victim": "Ronemus & Vilensky",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Dependable Plastic",
-      "link": "https://www.ransomware.live/id/RGVwZW5kYWJsZSBQbGFzdGljQGdlbmVzaXM=",
-      "summary": "A janitorial supplies company based in Brooklyn, New York",
-      "pubDate": "Tue, 21 Oct 2025 15:13:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?ad660c1c4fed4a2785e58a27b99b5e89",
-      "group": "Genesis",
-      "victim": "Dependable Plastic",
       "country": "US"
     }
   ]
