@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-28T13:24:50.596Z",
+  "updatedAt": "2025-10-28T14:12:05.018Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Productive Tool Products",
+      "link": "https://www.ransomware.live/id/UHJvZHVjdGl2ZSBUb29sIFByb2R1Y3RzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 28 Oct 2025 13:48:09 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?87ae72c3fd9b086154b32ee6114122f2",
+      "group": "Qilin",
+      "victim": "Productive Tool Products",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Bergman Dacey Goldsmith",
+      "link": "https://www.ransomware.live/id/QmVyZ21hbiBEYWNleSBHb2xkc21pdGhAYWtpcmE=",
+      "summary": "BDG Law Group is a full-service law firm based in Los Angeles, sp ecializing in business litigation, construction law, real estate, and various other legal services.  We will upload 110 GB of corporate documents soon. Complete perso nal information of employees and clients (phones, emails, address es, driver licenses, passports, social security numbers, confiden tial legal files, court hearings, police reports, medical informa tion and is on), accounting and financials, NDA, etc.",
+      "pubDate": "Tue, 28 Oct 2025 13:18:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?80c2b056ea837a0f363760338d80d304",
+      "group": "Akira",
+      "victim": "Bergman Dacey Goldsmith",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Bellflower Unified School District",
       "link": "https://www.ransomware.live/id/QmVsbGZsb3dlciBVbmlmaWVkIFNjaG9vbCBEaXN0cmljdEByaHlzaWRh",
@@ -2179,28 +2201,6 @@
       "group": "Nova",
       "victim": "Gruppe Lehnen",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Medusa has just published a new victim : Imagicle",
-      "link": "https://www.ransomware.live/id/SW1hZ2ljbGVAbWVkdXNh",
-      "summary": "Founded in 2010, Imagicle is head-quartered in Italy and has a fully owned subsidiary in Dubai and Miami. Imagicle operates almost in all over the world serving enterprises, multinational companies, as well family businesses, universities, central government, public administrations, hospitals and prestigious hotels. Imagicle is Cisco Preferred Solution Partner and Imagicle Apps - Advanced Directory Services, Attendant Console, Advanced Queueing and Auto Attendant, Call Accounting &amp; Billing, IP Fax Server, and Hospitality Pack - have been selected by Cisco as their official solutions, being available worldwide on Cisco GPL through the Solutions Plus program. company is headquartered in Via Fondacci 272, 55054 Massarosa (LU), Italy. 132 Employees",
-      "pubDate": "Mon, 20 Oct 2025 07:15:01 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/medusa?2fd420db2f9150e47fffb01ec0d9a591",
-      "group": "Medusa",
-      "victim": "Imagicle",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Medusa has just published a new victim : Linxx Global Solutions",
-      "link": "https://www.ransomware.live/id/TGlueHggR2xvYmFsIFNvbHV0aW9uc0BtZWR1c2E=",
-      "summary": "Linxx Global Solutions is a leading provider of mission-critical support services specializing in Training, Security, and Cyber Security solutions. Their primary goal is to enhance the safety, security, resiliency, and productivity of their clients through innovative problem-solving and a commitment to excellence. The company has established a strong reputation by successfully supporting various contracts, including those with the U.S. Navy and the U.S. Army. With their focus on delivering high-quality services, they serve a diverse range of clients in government and military sectors. company is headquartered in 2901 S Lynnhaven Rd Ste 450, Virginia Beach, VA 23452, United States. 724 Employees",
-      "pubDate": "Mon, 20 Oct 2025 07:14:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/medusa?763b73fa637e69c1239a034755bf2250",
-      "group": "Medusa",
-      "victim": "Linxx Global Solutions",
-      "country": "US"
     }
   ]
 }
