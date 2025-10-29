@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-29T08:16:18.715Z",
+  "updatedAt": "2025-10-29T09:12:38.951Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : SK-Telecom",
+      "link": "https://www.ransomware.live/id/U0stVGVsZWNvbUBjb2luYmFzZWNhcnRlbA==",
+      "summary": "South Koreas largest wireless carrier offering mobile services broadband IPTV and cutting-edge AI and IoT solutions",
+      "pubDate": "Wed, 29 Oct 2025 08:09:53 +0000",
+      "category": "KR",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?775e7349769f360e5367f9ecc0315c0c",
+      "group": "Coinbasecartel",
+      "victim": "SK-Telecom",
+      "country": "KR"
+    },
     {
       "title": "🏴‍☠️ Nightspire has just published a new victim : Bestlog Logistic Solutions",
       "link": "https://www.ransomware.live/id/QmVzdGxvZyBMb2dpc3RpYyBTb2x1dGlvbnNAbmlnaHRzcGlyZQ==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/genesis?e2592e499e106f69f1dce6c61edf5469",
       "group": "Genesis",
       "victim": "River City Eye",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Austin Capital Trust",
-      "link": "https://www.ransomware.live/id/QXVzdGluIENhcGl0YWwgVHJ1c3RAZ2VuZXNpcw==",
-      "summary": "The Trust company that offers a range of financial services.",
-      "pubDate": "Tue, 21 Oct 2025 15:16:06 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?007961be6d35d0d75c2f74ecfae4e45b",
-      "group": "Genesis",
-      "victim": "Austin Capital Trust",
       "country": "US"
     }
   ]
