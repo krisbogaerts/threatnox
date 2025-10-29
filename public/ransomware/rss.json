@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-29T05:12:26.643Z",
+  "updatedAt": "2025-10-29T06:18:27.340Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : Federal Auto Holdings Berhad",
+      "link": "https://www.ransomware.live/id/RmVkZXJhbCBBdXRvIEhvbGRpbmdzIEJlcmhhZEBvYnNjdXJh",
+      "summary": "Revenue: $41.8kk | Leak Size: 6 GB | Status: Pending | Time Left: 7d 18h 57m 21s",
+      "pubDate": "Wed, 29 Oct 2025 05:40:28 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/obscura?4f99d76bf432bbcd39bf23fe3c4170b8",
+      "group": "Obscura",
+      "victim": "Federal Auto Holdings Berhad",
+      "country": "MY"
+    },
     {
       "title": "🏴‍☠️ Radiant has just published a new victim : Spijkermat",
       "link": "https://www.ransomware.live/id/U3Bpamtlcm1hdEByYWRpYW50",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/genesis?f5284c0cd18d7f39a6f873eedfec5bf8",
       "group": "Genesis",
       "victim": "Healthy Living Market and Café",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Claimlinx",
-      "link": "https://www.ransomware.live/id/Q2xhaW1saW54QGdlbmVzaXM=",
-      "summary": "A provider of health insurance benefits for the businesses",
-      "pubDate": "Tue, 21 Oct 2025 15:15:02 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?8a6b24e3c7ff6edf254f3c56360af819",
-      "group": "Genesis",
-      "victim": "Claimlinx",
       "country": "US"
     }
   ]
