@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-29T22:10:54.337Z",
+  "updatedAt": "2025-10-29T23:11:00.519Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Braincipher has just published a new victim : fsbgroup.ca",
+      "link": "https://www.ransomware.live/id/ZnNiZ3JvdXAuY2FAQnJhaW5DaXBoZXI=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Wed, 29 Oct 2025 21:37:52 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/BrainCipher?85b52acdef17868d476f8b797071c007",
+      "group": "Braincipher",
+      "victim": "fsbgroup.ca",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Braincipher has just published a new victim : semag.fr",
+      "link": "https://www.ransomware.live/id/c2VtYWcuZnJAQnJhaW5DaXBoZXI=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Wed, 29 Oct 2025 21:37:10 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/BrainCipher?be92c50ceef1a2651ab3a6a92c2fcb7e",
+      "group": "Braincipher",
+      "victim": "semag.fr",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Braincipher has just published a new victim : axxia.fr",
+      "link": "https://www.ransomware.live/id/YXh4aWEuZnJAQnJhaW5DaXBoZXI=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Wed, 29 Oct 2025 21:36:28 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/BrainCipher?710b9f7038adff2b907274b30a9bd23f",
+      "group": "Braincipher",
+      "victim": "axxia.fr",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Payoutsking has just published a new victim : Time Equities",
       "link": "https://www.ransomware.live/id/VGltZSBFcXVpdGllc0BwYXlvdXRza2luZw==",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "All Truck Transportation",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Promasa",
-      "link": "https://www.ransomware.live/id/R3J1cG8gUHJvbWFzYUBxaWxpbg==",
-      "summary": "Grupo Promasa is a company that operates in the Building Materials industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in San Pedro Sula, Cortes, Honduras. The amount of downloaded data is unknown at            ...",
-      "pubDate": "Wed, 22 Oct 2025 22:08:30 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/qilin?5c4f7ed45de2dc81601942d0cf0e3a50",
-      "group": "Qilin",
-      "victim": "Grupo Promasa",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : KHL Printing",
-      "link": "https://www.ransomware.live/id/S0hMIFByaW50aW5nQHFpbGlu",
-      "summary": "KHL Printing, Singapore -  one of the largest printing companies in Southeast Asia with the most comprehensive range of services. KHL Printing offers end-to-end solutions from conceptualization to delivery of print products and other platform            ...",
-      "pubDate": "Wed, 22 Oct 2025 20:37:21 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/qilin?26bfe737a354d4a9fd6464925448096a",
-      "group": "Qilin",
-      "victim": "KHL Printing",
-      "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Real Estate Specialists",
-      "link": "https://www.ransomware.live/id/UmVhbCBFc3RhdGUgU3BlY2lhbGlzdHNAcWlsaW4=",
-      "summary": "Real Estate Specialists is dedicated to managing and maintaining rental properties in southeast Wisconsin, focusing on enhancing their performance since 1982. They offer a comprehensive range of property management services, catering to prope            ...",
-      "pubDate": "Wed, 22 Oct 2025 20:36:37 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?a211fc76f0ed75efc047b09cebbb5062",
-      "group": "Qilin",
-      "victim": "Real Estate Specialists",
-      "country": ""
     }
   ]
 }
