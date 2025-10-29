@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-29T18:19:37.907Z",
+  "updatedAt": "2025-10-29T19:09:20.043Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Radar has just published a new victim : OpenEyes Technologies Inc.",
+      "link": "https://www.ransomware.live/id/T3BlbkV5ZXMgVGVjaG5vbG9naWVzIEluYy5AcmFkYXI=",
+      "summary": "Confidential data from two companies OpenEyes Technologies Inc. and OpenEyes Software Solutions Pvt. Ltd (OPC) Corporate office, Suite #405, 4th Floor, Iscon Atria 1, Gotri Road, Vadodara – 390021, Gujarat – India . OpenEyes Technologies Inc. Headquarter · 1629 K Street, NW Suite 300. Washington, DC 20006 · +1.202.349.5858. Email address. dc@theOpenEyes.com ; ODC (India)",
+      "pubDate": "Wed, 29 Oct 2025 18:25:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/radar?96c2356933bf68da84ab3132b953cf67",
+      "group": "Radar",
+      "victim": "OpenEyes Technologies Inc.",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Price & Ramey Insurance",
       "link": "https://www.ransomware.live/id/UHJpY2UgJiBSYW1leSBJbnN1cmFuY2VAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "United Lube Oil",
       "country": "SA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : More Than Gourmet",
-      "link": "https://www.ransomware.live/id/TW9yZSBUaGFuIEdvdXJtZXRAcWlsaW4=",
-      "summary": "More Than Gourmet, USA - is a food company based on classic French culinary traditions. MTG products are used in gourmet restaurants, resorts and sold in specialty gourmet food stores.  Privately held since 1993, MTG has been financially soun            ...",
-      "pubDate": "Wed, 22 Oct 2025 17:38:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?8a7ae287973c211628381d11b3707843",
-      "group": "Qilin",
-      "victim": "More Than Gourmet",
-      "country": "US"
     }
   ]
 }
