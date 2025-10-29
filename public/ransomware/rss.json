@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-29T14:12:13.883Z",
+  "updatedAt": "2025-10-29T15:13:51.450Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Wright-Gardner Insurance",
+      "link": "https://www.ransomware.live/id/V3JpZ2h0LUdhcmRuZXIgSW5zdXJhbmNlQGFraXJh",
+      "summary": "Wright-Gardner Agency offers customized insurance solutions for i ndividuals and businesses, including home, auto, life, and commer cial insurance options. We will upload more than 12gb of corporate documents soon. Client s and customers information (financials, contacts, contracts), de tailed employee information (DOB, driver licenses, phones, addres ses, emails, emergency contacts and so on), lots of confidential  files, contracts and agreements, etc.",
+      "pubDate": "Wed, 29 Oct 2025 14:06:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?0aaba23bf386aca4dfb076d8e3475e33",
+      "group": "Akira",
+      "victim": "Wright-Gardner Insurance",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Truro Cannabis",
       "link": "https://www.ransomware.live/id/VHJ1cm8gQ2FubmFiaXNAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Radar",
       "victim": "ROBERT G. DASHIELL, JR., P.E., INC.",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Radar has just published a new victim : Epia Financial Services",
-      "link": "https://www.ransomware.live/id/RXBpYSBGaW5hbmNpYWwgU2VydmljZXNAcmFkYXI=",
-      "summary": "+264816013040. Mail. info@epiafs.com. Home. No 17 Eulenweg Street, Hochland Park, Windhoek ,Namibia. RELATABLE PARTNERS. NAMRA · NAMFISA. NBWPF. CIFNAMIBIA",
-      "pubDate": "Wed, 22 Oct 2025 02:11:27 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/radar?d4eb2121f7273d799ac7219946fa6237",
-      "group": "Radar",
-      "victim": "Epia Financial Services",
-      "country": "GB"
     }
   ]
 }
