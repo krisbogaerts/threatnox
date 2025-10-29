@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-29T10:13:19.146Z",
+  "updatedAt": "2025-10-29T11:10:33.913Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Blacknevas has just published a new victim : Yateem Group",
+      "link": "https://www.ransomware.live/id/WWF0ZWVtIEdyb3VwQGJsYWNrbmV2YXM=",
+      "summary": "500+ gigabytes and over 100,000+ files availableThe Yateem Group owns nearly 100 optical outlets in addition to many other brands and facilities. At its heart, the group retains the original family values set forth by the founders.A complete customer database with all contacts has been downloaded, including phones and emails of more than 9000000+ records, as well as all internal information on YateemGroup employees, passports, rights, work contracts and insurance.The IT department is aware of the leak, but has broken off negotiations, and customer and employee data is being prepared for publication.(ready to sell all databases without publishing)access was obtained thanks to the IT departments of these companies:Trojan Construction &amp;amp; Holding Group www.trojan.aeT. Choithram And Sons, LLC www.choithrams.com",
+      "pubDate": "Wed, 29 Oct 2025 10:19:32 +0000",
+      "category": "BH",
+      "guid": "https://www.ransomware.live/group/blacknevas?8f431bd8fab04fd920b846f4bd0b2870",
+      "group": "Blacknevas",
+      "victim": "Yateem Group",
+      "country": "BH"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Bridgehead I.T",
+      "link": "https://www.ransomware.live/id/QnJpZGdlaGVhZCBJLlRAYWtpcmE=",
+      "summary": "Founded in 1999, Bridgehead I.T. Inc. provides customized Informa tion Technology (IT) solutions for businesses across all industri es. Bridgehead I.T. services are specifically engineered for each client needs. Bridgehead I.T. is headquartered in San Antonio, T X. We are going to upload company data soon. You will find financial data (audit, payment details, invoices), personal financial deta ils of employees, accounting files.",
+      "pubDate": "Wed, 29 Oct 2025 10:17:52 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?2a69081b4d2724f5195ea5a081c716d9",
+      "group": "Akira",
+      "victim": "Bridgehead I.T",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : G & H Distributing",
+      "link": "https://www.ransomware.live/id/RyAmIEggRGlzdHJpYnV0aW5nQGFraXJh",
+      "summary": "GH Distributing Inc. is a prominent agricultural and industrial s upply distributor in South Dakota, known for its retail and whole sale operations. This company will soon be known as another one that doesn&#x27;t care  of employee information. We will upload corporate documents soon. You will find lots of 2-9 forms with addresses, phones, emails a nd other information of employees. Also there are accounting file s, projects, client information and so on.",
+      "pubDate": "Wed, 29 Oct 2025 09:38:19 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?1300602f7ce679b03a2b83a8ae33afbd",
+      "group": "Akira",
+      "victim": "G & H Distributing",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : SK-Telecom",
       "link": "https://www.ransomware.live/id/U0stVGVsZWNvbUBjb2luYmFzZWNhcnRlbA==",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?0ad20d59ebbbc701ac656df3619a973b",
       "group": "Akira",
       "victim": "Pacific West SystemsSupply",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Southern Specialty and Supply",
-      "link": "https://www.ransomware.live/id/U291dGhlcm4gU3BlY2lhbHR5IGFuZCBTdXBwbHlAZ2VuZXNpcw==",
-      "summary": "Provide support for offshore, onshore, and drilling operations.",
-      "pubDate": "Tue, 21 Oct 2025 15:17:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?68de5da24b57eee3468c5f597ed790a3",
-      "group": "Genesis",
-      "victim": "Southern Specialty and Supply",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Roth & Scholl",
-      "link": "https://www.ransomware.live/id/Um90aCAmIFNjaG9sbEBnZW5lc2lz",
-      "summary": "Providing legal service in Commercial Litigation, Real Estate, Business Law.",
-      "pubDate": "Tue, 21 Oct 2025 15:17:09 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?a753e2f31996e321b01b5709727c0783",
-      "group": "Genesis",
-      "victim": "Roth & Scholl",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : River City Eye",
-      "link": "https://www.ransomware.live/id/Uml2ZXIgQ2l0eSBFeWVAZ2VuZXNpcw==",
-      "summary": "Optometry clinic located in the Hollywood District and Happy Valley.",
-      "pubDate": "Tue, 21 Oct 2025 15:16:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?e2592e499e106f69f1dce6c61edf5469",
-      "group": "Genesis",
-      "victim": "River City Eye",
       "country": "US"
     }
   ]
