@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-10-29T12:23:00.792Z",
+  "updatedAt": "2025-10-29T13:27:41.374Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Altimedia",
+      "link": "https://www.ransomware.live/id/QWx0aW1lZGlhQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 29 Oct 2025 12:49:19 +0000",
+      "category": "KR",
+      "guid": "https://www.ransomware.live/group/qilin?51e69cd4667b13f09e0529f8e72e06f8",
+      "group": "Qilin",
+      "victim": "Altimedia",
+      "country": "KR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Enessance Holdings Co., Ltd",
+      "link": "https://www.ransomware.live/id/RW5lc3NhbmNlIEhvbGRpbmdzIENvLiwgTHRkQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 29 Oct 2025 12:48:38 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/qilin?304c1f366386761b1eb82a44f66ca3a0",
+      "group": "Qilin",
+      "victim": "Enessance Holdings Co., Ltd",
+      "country": "JP"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Malibu Boats Australia",
+      "link": "https://www.ransomware.live/id/TWFsaWJ1IEJvYXRzIEF1c3RyYWxpYUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 29 Oct 2025 12:48:00 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/qilin?4115df578a9223e1939d3c6f4306a350",
+      "group": "Qilin",
+      "victim": "Malibu Boats Australia",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Sadler Gibb & Associates",
+      "link": "https://www.ransomware.live/id/U2FkbGVyIEdpYmIgJiBBc3NvY2lhdGVzQGFraXJh",
+      "summary": "Sadler Gibb is a certified public accounting firm dedicated to pr oviding professional financial services to businesses and individ uals. They specialize in tax planning and preparation, financial  statement audits, business advisory, bookkeeping, and payroll pro cessing.  We are ready to upload more than 65GB data. There are lots of ess ential corporate documents such as: financial data (audit, paymen t details, invoices), detailed employees and customers informatio n (passports, driver&#x27;s license , Social Security Numbers, death/b irth certificate, medical information, emails, phones) confidenti al information, NDAs and other documents with detailed personal i nformation.",
+      "pubDate": "Wed, 29 Oct 2025 12:15:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?39801d07d57b6c506ba24bf8b59b60d5",
+      "group": "Akira",
+      "victim": "Sadler Gibb & Associates",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Blacknevas has just published a new victim : Yateem Group",
       "link": "https://www.ransomware.live/id/WWF0ZWVtIEdyb3VwQGJsYWNrbmV2YXM=",
@@ -2157,50 +2201,6 @@
       "group": "Sinobi",
       "victim": "Prime Dental",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Crave Management",
-      "link": "https://www.ransomware.live/id/Q3JhdmUgTWFuYWdlbWVudEBzaW5vYmk=",
-      "summary": "Crave Management Group is a fast-food franchisee operator based in Montana, known for its diverse brands and commitment to operational excellence. With a growing presence in Utah, the company is expanding its portfolio to include Bobbys Burgers by Bobby Flay alongside its existing Taco Bell locations. They prioritize exceptional customer experiences and offer unique benefits to employees, including early parental leave and paid volunteer opportunities. Crave Management Group is excited about creating numerous new career opportunities while maintaining a focus on community engagement and employee growth.",
-      "pubDate": "Tue, 21 Oct 2025 18:38:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?52023a13980157a1f2c27c4aaa4b7d9c",
-      "group": "Sinobi",
-      "victim": "Crave Management",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Peraso",
-      "link": "https://www.ransomware.live/id/UGVyYXNvQHJoeXNpZGE=",
-      "summary": "Peraso",
-      "pubDate": "Tue, 21 Oct 2025 18:37:21 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/rhysida?6b83104dfa2657fe79fea0f9d2d442a5",
-      "group": "Rhysida",
-      "victim": "Peraso",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Beast has just published a new victim : Microdevice",
-      "link": "https://www.ransomware.live/id/TWljcm9kZXZpY2VAYmVhc3Q=",
-      "summary": "Microdevice specializes in building automation systems, offering supervision solutions for hotels, offices, homes, nursing homes, and hospitals. Their products include access control, consumption monitoring, and management of lockers, minibars, and safes. With over 30 years of experience, Microdevice emphasizes reliable data, limitless system implementation, and custom solutions tailored to clients&#x27; needs. Their innovative platform, Hi4-Supervisor, provides integrated management for various supervisory systems.",
-      "pubDate": "Tue, 21 Oct 2025 15:46:29 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/beast?9f8ad92c755e8cde2e5dd8045bfa4404",
-      "group": "Beast",
-      "victim": "Microdevice",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Pacific West SystemsSupply",
-      "link": "https://www.ransomware.live/id/UGFjaWZpYyBXZXN0IFN5c3RlbXNTdXBwbHlAYWtpcmE=",
-      "summary": "Proudly known as \"PacWest,\" Pacific West Systems Supply Ltd. is a leading Wall and Ceiling Industry supplier. We are ready to upload 224gb of corporate documents. Detailed emp loyee information (Passport, DLs, SSNs, birth certs and so on), f inancial and accounting information, a bit of client information, projects, NDAs, etc.",
-      "pubDate": "Tue, 21 Oct 2025 15:45:07 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?0ad20d59ebbbc701ac656df3619a973b",
-      "group": "Akira",
-      "victim": "Pacific West SystemsSupply",
-      "country": "US"
     }
   ]
 }
