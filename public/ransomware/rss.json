@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-29T00:55:47.520Z",
+  "updatedAt": "2025-10-29T02:30:32.691Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Radiant has just published a new victim : Spijkermat",
+      "link": "https://www.ransomware.live/id/U3Bpamtlcm1hdEByYWRpYW50",
+      "summary": "Spijkermat specializes in acupressure mats designed to enhance relaxation, alleviate pain, and improve sleep...",
+      "pubDate": "Wed, 29 Oct 2025 01:11:49 +0000",
+      "category": "NL",
+      "guid": "https://www.ransomware.live/group/radiant?6b09e1975c14a6a8fa8fa298323efdf7",
+      "group": "Radiant",
+      "victim": "Spijkermat",
+      "country": "NL"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Florida-Spectrum Environmental Services",
       "link": "https://www.ransomware.live/id/RmxvcmlkYS1TcGVjdHJ1bSBFbnZpcm9ubWVudGFsIFNlcnZpY2VzQHNpbm9iaQ==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/genesis?8a6b24e3c7ff6edf254f3c56360af819",
       "group": "Genesis",
       "victim": "Claimlinx",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Ronemus & Vilensky",
-      "link": "https://www.ransomware.live/id/Um9uZW11cyAmIFZpbGVuc2t5QGdlbmVzaXM=",
-      "summary": "A New York-based law firm",
-      "pubDate": "Tue, 21 Oct 2025 15:14:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?b3025b9e2cae84d8547760f57dbb554d",
-      "group": "Genesis",
-      "victim": "Ronemus & Vilensky",
       "country": "US"
     }
   ]
