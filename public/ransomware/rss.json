@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-29T06:18:27.340Z",
+  "updatedAt": "2025-10-29T07:12:26.201Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Bestlog Logistic Solutions",
+      "link": "https://www.ransomware.live/id/QmVzdGxvZyBMb2dpc3RpYyBTb2x1dGlvbnNAbmlnaHRzcGlyZQ==",
+      "summary": "Bestlog Logistic Solutions",
+      "pubDate": "Wed, 29 Oct 2025 06:47:50 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/nightspire?b4452a2b5725082ced98cf38e57b536e",
+      "group": "Nightspire",
+      "victim": "Bestlog Logistic Solutions",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Pritchard Brown & Chillicothe Metal",
+      "link": "https://www.ransomware.live/id/UHJpdGNoYXJkIEJyb3duICYgQ2hpbGxpY290aGUgTWV0YWxAaW50ZXJsb2Nr",
+      "summary": "Pritchard Brown and Chillicothe Metal Company (CMCO) are two manufacturers that collaborate to develop comprehensive solutions in the field of protective enclosures and microclimate control systems. Founded in 1947, Pritchard Brown specializes in custom-designed protective enclosures, offering a range of weatherproof, weather-resistant, and noise-absorbing models specifically designed for harsh operating environments. With over 50 years of experience, Chillicothe Metal Company complements Pritchard Brown&#x27;s offerings by specializing in protective enclosures and complete generator sets. Operating in a wide range of industries, including energy, utilities, petrochemical, mining, and defense, CMCO has completed more than 40,000 projects at facilities around the world. Its expertise in design, engineering, and manufacturing is evidenced by its work on high-profile projects such as the Statue of Liberty and NASA.",
+      "pubDate": "Wed, 29 Oct 2025 06:24:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/interlock?ce639b2ebe2fd86643cc5d8b7a0f20e0",
+      "group": "Interlock",
+      "victim": "Pritchard Brown & Chillicothe Metal",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Obscura has just published a new victim : Federal Auto Holdings Berhad",
       "link": "https://www.ransomware.live/id/RmVkZXJhbCBBdXRvIEhvbGRpbmdzIEJlcmhhZEBvYnNjdXJh",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/genesis?e2592e499e106f69f1dce6c61edf5469",
       "group": "Genesis",
       "victim": "River City Eye",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Austin Capital Trust",
-      "link": "https://www.ransomware.live/id/QXVzdGluIENhcGl0YWwgVHJ1c3RAZ2VuZXNpcw==",
-      "summary": "The Trust company that offers a range of financial services.",
-      "pubDate": "Tue, 21 Oct 2025 15:16:06 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?007961be6d35d0d75c2f74ecfae4e45b",
-      "group": "Genesis",
-      "victim": "Austin Capital Trust",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Healthy Living Market and Café",
-      "link": "https://www.ransomware.live/id/SGVhbHRoeSBMaXZpbmcgTWFya2V0IGFuZCBDYWbDqUBnZW5lc2lz",
-      "summary": "Healthy Living Market &amp; Cafe is a marketplace organic and products",
-      "pubDate": "Tue, 21 Oct 2025 15:15:21 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?f5284c0cd18d7f39a6f873eedfec5bf8",
-      "group": "Genesis",
-      "victim": "Healthy Living Market and Café",
       "country": "US"
     }
   ]
