@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-10-29T07:12:26.201Z",
+  "updatedAt": "2025-10-29T08:16:18.715Z",
   "count": 200,
   "items": [
     {
@@ -1532,17 +1532,6 @@
       "country": "US"
     },
     {
-      "title": "🏴‍☠️ Crypto24 has just published a new victim : Mei ***",
-      "link": "https://www.ransomware.live/id/TWVpICoqKkBjcnlwdG8yNA==",
-      "summary": "...",
-      "pubDate": "Fri, 24 Oct 2025 07:17:55 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/crypto24?250f2f0a5bbd1d080b1bb06055560c07",
-      "group": "Crypto24",
-      "victim": "Mei ***",
-      "country": "SG"
-    },
-    {
       "title": "🏴‍☠️ Qilin has just published a new victim : ClearCare Periodontal & Implant Centre",
       "link": "https://www.ransomware.live/id/Q2xlYXJDYXJlIFBlcmlvZG9udGFsICYgSW1wbGFudCBDZW50cmVAcWlsaW4=",
       "summary": "The ClearCare Periodontal &amp; Implant Centre was attacked on 13 of October 2025. At the time of the attack, critical data on customers and their employees was uploaded. The company was informed of the colossal data leak, but ignored demands to             ...",
@@ -2200,6 +2189,17 @@
       "guid": "https://www.ransomware.live/group/genesis?e2592e499e106f69f1dce6c61edf5469",
       "group": "Genesis",
       "victim": "River City Eye",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Austin Capital Trust",
+      "link": "https://www.ransomware.live/id/QXVzdGluIENhcGl0YWwgVHJ1c3RAZ2VuZXNpcw==",
+      "summary": "The Trust company that offers a range of financial services.",
+      "pubDate": "Tue, 21 Oct 2025 15:16:06 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?007961be6d35d0d75c2f74ecfae4e45b",
+      "group": "Genesis",
+      "victim": "Austin Capital Trust",
       "country": "US"
     }
   ]
