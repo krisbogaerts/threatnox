@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-30T11:10:12.842Z",
+  "updatedAt": "2025-10-30T12:22:33.394Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : ASKUL",
+      "link": "https://www.ransomware.live/id/QVNLVUxAcmFuc29taG91c2U=",
+      "summary": "ASKUL Corporation, founded in 1963 and headquartered in Tokyo, is a leading Japanese e-commerce company serving both businesses (B2B) and consumers (B2C). It offers office supplies, daily goods, medical products, and logistics services through platforms such as ASKUL, SOLOEL ARENA, and LOHACO. The company operates its own distribution centers, ensuring fast delivery and efficient supply chain management. ASKUL also provides additional services like printing, office design, and digital business solutions. The company emphasizes sustainability, digital transformation, and recycling initiatives.",
+      "pubDate": "Thu, 30 Oct 2025 11:45:40 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/ransomhouse?c3532ce3cc2f5e0074cfe36cabe0542e",
+      "group": "Ransomhouse",
+      "victim": "ASKUL",
+      "country": "JP"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : The Gerson",
+      "link": "https://www.ransomware.live/id/VGhlIEdlcnNvbkBha2lyYQ==",
+      "summary": "Gerson is a company specializing in high-quality respiratory prot ection products, including NIOSH and FDA approved respirators, ma sks, and filter systems. Their product range includes various sty les such as molded masks, half masks, and full face masks, cateri ng to diverse industrial and health needs.  We are going to upload company data soon. You will find financial data (audit, payment details, financial reports, invoices), deta iled employees and customers information  (medical information, e mails, phones)  and other documents with detailed personal inform ation.",
+      "pubDate": "Thu, 30 Oct 2025 11:12:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?2c7401aae2832fc9e6b707c3490b4f05",
+      "group": "Akira",
+      "victim": "The Gerson",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : RPI Roofing",
+      "link": "https://www.ransomware.live/id/UlBJIFJvb2ZpbmdAYWtpcmE=",
+      "summary": "RPI Roofing specializes in providing professional commercial roof ing services for businesses in the southeastern United States. We will upload 90gb of corporate documents soon. Detailed employe e information (addresses, phones, DOB, driver licenses, social se curity cards and so on), financial information, internal confiden tial files, NDA, etc.",
+      "pubDate": "Thu, 30 Oct 2025 11:12:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?aaf83ede5862d0b0276b0fa64e2b8469",
+      "group": "Akira",
+      "victim": "RPI Roofing",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Spindletop Center",
       "link": "https://www.ransomware.live/id/U3BpbmRsZXRvcCBDZW50ZXJAcmh5c2lkYQ==",
@@ -2168,39 +2201,6 @@
       "group": "Tengu",
       "victim": "STAR LÉGUMES",
       "country": "MA"
-    },
-    {
-      "title": "🏴‍☠️ Tengu has just published a new victim : Qatargas and Tar Company, Iran",
-      "link": "https://www.ransomware.live/id/UWF0YXJnYXMgYW5kIFRhciBDb21wYW55LCBJcmFuQHRlbmd1",
-      "summary": "Qatargas and Tar Company, Iran - Provides industrial gas and tar products to the petrochemical sector in Iran and regional markets",
-      "pubDate": "Thu, 23 Oct 2025 14:55:01 +0000",
-      "category": "IR",
-      "guid": "https://www.ransomware.live/group/tengu?341383ea8f3f1287410e1da1348261ee",
-      "group": "Tengu",
-      "victim": "Qatargas and Tar Company, Iran",
-      "country": "IR"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Goodfellow & Schuettlaw",
-      "link": "https://www.ransomware.live/id/R29vZGZlbGxvdyAmIFNjaHVldHRsYXdAYW51Ymlz",
-      "summary": "Personal data, confidential documents, and more.",
-      "pubDate": "Thu, 23 Oct 2025 11:48:50 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/anubis?0f141d17a7f8095c52f46d1fdaa26ce5",
-      "group": "Anubis",
-      "victim": "Goodfellow & Schuettlaw",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Paterson & Dowding Family Lawyers",
-      "link": "https://www.ransomware.live/id/UGF0ZXJzb24gJiBEb3dkaW5nIEZhbWlseSBMYXd5ZXJzQGFudWJpcw==",
-      "summary": "Law firm data breach",
-      "pubDate": "Thu, 23 Oct 2025 11:47:47 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/anubis?1331f0428d77f73523559aaa719f6c75",
-      "group": "Anubis",
-      "victim": "Paterson & Dowding Family Lawyers",
-      "country": "AU"
     }
   ]
 }
