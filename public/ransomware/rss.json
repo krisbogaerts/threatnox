@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-30T18:16:05.820Z",
+  "updatedAt": "2025-10-30T19:09:26.321Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Post Ranch Inn",
+      "link": "https://www.ransomware.live/id/UG9zdCBSYW5jaCBJbm5Ac2lub2Jp",
+      "summary": "Post Ranch Inn is a luxury hotel situated on the cliffs of Big Sur, offering stunning views and serene accommodations designed for restorative experiences. The hotel features a variety of luxurious packages, exceptional dining options at its acclaimed restaurant Sierra Mar, and engaging wellness activities like yoga and guided nature walks. Catering primarily to couples and those seeking a tranquil getaway, Post Ranch Inn emphasizes sustainability and community investment. Recognized with numerous awards, including a Three-Key MICHELIN distinction, it provides an unforgettable escape for discerning travelers.",
+      "pubDate": "Thu, 30 Oct 2025 18:50:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?24a8f32f7fa12bdcc8a1826111441b78",
+      "group": "Sinobi",
+      "victim": "Post Ranch Inn",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : C.M.G, entreprise de serrurerie et métallerie à Saint Calais",
       "link": "https://www.ransomware.live/id/Qy5NLkcsIGVudHJlcHJpc2UgZGUgc2VycnVyZXJpZSBldCBtw6l0YWxsZXJpZSDDoCBTYWludCBDYWxhaXNAc2lub2Jp",
@@ -2190,17 +2201,6 @@
       "group": "Lynx",
       "victim": "simmerscrane.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : ClearCare Periodontal & Implant Centre",
-      "link": "https://www.ransomware.live/id/Q2xlYXJDYXJlIFBlcmlvZG9udGFsICYgSW1wbGFudCBDZW50cmVAcWlsaW4=",
-      "summary": "The ClearCare Periodontal &amp; Implant Centre was attacked on 13 of October 2025. At the time of the attack, critical data on customers and their employees was uploaded. The company was informed of the colossal data leak, but ignored demands to             ...",
-      "pubDate": "Fri, 24 Oct 2025 05:41:19 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?d8d310d317285b00d7bd37a84d5e183d",
-      "group": "Qilin",
-      "victim": "ClearCare Periodontal & Implant Centre",
-      "country": "CA"
     }
   ]
 }
