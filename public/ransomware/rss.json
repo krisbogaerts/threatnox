@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-30T03:39:12.683Z",
+  "updatedAt": "2025-10-30T04:13:44.075Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Evolve Mortgage Services",
+      "link": "https://www.ransomware.live/id/RXZvbHZlIE1vcnRnYWdlIFNlcnZpY2VzQGluY3JhbnNvbQ==",
+      "summary": "Introducing Evolve Mortgage Services, the old company name mrn3.com. We stole more than 20 TB of company data. Including 2TB of databases. This company refused to resolve the issue with us with the security of its customers&#x27; data. This company does not care about the safety of its customers. They don&#x27;t care about leaks and disclosure of your data. We have all the data on all clients of both companies since 2016. SSN numbers, scans of client IDs, home and work addresses, personal, home and work phone numbers, FULL credit history about each client. Personal and confidential PII form information for thousands of citizens of the United States of America.",
+      "pubDate": "Thu, 30 Oct 2025 03:22:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?07170c97c8d20a814add718601a63fa4",
+      "group": "Incransom",
+      "victim": "Evolve Mortgage Services",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : ApleNet Co., Ltd",
+      "link": "https://www.ransomware.live/id/QXBsZU5ldCBDby4sIEx0ZEBibGFja3NocmFudGFj",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Thu, 30 Oct 2025 03:19:19 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/blackshrantac?c77e63a65bf6fc34c1fed4667639e356",
+      "group": "Blackshrantac",
+      "victim": "ApleNet Co., Ltd",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : nationalcoatingsinc.com",
       "link": "https://www.ransomware.live/id/bmF0aW9uYWxjb2F0aW5nc2luYy5jb21AbHlueA==",
@@ -2179,28 +2201,6 @@
       "group": "Nova",
       "victim": "The Laxmi Niwas Palace",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : NurseSpring",
-      "link": "https://www.ransomware.live/id/TnVyc2VTcHJpbmdAcWlsaW4=",
-      "summary": "NurseSpring specializes in home health care, health care staffing, and nurse recruitment services. They prioritize compassion, dignity, and respect while delivering care, ensuring clients receive the right care at the right time. Their intend            ...",
-      "pubDate": "Wed, 22 Oct 2025 22:10:48 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?1835601d958497a236fc2fa03f3b537f",
-      "group": "Qilin",
-      "victim": "NurseSpring",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Integral Networks",
-      "link": "https://www.ransomware.live/id/SW50ZWdyYWwgTmV0d29ya3NAcWlsaW4=",
-      "summary": "Integral Networks, Inc. is a leading IT services provider in Sacramento, specializing in responsive IT support tailored to the needs of legal firms and various other industries including construction, manufacturing, and finance. They offer a             ...",
-      "pubDate": "Wed, 22 Oct 2025 22:10:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?0fc5e00373e36355dbb600e697936656",
-      "group": "Qilin",
-      "victim": "Integral Networks",
-      "country": "US"
     }
   ]
 }
