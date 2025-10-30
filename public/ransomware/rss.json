@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-30T20:12:45.030Z",
+  "updatedAt": "2025-10-30T21:10:49.750Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : Thompson Dorfman Sweatman",
+      "link": "https://www.ransomware.live/id/VGhvbXBzb24gRG9yZm1hbiBTd2VhdG1hbkBvYnNjdXJh",
+      "summary": "Revenue: $31.2kk | Leak Size: 250 GB | Status: Pending | Time Left: 8d 3h 57m 25s",
+      "pubDate": "Thu, 30 Oct 2025 20:42:48 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/obscura?61ff160de5044a1eaa70fdadb141ff81",
+      "group": "Obscura",
+      "victim": "Thompson Dorfman Sweatman",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Post Ranch Inn",
       "link": "https://www.ransomware.live/id/UG9zdCBSYW5jaCBJbm5Ac2lub2Jp",
@@ -2190,17 +2201,6 @@
       "group": "Beast",
       "victim": "Danthi Comunicacao Integrada",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : simmerscrane.com",
-      "link": "https://www.ransomware.live/id/c2ltbWVyc2NyYW5lLmNvbUBseW54",
-      "summary": "Simmers Crane Design &amp; Services Company was founded in 1958 by Charles Simmers, former Chief Engineer with Koppers Co. and Vice President of Engineering with Morgan Engineering Company. Mr. Simmers recognized the need for a specialty engineering group to serve the steel industry, and was able to staff his group with engineering personnel from major crane and mill builders. Initially providing engineering services only, Simmers became a Division of Pollock Research and Design, Inc. in 1966 and has expanded its&#x27; capabilities to include complete engineering services, field services, and materials for cranes, weight handling, mill, special, and category \"A\" nuclear equipment. Providing services both domestically and internationally, Simmers, along with its&#x27; sister division Reading Crane &amp; Engineering Co., is an OEM supplier. Simmers is accredited by the U.S. Department of Labor to inspect, test, and certify Maritime shore based material handling devices such as cranes, derricks, spouts",
-      "pubDate": "Fri, 24 Oct 2025 08:40:47 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?090725a61a326cdcb919218ee6b4096f",
-      "group": "Lynx",
-      "victim": "simmerscrane.com",
-      "country": "US"
     }
   ]
 }
