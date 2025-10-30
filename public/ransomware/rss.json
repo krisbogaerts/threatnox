@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-30T14:11:06.218Z",
+  "updatedAt": "2025-10-30T15:13:09.394Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Silverlake Axis",
+      "link": "https://www.ransomware.live/id/U2lsdmVybGFrZSBBeGlzQHRoZWdlbnRsZW1lbg==",
+      "summary": "Stock Symbol 5CP www.silverlakeaxis.com https://www.zoominfo.com/c/silverlake-axis-ltd/259457307 Silverlake Axis Ltd. (\"SAL\") is a leading enterprise technology, software and services company focused on financial services and serves 40% of the top 20 largest banks in South East Asia. Founded in 1989, SAL has an impeccable track record of successful delivery of innovative and transformative solutions to its enterprise customers and their ecosystems. The Group has more than 380 enterprise customers in over 80 countries across Asia, Europe, Middle East, Africa and the Americas. Under Axis Systems Holdings Limited, SAL was listed on the SGX-SESDAQ on 12 March 2003. It was renamed Silverlake Axis Ltd in 2006 and the listing was transferred to the Mainboard of the Singapore Exchange on 22 June 2011.",
+      "pubDate": "Thu, 30 Oct 2025 14:49:12 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/thegentlemen?523d70db1e2ac5fc250a8d9a3e9ea097",
+      "group": "Thegentlemen",
+      "victim": "Silverlake Axis",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Buffalo Games, Edaron, Ceaco",
+      "link": "https://www.ransomware.live/id/QnVmZmFsbyBHYW1lcywgRWRhcm9uLCBDZWFjb0Bha2lyYQ==",
+      "summary": "Buffalo Games is an American company that specializes in board ga mes and puzzles, headquartered in Buffalo, New York. We also took some data from Edaron, Inc. and Ceaco. We will upload 34gb of corporate documents soon. Numerous employe e docs (passports, driver licenses, social security cards, w-9 fo rms), accounting information, contracts and agreements, client in formation and so on.",
+      "pubDate": "Thu, 30 Oct 2025 14:10:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?1a853cd6b5f78d81eedfdeda9d29f60a",
+      "group": "Akira",
+      "victim": "Buffalo Games, Edaron, Ceaco",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Huber , Erickson & Bowman",
       "link": "https://www.ransomware.live/id/SHViZXIgLCBFcmlja3NvbiAmIEJvd21hbkBha2lyYQ==",
@@ -2179,28 +2201,6 @@
       "group": "Lynx",
       "victim": "ozsoft.com.au",
       "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Killsec has just published a new victim : National Institute of Administratio...",
-      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgSW5zdGl0dXRlIG9mIEFkbWluaXN0cmF0aW8uLi5Aa2lsbHNlYw==",
-      "summary": "The National Institute of Administration (INA) is a Romanian public institution dedicated to the professional development and training of civil servants and personnel in public administration. Operating under the coordination of the Ministry of Development, Public Works, and Administration, INA plays a pivotal role in enhancing the efficiency, transparency, and effectiveness of public services across Romania.",
-      "pubDate": "Thu, 23 Oct 2025 16:19:37 +0000",
-      "category": "RO",
-      "guid": "https://www.ransomware.live/group/killsec?dd9424c6016af1c6c652194d9cd54aff",
-      "group": "Killsec",
-      "victim": "National Institute of Administratio...",
-      "country": "RO"
-    },
-    {
-      "title": "🏴‍☠️ Killsec has just published a new victim : Badger Popcorn And Concession Suppl...",
-      "link": "https://www.ransomware.live/id/QmFkZ2VyIFBvcGNvcm4gQW5kIENvbmNlc3Npb24gU3VwcGwuLi5Aa2lsbHNlYw==",
-      "summary": "Badger Popcorn &amp;amp;amp;amp; Concession Supply Company specializes in providing high-quality concession supplies, with a focus on gourmet popcorn and related equipment. The company offers a diverse range of products, including popcorn snacks, cleaning supplies, soft serve and ice cream machines, and slush puppie equipment. As a Medallion Dealer for Gold Medal Products Co., Badger Popcorn is committed to delivering exceptional products and services, catering to both individual customers and businesses. The company is also known for its gift tins, featuring gourmet popcorn options, making it a go-to destination for unique gift ideas.",
-      "pubDate": "Thu, 23 Oct 2025 16:19:20 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/killsec?077f7fd75688e12af9b6d4500ad805a4",
-      "group": "Killsec",
-      "victim": "Badger Popcorn And Concession Suppl...",
-      "country": "US"
     }
   ]
 }
