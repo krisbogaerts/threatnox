@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-30T12:22:33.394Z",
+  "updatedAt": "2025-10-30T13:25:46.278Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Econo-Pak",
+      "link": "https://www.ransomware.live/id/RWNvbm8tUGFrQGFraXJh",
+      "summary": "Econo-Pak is a food packaging expert. They help growing companies and Fortune 500 clients package food products at a fixed price. We are going to upload company data soon. You will find financial data (audit, payment details, invoices), detailed employees and  customers information  (emails, phones)  and other documents with detailed personal information.",
+      "pubDate": "Thu, 30 Oct 2025 12:15:59 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/akira?fa1a2f434d935a58c7c240f209240a93",
+      "group": "Akira",
+      "victim": "Econo-Pak",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Apache OpenOffice",
+      "link": "https://www.ransomware.live/id/QXBhY2hlIE9wZW5PZmZpY2VAYWtpcmE=",
+      "summary": "Apache OpenOffice is an open-source office productivity software  suite developed by the Apache Software Foundation. It was created as a successor project of OpenOffice.org, itself a successor to  StarOffice. We will upload 23gb of corporate documents soon. Employee informa tion (addresses, phones, DOB, driver licenses, social security ca rds, credit cards information and so on), financial information,  internal confidential files, lots of reports about their problems with the application and so on.",
+      "pubDate": "Thu, 30 Oct 2025 12:15:54 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?88e78f8ce2d4becf757e54531fba033b",
+      "group": "Akira",
+      "victim": "Apache OpenOffice",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : ASKUL",
       "link": "https://www.ransomware.live/id/QVNLVUxAcmFuc29taG91c2U=",
@@ -2179,28 +2201,6 @@
       "group": "Tengu",
       "victim": "FOOD & MUSIC MANAGEMENT SL",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Tengu has just published a new victim : Al Rimal Group",
-      "link": "https://www.ransomware.live/id/QWwgUmltYWwgR3JvdXBAdGVuZ3U=",
-      "summary": "Al Ramal Group is a manufacturing company specializing in food products. Al Ramal Food Industries FZCO was established in 2007 and is currently headquartered in the Sharjah Airport International Free Zone, Sharjah, United Arab Emirates.",
-      "pubDate": "Thu, 23 Oct 2025 14:55:43 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/tengu?2c4c69dd5eb0edd668cd6a59aa3f165c",
-      "group": "Tengu",
-      "victim": "Al Rimal Group",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Tengu has just published a new victim : STAR LÉGUMES",
-      "link": "https://www.ransomware.live/id/U1RBUiBMw4lHVU1FU0B0ZW5ndQ==",
-      "summary": "Star Legumes, Morocco - Provides wholesale services for fruits, vegetables, spices, and dried seeds in Casablanca and surrounding areas.",
-      "pubDate": "Thu, 23 Oct 2025 14:55:26 +0000",
-      "category": "MA",
-      "guid": "https://www.ransomware.live/group/tengu?e5e4b1ec777095f3431365c4aad5edad",
-      "group": "Tengu",
-      "victim": "STAR LÉGUMES",
-      "country": "MA"
     }
   ]
 }
