@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-30T09:12:57.463Z",
+  "updatedAt": "2025-10-30T10:12:50.363Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Spindletop Center",
+      "link": "https://www.ransomware.live/id/U3BpbmRsZXRvcCBDZW50ZXJAcmh5c2lkYQ==",
+      "summary": "Spindletop Center Spindletop Center is a non-profit healthcare organization focused on providing behavioral healthcare, as well as programs for individuals with intellectual and developmental disabilities and substance use recovery services. Over 100,000 patient records (address, phone number, passport number, social security number, diagnosis, medical history, etc.)",
+      "pubDate": "Thu, 30 Oct 2025 09:53:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?13d1793cee614437f19ad75ada0d6b5e",
+      "group": "Rhysida",
+      "victim": "Spindletop Center",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Evolve Mortgage Services",
       "link": "https://www.ransomware.live/id/RXZvbHZlIE1vcnRnYWdlIFNlcnZpY2VzQGluY3JhbnNvbQ==",
@@ -2190,17 +2201,6 @@
       "group": "Anubis",
       "victim": "Paterson & Dowding Family Lawyers",
       "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : The Laxmi Niwas Palace",
-      "link": "https://www.ransomware.live/id/VGhlIExheG1pIE5pd2FzIFBhbGFjZUBub3Zh",
-      "summary": "India A luxury historic hotel located in a palace in Bikaner, India. It was built in 1902 for Maharaja Ganga Singh and is now a popular tourist destination offering guests accommodation in the former royal palace.",
-      "pubDate": "Thu, 23 Oct 2025 08:16:47 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/nova?33a335e38919726b3e516a72523f42bc",
-      "group": "Nova",
-      "victim": "The Laxmi Niwas Palace",
-      "country": "IN"
     }
   ]
 }
