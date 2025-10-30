@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-29T23:11:00.519Z",
+  "updatedAt": "2025-10-30T00:54:58.915Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : nationalcoatingsinc.com",
+      "link": "https://www.ransomware.live/id/bmF0aW9uYWxjb2F0aW5nc2luYy5jb21AbHlueA==",
+      "summary": "National Coatings is a trusted commercial and industrial painting company serving a broad range of commercial and industrial customers, large and small, throughout the U.S.A. They offer expert painting, wallcovering, industrial coatings, and sandblasting services, plus more",
+      "pubDate": "Thu, 30 Oct 2025 00:18:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lynx?1bf5c45e253aad77ef5b3bd9dd41abf9",
+      "group": "Lynx",
+      "victim": "nationalcoatingsinc.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : DILOSA FOOD COMPANIES",
+      "link": "https://www.ransomware.live/id/RElMT1NBIEZPT0QgQ09NUEFOSUVTQGluY3JhbnNvbQ==",
+      "summary": "ventasdifrico@dilosafoods.com \r ventas@dilosafoods.com \r servicioalcliente@dilosafoods.com\r +(503) 2201-6806\r +(503) 2201-6810\r +(503) 2201-6800\r +(503) 6060-8784",
+      "pubDate": "Wed, 29 Oct 2025 22:46:07 +0000",
+      "category": "SV",
+      "guid": "https://www.ransomware.live/group/incransom?2bb1500baa8fe00897b12dfbbe69596f",
+      "group": "Incransom",
+      "victim": "DILOSA FOOD COMPANIES",
+      "country": "SV"
+    },
     {
       "title": "🏴‍☠️ Braincipher has just published a new victim : fsbgroup.ca",
       "link": "https://www.ransomware.live/id/ZnNiZ3JvdXAuY2FAQnJhaW5DaXBoZXI=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?0fc5e00373e36355dbb600e697936656",
       "group": "Qilin",
       "victim": "Integral Networks",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Signet Armorlite, Inc.",
-      "link": "https://www.ransomware.live/id/U2lnbmV0IEFybW9ybGl0ZSwgSW5jLkBxaWxpbg==",
-      "summary": "Founded in 1947, Signet Armorlite, Inc., an optical company, designs and manufactures glass ophthalmic lenses and molds. It also distributes lenses worldwide and adhesive optical supply products in the United States. Signet Armorlite is headq            ...",
-      "pubDate": "Wed, 22 Oct 2025 22:09:31 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?ce52671f7ed0c804e2bc449f8e97494b",
-      "group": "Qilin",
-      "victim": "Signet Armorlite, Inc.",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : All Truck Transportation",
-      "link": "https://www.ransomware.live/id/QWxsIFRydWNrIFRyYW5zcG9ydGF0aW9uQHFpbGlu",
-      "summary": "All Truck Transportation Co., Inc. is an asset-based carrier offering local and regional truckload transportation solutions. We are headquartered in Chicago, Illinois with a vast network of terminals throughout the Midwest. We operate within             ...",
-      "pubDate": "Wed, 22 Oct 2025 22:08:52 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?0dcc57cca15952367eb5b06a17d89263",
-      "group": "Qilin",
-      "victim": "All Truck Transportation",
       "country": "US"
     }
   ]
