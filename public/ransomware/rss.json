@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-31T05:12:25.350Z",
+  "updatedAt": "2025-10-31T06:17:44.523Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : VZW Avalon",
+      "link": "https://www.ransomware.live/id/VlpXIEF2YWxvbkBpbmNyYW5zb20=",
+      "summary": "38554 File(s) 31,312,417,174 bytes",
+      "pubDate": "Fri, 31 Oct 2025 05:19:45 +0000",
+      "category": "BE",
+      "guid": "https://www.ransomware.live/group/incransom?ea7bbe13187ad2f693f997a79a59f486",
+      "group": "Incransom",
+      "victim": "VZW Avalon",
+      "country": "BE"
+    },
     {
       "title": "🏴‍☠️ Blackshrantac has just published a new victim : The Matlusky Firm LLC",
       "link": "https://www.ransomware.live/id/VGhlIE1hdGx1c2t5IEZpcm0gTExDQGJsYWNrc2hyYW50YWM=",
@@ -2190,17 +2201,6 @@
       "group": "Tengu",
       "victim": "Le MULTI LABORATOIRE LC2A",
       "country": "MA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Doha British School",
-      "link": "https://www.ransomware.live/id/RG9oYSBCcml0aXNoIFNjaG9vbEBxaWxpbg==",
-      "summary": "Doha British School, Qatar - is one of the leading British international schools in Qatar, operating in the country since 1997. After 28 years, DBS has grown into a group of three outstanding campuses offering the English National Curriculum             ...",
-      "pubDate": "Fri, 24 Oct 2025 16:46:04 +0000",
-      "category": "QA",
-      "guid": "https://www.ransomware.live/group/qilin?1cc6a4ca206c6b7e2b826a4c32a8ca2d",
-      "group": "Qilin",
-      "victim": "Doha British School",
-      "country": "QA"
     }
   ]
 }
