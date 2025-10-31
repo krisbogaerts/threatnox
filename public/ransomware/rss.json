@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-10-31T00:53:34.724Z",
+  "updatedAt": "2025-10-31T02:26:28.656Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : CyPark Resources Berhad",
+      "link": "https://www.ransomware.live/id/Q3lQYXJrIFJlc291cmNlcyBCZXJoYWRAYmxhY2tzaHJhbnRhYw==",
+      "summary": "[AI generated] CyPark Resources Berhad is a Malaysian company specializing in renewable energy, environmental engineering, and landscaping infrastructure. They engage in various large-scale projects dealing with solid waste management and renewable energy sources. Additionally, the company provides solutions like landfill construction, waste treatment technologies, and landscape services for various sectors.",
+      "pubDate": "Fri, 31 Oct 2025 01:21:47 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/blackshrantac?d5faf0fcebc41c742712f99b2cc80f73",
+      "group": "Blackshrantac",
+      "victim": "CyPark Resources Berhad",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : TENAX Law Group PC",
+      "link": "https://www.ransomware.live/id/VEVOQVggTGF3IEdyb3VwIFBDQGJsYWNrc2hyYW50YWM=",
+      "summary": "[AI generated] TENAX Law Group, P.C. is a U.S.-based law firm that specializes in numerous sectors. Areas of practice include business law, estate planning &amp; trusts, real estate law, civil litigation, among others. It is committed to providing high-quality legal services &amp; personalized solutions to both individuals and businesses. Located in Point Richmond, California, they&#x27;re renowned for maintaining professional and cost-effective legal solutions.",
+      "pubDate": "Fri, 31 Oct 2025 01:21:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/blackshrantac?df8e7c1e905accc49b06969a1106faf5",
+      "group": "Blackshrantac",
+      "victim": "TENAX Law Group PC",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.verdugohillsdental.com",
+      "link": "https://www.ransomware.live/id/d3d3LnZlcmR1Z29oaWxsc2RlbnRhbC5jb21AYWxwaGFsb2NrZXI=",
+      "summary": "At Verdugo Hills Dental in Glendale, CA, our experienced team is committed to more than just dentistry—we’re here to ensure your comfort and overall well-being every step of the way. From routine check-ups to advanced restorative treatments, we deliver comprehensive care with a gentle touch, alw... Read more ⇒",
+      "pubDate": "Fri, 31 Oct 2025 01:19:28 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/alphalocker?e09034882ed9f08a94d8833abe473123",
+      "group": "Alphalocker",
+      "victim": "www.verdugohillsdental.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Obscura has just published a new victim : Thompson Dorfman Sweatman",
       "link": "https://www.ransomware.live/id/VGhvbXBzb24gRG9yZm1hbiBTd2VhdG1hbkBvYnNjdXJh",
@@ -2168,39 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Summit Hotel Properties",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Essilor of America",
-      "link": "https://www.ransomware.live/id/RXNzaWxvciBvZiBBbWVyaWNhQHdvcmxkbGVha3M=",
-      "summary": "[AI generated] Essilor of America is a subsidiary of the renowned French company, Essilor International. Based in the US, it is a leading manufacturer and wholesale distributor of optical lenses. It specializes in creating lenses for eyeglasses and sunglasses, holding a strong reputation for its progressive and high-index lenses. It focuses on promoting good vision health and developing innovative solutions for vision correction.",
-      "pubDate": "Fri, 24 Oct 2025 15:56:00 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?b5905a9aa9d58c4f7b925b05f503bdb8",
-      "group": "Worldleaks",
-      "victim": "Essilor of America",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Peruvian Connection",
-      "link": "https://www.ransomware.live/id/UGVydXZpYW4gQ29ubmVjdGlvbkB3b3JsZGxlYWtz",
-      "summary": "[AI generated] Peruvian Connection is a high-end fashion retailer that specializes in luxurious alpaca wool and pima cotton clothing and accessories for women. Founded in 1976, the company blends modern, bohemian styles with traditional Andean knitting techniques. Its offerings include sweaters, dresses, skirts, and jewelry, among others. Peruvian Connection operates both online and through physical stores around the world.",
-      "pubDate": "Fri, 24 Oct 2025 15:55:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?8196b0ba2c7c19ae28607aa77f136d10",
-      "group": "Worldleaks",
-      "victim": "Peruvian Connection",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Beast has just published a new victim : Danthi Comunicacao Integrada",
-      "link": "https://www.ransomware.live/id/RGFudGhpIENvbXVuaWNhY2FvIEludGVncmFkYUBiZWFzdA==",
-      "summary": "With a senior team and over 130 clients, Danthi Comunicacao Integrada believes in building close, long-term, and trust-based relationships with all its partners. With extensive experience in positive exposure, brand reputation building, and image and reputation crisis management, Danthi works in an integrated and strategic manner with traditional press relations and digital communications. A company&#x27;s image is directly linked to how it communicates with the public. In a 24/7 connected world, this premise requires strategy and a communications team that knows how to plan, identify key messages, and convey them assertively across multiple platforms.",
-      "pubDate": "Fri, 24 Oct 2025 10:16:01 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/beast?6880c57794503642599b0289e7c0efdc",
-      "group": "Beast",
-      "victim": "Danthi Comunicacao Integrada",
-      "country": "BR"
     }
   ]
 }
