@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-31T12:23:01.133Z",
+  "updatedAt": "2025-10-31T13:24:39.515Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Hometown Credit Union",
+      "link": "https://www.ransomware.live/id/SG9tZXRvd24gQ3JlZGl0IFVuaW9uQGFraXJh",
+      "summary": "Hometown Credit Union offers a range of financial services includ ing savings accounts, checking accounts, consumer loans, and home equity lines of credit. We will upload corporate documents soon. HR documents with employ ee personal information (social security number, addresses, phone s, emails, driver licenses), lots of financial documents, account ing documents and other internal documents.",
+      "pubDate": "Fri, 31 Oct 2025 11:48:20 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?6c81b97108be37c20e8ba168dafe8f9a",
+      "group": "Akira",
+      "victim": "Hometown Credit Union",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Gun Accessory Supply",
       "link": "https://www.ransomware.live/id/R3VuIEFjY2Vzc29yeSBTdXBwbHlAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "greenhouseapt.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Chaos has just published a new victim : hanson-inc.com",
-      "link": "https://www.ransomware.live/id/aGFuc29uLWluYy5jb21AY2hhb3M=",
-      "summary": "Hanson Professional Services Inc. is a national consulting firm that specializes in engineering, planning, and allied services. They provide a wide range of services including aviation, asset management, construction support, and sustainability solutions, catering to various sectors such as healthca…",
-      "pubDate": "Fri, 24 Oct 2025 20:47:34 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/chaos?a64a866cc8e3f507aac50b296afc7f04",
-      "group": "Chaos",
-      "victim": "hanson-inc.com",
-      "country": ""
     }
   ]
 }
