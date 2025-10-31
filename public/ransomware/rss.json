@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-31T15:10:34.838Z",
+  "updatedAt": "2025-10-31T16:14:12.175Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Radar has just published a new victim : Fouad Alghanim & Sons Group of Companies Holding W.L.L.",
+      "link": "https://www.ransomware.live/id/Rm91YWQgQWxnaGFuaW0gJiBTb25zIEdyb3VwIG9mIENvbXBhbmllcyBIb2xkaW5nIFcuTC5MLkByYWRhcg==",
+      "summary": "The full company name associated with the website falghanim.com is Alghanim International General Trading &amp; Contracting Co. WLL. This company is an associate of the Fouad Alghanim &amp; Sons Group of Companies, a separate entity from the similarly named Alghanim Industries (which uses the website alghanim.com).  Files Marked Confidential - http://4q5tsu5o3msmv4am4dfhupwhzlyg7wv3lpswbvbhcrknr4ega7xetxad.onion/falghanim.com%20KUWAIT/Files%20Marked%20Confidential.txt . Contact us to remove the files from our servers!",
+      "pubDate": "Fri, 31 Oct 2025 15:22:54 +0000",
+      "category": "KW",
+      "guid": "https://www.ransomware.live/group/radar?7b7a585837d32c3de264e4862637a496",
+      "group": "Radar",
+      "victim": "Fouad Alghanim & Sons Group of Companies Holding W.L.L.",
+      "country": "KW"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Hometown Credit Union",
       "link": "https://www.ransomware.live/id/SG9tZXRvd24gQ3JlZGl0IFVuaW9uQGFraXJh",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "bannenbergandrowell.com",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : greenhouseapt.com",
-      "link": "https://www.ransomware.live/id/Z3JlZW5ob3VzZWFwdC5jb21Ac2FmZXBheQ==",
-      "summary": "The Greenhouse is an apartment building and management/letting operation in Boston’s Back Bay / South End that offers 1–3 bedroom …",
-      "pubDate": "Fri, 24 Oct 2025 21:22:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?96324335bb47af79beabb99f3323ca95",
-      "group": "Safepay",
-      "victim": "greenhouseapt.com",
-      "country": "US"
     }
   ]
 }
