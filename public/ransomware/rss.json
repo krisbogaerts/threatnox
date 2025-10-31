@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-31T02:26:28.656Z",
+  "updatedAt": "2025-10-31T03:39:15.003Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : The Matlusky Firm LLC",
+      "link": "https://www.ransomware.live/id/VGhlIE1hdGx1c2t5IEZpcm0gTExDQGJsYWNrc2hyYW50YWM=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Fri, 31 Oct 2025 02:15:45 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/blackshrantac?2d6420dc0cee6c15979e65bc5e82d38e",
+      "group": "Blackshrantac",
+      "victim": "The Matlusky Firm LLC",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Blackshrantac has just published a new victim : CyPark Resources Berhad",
       "link": "https://www.ransomware.live/id/Q3lQYXJrIFJlc291cmNlcyBCZXJoYWRAYmxhY2tzaHJhbnRhYw==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Doha British School",
       "country": "QA"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Summit Hotel Properties",
-      "link": "https://www.ransomware.live/id/U3VtbWl0IEhvdGVsIFByb3BlcnRpZXNAd29ybGRsZWFrcw==",
-      "summary": "[AI generated] Summit Hotel Properties is an American real estate investment trust (REIT) focused on owning premium-branded hotels. They specifically target upscale hotels in the US operated by top-tier lodging brands like Hilton, Hyatt, and Marriott. The company&#x27;s portfolio extends to various markets, including business, airport, convention, and suburban locations.",
-      "pubDate": "Fri, 24 Oct 2025 15:56:48 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?1dcd56bbec432768ef68141a4d97f70d",
-      "group": "Worldleaks",
-      "victim": "Summit Hotel Properties",
-      "country": "US"
     }
   ]
 }
