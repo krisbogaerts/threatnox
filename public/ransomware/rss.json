@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-31T16:14:12.175Z",
+  "updatedAt": "2025-10-31T17:11:13.705Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : holtzofficesupport.com",
+      "link": "https://www.ransomware.live/id/aG9sdHpvZmZpY2VzdXBwb3J0LmNvbUBzYWZlcGF5",
+      "summary": "Holtz Office Support GmbH is a family-owned, medium-sized German company headquartered in Wiesbaden, founded in 1956. The company specializes in …",
+      "pubDate": "Fri, 31 Oct 2025 16:21:15 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?70e5d6e89d73679664d06b61d1f2d501",
+      "group": "Safepay",
+      "victim": "holtzofficesupport.com",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Radar has just published a new victim : Fouad Alghanim & Sons Group of Companies Holding W.L.L.",
       "link": "https://www.ransomware.live/id/Rm91YWQgQWxnaGFuaW0gJiBTb25zIEdyb3VwIG9mIENvbXBhbmllcyBIb2xkaW5nIFcuTC5MLkByYWRhcg==",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "mino-in.co.jp",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : bannenbergandrowell.com",
-      "link": "https://www.ransomware.live/id/YmFubmVuYmVyZ2FuZHJvd2VsbC5jb21Ac2FmZXBheQ==",
-      "summary": "Bannenberg &amp; Rowell is a luxury studio specialising in superyacht exterior and interior design, founded as the direct successor to …",
-      "pubDate": "Fri, 24 Oct 2025 21:22:56 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/safepay?c4fe2286a4bdf260d4f086e881537614",
-      "group": "Safepay",
-      "victim": "bannenbergandrowell.com",
-      "country": "GB"
     }
   ]
 }
