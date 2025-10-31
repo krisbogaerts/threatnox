@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-31T17:11:13.705Z",
+  "updatedAt": "2025-10-31T18:17:07.194Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Clop has just published a new victim : ANSELL.COM",
+      "link": "https://www.ransomware.live/id/QU5TRUxMLkNPTUBjbG9w",
+      "summary": "[AI generated] Ansell is a global leader in protection solutions, specializing in the design, development, and manufacture of protective gloves, condoms, and other safety apparel. Founded in Australia with a history spanning 125+ years, now widely recognized in different sectors from healthcare to industrial. They are committed to innovation in products, making them successfully diverse in the global marketplace.",
+      "pubDate": "Fri, 31 Oct 2025 16:32:22 +0000",
+      "category": "BE",
+      "guid": "https://www.ransomware.live/group/clop?6a88f06ef8a0347355cde37bfb1f263d",
+      "group": "Clop",
+      "victim": "ANSELL.COM",
+      "country": "BE"
+    },
+    {
+      "title": "🏴‍☠️ Clop has just published a new victim : MASTEC.COM",
+      "link": "https://www.ransomware.live/id/TUFTVEVDLkNPTUBjbG9w",
+      "summary": "[AI generated] MasTec, Inc. is a leading American infrastructure construction firm. Founded in 1929 and currently headquartered in Coral Gables, Florida, MasTec delivers a range of services across different industries including electricity, oil and gas, technology, and telecommunications. Its wide array of services include engineering, building, installation, maintenance, upgrade of energy, utility, and communications infrastructure.",
+      "pubDate": "Fri, 31 Oct 2025 16:31:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/clop?ab5a5154d3b6669fe6ccd4118493f288",
+      "group": "Clop",
+      "victim": "MASTEC.COM",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : holtzofficesupport.com",
       "link": "https://www.ransomware.live/id/aG9sdHpvZmZpY2VzdXBwb3J0LmNvbUBzYWZlcGF5",
@@ -2179,28 +2201,6 @@
       "group": "Safepay",
       "victim": "constructiondprovost.com",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : xortec.de",
-      "link": "https://www.ransomware.live/id/eG9ydGVjLmRlQHNhZmVwYXk=",
-      "summary": "Xortec GmbH is a German value-added distributor and systems integrator for professional video surveillance, IP network infrastructure and security-tech solutions. …",
-      "pubDate": "Fri, 24 Oct 2025 21:24:10 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?a3f755a5b1f23c317e36afb618962868",
-      "group": "Safepay",
-      "victim": "xortec.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : mino-in.co.jp",
-      "link": "https://www.ransomware.live/id/bWluby1pbi5jby5qcEBzYWZlcGF5",
-      "summary": "MINO Group is a long-established Japanese manufacturer (founded 1946) that designs and builds screen-printing machines, stencil makers, dryers, printing accessories …",
-      "pubDate": "Fri, 24 Oct 2025 21:23:32 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/safepay?e2da4dffe307c8dcdfa5155c51734f96",
-      "group": "Safepay",
-      "victim": "mino-in.co.jp",
-      "country": "JP"
     }
   ]
 }
