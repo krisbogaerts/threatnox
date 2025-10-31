@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-10-31T08:15:16.147Z",
+  "updatedAt": "2025-10-31T09:12:45.026Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Gun Accessory Supply",
+      "link": "https://www.ransomware.live/id/R3VuIEFjY2Vzc29yeSBTdXBwbHlAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 31 Oct 2025 08:47:21 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?512919db8f9aa0bf4aeffdc3e725ebeb",
+      "group": "Qilin",
+      "victim": "Gun Accessory Supply",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : CCI Tax Pros, Inc",
+      "link": "https://www.ransomware.live/id/Q0NJIFRheCBQcm9zLCBJbmNAYmxhY2tzaHJhbnRhYw==",
+      "summary": "[AI generated] CCI Tax Pros, Inc., based in Virginia, USA, is a consulting company that specializes in providing comprehensive tax and financial services to both businesses and individual clients. Their services range from personal tax planning, professional tax return preparation, and representation before tax authorities, to business tax management and strategic planning. Their team comprises of experienced accountants and financial advisors who strive to maximize their clients&#x27; savings and returns.",
+      "pubDate": "Fri, 31 Oct 2025 08:15:07 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/blackshrantac?6742f6075338677f115b58f8835f2e89",
+      "group": "Blackshrantac",
+      "victim": "CCI Tax Pros, Inc",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : VZW Avalon",
       "link": "https://www.ransomware.live/id/VlpXIEF2YWxvbkBpbmNyYW5zb20=",
@@ -2179,28 +2201,6 @@
       "group": "Chaos",
       "victim": "hanson-inc.com",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Hall Estill",
-      "link": "https://www.ransomware.live/id/SGFsbCBFc3RpbGxAU2lsZW50UmFuc29tR3JvdXA=",
-      "summary": "Founded in 1966 in Tulsa, Oklahoma, Hall Estill is a full-service law firm with clients ranging from F…",
-      "pubDate": "Fri, 24 Oct 2025 19:43:47 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/SilentRansomGroup?f6f03934edda8dae6c5abec3aee568ce",
-      "group": "Silentransomgroup",
-      "victim": "Hall Estill",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Tengu has just published a new victim : Le MULTI LABORATOIRE LC2A",
-      "link": "https://www.ransomware.live/id/TGUgTVVMVEkgTEFCT1JBVE9JUkUgTEMyQUB0ZW5ndQ==",
-      "summary": "Le Multi Laboratoire LC2A offers a platform for businesses looking to test or analyze their products by configuring their ideal analytical project online",
-      "pubDate": "Fri, 24 Oct 2025 19:13:27 +0000",
-      "category": "MA",
-      "guid": "https://www.ransomware.live/group/tengu?6db9980574b93bdeb2b7c7eb12490cbc",
-      "group": "Tengu",
-      "victim": "Le MULTI LABORATOIRE LC2A",
-      "country": "MA"
     }
   ]
 }
