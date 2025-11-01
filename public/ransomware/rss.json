@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-01T09:11:08.099Z",
+  "updatedAt": "2025-11-01T10:10:44.104Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Lidera Network",
+      "link": "https://www.ransomware.live/id/TGlkZXJhIE5ldHdvcmtAd29ybGRsZWFrcw==",
+      "summary": "[AI generated] Lidera Network is a technology company that specializes in distribution of IT solutions. The company focuses on security, virtualization, networking, and data center operations. Their services also include technical solutions, sales support, and training services. The company works with a broad network of channels to distribute quality solutions to their clients across multiple sectors. It&#x27;s based in Madrid, Spain.",
+      "pubDate": "Sat, 01 Nov 2025 09:37:45 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/worldleaks?965938203e1d9850a6ab2440d7e60a01",
+      "group": "Worldleaks",
+      "victim": "Lidera Network",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Kobayashi",
+      "link": "https://www.ransomware.live/id/S29iYXlhc2hpQHdvcmxkbGVha3M=",
+      "summary": "[AI generated] Kobayashi Pharmaceutical Co. Ltd. is a Japanese company that specializes in the manufacturing and sale of over-the-counter drugs, oral hygiene products, and healthcare items. Their extensive product line-up includes cool fever patches, pain relief patches, skin creams, oral care products, and other health-related goods garnering a global presence. They focus on enhancing everyday health and comfort for their customers.",
+      "pubDate": "Sat, 01 Nov 2025 09:36:59 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/worldleaks?b4ba4e2fdaccca374b6d5dd833818bdd",
+      "group": "Worldleaks",
+      "victim": "Kobayashi",
+      "country": "JP"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Central Plate Services Limitited",
+      "link": "https://www.ransomware.live/id/Q2VudHJhbCBQbGF0ZSBTZXJ2aWNlcyBMaW1pdGl0ZWRAd29ybGRsZWFrcw==",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Sat, 01 Nov 2025 09:36:11 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/worldleaks?e2e3773d07f834b7193ed78f94d5a5dc",
+      "group": "Worldleaks",
+      "victim": "Central Plate Services Limitited",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Obscura has just published a new victim : New Toyo International Holdings Ltd",
       "link": "https://www.ransomware.live/id/TmV3IFRveW8gSW50ZXJuYXRpb25hbCBIb2xkaW5ncyBMdGRAb2JzY3VyYQ==",
@@ -2168,39 +2201,6 @@
       "group": "Everest",
       "victim": "Air Arabia",
       "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Svenska Kraftnät",
-      "link": "https://www.ransomware.live/id/U3ZlbnNrYSBLcmFmdG7DpHRAZXZlcmVzdA==",
-      "summary": "[AI generated] Svenska Kraftnät is a Swedish state-owned energy company responsible for the nation&#x27;s transmission grid for electricity. It operates on a national level ensuring the balancing of supply and demand for electricity. It manages the transmission grid (about 15,000 km of high voltage lines) and ensures that the grid is safe, reliable, and efficient. It also coordinates the cross-border exchanges of electricity and guarantees a balanced energy market.",
-      "pubDate": "Sat, 25 Oct 2025 15:43:23 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/everest?69d86529cd17a41e6ab07111e7063694",
-      "group": "Everest",
-      "victim": "Svenska Kraftnät",
-      "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : City of Sugar Land",
-      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBTdWdhciBMYW5kQHFpbGlu",
-      "summary": "Founded as a sugar plantation in the early mid-20th century and incorporated in 1959, Sugar Land is a city in the state of Texas, in the United States. The city is within the Houston, The Woodlands and Sugar Land metropolitan area and Fort Be            ...",
-      "pubDate": "Sat, 25 Oct 2025 15:22:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?39428eab10fa2c7a04ba136c3a7f4f3c",
-      "group": "Qilin",
-      "victim": "City of Sugar Land",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Zacho-Lind",
-      "link": "https://www.ransomware.live/id/WmFjaG8tTGluZEBxaWxpbg==",
-      "summary": "Zacho-Lind A/S is a construction company based in Copenhagen with over 85 years of experience, specializing in infrastructure, concrete, and utility services. The company undertakes projects for both public and private clients, focusing on ar            ...",
-      "pubDate": "Sat, 25 Oct 2025 15:22:00 +0000",
-      "category": "DK",
-      "guid": "https://www.ransomware.live/group/qilin?11c05f6e62c212f162ff293f52865b38",
-      "group": "Qilin",
-      "victim": "Zacho-Lind",
-      "country": "DK"
     }
   ]
 }
