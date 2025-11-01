@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-01T07:10:11.027Z",
+  "updatedAt": "2025-11-01T08:13:39.729Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : New Toyo International Holdings Ltd",
+      "link": "https://www.ransomware.live/id/TmV3IFRveW8gSW50ZXJuYXRpb25hbCBIb2xkaW5ncyBMdGRAb2JzY3VyYQ==",
+      "summary": "Revenue: $221.7kk | Leak Size: 2 GB | Status: Pending | Time Left: 6d 17h 27m 32s",
+      "pubDate": "Sat, 01 Nov 2025 07:14:21 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/obscura?94b2faecc2847d4691157f605ec1f867",
+      "group": "Obscura",
+      "victim": "New Toyo International Holdings Ltd",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : o*c*u.o**",
       "link": "https://www.ransomware.live/id/bypjKnUubyoqQGRldm1hbg==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Zacho-Lind",
       "country": "DK"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Kaufman & Stigger",
-      "link": "https://www.ransomware.live/id/S2F1Zm1hbiAmIFN0aWdnZXJAcWlsaW4=",
-      "summary": "When you call Kaufman &amp; Stigger, PLLC Injury Lawyers, you will talk to a team with decades of experience helping people injured after an accident. Our Louisville-based law firm is focused exclusively on providing counsel to injured clients th            ...",
-      "pubDate": "Sat, 25 Oct 2025 15:21:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?e48bd0f38d78be29835a1f2b7e77d4bb",
-      "group": "Qilin",
-      "victim": "Kaufman & Stigger",
-      "country": "US"
     }
   ]
 }
