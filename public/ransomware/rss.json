@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-01T00:56:31.000Z",
+  "updatedAt": "2025-11-01T02:28:47.718Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : o*c*u.o**",
+      "link": "https://www.ransomware.live/id/bypjKnUubyoqQGRldm1hbg==",
+      "summary": "Ransom: 500k 120gb",
+      "pubDate": "Sat, 01 Nov 2025 00:44:30 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/devman?fa165f7ad04c5b48eccd67a0a3b00736",
+      "group": "Devman",
+      "victim": "o*c*u.o**",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : juntalocal.cdmx.gob.mx",
+      "link": "https://www.ransomware.live/id/anVudGFsb2NhbC5jZG14LmdvYi5teEBkZXZtYW4=",
+      "summary": "Ransom: 60gb 300k",
+      "pubDate": "Sat, 01 Nov 2025 00:43:55 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/devman?c43181e314ae5022480181a9562eb792",
+      "group": "Devman",
+      "victim": "juntalocal.cdmx.gob.mx",
+      "country": "MX"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : TMF Logistics",
       "link": "https://www.ransomware.live/id/VE1GIExvZ2lzdGljc0BpbmNyYW5zb20=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?e48bd0f38d78be29835a1f2b7e77d4bb",
       "group": "Qilin",
       "victim": "Kaufman & Stigger",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Omrin",
-      "link": "https://www.ransomware.live/id/T21yaW5AcWlsaW4=",
-      "summary": "Omrin is a leading waste management company in the Netherlands, dedicated to creating a clean and sustainable world. They provide a range of services including waste collection for over 1.6 million residents and 10,000 businesses, as well as             ...",
-      "pubDate": "Sat, 25 Oct 2025 15:20:44 +0000",
-      "category": "NL",
-      "guid": "https://www.ransomware.live/group/qilin?cb5ab4bff2290adfecba52cf2b85d40c",
-      "group": "Qilin",
-      "victim": "Omrin",
-      "country": "NL"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : MetroWest Community FCU",
-      "link": "https://www.ransomware.live/id/TWV0cm9XZXN0IENvbW11bml0eSBGQ1VAYWtpcmE=",
-      "summary": "MetroWest Community Federal Credit Union offers a range of person al banking services including checking and savings accounts, mobi le banking, and various lending products such as vehicle, home, a nd personal loans. We are ready to upload corporate and client documents. Lots of cl ients documents (DLs, birth and death certs and numerous forms wi th personal information), financial and accounting information, c ourt cases information, employee personal files, etc.",
-      "pubDate": "Sat, 25 Oct 2025 12:39:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?e041bfd0501dd20fa830207d92c09b23",
-      "group": "Akira",
-      "victim": "MetroWest Community FCU",
       "country": "US"
     }
   ]
