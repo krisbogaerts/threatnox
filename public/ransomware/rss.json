@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-10-31T23:11:07.915Z",
+  "updatedAt": "2025-11-01T00:56:31.000Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : TMF Logistics",
+      "link": "https://www.ransomware.live/id/VE1GIExvZ2lzdGljc0BpbmNyYW5zb20=",
+      "summary": "39,308,400,640 bytes",
+      "pubDate": "Fri, 31 Oct 2025 22:51:58 +0000",
+      "category": "DZ",
+      "guid": "https://www.ransomware.live/group/incransom?f6df179a632ab6a6258ab5a67eb11a1b",
+      "group": "Incransom",
+      "victim": "TMF Logistics",
+      "country": "DZ"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : aa-llp.com (aa.law)",
       "link": "https://www.ransomware.live/id/YWEtbGxwLmNvbSAoYWEubGF3KUBpbmNyYW5zb20=",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "MetroWest Community FCU",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Handala has just published a new victim : Saturday Unveilings – Shadows Have Names",
-      "link": "https://www.ransomware.live/id/U2F0dXJkYXkgVW52ZWlsaW5ncyDigJMgU2hhZG93cyBIYXZlIE5hbWVzQGhhbmRhbGE=",
-      "summary": "In the realm of silence and secrets, every shadow carries a story, and every story eventually finds the light. Today, as promised, six new names are drawn from the heart of darkness: high-ranking engineers, architects of Israel’s air and naval power, elusive minds behind the Weizmann Institutes’ most covert operations, and now, nuclear scientists whose…",
-      "pubDate": "Sat, 25 Oct 2025 11:42:58 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/handala?623e73584940a5996f5d8a7c25c392e6",
-      "group": "Handala",
-      "victim": "Saturday Unveilings – Shadows Have Names",
-      "country": ""
     }
   ]
 }
