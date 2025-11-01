@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-01T11:08:42.387Z",
+  "updatedAt": "2025-11-01T12:19:25.574Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : The Saturday Files",
+      "link": "https://www.ransomware.live/id/VGhlIFNhdHVyZGF5IEZpbGVzQGhhbmRhbGE=",
+      "summary": "Saturdays may be ordinary on your calendar, but for us, they mark a day of revelation, a day when we shake the foundations of your artificial calm with the tremor of truth. Today, once again, we bring seven more names from your ranks out of the darkness and into the light, seven faces from the…",
+      "pubDate": "Sat, 01 Nov 2025 10:52:23 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?a28a7562b5a3a8a61817127af7608423",
+      "group": "Handala",
+      "victim": "The Saturday Files",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Red Phoenix Construction",
       "link": "https://www.ransomware.live/id/UmVkIFBob2VuaXggQ29uc3RydWN0aW9uQHFpbGlu",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?665d374a82d99713715b297a333b4799",
       "group": "Akira",
       "victim": "Precision Machined Products",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Essential Cabinetry Group",
-      "link": "https://www.ransomware.live/id/RXNzZW50aWFsIENhYmluZXRyeSBHcm91cEBxaWxpbg==",
-      "summary": "Simpsonville, SC-based Essential Cabinetry is a manufacturer of custom, semi-custom and stock-plus kitchen and bathroom cabinetry that is sold primarily through the dealer channel. Through its three market-leading brands (Tedd Wood Fine Cabin            ...",
-      "pubDate": "Sat, 25 Oct 2025 19:12:14 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?b17cfd4771d57a4d33ddbb0a7c653697",
-      "group": "Qilin",
-      "victim": "Essential Cabinetry Group",
       "country": ""
     }
   ]
