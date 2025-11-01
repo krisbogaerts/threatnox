@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-01T10:10:44.104Z",
+  "updatedAt": "2025-11-01T11:08:42.387Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Red Phoenix Construction",
+      "link": "https://www.ransomware.live/id/UmVkIFBob2VuaXggQ29uc3RydWN0aW9uQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 01 Nov 2025 10:19:50 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?dcb9766738990535612cdf87d02c2e04",
+      "group": "Qilin",
+      "victim": "Red Phoenix Construction",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Lidera Network",
       "link": "https://www.ransomware.live/id/TGlkZXJhIE5ldHdvcmtAd29ybGRsZWFrcw==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Essential Cabinetry Group",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Air Arabia",
-      "link": "https://www.ransomware.live/id/QWlyIEFyYWJpYUBldmVyZXN0",
-      "summary": "[AI generated] Air Arabia is a low-cost airline that started its operations in 2003, based in Sharjah, United Arab Emirates. The company offers flights to over 170 destinations across the Middle East, North Africa, Asia, and Europe. Apart from passenger transportation, Air Arabia also has diversified into travel management, tourism, and hospitality through various subsidiaries. It operates a fleet of Airbus A320 aircraft. It&#x27;s the first publicly listed airline in the Middle East, priding itself on being a profitable venture since the second year of its operation.",
-      "pubDate": "Sat, 25 Oct 2025 18:43:03 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/everest?c05c39bfc7ef813cb99c77fe010b3b70",
-      "group": "Everest",
-      "victim": "Air Arabia",
-      "country": "AE"
     }
   ]
 }
