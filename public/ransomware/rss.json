@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-01T17:08:44.684Z",
+  "updatedAt": "2025-11-01T18:14:24.182Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ J has just published a new victim : ****.com.au",
+      "link": "https://www.ransomware.live/id/KioqKi5jb20uYXVASg==",
+      "summary": "",
+      "pubDate": "Sat, 01 Nov 2025 17:08:44 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/J?e49d1174a8a9716b20697c2bbc6615e0",
+      "group": "J",
+      "victim": "****.com.au",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Professional's Choice Sports",
       "link": "https://www.ransomware.live/id/UHJvZmVzc2lvbmFsJ3MgQ2hvaWNlIFNwb3J0c0BwbGF5",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "InfraCom Group",
       "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Dublin Airport",
-      "link": "https://www.ransomware.live/id/RHVibGluIEFpcnBvcnRAZXZlcmVzdA==",
-      "summary": "[AI generated] Dublin Airport, located in Collinstown, Fingal, Ireland, is an international airport serving Dublin, the capital city of Ireland. It is operated by DAA (Dublin Airport Authority). The airport is the 12th busiest in Europe, offering flights to over 180 destinations by more than 40 airlines. It boasts two terminals, numerous shops and eateries, and various transport options including taxis, buses, and car rentals.",
-      "pubDate": "Sun, 26 Oct 2025 15:43:26 +0000",
-      "category": "IE",
-      "guid": "https://www.ransomware.live/group/everest?194d3d3c5a99dcefe53811a0f6d4f908",
-      "group": "Everest",
-      "victim": "Dublin Airport",
-      "country": "IE"
     }
   ]
 }
