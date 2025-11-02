@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-02T13:17:20.264Z",
+  "updatedAt": "2025-11-02T14:09:12.919Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Deco Dental",
+      "link": "https://www.ransomware.live/id/RGVjbyBEZW50YWxAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 02 Nov 2025 13:16:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?19529c9f0ba59d41cde05095cf4bee23",
+      "group": "Qilin",
+      "victim": "Deco Dental",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : m*c*e*ic*l.com",
       "link": "https://www.ransomware.live/id/bSpjKmUqaWMqbC5jb21AZGV2bWFu",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Metal Pros",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Donacoop (VinaCapital)",
-      "link": "https://www.ransomware.live/id/RG9uYWNvb3AgKFZpbmFDYXBpdGFsKUB0aGVnZW50bGVtZW4=",
-      "summary": "https://www.zoominfo.com/c/vinacapital/345647395 DonaCoop is a major Vietnamese conglomerate based in Dong Nai province that evolved from agricultural and handicraft cooperatives into large-scale real estate and infrastructure development acting as a key investor in metro line extension projects with VinaCapital and developing major projects like Dong Nai Waterfront City in partnership with Keppel Land while also participating in philanthropic efforts such as donating.",
-      "pubDate": "Sun, 26 Oct 2025 18:26:53 +0000",
-      "category": "VN",
-      "guid": "https://www.ransomware.live/group/thegentlemen?8965ee0ef126bd2676cc6c878cfbd492",
-      "group": "Thegentlemen",
-      "victim": "Donacoop (VinaCapital)",
-      "country": "VN"
     }
   ]
 }
