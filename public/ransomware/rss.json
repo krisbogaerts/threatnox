@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-01T23:10:34.775Z",
+  "updatedAt": "2025-11-02T00:57:13.522Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : m*c*e*ic*l.com",
+      "link": "https://www.ransomware.live/id/bSpjKmUqaWMqbC5jb21AZGV2bWFu",
+      "summary": "Ransom: 50gb 100k",
+      "pubDate": "Sat, 01 Nov 2025 23:14:04 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/devman?56e73e4c4e84ca0a6e9a2e72dad9ab56",
+      "group": "Devman",
+      "victim": "m*c*e*ic*l.com",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ J has just published a new victim : ****.com.au",
       "link": "https://www.ransomware.live/id/KioqKi5jb20uYXVASg==",
@@ -2190,17 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "Donacoop (VinaCapital)",
       "country": "VN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : InfraCom Group",
-      "link": "https://www.ransomware.live/id/SW5mcmFDb20gR3JvdXBAcWlsaW4=",
-      "summary": "InfraCom Group AB (publ) is a leading player in IT infrastructure, offering services like mobile and fixed telephony, cloud PBX, fiber internet, server hosting, and web platforms since 1999. The company serves approximately 20,000 clients, pr            ...",
-      "pubDate": "Sun, 26 Oct 2025 18:21:44 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/qilin?aaec5da0438fe25f9c458d2d98fcb522",
-      "group": "Qilin",
-      "victim": "InfraCom Group",
-      "country": "SE"
     }
   ]
 }
