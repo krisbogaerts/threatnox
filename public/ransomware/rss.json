@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-02T17:09:19.000Z",
+  "updatedAt": "2025-11-02T18:13:46.555Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : Castilla",
+      "link": "https://www.ransomware.live/id/Q2FzdGlsbGFAbm92YQ==",
+      "summary": "Castilla is a company that operates in the Consumer Services industry. It employs 5to9 people and has 1Mto5M of revenue. The company is headquartered in Soria, Castille and Leon, Spain.",
+      "pubDate": "Sun, 02 Nov 2025 17:12:41 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/nova?85f70f9e09a7031f088ec96751ccfe0e",
+      "group": "Nova",
+      "victim": "Castilla",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Deco Dental",
       "link": "https://www.ransomware.live/id/RGVjbyBEZW50YWxAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "LaBonne",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Metal Pros",
-      "link": "https://www.ransomware.live/id/TWV0YWwgUHJvc0BwbGF5",
-      "summary": "United States",
-      "pubDate": "Sun, 26 Oct 2025 19:48:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?6887cae3ef2779827f65fd453f6422a3",
-      "group": "Play",
-      "victim": "Metal Pros",
-      "country": "US"
     }
   ]
 }
