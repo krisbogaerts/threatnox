@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-03T00:56:36.635Z",
+  "updatedAt": "2025-11-03T02:43:41.843Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.unterkofler.info",
+      "link": "https://www.ransomware.live/id/d3d3LnVudGVya29mbGVyLmluZm9AYWxwaGFsb2NrZXI=",
+      "summary": "117 GB data has stolen 5611 Grossarl | Marktstr. 109 +43 (0) 6414 / 2760",
+      "pubDate": "Mon, 03 Nov 2025 01:41:25 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/alphalocker?683af37b4b356433fbabc307544c271f",
+      "group": "Alphalocker",
+      "victim": "www.unterkofler.info",
+      "country": "AT"
+    },
+    {
+      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.automotiveml.com",
+      "link": "https://www.ransomware.live/id/d3d3LmF1dG9tb3RpdmVtbC5jb21AYWxwaGFsb2NrZXI=",
+      "summary": "www.automotiveml.com",
+      "pubDate": "Mon, 03 Nov 2025 01:40:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/alphalocker?4d66a96e40bf8259dadc1d1db6707bac",
+      "group": "Alphalocker",
+      "victim": "www.automotiveml.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : CEVA LOGISTICS - THIS DATABASE IS FOR SALE",
       "link": "https://www.ransomware.live/id/Q0VWQSBMT0dJU1RJQ1MgLSBUSElTIERBVEFCQVNFIElTIEZPUiBTQUxFQGNvaW5iYXNlY2FydGVs",
@@ -2179,28 +2201,6 @@
       "group": "Crypto24",
       "victim": "Bayu Buana Travel",
       "country": "ID"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : dwgra.com",
-      "link": "https://www.ransomware.live/id/ZHdncmEuY29tQGluY3JhbnNvbQ==",
-      "summary": "D. W. Gould Realty Advisors Inc. (“DWGRA”) is a privately owned, non-commission compensation Canadian brokerage offering.\r Derek Gould is President and the Broker of Record at D.W. Gould Realty Advisors Inc. \r He was Vice President at CBRE Limited from 1998 until June 2013 when he decided to open his own boutique brokerage. \r Mr. Gould works with corporations and individuals requiring brokerage services within the Greater GTA as well as across Ontario from west of London to Kingston and north to Sudbury / North Bay and further North.\r \r We have at our disposal fiscal data, internal mail, data of all employees of the company, as well as strategic development plans.",
-      "pubDate": "Mon, 27 Oct 2025 00:44:41 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/incransom?abd9e69da8e1d420aebe9b006b6e8940",
-      "group": "Incransom",
-      "victim": "dwgra.com",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : partitio.com",
-      "link": "https://www.ransomware.live/id/cGFydGl0aW8uY29tQGluY3JhbnNvbQ==",
-      "summary": "About Partitio\r Partitio specializes in digital technologies aimed at enhancing human interaction within organizations. They provide services in information system management, including private cloud hosting and content management solutions. Their target clients include SMEs, retailers, and accounting professionals, with a focus on improving collaboration and data security. As a trusted partner, Partitio is certified in ISO 27 001 and HDS, ensuring high standards in their offerings",
-      "pubDate": "Mon, 27 Oct 2025 00:44:07 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/incransom?02d99fa504e39d195706cb45b1b45ebd",
-      "group": "Incransom",
-      "victim": "partitio.com",
-      "country": "FR"
     }
   ]
 }
