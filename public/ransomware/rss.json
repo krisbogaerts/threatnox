@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-03T12:23:10.174Z",
+  "updatedAt": "2025-11-03T13:25:06.627Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : ANCO",
+      "link": "https://www.ransomware.live/id/QU5DT0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 03 Nov 2025 12:23:21 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?51309781ddd9f51f5f4d30d71fca90fa",
+      "group": "Qilin",
+      "victim": "ANCO",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Gerson & Schwartz Accident & Injury Lawyers",
+      "link": "https://www.ransomware.live/id/R2Vyc29uICYgU2Nod2FydHogQWNjaWRlbnQgJiBJbmp1cnkgTGF3eWVyc0BwZWFy",
+      "summary": "A Miami law firm representing victims in all types of legal proceedings related to accidents, injuries, and wrongful death",
+      "pubDate": "Mon, 03 Nov 2025 12:22:04 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?4853683604be8790df3b258d0bc886f2",
+      "group": "Pear",
+      "victim": "Gerson & Schwartz Accident & Injury Lawyers",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : G. Hauswirth Architects",
+      "link": "https://www.ransomware.live/id/Ry4gSGF1c3dpcnRoIEFyY2hpdGVjdHNAZHJhZ29uZm9yY2U=",
+      "summary": "G. Hauswirth Architects G. Hauswirth Architekten AG is one of the leading architectural firms for chalets in Gstaad - Saanenland. Our core areas are residential, hotel, commercial and cultural facilities. We combine tailor-made architecture, Swiss tradition and modern design in our work. We attach great importance to the realization of individual wishes in every phase of a project.",
+      "pubDate": "Mon, 03 Nov 2025 11:51:22 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?fda19b3628903851da1b8c690a38d97e",
+      "group": "Dragonforce",
+      "victim": "G. Hauswirth Architects",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Victorian Chemical",
       "link": "https://www.ransomware.live/id/VmljdG9yaWFuIENoZW1pY2FsQHJhbnNvbWhvdXNl",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/pear?868e7c38907061b308f276788ebf6b45",
       "group": "Pear",
       "victim": "Miami Management",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Beast has just published a new victim : GeBePro",
-      "link": "https://www.ransomware.live/id/R2VCZVByb0BiZWFzdA==",
-      "summary": "The company&#x27;s activities include the operational management of technical systems, project management, trading/distribution of technical systems and their products, business consulting, expert opinions, and service provision. The company may acquire similar or similar companies, participate in them, represent them, and establish branches. The company is authorized to conduct all transactions that are suitable for furthering the company&#x27;s purpose.",
-      "pubDate": "Mon, 27 Oct 2025 10:20:38 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/beast?b720baa7dd9680b28bef2582816b4840",
-      "group": "Beast",
-      "victim": "GeBePro",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Beast has just published a new victim : Bolt Electricity, Oil & Gas",
-      "link": "https://www.ransomware.live/id/Qm9sdCBFbGVjdHJpY2l0eSwgT2lsICYgR2FzQGJlYXN0",
-      "summary": "Bolt Energy specializes in providing energy solutions aimed at reducing costs by at least 25% for high voltage companies, and offering clean and affordable energy for residential and small business customers. They also deliver customized energy solutions for power plants. Established in 2010, Bolt Energy operates in both the free and captive markets, helping clients achieve significant energy savings. The company is actively engaged in energy generation and commercialization, focusing on efficient energy solutions",
-      "pubDate": "Mon, 27 Oct 2025 10:19:51 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/beast?3ec51735b080f6226ed6072e24d0f61a",
-      "group": "Beast",
-      "victim": "Bolt Electricity, Oil & Gas",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Flegenheimer International",
-      "link": "https://www.ransomware.live/id/RmxlZ2VuaGVpbWVyIEludGVybmF0aW9uYWxAYWtpcmE=",
-      "summary": "Flegenheimer International is Licensed Customs Broker company bas ed out of 227 W Grand Ave, El Segundo, CA, United States. We are ready to upload more than 16gb of corporate documents. Emp loyee information (address, phones and so on), customer informati on, accounting and other business files.",
-      "pubDate": "Mon, 27 Oct 2025 10:18:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?cad781e8491e6a72af1675ff85f4b1b2",
-      "group": "Akira",
-      "victim": "Flegenheimer International",
       "country": "US"
     }
   ]
