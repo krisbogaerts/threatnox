@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-03T11:09:58.127Z",
+  "updatedAt": "2025-11-03T12:23:10.174Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Victorian Chemical",
+      "link": "https://www.ransomware.live/id/VmljdG9yaWFuIENoZW1pY2FsQHJhbnNvbWhvdXNl",
+      "summary": "Vicchem, based in Melbourne, Australia, is a specialist manufacturer and global marketer of agricultural and industrial chemical products since 1933. The company offers a diverse range of over 30 agricultural products, including spray adjuvants and organic insecticides, suitable for various farming applications. Additionally, Vicchem provides industrial chemicals, such as concrete mould release agents and degreasers, for multiple industries.",
+      "pubDate": "Mon, 03 Nov 2025 11:23:29 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/ransomhouse?a58ee94e26dfecc0fa69778b656d0d7b",
+      "group": "Ransomhouse",
+      "victim": "Victorian Chemical",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : REPECHAGE",
+      "link": "https://www.ransomware.live/id/UkVQRUNIQUdFQGluY3JhbnNvbQ==",
+      "summary": "We have over 1 TB of personal data belonging to this organization, and all attempts at peaceful resolution have been completely ignored. Aware that the addresses, phone numbers, and job titles of individual employees, medical records, and complete data on clients and partners have been lost (and will undoubtedly be used for selfish purposes by a huge number of people), they have shown complete indifference—REPECHAGE we want you to know about this before it is too late.",
+      "pubDate": "Mon, 03 Nov 2025 10:52:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?4c2c61fa0122f0312ac80d75595d71e4",
+      "group": "Incransom",
+      "victim": "REPECHAGE",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Alphalocker has just published a new victim : www.unterkofler.info",
       "link": "https://www.ransomware.live/id/d3d3LnVudGVya29mbGVyLmluZm9AYWxwaGFsb2NrZXI=",
@@ -2179,28 +2201,6 @@
       "group": "Akira",
       "victim": "Flegenheimer International",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Crypto24 has just published a new victim : Meinhardt Group",
-      "link": "https://www.ransomware.live/id/TWVpbmhhcmR0IEdyb3VwQGNyeXB0bzI0",
-      "summary": "...",
-      "pubDate": "Mon, 27 Oct 2025 04:22:26 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/crypto24?5fa679eee12a61dab4e3ed15745d4016",
-      "group": "Crypto24",
-      "victim": "Meinhardt Group",
-      "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Crypto24 has just published a new victim : Bayu Buana Travel",
-      "link": "https://www.ransomware.live/id/QmF5dSBCdWFuYSBUcmF2ZWxAY3J5cHRvMjQ=",
-      "summary": "...",
-      "pubDate": "Mon, 27 Oct 2025 02:51:52 +0000",
-      "category": "ID",
-      "guid": "https://www.ransomware.live/group/crypto24?6c1a084945ef54f21ebd07c30aa3a922",
-      "group": "Crypto24",
-      "victim": "Bayu Buana Travel",
-      "country": "ID"
     }
   ]
 }
