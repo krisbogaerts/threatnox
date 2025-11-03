@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-03T16:14:25.305Z",
+  "updatedAt": "2025-11-03T17:10:36.293Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Bishop Ireton High School",
+      "link": "https://www.ransomware.live/id/QmlzaG9wIElyZXRvbiBIaWdoIFNjaG9vbEBpbnRlcmxvY2s=",
+      "summary": "Bishop Ayrton High School is a Catholic college preparatory school that focuses on spiritual, intellectual, creative, social, and physical development. The school offers an academic program that includes honors courses and dual enrollment programs, as well as a variety of extracurricular activities, such as sports and arts programs. The school helps students and their families receive an education based on Christian principles that prepares them for future challenges. The school supports the Salesian community, which combines learning and service, encouraging students to participate in community service and personal growth.",
+      "pubDate": "Mon, 03 Nov 2025 15:56:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/interlock?d7a09d328732cf07b445b6b8da70a8d6",
+      "group": "Interlock",
+      "victim": "Bishop Ireton High School",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Pinto Coates Kyre & Bowers",
+      "link": "https://www.ransomware.live/id/UGludG8gQ29hdGVzIEt5cmUgJiBCb3dlcnNAaW50ZXJsb2Nr",
+      "summary": "Pinto Coates Kyre &amp; Bowers is a civil litigation law firm based in Greensboro, NC, specializing in defending individuals and corporations as well as representing claimants in diverse legal matters. Due to its easily accessible security, the company was compromised and published publicly! The company and its clients lost a significant amount of confidential information and data!",
+      "pubDate": "Mon, 03 Nov 2025 15:56:30 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/interlock?91ca335125187710f3a70ba10737a1d8",
+      "group": "Interlock",
+      "victim": "Pinto Coates Kyre & Bowers",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Moonlight Basin",
       "link": "https://www.ransomware.live/id/TW9vbmxpZ2h0IEJhc2luQGFraXJh",
@@ -2179,28 +2201,6 @@
       "group": "Clop",
       "victim": "PANAMERICANSILVER.COM",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : COXENTERPRISES.COM",
-      "link": "https://www.ransomware.live/id/Q09YRU5URVJQUklTRVMuQ09NQGNsb3A=",
-      "summary": "[AI generated] Cox Enterprises, Inc. is an American conglomerate based in Atlanta, Georgia. The company was founded by James M. Cox in 1898 and primarily specializes in broadband communications, automotive services, and digital media. The conglomerate comprises Cox Communications, Cox Automotive, and Cox Media Group. They are also involved in sustainability and social initiatives.",
-      "pubDate": "Mon, 27 Oct 2025 11:29:29 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?9cd2565546c127e802617365f54c82a2",
-      "group": "Clop",
-      "victim": "COXENTERPRISES.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : HRSD.COM",
-      "link": "https://www.ransomware.live/id/SFJTRC5DT01AY2xvcA==",
-      "summary": "[AI generated] HRSD.COM, or Hampton Roads Sanitation District (HRSD), is a municipal organization in Virginia, USA. Established in 1940, the company is responsible for wastewater treatment services, aiming to protect public health and the waters of Hampton Roads. They strive to treat sanitary wastewater effectively and resourcefully, reducing pollution and preserving water resources.",
-      "pubDate": "Mon, 27 Oct 2025 11:28:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?90b90d2d916cf069f73e8a060711ab79",
-      "group": "Clop",
-      "victim": "HRSD.COM",
-      "country": "US"
     }
   ]
 }
