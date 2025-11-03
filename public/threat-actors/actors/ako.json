@@ -1,0 +1,26 @@
+{
+  "slug": "ako",
+  "name": "ako",
+  "uuid": null,
+  "description": "A Windows ransomware that will run certain tasks to prepare the target system for the encryption of files. MedusaLocker avoids executable files, probably to avoid rendering the targeted system unusable for paying the ransom. It uses a combination of AES and RSA-2048, and reportedly appends extensions such as .encrypted, .bomber, .boroff, .breakingbad, .locker16, .newlock, .nlocker, and .skynet.",
+  "aliases": [],
+  "refs": [
+    "http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

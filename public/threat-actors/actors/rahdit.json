@@ -1,7 +1,7 @@
 {
   "slug": "rahdit",
   "name": "RaHDit",
-  "uuid": "1e3efe43-9006-4ac8-b9ee-f1fbb9794cd9",
+  "uuid": null,
   "description": "RaHDit is a pro-Kremlin hacktivist group known for orchestrating hack-and-leak operations, including the publication of personal information about Ukrainian military intelligence personnel and their associates. The group has been linked to Russian intelligence and has claimed to provide actionable intelligence to the Russian army. RaHDit operates a website called NemeZida, where they disclose sensitive data, and has been involved in disinformation campaigns supporting Russian narratives. Their activities include collaboration with other hacktivist groups and targeting Ukrainian cyberdefense efforts.",
   "aliases": [
     "Russian Angry Hackers Did It"
@@ -14,17 +14,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://flashpoint.io/blog/pro-kremlin-hacktivist-groups/",
-      "https://news.risky.biz/risky-biz-news-doppelganger-gets-a-kick-in-the-butt-from-uncle-sam/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Russian Angry Hackers Did It"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 730
+  "order": 0
 }

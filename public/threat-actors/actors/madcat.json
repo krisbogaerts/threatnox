@@ -1,0 +1,24 @@
+{
+  "slug": "madcat",
+  "name": "madcat",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://i2gc52bwm2vu2wnohwi3cli7t7hj3y2q7qj3th2bs64h2eej7z5jcgqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

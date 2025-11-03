@@ -1,0 +1,49 @@
+{
+  "slug": "devman",
+  "name": "devman",
+  "uuid": null,
+  "description": "Former RansomHub and INC Ransom affiliate.",
+  "aliases": [
+    "Devman 2.0"
+  ],
+  "refs": [
+    "http://qljmlmp4psnn3wqskkf3alqquatymo6hntficb4rhq5n76kuogcv7zyd.onion/",
+    "http://wugurgyscp5rxpihef5vl6b6m5ont3b6sezhl7boboso2enib2k3q6qd.onion/",
+    "http://devmanblggk7ddrtqj3tsocnayow3bwnozab2s4yhv4shpv6ueitjzid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1210",
+      "T1078",
+      "T1059.001",
+      "T1203",
+      "T1068",
+      "T1036",
+      "T1562.001",
+      "T1003",
+      "T1018",
+      "T1046",
+      "T1082",
+      "T1021.002",
+      "T1005",
+      "T1041",
+      "T1486",
+      "T1490",
+      "T1489",
+      "T1491"
+    ]
+  },
+  "order": 0
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "arkana",
+  "name": "arkana",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://ransomwvbabemdnwl7lzgeenyfmmhskaed6jcruwhkvapsia76vttzyd.onion/",
+    "http://arkanabb66ee4nsdji6la2bu6bwqe3dbtsyf3rxrv6vhiehod7utagad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

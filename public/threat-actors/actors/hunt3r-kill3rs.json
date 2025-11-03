@@ -1,7 +1,7 @@
 {
   "slug": "hunt3r-kill3rs",
   "name": "Hunt3r Kill3rs",
-  "uuid": "4b32ad58-972e-4aa2-be3d-ff875ed06eba",
+  "uuid": null,
   "description": "Hunt3r Kill3rs is a newly emerged threat group claiming expertise in cyber operations, including ICS breaches and web application vulnerabilities exploitation. They have discussed using Java fuzzing in their exploits and have made unverified claims of joint attacks with other threat actors.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://socradar.io/dark-web-profile-hunt3r-kill3rs/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 685
+  "order": 0
 }

@@ -1,0 +1,26 @@
+{
+  "slug": "migo-operator",
+  "name": "Migo operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🏁 Migo operator Tags Cryptojacking Attribution 💰Cybercrime Incidents Migo cryptominer targeting Redis Last edited Mar 11, 2024 5:35 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.cadosecurity.com/migo-a-redis-miner-with-novel-system-weakening-techniques/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

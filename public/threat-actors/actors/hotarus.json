@@ -1,0 +1,24 @@
+{
+  "slug": "hotarus",
+  "name": "hotarus",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

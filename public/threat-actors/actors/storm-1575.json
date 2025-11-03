@@ -1,21 +1,27 @@
 {
   "slug": "storm-1575",
   "name": "Storm-1575",
-  "uuid": "2485a9cb-b41c-43bd-8b1c-c64e919c0a4e",
+  "uuid": null,
   "description": "Storm-1575 is a threat actor identified by Microsoft as being involved in phishing campaigns using the Dadsec platform. They utilize hundreds of Domain Generated Algorithm domains to host credential harvesting pages and target global organizations to steal Microsoft 365 credentials.",
   "aliases": [],
   "refs": [
     "https://www.bridewell.com/insights/blogs/detail/analysing-widespread-microsoft365-credential-harvesting-campaign",
     "https://twitter.com/MsftSecIntel/status/1712936244987019704?lang=en"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.bridewell.com/insights/blogs/detail/analysing-widespread-microsoft365-credential-harvesting-campaign",
-      "https://twitter.com/MsftSecIntel/status/1712936244987019704?lang=en"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 612
+  "order": 0
 }

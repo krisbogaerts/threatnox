@@ -1,7 +1,7 @@
 {
   "slug": "test-panda",
   "name": "TEST PANDA",
-  "uuid": "cd6ac640-9ae9-4aa9-89cd-89b95be1a3ab",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -11,14 +11,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "http://www.slideshare.net/CrowdStrike/crowd-casts-monthly-you-have-an-adversary-problem"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 132
+  "order": 0
 }

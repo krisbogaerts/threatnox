@@ -1,0 +1,27 @@
+{
+  "slug": "bjorka",
+  "name": "Bjorka",
+  "uuid": null,
+  "description": "Bjorka is an underground actor persona that has claimed attacks on victims in a wide range of sectors and geographies. Researchers assess that the Bjorka persona is likely the administrator of a \"data leak site\" discovered in January 2025, which operates under the moniker \"Babuk 2\", ostensibly in reference to the Babuk ransomware that was highly active in the early 2020's. Researchers also assessed that much of the alleged victim data published on the site was likely recycled from previous information leaks.<sup>[[Cyjax Bjorka January 29 2025](/references/1d775a36-8b15-49f8-8c08-f92101e6d1be)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3076"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3076"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

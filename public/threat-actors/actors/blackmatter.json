@@ -1,0 +1,26 @@
+{
+  "slug": "blackmatter",
+  "name": "blackmatter",
+  "uuid": null,
+  "description": "Ransomware-as-a-Service \n",
+  "aliases": [],
+  "refs": [
+    "http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

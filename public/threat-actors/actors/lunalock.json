@@ -1,0 +1,26 @@
+{
+  "slug": "lunalock",
+  "name": "lunalock",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://lunalockcccxzkpfovwzifwxcytqkiuak6wzybnniqwxcmpsetpbetid.onion/",
+    "http://lunachataclss7bvlhk5zxs6pqpunxljeqhrn2bfl6wkhlwqxvgwgayd.onion/",
+    "http://lunalockcccxzkpfovwzifwxcytqkiuak6wzybnniqwxcmpsetpbetid.onion/victim/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

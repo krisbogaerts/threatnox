@@ -1,7 +1,7 @@
 {
   "slug": "unfading-sea-haze",
   "name": "Unfading Sea Haze",
-  "uuid": "58e75098-8edc-48ce-b1de-c1a8647e33d3",
+  "uuid": null,
   "description": "Unfading Sea Haze is a threat actor focused on espionage, targeting government and military organizations in the South China Sea region since 2018. They employ spear-phishing emails with malicious attachments to gain initial access, followed by the deployment of custom malware such as Gh0st RAT variants and SharpJSHandler. The group utilizes scheduled tasks and manipulates local administrator accounts for persistence, while also incorporating Remote Monitoring and Management tools into their attacks. Unfading Sea Haze demonstrates a sophisticated and patient approach, remaining undetected for years and showing adaptability through evolving exfiltration tactics and malware arsenal.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.securityweek.com/newly-detected-chinese-group-targeting-military-government-entities/",
-      "https://www.bleepingcomputer.com/news/security/unfading-sea-haze-hackers-hide-on-military-and-govt-networks-for-6-years/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 680
+  "order": 0
 }

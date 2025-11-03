@@ -1,7 +1,7 @@
 {
   "slug": "ironhusky",
   "name": "IronHusky",
-  "uuid": "34d1e532-3d47-44cb-b87c-7e9cbba2321e",
+  "uuid": null,
   "description": "IronHusky is a Chinese-based threat actor first attributed in July 2017 targeting Russian and Mongolian governments, as well as aviation companies and research institutes. Since their initial attacks ceased in 2018, they have been working on a new remote access trojan dubbed MysterySnail.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://securelist.com/mysterysnail-attacks-with-windows-zero-day/104509/",
-      "https://supportcenter.checkpoint.com/supportcenter/portal?eventSubmit_doGoviewsolutiondetails=&solutionid=sk175885"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 476
+  "order": 0
 }

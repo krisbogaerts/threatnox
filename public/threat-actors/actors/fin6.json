@@ -1,56 +1,58 @@
 {
   "slug": "fin6",
   "name": "FIN6",
-  "uuid": "647894f6-1723-4cba-aba4-0ef0966d5302",
-  "description": "FIN is a group targeting financial assets including assets able to do financial transaction including PoS.",
+  "uuid": null,
+  "description": "[FIN6](https://attack.mitre.org/groups/G0037) is a cyber crime group that has stolen payment card data and sold it for profit on underground marketplaces. This group has aggressively targeted and compromised point of sale (PoS) systems in the hospitality and retail sectors.(Citation: FireEye FIN6 April 2016)(Citation: FireEye FIN6 Apr 2019)",
   "aliases": [
-    "SKELETON SPIDER",
+    "FIN6",
+    "Magecart Group 6",
     "ITG08",
+    "Skeleton Spider",
+    "TAAL",
+    "Camouflage Tempest",
+    "SKELETON SPIDER",
     "MageCart Group 6",
     "White Giant",
     "GOLD FRANKLIN",
     "ATK88",
     "G0037",
-    "Camouflage Tempest",
     "TA4557",
     "Storm-0538"
   ],
   "refs": [
-    "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf",
+    "https://attack.mitre.org/groups/G0037",
+    "https://crowdstrike.lookbookhq.com/global-threat-report-2018-web/cs-2018-global-threat-report",
+    "https://web.archive.org/web/20190807112824/https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf",
     "https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html",
-    "https://attack.mitre.org/groups/G0037/",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+    "https://securityintelligence.com/posts/itg08-aka-fin6-partners-with-trickbot-gang-uses-anchor-framework/",
     "https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/",
+    "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf",
+    "https://attack.mitre.org/groups/G0037/",
     "http://www.secureworks.com/research/threat-profiles/gold-franklin",
     "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/",
     "https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta4557-targets-recruiters-directly-email",
     "https://www.proofpoint.com/us/threat-insight/post/fake-jobs-campaigns-delivering-moreeggs-backdoor-fake-job-offers"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www2.fireeye.com/rs/848-DID-242/images/rpt-fin6.pdf",
-      "https://www.fireeye.com/blog/threat-research/2019/04/pick-six-intercepting-a-fin6-intrusion.html",
-      "https://attack.mitre.org/groups/G0037/",
-      "https://securityintelligence.com/posts/more_eggs-anyone-threat-actor-itg08-strikes-again/",
-      "http://www.secureworks.com/research/threat-profiles/gold-franklin",
-      "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/",
-      "https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta4557-targets-recruiters-directly-email",
-      "https://www.proofpoint.com/us/threat-insight/post/fake-jobs-campaigns-delivering-moreeggs-backdoor-fake-job-offers"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0037"
     ],
-    "synonyms": [
-      "SKELETON SPIDER",
-      "ITG08",
-      "MageCart Group 6",
-      "White Giant",
-      "GOLD FRANKLIN",
-      "ATK88",
-      "G0037",
-      "Camouflage Tempest",
-      "TA4557",
-      "Storm-0538"
-    ]
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0037"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 83
+  "order": 0
 }

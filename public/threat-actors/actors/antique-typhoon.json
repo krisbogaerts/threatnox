@@ -1,0 +1,29 @@
+{
+  "slug": "antique-typhoon",
+  "name": "Antique Typhoon",
+  "uuid": null,
+  "description": "Antique Typhoon (formerly tracked as Storm-0558) is a China-based actor that has espionage objectives. In May 2023, the actor was observed using forged authentication tokens to access email accounts belonging to users at various governmental agencies, and \"related consumer accounts\" in public cloud environments.<sup>[[Microsoft Security Blog July 14 2023](/references/a9cf756b-8157-4cc4-bdab-b10f320487df)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3064"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3064"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

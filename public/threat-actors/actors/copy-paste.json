@@ -1,31 +1,27 @@
 {
   "slug": "copy-paste",
   "name": "Copy-Paste",
-  "uuid": "38d75c89-f243-45ee-87e7-e4675f0c53b3",
+  "uuid": null,
   "description": "The title ‘Copy-paste compromises’ is derived from the actor’s heavy use of tools copied almost identically from open source given by The Australian Government.",
   "aliases": [],
   "refs": [
     "https://www.cyber.gov.au/acsc/view-all-content/alerts/copy-paste-compromises",
     "https://www.cyber.gov.au/acsc/view-all-content/advisories/advisory-2020-008-copy-paste-compromises-tactics-techniques-and-procedures-used-target-multiple-australian-networks"
   ],
-  "countries": [],
-  "sectors": [
-    "Government"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Australia"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "refs": [
-      "https://www.cyber.gov.au/acsc/view-all-content/alerts/copy-paste-compromises",
-      "https://www.cyber.gov.au/acsc/view-all-content/advisories/advisory-2020-008-copy-paste-compromises-tactics-techniques-and-procedures-used-target-multiple-australian-networks"
-    ],
-    "synonyms": []
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 354
+  "order": 0
 }

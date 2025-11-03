@@ -1,0 +1,33 @@
+{
+  "slug": "brain-cipher",
+  "name": "Brain Cipher",
+  "uuid": null,
+  "description": "In mid-June 2024, a new ransomware operation named Brain Cipher emerged, notably targeting Indonesia's National Data Center. This attack disrupted immigration operations at airports and various other government services.",
+  "aliases": [
+    "Ransomware Brain Cipher"
+  ],
+  "refs": [
+    "https://github.com/user-attachments/assets/5ee6e2ac-4882-4d4e-af43-74e5ee682a46",
+    "https://github.com/user-attachments/assets/db7e8109-b020-4971-bac0-3a475d5edda1",
+    "https://github.com/user-attachments/assets/eab540bc-f864-4fd4-bb75-afcf42e1a7a7",
+    "https://github.com/user-attachments/assets/9822e576-6c72-4394-99cd-cd26b05d776b",
+    "https://github.com/user-attachments/assets/9baf1728-5b47-4fae-b1f7-ed4b336a126d",
+    "https://github.com/user-attachments/assets/5eb1969d-01d9-4e7d-a603-09080714efee"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

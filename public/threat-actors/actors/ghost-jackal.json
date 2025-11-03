@@ -1,19 +1,24 @@
 {
   "slug": "ghost-jackal",
   "name": "Ghost Jackal",
-  "uuid": "7ad01582-d6a7-4a40-a0ee-7727e268cd15",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
     "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 127
+  "order": 0
 }

@@ -1,0 +1,26 @@
+{
+  "slug": "mallox",
+  "name": "mallox",
+  "uuid": null,
+  "description": "This ransomware uses a combination of different crypto algorithms (ChaCha20, AES-128, Curve25519). The activity of this malware is dated to mid-June 2021. The extension of the encrypted files are set to the compromised company: .<target_company>",
+  "aliases": [],
+  "refs": [
+    "http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

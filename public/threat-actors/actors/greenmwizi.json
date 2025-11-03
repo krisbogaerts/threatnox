@@ -1,0 +1,27 @@
+{
+  "slug": "greenmwizi",
+  "name": "GreenMwizi",
+  "uuid": null,
+  "description": "GreenMwizi is assessed to be an actor based in Nairobi, Kenya that has carried out scam campaigns involving social media bots. A campaign observed in May 2023 appeared to target customers of a major online travel/hospitality booking brand.<sup>[[GreenMwizi - Kenyan scamming campaign using Twitter bots](/references/3b09696a-1345-4283-a59b-e9a13124ef59)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3001"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3001"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

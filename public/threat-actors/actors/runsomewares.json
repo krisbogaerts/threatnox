@@ -1,0 +1,26 @@
+{
+  "slug": "runsomewares",
+  "name": "RunSomeWares",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://rnsmwareartse3m4hjsumjf222pnka6gad26cqxqmbjvevhbnym5p6ad.onion/",
+    "http://oow7rehrxlzpy6vh3hezl2khstkpa6s7wx3iit74tr6xbjibupld5iad.onion/",
+    "http://nidzkoszg57upoq7wcalm2xxeh4i6uumh36axsnqnj3i7lep5uhkehyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

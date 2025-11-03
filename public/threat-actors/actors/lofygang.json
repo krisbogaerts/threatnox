@@ -1,19 +1,26 @@
 {
   "slug": "lofygang",
   "name": "LofyGang",
-  "uuid": "a47b0f97-30fe-451d-9983-3bdc1e4608ab",
+  "uuid": null,
   "description": "LofyGang has been found to be linked to more than 200 malicious packages, with thousands of installations throughout 2022. The group, believed to have been operating for more than a year, has multiple hacking objectives, including stealing credit card information and stealing user accounts including Discord Inc. premium accounts, streaming services accounts such as Disney+ and Minecraft accounts.",
   "aliases": [],
   "refs": [
     "https://checkmarx.com/blog/lofygang-software-supply-chain-attackers-organized-persistent-and-operating-for-over-a-year/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://checkmarx.com/blog/lofygang-software-supply-chain-attackers-organized-persistent-and-operating-for-over-a-year/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 445
+  "order": 0
 }

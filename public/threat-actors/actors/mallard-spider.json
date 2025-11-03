@@ -1,7 +1,7 @@
 {
   "slug": "mallard-spider",
   "name": "MALLARD SPIDER",
-  "uuid": "08f4bfa6-8326-42b5-a9e2-d6e1c360a160",
+  "uuid": null,
   "description": "Crowdstrike tarcks the operators behind the Qbot as MALLARD SPIDER",
   "aliases": [
     "GOLD LAGOON"
@@ -10,17 +10,20 @@
     "https://www.crowdstrike.com/blog/duck-hunting-with-falcon-complete-analyzing-a-fowl-banking-trojan-part-1/",
     "http://www.secureworks.com/research/threat-profiles/gold-lagoon"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.crowdstrike.com/blog/duck-hunting-with-falcon-complete-analyzing-a-fowl-banking-trojan-part-1/",
-      "http://www.secureworks.com/research/threat-profiles/gold-lagoon"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "GOLD LAGOON"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 308
+  "order": 0
 }

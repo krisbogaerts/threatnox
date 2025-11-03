@@ -1,0 +1,26 @@
+{
+  "slug": "blacklock",
+  "name": "blacklock",
+  "uuid": null,
+  "description": "BlackLock is a rebranded version of another ransomware group known as Eldorado. It has since become one of the most active extortion syndicates in 2025, heavily targeting technology, manufacturing, construction, finance, and retail sectors. ",
+  "aliases": [],
+  "refs": [
+    "http://zdkexsh2e7yihw5uhg5hpsgq3dois2m5je7lzfagij2y6iw5ptl35gyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

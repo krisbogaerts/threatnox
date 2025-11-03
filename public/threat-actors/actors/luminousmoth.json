@@ -1,0 +1,34 @@
+{
+  "slug": "luminousmoth",
+  "name": "LuminousMoth",
+  "uuid": null,
+  "description": "[LuminousMoth](https://attack.mitre.org/groups/G1014) is a Chinese-speaking cyber espionage group that has been active since at least October 2020. [LuminousMoth](https://attack.mitre.org/groups/G1014) has targeted high-profile organizations, including government entities, in Myanmar, the Philippines, Thailand, and other parts of Southeast Asia. Some security researchers have concluded there is a connection between [LuminousMoth](https://attack.mitre.org/groups/G1014) and [Mustang Panda](https://attack.mitre.org/groups/G0129) based on similar targeting and TTPs, as well as network infrastructure overlaps.(Citation: Kaspersky LuminousMoth July 2021)(Citation: Bitdefender LuminousMoth July 2021)",
+  "aliases": [
+    "LuminousMoth"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G1014",
+    "https://www.bitdefender.com/blog/labs/luminousmoth-plugx-file-exfiltration-and-persistence-revisited",
+    "https://securelist.com/apt-luminousmoth/103332/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G1014"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1014"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

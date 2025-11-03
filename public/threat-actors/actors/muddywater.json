@@ -1,97 +1,71 @@
 {
   "slug": "muddywater",
   "name": "MuddyWater",
-  "uuid": "a29af069-03c3-4534-b78b-7d1a77ea085b",
-  "description": "The MuddyWater attacks are primarily against Middle Eastern nations. However, we have also observed attacks against surrounding nations and beyond, including targets in India and the USA. MuddyWater attacks are characterized by the use of a slowly evolving PowerShell-based first stage backdoor we call “POWERSTATS”. Despite broad scrutiny and reports on MuddyWater attacks, the activity continues with only incremental changes to the tools and techniques.",
+  "uuid": null,
+  "description": "[MuddyWater](https://attack.mitre.org/groups/G0069) is a cyber espionage group assessed to be a subordinate element within Iran's Ministry of Intelligence and Security (MOIS).(Citation: CYBERCOM Iranian Intel Cyber January 2022) Since at least 2017, [MuddyWater](https://attack.mitre.org/groups/G0069) has targeted a range of government and private organizations across sectors, including telecommunications, local government, defense, and oil and natural gas organizations, in the Middle East, Asia, Africa, Europe, and North America.(Citation: Unit 42 MuddyWater Nov 2017)(Citation: Symantec MuddyWater Dec 2018)(Citation: ClearSky MuddyWater Nov 2018)(Citation: ClearSky MuddyWater June 2019)(Citation: Reaqta MuddyWater November 2017)(Citation: DHS CISA AA22-055A MuddyWater February 2022)(Citation: Talos MuddyWater Jan 2022)",
   "aliases": [
-    "TEMP.Zagros",
+    "MuddyWater",
+    "Earth Vetala",
+    "MERCURY",
     "Static Kitten",
     "Seedworm",
-    "MERCURY",
+    "TEMP.Zagros",
+    "Mango Sandstorm",
+    "TA450",
     "COBALT ULSTER",
     "G0069",
     "ATK51",
-    "Boggy Serpens",
-    "Mango Sandstorm",
-    "TA450",
-    "Earth Vetala"
+    "Boggy Serpens"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0069",
+    "https://www.clearskysec.com/wp-content/uploads/2018/11/MuddyWater-Operations-in-Lebanon-and-Oman.pdf",
+    "https://www.clearskysec.com/wp-content/uploads/2019/06/Clearsky-Iranian-APT-group-%E2%80%98MuddyWater%E2%80%99-Adds-Exploits-to-Their-Arsenal.pdf",
+    "https://www.cybercom.mil/Media/News/Article/2897570/iranian-intel-cyber-suite-of-malware-uses-open-source-tools/",
+    "https://www.cisa.gov/uscert/ncas/alerts/aa22-055a",
+    "https://researchcenter.paloaltonetworks.com/2017/11/unit42-muddying-the-water-targeted-attacks-in-the-middle-east/",
+    "https://blog.talosintelligence.com/2022/01/iranian-apt-muddywater-targets-turkey.html",
+    "https://www.anomali.com/blog/probable-iranian-cyber-actors-static-kitten-conducting-cyberespionage-campaign-targeting-uae-and-kuwait-government-agencies",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+    "https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta450-uses-embedded-links-pdf-attachments-latest-campaign",
+    "https://www.trendmicro.com/en_us/research/21/c/earth-vetala---muddywater-continues-to-target-organizations-in-t.html",
+    "https://reaqta.com/2017/11/muddywater-apt-targeting-middle-east/",
+    "https://www.fireeye.com/blog/threat-research/2018/03/iranian-threat-group-updates-ttps-in-spear-phishing-campaign.html",
+    "https://www.symantec.com/blogs/threat-intelligence/seedworm-espionage-group",
     "https://unit42.paloaltonetworks.com/unit42-muddying-the-water-targeted-attacks-in-the-middle-east/",
     "https://www.cfr.org/interactive/cyber-operations/muddywater",
-    "https://www.fireeye.com/blog/threat-research/2018/03/iranian-threat-group-updates-ttps-in-spear-phishing-campaign.html",
     "https://blog.trendmicro.com/trendlabs-security-intelligence/campaign-possibly-connected-muddywater-surfaces-middle-east-central-asia/",
     "https://blog.trendmicro.com/trendlabs-security-intelligence/another-potential-muddywater-campaign-uses-powershell-based-prb-backdoor/",
     "https://securelist.com/muddywater/88059/",
-    "https://www.symantec.com/blogs/threat-intelligence/seedworm-espionage-group",
-    "https://www.clearskysec.com/wp-content/uploads/2018/11/MuddyWater-Operations-in-Lebanon-and-Oman.pdf",
     "https://www.clearskysec.com/muddywater-targets-kurdish-groups-turkish-orgs/",
     "https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html",
     "https://www.zdnet.com/article/new-leaks-of-iranian-cyber-espionage-operations-hit-telegram-and-the-dark-web/",
     "https://attack.mitre.org/groups/G0069/",
     "http://www.secureworks.com/research/threat-profiles/cobalt-ulster",
     "https://unit42.paloaltonetworks.com/atoms/boggyserpens/",
-    "https://www.sentinelone.com/blog/the-new-frontline-of-geopolitics-understanding-the-rise-of-state-sponsored-cyber-attacks/",
-    "https://www.trendmicro.com/en_us/research/21/c/earth-vetala---muddywater-continues-to-target-organizations-in-t.html"
+    "https://www.sentinelone.com/blog/the-new-frontline-of-geopolitics-understanding-the-rise-of-state-sponsored-cyber-attacks/"
   ],
   "country": "IR",
   "countries": [
     "IR"
   ],
-  "sectors": [
-    "Government"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
-    "cfr-suspected-victims": [
-      "Saudi Arabia",
-      "Georgia",
-      "Turkey",
-      "Iraq",
-      "Israel",
-      "India",
-      "United Arab Emirates",
-      "Pakistan",
-      "United States"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0069"
     ],
-    "cfr-target-category": [
-      "Government"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "IR",
-    "refs": [
-      "https://unit42.paloaltonetworks.com/unit42-muddying-the-water-targeted-attacks-in-the-middle-east/",
-      "https://www.cfr.org/interactive/cyber-operations/muddywater",
-      "https://www.fireeye.com/blog/threat-research/2018/03/iranian-threat-group-updates-ttps-in-spear-phishing-campaign.html",
-      "https://blog.trendmicro.com/trendlabs-security-intelligence/campaign-possibly-connected-muddywater-surfaces-middle-east-central-asia/",
-      "https://blog.trendmicro.com/trendlabs-security-intelligence/another-potential-muddywater-campaign-uses-powershell-based-prb-backdoor/",
-      "https://securelist.com/muddywater/88059/",
-      "https://www.symantec.com/blogs/threat-intelligence/seedworm-espionage-group",
-      "https://www.clearskysec.com/wp-content/uploads/2018/11/MuddyWater-Operations-in-Lebanon-and-Oman.pdf",
-      "https://www.clearskysec.com/muddywater-targets-kurdish-groups-turkish-orgs/",
-      "https://blog.talosintelligence.com/2019/05/recent-muddywater-associated-blackwater.html",
-      "https://www.zdnet.com/article/new-leaks-of-iranian-cyber-espionage-operations-hit-telegram-and-the-dark-web/",
-      "https://attack.mitre.org/groups/G0069/",
-      "http://www.secureworks.com/research/threat-profiles/cobalt-ulster",
-      "https://unit42.paloaltonetworks.com/atoms/boggyserpens/",
-      "https://www.sentinelone.com/blog/the-new-frontline-of-geopolitics-understanding-the-rise-of-state-sponsored-cyber-attacks/",
-      "https://www.trendmicro.com/en_us/research/21/c/earth-vetala---muddywater-continues-to-target-organizations-in-t.html"
-    ],
-    "synonyms": [
-      "TEMP.Zagros",
-      "Static Kitten",
-      "Seedworm",
-      "MERCURY",
-      "COBALT ULSTER",
-      "G0069",
-      "ATK51",
-      "Boggy Serpens",
-      "Mango Sandstorm",
-      "TA450",
-      "Earth Vetala"
-    ]
+    "external_ids": {
+      "mitre": "G0069"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 155
+  "order": 0
 }

@@ -1,0 +1,40 @@
+{
+  "slug": "axiom",
+  "name": "Axiom",
+  "uuid": null,
+  "description": "[Axiom](https://attack.mitre.org/groups/G0001) is a suspected Chinese cyber espionage group that has targeted the aerospace, defense, government, manufacturing, and media sectors since at least 2008. Some reporting suggests a degree of overlap between [Axiom](https://attack.mitre.org/groups/G0001) and [Winnti Group](https://attack.mitre.org/groups/G0044) but the two groups appear to be distinct based on differences in reporting on TTPs and targeting.(Citation: Kaspersky Winnti April 2013)(Citation: Kaspersky Winnti June 2015)(Citation: Novetta Winnti April 2015)",
+  "aliases": [
+    "Axiom",
+    "Group 72"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0001",
+    "http://blogs.cisco.com/security/talos/threat-spotlight-group-72",
+    "https://securelist.com/winnti-more-than-just-a-game/37029/",
+    "https://web.archive.org/web/20150412223949/http://www.novetta.com/wp-content/uploads/2015/04/novetta_winntianalysis.pdf",
+    "https://web.archive.org/web/20230115144216/http://www.novetta.com/wp-content/uploads/2014/11/Executive_Summary-Final_1.pdf",
+    "https://securelist.com/games-are-over/70991/"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0001"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0001"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

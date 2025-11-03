@@ -1,7 +1,7 @@
 {
   "slug": "unc4736",
   "name": "UNC4736",
-  "uuid": "afe5526e-e5e4-4b05-bc69-2bfb6785fc7e",
+  "uuid": null,
   "description": "UNC4736 is a North Korean threat actor that has been involved in supply chain attacks targeting software chains of 3CX and X_TRADER. They have used malware strains such as TAXHAUL, Coldcat, and VEILEDSIGNAL to compromise Windows and macOS systems. UNC4736 has been linked to financially motivated cybercrime operations, particularly focused on cryptocurrency and fintech-related services. They have also demonstrated infrastructure overlap with other North Korean and APT43 activity.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "KP"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "KP",
-    "refs": [
-      "https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 559
+  "order": 0
 }

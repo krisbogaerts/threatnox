@@ -1,19 +1,26 @@
 {
   "slug": "labhost",
   "name": "LabHost",
-  "uuid": "583cdea6-1d72-44d4-824f-f965e8a23f3e",
+  "uuid": null,
   "description": "LabHost is a threat actor group targeting Canadian Banks with Phishing-as-a-Service attacks. They have been observed using tools like LabRat and LabSend for real-time campaign management and SMS lures. LabHost's phishing campaigns have similarities to Frappo campaigns, but they operate separately and offer different subscription packages.",
   "aliases": [],
   "refs": [
     "https://www.phishlabs.com/blog/phishing-service-profile-labhost-threat-actor-group"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.phishlabs.com/blog/phishing-service-profile-labhost-threat-actor-group"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 636
+  "order": 0
 }

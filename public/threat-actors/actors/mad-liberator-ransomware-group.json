@@ -1,0 +1,27 @@
+{
+  "slug": "mad-liberator-ransomware-group",
+  "name": "Mad Liberator Ransomware Group",
+  "uuid": null,
+  "description": "This object represents a collection of MITRE ATT&CK® Techniques and other objects related to the subject threat. Further contextual details are provided via the sources in the References tab below and any associated Tags.",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3073"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3073"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

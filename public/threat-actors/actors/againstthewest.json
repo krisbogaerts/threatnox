@@ -1,0 +1,24 @@
+{
+  "slug": "againstthewest",
+  "name": "againstthewest",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "big-panda",
   "name": "BIG PANDA",
-  "uuid": "06e89270-ca1b-4cd4-85f3-940d23c76766",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -11,14 +11,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "http://www.darkreading.com/attacks-and-breaches/crowdstrike-falcon-traces-attacks-back-to-hackers/d/d-id/1110402?"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 125
+  "order": 0
 }

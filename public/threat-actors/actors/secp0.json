@@ -1,0 +1,26 @@
+{
+  "slug": "secp0",
+  "name": "secp0",
+  "uuid": null,
+  "description": "Encrypted Extension: .vanhelsing, .vanlocker. Targets Windows Platform only",
+  "aliases": [],
+  "refs": [
+    "http://secponewsxgrlnirowclps2kllzaotaf5w2bsvktdnz4qhjr2jnwvvyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

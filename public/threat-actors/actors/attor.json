@@ -1,27 +1,26 @@
 {
   "slug": "attor",
   "name": "Attor",
-  "uuid": "947a450a-df6c-4c2e-807b-0da8ecea1d26",
+  "uuid": null,
   "description": "Adversary group targeting diplomatic missions and governmental organisations.",
   "aliases": [],
   "refs": [
     "https://www.welivesecurity.com/2019/10/10/eset-discovers-attor-spy-platform"
   ],
-  "countries": [],
-  "sectors": [
-    "Private sector",
-    "Government"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-target-category": [
-      "Private sector",
-      "Government"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "refs": [
-      "https://www.welivesecurity.com/2019/10/10/eset-discovers-attor-spy-platform"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 272
+  "order": 0
 }

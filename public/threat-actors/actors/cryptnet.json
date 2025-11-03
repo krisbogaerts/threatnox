@@ -1,0 +1,27 @@
+{
+  "slug": "cryptnet",
+  "name": "cryptnet",
+  "uuid": null,
+  "description": " According to OALabs, this ransomware has the following features: * Files are encrypted with AES CBC using a generated 256 bit key and IV.* The generated AES keys are encrypted using a hard coded RSA key and appended to the encrypted files.",
+  "aliases": [],
+  "refs": [
+    "http://cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion/login",
+    "http://blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

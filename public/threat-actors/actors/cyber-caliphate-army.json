@@ -1,7 +1,7 @@
 {
   "slug": "cyber-caliphate-army",
   "name": "Cyber Caliphate Army",
-  "uuid": "76f6ad4e-2ff3-4ccb-b81d-18162f290af0",
+  "uuid": null,
   "description": "",
   "aliases": [
     "Islamic State Hacking Division",
@@ -14,21 +14,18 @@
     "https://en.wikipedia.org/wiki/Islamic_State_Hacking_Division",
     "https://ent.siteintelgroup.com/index.php?option=com_customproperties&view=search&task=tag&bind_to_category=content:37&tagId=697"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://en.wikipedia.org/wiki/Islamic_State_Hacking_Division",
-      "https://ent.siteintelgroup.com/index.php?option=com_customproperties&view=search&task=tag&bind_to_category=content:37&tagId=697"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Islamic State Hacking Division",
-      "CCA",
-      "United Cyber Caliphate",
-      "UUC",
-      "CyberCaliphate"
-    ]
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 143
+  "order": 0
 }

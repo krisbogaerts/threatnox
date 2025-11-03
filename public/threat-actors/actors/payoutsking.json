@@ -1,0 +1,26 @@
+{
+  "slug": "payoutsking",
+  "name": "payoutsking",
+  "uuid": null,
+  "description": "",
+  "aliases": [
+    "Payouts King"
+  ],
+  "refs": [
+    "https://payoutsgn7cy6uliwevdqspncjpfxpmzgirwl2au65la7rfs5x3qnbqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

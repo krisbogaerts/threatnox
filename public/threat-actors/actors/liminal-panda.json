@@ -1,7 +1,7 @@
 {
   "slug": "liminal-panda",
   "name": "LIMINAL PANDA",
-  "uuid": "e7a64fd7-5d30-47ec-b9f6-8c555e5f319f",
+  "uuid": null,
   "description": "LIMINAL PANDA is a China-nexus APT that targets telecommunications entities, employing custom malware and publicly available tools for covert access, C2, and data exfiltration. The adversary demonstrates extensive knowledge of telecom networks, utilizing GSM protocols to retrieve mobile subscriber information and call metadata. LIMINAL PANDA exploits trust relationships and security gaps between providers to access core infrastructure, indicating a focus on SIGINT collection rather than financial gain. Their intrusion activity has primarily affected telecom providers in southern Asia and Africa, with potential for broader targeting based on network configurations.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,22 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.crowdstrike.com/en-us/blog/liminal-panda-telecom-sector-threats/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3070"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3070"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 790
+  "order": 0
 }

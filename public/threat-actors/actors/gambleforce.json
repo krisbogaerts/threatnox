@@ -1,19 +1,27 @@
 {
   "slug": "gambleforce",
   "name": "GambleForce",
-  "uuid": "94ce7925-1a37-4b02-a25b-b87a389c92b3",
+  "uuid": null,
   "description": "GambleForce is a threat actor specializing in SQL injection attacks. They have targeted over 20 websites in various sectors across multiple countries, compromising six companies. GambleForce utilizes publicly available pentesting tools and has been active since mid-September 2023.",
   "aliases": [],
   "refs": [
     "https://www.group-ib.com/blog/gambleforce-gang/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.group-ib.com/blog/gambleforce-gang/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 560
+  "order": 0
 }

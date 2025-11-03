@@ -1,0 +1,29 @@
+{
+  "slug": "automated-libra",
+  "name": "Automated Libra",
+  "uuid": null,
+  "description": "Automated Libra is a South African-based freejacking group that primarily targets cloud platforms offering limited-time trials of cloud resources in order to perform their cryptomining operations.<sup>[[Sysdig October 25 2022](/references/177272f8-2701-4803-ab61-f64afa046127)]</sup><sup>[[Unit 42 December 5 2024](/references/bae298f0-71ac-4841-8670-1b805cc7f9dd)]</sup><sup>[[Free Trial PurpleUrchin](/references/841f397d-d103-56d7-9854-7ce43c684879)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "ZA",
+  "countries": [
+    "ZA"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3004"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3004"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

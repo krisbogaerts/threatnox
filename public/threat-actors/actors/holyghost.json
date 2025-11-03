@@ -1,0 +1,24 @@
+{
+  "slug": "holyghost",
+  "name": "holyghost",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

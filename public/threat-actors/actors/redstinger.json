@@ -1,7 +1,7 @@
 {
   "slug": "redstinger",
   "name": "RedStinger",
-  "uuid": "b813c6a2-f8c7-4071-83bd-24c181ff2bd4",
+  "uuid": null,
   "description": "In October 2022, Kaspersky identified an active infection of government, agriculture and transportation organizations located in the Donetsk, Lugansk, and Crimea regions. Although the initial vector of compromise is unclear, the details of the next stage imply the use of spear phishing or similar methods. The victims navigated to a URL pointing to a ZIP archive hosted on a malicious web server.",
   "aliases": [
     "Bad Magic"
@@ -10,17 +10,20 @@
     "https://www.malwarebytes.com/blog/threat-intelligence/2023/05/redstinger",
     "https://securelist.com/bad-magic-apt/109087/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.malwarebytes.com/blog/threat-intelligence/2023/05/redstinger",
-      "https://securelist.com/bad-magic-apt/109087/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Bad Magic"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 455
+  "order": 0
 }

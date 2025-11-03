@@ -1,7 +1,7 @@
 {
   "slug": "curious-gorge",
   "name": "Curious Gorge",
-  "uuid": "6ee284d9-2742-4468-851c-a61366cc9a20",
+  "uuid": null,
   "description": "Curious Gorge, a group TAG attributes to China's PLA SSF, has conducted campaigns against government and military organizations in Ukraine, Russia, Kazakhstan, and Mongolia. The actor has remained active against government, military, logistics and manufacturing organizations in Ukraine, Russia and Central Asia. In Russia, long running campaigns against multiple government organizations have continued, including the Ministry of Foreign Affairs. Over the past week, TAG identified additional compromises impacting multiple Russian defense contractors and manufacturers and a Russian logistics company.",
   "aliases": [
     "UNC3742"
@@ -15,36 +15,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Government",
-    "Military",
-    "Logistics",
-    "Defense Contractor"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Ukraine",
-      "Russia",
-      "Kazakhstan",
-      "Mongolia"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Military",
-      "Logistics",
-      "Defense Contractor"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://blog.google/threat-analysis-group/tracking-cyber-activity-eastern-europe",
-      "https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/",
-      "https://services.google.com/fh/files/blogs/google_fog_of_war_research_report.pdf"
-    ],
-    "synonyms": [
-      "UNC3742"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 358
+  "order": 0
 }

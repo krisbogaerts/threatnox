@@ -1,19 +1,24 @@
 {
   "slug": "andromeda-spider",
   "name": "ANDROMEDA SPIDER",
-  "uuid": "e85ab78c-5e86-403c-b444-9cdcc167fb77",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
     "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://docs.huihoo.com/rsaconference/usa-2014/anf-t07b-the-art-of-attribution-identifying-and-pursuing-your-cyber-adversaries-final.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 142
+  "order": 0
 }

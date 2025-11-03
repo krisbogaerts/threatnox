@@ -1,0 +1,26 @@
+{
+  "slug": "earth-lamia",
+  "name": "Earth Lamia",
+  "uuid": null,
+  "description": "Cloud Threat Landscape Earth Lamia Tags Attribution Incidents Earth Lamia Custom Toolkit Targets Multiple Sectors via Web Vulnerabilities Last edited May 29, 2025 1:36 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/25/e/earth-lamia.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

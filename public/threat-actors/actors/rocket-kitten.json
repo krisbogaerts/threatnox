@@ -1,7 +1,7 @@
 {
   "slug": "rocket-kitten",
   "name": "Rocket Kitten",
-  "uuid": "f873db71-3d53-41d5-b141-530675ade27a",
+  "uuid": null,
   "description": "Targets Saudi Arabia, Israel, US, Iran, high ranking defense officials, embassies of various target countries, notable Iran researchers, human rights activists, media and journalists, academic institutions and various scholars, including scientists in the fields of physics and nuclear sciences.",
   "aliases": [
     "TEMP.Beanie",
@@ -25,63 +25,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [
-    "Government",
-    "Military"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
-    "cfr-suspected-victims": [
-      "Saudi Arabia",
-      "Venezuela",
-      "Afghanistan",
-      "United Arab Emirates",
-      "Iran",
-      "Israel",
-      "Iraq",
-      "Kuwait",
-      "Turkey",
-      "Canada",
-      "Yemen",
-      "United Kingdom",
-      "Egypt",
-      "Syria",
-      "Jordan"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Military"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "IR",
-    "refs": [
-      "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-woolen-goldfish-when-kittens-go-phishing",
-      "https://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-the-spy-kittens-are-back.pdf",
-      "http://www.clearskysec.com/thamar-reservoir/",
-      "https://citizenlab.ca/2015/08/iran_two_factor_phishing/",
-      "https://blog.checkpoint.com/wp-content/uploads/2015/11/rocket-kitten-report.pdf",
-      "https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=5758557d-6e3a-4174-90f3-fa92a712ecd9&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments",
-      "https://researchcenter.paloaltonetworks.com/2017/02/unit42-magic-hound-campaign-attacks-saudi-targets/",
-      "https://en.wikipedia.org/wiki/Rocket_Kitten",
-      "https://www.cfr.org/interactive/cyber-operations/rocket-kitten"
-    ],
-    "synonyms": [
-      "TEMP.Beanie",
-      "Operation Woolen Goldfish",
-      "Operation Woolen-Goldfish",
-      "Thamar Reservoir",
-      "Timberworm"
-    ],
-    "targeted-sector": [
-      "Activists",
-      "Defense",
-      "Journalist",
-      "Research - Innovation",
-      "Academia - University",
-      "Government, Administration"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 48
+  "order": 0
 }

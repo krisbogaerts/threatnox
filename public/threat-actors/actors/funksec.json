@@ -1,19 +1,38 @@
 {
   "slug": "funksec",
   "name": "FunkSec",
-  "uuid": "052519d2-1a4f-49d1-abe6-baffce51fedb",
+  "uuid": null,
   "description": "Funksec is a newly identified extortion group that has claimed 11 victims across various sectors, including media, IT, and education, operating a Tor-based DLS to centralize its ransomware activities. The group advertises a free DDoS tool and may develop its own ransomware binary, indicating significant technical capability. The DLS was likely created in late November to early December 2024, with the first advertisement titled “Funksec Ransomware” posted on 3 December 2024. Currently, there is limited publicly available information on Funksec's TTPs, and it is not known to be associated with any other threat groups.",
   "aliases": [],
   "refs": [
-    "https://www.cyjax.com/resources/blog/take-me-down-to-funksec-town-funksec-ransomware-dls-emergence/"
+    "https://www.cyjax.com/resources/blog/take-me-down-to-funksec-town-funksec-ransomware-dls-emergence/",
+    "http://7ixfdvqb4eaju5lzj4gg76kwlrxg4ugqpuog5oqkkmgfyn33h527oyyd.onion/",
+    "http://pke2vht5jdeninupk7i2thcfvxegsue6oraswpka35breuj7xxz2erid.onion/",
+    "http://ykqjcrptcai76ru5u7jhvspkeizfsvpgovton4jmreawj4zdwe4qnlid.onion/",
+    "http://funkxxkovrk7ctnggbjnthdajav4ggex53k6m2x3esjwlxrkb3qiztid.onion/",
+    "http://funknqn44slwmgwgnewne6bintbooauwkaupik4yrlgtycew3ergraid.onion/",
+    "http://funksec.top/",
+    "http://funksec53xh7j5t6ysgwnaidj5vkh3aqajanplix533kwxdz3qrwugid.onion/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.cyjax.com/resources/blog/take-me-down-to-funksec-town-funksec-ransomware-dls-emergence/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3068",
+      "RWLive"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3068"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 785
+  "order": 0
 }

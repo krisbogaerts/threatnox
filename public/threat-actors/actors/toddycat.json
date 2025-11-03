@@ -1,57 +1,41 @@
 {
   "slug": "toddycat",
   "name": "ToddyCat",
-  "uuid": "091a0b69-74de-44b6-bb12-16b7a8fd078b",
-  "description": "ToddyCat is responsible for multiple sets of attacks detected since December 2020 against high-profile entities in Europe and Asia. There is still little information about this actor, but its main distinctive signs are two formerly unknown tools that Kaspersky call ‘Samurai backdoor’ and ‘Ninja Trojan’.",
+  "uuid": null,
+  "description": "[ToddyCat](https://attack.mitre.org/groups/G1022) is a sophisticated threat group that has been active since at least 2020 using custom loaders and malware in multi-stage infection chains against government and military targets across Europe and Asia.(Citation: Kaspersky ToddyCat June 2022)(Citation: Kaspersky ToddyCat Check Logs October 2023)",
   "aliases": [
+    "ToddyCat",
     "Websiic"
   ],
   "refs": [
-    "https://www.bleepingcomputer.com/news/security/new-toddycat-apt-group-targets-exchange-servers-in-asia-europe/",
+    "https://attack.mitre.org/groups/G1022",
     "https://securelist.com/toddycat/106799/",
+    "https://securelist.com/toddycat-keep-calm-and-check-logs/110696/",
+    "https://www.bleepingcomputer.com/news/security/new-toddycat-apt-group-targets-exchange-servers-in-asia-europe/",
     "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/",
     "https://gteltsc.vn/blog/cap-nhat-nhe-ve-lo-hong-bao-mat-0day-microsoft-exchange-dang-duoc-su-dung-de-tan-cong-cac-to-chuc-tai-viet-nam-9685.html",
     "https://community.riskiq.com/article/d8b749f2",
     "https://teamt5.org/en/posts/assassinations-of-minininja-in-various-apac-countries/"
   ],
-  "countries": [],
-  "sectors": [
-    "Military",
-    "Government"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Afghanistan",
-      "India",
-      "Indonesia",
-      "Iran",
-      "Kyrgyzstan",
-      "Malaysia",
-      "Pakistan",
-      "Russia",
-      "Slovakia",
-      "Taiwan",
-      "Thailand",
-      "United Kingdom",
-      "Uzbekistan",
-      "Vietnam"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1022"
     ],
-    "cfr-target-category": [
-      "Military",
-      "Government"
+    "description_sources": [
+      "MITRE"
     ],
-    "refs": [
-      "https://www.bleepingcomputer.com/news/security/new-toddycat-apt-group-targets-exchange-servers-in-asia-europe/",
-      "https://securelist.com/toddycat/106799/",
-      "https://www.welivesecurity.com/2021/03/10/exchange-servers-under-siege-10-apt-groups/",
-      "https://gteltsc.vn/blog/cap-nhat-nhe-ve-lo-hong-bao-mat-0day-microsoft-exchange-dang-duoc-su-dung-de-tan-cong-cac-to-chuc-tai-viet-nam-9685.html",
-      "https://community.riskiq.com/article/d8b749f2",
-      "https://teamt5.org/en/posts/assassinations-of-minininja-in-various-apac-countries/"
-    ],
-    "synonyms": [
-      "Websiic"
-    ]
+    "external_ids": {
+      "mitre": "G1022"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 366
+  "order": 0
 }

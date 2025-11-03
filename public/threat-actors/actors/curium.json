@@ -1,0 +1,43 @@
+{
+  "slug": "curium",
+  "name": "CURIUM",
+  "uuid": null,
+  "description": "[CURIUM](https://attack.mitre.org/groups/G1012) is an Iranian threat group, first reported in September 2019 and active since at least July 2018, targeting IT service providers in the Middle East.(Citation: Symantec Tortoiseshell 2019) [CURIUM](https://attack.mitre.org/groups/G1012) has since invested in building relationships with potential targets via social media over a period of months to establish trust and confidence before sending malware. Security researchers note [CURIUM](https://attack.mitre.org/groups/G1012) has demonstrated great patience and persistence by chatting with potential targets daily and sending benign files to help lower their security consciousness.(Citation: Microsoft Iranian Threat Actor Trends November 2021)",
+  "aliases": [
+    "CURIUM",
+    "Crimson Sandstorm",
+    "TA456",
+    "Tortoise Shell",
+    "Yellow Liderc"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G1012",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+    "https://www.proofpoint.com/us/blog/threat-insight/i-knew-you-were-trouble-ta456-targets-defense-contractor-alluring-social-media",
+    "https://www.microsoft.com/en-us/security/blog/2021/11/16/evolving-trends-in-iranian-threat-actor-activity-mstic-presentation-at-cyberwarcon-2021",
+    "https://www.pwc.com/gx/en/issues/cybersecurity/cyber-threat-intelligence/yellow-liderc-ships-its-scripts-delivers-imaploader-malware.html",
+    "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/tortoiseshell-apt-supply-chain"
+  ],
+  "country": "IR",
+  "countries": [
+    "IR"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G1012"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1012"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

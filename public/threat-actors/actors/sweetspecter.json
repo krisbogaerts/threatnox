@@ -1,0 +1,29 @@
+{
+  "slug": "sweetspecter",
+  "name": "SweetSpecter",
+  "uuid": null,
+  "description": "SweetSpecter is a suspected Chinese espionage actor that has gained notoriety for using publicly available artificial intelligence capabilities to support its reconnaissance, research, and development efforts.<sup>[[OpenAI CTI Update October 2024](/references/81f40284-12e5-4835-8c14-19fb894e4822)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3071"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3071"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

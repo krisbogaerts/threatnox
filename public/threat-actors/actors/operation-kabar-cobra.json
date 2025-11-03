@@ -1,21 +1,25 @@
 {
   "slug": "operation-kabar-cobra",
   "name": "Operation Kabar Cobra",
-  "uuid": "9ba291f2-b107-402d-9083-3128395ff26e",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
     "http://download.ahnlab.com/kr/site/library/%5bAnalysis_Report%5dOperation_Kabar_Cobra.pdf",
     "https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?menu_dist=2&curPage=1&seq=28102"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "http://download.ahnlab.com/kr/site/library/%5bAnalysis_Report%5dOperation_Kabar_Cobra.pdf",
-      "https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?menu_dist=2&curPage=1&seq=28102"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 217
+  "order": 0
 }

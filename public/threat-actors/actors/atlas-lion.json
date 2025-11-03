@@ -1,0 +1,29 @@
+{
+  "slug": "atlas-lion",
+  "name": "Atlas Lion",
+  "uuid": null,
+  "description": "Atlas Lion phishing campaign Atlas Lion Campaign Exploits Device Enrollment and MFA for Persistence Last edited May 26, 2024 7:56 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [
+    "Storm-0539"
+  ],
+  "refs": [
+    "https://expel.com/blog/observing-atlas-lion-part-one/",
+    "https://www.ic3.gov/Media/News/2024/240507.pdf"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

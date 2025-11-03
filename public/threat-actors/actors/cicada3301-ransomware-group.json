@@ -1,0 +1,27 @@
+{
+  "slug": "cicada3301-ransomware-group",
+  "name": "Cicada3301 Ransomware Group",
+  "uuid": null,
+  "description": "A suspected ransomware-as-a-service (\"RaaS\") group first observed in June 2024, which extorts victims via traditional ransomware encryption and by threatening to leak allegedly exfiltrated data onto the web.<sup>[[Truesec AB August 30 2024](/references/de2de0a9-17d2-41c2-838b-7850762b80ae)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3051"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3051"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

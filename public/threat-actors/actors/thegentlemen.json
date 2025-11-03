@@ -1,0 +1,24 @@
+{
+  "slug": "thegentlemen",
+  "name": "thegentlemen",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

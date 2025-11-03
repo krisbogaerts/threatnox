@@ -1,7 +1,7 @@
 {
   "slug": "defrayx",
   "name": "DefrayX",
-  "uuid": "9c102b55-29ea-4d90-9b36-33ba42f65d79",
+  "uuid": null,
   "description": "DefrayX is a threat actor group known for their RansomExx ransomware operations. They primarily target Linux operating systems, but also release versions for Windows. The group has been active since 2018 and has targeted various sectors, including healthcare and manufacturing. They have also developed other malware strains such as PyXie RAT, Vatet loader, and Defray ransomware.",
   "aliases": [
     "Hive0091"
@@ -11,18 +11,20 @@
     "https://research.checkpoint.com/2022/28th-november-threat-intelligence-report/",
     "https://securityintelligence.com/posts/ransomexx-upgrades-rust/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://securityaffairs.co/wordpress/138933/malware/ransomexx-ransomware-rust-language.html",
-      "https://research.checkpoint.com/2022/28th-november-threat-intelligence-report/",
-      "https://securityintelligence.com/posts/ransomexx-upgrades-rust/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Hive0091"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 524
+  "order": 0
 }

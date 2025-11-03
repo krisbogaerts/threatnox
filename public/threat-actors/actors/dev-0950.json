@@ -1,7 +1,7 @@
 {
   "slug": "dev-0950",
   "name": "DEV-0950",
-  "uuid": "4581f930-348e-4054-a71c-863871de66ee",
+  "uuid": null,
   "description": "Lace Tempest, also known as DEV-0950, is a threat actor that exploited vulnerabilities in software such as SysAid and PaperCut to gain unauthorized access to systems. Lace Tempest is known for deploying the Clop ransomware and exfiltrating data from compromised networks.",
   "aliases": [
     "Lace Tempest"
@@ -9,16 +9,20 @@
   "refs": [
     "http://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "http://www.microsoft.com/en-us/security/blog/2022/10/27/raspberry-robin-worm-part-of-larger-ecosystem-facilitating-pre-ransomware-activity/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Lace Tempest"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 493
+  "order": 0
 }

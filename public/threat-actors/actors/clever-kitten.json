@@ -1,7 +1,7 @@
 {
   "slug": "clever-kitten",
   "name": "Clever Kitten",
-  "uuid": "d56c99fa-4710-472c-81a6-41b7a84ea4be",
+  "uuid": null,
   "description": "",
   "aliases": [
     "Group 41"
@@ -13,17 +13,16 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "IR",
-    "refs": [
-      "http://www.crowdstrike.com/blog/whois-clever-kitten/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Group 41"
-    ]
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 141
+  "order": 0
 }

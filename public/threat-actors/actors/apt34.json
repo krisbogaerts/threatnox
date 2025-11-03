@@ -1,0 +1,50 @@
+{
+  "slug": "apt34",
+  "name": "APT34",
+  "uuid": null,
+  "description": "OilRig, also known as APT34, is an Iranian threat group active since at least 2014, primarily targeting organizations in the Middle East across industries such as finance, government, energy, and telecommunications. Occasionally, it has extended operations beyond the region. OilRig leverages both social engineering and supply chain attacks, relying heavily on stolen credentials for lateral movement. Though it rarely exploits software vulnerabilities, the group demonstrates advanced capabilities through custom tools, including DNS tunneling protocols, web shells, and backdoors. Their operations align with Iranian national interests, leading researchers to assess that the group operates on behalf of the Iranian government.",
+  "aliases": [
+    "ATK40",
+    "Cobalt Gypsy",
+    "Crambus",
+    "EUROPIUM",
+    "Evasive Serpens",
+    "G0049",
+    "Hazel Sandstorm",
+    "Helix Kitten",
+    "IRN2",
+    "OilRig",
+    "TA452",
+    "Twisted Kitten"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0057",
+    "https://www.trendmicro.com/en_us/research/24/j/earth-simnavaz-cyberattacks-uae-gulf-regions.html"
+  ],
+  "country": null,
+  "countries": [
+    "Middle East"
+  ],
+  "sectors": [
+    "Telecommunication",
+    "Finance",
+    "Government",
+    "Energy"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": {
+      "mitre": "G0057"
+    },
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

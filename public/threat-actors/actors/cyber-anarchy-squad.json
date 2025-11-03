@@ -1,0 +1,31 @@
+{
+  "slug": "cyber-anarchy-squad",
+  "name": "Cyber.Anarchy.Squad",
+  "uuid": null,
+  "description": "Cyber Anarchy Squad is a pro-Ukrainian hacktivist group known for targeting Russian companies and infrastructure. They have carried out cyberattacks on Russian telecom providers, financial institutions, and government agencies, causing disruptions to services and leaking stolen data. The group has used techniques such as wiping network equipment, defacing websites, and leaking sensitive documents to support their cause. Cyber Anarchy Squad has been active for at least four years, evolving from cyber-bullying to more sophisticated hacking activities.",
+  "aliases": [
+    "Cyber Anarchy Squad"
+  ],
+  "refs": [
+    "https://srslyriskybiz.substack.com/p/russias-extradition-wars-are-not",
+    "https://therecord.media/proukraine-hackers-claim-to-take-down-russian-isp"
+  ],
+  "country": "UA",
+  "countries": [
+    "UA"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

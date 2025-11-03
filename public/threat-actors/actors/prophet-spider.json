@@ -1,11 +1,12 @@
 {
   "slug": "prophet-spider",
   "name": "Prophet Spider",
-  "uuid": "eb0b100c-8a4e-4859-b6f8-eebd66c3d20c",
+  "uuid": null,
   "description": "PROPHET SPIDER is an eCrime actor, active since at least May 2017, that primarily gains access to victims by compromising vulnerable web servers, which commonly involves leveraging a variety of publicly disclosed vulnerabilities. The adversary has likely functioned as an access broker — handing off access to a third party to deploy ransomware — in multiple instances.",
   "aliases": [
     "GOLD MELODY",
-    "UNC961"
+    "UNC961",
+    "Gold Melody"
   ],
   "refs": [
     "https://www.crowdstrike.com/blog/prophet-spider-exploits-oracle-weblogic-to-facilitate-ransomware-activity/",
@@ -13,24 +14,21 @@
     "https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker",
     "https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated"
   ],
-  "country": "",
-  "countries": [
-    ""
-  ],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "",
-    "refs": [
-      "https://www.crowdstrike.com/blog/prophet-spider-exploits-oracle-weblogic-to-facilitate-ransomware-activity/",
-      "https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/",
-      "https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker",
-      "https://www.mandiant.com/resources/blog/unc961-multiverse-financially-motivated"
+    "sources": [
+      "MISP:threat-actor",
+      "Wiz"
     ],
-    "synonyms": [
-      "GOLD MELODY",
-      "UNC961"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 416
+  "order": 0
 }

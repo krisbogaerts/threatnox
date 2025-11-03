@@ -1,0 +1,27 @@
+{
+  "slug": "zloader-threat-actors",
+  "name": "Zloader Threat Actors",
+  "uuid": null,
+  "description": "This object reflects the TTPs used by threat actors to distribute and deploy the Zloader trojan malware. Researchers have observed actors distributing Zloader in campaigns without attributing the activity to named adversaries, such as the operations described by ESET researchers cited in the References.<sup>[[WeLiveSecurity April 19 2022](/references/f86845b9-03c4-446b-845f-b31b79b247ee)]</sup>\n\nTTPs associated with Zloader binaries themselves can be found in the separate \"Zloader\" Software object.",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3034"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3034"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

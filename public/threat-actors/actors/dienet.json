@@ -1,7 +1,7 @@
 {
   "slug": "dienet",
   "name": "DieNet",
-  "uuid": "82318cc9-41d6-4143-9c20-edbc12538c56",
+  "uuid": null,
   "description": "DieNet is a hacktivist group that emerged in March 2025, known for conducting DDoS attacks targeting entities associated with political figures, such as Trump businesses. The group has claimed responsibility for disabling ten significant Iraqi websites, framing the action as support for their affiliates in the “Shiite Harvest.” Their operations suggest motivations rooted in sectarian dynamics, with a coordinated effort indicated by the use of hashtags like #DieNet and #Shiite_Harvest. This reflects the use of cyber offensives as tools for political and ideological expression, mirroring offline sectarian tensions.",
   "aliases": [
     "Shiite_Harvest"
@@ -9,16 +9,20 @@
   "refs": [
     "https://cybershafarat.com/2025/03/10/dienet-and-shiite_harvest-claimed-responsibility-for-disabling-ten-significant-iraqi-websites/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://cybershafarat.com/2025/03/10/dienet-and-shiite_harvest-claimed-responsibility-for-disabling-ten-significant-iraqi-websites/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Shiite_Harvest"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 828
+  "order": 0
 }

@@ -1,0 +1,49 @@
+{
+  "slug": "0ktapus",
+  "name": "0ktapus",
+  "uuid": null,
+  "description": "The 0ktapus cyber group, also known by aliases such as ScatterSwine, UNC3944, Scattered Spider, and Muddled Libra, is a cybercrime group known for its phishing campaigns and credential theft operations. The group gained particular notoriety for targeting organizations primarily in the United States across various sectors, aiming to steal credentials that could grant them access to victim networks and resources. Their tactics often involve the use of SMS phishing (smishing) and voice phishing (vishing) to deceive employees into revealing their login details, particularly focusing on circumventing multi-factor authentication mechanisms.",
+  "aliases": [
+    "LUCR-3",
+    "Muddled Libra",
+    "Octo Tempest",
+    "ScatterSwine",
+    "Scattered Spider",
+    "Storm-0875",
+    "UNC3944"
+  ],
+  "refs": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/unc3944-targets-saas-applications/",
+    "https://github.com/blackorbird/APT_REPORT/blob/master/summary/2024/crowdstrike-2024-threat-hunting-report.pdf",
+    "https://go.crowdstrike.com/rs/281-OBQ-266/images/report-crowdstrike-2023-threat-hunting-report.pdf",
+    "https://permiso.io/blog/lucr-3-scattered-spider-getting-saas-y-in-the-cloud",
+    "https://unit42.paloaltonetworks.com/muddled-libra-evolution-to-cloud/",
+    "https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/"
+  ],
+  "country": null,
+  "countries": [
+    "Europe",
+    "United States/North America"
+  ],
+  "sectors": [
+    "Gaming",
+    "Finance",
+    "Retail",
+    "Aerospace",
+    "Telecommunication",
+    "Technological"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

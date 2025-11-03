@@ -1,0 +1,26 @@
+{
+  "slug": "unk-sparkycarp",
+  "name": "UNK_SparkyCarp",
+  "uuid": null,
+  "description": "Between March and June 2025, Proofpoint identified multiple China-aligned threat actors specifically targeting Taiwanese organizations within the semiconductor industry. This included a China-aligned threat actor tracked as UNK_FistBump targeting semiconductor design, manufacturing, and supply chain organizations in employment-themed phishing campaigns resulting in the delivery of Cobalt Strike or the custom Voldemort backdoor.  Additionally, Proofpoint observed another China-aligned threat actor tracked as UNK_DropPitch targeting individuals in multiple major investment firms who specialize in investment analysis specifically within the Taiwanese semiconductor industry. This UNK_DropPitch targeting is exemplary of intelligence collection priorities spanning less obvious areas of the semiconductor ecosystem beyond just design and manufacturing entities. Finally, we also observed an actor tracked as UNK_SparkyCarp conducting credential phishing activity against a Taiwanese semiconductor company using a custom Adversary in the Middle (AiTM) phishing kit.",
+  "aliases": [],
+  "refs": [
+    "https://www.proofpoint.com/us/blog/threat-insight/phish-china-aligned-espionage-actors-ramp-up-taiwan-semiconductor-targeting"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "bl00dy-ransomware-gang",
+  "name": "Bl00dy Ransomware Gang",
+  "uuid": null,
+  "description": "Bl00dy self-identifies as a ransomware group. It gained attention in May 2023 for a series of data exfiltration and encryption attacks against education entities in the United States that featured exploit of vulnerabilities in PaperCut print management software, which is prevalent in the sector.<sup>[[U.S. CISA PaperCut May 2023](/references/b5ef2b97-7cc7-470b-ae97-a45dc4af32a6)]</sup>\n\n**Related Vulnerabilities**: CVE-2023-27350<sup>[[U.S. CISA PaperCut May 2023](/references/b5ef2b97-7cc7-470b-ae97-a45dc4af32a6)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3010"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3010"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

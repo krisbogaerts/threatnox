@@ -1,21 +1,27 @@
 {
   "slug": "sambaspider",
   "name": "SAMBASPIDER",
-  "uuid": "0b71d2db-93fe-49b5-a9fd-7f8c94b86637",
+  "uuid": null,
   "description": "SAMBASPIDER is a threat actor associated to the Mispadu malware. On July 24, USDoD allegedly scraped and leaked a 100,000-line Indicator of Compromise list from CrowdStrike, revealing detailed threat intelligence data. The leak, posted on Breach Forums, includes critical insights into the Mispadu malware and SAMBASPIDER threat actor.",
   "aliases": [],
   "refs": [
     "https://hackread.com/hacker-scrapes-publishes-crowdstrike-ioc-list/",
     "https://www.crowdstrike.com/blog/hacktivist-usdod-claims-to-have-leaked-threat-actor-list/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://hackread.com/hacker-scrapes-publishes-crowdstrike-ioc-list/",
-      "https://www.crowdstrike.com/blog/hacktivist-usdod-claims-to-have-leaked-threat-actor-list/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 718
+  "order": 0
 }

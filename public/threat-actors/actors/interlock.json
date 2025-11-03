@@ -1,0 +1,28 @@
+{
+  "slug": "interlock",
+  "name": "interlock",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://blog.talosintelligence.com/emerging-interlock-ransomware/",
+    "https://blog.sekoia.io/interlock-ransomware-evolving-under-the-radar/",
+    "https://www.cisa.gov/news-events/alerts/2025/07/22/joint-advisory-issued-protecting-against-interlock-ransomware",
+    "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/leaks.php",
+    "http://ebhmkoohccl45qesdbvrjqtyro2hmhkmh6vkyfyjjzfllm3ix72aqaid.onion/support/step.php"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

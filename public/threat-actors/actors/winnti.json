@@ -1,0 +1,31 @@
+{
+  "slug": "winnti",
+  "name": "Winnti",
+  "uuid": null,
+  "description": "The Winnti Group, a Chinese-origin threat actor, has been active since at least 2010. Initially focused on the gaming industry, the group has since broadened its range of targets. Reports indicate potential links between Winnti and other groups such as Axiom, APT17, and Ke3chang.",
+  "aliases": [
+    "APT17"
+  ],
+  "refs": [
+    "https://blog.xlab.qianxin.com/glutton_stealthily_targets_mainstream_php_frameworks-en/",
+    "https://thehackernews.com/2025/02/winnti-apt41-targets-japanese-firms-in.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": [
+    "Gaming"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

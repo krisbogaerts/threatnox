@@ -1,0 +1,26 @@
+{
+  "slug": "crazyhunter-operator",
+  "name": "CrazyHunter operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape CrazyHunter operator Tags Attribution Incidents CrazyHunter Ransomware Group Targets Critical Sectors in Taiwan Last edited Apr 16, 2025 1:40 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/25/d/crazyhunter-campaign.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

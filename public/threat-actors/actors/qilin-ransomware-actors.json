@@ -1,0 +1,27 @@
+{
+  "slug": "qilin-ransomware-actors",
+  "name": "Qilin Ransomware Actors",
+  "uuid": null,
+  "description": "An object to catalog the TTP and threat object relationships associated with actors known to deploy Qilin ransomware and variants.",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3108"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3108"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

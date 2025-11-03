@@ -1,0 +1,26 @@
+{
+  "slug": "vendetta",
+  "name": "vendetta",
+  "uuid": null,
+  "description": "Ransomware, which appears to be a rebranding of win.cuba.",
+  "aliases": [],
+  "refs": [
+    "http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "cactus-ransomware",
+  "name": "Cactus Ransomware",
+  "uuid": null,
+  "description": "The CACTUS ransomware is said to have emerged around March 2023. The group became known for exploiting vulnerabilities to gain initial access and maintain a presence within the organization's infrastructure.",
+  "aliases": [
+    "History"
+  ],
+  "refs": [
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/bc3f3613-8ede-4d4e-bc84-73c9348ee2b3",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/a4366658-ea24-4179-a738-4115af212482",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/327e49f2-bb83-4ce9-a61b-d40e06567a3b",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/a284e0e7-1130-49fd-b4e1-542dcf52c610",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/47fd0800-a43d-44bd-ad8a-9d54e977b0ab",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/a6dbc0cf-4a75-4b2c-bd9c-255effc1a639",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/8a5d24e8-2279-4ff4-b9f1-89cf3bf87d96",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/145f47f6-ef87-4133-93b4-a38ac017cee2",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/ab4aa2a7-3ebd-43d8-a3c9-60c470aa4def"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1003.001",
+      "T1018",
+      "T1021.001",
+      "T1021.004",
+      "T1027",
+      "T1027.002",
+      "T1049",
+      "T1053.005",
+      "T1072",
+      "T1087",
+      "T1087.002",
+      "T1090",
+      "T1136",
+      "T1190",
+      "T1219",
+      "T1486",
+      "T1538.008",
+      "T1555.003",
+      "T1562.001",
+      "T1567.002",
+      "T1570",
+      "T1057",
+      "T1071",
+      "T1071.001",
+      "T1082",
+      "T1083",
+      "T1106",
+      "T1129",
+      "T1547",
+      "T1562"
+    ]
+  },
+  "order": 0
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "rincrypt",
+  "name": "Rincrypt",
+  "uuid": null,
+  "description": "As the ransomware landscape becomes increasingly accessible to threat actors, along with the emergence of new ransomware groups, this report will address Rincrypt Ransomware, which has been observed to be a variant of Chaos Ransomware.",
+  "aliases": [
+    "Ransomware Rincrypt"
+  ],
+  "refs": [
+    "https://github.com/user-attachments/assets/449a98e7-7163-4416-96ab-705fa9f3063b",
+    "https://github.com/user-attachments/assets/87529e66-84ec-4dab-9a84-1647b2e744b1",
+    "https://github.com/user-attachments/assets/8dff98e3-591d-4aae-88e1-791525a2d42b"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1005",
+      "T1027",
+      "T1036",
+      "T1059",
+      "T1082",
+      "T1083",
+      "T1129",
+      "T1140",
+      "T1202",
+      "T1486",
+      "T1497.001",
+      "T1518.001",
+      "T1548",
+      "T1574.002"
+    ]
+  },
+  "order": 0
+}

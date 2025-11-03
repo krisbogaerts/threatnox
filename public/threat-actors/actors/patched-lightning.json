@@ -1,19 +1,24 @@
 {
   "slug": "patched-lightning",
   "name": "Patched Lightning",
-  "uuid": "3071973c-b3da-4c74-8fec-3cd6138bf146",
+  "uuid": null,
   "description": "",
   "aliases": [
     "Storm-0113"
   ],
   "refs": [],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "synonyms": [
-      "Storm-0113"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 856
+  "order": 0
 }

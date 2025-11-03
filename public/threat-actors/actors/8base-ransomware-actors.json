@@ -1,0 +1,72 @@
+{
+  "slug": "8base-ransomware-actors",
+  "name": "8Base Ransomware Actors",
+  "uuid": null,
+  "description": "This object represents the behaviors associated with operators of 8Base ransomware, who may or may not operate as a cohesive unit. Behaviors associated with samples of 8Base ransomware are represented in the \"8Base Ransomware\" Software object.\n \nThe 8Base ransomware operation began claiming significant numbers of victims on its data leak site in June 2023, including organizations in a range of sectors. Researchers have observed considerable similarities between aspects of 8Base's operations and those of other ransomware groups, leading them to suspect that 8Base may be an evolution or offshoot of existing operations. The language in 8Base's ransom notes is similar to the language seen in RansomHouse's notes, and there is strong overlap between the code of Phobos ransomware and 8Base.<sup>[[VMWare 8Base June 28 2023](/references/573e9520-6181-4535-9ed3-2338688a8e9f)]</sup><sup>[[Acronis 8Base July 17 2023](/references/c9822477-1578-4068-9882-41e4d6eaee3f)]</sup>",
+  "aliases": [
+    "8Base Ransomware Group"
+  ],
+  "refs": [
+    "http://basemmnnqwxevlymli5bs36o5ynti55xojzvn246spahniugwkff2pad.onion/",
+    "http://xb6q2aggycmlcrjtbjendcnnwpmmwbosqaugxsqb4nx6cmod3emy7sad.onion/",
+    "http://92.118.36.204/",
+    "http://xfycpauc22t5jsmfjcaz2oydrrrfy75zuk6chr32664bsscq4fgyaaqd.onion/",
+    "https://www.ransomware.live/group/8base"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3014",
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3014"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1053",
+      "T1059",
+      "T1129",
+      "T1547",
+      "T1547.001",
+      "T1134.001",
+      "T1027",
+      "T1112",
+      "T1202",
+      "T1027.002",
+      "T1036",
+      "T1564.001",
+      "T1070.004",
+      "T1497",
+      "T1562.001",
+      "T1003",
+      "T1056",
+      "T1057",
+      "T1135",
+      "T1082",
+      "T1083",
+      "T1518.001",
+      "T1080",
+      "T1005",
+      "T1074",
+      "T1490",
+      "T1486",
+      "T1485",
+      "T1105",
+      "T1203",
+      "T1566",
+      "T1567",
+      "T1587.001",
+      "T1657"
+    ]
+  },
+  "order": 0
+}

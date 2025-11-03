@@ -1,0 +1,35 @@
+{
+  "slug": "moafee",
+  "name": "Moafee",
+  "uuid": null,
+  "description": "[Moafee](https://attack.mitre.org/groups/G0002) is a threat group that appears to operate from the Guandong Province of China. Due to overlapping TTPs, including similar custom tools, Moafee is thought to have a direct or indirect relationship with the threat group [DragonOK](https://attack.mitre.org/groups/G0017). (Citation: Haq 2014)",
+  "aliases": [
+    "Moafee"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0002",
+    "https://www.fireeye.com/blog/threat-research/2014/09/the-path-to-mass-producing-cyber-attacks.html"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0002"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0002"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

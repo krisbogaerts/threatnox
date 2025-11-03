@@ -1,0 +1,25 @@
+{
+  "slug": "payloadbin",
+  "name": "payloadbin",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions",
+    "http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

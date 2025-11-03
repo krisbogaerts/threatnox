@@ -1,7 +1,7 @@
 {
   "slug": "driftingcloud",
   "name": "DriftingCloud",
-  "uuid": "6f6b187b-971b-4df9-a7ef-9b3fd7e092f7",
+  "uuid": null,
   "description": "DriftingCloud is a persistent threat actor known for targeting various industries and locations. They are skilled at developing or acquiring zero-day exploits to gain unauthorized access to target networks. Compromising gateway devices is a common tactic used by DriftingCloud, making network monitoring solutions crucial for detecting their attacks.",
   "aliases": [],
   "refs": [
@@ -13,15 +13,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://socradar.io/driftingcloud-apt-group-exploits-zero-day-in-sophos-firewall/",
-      "https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/",
-      "https://www.trendmicro.com/en_us/research/23/g/supply-chain-attack-targeting-pakistani-government-delivers-shad.html"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 510
+  "order": 0
 }

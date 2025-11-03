@@ -1,0 +1,27 @@
+{
+  "slug": "scarlet-goldfinch",
+  "name": "Scarlet Goldfinch",
+  "uuid": null,
+  "description": "Scarlet Goldfinch is a threat activity cluster that typically tricks victims into downloading files that appear to be web browser updates, with the file ultimately leading to the deployment of NetSupport Manager, a remote monitoring and management (RMM) utility that has been heavily abused by adversaries.<sup>[[Red Canary June 26 2024](/references/e0d62504-6fec-4d95-9f4a-e0dda7e7b6d9)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3056"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3056"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

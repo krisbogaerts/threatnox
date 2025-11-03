@@ -1,0 +1,48 @@
+{
+  "slug": "hunt-dharma-crysis",
+  "name": "Hunt-Dharma-Crysis",
+  "uuid": null,
+  "description": "Hunt ransomware is a variant of the Dharma/CrySIS ransomware family. This variant creates a unique ID for each victim, appends the extension '.hunt' to encrypted files, and leaves a ransom note known as info-hunt.txt.",
+  "aliases": [
+    "Ransomware Hunt-Dharma-Crysis"
+  ],
+  "refs": [
+    "https://github.com/user-attachments/assets/69baa7e6-24f8-445e-bc2d-9f8ed35e9ce0"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1027",
+      "T1027.002",
+      "T1036",
+      "T1056",
+      "T1057",
+      "T1059",
+      "T1070.006",
+      "T1082",
+      "T1083",
+      "T1112",
+      "T1129",
+      "T1140",
+      "T1486",
+      "T1497",
+      "T1518.001",
+      "T1547",
+      "T1547.001",
+      "T1562.001",
+      "T1569.002"
+    ]
+  },
+  "order": 0
+}

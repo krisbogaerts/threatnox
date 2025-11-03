@@ -1,0 +1,24 @@
+{
+  "slug": "satanlockv2",
+  "name": "satanlockv2",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://tzhwmgguyxrg6q3tu4q3gvopcjynrhw6ryx2bdl5ghisdkyunfua5xyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

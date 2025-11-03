@@ -1,29 +1,40 @@
 {
   "slug": "unc3886",
   "name": "UNC3886",
-  "uuid": "8c08dbe7-3ed0-4d7d-b315-22d8774a5bd9",
-  "description": "UNC3886 is an advanced cyber espionage group with unique capabilities in how they operate on-network as well as the tools they utilize in their campaigns. UNC3886 has been observed targeting firewall and virtualization technologies which lack EDR support. Their ability to manipulate firewall firmware and exploit a zero-day indicates they have curated a deeper-level of understanding of such technologies. UNC3886 has modified publicly available malware, specifically targeting *nix operating systems.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[UNC3886](https://attack.mitre.org/groups/G1048) is a China-nexus cyberespionage group that has been active since at least 2022, targeting defense, technology, and telecommunication organizations located in the United States and the Asia-Pacific-Japan (APJ) regions. [UNC3886](https://attack.mitre.org/groups/G1048) has displayed a deep understanding of edge devices and virtualization technologies through the exploitation of zero-day vulnerabilities and the use of novel malware families and utilities.(Citation: Mandiant Fortinet Zero Day)(Citation: Google Cloud Threat Intelligence VMWare ESXi Zero-Day 2023)",
+  "aliases": [
+    "UNC3886"
+  ],
   "refs": [
+    "https://attack.mitre.org/groups/G1048",
+    "https://cloud.google.com/blog/topics/threat-intelligence/vmware-esxi-zero-day-bypass/",
     "https://www.mandiant.com/resources/blog/fortinet-malware-ecosystem",
     "https://www.mandiant.com/resources/blog/esxi-hypervisors-malware-persistence",
     "https://www.mandiant.com/resources/blog/vmware-esxi-zero-day-bypass",
-    "https://www.mandiant.com/resources/blog/vmware-detection-containment-hardening"
+    "https://www.mandiant.com/resources/blog/vmware-detection-containment-hardening",
+    "https://cloud.google.com/blog/topics/threat-intelligence/uncovering-unc3886-espionage-operations"
   ],
   "country": "CN",
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.mandiant.com/resources/blog/fortinet-malware-ecosystem",
-      "https://www.mandiant.com/resources/blog/esxi-hypervisors-malware-persistence",
-      "https://www.mandiant.com/resources/blog/vmware-esxi-zero-day-bypass",
-      "https://www.mandiant.com/resources/blog/vmware-detection-containment-hardening"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1048"
+    },
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 438
+  "order": 0
 }

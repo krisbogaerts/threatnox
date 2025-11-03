@@ -1,30 +1,27 @@
 {
   "slug": "invisimole",
   "name": "InvisiMole",
-  "uuid": "87af83a4-ced4-4e7c-96a6-86612dc095b1",
+  "uuid": null,
   "description": "Adversary group targeting diplomatic missions, governmental and military organisations, mainly in Ukraine.",
   "aliases": [],
   "refs": [
     "https://www.welivesecurity.com/2018/06/07/invisimole-equipped-spyware-undercover/",
     "https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/"
   ],
-  "countries": [],
-  "sectors": [
-    "Government"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Ukraine"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "refs": [
-      "https://www.welivesecurity.com/2018/06/07/invisimole-equipped-spyware-undercover/",
-      "https://www.welivesecurity.com/2020/06/18/digging-up-invisimole-hidden-arsenal/"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 274
+  "order": 0
 }

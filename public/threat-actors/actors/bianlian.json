@@ -1,0 +1,47 @@
+{
+  "slug": "bianlian",
+  "name": "BianLian Ransomware Group",
+  "uuid": null,
+  "description": "BianLian is an extortion-focused threat actor group. The group originally used double-extortion methods when it began its operations in June 2022, demanding payment in exchange for decrypting locked files while also threatening to leak exfiltrated data. U.S. & Australian cybersecurity officials observed BianLian actors shifting almost exclusively to exfiltration-focused extortion schemes in 2023.<sup>[[U.S. CISA BianLian Ransomware May 2023](/references/aa52e826-f292-41f6-985d-0282230c8948)]</sup>\n\n**Related Vulnerabilities**: CVE-2020-1472<sup>[[U.S. CISA BianLian Ransomware May 2023](/references/aa52e826-f292-41f6-985d-0282230c8948)]</sup>, CVE-2021-34473<sup>[[BianLian Ransomware Gang Gives It a Go! | [redacted]](/references/fc1aa979-7dbc-4fff-a8d1-b35a3b2bec3d)]</sup>, CVE-2021-34523<sup>[[BianLian Ransomware Gang Gives It a Go! | [redacted]](/references/fc1aa979-7dbc-4fff-a8d1-b35a3b2bec3d)]</sup>, CVE-2021-31207<sup>[[BianLian Ransomware Gang Gives It a Go! | [redacted]](/references/fc1aa979-7dbc-4fff-a8d1-b35a3b2bec3d)]</sup>\n\n**PulseDive (IOCs)**: https://pulsedive.com/threat/BianLian",
+  "aliases": [],
+  "refs": [
+    "http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/",
+    "http://bianlivemqbawcco4cx4a672k2fip3guyxudzurfqvdszafam3ofqgqd.onion/",
+    "http://bianliaoxoeriowgqohcly4a6sbkpc3se2yvxgidxomxlpuhx5ehrpad.onion/"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3002",
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3002"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1204",
+      "T1059",
+      "T1497",
+      "T1027.002",
+      "T1036",
+      "T1082",
+      "T1083",
+      "T1518.001",
+      "T1120",
+      "T1486",
+      "T1091"
+    ]
+  },
+  "order": 0
+}

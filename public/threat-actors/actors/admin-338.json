@@ -1,0 +1,35 @@
+{
+  "slug": "admin-338",
+  "name": "admin@338",
+  "uuid": null,
+  "description": "[admin@338](https://attack.mitre.org/groups/G0018) is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as [PoisonIvy](https://attack.mitre.org/software/S0012), as well as some non-public backdoors. (Citation: FireEye admin@338)",
+  "aliases": [
+    "admin@338"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0018",
+    "https://www.fireeye.com/blog/threat-research/2015/11/china-based-threat.html"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0018"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0018"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

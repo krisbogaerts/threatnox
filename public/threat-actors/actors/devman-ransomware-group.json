@@ -1,0 +1,27 @@
+{
+  "slug": "devman-ransomware-group",
+  "name": "Devman Ransomware Group",
+  "uuid": null,
+  "description": "Devman is a ransomware operation that has reportedly developed its own custom encryptor software, while also reportedly collaborating with other ransomware groups including Qilin, DragonForce, and RansomHub.<sup>[[Cyble Safepay Devman June 3 2025](/references/49840002-47ee-4a77-9ceb-577752798dc0)]</sup><sup>[[AhnLab Dark Web Trends June 10 2025](/references/de36cb84-6eaf-4a67-b09b-b876af38ccb5)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3110"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3110"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

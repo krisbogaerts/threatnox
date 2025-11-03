@@ -1,7 +1,7 @@
 {
   "slug": "moskalvzapoe",
   "name": "Moskalvzapoe",
-  "uuid": "66a0a3ad-5b07-4876-baee-cf44000f7470",
+  "uuid": null,
   "description": "",
   "aliases": [
     "MAN1",
@@ -13,20 +13,18 @@
     "https://unit42.paloaltonetworks.com/hancitor-infections-cobalt-strike/",
     "https://unit42.paloaltonetworks.com/threat-brief-hancitor-actors/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://medium.com/walmartglobaltech/man1-moskal-hancitor-and-a-side-of-ransomware-d77b4d991618",
-      "https://vixra.org/abs/1902.0257",
-      "https://unit42.paloaltonetworks.com/hancitor-infections-cobalt-strike/",
-      "https://unit42.paloaltonetworks.com/threat-brief-hancitor-actors/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "MAN1",
-      "TA511"
-    ]
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 404
+  "order": 0
 }

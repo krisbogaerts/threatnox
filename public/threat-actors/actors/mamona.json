@@ -1,0 +1,26 @@
+{
+  "slug": "mamona",
+  "name": "mamona",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://owt3kwkxod2pvxlv3uljzskfhebhrhoedrh5gqrxyyd6rrco4frzj5ad.onion/",
+    "http://owt3kwkxod2pvxlv3uljzskfhebhrhoedrh5gqrxyyd6rrco4frzj5ad.onion/api/posts",
+    "http://bdhjur3agrogoxvwobbzpptkxhyewnjrhzqj4ug2dyfhf3dopyvvurid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

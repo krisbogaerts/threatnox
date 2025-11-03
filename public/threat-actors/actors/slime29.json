@@ -1,7 +1,7 @@
 {
   "slug": "slime29",
   "name": "SLIME29",
-  "uuid": "d58030e2-5673-4836-9aff-ab6d55da0bc0",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -11,20 +11,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Private Sector"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "75",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-target-category": [
-      "Private Sector"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "country": "CN",
-    "refs": [
-      "https://i.blackhat.com/Asia-22/Friday-Materials/AS-22-Li-To-Loot-Or-Not-To-Loot-That-Is-Not-a-Question.pdf"
-    ]
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 387
+  "order": 0
 }

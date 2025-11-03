@@ -1,7 +1,7 @@
 {
   "slug": "bitwise-spider",
   "name": "BITWISE SPIDER",
-  "uuid": "ecf4d7cb-9bf7-4d9d-8450-c99e885b9aac",
+  "uuid": null,
   "description": "BITWISE SPIDER has recently and quickly become a significant player in the big game hunting (BGH) landscape. Their dedicated leak site (DLS) has received the highest number of victims posted each month since July 2021 compared to other adversary DLSs due to the growing popularity and effectiveness of LockBit 2.0.",
   "aliases": [],
   "refs": [
@@ -10,16 +10,20 @@
     "https://security.packt.com/understanding-lockbit/",
     "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-lockbit"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.crowdstrike.com/blog/better-together-global-attitude-survey-takeaways-2021/",
-      "https://socradar.io/lockbit-3-another-upgrade-to-worlds-most-active-ransomware/",
-      "https://security.packt.com/understanding-lockbit/",
-      "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-lockbit"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 396
+  "order": 0
 }

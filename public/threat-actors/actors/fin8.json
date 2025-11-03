@@ -1,41 +1,44 @@
 {
   "slug": "fin8",
   "name": "FIN8",
-  "uuid": "a78ae9fe-71cd-4563-9213-7b6260bd9a73",
-  "description": "FIN8 is a financially motivated group targeting the retail, hospitality and entertainment industries. The actor had previously conducted several tailored spearphishing campaigns using the downloader PUNCHBUGGY and POS malware PUNCHTRACK.",
+  "uuid": null,
+  "description": "[FIN8](https://attack.mitre.org/groups/G0061) is a financially motivated threat group that has been active since at least January 2016, and known for targeting organizations in the hospitality, retail, entertainment, insurance, technology, chemical, and financial sectors. In June 2021, security researchers detected [FIN8](https://attack.mitre.org/groups/G0061) switching from targeting point-of-sale (POS) devices to distributing a number of ransomware variants.(Citation: FireEye Obfuscation June 2017)(Citation: FireEye Fin8 May 2016)(Citation: Bitdefender Sardonic Aug 2021)(Citation: Symantec FIN8 Jul 2023)",
   "aliases": [
+    "FIN8",
+    "Syssphinx",
     "ATK113",
     "G0061"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0061",
+    "https://web.archive.org/web/20170923102302/https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html",
+    "https://www.bitdefender.com/files/News/CaseStudies/study/401/Bitdefender-PR-Whitepaper-FIN8-creat5619-en-EN.pdf",
     "https://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html",
+    "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/syssphinx-fin8-backdoor",
     "https://www2.fireeye.com/WBNR-Know-Your-Enemy-UNC622-Spear-Phishing.html",
     "https://www.root9b.com/sites/default/files/whitepapers/PoS%20Malware%20ShellTea%20PoSlurp.pdf",
     "https://afyonluoglu.org/PublicWebFiles/Reports-TR/2017%20FireEye%20M-Trends%20Report.pdf",
-    "https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html",
-    "https://attack.mitre.org/groups/G0061"
+    "https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html",
-      "https://www2.fireeye.com/WBNR-Know-Your-Enemy-UNC622-Spear-Phishing.html",
-      "https://www.root9b.com/sites/default/files/whitepapers/PoS%20Malware%20ShellTea%20PoSlurp.pdf",
-      "https://afyonluoglu.org/PublicWebFiles/Reports-TR/2017%20FireEye%20M-Trends%20Report.pdf",
-      "https://www.fireeye.com/blog/threat-research/2017/06/obfuscation-in-the-wild.html",
-      "https://attack.mitre.org/groups/G0061"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0061"
     ],
-    "synonyms": [
-      "ATK113",
-      "G0061"
+    "description_sources": [
+      "MITRE"
     ],
-    "targeted-sector": [
-      "Entertainment",
-      "Hospitality",
-      "Retail"
-    ]
+    "external_ids": {
+      "mitre": "G0061"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 114
+  "order": 0
 }

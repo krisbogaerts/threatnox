@@ -1,0 +1,25 @@
+{
+  "slug": "bqtlock",
+  "name": "bqtlock",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://labs.k7computing.com/index.php/examining-the-tactics-of-bqtlock-ransomware-its-variants/",
+    "http://yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

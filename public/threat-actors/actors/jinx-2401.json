@@ -1,0 +1,33 @@
+{
+  "slug": "jinx-2401",
+  "name": "JINX-2401",
+  "uuid": null,
+  "description": "JINX-2401 is a threat actor that has been observed by Wiz Threat Research while targeting AWS Bedrock with compromised credentials and attempting to hijack LLM models in multiple AWS environments.",
+  "aliases": [],
+  "refs": [
+    "https://www.wiz.io/blog/jinx-2401-llm-hijacking-aws"
+  ],
+  "country": null,
+  "countries": [
+    "Unknown"
+  ],
+  "sectors": [
+    "Unknown",
+    "and",
+    "PutUseCaseForModelAccess",
+    "CreateFoundationModelAgreement"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

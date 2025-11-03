@@ -1,0 +1,26 @@
+{
+  "slug": "emeraldwhale",
+  "name": "EMERALDWHALE",
+  "uuid": null,
+  "description": "Cloud Threat Landscape EMERALDWHALE Tags Attribution Incidents EMERALDWHALE Attacks Targeting Exposed Git Config Files Last edited Nov 3, 2024 1:28 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://sysdig.com/blog/emeraldwhale/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "mispadu-operator",
+  "name": "Mispadu operator",
+  "uuid": null,
+  "description": "Mispadu, a banking trojan discovered by ESET around 2019, targets Latin American countries through spamming and malvertising campaigns. Known for its high activity and malware-as-a-service operations, Mispadu frequently launches new campaigns with varying obfuscation techniques, complicating system protection efforts. One of their key tactics involves compromising legitimate websites with vulnerable Content Management Systems like WordPress to use as Command &amp; Control servers. These servers selectively spread malware, filtering targets by country and deploying specific payloads, including a unique RAT for high-value targets like bank employees. Mispadu&#x27;s campaigns avoid infecting systems with Spanish (Spain), English (U.S.), and Portuguese (Brazil) languages. The group rapidly develops new malware variants, reflecting their familiarity with major banks in the region and suggesting their programmers, likely from Chile, incorporate local slang into their code. Recent campaigns have introduced novel techniques such as fake certificates for obfuscation, a .NET-based backdoor for screenshots and fake windows, and a RUST-based backdoor, which poses challenges for endpoint protection.",
+  "aliases": [
+    "Mispadu stealer"
+  ],
+  "refs": [
+    "https://unit42.paloaltonetworks.com/mispadu-infostealer-variant/"
+  ],
+  "country": null,
+  "countries": [
+    "Latin America"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

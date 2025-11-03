@@ -1,7 +1,7 @@
 {
   "slug": "hagga",
   "name": "Hagga",
-  "uuid": "1e318d85-79c7-4988-83b7-ff86a974786c",
+  "uuid": null,
   "description": "Hagga is believed to have been using Agent Tesla, 2021’s sixth most prevalent malware, to steal sensitive information from his victims since the latter part of 2021.",
   "aliases": [
     "Aggah",
@@ -13,20 +13,20 @@
     "https://team-cymru.com/blog/2022/07/12/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor/",
     "https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.team-cymru.com/post/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor",
-      "https://otx.alienvault.com/pulse/62cfe4ef3415be5f83be81d1",
-      "https://team-cymru.com/blog/2022/07/12/an-analysis-of-infrastructure-linked-to-the-hagga-threat-actor/",
-      "https://unit42.paloaltonetworks.com/aggah-campaign-bit-ly-blogspot-and-pastebin-used-for-c2-in-large-scale-campaign/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Aggah",
-      "TH-157"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 421
+  "order": 0
 }

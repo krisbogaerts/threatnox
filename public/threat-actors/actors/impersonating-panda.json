@@ -1,7 +1,7 @@
 {
   "slug": "impersonating-panda",
   "name": "IMPERSONATING PANDA",
-  "uuid": "b56ecbda-6b2a-4aa9-b592-d9a0bc810ec1",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [],
@@ -9,11 +9,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN"
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 38
+  "order": 0
 }

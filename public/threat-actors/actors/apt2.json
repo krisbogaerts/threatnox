@@ -1,7 +1,7 @@
 {
   "slug": "apt2",
   "name": "APT2",
-  "uuid": "0ca45163-e223-4167-b1af-f088ed14a93d",
+  "uuid": null,
   "description": "Putter Panda were the subject of an extensive report by CrowdStrike, which stated: 'The CrowdStrike Intelligence team has been tracking this particular unit since2012, under the codename PUTTER PANDA, and has documented activity dating back to 2007. The report identifies Chen Ping, aka cpyy, and the primary location of Unit 61486.'",
   "aliases": [
     "PLA Unit 61486",
@@ -24,40 +24,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Private sector",
-    "Government"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "U.S. satellite and aerospace sector"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Private sector",
-      "Government"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf",
-      "https://www.cfr.org/interactive/cyber-operations/putter-panda",
-      "https://attack.mitre.org/groups/G0024",
-      "https://www.mandiant.com/resources/insights/apt-groups",
-      "https://www.fireeye.com/content/dam/fireeye-www/summit/cds-2019/presentations/cds19-executive-s08-achievement-unlocked.pdf"
-    ],
-    "synonyms": [
-      "PLA Unit 61486",
-      "PUTTER PANDA",
-      "MSUpdater",
-      "4HCrew",
-      "SULPHUR",
-      "SearchFire",
-      "TG-6952",
-      "G0024"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 11
+  "order": 0
 }

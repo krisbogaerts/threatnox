@@ -1,0 +1,27 @@
+{
+  "slug": "phobos-ransomware-actors",
+  "name": "Phobos Ransomware Actors",
+  "uuid": null,
+  "description": "This object represents a collection of MITRE ATT&CK® Techniques and other objects (Software and/or Campaigns) related to the Phobos ransomware-as-a-service (\"RaaS\") operation. Further background & contextual details can be found in the References tab below.",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3033"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3033"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

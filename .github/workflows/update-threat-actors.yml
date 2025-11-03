@@ -1,9 +1,14 @@
 name: Update Threat Actors
 
 on:
-  workflow_dispatch: {}
-  schedule:
-    - cron: '17 3 * * *'
+  push:
+    branches: [ main ]
+    paths:
+      - 'public/actors.public.json'
+
+concurrency:
+  group: update-threat-actors
+  cancel-in-progress: true
 
 permissions:
   contents: write

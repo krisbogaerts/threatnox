@@ -1,19 +1,35 @@
 {
   "slug": "darkvishnya",
   "name": "DarkVishnya",
-  "uuid": "db7fd7dd-28f7-4e8d-a807-8405e4b0f4e2",
-  "description": "Dubbed DarkVishnya, the attacks targeted at least eight banks using readily-available gear such as netbooks or inexpensive laptops, Raspberry Pi mini-computers, or a Bash Bunny - a USB-sized piece hardware for penetration testing purposes that can pose as a keyboard, flash storage, network adapter, or as any serial device.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[DarkVishnya](https://attack.mitre.org/groups/G0105) is a financially motivated threat actor targeting financial institutions in Eastern Europe. In 2017-2018 the group attacked at least 8 banks in this region.(Citation: Securelist DarkVishnya Dec 2018)",
+  "aliases": [
+    "DarkVishnya"
+  ],
   "refs": [
+    "https://attack.mitre.org/groups/G0105",
+    "https://securelist.com/darkvishnya/89169/",
     "https://www.bleepingcomputer.com/news/security/netbooks-rpis-and-bash-bunny-gear-attacking-banks-from-the-inside/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.bleepingcomputer.com/news/security/netbooks-rpis-and-bash-bunny-gear-attacking-banks-from-the-inside/"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0105"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0105"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 193
+  "order": 0
 }

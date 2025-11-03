@@ -1,7 +1,7 @@
 {
   "slug": "dev-0569",
   "name": "DEV-0569",
-  "uuid": "e883458d-496f-4a94-b916-4b7b83e3d525",
+  "uuid": null,
   "description": "DEV-0569, also known as Storm-0569, is a threat actor group that has been observed deploying the Royal ransomware. They utilize malicious ads and phishing techniques to distribute malware and gain initial access to networks. The group has been linked to the distribution of payloads such as Batloader and has forged relationships with other threat actors. DEV-0569 has targeted various sectors, including healthcare, communications, manufacturing, and education in the United States and Brazil.",
   "aliases": [
     "Storm-0569"
@@ -9,16 +9,20 @@
   "refs": [
     "https://www.microsoft.com/en-us/security/blog/2022/11/17/dev-0569-finds-new-ways-to-deliver-royal-ransomware-various-payloads/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.microsoft.com/en-us/security/blog/2022/11/17/dev-0569-finds-new-ways-to-deliver-royal-ransomware-various-payloads/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Storm-0569"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 551
+  "order": 0
 }

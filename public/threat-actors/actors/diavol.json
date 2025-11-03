@@ -1,0 +1,26 @@
+{
+  "slug": "diavol",
+  "name": "diavol",
+  "uuid": null,
+  "description": "A ransomware with potential ties to Wizard Spider.",
+  "aliases": [],
+  "refs": [
+    "https://7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

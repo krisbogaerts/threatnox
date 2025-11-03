@@ -1,0 +1,26 @@
+{
+  "slug": "z0miner",
+  "name": "z0miner",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 0️⃣ z0miner Tags Cryptojacking Attribution 💰Cybercrime Incidents z0Miner targeting WebLogic servers Last edited Apr 30, 2024 6:46 AM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://asec.ahnlab.com/en/62564/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

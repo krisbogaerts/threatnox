@@ -1,7 +1,7 @@
 {
   "slug": "desorden-group",
   "name": "Desorden Group",
-  "uuid": "e89ebfcb-e7a3-4b2d-b0d7-399bb4904e27",
+  "uuid": null,
   "description": "Desorden (Disorder in Spanish, previously known as ChaosCC), is a financially motivated hacker group. The group first emerged under the new name Desorden in September 2021, on Raidforums. Today the group maintains users under that name on several popular English-speaking hacking forums, where they share their attacks and ransom demands, and offer databases for sale. The group gained an excellent reputation among the cybercriminal communities due to their successful operations and the unique data that they share and offer for sale.",
   "aliases": [],
   "refs": [
@@ -16,22 +16,20 @@
     "https://www.databreaches.net/thai-entities-continue-to-fall-prey-to-cyberattacks-and-leaks/",
     "https://seclists.org/dataloss/2021/q4/81"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.databreaches.net/major-malaysian-water-utilities-company-hit-by-hackers-ranhill-offline-hackers-claim-databases-and-backups-deleted/",
-      "https://www.databreaches.net/one-month-later-ranhill-still-hasnt-fully-recovered-from-cyberattack/",
-      "https://www.databreaches.net/malaysian-online-stock-brokerage-firm-victim-of-cyberattack/",
-      "https://www.databreaches.net/johnson-fitness-and-wellness-hit-by-desorden-group/",
-      "https://www.databreaches.net/thailands-the-icon-group-hacked-by-desorden/",
-      "https://www.databreaches.net/customer-data-from-hundreds-of-indonesian-and-malaysian-restaurants-hacked-by-desorden/",
-      "https://www.databreaches.net/major-indonesia-tollroad-operator-hacked-by-desorden/",
-      "https://www.databreaches.net/recent-cyberattacks-put-thai-citizens-privacy-and-data-security-at-greater-risk/",
-      "https://www.databreaches.net/thai-entities-continue-to-fall-prey-to-cyberattacks-and-leaks/",
-      "https://seclists.org/dataloss/2021/q4/81"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 482
+  "order": 0
 }

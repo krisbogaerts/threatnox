@@ -1,7 +1,7 @@
 {
   "slug": "karkadann",
   "name": "Karkadann",
-  "uuid": "8146ba06-cef2-4a94-b26e-1a4041e04c7d",
+  "uuid": null,
   "description": "Karkadann is a threat actor that has been active since at least October 2020, targeting government bodies and news outlets in the Middle East. They have been involved in watering hole attacks, compromising high-profile websites to inject malicious JavaScript code. The group has been linked to another commercial spyware company called Candiru, suggesting they may utilize multiple spyware technologies. There are similarities in the infrastructure and tactics used by Karkadann in their campaigns.",
   "aliases": [
     "Piwiks"
@@ -10,17 +10,20 @@
     "https://securelist.com/apt-trends-report-q2-2022/106995/",
     "https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://securelist.com/apt-trends-report-q2-2022/106995/",
-      "https://www.welivesecurity.com/2021/11/16/strategic-web-compromises-middle-east-pinch-candiru/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Piwiks"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 616
+  "order": 0
 }

@@ -1,0 +1,24 @@
+{
+  "slug": "agenda-operator",
+  "name": "Agenda operator",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

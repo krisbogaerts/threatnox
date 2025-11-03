@@ -1,0 +1,26 @@
+{
+  "slug": "unc2165",
+  "name": "UNC2165",
+  "uuid": null,
+  "description": "Cloud Threat Landscape UNC2165 Tags Attribution Incidents UNC2165 Targets Hybrid Environments with Ransomware Last edited Jan 23, 2025 9:31 AM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://services.google.com/fh/files/misc/threat_horizons_report_h1_2025.pdf"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

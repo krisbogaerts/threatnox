@@ -1,0 +1,27 @@
+{
+  "slug": "pandora",
+  "name": "pandora",
+  "uuid": null,
+  "description": "Pandora ransomware was obtained by vx-underground at 2022-03-14.\n",
+  "aliases": [],
+  "refs": [
+    "http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion/",
+    "http://pandoraxyz.xyz/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

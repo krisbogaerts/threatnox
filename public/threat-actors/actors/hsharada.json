@@ -1,0 +1,26 @@
+{
+  "slug": "hsharada",
+  "name": "HsHarada",
+  "uuid": null,
+  "description": "The ransomware was identified in early April 2023 and is said to target English-speaking users and potentially other languages.",
+  "aliases": [],
+  "refs": [
+    "https://github.com/crocodyli/Ransomwares-TTP/assets/113185400/e21962da-ebe7-4b3f-b7d4-e58f34d4ec91"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

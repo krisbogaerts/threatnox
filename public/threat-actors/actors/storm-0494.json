@@ -1,21 +1,27 @@
 {
   "slug": "storm-0494",
   "name": "Storm-0494",
-  "uuid": "bed7279c-4ae4-459a-a862-8c69e0cfdb93",
+  "uuid": null,
   "description": "Storm-0494 is a threat actor that facilitates Gootloader infections, which are then exploited by groups like Vice Society to deploy tools such as the Supper backdoor, AnyDesk, and MEGA. They utilize RDP for lateral movement and employ the WMI Provider Host to deploy the INC ransomware payload. Microsoft has identified their activities as part of a campaign targeting the U.S. health sector. Their operations are characterized by financially motivated tactics.",
   "aliases": [],
   "refs": [
     "https://cisoseries.com/cybersecurity-news-inc-targets-healthcare-providence-schools-cyberattack-apple-ipads-bricked/",
     "https://x.com/MsftSecIntel/status/1836456406276342215"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://cisoseries.com/cybersecurity-news-inc-targets-healthcare-providence-schools-cyberattack-apple-ipads-bricked/",
-      "https://x.com/MsftSecIntel/status/1836456406276342215"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 738
+  "order": 0
 }

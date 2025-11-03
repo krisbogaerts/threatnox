@@ -1,7 +1,7 @@
 {
   "slug": "bazarcall",
   "name": "BazarCall",
-  "uuid": "906e2091-cc32-499e-a799-2b9b15e45042",
+  "uuid": null,
   "description": "BazarCall campaigns forgo malicious links or attachments in email messages in favor of phone numbers that recipients are misled into calling. It’s a technique reminiscent of vishing and tech support scams where potential victims are being cold called by the attacker, except in BazarCall’s case, targeted users must dial the number. And when they do, the users are connected with actual humans on the other end of the line, who then provide step-by-step instructions for installing malware into their devices.",
   "aliases": [
     "BazzarCall",
@@ -11,18 +11,20 @@
     "https://www.trellix.com/en-us/about/newsroom/stories/research/evolution-of-bazarcall-social-engineering-tactics.html",
     "https://www.microsoft.com/en-us/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.trellix.com/en-us/about/newsroom/stories/research/evolution-of-bazarcall-social-engineering-tactics.html",
-      "https://www.microsoft.com/en-us/security/blog/2021/07/29/bazacall-phony-call-centers-lead-to-exfiltration-and-ransomware/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "BazzarCall",
-      "BazaCall"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 401
+  "order": 0
 }

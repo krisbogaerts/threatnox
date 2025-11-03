@@ -1,0 +1,26 @@
+{
+  "slug": "solidbit",
+  "name": "solidbit",
+  "uuid": null,
+  "description": "Ransomware, written in .NET.\n",
+  "aliases": [],
+  "refs": [
+    "http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion/login"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

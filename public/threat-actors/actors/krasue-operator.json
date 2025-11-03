@@ -1,0 +1,26 @@
+{
+  "slug": "krasue-operator",
+  "name": "Krasue operator",
+  "uuid": null,
+  "description": "Group-IB believes that Krasue was created by the same author as the XorDdos Linux Trojan.",
+  "aliases": [],
+  "refs": [
+    "https://www.group-ib.com/blog/krasue-rat/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

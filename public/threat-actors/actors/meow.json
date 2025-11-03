@@ -1,0 +1,30 @@
+{
+  "slug": "meow",
+  "name": "meow",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 😿 Meow Tags Hacktivist Attribution 💰Cybercrime Incidents Meow Jupyter Notebook campaign Meow database server campaign Last edited Jan 18, 2024 1:25 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "http://meow6xanhzfci2gbkn3lmbqq7xjjufskkdfocqdngt3ltvzgqpsg5mid.onion/",
+    "http://totos7fquprkecvcsl2jwy72v32glgkp2ejeqlnx5ynnxvbebgnletqd.onion/story/getAllStories",
+    "https://blog.aquasec.com/three-years-later-the-meow-campaign-reaches-jupyter",
+    "https://www.csoonline.com/article/559725/attackers-start-wiping-data-from-couchdb-and-hadoop-databases.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive",
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

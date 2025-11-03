@@ -1,19 +1,26 @@
 {
   "slug": "smoky-spider",
   "name": "SMOKY SPIDER",
-  "uuid": "e27796eb-624a-4e41-aa40-52d47c764b07",
+  "uuid": null,
   "description": "Mentioned as operator of SmokeLoader in CrowdStrike's 2020 Report.",
   "aliases": [],
   "refs": [
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 282
+  "order": 0
 }

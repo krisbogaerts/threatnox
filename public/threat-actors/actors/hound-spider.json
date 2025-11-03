@@ -1,19 +1,26 @@
 {
   "slug": "hound-spider",
   "name": "HOUND SPIDER",
-  "uuid": "22dd1608-272c-4243-9bda-25eec834a24d",
+  "uuid": null,
   "description": "According to Crowdstrike, HOUND SPIDER affiliates arrested in Romania on December,2017",
   "aliases": [],
   "refs": [
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018GlobalThreatReport.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2018GlobalThreatReport.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 320
+  "order": 0
 }

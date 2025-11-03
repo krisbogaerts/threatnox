@@ -1,7 +1,7 @@
 {
   "slug": "libyan-scorpions",
   "name": "Libyan Scorpions",
-  "uuid": "815cbe98-e157-4078-9caa-c5a25dd64731",
+  "uuid": null,
   "description": "Libyan Scorpions is a malware operation in use since September 2015 and operated by a politically motivated group whose main objective is intelligence gathering, spying on influentials and political figures and operate an espionage campaign within Libya.",
   "aliases": [],
   "refs": [],
@@ -9,14 +9,18 @@
   "countries": [
     "LY"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "LY",
-    "targeted-sector": [
-      "Intelligence"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 84
+  "order": 0
 }

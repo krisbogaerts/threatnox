@@ -1,0 +1,26 @@
+{
+  "slug": "prometheus",
+  "name": "prometheus",
+  "uuid": null,
+  "description": "Ransomware written in .NET, apparently derived from the codebase of win.hakbit (Thanos) ransomware.\n",
+  "aliases": [],
+  "refs": [
+    "http://promethw27cbrcot.onion/blog/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "bronze-butler",
+  "name": "BRONZE BUTLER",
+  "uuid": null,
+  "description": "[BRONZE BUTLER](https://attack.mitre.org/groups/G0060) is a cyber espionage group with likely Chinese origins that has been active since at least 2008. The group primarily targets Japanese organizations, particularly those in government, biotechnology, electronics manufacturing, and industrial chemistry.(Citation: Trend Micro Daserf Nov 2017)(Citation: Secureworks BRONZE BUTLER Oct 2017)(Citation: Trend Micro Tick November 2019)",
+  "aliases": [
+    "BRONZE BUTLER",
+    "REDBALDKNIGHT",
+    "Tick"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0060",
+    "http://blog.trendmicro.com/trendlabs-security-intelligence/redbaldknight-bronze-butler-daserf-backdoor-now-using-steganography/",
+    "https://www.secureworks.com/research/bronze-butler-targets-japanese-businesses",
+    "https://documents.trendmicro.com/assets/pdf/Operation-ENDTRADE-TICK-s-Multi-Stage-Backdoors-for-Attacking-Industries-and-Stealing-Classified-Data.pdf",
+    "https://www.symantec.com/connect/blogs/tick-cyberespionage-group-zeros-japan"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0060"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0060"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

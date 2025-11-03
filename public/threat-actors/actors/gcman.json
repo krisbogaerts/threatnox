@@ -1,12 +1,14 @@
 {
   "slug": "gcman",
   "name": "GCMAN",
-  "uuid": "d93889de-b4bc-4a29-9ce7-d67717c140a0",
-  "description": "GCMAN is a threat group that focuses on targeting banks for the purpose of transferring money to e-currency services.",
+  "uuid": null,
+  "description": "[GCMAN](https://attack.mitre.org/groups/G0036) is a threat group that focuses on targeting banks for the purpose of transferring money to e-currency services. (Citation: Securelist GCMAN)",
   "aliases": [
+    "GCMAN",
     "G0036"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0036",
     "https://securelist.com/apt-style-bank-robberies-increase-with-metel-gcman-and-carbanak-2-0-attacks/73638/",
     "https://attack.mitre.org/groups/G0036/"
   ],
@@ -14,21 +16,23 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "RU",
-    "refs": [
-      "https://securelist.com/apt-style-bank-robberies-increase-with-metel-gcman-and-carbanak-2-0-attacks/73638/",
-      "https://attack.mitre.org/groups/G0036/"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0036"
     ],
-    "synonyms": [
-      "G0036"
+    "description_sources": [
+      "MITRE"
     ],
-    "targeted-sector": [
-      "Bank"
-    ]
+    "external_ids": {
+      "mitre": "G0036"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 81
+  "order": 0
 }

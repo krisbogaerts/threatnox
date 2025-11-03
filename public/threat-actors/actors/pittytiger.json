@@ -1,0 +1,36 @@
+{
+  "slug": "pittytiger",
+  "name": "PittyTiger",
+  "uuid": null,
+  "description": "[PittyTiger](https://attack.mitre.org/groups/G0011) is a threat group believed to operate out of China that uses multiple different types of malware to maintain command and control.(Citation: Bizeul 2014)(Citation: Villeneuve 2014)",
+  "aliases": [
+    "PittyTiger"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0011",
+    "https://airbus-cyber-security.com/the-eye-of-the-tiger/",
+    "https://www.fireeye.com/blog/threat-research/2014/07/spy-of-the-tiger.html"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0011"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0011"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

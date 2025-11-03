@@ -1,21 +1,27 @@
 {
   "slug": "hikki-chan",
   "name": "HikkI-Chan",
-  "uuid": "071d271a-313f-442d-9bf0-10e6eeba0a8e",
+  "uuid": null,
   "description": "Hikki-Chan has claimed responsibility for multiple significant data breaches, including the theft of data from 390.4 million users of VKontakte, which included sensitive personal information. The actor has also targeted Strong Current Enterprises and disclosed a breach involving the Israeli Ministry of Welfare and Social Affairs, leaking over 457,000 records. Additionally, Hikki-Chan is attributed with a breach of the Florida Office of Financial Regulation, exposing tens of thousands of records across various industries.",
   "aliases": [],
   "refs": [
     "https://hackread.com/hacker-leaks-data-of-vk-users-russian-social-network/",
     "https://dailydarkweb.net/sensitive-israeli-ministry-data-allegedly-leaked-on-dark-web/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://hackread.com/hacker-leaks-data-of-vk-users-russian-social-network/",
-      "https://dailydarkweb.net/sensitive-israeli-ministry-data-allegedly-leaked-on-dark-web/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 735
+  "order": 0
 }

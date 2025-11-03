@@ -1,0 +1,26 @@
+{
+  "slug": "pyloose-operator",
+  "name": "PyLoose operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🧵 PyLoose operator Tags Cryptojacking Attribution 💰Cybercrime Incidents PyLoose campaign Last edited Jan 18, 2024 1:28 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.wiz.io/blog/pyloose-first-python-based-fileless-attack-on-cloud-workloads"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

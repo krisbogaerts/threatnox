@@ -1,21 +1,27 @@
 {
   "slug": "uac-0063",
   "name": "UAC-0063",
-  "uuid": "9565bf78-7c9c-41cd-9ed0-58031f6d8978",
+  "uuid": null,
   "description": "UAC-0063 is a threat actor linked to Russian APT28, known for targeting government entities in Ukraine and Central Asia for cyber espionage operations. They utilize keyloggers, backdoors, and malware like Hatvibe and Cherryspy to compromise systems and exfiltrate sensitive information. The group has been active since at least 2021 and has shown interest in targeting organizations in Mongolia, Kazakhstan, Kyrgyzstan, Israel, and India. Their TTPs include spear-phishing campaigns and exploiting vulnerabilities in software products like HFS HTTP File Server and Rejetto file-sharing servers.",
   "aliases": [],
   "refs": [
     "https://socprime.com/blog/uac-0063-attack-detection-hackers-target-ukrainian-research-institutions-using-hatvibe-cherryspy-and-cve-2024-23692/",
     "https://cert.gov.ua/article/4697016"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://socprime.com/blog/uac-0063-attack-detection-hackers-target-ukrainian-research-institutions-using-hatvibe-cherryspy-and-cve-2024-23692/",
-      "https://cert.gov.ua/article/4697016"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 712
+  "order": 0
 }

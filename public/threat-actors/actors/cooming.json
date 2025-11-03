@@ -1,0 +1,25 @@
+{
+  "slug": "cooming",
+  "name": "cooming",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion/",
+    "http://teo7aj5mfgzxyeme.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

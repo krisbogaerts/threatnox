@@ -1,7 +1,7 @@
 {
   "slug": "mana-team",
   "name": "Mana Team",
-  "uuid": "110792e8-38d2-4df2-9ea3-08b60321e994",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -11,14 +11,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "http://webcache.googleusercontent.com/search?q=cache:TWoHHzH9gU0J:en.hackdig.com/02/39538.htm"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 153
+  "order": 0
 }

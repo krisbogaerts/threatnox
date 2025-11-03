@@ -1,0 +1,29 @@
+{
+  "slug": "raznatovic",
+  "name": "raznatovic",
+  "uuid": null,
+  "description": "RANSOMED.VC aka Raznatovic",
+  "aliases": [],
+  "refs": [
+    "https://ransomed.vc/market.html",
+    "https://ransomed.vc/",
+    "http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion/",
+    "http://f6amq3izzsgtna4vw24rpyhy3ofwazlgex2zqdssavevvkklmtudxjad.onion/market.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

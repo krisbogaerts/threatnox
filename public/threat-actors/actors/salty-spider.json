@@ -1,21 +1,27 @@
 {
   "slug": "salty-spider",
   "name": "SALTY SPIDER",
-  "uuid": "7e37be6b-5a94-45f3-bdeb-f494c520eee3",
+  "uuid": null,
   "description": "Beginning in January 2018 and persisting through the first half of the year, CrowdStrike Intelligence observed SALTY SPIDER, developer and operator of the long-running Sality botnet, distribute malware designed to target cryptocurrency users.",
   "aliases": [],
   "refs": [
     "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/",
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.crowdstrike.com/resources/reports/2019-crowdstrike-global-threat-report/",
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 211
+  "order": 0
 }

@@ -1,0 +1,27 @@
+{
+  "slug": "storm-1811-deprecated",
+  "name": "Storm-1811 (Deprecated)",
+  "uuid": null,
+  "description": "*We are no longer maintaining this object in favor of a similar object subsequently published by MITRE: \"Storm-1811\" (Group). All relevant Tidal content extensions (e.g. additional Technique and Object relationships and metadata) have been added to the MITRE-authored object.*\n\nAccording to Microsoft security researchers, Storm-1811 is a \"financially motivated cybercriminal group known to deploy Black Basta ransomware\".<sup>[[Microsoft Security Blog 5 15 2024](/references/0876de6e-ea0c-4717-89a4-9c7baed53b6f)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3038"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3038"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

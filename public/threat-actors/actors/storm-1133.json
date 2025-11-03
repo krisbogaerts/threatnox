@@ -1,7 +1,7 @@
 {
   "slug": "storm-1133",
   "name": "Storm-1133",
-  "uuid": "d5908276-068a-4a4f-a60d-ab5800173ccd",
+  "uuid": null,
   "description": "In early 2023, Microsoft In early 2023, observed a wave of activity from a Gaza-based group that we track as Storm-1133 targeting Israeli private sector energy, defense, and telecommunications organizations.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "PS"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "PS",
-    "refs": [
-      "https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023",
-      "https://therecord.media/hacktivists-take-sides-israel-palestinian"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 464
+  "order": 0
 }

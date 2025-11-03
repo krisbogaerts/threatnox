@@ -1,19 +1,26 @@
 {
   "slug": "spikedwine",
   "name": "SPIKEDWINE",
-  "uuid": "d3cda6b1-a5da-4afc-bee4-80ea2cf05e5e",
+  "uuid": null,
   "description": "SPIKEDWINE is a threat actor targeting European officials with a new backdoor called WINELOADER. They use a bait PDF document posing as an invitation letter from the Ambassador of India to lure diplomats. The attack is characterized by advanced tactics, techniques, and procedures in the malware and command and control infrastructure. The motivation behind the attacks seems to be exploiting the geopolitical relations between India and European nations.",
   "aliases": [],
   "refs": [
     "https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 639
+  "order": 0
 }

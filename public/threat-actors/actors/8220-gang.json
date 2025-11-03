@@ -1,0 +1,29 @@
+{
+  "slug": "8220-gang",
+  "name": "8220 Gang",
+  "uuid": null,
+  "description": "The group known as the 8220 gang, thought to originate from China, was initially discovered by Cisco Talos in 2017. They targeted applications like Drupal, Hadoop YARN, and Apache Struts2 to spread cryptojacking malware. Over time, different researchers have continuously reported on how this group&#x27;s methods have changed, revealing their evolving tactics, techniques, and procedures (TTPs). This includes their exploitation of vulnerabilities in Confluence and Log4j. Most recently, Trend Micro revealed that the group has been using the Oracle WebLogic vulnerability CVE-2017-3506 to infect specific systems. Victims are not targeted geographically but simply identified by their internet accessibility.",
+  "aliases": [],
+  "refs": [
+    "https://asec.ahnlab.com/en/51568/",
+    "https://www.aquasec.com/blog/8220-gang-confluence-vulnerability-cve-2022-26134/",
+    "https://www.imperva.com/blog/imperva-detects-undocumented-8220-gang-activities/",
+    "https://www.trendmicro.com/en_us/research/24/f/water-sigbin-xmrig.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

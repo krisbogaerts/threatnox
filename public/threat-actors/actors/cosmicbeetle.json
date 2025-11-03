@@ -1,19 +1,30 @@
 {
   "slug": "cosmicbeetle",
   "name": "CosmicBeetle",
-  "uuid": "9686ff2b-01e0-46eb-9169-9e8d115be345",
+  "uuid": null,
   "description": "CosmicBeetle is a threat actor known for deploying the ScRansom ransomware, which has replaced its previous variant, Scarab. The actor utilizes a custom toolset called Spacecolon, consisting of ScHackTool, ScInstaller, and ScService, to gain initial access through RDP brute forcing and exploiting vulnerabilities like CVE-2020-1472 and FortiOS SSL-VPN. CosmicBeetle has been observed impersonating the LockBit ransomware gang to leverage its reputation and has shown a tendency to leave artifacts on compromised systems. The group primarily targets SMBs globally, employing techniques such as credential dumping and data destruction.",
   "aliases": [],
   "refs": [
     "https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3053"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3053"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 744
+  "order": 0
 }

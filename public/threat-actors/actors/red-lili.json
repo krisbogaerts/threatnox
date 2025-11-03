@@ -1,19 +1,26 @@
 {
   "slug": "red-lili",
   "name": "Red-Lili",
-  "uuid": "99d188cf-31e5-440d-a114-297cb2242d73",
+  "uuid": null,
   "description": "RED-LILI is an active threat actor that has been identified by Checkmarx SCS research team. They have been publishing malicious packages on NPM and PyPi platforms, and have recently automated the process of creating NPM users for package publication. The Checkmarx team has detected around 1500 malicious packages associated with RED-LILI and has continuously disclosed their findings to the respective security teams.",
   "aliases": [],
   "refs": [
     "https://checkmarx.com/blog/a-beautiful-factory-for-malicious-packages/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://checkmarx.com/blog/a-beautiful-factory-for-malicious-packages/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 539
+  "order": 0
 }

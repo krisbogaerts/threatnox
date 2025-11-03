@@ -1,7 +1,7 @@
 {
   "slug": "chamelgang",
   "name": "Chamelgang",
-  "uuid": "eafdd27f-a3e2-4bb1-ae03-bf9ca5ff0355",
+  "uuid": null,
   "description": "In Q2 2021, the PT Expert Security Center incident response team conducted an investigation in an energy company. The investigation revealed that the company's network had been compromised by an unknown group for the purpose of data theft. They gave the group the name ChamelGang (from the word \"chameleon\"), because the group disguised its malware and network infrastructure under legitimate services of Microsoft, TrendMicro, McAfee, IBM, and Google.",
   "aliases": [
     "CamoFei"
@@ -10,32 +10,20 @@
     "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/new-apt-group-chamelgang/",
     "https://www.sentinelone.com/labs/chamelgang-attacking-critical-infrastructure-with-ransomware/"
   ],
-  "countries": [],
-  "sectors": [
-    "Aviation",
-    "Energy"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "India",
-      "Japan",
-      "Nepal",
-      "Russia",
-      "Taiwan",
-      "US"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Aviation",
-      "Energy"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "refs": [
-      "https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/new-apt-group-chamelgang/",
-      "https://www.sentinelone.com/labs/chamelgang-attacking-critical-infrastructure-with-ransomware/"
-    ],
-    "synonyms": [
-      "CamoFei"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 413
+  "order": 0
 }

@@ -1,0 +1,26 @@
+{
+  "slug": "unc3379",
+  "name": "UNC3379",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 💡 UNC3379 Tags Cryptojacking Attribution Incidents UNC3379 npm supply chain attacks Last edited Oct 8, 2025 1:54 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/supply-chain-node-js/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

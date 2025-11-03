@@ -1,7 +1,7 @@
 {
   "slug": "pale-panda",
   "name": "PALE PANDA",
-  "uuid": "43992f81-fd29-4228-94e0-c3aa3e65aab7",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -11,14 +11,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "http://go.crowdstrike.com/rs/281-OBQ-266/images/ReportGlobalThreatIntelligence.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 152
+  "order": 0
 }

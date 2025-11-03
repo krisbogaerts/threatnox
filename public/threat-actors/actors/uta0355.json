@@ -1,7 +1,7 @@
 {
   "slug": "uta0355",
   "name": "UTA0355",
-  "uuid": "b4bbbd06-a204-4363-90d2-f38cc0def521",
+  "uuid": null,
   "description": "UTA0355 is a Russian threat actor that conducts phishing campaigns targeting individuals and organizations associated with Ukraine. The actor initiates contact via email, inviting targets to a video conference, and follows up through Signal or WhatsApp to enhance legitimacy. After establishing communication, UTA0355 prompts victims to log in via a malicious M365 URL, subsequently requesting approval for a 2FA authentication to access email data. Volexity assesses with high confidence that UTA0355 successfully registered devices and downloaded email data from compromised accounts.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://www.volexity.com/blog/2025/04/22/phishing-for-codes-russian-threat-actors-target-microsoft-365-oauth-workflows/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 853
+  "order": 0
 }

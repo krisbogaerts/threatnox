@@ -1,0 +1,25 @@
+{
+  "slug": "bert",
+  "name": "bert",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://theravenfile.com/2025/06/16/bert-ransomware/",
+    "http://bertblogsoqmm4ow7nqyh5ik7etsmefdbf25stauecytvwy7tkgizhad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

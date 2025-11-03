@@ -1,7 +1,7 @@
 {
   "slug": "ruby-sleet",
   "name": "Ruby Sleet",
-  "uuid": "03ff54cf-f7d4-4606-a531-2ca6d4fa6a54",
+  "uuid": null,
   "description": "Ruby Sleet is a threat actor linked to North Korea's Ministry of State Security. Cerium has been involved in spear-phishing campaigns, compromising devices, and conducting cyberattacks alongside other North Korean threat actors. They have also targeted companies involved in COVID-19 research and vaccine development.",
   "aliases": [
     "CERIUM"
@@ -13,16 +13,18 @@
   "countries": [
     "KP"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "KP",
-    "refs": [
-      "https://blogs.microsoft.com/on-the-issues/2020/11/13/health-care-cyberattacks-covid-19-paris-peace-forum/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "CERIUM"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 592
+  "order": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "void-rabisu",
   "name": "Void Rabisu",
-  "uuid": "9766d52e-0e5d-4997-9c31-7f2291dcda9e",
+  "uuid": null,
   "description": "Void Rabisu is an intrusion set associated with both financially motivated ransomware attacks and targeted campaigns on Ukraine and countries supporting Ukraine.",
   "aliases": [
     "Tropical Scorpius"
@@ -10,21 +10,20 @@
     "https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html",
     "https://www.trendmicro.com/en_za/research/23/e/void-rabisu-s-use-of-romcom-backdoor-shows-a-growing-shift-in-th.html"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Ukraine",
-      "European Union"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "refs": [
-      "https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html",
-      "https://www.trendmicro.com/en_za/research/23/e/void-rabisu-s-use-of-romcom-backdoor-shows-a-growing-shift-in-th.html"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Tropical Scorpius"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 431
+  "order": 0
 }

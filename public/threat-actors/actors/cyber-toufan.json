@@ -1,7 +1,7 @@
 {
   "slug": "cyber-toufan",
   "name": "Cyber Toufan",
-  "uuid": "3decddc7-e554-48d8-8304-38b243fc9ccb",
+  "uuid": null,
   "description": "Cyber Toufan is a threat actor group that has gained prominence for its cyberattacks targeting Israeli organizations. The group's tactics suggest potential nation-state backing, possibly from Iran. They have been involved in hack-and-leak operations, data breaches, and data destruction, impacting over 100 organizations. Cyber Toufan's activities align with geopolitical tensions in the Middle East and their attacks are characterized by a combination of technical breaches and psychological warfare.",
   "aliases": [],
   "refs": [
@@ -9,23 +9,30 @@
     "https://socradar.io/dark-web-profile-cyber-toufan-al-aqsa/",
     "https://research.checkpoint.com/2023/11th-december-threat-intelligence-report/",
     "https://blog.polyswarm.io/2023-recap-cyber-activity-in-the-gaza-conflict",
-    "https://www.securityweek.com/palestinian-hackers-hit-100-israeli-organizations-in-destructive-attacks/"
+    "https://www.securityweek.com/palestinian-hackers-hit-100-israeli-organizations-in-destructive-attacks/",
+    "https://doublepulsar.com/cyber-toufan-goes-oprah-mode-with-free-linux-system-wipes-of-over-100-organisations-eaf249b042dc"
   ],
   "country": "IR",
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IR",
-    "refs": [
-      "https://www.darkreading.com/cyberattacks-data-breaches/-cyber-toufan-hacktivists-leaked-100-plus-israeli-orgs-in-one-month",
-      "https://socradar.io/dark-web-profile-cyber-toufan-al-aqsa/",
-      "https://research.checkpoint.com/2023/11th-december-threat-intelligence-report/",
-      "https://blog.polyswarm.io/2023-recap-cyber-activity-in-the-gaza-conflict",
-      "https://www.securityweek.com/palestinian-hackers-hit-100-israeli-organizations-in-destructive-attacks/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3048",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3048"
+    },
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 570
+  "order": 0
 }

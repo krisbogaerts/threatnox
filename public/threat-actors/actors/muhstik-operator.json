@@ -1,0 +1,27 @@
+{
+  "slug": "muhstik-operator",
+  "name": "Muhstik operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🍥 Muhstik operator Tags Botnet Operator Attribution 💰Cybercrime Incidents Muhstik campaign Muhstick Redis campaign Last edited Jan 30, 2025 7:50 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://thehackernews.com/2022/03/muhstik-botnet-targeting-redis-servers.html",
+    "https://www.aquasec.com/blog/muhstik-malware-targets-message-queuing-services-applications/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

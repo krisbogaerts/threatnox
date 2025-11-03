@@ -1,7 +1,7 @@
 {
   "slug": "sands-casino",
   "name": "Sands Casino",
-  "uuid": "1de1a64e-ea14-4e79-9e41-6958bdb6c0ff",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [],
@@ -9,11 +9,16 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "IR"
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 50
+  "order": 0
 }

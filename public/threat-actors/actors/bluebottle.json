@@ -1,19 +1,26 @@
 {
   "slug": "bluebottle",
   "name": "BlueBottle",
-  "uuid": "87f1ab70-a102-4566-a09e-838b39c18a62",
+  "uuid": null,
   "description": "Bluebottle, a cyber-crime group that specializes in targeted attacks against the financial sector, is continuing to mount attacks on banks in Francophone countries. The group makes extensive use of living off the land, dual-use tools, and commodity malware, with no custom malware deployed in this campaign.",
   "aliases": [],
   "refs": [
     "http://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/bluebottle-banks-targeted-africa"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "http://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/bluebottle-banks-targeted-africa"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 488
+  "order": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "samurai-panda",
   "name": "SAMURAI PANDA",
-  "uuid": "2fb07fa4-0d7f-43c7-8ff4-b28404313fe7",
+  "uuid": null,
   "description": "",
   "aliases": [
     "PLA Navy",
@@ -14,32 +14,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Private sector",
-    "Military"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "United States",
-      "United Kingdom",
-      "Hong Kong"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Private sector",
-      "Military"
-    ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "http://www.crowdstrike.com/blog/whois-samurai-panda/"
-    ],
-    "synonyms": [
-      "PLA Navy",
-      "Wisp Team"
-    ]
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 37
+  "order": 0
 }

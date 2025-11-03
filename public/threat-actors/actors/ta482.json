@@ -1,7 +1,7 @@
 {
   "slug": "ta482",
   "name": "TA482",
-  "uuid": "610a7301-5963-4653-8aa2-eeb8573dfad9",
+  "uuid": null,
   "description": "Since early 2022, Proofpoint researchers have observed a prolific threat actor, tracked as TA482, regularly engaging in credential harvesting campaigns that target the social media accounts of mostly US-based journalists and media organizations. This victimology, TA482’s use of services originating from Turkey to host its domains and infrastructure, as well as Turkey’s history of leveraging social media to spread pro-President Recep Tayyip Erdogan and pro-Justice and Development Party (Turkey’s ruling party) propaganda support Proofpoint’s assessment that TA482 is aligned with the Turkish state.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "TR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "TR",
-    "refs": [
-      "https://www.proofpoint.com/us/blog/threat-insight/above-fold-and-your-inbox-tracing-state-aligned-activity-targeting-journalists"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 499
+  "order": 0
 }

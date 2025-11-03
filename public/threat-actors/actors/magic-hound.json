@@ -1,0 +1,58 @@
+{
+  "slug": "magic-hound",
+  "name": "Magic Hound",
+  "uuid": null,
+  "description": "[Magic Hound](https://attack.mitre.org/groups/G0059) is an Iranian-sponsored threat group that conducts long term, resource-intensive cyber espionage operations, likely on behalf of the Islamic Revolutionary Guard Corps. They have targeted European, U.S., and Middle Eastern government and military personnel, academics, journalists, and organizations such as the World Health Organization (WHO), via complex social engineering campaigns since at least 2014.(Citation: FireEye APT35 2018)(Citation: ClearSky Kittens Back 3 August 2020)(Citation: Certfa Charming Kitten January 2021)(Citation: Secureworks COBALT ILLUSION Threat Profile)(Citation: Proofpoint TA453 July2021)",
+  "aliases": [
+    "Magic Hound",
+    "TA453",
+    "COBALT ILLUSION",
+    "Charming Kitten",
+    "ITG18",
+    "Phosphorus",
+    "Newscaster",
+    "APT35",
+    "Mint Sandstorm"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0059",
+    "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
+    "https://blogs.microsoft.com/on-the-issues/2020/10/28/cyberattacks-phosphorus-t20-munich-security-conference/",
+    "https://blog.certfa.com/posts/charming-kitten-christmas-gift/",
+    "https://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/",
+    "http://www.clearskysec.com/wp-content/uploads/2017/12/Charming_Kitten_2017.pdf",
+    "https://www.clearskysec.com/wp-content/uploads/2019/10/The-Kittens-Are-Back-in-Town-2-1.pdf",
+    "https://www.clearskysec.com/wp-content/uploads/2020/08/The-Kittens-are-Back-in-Town-3.pdf",
+    "https://www.eweek.com/security/newscaster-threat-uses-social-media-for-intelligence-gathering",
+    "https://researchcenter.paloaltonetworks.com/2017/02/unit42-magic-hound-campaign-attacks-saudi-targets/",
+    "https://static.carahsoft.com/concrete/files/1015/2779/3571/M-Trends-2018-Report.pdf",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+    "https://www.proofpoint.com/us/blog/threat-insight/operation-spoofedscholars-conversation-ta453",
+    "https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential",
+    "https://www.secureworks.com/research/threat-profiles/cobalt-illusion",
+    "https://noticeofpleadings.com/phosphorus/files/Complaint.pdf",
+    "https://securityintelligence.com/posts/new-research-exposes-iranian-threat-group-operations/"
+  ],
+  "country": "IR",
+  "countries": [
+    "IR"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0059"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0059"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

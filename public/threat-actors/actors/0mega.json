@@ -1,0 +1,38 @@
+{
+  "slug": "0mega",
+  "name": "0mega",
+  "uuid": null,
+  "description": "The 0mega (or Omega) Ransomware Group is a threat entity that emerged in the threat landscape, notable for adopting the Double Extortion model and focusing on large organizations (Big Game Hunting), particularly in the healthcare, education, manufacturing, and financial services sectors.",
+  "aliases": [
+    "Ransomware Group 0mega"
+  ],
+  "refs": [
+    "http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion/",
+    "http://0mega.cc/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1041",
+      "T1078",
+      "T1119",
+      "T1136",
+      "T1486",
+      "T1490",
+      "T1531"
+    ]
+  },
+  "order": 0
+}

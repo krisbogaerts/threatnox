@@ -1,0 +1,36 @@
+{
+  "slug": "suckfly",
+  "name": "Suckfly",
+  "uuid": null,
+  "description": "[Suckfly](https://attack.mitre.org/groups/G0039) is a China-based threat group that has been active since at least 2014. (Citation: Symantec Suckfly March 2016)",
+  "aliases": [
+    "Suckfly"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0039",
+    "http://www.symantec.com/connect/blogs/suckfly-revealing-secret-life-your-code-signing-certificates",
+    "http://www.symantec.com/connect/blogs/indian-organizations-targeted-suckfly-attacks"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0039"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0039"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

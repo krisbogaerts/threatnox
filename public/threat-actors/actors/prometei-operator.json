@@ -1,0 +1,26 @@
+{
+  "slug": "prometei-operator",
+  "name": "Prometei operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🔥 Prometei operator Tags Botnet Operator Attribution Incidents Prometei campaign Last edited Oct 27, 2024 7:58 AM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/24/j/unmasking-prometei-a-deep-dive-into-our-mxdr-findings.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

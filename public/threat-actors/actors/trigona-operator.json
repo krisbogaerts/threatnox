@@ -1,0 +1,26 @@
+{
+  "slug": "trigona-operator",
+  "name": "Trigona operator",
+  "uuid": null,
+  "description": "The Trigona ransomware gang is known for several ransom operations, in which the Trigona malware encrypts all files on victims&#x27; devices except those in specific folders, including the Windows and Program Files directories. Before encryption, the gang also claims to steal sensitive documents that will get added to its dark web leak site.",
+  "aliases": [],
+  "refs": [
+    "https://asec.ahnlab.com/en/51343/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

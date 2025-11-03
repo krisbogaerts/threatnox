@@ -1,7 +1,7 @@
 {
   "slug": "viking-spider",
   "name": "VIKING SPIDER",
-  "uuid": "ffc02459-3d94-4558-bff0-2e7f0bbf70c6",
+  "uuid": null,
   "description": "VIKING SPIDER is the criminal group behind the development and distribution of Ragnar Locker ransomware. While public reporting indicates the group began threatening to leak victim data in February 2020, a DLS was not observed until April 2020. The DLS is hosted on Tor, and similar to other actors, proof of data exfiltration is provided before the stolen data is fully leaked. It was also noted that On Dec. 22, 2020, a new post made to MountLocker ransomware’s Tor-hosted DLS was titled 'Cartel News' and included details of a victim of VIKING SPIDER’s Ragnar Locker",
   "aliases": [],
   "refs": [
@@ -11,17 +11,20 @@
     "https://analyst1.com/blog/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel",
     "https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf",
-      "https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-1/",
-      "https://www.crowdstrike.com/blog/double-trouble-ransomware-data-leak-extortion-part-2/",
-      "https://analyst1.com/blog/ransom-mafia-analysis-of-the-worlds-first-ransomware-cartel",
-      "https://analyst1.com/file-assets/RANSOM-MAFIA-ANALYSIS-OF-THE-WORLD%E2%80%99S-FIRST-RANSOMWARE-CARTEL.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 312
+  "order": 0
 }

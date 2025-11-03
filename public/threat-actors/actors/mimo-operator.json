@@ -1,0 +1,28 @@
+{
+  "slug": "mimo-operator",
+  "name": "Mimo operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 📝 Mimo operator Tags Botnet Operator Cryptojacking Attribution 💰Cybercrime Incidents Mimo cryptomining campaign Mimo Exploits Craft CMS RCE to Deploy Cryptominer and Proxyware in Coordinated Campaign Mimo Targets Magento, Docker, and Cloud Environments Last edited Mar 11, 2024 5:06 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://asec.ahnlab.com/en/60440/",
+    "https://blog.sekoia.io/the-sharp-taste-of-mimolette-analyzing-mimos-latest-campaign-targeting-craft-cms/",
+    "https://securitylabs.datadoghq.com/articles/beyond-mimolette-tracking-mimo-expansion-magento-cms-docker/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

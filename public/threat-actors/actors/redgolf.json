@@ -1,7 +1,7 @@
 {
   "slug": "redgolf",
   "name": "RedGolf",
-  "uuid": "eff0c059-5449-4207-9860-715475139595",
+  "uuid": null,
   "description": "Recorded Future’s Insikt Group has identified a large cluster of new operational infrastructure associated with use of the custom Windows and Linux backdoor KEYPLUG. We attribute this activity to a threat activity group tracked as RedGolf, which is highly likely to be a Chinese state-sponsored group. RedGolf closely overlaps with threat activity reported in open sources under the aliases APT41/BARIUM and has likely carried out state-sponsored espionage activity in parallel with financially motivated operations for personal gain from at least 2014 onward.",
   "aliases": [],
   "refs": [
@@ -12,37 +12,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Aviation",
-    "Automotive",
-    "Education",
-    "Intergovernmental",
-    "Media and Entertainment",
-    "Information Technology",
-    "Religious Organizations"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-target-category": [
-      "Aviation",
-      "Automotive",
-      "Education",
-      "Intergovernmental",
-      "Media and Entertainment",
-      "Information Technology",
-      "Religious Organizations"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": [
-      "Financial Theft",
-      "Espionage"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "country": "CN",
-    "motive": "state-sponsored espionage and financially motivated",
-    "refs": [
-      "https://go.recordedfuture.com/hubfs/reports/cta-2023-0330.pdf",
-      "https://www.justice.gov/opa/pr/seven-international-cyber-defendants-including-apt41-actors-charged-connection-computer"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 419
+  "order": 0
 }

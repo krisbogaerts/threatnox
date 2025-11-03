@@ -1,7 +1,7 @@
 {
   "slug": "temptick",
   "name": "TempTick",
-  "uuid": "3f3ff6de-a6a7-11e8-92b4-3743eb1c7762",
+  "uuid": null,
   "description": "This threat actor targets organizations in the finance, defense, aerospace, technology, health-care, and automotive sectors and media organizations in East Asia for the purpose of espionage. Believed to be responsible for the targeting of South Korean actors prior to the meeting of Donald J. Trump and Kim Jong-un",
   "aliases": [],
   "refs": [
@@ -11,26 +11,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Government",
-    "Private sector"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "South Korea",
-      "Japan"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Private sector"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "country": "CN",
-    "refs": [
-      "https://www.cfr.org/interactive/cyber-operations/temptick"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 171
+  "order": 0
 }

@@ -1,24 +1,48 @@
 {
   "slug": "apt73",
   "name": "APT73",
-  "uuid": "84bf7b38-e120-44c9-bfdd-82740593a6c6",
+  "uuid": null,
   "description": "APT73 is a ransomware group that has publicly identified 12 victims and launched its data leak site on April 25th. The DLS bears a striking resemblance to that of LockBit, likely to leverage LockBit's reputation and attract potential affiliates. The rationale for this design mimicry is unclear, but it may be intended to signal operational parity with LockBit to inspire trust among low-level criminals. APT73 was formed by an alleged former LockBit affiliate following law enforcement's \"Operation Cronos\" in February 2024.",
   "aliases": [
-    "Eraleig"
+    "Eraleig",
+    "bashe",
+    "Ransomware APT73"
   ],
   "refs": [
-    "https://quointelligence.eu/2024/06/analyzing-shift-in-ransomware-dynamics/"
+    "https://quointelligence.eu/2024/06/analyzing-shift-in-ransomware-dynamics/",
+    "http://eraleignews.com/",
+    "http://wn6vonooq6fggjdgyocp7bioykmfjket7sbp47cwhgubvowwd7ws5pyd.onion/",
+    "http://fleqwmg7xnanypt5km2m75l72q7nlcvlp2m4sdmgjxorsn6tb3zyp3qd.onion/",
+    "http://apt73grpjgjwykrenq7vnjejue76vosdzptdvmonv7vyqnsyokrw57ad.onion/",
+    "http://bashe4aec32kr6zbifwd5x6xgjsmhg4tbowrbx4pneqhc5mqooyifpid.onion/",
+    "http://basheqtvzqwz4vp6ks5lm2ocq7i6tozqgf6vjcasj4ezmsy4bkpshhyd.onion/",
+    "http://basherq53eniermxovo3bkduw5qqq5bkqcml3qictfmamgvmzovykyqd.onion/",
+    "http://basherykagbxoaiaxkgqhmhd5gbmedwb3di4ig3ouovziagosv4n77qd.onion/",
+    "http://bashete63b3gcijfofpw6fmn3rwnmyi5aclp55n6awcfbexivexbhyad.onion/",
+    "http://bashex7mokreyoxl6wlswxl4foi7okgs7or7aergnuiockuoq35yt3ad.onion/",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/bb3aaed8-5ebd-4968-beec-307960b53e24",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/371885f0-cf9f-4508-b92c-6da3b55c0ebf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://quointelligence.eu/2024/06/analyzing-shift-in-ransomware-dynamics/"
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3066",
+      "RWLive",
+      "TA-TTPs"
     ],
-    "synonyms": [
-      "Eraleig"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3066"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 773
+  "order": 0
 }

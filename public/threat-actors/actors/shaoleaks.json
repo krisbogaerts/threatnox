@@ -1,0 +1,24 @@
+{
+  "slug": "shaoleaks",
+  "name": "shaoleaks",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

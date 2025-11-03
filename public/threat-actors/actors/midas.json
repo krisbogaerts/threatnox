@@ -1,0 +1,26 @@
+{
+  "slug": "midas",
+  "name": "midas",
+  "uuid": null,
+  "description": "This malware written in C# is a variant of the Thanos ransomware family and emerged in October 2021 and is obfuscated using SmartAssembly. In 2022, ThreatLabz analysed a report of Midas ransomware was slowly deployed over a two month period (ZScaler). This ransomware features also its own data leak site as part of its double extortion strategy.\n",
+  "aliases": [],
+  "refs": [
+    "http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion/blog.php"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "rhysida",
+  "name": "Rhysida Ransomware Actors",
+  "uuid": null,
+  "description": "This object represents the behaviors associated with operators of Rhysida ransomware, which is licensed on a ransomware-as-a-service (\"RaaS\") basis. Various affiliated ransomware operators likely do not operate as a cohesive unit. The Rhysida RaaS operation has been active since May 2023, claiming attacks on multiple sectors in several countries in North and South America, Western Europe, and Australia. Many alleged victims are education sector entities. Security researchers have observed TTP and victimology overlaps with the Vice Society extortion group.<sup>[[HC3 Analyst Note Rhysida Ransomware August 2023](/references/3f6e2821-5073-4382-b5dd-08676eaa2240)]</sup>\n\n**Related Vulnerabilities**: CVE-2020-1472<sup>[[U.S. CISA Rhysida Ransomware November 15 2023](/references/6d902955-d9a9-4ec1-8dd4-264f7594605e)]</sup>",
+  "aliases": [
+    "**Rhysida**"
+  ],
+  "refs": [
+    "https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/rhysida-ransomware-intrusion.pdf",
+    "https://research.checkpoint.com/2023/the-rhysida-ransomware-activity-analysis-and-ties-to-vice-society/",
+    "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/",
+    "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php",
+    "http://rhysidafohrhyy2aszi7bm32tnjat5xri65fopcxkdfxhi4tidsg7cad.onion/archive.php?auction",
+    "http://rhysidafc6lm7qa2mkiukbezh7zuth3i4wof4mh2audkymscjm6yegad.onion/",
+    "https://github.com/crocodyli/Ransomwares-TTP/assets/113185400/879c92aa-c99b-4e36-97fd-42ea5fb45994",
+    "https://github.com/crocodyli/Ransomwares-TTP/assets/113185400/77fa0ac2-0d8d-4f9c-9f48-9c3728b42823",
+    "https://www.trendmicro.com/en_dk/research/23/h/an-overview-of-the-new-rhysida-ransomware.html",
+    "https://www.hhs.gov/sites/default/files/rhysida-ransomware-sector-alert-tlpclear.pdf"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3017",
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3017"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1005",
+      "T1010",
+      "T1027",
+      "T1036",
+      "T1041",
+      "T1055",
+      "T1055.003",
+      "T1057",
+      "T1059",
+      "T1071",
+      "T1071.001",
+      "T1082",
+      "T1083",
+      "T1119",
+      "T1129",
+      "T1486",
+      "T1497",
+      "T1518.001",
+      "T1547.001",
+      "T1548.002",
+      "T1564",
+      "T1564.004",
+      "T1566",
+      "T1583",
+      "T1587",
+      "T1595",
+      "T1598",
+      "T1620"
+    ]
+  },
+  "order": 0
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "medusalocker-ransomware-actors",
+  "name": "MedusaLocker Ransomware Actors",
+  "uuid": null,
+  "description": "MedusaLocker is a ransomware-as-a-service (\"RaaS\") operation that has been active since September 2019. U.S. cybersecurity authorities indicate that MedusaLocker operators have primarily targeted victims in the healthcare sector, among other unspecified sectors. Initial access for MedusaLocker intrusions originally came via phishing and spam email campaigns, but since 2022 has typically occurred via exploit of vulnerable Remote Desktop Protocol devices.<sup>[[HC3 Analyst Note MedusaLocker Ransomware February 2023](/references/49e314d6-5324-41e0-8bee-2b3e08d5e12f)]</sup>\n \nThis object represents behaviors associated with operators of MedusaLocker ransomware. As MedusaLocker is licensed on a RaaS model, affiliates likely do not act as a single cohesive unit, and behaviors observed during particular attacks may vary. Behaviors associated with samples of MedusaLocker ransomware are represented in the \"MedusaLocker Ransomware\" Software object.\n\n**Malpedia (Research)**: https://malpedia.caad.fkie.fraunhofer.de/details/win.medusalocker",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3015"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3015"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

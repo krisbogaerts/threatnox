@@ -1,21 +1,37 @@
 {
   "slug": "malteiro",
   "name": "Malteiro",
-  "uuid": "ba57c28a-47d0-46ba-a933-9aed69f7b84f",
-  "description": "This group of cybercriminals is named Malteiroby SCILabs, they operate and distribute the URSA/Mispadu banking trojan.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[Malteiro](https://attack.mitre.org/groups/G1026) is a financially motivated criminal group that is likely based in Brazil and has been active since at least November 2019. The group operates and distributes the [Mispadu](https://attack.mitre.org/software/S1122)  banking trojan via a Malware-as-a-Service (MaaS) business model. [Malteiro](https://attack.mitre.org/groups/G1026) mainly targets victims throughout Latin America (particularly Mexico) and Europe (particularly Spain and Portugal).(Citation: SCILabs Malteiro 2021)",
+  "aliases": [
+    "Malteiro"
+  ],
   "refs": [
+    "https://attack.mitre.org/groups/G1026",
     "https://blog.scilabs.mx/en/cyber-threat-profile-malteiro/",
     "https://blog.scilabs.mx/cyber-threat-profile-malteiro/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": "BR",
+  "countries": [
+    "BR"
+  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://blog.scilabs.mx/en/cyber-threat-profile-malteiro/",
-      "https://blog.scilabs.mx/cyber-threat-profile-malteiro/"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1026"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1026"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 403
+  "order": 0
 }

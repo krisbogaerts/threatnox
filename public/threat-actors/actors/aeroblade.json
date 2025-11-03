@@ -1,19 +1,26 @@
 {
   "slug": "aeroblade",
   "name": "AeroBlade",
-  "uuid": "47739f40-c80c-435a-bedc-0d2b38e87ddc",
+  "uuid": null,
   "description": "AeroBlade is a previously unknown threat actor that has been targeting an aerospace organization in the United States. Their objective appears to be conducting commercial and competitive cyber espionage. They employ spear-phishing as a delivery mechanism, using weaponized documents with embedded remote template injection techniques and malicious VBA macro code. The attacks have been ongoing since September 2022, with multiple phases identified in the attack chain. The origin and precise objective of AeroBlade remain unknown.",
   "aliases": [],
   "refs": [
     "https://blogs.blackberry.com/en/2023/11/aeroblade-on-the-hunt-targeting-us-aerospace-industry"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://blogs.blackberry.com/en/2023/11/aeroblade-on-the-hunt-targeting-us-aerospace-industry"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 547
+  "order": 0
 }

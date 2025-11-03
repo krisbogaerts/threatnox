@@ -1,0 +1,27 @@
+{
+  "slug": "unc5221",
+  "name": "UNC5221",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 💡 UNC5221 Tags Attribution 🇨🇳 Incidents Ivanti Connect Secure targeting campaign MITRE breach via Ivanti Connect Secure BRICKSTORM Espionage Backdoor Targeting U.S. Tech and Legal Sectors Last edited Mar 11, 2024 5:40 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/brickstorm-espionage-campaign/",
+    "https://forums.ivanti.com/s/article/CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

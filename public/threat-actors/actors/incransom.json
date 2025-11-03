@@ -1,0 +1,34 @@
+{
+  "slug": "incransom",
+  "name": "incransom",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://www.guidepointsecurity.com/blog/update-from-the-ransomware-trenches/",
+    "https://www.huntress.com/blog/lolbin-to-inc-ransomware",
+    "https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware",
+    "https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity",
+    "http://incblog7vmuq7rktic73r4ha4j757m3ptym37tyvifzp2roedyyzzxid.onion/blog/leaks",
+    "http://incbackrlasjesgpfu5brktfjknbqoahe2hhmqfhasc5fb56mtukn4yd.onion/api/blog/get-leaks",
+    "http://incbackend.top/api/blog/get-leaks",
+    "http://incapt.blog/blog/leaks",
+    "http://incapt.su/blog/leaks",
+    "http://incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion/blog/disclosures",
+    "http://incbacg6bfwtrlzwdbqc55gsfl763s3twdtwhp27dzuik6s6rwdcityd.onion/api/v1/blog/get/announcements?page=1&perPage=15"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

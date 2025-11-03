@@ -1,12 +1,15 @@
 {
   "slug": "apt-c-36",
   "name": "APT-C-36",
-  "uuid": "ae1c64ff-5a37-4291-97f8-ea402c63efd0",
-  "description": "Since April 2018, an APT group (Blind Eagle, APT-C-36) suspected coming from South America carried out continuous targeted attacks against Colombian government institutions as well as important corporations in financial sector, petroleum industry, professional manufacturing, etc.",
+  "uuid": null,
+  "description": "[APT-C-36](https://attack.mitre.org/groups/G0099) is a suspected South America espionage group that has been active since at least 2018. The group mainly targets Colombian government institutions as well as important corporations in the financial sector, petroleum industry, and professional manufacturing.(Citation: QiAnXin APT-C-36 Feb2019)",
   "aliases": [
+    "APT-C-36",
     "Blind Eagle"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0099",
+    "https://web.archive.org/web/20190625182633if_/https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/",
     "https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/",
     "https://www.ecucert.gob.ec/wp-content/uploads/2022/03/alerta-APTs-2022-03-23.pdf",
     "https://blogs.blackberry.com/en/2023/02/blind-eagle-apt-c-36-targets-colombia",
@@ -15,43 +18,25 @@
     "https://research.checkpoint.com/2023/blindeagle-targeting-ecuador-with-sharpened-tools/",
     "https://attack.mitre.org/groups/G0099/"
   ],
-  "countries": [],
-  "sectors": [
-    "Petroleum",
-    "Manufacturing",
-    "Financial",
-    "Private sector",
-    "Government"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Ecuador",
-      "Colombia",
-      "Spain",
-      "Panama",
-      "Chile"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0099"
     ],
-    "cfr-target-category": [
-      "Petroleum",
-      "Manufacturing",
-      "Financial",
-      "Private sector",
-      "Government"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "refs": [
-      "https://ti.360.net/blog/articles/apt-c-36-continuous-attacks-targeting-colombian-government-institutions-and-corporations-en/",
-      "https://www.ecucert.gob.ec/wp-content/uploads/2022/03/alerta-APTs-2022-03-23.pdf",
-      "https://blogs.blackberry.com/en/2023/02/blind-eagle-apt-c-36-targets-colombia",
-      "https://lab52.io/blog/apt-c-36-recent-activity-analysis/",
-      "https://www.trendmicro.com/en_ph/research/21/i/apt-c-36-updates-its-long-term-spam-campaign-against-south-ameri.html",
-      "https://research.checkpoint.com/2023/blindeagle-targeting-ecuador-with-sharpened-tools/",
-      "https://attack.mitre.org/groups/G0099/"
-    ],
-    "synonyms": [
-      "Blind Eagle"
-    ]
+    "external_ids": {
+      "mitre": "G0099"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 218
+  "order": 0
 }

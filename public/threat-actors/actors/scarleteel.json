@@ -1,21 +1,32 @@
 {
   "slug": "scarleteel",
   "name": "SCARLETEEL",
-  "uuid": "e03a7ecb-b8a1-40c5-b5af-638ee6029374",
+  "uuid": null,
   "description": "SCARLETEEL is a threat actor that primarily targets cloud environments, specifically AWS and Kubernetes. They have been observed stealing proprietary data and intellectual property, as well as conducting cryptomining operations. SCARLETEEL employs sophisticated tactics and tools to bypass security measures and gain unauthorized access to accounts, often exploiting vulnerabilities in containerized workloads and misconfigurations in AWS policies.",
   "aliases": [],
   "refs": [
     "https://sysdig.com/blog/scarleteel-2-0/",
     "https://sysdig.com/blog/cloud-breach-terraform-data-theft/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://sysdig.com/blog/scarleteel-2-0/",
-      "https://sysdig.com/blog/cloud-breach-terraform-data-theft/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3032",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3032"
+    },
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 491
+  "order": 0
 }

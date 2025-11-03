@@ -1,0 +1,26 @@
+{
+  "slug": "albabat-operator",
+  "name": "Albabat operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape Albabat operator Tags Attribution Incidents Albabat Ransomware Targets Windows, Linux, and macOS Using GitHub Infrastructure Last edited May 8, 2025 9:51 AM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/25/c/albabat-ransomware-group.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

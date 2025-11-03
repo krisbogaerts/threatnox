@@ -1,0 +1,24 @@
+{
+  "slug": "u-bomb",
+  "name": "u-bomb",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://contiuevxdgdhn3zl2kubpajtfgqq4ssj2ipv6ujw7fwhggev3rk6hqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

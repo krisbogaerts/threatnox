@@ -1,0 +1,26 @@
+{
+  "slug": "ref3927",
+  "name": "REF3927",
+  "uuid": null,
+  "description": "Cloud Threat Landscape REF3927 Tags Attribution Incidents IIS Backdoor Exploiting Exposed ASP.NET Machine Keys Last edited Oct 27, 2025 2:28 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.elastic.co/security-labs/tollbooth"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

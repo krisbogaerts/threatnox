@@ -1,23 +1,30 @@
 {
   "slug": "brazenbamboo",
   "name": "BrazenBamboo",
-  "uuid": "305fbff0-d3ff-43e3-8741-63bad68e47ee",
+  "uuid": null,
   "description": "BrazenBamboo is a Chinese state-affiliated threat actor known for developing the LIGHTSPY, DEEPDATA, and DEEPPOST malware families. Their infrastructure includes capabilities for zero-day exploitation, specifically targeting vulnerabilities like FortiClient, and employs a command-and-control architecture that supports multi-platform operations. Volexity's analysis indicates that BrazenBamboo is a well-resourced entity with a focus on domestic targets, utilizing custom analyst software to manage data collected from their malware. The ongoing development of their malware families is evidenced by the timestamps associated with their latest payloads.",
   "aliases": [],
   "refs": [
-    "https://www.volexity.com/blog/2024/11/15/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-vpn-credentials-via-deepdata/"
+    "https://www.volexity.com/blog/2024/11/15/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-vpn-credentials-via-deepdata/",
+    "https://cybersecuritynews.com/brazenbamboo-apt-forticlient-zero-day/"
   ],
   "country": "CN",
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.volexity.com/blog/2024/11/15/brazenbamboo-weaponizes-forticlient-vulnerability-to-steal-vpn-credentials-via-deepdata/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 779
+  "order": 0
 }

@@ -1,0 +1,52 @@
+{
+  "slug": "threat-group-3390",
+  "name": "Threat Group-3390",
+  "uuid": null,
+  "description": "[Threat Group-3390](https://attack.mitre.org/groups/G0027) is a Chinese threat group that has extensively used strategic Web compromises to target victims.(Citation: Dell TG-3390) The group has been active since at least 2010 and has targeted organizations in the aerospace, government, defense, technology, energy, manufacturing and gambling/betting sectors.(Citation: SecureWorks BRONZE UNION June 2017)(Citation: Securelist LuckyMouse June 2018)(Citation: Trend Micro DRBControl February 2020)",
+  "aliases": [
+    "Threat Group-3390",
+    "Earth Smilodon",
+    "TG-3390",
+    "Emissary Panda",
+    "BRONZE UNION",
+    "APT27",
+    "Iron Tiger",
+    "LuckyMouse",
+    "Linen Typhoon"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0027",
+    "https://www.secureworks.com/research/bronze-union",
+    "https://www.secureworks.com/research/threat-group-3390-targets-organizations-for-cyberespionage",
+    "https://unit42.paloaltonetworks.com/emissary-panda-attacks-middle-east-government-sharepoint-servers/",
+    "http://arstechnica.com/security/2015/08/newly-discovered-chinese-hacking-group-hacked-100-websites-to-use-as-watering-holes/",
+    "https://thehackernews.com/2018/06/chinese-watering-hole-attack.html",
+    "https://securelist.com/luckymouse-hits-national-data-center/86083/",
+    "https://www.trendmicro.com/en_us/research/21/d/iron-tiger-apt-updates-toolkit-with-evolved-sysupdate-malware-va.html",
+    "https://documents.trendmicro.com/assets/white_papers/wp-uncovering-DRBcontrol.pdf",
+    "https://learn.microsoft.com/en-us/unified-secops-platform/microsoft-threat-actor-naming",
+    "https://research.nccgroup.com/2018/05/18/emissary-panda-a-potential-new-malicious-tool/"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0027"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0027"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

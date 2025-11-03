@@ -1,0 +1,27 @@
+{
+  "slug": "everest",
+  "name": "everest",
+  "uuid": null,
+  "description": "Everest ransom group collects and analyzes information about their victims. They specialize in customer privacy data, financial information, databases, credit card information, and more. The Everest ransom group leaks the victim's data to the darknet and they announced that any victim that will not contact them will suffer from a data leak and they will not delete hist files for future usage.",
+  "aliases": [],
+  "refs": [
+    "https://www.aha.org/system/files/media/file/2024/08/hc3-tlp-clear-threat-actor-profile-everest-ransomware-group-august-20-2024.pdf",
+    "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

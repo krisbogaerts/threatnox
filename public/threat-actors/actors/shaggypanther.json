@@ -1,7 +1,7 @@
 {
   "slug": "shaggypanther",
   "name": "ShaggyPanther",
-  "uuid": "07791d89-64b6-46df-9f67-ccde8c2cbb20",
+  "uuid": null,
   "description": "ShaggyPanther is a threat actor that primarily targets government entities in Taiwan and Malaysia. They have been active since 2008 and utilize hidden encrypted payloads in registry keys. Their activities have been detected in various locations, including Indonesia and Syria.",
   "aliases": [],
   "refs": [
@@ -13,15 +13,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://securelist.com/ksb-2019-review-of-the-year/95394/",
-      "https://securelist.com/apt-trends-report-q3-2019/94530/",
-      "https://securelist.com/apt-review-of-the-year/89117/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 618
+  "order": 0
 }

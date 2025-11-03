@@ -1,0 +1,26 @@
+{
+  "slug": "entropy",
+  "name": "entropy",
+  "uuid": null,
+  "description": "Entropy is a ransomware first seen in 1st quarter of 2022, is being used in conjunction of Dridex infection. The ransomware uses a custom packer to pack itself which has been seen in some early dridex samples. \n",
+  "aliases": [],
+  "refs": [
+    "http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion/posts"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

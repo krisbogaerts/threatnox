@@ -1,0 +1,26 @@
+{
+  "slug": "kinsing-operator",
+  "name": "Kinsing operator",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://www.alibabacloud.com/blog/new-outbreak-of-h2miner-worms-exploiting-redis-rce-detected_595743",
+    "https://www.aquasec.com/blog/kinsing-malware-exploits-novel-openfire-vulnerability/",
+    "https://www.tenable.com/blog/kinsing-malware-hides-itself-as-a-manual-page-and-targets-cloud-servers"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

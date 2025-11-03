@@ -1,7 +1,7 @@
 {
   "slug": "rebel-jackal",
   "name": "Rebel Jackal",
-  "uuid": "29af2812-f7fb-4edb-8cc4-86d0d9e3644b",
+  "uuid": null,
   "description": "This is a pro-Islamist organization that generally conducts attacks motivated by real world events in which its members believe that members of the Muslim faith were wronged. Its attacks generally involve website defacements; however, the group did develop a RAT that it refers to as Fallaga RAT, but which appears to simply be a fork of the njRAT malware popular amongst hackers in the Middle East/North Africa region.",
   "aliases": [
     "FallagaTeam"
@@ -11,16 +11,18 @@
   "countries": [
     "TN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-type-of-incident": "Defacement",
-    "country": "TN",
-    "motive": "Hacktivists-Nationalists",
-    "synonyms": [
-      "FallagaTeam"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 51
+  "order": 0
 }

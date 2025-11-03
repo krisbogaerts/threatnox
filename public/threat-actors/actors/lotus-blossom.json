@@ -1,0 +1,46 @@
+{
+  "slug": "lotus-blossom",
+  "name": "Lotus Blossom",
+  "uuid": null,
+  "description": "[Lotus Blossom](https://attack.mitre.org/groups/G0030) is a long-standing threat group largely targeting various entities in Asia since at least 2009. In addition to government and related targets, [Lotus Blossom](https://attack.mitre.org/groups/G0030) has also targeted entities such as digital certificate issuers.(Citation: Lotus Blossom Jun 2015)(Citation: Symantec Bilbug 2022)(Citation: Cisco LotusBlossom 2025)",
+  "aliases": [
+    "Lotus Blossom",
+    "DRAGONFISH",
+    "Spring Dragon",
+    "RADIUM",
+    "Raspberry Typhoon",
+    "Bilbug",
+    "Thrip"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0030",
+    "https://web.archive.org/web/20190508165226/https://www.accenture.com/t20180127T003755Z_w_/us-en/_acnmedia/PDF-46/Accenture-Security-Dragonfish-Threat-Analysis.pdf",
+    "https://securelist.com/the-spring-dragon-apt/70726/",
+    "https://www.paloaltonetworks.com/resources/research/unit42-operation-lotus-blossom.html",
+    "https://blog.talosintelligence.com/lotus-blossom-espionage-group/",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+    "https://www.security.com/threat-intelligence/espionage-asia-governments-cert-authority"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0030"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0030"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "labrat-operator",
+  "name": "Labrat operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🐀 Labrat operator Tags Cryptojacking Attribution 💰Cybercrime Incidents Labrat GitLab campaign Last edited Mar 11, 2024 5:06 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

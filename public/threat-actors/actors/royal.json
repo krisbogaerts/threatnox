@@ -1,0 +1,48 @@
+{
+  "slug": "royal",
+  "name": "royal",
+  "uuid": null,
+  "description": "According to Trendmicro, Royal ransomware was first observed in September 2022, and the threat actors behind it are believed to be seasoned cybercriminals who used to be part of Conti Team One.",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2022/11/17/dev-0569-finds-new-ways-to-deliver-royal-ransomware-various-payloads/",
+    "http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion/",
+    "http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion/api/posts/list"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1566.001",
+      "T1059.003",
+      "T1059.001",
+      "T1547.001",
+      "T1543.003",
+      "T1078.002",
+      "T1548.002",
+      "T1027.006",
+      "T1055",
+      "T1087.001",
+      "T1087.002",
+      "T1482",
+      "T1135",
+      "T1021.002",
+      "T1550.002",
+      "T1071",
+      "T1071.001",
+      "T1567.002",
+      "T1486"
+    ]
+  },
+  "order": 0
+}

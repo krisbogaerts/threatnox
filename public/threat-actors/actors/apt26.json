@@ -1,7 +1,7 @@
 {
   "slug": "apt26",
   "name": "APT26",
-  "uuid": "c097471c-2405-4393-b6d7-afbcb5f0cd11",
+  "uuid": null,
   "description": "",
   "aliases": [
     "JerseyMikes",
@@ -19,23 +19,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "https://www.secureworks.com/research/threat-profiles/bronze-express",
-      "https://www.uscc.gov/sites/default/files/2022-02/Adam_Kozy_Testimony.pdf",
-      "https://www.fireeye.com/content/dam/fireeye-www/summit/cds-2019/presentations/cds19-executive-s08-achievement-unlocked.pdf"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "JerseyMikes",
-      "TURBINE PANDA",
-      "BRONZE EXPRESS",
-      "TECHNETIUM",
-      "Taffeta Typhoon"
-    ]
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 123
+  "order": 0
 }

@@ -1,21 +1,36 @@
 {
   "slug": "metador",
   "name": "Metador",
-  "uuid": "5d22315b-55ef-4d8a-86aa-00ba38057641",
-  "description": "Metador primarily targets telecommunications, internet service providers, and universities in several countries in the Middle East and Africa. Metador’s attack chains are designed to bypass native security solutions while deploying malware platforms directly into memory. SentinelLabs researchers discovered variants of two long-standing Windows malware platforms, and indications of an additional Linux implant.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[Metador](https://attack.mitre.org/groups/G1013) is a suspected cyber espionage group that was first reported in September 2022. [Metador](https://attack.mitre.org/groups/G1013) has targeted a limited number of telecommunication companies, internet service providers, and universities in the Middle East and Africa. Security researchers named the group [Metador](https://attack.mitre.org/groups/G1013) based on the \"I am meta\" string in one of the group's malware samples and the expectation of Spanish-language responses from C2 servers.(Citation: SentinelLabs Metador Sept 2022)",
+  "aliases": [
+    "Metador"
+  ],
   "refs": [
+    "https://attack.mitre.org/groups/G1013",
+    "https://assets.sentinelone.com/sentinellabs22/metador#page=1",
     "https://www.sentinelone.com/labs/the-mystery-of-metador-unpicking-mafaldas-anti-analysis-techniques/",
     "https://www.sentinelone.com/labs/the-mystery-of-metador-an-unattributed-threat-hiding-in-telcos-isps-and-universities/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.sentinelone.com/labs/the-mystery-of-metador-unpicking-mafaldas-anti-analysis-techniques/",
-      "https://www.sentinelone.com/labs/the-mystery-of-metador-an-unattributed-threat-hiding-in-telcos-isps-and-universities/"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1013"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1013"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 450
+  "order": 0
 }

@@ -1,0 +1,26 @@
+{
+  "slug": "doki-operator",
+  "name": "Doki operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape ⛵ Doki operator Tags Botnet Operator Cryptojacking Attribution 💰Cybercrime Incidents Doki cryptojacking campaign Last edited Apr 30, 2024 6:46 AM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://intezer.com/blog/cloud-security/watch-your-containers-doki-infecting-docker-servers-in-the-cloud/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

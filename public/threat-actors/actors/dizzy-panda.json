@@ -1,19 +1,24 @@
 {
   "slug": "dizzy-panda",
   "name": "DIZZY PANDA",
-  "uuid": "8a8f39df-74b3-4946-ab64-f84968bababe",
+  "uuid": null,
   "description": "",
   "aliases": [
     "LadyBoyle"
   ],
   "refs": [],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "synonyms": [
-      "LadyBoyle"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 9
+  "order": 0
 }

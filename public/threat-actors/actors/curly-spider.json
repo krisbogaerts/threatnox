@@ -1,0 +1,27 @@
+{
+  "slug": "curly-spider",
+  "name": "CURLY SPIDER",
+  "uuid": null,
+  "description": "A social engineering-focus cybercriminal actor known for high-speed intrusions.<sup>[[CrowdStrike 2025 Global Threat Report](/references/a69b0ce3-f314-4b32-bfb3-b1380c4f0ec4)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3081"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3081"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

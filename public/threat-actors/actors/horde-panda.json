@@ -1,0 +1,26 @@
+{
+  "slug": "horde-panda",
+  "name": "Horde Panda",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🐼 Horde Panda Tags Attribution Incidents Horde Panda targeting South Asian telecommunications provider Last edited Oct 28, 2024 1:41 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://github.com/blackorbird/APT_REPORT/blob/master/summary/2024/crowdstrike-2024-threat-hunting-report.pdf"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

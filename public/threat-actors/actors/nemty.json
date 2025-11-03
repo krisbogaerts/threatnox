@@ -1,0 +1,26 @@
+{
+  "slug": "nemty",
+  "name": "nemty",
+  "uuid": null,
+  "description": "Nemty is a ransomware that was discovered in September 2019. Fortinet states that they found it being distributed through similar ways as Sodinokibi and also noted artfifacts they had seen before in Gandcrab.\n",
+  "aliases": [],
+  "refs": [
+    "http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

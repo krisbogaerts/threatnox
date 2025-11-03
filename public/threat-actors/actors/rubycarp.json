@@ -1,7 +1,7 @@
 {
   "slug": "rubycarp",
   "name": "RUBYCARP",
-  "uuid": "2742b229-02f4-40d0-9b99-91844a2b030e",
+  "uuid": null,
   "description": "RUBYCARP is a financially-motivated threat actor group likely based in Romania, with a history of at least 10 years of activity. They operate a botnet using public exploits and brute force attacks, communicating via public and private IRC networks. RUBYCARP targets vulnerabilities in frameworks like Laravel and WordPress, as well as conducting phishing operations to steal financial assets. They use a variety of tools, including the Perl Shellbot, for post-exploitation activities and have a diverse set of illicit income streams.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,19 @@
   "countries": [
     "RO"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RO",
-    "refs": [
-      "https://sysdig.com/blog/rubycarp-romanian-botnet-group/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 657
+  "order": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "hellsing",
   "name": "Hellsing",
-  "uuid": "af482dde-9e47-48d5-9cb2-cf8f6d6303d3",
+  "uuid": null,
   "description": "This threat actor uses spear-phishing techniques to compromise diplomatic targets in Southeast Asia, India, and the United States. It also seems to have targeted the APT 30. Possibly uses the same infrastructure as Mirage",
   "aliases": [],
   "refs": [
@@ -12,33 +12,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Government"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "Malaysia",
-      "Indonesia",
-      "Philippines",
-      "United States",
-      "India"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://www.cfr.org/interactive/cyber-operations/hellsing",
-      "https://securelist.com/the-chronicles-of-the-hellsing-apt-the-empire-strikes-back/69567/"
-    ],
-    "targeted-sector": [
-      "Infrastructure",
-      "Diplomacy"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 26
+  "order": 0
 }

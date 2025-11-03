@@ -1,48 +1,57 @@
 {
   "slug": "scattered-spider",
   "name": "Scattered Spider",
-  "uuid": "3b238f3a-c67a-4a9e-b474-dc3897e00129",
-  "description": "Scattered Spider, a highly active hacking group, has made headlines by targeting more than 130 organizations, with the number of victims steadily increasing.",
+  "uuid": null,
+  "description": "[Scattered Spider](https://attack.mitre.org/groups/G1015) is a native English-speaking cybercriminal group active since at least 2022. (Citation: CrowdStrike Scattered Spider Profile) (Citation: MSTIC Octo Tempest Operations October 2023) The group initially targeted customer relationship management (CRM) providers, business process outsourcing (BPO) firms, and telecommunications and technology companies before expanding in 2023 to gaming, hospitality, retail, managed service provider (MSP), manufacturing, and financial sectors. (Citation: MSTIC Octo Tempest Operations October 2023)\n[Scattered Spider](https://attack.mitre.org/groups/G1015) relies heavily on social engineering, including impersonating IT and help-desk staff, to gain initial access, bypass multi-factor authentication (MFA), and compromise enterprise networks. The group has adapted its tooling to evade endpoint detection and response (EDR) defenses and used ransomware for financial gain. (Citation: CISA Scattered Spider Advisory November 2023) (Citation: CrowdStrike Scattered Spider BYOVD January 2023) (Citation: Crowdstrike TELCO BPO Campaign December 2022)\n[Scattered Spider](https://attack.mitre.org/groups/G1015) had expanded into hybrid cloud and identity environments, using help-desk impersonation and MFA bypass to obtain administrator access in Okta, AWS, and Office 365. (Citation: Mandiant UNC3944 May 2025)",
   "aliases": [
+    "Scattered Spider",
+    "Roasted 0ktapus",
+    "Octo Tempest",
+    "Storm-0875",
     "UNC3944",
     "Muddled Libra",
     "Oktapus",
     "Scattered Swine",
     "Scatter Swine",
-    "Octo Tempest",
     "0ktapus",
     "Storm-0971",
     "DEV-0971",
     "Starfraud"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G1015",
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a",
+    "https://www.crowdstrike.com/blog/scattered-spider-attempts-to-avoid-detection-with-bring-your-own-vulnerable-driver-tactic/",
+    "https://www.crowdstrike.com/adversaries/scattered-spider/",
+    "https://cloud.google.com/blog/topics/threat-intelligence/defending-vsphere-from-unc3944",
+    "https://cloud.google.com/blog/topics/threat-intelligence/unc3944-proactive-hardening-recommendations",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+    "https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/",
+    "https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/",
     "https://www.cybersecurity-insiders.com/scattered-spider-managed-mgm-resort-network-outage-brings-8m-loss-daily/",
     "https://www.loginradius.com/blog/identity/oktapus-phishing-targets-okta-identity-credentials/",
     "https://www.attackiq.com/2023/11/21/attack-graph-response-to-cisa-advisory-aa23-320a/",
     "https://www.mandiant.com/resources/blog/unc3944-sms-phishing-sim-swapping-ransomware"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.cybersecurity-insiders.com/scattered-spider-managed-mgm-resort-network-outage-brings-8m-loss-daily/",
-      "https://www.loginradius.com/blog/identity/oktapus-phishing-targets-okta-identity-credentials/",
-      "https://www.attackiq.com/2023/11/21/attack-graph-response-to-cisa-advisory-aa23-320a/",
-      "https://www.mandiant.com/resources/blog/unc3944-sms-phishing-sim-swapping-ransomware"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1015"
     ],
-    "synonyms": [
-      "UNC3944",
-      "Muddled Libra",
-      "Oktapus",
-      "Scattered Swine",
-      "Scatter Swine",
-      "Octo Tempest",
-      "0ktapus",
-      "Storm-0971",
-      "DEV-0971",
-      "Starfraud"
-    ]
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1015"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 429
+  "order": 0
 }

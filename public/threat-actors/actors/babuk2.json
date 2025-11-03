@@ -1,0 +1,31 @@
+{
+  "slug": "babuk2",
+  "name": "babuk2",
+  "uuid": null,
+  "description": "Babuk Locker 2.0, also known as Bjorka or SkyWave, after failing to make any profit from selling public databases on forums, decided to impersonate Babuk Ransomware group. He launched a blog where he claimed multiple public breaches from BreachForums as ransomware attacks",
+  "aliases": [
+    "Satanlock"
+  ],
+  "refs": [
+    "http://7dikawx73goypgfi4zyo5fcajxwb7agemmiwqax3p54aey4dwobcvcyd.onion/",
+    "http://bxwu33iefqfc3rxigynn3ghvq4gdw3gxgxna5m4aa3o4vscdeeqhiqad.onion/",
+    "http://212.24.99.211/",
+    "http://5g2e.l.time4vps.cloud/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

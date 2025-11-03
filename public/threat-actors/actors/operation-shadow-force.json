@@ -1,21 +1,27 @@
 {
   "slug": "operation-shadow-force",
   "name": "Operation Shadow Force",
-  "uuid": "f628b544-48b6-44e2-b794-950713353cf1",
+  "uuid": null,
   "description": "Operation Shadow Force is a group of malware that is representative of Shadow Force and Wgdrop from 2013 to 2020, and is a group activity that attacks Korean companies and organizations. The group's first confirmed attack was in March 2013, but considering the date of malware creation, it is likely to have been active before 2012. Since the malware used mainly by them is Shadow Force, it was named Operation Shadow Force, and it has not been confirmed whether the attacker is associated with a known group.",
   "aliases": [],
   "refs": [
     "https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?curPage=1&menu_dist=2&seq=29129",
     "https://mobile.twitter.com/mstoned7/status/1247361687570673664"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?curPage=1&menu_dist=2&seq=29129",
-      "https://mobile.twitter.com/mstoned7/status/1247361687570673664"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 284
+  "order": 0
 }

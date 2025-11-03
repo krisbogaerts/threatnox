@@ -1,0 +1,28 @@
+{
+  "slug": "la-piovra",
+  "name": "la_piovra",
+  "uuid": null,
+  "description": "ℹ️  La Piovra Ransomware is an exercise of the company Offensive Security (also known as OffSec)",
+  "aliases": [],
+  "refs": [
+    "http://et22fibzuzfyzgurm35sttm52qbzvdgzy5qhzy46a3gmkrrht3lec5ad.onion/",
+    "http://h3txev6jev7rcm6p2qkxn2vctybi4dvochr3inymzgif53n2j2oqviqd.onion/",
+    "http://wx3djgl4cacl6y4x7r4e4mbqrrub24ectue7ixyix2du25nfowtvfiyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

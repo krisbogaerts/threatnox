@@ -1,7 +1,7 @@
 {
   "slug": "ta453",
   "name": "TA453",
-  "uuid": "c1d44f44-425e-48fd-b78b-84b988da8bc3",
+  "uuid": null,
   "description": "TA453 has employed the use of compromised accounts, malware, and confrontational lures to go after targets with a range of backgrounds from medical researchers to realtors to travel agencies.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IR",
-    "refs": [
-      "https://www.proofpoint.com/us/blog/threat-insight/ta453-refuses-be-bound-expectations",
-      "https://www.proofpoint.com/us/blog/threat-insight/badblood-ta453-targets-us-and-israeli-medical-research-personnel-credential"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 412
+  "order": 0
 }

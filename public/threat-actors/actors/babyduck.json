@@ -1,0 +1,24 @@
+{
+  "slug": "babyduck",
+  "name": "babyduck",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

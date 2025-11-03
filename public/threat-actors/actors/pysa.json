@@ -1,0 +1,28 @@
+{
+  "slug": "pysa",
+  "name": "pysa",
+  "uuid": null,
+  "description": "Mespinosa is a ransomware which encrypts file using an asymmetric encryption and adds .pysa as file extension. According to dissectingmalware the extension \"pysa\" is probably derived from the Zanzibari Coin with the same name.",
+  "aliases": [],
+  "refs": [
+    "https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/",
+    "https://blogs.blackberry.com/en/2021/06/pysa-loves-chachi-a-new-golang-rat",
+    "http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion/partners.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

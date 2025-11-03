@@ -1,0 +1,53 @@
+{
+  "slug": "blacksuit",
+  "name": "BlackSuit Ransomware Actors",
+  "uuid": null,
+  "description": "This object reflects the ATT&CK Techniques associated with threat actors who deploy BlackSuit, a ransomware capable of running on Windows and Linux systems. BlackSuit is believed to be a successor to Royal, a ransomware operation which itself derives from the notorious Russia-based Conti gang. BlackSuit operations were first observed in May 2023, and although they were relatively low in number, U.S. authorities issued a warning for healthcare sector organizations due to the ransomware's suspected pedigree.<sup>[[HC3 Analyst Note BlackSuit Ransomware November 2023](/references/d956f0c6-d90e-49e8-a64c-a46bfc177cc6)]</sup> The number of attacks claimed by BlackSuit operators increased notably in Q2 2024.<sup>[[GitHub ransomwatch](/references/62037959-58e4-475a-bb91-ff360d20c1d7)]</sup>\n\nATT&CK Techniques associated with the BlackSuit ransomware binary are tracked in a separate \"BlackSuit  Ransomware\" Software object.",
+  "aliases": [
+    "Ransomware BlackSuit"
+  ],
+  "refs": [
+    "https://thedfirreport.com/2024/08/26/blacksuit-ransomware/",
+    "http://weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion/",
+    "https://github.com/user-attachments/assets/71ef04b5-2992-47da-bdf2-5d3dd578b986"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3047",
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3047"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1650",
+      "T1021.001",
+      "T1133",
+      "T1190",
+      "T1566",
+      "T1566.001",
+      "T1566.002",
+      "T1078",
+      "T1078.002",
+      "T1070.001",
+      "T1119",
+      "T1484.001",
+      "T1562.001",
+      "T1105",
+      "T1572",
+      "T1486",
+      "T1490"
+    ]
+  },
+  "order": 0
+}

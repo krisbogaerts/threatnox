@@ -1,0 +1,43 @@
+{
+  "slug": "hunters",
+  "name": "hunters",
+  "uuid": null,
+  "description": "In mid-October 2023, just a few days before the Europol operation, the source code of the Ransomware Hive was sold, along with its website and older versions developed in Golang and C (although this purchase has only been reported by the actors without concrete evidence). The buyer of this new source code was the group Hunters International, who claimed to have fixed the bugs in the Ransomware Hive that were responsible for preventing file decryption in some cases. The group also stated that file encryption would not be their primary focus; instead, they would use data theft as a method to pressure victims during extortion attempts.",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/",
+    "https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/",
+    "https://hunters55rdxciehoqzwv7vgyv6nt37tbwax2reroyzxhou7my5ejyid.onion/",
+    "https://hunters33mmcwww7ek7q5ndahul6nmzmrsumfs6aenicbqon6mxfiqyd.onion/login",
+    "http://hunters55atbdusuladzv7vzv6a423bkh6ksl2uftwrxyuarbzlfh7yd.onion/",
+    "https://huntersinternational.org/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1106",
+      "T1129",
+      "T1547",
+      "T1027",
+      "T1562",
+      "T1057",
+      "T1082",
+      "T1083",
+      "T1071",
+      "T1071.001",
+      "T1486"
+    ]
+  },
+  "order": 0
+}

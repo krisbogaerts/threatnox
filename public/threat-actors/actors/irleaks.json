@@ -1,7 +1,7 @@
 {
   "slug": "irleaks",
   "name": "IRLeaks",
-  "uuid": "f0a50fa0-25ca-4346-a666-390923f2c5a1",
+  "uuid": null,
   "description": "IRLeaks is a threat actor known for significant cyberattacks targeting Iranian organizations, including a major breach of SnappFood, where they exfiltrated 3TB of sensitive data from 20 million user profiles. They have also compromised data from 23 leading Iranian insurance companies, offering over 160 million records for sale. Their operations involve extortion tactics, as seen in the ransom negotiations with Tosan, and they utilize malware such as StealC for data extraction. IRLeaks communicates primarily in Persian and has been active in selling stolen data on cybercriminal marketplaces.",
   "aliases": [],
   "refs": [
@@ -11,17 +11,20 @@
     "https://cybershafarat.com/2024/09/04/major-ir-leaks/",
     "https://www.scmagazine.com/brief/significant-ransom-payment-by-major-iranian-it-firm-underway"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.hackread.com/iranian-food-delivery-snappfood-cyber-attack/",
-      "https://cisoseries.com/cyber-security-headlines-google-5b-suit-settled-orbit-chain-loses-80m-fda-cyber-agreement/",
-      "https://www.oodaloop.com/briefs/2024/01/04/pilfered-data-from-iranian-insurance-and-food-delivery-firms-leaked-online/",
-      "https://cybershafarat.com/2024/09/04/major-ir-leaks/",
-      "https://www.scmagazine.com/brief/significant-ransom-payment-by-major-iranian-it-firm-underway"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 729
+  "order": 0
 }

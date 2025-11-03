@@ -1,0 +1,36 @@
+{
+  "slug": "confucius",
+  "name": "Confucius",
+  "uuid": null,
+  "description": "[Confucius](https://attack.mitre.org/groups/G0142) is a cyber espionage group that has primarily targeted military personnel, high-profile personalities, business persons, and government organizations in South Asia since at least 2013. Security researchers have noted similarities between [Confucius](https://attack.mitre.org/groups/G0142) and [Patchwork](https://attack.mitre.org/groups/G0040), particularly in their respective custom malware code and targets.(Citation: TrendMicro Confucius APT Feb 2018)(Citation: TrendMicro Confucius APT Aug 2021)(Citation: Uptycs Confucius APT Jan 2021)",
+  "aliases": [
+    "Confucius",
+    "Confucius APT"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0142",
+    "https://www.trendmicro.com/en_us/research/18/b/deciphering-confucius-cyberespionage-operations.html",
+    "https://www.trendmicro.com/en_us/research/21/h/confucius-uses-pegasus-spyware-related-lures-to-target-pakistani.html",
+    "https://www.uptycs.com/blog/confucius-apt-deploys-warzone-rat"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0142"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0142"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

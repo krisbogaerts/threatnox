@@ -1,21 +1,27 @@
 {
   "slug": "newspenguin",
   "name": "NewsPenguin",
-  "uuid": "4c4a8cb7-b4c4-4637-8e41-dfe19a6b40c7",
+  "uuid": null,
   "description": "NewsPenguin is threat actor that has been targeting organizations in Pakistan. They use a complex payload delivery mechanism and exploit the upcoming Pakistan International Maritime Expo & Conference as a lure to trick their victims. The group has been linked to a phishing campaign that leverages spear-phishing emails and weaponized documents to deliver an advanced espionage tool.",
   "aliases": [],
   "refs": [
     "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-newspenguin-threat-actors-targeting-pakistani-entities-with-malicious-campaign-active-iocs",
     "https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-newspenguin-threat-actors-targeting-pakistani-entities-with-malicious-campaign-active-iocs",
-      "https://blogs.blackberry.com/en/2023/02/newspenguin-a-previously-unknown-threat-actor-targets-pakistan-with-advanced-espionage-tool"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 523
+  "order": 0
 }

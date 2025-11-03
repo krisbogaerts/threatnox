@@ -1,0 +1,29 @@
+{
+  "slug": "hive",
+  "name": "hive",
+  "uuid": null,
+  "description": "Hive is a strain of ransomware that was first discovered in June 2021. Hive was designed to be used by Ransomware-as-a-service providers, to enable novice cyber-criminals to launch ransomware attacks on healthcare providers, energy providers, charities, and retailers across the globe.\nIn 2022 there was a switch from GoLang to Rust.\n",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/",
+    "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
+    "http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion/",
+    "http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion/v1/companies/disclosed"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

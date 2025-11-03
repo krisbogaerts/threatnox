@@ -1,21 +1,27 @@
 {
   "slug": "storm-0826",
   "name": "Storm-0826",
-  "uuid": "102b6626-1576-4034-83bb-bd9d54ae0e5e",
+  "uuid": null,
   "description": "Storm-0826 is a financially motivated cybercriminal group operating as an affiliate within the Black Basta ransomware-as-a-service (RaaS) ecosystem. This actor's primary known method of obtaining initial access is through handoffs from Storm-0464, a known distributor of the Qakbot malware",
   "aliases": [],
   "refs": [
     "https://www.youtube.com/watch?v=U7p0J8aMZhM&t=193s",
     "https://applied-gai-in-security.ghost.io/security-copilot-promptbook-threat-actor-profile/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.youtube.com/watch?v=U7p0J8aMZhM&t=193s",
-      "https://applied-gai-in-security.ghost.io/security-copilot-promptbook-threat-actor-profile/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 802
+  "order": 0
 }

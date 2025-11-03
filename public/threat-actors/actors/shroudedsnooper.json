@@ -1,21 +1,27 @@
 {
   "slug": "shroudedsnooper",
   "name": "ShroudedSnooper",
-  "uuid": "3437c5a5-4c42-4665-99df-b17bc57a7ba6",
+  "uuid": null,
   "description": "In September 2023, Cisco Talos identified a new malware family that it calls ‘HTTPSnoop’ being deployed against telecommunications providers in the Middle East. They also discovered a sister implant to 'HTTPSnoop,’ that they are naming ‘PipeSnoop,’ which can accept arbitrary shellcode from a named pipe and execute it on the infected endpoint. Based on these findings, the researchers assess with high confidence that both implants belong to a new intrusion set that it named ‘ShroudedSnooper.’",
   "aliases": [],
   "refs": [
     "https://blog.talosintelligence.com/introducing-shrouded-snooper/",
     "https://www.sentinelone.com/labs/the-israel-hamas-war-cyber-domain-state-sponsored-activity-of-interest/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://blog.talosintelligence.com/introducing-shrouded-snooper/",
-      "https://www.sentinelone.com/labs/the-israel-hamas-war-cyber-domain-state-sponsored-activity-of-interest/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 474
+  "order": 0
 }

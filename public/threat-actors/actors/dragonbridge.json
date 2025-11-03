@@ -1,7 +1,7 @@
 {
   "slug": "dragonbridge",
   "name": "Dragonbridge",
-  "uuid": "a4d55f94-d842-400a-acb6-dfee1c446257",
+  "uuid": null,
   "description": "DRAGONBRIDGE is a Chinese state-sponsored threat actor known for engaging in information operations to promote the political interests of the People's Republic of China. They have been observed using AI-generated images and videos to spread propaganda on social media platforms. The group has targeted various countries and regions, including the US, Taiwan, and Japan, with narratives promoting pro-PRC viewpoints. DRAGONBRIDGE has been linked to campaigns discrediting the US political system, sowing division between allies, and criticizing specific companies and individuals.",
   "aliases": [
     "Spamouflage Dragon"
@@ -15,18 +15,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://cloud.google.com/blog/topics/threat-intelligence/prc-dragonbridge-influence-elections/",
-      "https://quointelligence.eu/2024/06/european-election-at-risk-analysis/",
-      "https://blog.google/threat-analysis-group/over-50000-instances-of-dragonbridge-activity-disrupted-in-2022/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Spamouflage Dragon"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 703
+  "order": 0
 }

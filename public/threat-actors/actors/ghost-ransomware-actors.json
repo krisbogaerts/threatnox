@@ -1,0 +1,27 @@
+{
+  "slug": "ghost-ransomware-actors",
+  "name": "Ghost Ransomware Actors",
+  "uuid": null,
+  "description": "Ghost actors, located in China, conduct widespread ransomware attacks for financial gain. They target networks with vulnerabilities, affecting organizations across more than 70 countries, including critical infrastructure, schools, healthcare, and more.<sup>[[U.S. CISA Ghost Cring Ransomware February 19 2025](/references/d3b3cebd-3428-4d71-a81e-a7cb6248e3b7)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3079"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3079"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

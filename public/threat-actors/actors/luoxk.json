@@ -1,20 +1,26 @@
 {
   "slug": "luoxk",
   "name": "luoxk",
-  "uuid": "69e11692-691e-4bfb-9557-4e2a271684ed",
+  "uuid": null,
   "description": "Luoxk is a malware campaign targeting web servers throughout Asia, Europe and North America.",
   "aliases": [],
   "refs": [
     "https://www.systemtek.co.uk/2018/07/luoxk-malware-exploiting-cve-2018-2893/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.systemtek.co.uk/2018/07/luoxk-malware-exploiting-cve-2018-2893/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "since": "2017"
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 268
+  "order": 0
 }

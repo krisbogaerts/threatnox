@@ -1,21 +1,36 @@
 {
   "slug": "whitefly",
   "name": "Whitefly",
-  "uuid": "943f490e-ac7f-40fe-b6f3-33e2623649d2",
-  "description": "In July 2018, an attack on Singapore’s largest public health organization, SingHealth, resulted in a reported 1.5 million patient records being stolen. Until now, nothing was known about who was responsible for this attack. Symantec researchers have discovered that this attack group, which we call Whitefly, has been operating since at least 2017, has targeted organizations based mostly in Singapore across a wide variety of sectors, and is primarily interested in stealing large amounts of sensitive information.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[Whitefly](https://attack.mitre.org/groups/G0107) is a cyber espionage group that has been operating since at least 2017. The group has targeted organizations based mostly in Singapore across a wide variety of sectors, and is primarily interested in stealing large amounts of sensitive information. The group has been linked to an attack against Singapore’s largest public health organization, SingHealth.(Citation: Symantec Whitefly March 2019)",
+  "aliases": [
+    "Whitefly"
+  ],
   "refs": [
+    "https://attack.mitre.org/groups/G0107",
+    "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/whitefly-espionage-singapore",
     "https://www.symantec.com/blogs/threat-intelligence/whitefly-espionage-singapore",
     "https://www.reuters.com/article/us-singapore-cyberattack/cyberattack-on-singapore-health-database-steals-details-of-1-5-million-including-pm-idUSKBN1KA14J"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.symantec.com/blogs/threat-intelligence/whitefly-espionage-singapore",
-      "https://www.reuters.com/article/us-singapore-cyberattack/cyberattack-on-singapore-health-database-steals-details-of-1-5-million-including-pm-idUSKBN1KA14J"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0107"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0107"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 224
+  "order": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "unc4191",
   "name": "UNC4191",
-  "uuid": "df697450-57e0-496b-982c-a167ed41f023",
+  "uuid": null,
   "description": "UNC4191 is a China-linked threat actor that has been involved in cyber espionage campaigns targeting public and private sectors primarily in Southeast Asia. They have been known to use USB devices as an initial infection vector and have been observed deploying various malware families on infected systems. UNC4191's operations have also extended to the US, Europe, and the Asia Pacific Japan region, with a particular focus on the Philippines.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.mandiant.com/resources/blog/china-nexus-espionage-southeast-asia",
-      "https://therecord.media/espionage-group-using-usb-devices-to-hack-targets-in-southeast-asia/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 511
+  "order": 0
 }

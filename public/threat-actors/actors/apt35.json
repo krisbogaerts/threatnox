@@ -1,7 +1,7 @@
 {
   "slug": "apt35",
   "name": "APT35",
-  "uuid": "b8967b3c-3bc9-11e8-8701-8b1ead8c099e",
+  "uuid": null,
   "description": "FireEye has identified APT35 operations dating back to 2014. APT35, also known as the Newscaster Team, is a threat group sponsored by the Iranian government that conducts long term, resource-intensive operations to collect strategic intelligence. APT35 typically targets U.S. and the Middle Eastern military, diplomatic and government personnel, organizations in the media, energy and defense industrial base (DIB), and engineering, business services and telecommunications sectors.",
   "aliases": [
     "Newscaster Team",
@@ -31,35 +31,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "IR",
-    "refs": [
-      "https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf",
-      "https://attack.mitre.org/groups/G0059/",
-      "https://www.cfr.org/interactive/cyber-operations/magic-hound",
-      "https://unit42.paloaltonetworks.com/unit42-magic-hound-campaign-attacks-saudi-targets/",
-      "https://securityaffairs.co/wordpress/56348/intelligence/magic-hound-campaign.html",
-      "https://www.cfr.org/cyber-operations/apt-35",
-      "https://blogs.microsoft.com/on-the-issues/2019/03/27/new-steps-to-protect-customers-from-hacking/",
-      "https://research.checkpoint.com/2022/apt35-exploits-log4j-vulnerability-to-distribute-new-modular-powershell-toolkit/",
-      "https://www.microsoft.com/en-us/security/blog/2021/11/16/evolving-trends-in-iranian-threat-actor-activity-mstic-presentation-at-cyberwarcon-2021/",
-      "https://www.sentinelone.com/labs/log4j2-in-the-wild-iranian-aligned-threat-actor-tunnelvision-actively-exploiting-vmware-horizon/",
-      "https://www.secureworks.com/blog/cobalt-mirage-conducts-ransomware-operations-in-us",
-      "https://unit42.paloaltonetworks.com/iranian-attackers-impersonate-model-agency/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Newscaster Team",
-      "Magic Hound",
-      "G0059",
-      "Phosphorus",
-      "Mint Sandstorm",
-      "TunnelVision",
-      "COBALT MIRAGE",
-      "Agent Serpens"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 161
+  "order": 0
 }

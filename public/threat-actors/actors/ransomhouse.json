@@ -1,24 +1,31 @@
 {
   "slug": "ransomhouse",
   "name": "RansomHouse",
-  "uuid": "4d522fad-452c-46be-94ea-5803aec9b709",
+  "uuid": null,
   "description": "This group started operating during the first quarter of 2022. They published samples of alleged stolen data from companies on their site on Tor. It is unclear if they conducted the attacks themselves, or if they bought leaked databases from third parties.",
   "aliases": [],
   "refs": [
-    "https://webz.io/dwp/new-ransomware-group-ransomhouse-is-it-real-or-fake/"
+    "https://webz.io/dwp/new-ransomware-group-ransomhouse-is-it-real-or-fake/",
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a",
+    "http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion/",
+    "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
+    "http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion/"
   ],
-  "countries": [],
-  "sectors": [
-    "Private sector"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-target-category": [
-      "Private sector"
+    "sources": [
+      "MISP:threat-actor",
+      "RWLive"
     ],
-    "refs": [
-      "https://webz.io/dwp/new-ransomware-group-ransomhouse-is-it-real-or-fake/"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 365
+  "order": 0
 }

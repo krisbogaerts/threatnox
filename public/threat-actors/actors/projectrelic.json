@@ -1,0 +1,24 @@
+{
+  "slug": "projectrelic",
+  "name": "projectrelic",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

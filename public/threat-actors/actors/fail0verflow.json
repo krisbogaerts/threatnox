@@ -1,7 +1,7 @@
 {
   "slug": "fail0verflow",
   "name": "Fail0verflow",
-  "uuid": "096c57c1-263f-463e-8089-e553872db149",
+  "uuid": null,
   "description": "Fail0verflow is a hacking group known for exploiting vulnerabilities in gaming consoles, notably the Nintendo Wii and PlayStation 3. They utilized techniques such as RAM shorting, buffer overflow, and a signing bug to achieve code execution and develop the Homebrew Channel for the Wii. In 2010, they compromised an ECDSA key for the PS3, and later announced the retrieval of PS5 symmetric root keys, enabling the potential for custom firmware and homebrew software. Their exploits often involve kernel access and have raised concerns about the implications for piracy and litigation in the gaming community.",
   "aliases": [
     "Team Twiizer"
@@ -11,18 +11,20 @@
     "https://arstechnica.com/gaming/2021/11/uncovered-ps5-encryption-keys-are-the-first-step-to-unlocking-the-console/",
     "https://malware.news/t/playstation-5-hacked-twice/54441/1"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://blog.0x7d0.dev/history/how-the-nintendo-wii-security-was-defeated/",
-      "https://arstechnica.com/gaming/2021/11/uncovered-ps5-encryption-keys-are-the-first-step-to-unlocking-the-console/",
-      "https://malware.news/t/playstation-5-hacked-twice/54441/1"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Team Twiizer"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 733
+  "order": 0
 }

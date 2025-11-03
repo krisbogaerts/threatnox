@@ -1,7 +1,7 @@
 {
   "slug": "blue-tsunami",
   "name": "Blue Tsunami",
-  "uuid": "46104ded-49f5-4440-bd25-e05c1126f0ba",
+  "uuid": null,
   "description": "Blue Tsunami, also known as Black Cube, is a cyber mercenary group associated with the private intelligence firm Black Cube. They target individuals in various industries, including human rights, finance, and consulting. Blue Tsunami engages in social engineering and uses techniques such as honeypot profiles, fake jobs, and fake companies to gather human intelligence for their clients. LinkedIn and Microsoft recently took down numerous fake accounts and company pages linked to Blue Tsunami.",
   "aliases": [
     "Black Cube"
@@ -14,17 +14,18 @@
   "countries": [
     "IL"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IL",
-    "refs": [
-      "https://precisionpconline.com/a-unified-front-against-cyber-mercenaries/",
-      "https://www.microsoft.com/en-us/security/blog/2023/11/09/microsoft-shares-threat-intelligence-at-cyberwarcon-2023/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Black Cube"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 580
+  "order": 0
 }

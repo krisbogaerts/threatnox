@@ -1,19 +1,26 @@
 {
   "slug": "nocturnal-spider",
   "name": "NOCTURNAL SPIDER",
-  "uuid": "c042c592-25f6-4887-8a1b-6b8e3bfdcf0c",
+  "uuid": null,
   "description": "Mentioned as MaaS operator in CrowdStrike's 2020 Report.",
   "aliases": [],
   "refs": [
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 280
+  "order": 0
 }

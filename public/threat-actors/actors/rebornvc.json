@@ -1,0 +1,27 @@
+{
+  "slug": "rebornvc",
+  "name": "rebornvc",
+  "uuid": null,
+  "description": "",
+  "aliases": [
+    "RansomedVC2"
+  ],
+  "refs": [
+    "http://ransomed.vc/",
+    "http://ransomed.biz/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

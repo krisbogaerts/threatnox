@@ -1,0 +1,27 @@
+{
+  "slug": "sgl-actor",
+  "name": "SGL Actor",
+  "uuid": null,
+  "description": "SGL is a username used by a threat actor on the XSS cybercriminal forum. The actor was observed attempting to sell access to allegedly compromised corporate network VPN gateways and RDP software.<sup>[[Resecurity Remote Access Compromise March 13 2024](/references/eb3fc217-44b7-496f-b5d1-68b40f476ce3)]</sup><sup>[[CYJAX 2024 Year in Review January 29 2025](/references/f22b8c2c-6307-420d-9aac-7da4f054bd1f)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3092"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3092"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

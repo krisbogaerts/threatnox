@@ -1,21 +1,27 @@
 {
   "slug": "scamclub",
   "name": "ScamClub",
-  "uuid": "dae45b1c-f957-4242-aa5b-f36b08994bad",
+  "uuid": null,
   "description": "ScamClub is a threat actor involved in malvertising activities since 2018. They target the Mobile Web market segment, particularly on iOS devices, where security software is often lacking. ScamClub utilizes obfuscation techniques and real-time bidding integration with ad exchanges to push malicious JavaScript payloads, leading to forced redirects and various scams such as phishing and gift card scams.",
   "aliases": [],
   "refs": [
     "https://blog.confiant.com/exploring-scamclub-payloads-via-deobfuscation-using-abstract-syntax-trees-65ef7f412537",
     "https://www.malwarebytes.com/blog/threat-intelligence/2023/11/associated-press-espn-cbs-among-top-sites-serving-fake-virus-alerts"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://blog.confiant.com/exploring-scamclub-payloads-via-deobfuscation-using-abstract-syntax-trees-65ef7f412537",
-      "https://www.malwarebytes.com/blog/threat-intelligence/2023/11/associated-press-espn-cbs-among-top-sites-serving-fake-virus-alerts"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 543
+  "order": 0
 }

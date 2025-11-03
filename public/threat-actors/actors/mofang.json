@@ -1,55 +1,41 @@
 {
   "slug": "mofang",
   "name": "Mofang",
-  "uuid": "999f3008-2b2f-467d-ab4d-c5a2fd80b344",
-  "description": "",
+  "uuid": null,
+  "description": "[Mofang](https://attack.mitre.org/groups/G0103) is a likely China-based cyber espionage group, named for its frequent practice of imitating a victim's infrastructure. This adversary has been observed since at least May 2012 conducting focused attacks against government and critical infrastructure in Myanmar, as well as several other countries and sectors including military, automobile, and weapons industries.(Citation: FOX-IT May 2016 Mofang)",
   "aliases": [
+    "Mofang",
     "Superman",
     "BRONZE WALKER"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0103",
+    "https://foxitsecurity.files.wordpress.com/2016/06/fox-it_mofang_threatreport_tlp-white.pdf",
     "https://blog.fox-it.com/2016/06/15/mofang-a-politically-motivated-information-stealing-adversary/",
     "https://www.cfr.org/interactive/cyber-operations/mofang",
-    "https://foxitsecurity.files.wordpress.com/2016/06/fox-it_mofang_threatreport_tlp-white.pdf",
     "https://www.secureworks.com/research/threat-profiles/bronze-walker"
   ],
   "country": "CN",
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Government",
-    "Private sector"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "Myanmar",
-      "Germany",
-      "Singapore",
-      "Canada",
-      "India",
-      "United States",
-      "South Korea"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0103"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Private sector"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://blog.fox-it.com/2016/06/15/mofang-a-politically-motivated-information-stealing-adversary/",
-      "https://www.cfr.org/interactive/cyber-operations/mofang",
-      "https://foxitsecurity.files.wordpress.com/2016/06/fox-it_mofang_threatreport_tlp-white.pdf",
-      "https://www.secureworks.com/research/threat-profiles/bronze-walker"
-    ],
-    "synonyms": [
-      "Superman",
-      "BRONZE WALKER"
-    ]
+    "external_ids": {
+      "mitre": "G0103"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 129
+  "order": 0
 }

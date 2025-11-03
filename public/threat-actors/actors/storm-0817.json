@@ -1,0 +1,27 @@
+{
+  "slug": "storm-0817",
+  "name": "STORM-0817",
+  "uuid": null,
+  "description": "SweetSpecter is a suspected Iran-based actor that has gained notoriety for using publicly available artificial intelligence capabilities to develop its malware and tools.<sup>[[OpenAI CTI Update October 2024](/references/81f40284-12e5-4835-8c14-19fb894e4822)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3072"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3072"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "ghostemperor",
   "name": "GhostEmperor",
-  "uuid": "3c3ca8f3-c6ab-4c5d-9bd0-be6677d6cdeb",
+  "uuid": null,
   "description": "GhostEmperor is a Chinese-speaking threat actor that targets government entities and telecom companies in Southeast Asia. They employ a Windows kernel-mode rootkit called Demodex to gain remote control over their targeted servers. The actor demonstrates a high level of sophistication and uses various anti-forensic and anti-analysis techniques to evade detection. They have been active for a significant period of time and continue to pose a threat to their targets.",
   "aliases": [
     "FamousSparrow",
@@ -24,27 +24,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://securelist.com/ghostemperor-from-proxylogon-to-kernel-mode/104407/",
-      "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2021/09/30094337/GhostEmperor_technical-details_PDF_eng.pdf",
-      "https://www.welivesecurity.com/2021/09/23/famoussparrow-suspicious-hotel-guest/",
-      "https://www.ncsc.gov.uk/files/NCSC-MAR-SparrowDoor.pdf",
-      "https://cloud.google.com/blog/topics/threat-intelligence/unc4841-post-barracuda-zero-day-remediation",
-      "https://www.sygnia.co/blog/ghost-emperor-demodex-rootkit/",
-      "https://www.wsj.com/politics/national-security/china-cyberattack-internet-providers-260bd835",
-      "https://www.recordedfuture.com/research/redmike-salt-typhoon-exploits-vulnerable-devices"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "FamousSparrow",
-      "UNC2286",
-      "Salt Typhoon",
-      "RedMike",
-      "OPERATOR PANDA"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 621
+  "order": 0
 }

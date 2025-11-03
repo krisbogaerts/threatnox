@@ -1,0 +1,26 @@
+{
+  "slug": "cicada3301",
+  "name": "cicada3301",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/",
+    "https://blog.morphisec.com/cicada3301-ransomware-threat-analysis",
+    "http://cicadabv7vicyvgz5khl7v2x5yygcgow7ryy6yppwmxii4eoobdaztqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

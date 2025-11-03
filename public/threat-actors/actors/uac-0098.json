@@ -1,0 +1,27 @@
+{
+  "slug": "uac-0098",
+  "name": "UAC-0098",
+  "uuid": null,
+  "description": "UAC-0098 is believed to be an initial access broker who originally delivered malware like IcedID and Cobalt Strike for financial gain, but who has appeared to shift its operations to more politically aligned activity, such as compromising government, humanitarian, and non-profit organizations related to Ukraine and other European entities.<sup>[[Google TAG Ukraine IABs September 7 2022](/references/848da19d-b02d-4b78-b3c1-a72d5034fd45)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3077"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3077"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

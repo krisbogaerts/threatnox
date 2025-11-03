@@ -1,7 +1,7 @@
 {
   "slug": "earth-wendigo",
   "name": "Earth Wendigo",
-  "uuid": "c96e1329-cf7e-44ac-a3db-9e251dc98ec5",
+  "uuid": null,
   "description": "Earth Wendigo is a threat actor from China that has been targeting several organizations — including government organizations, research institutions, and universities in Taiwan — since May 2019, aiming to exfiltrate emails from targeted organizations via the injection of JavaScript backdoors to a webmail system that is widely used in Taiwan. The threat actor also sent spear-phishing emails embedded with malicious links to multiple individuals, including politicians and activists, who support movements in Tibet, the Uyghur region, or Hong Kong.",
   "aliases": [],
   "refs": [
@@ -11,24 +11,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Government",
-    "Education"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Hong Kong",
-      "Taiwan"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Education"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "country": "CN",
-    "refs": [
-      "https://www.trendmicro.com/en_us/research/21/a/earth-wendigo-injects-javascript-backdoor-to-service-worker-for-.html"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 373
+  "order": 0
 }

@@ -1,19 +1,26 @@
 {
   "slug": "procc",
   "name": "ProCC",
-  "uuid": "c74f78d1-3728-4bb9-b84f-0e46d2e870b2",
+  "uuid": null,
   "description": "ProCC is a threat actor targeting the hospitality sector with remote access Trojan malware. They use email attachments to exploit vulnerabilities like CVE-2017-0199 and deploy customized versions of RATs such as RevengeRAT, NjRAT, NanoCoreRAT, and 888 RAT. ProCC's malware is capable of collecting data from the clipboard and printer spooler, as well as capturing screenshots on infected machines.",
   "aliases": [],
   "refs": [
     "https://securelist.com/revengehotels/95229/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://securelist.com/revengehotels/95229/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 633
+  "order": 0
 }

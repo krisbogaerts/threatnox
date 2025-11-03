@@ -1,7 +1,7 @@
 {
   "slug": "venom-spider",
   "name": "VENOM SPIDER",
-  "uuid": "86b4e2f3-8bbf-48fd-9d27-034d3ac3b187",
+  "uuid": null,
   "description": "VENOM SPIDER is the developer of a large toolset that includes SKID, VenomKit and Taurus Loader. Under the moniker 'badbullzvenom', the adversary has been an active member of Russian underground forums since at least 2012, specializing in the identification of vulnerabilities and the subsequent development of tools for exploitation, as well as for gaining and maintaining access to victim machines and carding services. Recent advertisements for the malware indicate that VENOM SPIDER limits the sale and use of its tools, selling modules only to trusted affiliates. This preference can be seen in the fact that adversaries observed using the tools include the targeted criminal adversary COBALT SPIDER and BGH adversaries WIZARD SPIDER and PINCHY SPIDER.",
   "aliases": [
     "badbullzvenom",
@@ -11,18 +11,20 @@
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
     "https://www.esentire.com/web-native-pages/the-hunt-for-venom-spider-part-2"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
-      "https://www.esentire.com/web-native-pages/the-hunt-for-venom-spider-part-2"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "badbullzvenom",
-      "badbullz"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 283
+  "order": 0
 }

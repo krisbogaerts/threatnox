@@ -1,0 +1,24 @@
+{
+  "slug": "direwolf",
+  "name": "direwolf",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://direwolfcdkv5whaz2spehizdg22jsuf5aeje4asmetpbt6ri4jnd4qd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "putter-panda",
+  "name": "Putter Panda",
+  "uuid": null,
+  "description": "[Putter Panda](https://attack.mitre.org/groups/G0024) is a Chinese threat group that has been attributed to Unit 61486 of the 12th Bureau of the PLA’s 3rd General Staff Department (GSD). (Citation: CrowdStrike Putter Panda)",
+  "aliases": [
+    "Putter Panda",
+    "APT2",
+    "MSUpdater"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0024",
+    "http://cdn0.vox-cdn.com/assets/4589853/crowdstrike-intelligence-report-putter-panda.original.pdf",
+    "https://blogs.blackberry.com/en/2016/01/puttering-into-the-future"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0024"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0024"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

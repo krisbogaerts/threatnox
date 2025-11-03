@@ -1,0 +1,36 @@
+{
+  "slug": "velvet-ant",
+  "name": "Velvet Ant",
+  "uuid": null,
+  "description": "[Velvet Ant](https://attack.mitre.org/groups/G1047) is a threat actor operating since at least 2021. [Velvet Ant](https://attack.mitre.org/groups/G1047) is associated with complex persistence mechanisms, the targeting of network devices and appliances during operations, and the use of zero day exploits.(Citation: Sygnia VelvetAnt 2024A)(Citation: Sygnia VelvetAnt 2024B)",
+  "aliases": [
+    "Velvet Ant"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G1047",
+    "https://www.sygnia.co/threat-reports-and-advisories/china-nexus-threat-group-velvet-ant-exploits-cisco-0-day/",
+    "https://www.sygnia.co/blog/china-nexus-threat-group-velvet-ant/"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G1047"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1047"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

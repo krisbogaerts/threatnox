@@ -1,0 +1,29 @@
+{
+  "slug": "famous-chollima",
+  "name": "Famous Chollima",
+  "uuid": null,
+  "description": "Famous Chollima is a North Korea-linked threat group known for using job-themed social engineering campaigns (\"Contagious Interview\") to entice targets into downloading cross-platform malware, for example under the pretext of coding assignments or fixing browser issues during video assessments. The group has been observed setting up front companies as part of its schemes.<sup>[[The Hacker News Contagious Interview April 25 2025](/references/68d9fec5-40b0-414a-9d39-21b5f36a013b)]</sup> The group has also been linked to schemes facilitating the fraudulent hiring of remote North Korean IT workers by Western firms in an effort to evade sanctions.<sup>[[Unit 42 November 21 2023](/references/930228c3-a93b-4664-ab7d-65af212211fc)]</sup>\n\nSecurity researchers have described Famous Chollima as being motivated by both espionage goals (stealing sensitive information) and financial ones (theft of cryptocurrency from software professionals).<sup>[[The Hacker News Contagious Interview April 25 2025](/references/68d9fec5-40b0-414a-9d39-21b5f36a013b)]</sup><sup>[[TrendMicro Void Dokkaebi April 23 2025](/references/8677d97f-6bca-48b8-9e0b-2bbcafae25e9)]</sup> Reserachers have described Famous Chollima as a \"subgroup\" of the North Korean state-sponsored Lazarus Group.<sup>[[Silent Push Contagious Interview April 24 2025](/references/7062304e-91e9-45bf-84b4-c42bdad99e23)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "KP",
+  "countries": [
+    "KP"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3102"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3102"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

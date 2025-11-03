@@ -1,7 +1,7 @@
 {
   "slug": "viking-jackal",
   "name": "Viking Jackal",
-  "uuid": "7f99ba32-421c-4905-9deb-006e8eda40c1",
+  "uuid": null,
   "description": "",
   "aliases": [
     "Vikingdom"
@@ -11,14 +11,16 @@
   "countries": [
     "AE"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "AE",
-    "synonyms": [
-      "Vikingdom"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 52
+  "order": 0
 }

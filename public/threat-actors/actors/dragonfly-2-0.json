@@ -1,0 +1,39 @@
+{
+  "slug": "dragonfly-2-0",
+  "name": "Dragonfly 2.0",
+  "uuid": null,
+  "description": "[Dragonfly 2.0](https://attack.mitre.org/groups/G0074) is a suspected Russian group that has targeted government entities and multiple U.S. critical infrastructure sectors since at least December 2015. (Citation: US-CERT TA18-074A) (Citation: Symantec Dragonfly Sept 2017) There is debate over the extent of overlap between [Dragonfly 2.0](https://attack.mitre.org/groups/G0074) and [Dragonfly](https://attack.mitre.org/groups/G0035), but there is sufficient evidence to lead to these being tracked as two separate groups. (Citation: Fortune Dragonfly 2.0 Sept 2017)(Citation: Dragos DYMALLOY )",
+  "aliases": [
+    "Dragonfly 2.0",
+    "IRON LIBERTY",
+    "DYMALLOY",
+    "Berserk Bear"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0074",
+    "https://www.dragos.com/threat/dymalloy/",
+    "http://fortune.com/2017/09/06/hack-energy-grid-symantec/",
+    "https://www.secureworks.com/research/mcmd-malware-analysis",
+    "https://www.secureworks.com/research/threat-profiles/iron-liberty",
+    "https://www.symantec.com/connect/blogs/dragonfly-western-energy-sector-targeted-sophisticated-attack-group",
+    "https://www.us-cert.gov/ncas/alerts/TA18-074A"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0074"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

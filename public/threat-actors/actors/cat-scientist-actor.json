@@ -1,0 +1,27 @@
+{
+  "slug": "cat-scientist-actor",
+  "name": "Cat Scientist Actor",
+  "uuid": null,
+  "description": "\"Cat Scientist\" is a username used by a threat actor on underground cybercriminal forums. The actor was observed attempting to sell access to a corporate network gained through compromise of Microsoft Windows RDWeb Virtual Desktop software.<sup>[[Dark Web Informer LinkedIn Cat Scientist January 2025](/references/4678131f-7079-4a5f-ac47-06faa3052d8f)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3093"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3093"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

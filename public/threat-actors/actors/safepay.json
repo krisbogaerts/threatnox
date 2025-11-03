@@ -1,0 +1,53 @@
+{
+  "slug": "safepay",
+  "name": "safepay",
+  "uuid": null,
+  "description": "SafePay ransomware started in October 2024 as a new ransomware service, using some of the leaked LockBit source code. Soon after launching, the group made a big impact in the ransomware world, hacking at least 33 organizations by December 9.",
+  "aliases": [],
+  "refs": [
+    "http://nz4z6ruzcekriti5cjjiiylzvrmysyqwibxztk6voem4trtx7gstpjid.onion/",
+    "http://cqkrkmmivhakl3fwgxscurduu3znmroablt7jskxszkctixyseij5gad.onion/",
+    "http://nj5qix45sxnl4h4og6hcgwengg2oqloj3c2rhc6dpwiofx3jbivcs6qd.onion/",
+    "http://j3dp6okmaklajrsk6zljl5sfa2vpui7j2w6cwmhmmqhab6frdfbphhid.onion/",
+    "http://safepaypfxntwixwjrlcscft433ggemlhgkkdupi2ynhtcmvdgubmoyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1078",
+      "T1059",
+      "T1047",
+      "T1562.001",
+      "T1003",
+      "T1482",
+      "T1021",
+      "T1560",
+      "T1567.002",
+      "T1486",
+      "T1490",
+      "T1048",
+      "T1071",
+      "T1076",
+      "T1089",
+      "T1133",
+      "T1135",
+      "T1202",
+      "T1548.002",
+      "T1560.001",
+      "T1650"
+    ]
+  },
+  "order": 0
+}

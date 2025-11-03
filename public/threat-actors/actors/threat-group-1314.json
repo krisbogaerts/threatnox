@@ -1,0 +1,34 @@
+{
+  "slug": "threat-group-1314",
+  "name": "Threat Group-1314",
+  "uuid": null,
+  "description": "[Threat Group-1314](https://attack.mitre.org/groups/G0028) is an unattributed threat group that has used compromised credentials to log into a victim's remote access infrastructure. (Citation: Dell TG-1314)",
+  "aliases": [
+    "Threat Group-1314",
+    "TG-1314"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0028",
+    "http://www.secureworks.com/resources/blog/living-off-the-land/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0028"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0028"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

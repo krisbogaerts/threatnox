@@ -1,0 +1,29 @@
+{
+  "slug": "silentransomgroup",
+  "name": "SilentRansomGroup",
+  "uuid": null,
+  "description": "a former Conti team",
+  "aliases": [
+    "leakeddata"
+  ],
+  "refs": [
+    "https://business-data-leaks.com/",
+    "https://business-data-leaks.com/about"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

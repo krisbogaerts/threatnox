@@ -1,0 +1,26 @@
+{
+  "slug": "warlock-operator",
+  "name": "Warlock operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape Warlock operator Tags Attribution Incidents Warlock Ransomware Exploiting Sharepoint Vulnerabilities Last edited Aug 21, 2025 12:57 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/25/h/warlock-ransomware.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

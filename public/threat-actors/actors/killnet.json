@@ -1,7 +1,7 @@
 {
   "slug": "killnet",
   "name": "Killnet",
-  "uuid": "ad2d6946-1ec2-4d77-b864-39980af4e103",
+  "uuid": null,
   "description": "A group targeting various countries using Denial of Services attacked.",
   "aliases": [],
   "refs": [
@@ -9,26 +9,24 @@
     "https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/?msclkid=235244a7ba6611ec92f21c9bd3b8ee49",
     "https://www.expats.cz/czech-news/article/pro-russian-hackers-target-czech-websites-in-a-series-of-attacks"
   ],
-  "countries": [],
-  "sectors": [
-    "Government"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "United States",
-      "Czech Republic"
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3022"
     ],
-    "cfr-target-category": [
-      "Government"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Denial of service",
-    "refs": [
-      "https://www.cisa.gov/uscert/ncas/alerts/aa22-110a",
-      "https://therecord.media/russia-or-ukraine-hacking-groups-take-sides/?msclkid=235244a7ba6611ec92f21c9bd3b8ee49",
-      "https://www.expats.cz/czech-news/article/pro-russian-hackers-target-czech-websites-in-a-series-of-attacks"
-    ],
-    "synonyms": []
+    "external_ids": {
+      "mitre": "G3022"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 355
+  "order": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "apt-c-60",
   "name": "APT-C-60",
-  "uuid": "6a83b2bf-0c51-4c9b-89b0-35df7cab1dd5",
+  "uuid": null,
   "description": "APT-C-60",
   "aliases": [
     "APT-Q-12"
@@ -10,17 +10,20 @@
     "https://mp.weixin.qq.com/s/Hzq4_tWmunDpKfHTlZNM-A",
     "https://cert.360.cn/report/detail?id=6c9a1b56e4ceb84a8ab9e96044429adc"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://mp.weixin.qq.com/s/Hzq4_tWmunDpKfHTlZNM-A",
-      "https://cert.360.cn/report/detail?id=6c9a1b56e4ceb84a8ab9e96044429adc"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "APT-Q-12"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 398
+  "order": 0
 }

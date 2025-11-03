@@ -1,19 +1,24 @@
 {
   "slug": "danti",
   "name": "Danti",
-  "uuid": "fb745fe1-5478-4d47-ad3d-7389fa4a6f77",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
     "https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 120
+  "order": 0
 }

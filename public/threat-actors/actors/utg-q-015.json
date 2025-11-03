@@ -1,0 +1,26 @@
+{
+  "slug": "utg-q-015",
+  "name": "UTG-Q-015",
+  "uuid": null,
+  "description": "Cloud Threat Landscape UTG-Q-015 Tags Attribution Incidents UTG-Q-015 Exploits 0-Days for Espionage in Asia Last edited Jun 4, 2025 2:55 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://ti.qianxin.com/blog/articles/operation-run-the-cyber-carnival-of-offshore-patriots-en/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

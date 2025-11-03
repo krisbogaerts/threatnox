@@ -1,0 +1,27 @@
+{
+  "slug": "chatty-spider",
+  "name": "CHATTY SPIDER",
+  "uuid": null,
+  "description": "A cybercriminal actor known to carry out \"callback phishing\" social engineering attacks.<sup>[[CrowdStrike 2025 Global Threat Report](/references/a69b0ce3-f314-4b32-bfb3-b1380c4f0ec4)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3082"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3082"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

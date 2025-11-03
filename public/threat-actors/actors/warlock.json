@@ -1,0 +1,28 @@
+{
+  "slug": "warlock",
+  "name": "warlock",
+  "uuid": null,
+  "description": "The Warlock ransomware and operator(s) are believed to be attributed to Storm-2603, a China-based threat actor who is also known to have deployed LockBit ransomware. There's also a crossover between victims with Black Basta. Both are RaaS and have a long list of known and unknown affiliates. Having said that, this is possibly an affiliate (likely a cybergroup) of both of those groups. The Alliance & Association would technically be Encryptor Sharing, but this is realistically more of an \"Old Affiliate\" that created their own ransomware encryptor and operation.",
+  "aliases": [],
+  "refs": [
+    "http://elqfbcx5nofwtqfookqml7ltx2g6q6tmddys6e25vgu3al2meim6cbqd.onion/",
+    "http://zfytizegsze6uiswodhbaalyy5rawaytv2nzyzdkt3susbewviqqh7yd.onion/",
+    "http://ocwjy4ynmpbbzhumh2ama2vl3bc77lf5auqf7nf4k45lbmzoep2rbyid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

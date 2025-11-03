@@ -1,0 +1,33 @@
+{
+  "slug": "stormous",
+  "name": "Stormous",
+  "uuid": null,
+  "description": "Stormous is an actor group known for stealing and selling data and extorting victims.<sup>[[redpiranha.net March 17 2025](/references/9399efb7-e91c-4acb-8b0f-6cde20592198)]</sup> The group announced support for the Russian government during its invasion of Ukraine and has conducted operations against Ukraine and its perceived allies, among a range of other targets.<sup>[[therecord.media April 26 2022](/references/6a67f91a-e2f7-4950-aa26-a63388be59c5)]</sup>",
+  "aliases": [],
+  "refs": [
+    "http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion/datashop.html",
+    "http://h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion/stm.html",
+    "http://pdcizqzjitsgfcgqeyhuee5u6uki6zy5slzioinlhx6xjnsw25irdgqd.onion/",
+    "http://stmxylixiz4atpmkspvhkym4xccjvpcv3v67uh3dze7xwwhtnz4faxid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3091",
+      "RWLive"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3091"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

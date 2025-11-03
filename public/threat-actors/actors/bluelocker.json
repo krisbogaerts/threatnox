@@ -1,0 +1,40 @@
+{
+  "slug": "bluelocker",
+  "name": "bluelocker",
+  "uuid": null,
+  "description": "Blue Locker targets Pakistan’s vital energy sector, particularly Pakistan Petroleum",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1547.001",
+      "T1543",
+      "T1548.002",
+      "T1140",
+      "T1070.006",
+      "T1562.001",
+      "T1012",
+      "T1057",
+      "T1087",
+      "T1497",
+      "T1083",
+      "T1074",
+      "T1056",
+      "T1490",
+      "T1489"
+    ]
+  },
+  "order": 0
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "devman-s-ransomware",
+  "name": "Devman's Ransomware",
+  "uuid": null,
+  "description": "DEVMAN is a RaaS (Ransomware-as-a-Service) group that is believed to have emerged in April 2025. The group claimed to be working with other RaaS actors such as Qilin and Apos, and also mentioned DragonForce among its multi-RaaS affiliations.",
+  "aliases": [
+    "Summary"
+  ],
+  "refs": [
+    "https://github.com/user-attachments/assets/c6893171-144c-4826-8232-67c5910f58b0",
+    "https://github.com/user-attachments/assets/b8a35acc-9a71-436a-8b5c-fc72246cef3b",
+    "https://github.com/user-attachments/assets/0b3259c0-b3f0-4148-a2fb-904cfbf5c224",
+    "https://medium.com/@yua.mikanana19/inside-the-mind-of-a-hacker-what-makes-mythic-c2-so-powerful-7c569c63b687",
+    "https://www.youtube.com/watch?v=Qq2HbvMqjNY"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1003",
+      "T1005",
+      "T1018",
+      "T1021.002",
+      "T1036",
+      "T1041",
+      "T1046",
+      "T1059.001",
+      "T1068",
+      "T1078",
+      "T1082",
+      "T1203",
+      "T1210",
+      "T1486",
+      "T1489",
+      "T1490",
+      "T1491",
+      "T1562.001"
+    ]
+  },
+  "order": 0
+}

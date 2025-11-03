@@ -1,7 +1,7 @@
 {
   "slug": "eloquent-panda",
   "name": "ELOQUENT PANDA",
-  "uuid": "432b0304-768f-4fb9-9762-e745ef524ec7",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -11,14 +11,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "https://dokumen.tips/documents/detecting-and-responding-pandas-and-bears.html"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 8
+  "order": 0
 }

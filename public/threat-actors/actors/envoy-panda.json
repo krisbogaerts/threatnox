@@ -1,0 +1,29 @@
+{
+  "slug": "envoy-panda",
+  "name": "ENVOY PANDA",
+  "uuid": null,
+  "description": "ENVOY PANDA is a \"China-nexus\" actor, active since 2011, that has mainly targeted diplomatic entities associated with African and Middle Eastern governments.<sup>[[CrowdStrike 2025 Global Threat Report](/references/a69b0ce3-f314-4b32-bfb3-b1380c4f0ec4)]</sup><sup>[[Envoy Panda Profile](/references/44879a86-9eda-4934-bfc4-cbc643ab113a)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3086"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3086"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

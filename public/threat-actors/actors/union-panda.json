@@ -1,7 +1,7 @@
 {
   "slug": "union-panda",
   "name": "UNION PANDA",
-  "uuid": "7195b51f-500e-4034-a851-bf34a2728dc8",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -11,14 +11,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "https://dokumen.tips/documents/detecting-and-responding-pandas-and-bears.html"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 6
+  "order": 0
 }

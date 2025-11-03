@@ -1,0 +1,29 @@
+{
+  "slug": "toufan",
+  "name": "toufan",
+  "uuid": null,
+  "description": "Pro-Palestinian Group",
+  "aliases": [],
+  "refs": [
+    "https://t.me/CyberToufanBackup",
+    "https://t.me/CyberToufan02",
+    "https://toufanleaks.org/",
+    "https://t.me/CyberToufan"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

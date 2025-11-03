@@ -1,7 +1,7 @@
 {
   "slug": "avivore",
   "name": "Avivore",
-  "uuid": "8045fc09-13d6-4f90-b239-ed5060b9297b",
+  "uuid": null,
   "description": "The group’s existence came to light during Context’s investigation of a number of attacks against multinational enterprises that compromise smaller engineering services and consultancies working in their supply chains.",
   "aliases": [],
   "refs": [
@@ -13,15 +13,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.computerweekly.com/news/252471769/New-threat-group-behind-Airbus-cyber-attacks-claim-researchers",
-      "https://www.contextis.com/en/news/context-identifies-new-avivore-threat-group",
-      "https://web.archive.org/web/20191208223958/https://www.contextis.com/en/blog/avivore"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 349
+  "order": 0
 }

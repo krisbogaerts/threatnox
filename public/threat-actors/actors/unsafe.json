@@ -1,0 +1,26 @@
+{
+  "slug": "unsafe",
+  "name": "unsafe",
+  "uuid": null,
+  "description": "A group which seems to recycle leak from other ransomware groups",
+  "aliases": [],
+  "refs": [
+    "http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

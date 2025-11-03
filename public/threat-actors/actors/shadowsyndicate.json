@@ -1,19 +1,30 @@
 {
   "slug": "shadowsyndicate",
   "name": "ShadowSyndicate",
-  "uuid": "24a7e1eb-b7c7-486b-96b2-8d313d65bf70",
+  "uuid": null,
   "description": "ShadowSyndicate is a threat actor associated with various ransomware groups, using a consistent Secure Shell fingerprint across multiple servers. They have been linked to ransomware families such as Quantum, Nokoyawa, and ALPHV. ShadowSyndicate's infrastructure overlaps with that of Cl0p, suggesting potential connections between the two groups. Their activities indicate they may be a Ransomware-as-a-Service affiliate.",
-  "aliases": [],
-  "refs": [
-    "https://www.group-ib.com/blog/shadowsyndicate-raas/"
+  "aliases": [
+    "Infra Storm"
   ],
-  "countries": [],
-  "sectors": [],
+  "refs": [
+    "https://www.group-ib.com/blog/shadowsyndicate-raas/",
+    "https://cyble.com/blog/cgsi-probes-shadowsyndicate-groups-possible-exploitation-of-aiohttp-vulnerability-cve-2024-23334/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.group-ib.com/blog/shadowsyndicate-raas/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 635
+  "order": 0
 }

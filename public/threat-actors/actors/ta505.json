@@ -1,24 +1,32 @@
 {
   "slug": "ta505",
   "name": "TA505",
-  "uuid": "03c80674-35f8-4fe0-be2b-226ed0fcd69f",
-  "description": "TA505, the name given by Proofpoint, has been in the cybercrime business for at least four years. This is the group behind the infamous Dridex banking trojan and Locky ransomware, delivered through malicious email campaigns via Necurs botnet. Other malware associated with TA505 include Philadelphia and GlobeImposter ransomware families.",
+  "uuid": null,
+  "description": "[TA505](https://attack.mitre.org/groups/G0092) is a cyber criminal group that has been active since at least 2014. [TA505](https://attack.mitre.org/groups/G0092) is known for frequently changing malware, driving global trends in criminal malware distribution, and ransomware campaigns involving [Clop](https://attack.mitre.org/software/S0611).(Citation: Proofpoint TA505 Sep 2017)(Citation: Proofpoint TA505 June 2018)(Citation: Proofpoint TA505 Jan 2019)(Citation: NCC Group TA505)(Citation: Korean FSI TA505 2020)",
   "aliases": [
+    "TA505",
+    "Hive0065",
+    "Spandex Tempest",
+    "CHIMBORAZO",
     "SectorJ04",
     "SectorJ04 Group",
     "GRACEFUL SPIDER",
     "GOLD TAHOE",
     "Dudear",
     "G0092",
-    "ATK103",
-    "Hive0065",
-    "CHIMBORAZO",
-    "Spandex Tempest"
+    "ATK103"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0092",
+    "https://www.fsec.or.kr/user/bbs/fsec/163/344/bbsDataView/1382.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=",
+    "https://securityintelligence.com/posts/ta505-continues-to-infect-networks-with-sdbbot-rat/",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+    "https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta505-dridex-globeimposter",
+    "https://www.proofpoint.com/us/threat-insight/post/ta505-shifts-times",
+    "https://www.proofpoint.com/us/threat-insight/post/servhelper-and-flawedgrace-new-malware-introduced-ta505",
+    "https://research.nccgroup.com/2020/11/18/ta505-a-brief-history-of-their-time/",
     "https://www.bleepingcomputer.com/news/security/ta505-group-adopts-new-servhelper-backdoor-and-flawedgrace-rat/",
     "https://www.proofpoint.com/sites/default/files/ta505_timeline_final4_0.png",
-    "https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta505-dridex-globeimposter",
     "https://www.cybereason.com/blog/threat-actor-ta505-targets-financial-enterprises-using-lolbins-and-a-new-backdoor-malware",
     "https://e.cyberint.com/hubfs/Report%20Legit%20Remote%20Access%20Tools%20Turn%20Into%20Threat%20Actors%20Tools/CyberInt_Legit%20Remote%20Access%20Tools%20Turn%20Into%20Threat%20Actors'%20Tools_Report.pdf",
     "https://threatpost.com/ta505-servhelper-malware/140792/",
@@ -33,81 +41,29 @@
     "https://blog.fox-it.com/2020/11/16/ta505-a-brief-history-of-their-time/",
     "https://www.secureworks.com/blog/how-cyber-adversaries-are-adapting-to-exploit-the-global-pandemic",
     "https://cyberthreat.thalesgroup.com/attackers/ATK103",
-    "https://securityintelligence.com/posts/ta505-continues-to-infect-networks-with-sdbbot-rat/",
     "https://www.tenable.com/blog/cve-2020-1472-advanced-persistent-threat-actors-use-zerologon-vulnerability-in-exploit-chain"
   ],
   "country": "RU",
   "countries": [
     "RU"
   ],
-  "sectors": [
-    "Education",
-    "Finance",
-    "Health",
-    "Retail",
-    "Hospitality"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Australia",
-      "Canada",
-      "Czech Republic",
-      "Germany",
-      "Hungary",
-      "India",
-      "Japan",
-      "Romania",
-      "Serbia",
-      "Singapore",
-      "South Korea",
-      "Spain",
-      "Thailand",
-      "Turkey",
-      "United Kingdom",
-      "United States"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0092"
     ],
-    "cfr-target-category": [
-      "Education",
-      "Finance",
-      "Health",
-      "Retail",
-      "Hospitality"
+    "description_sources": [
+      "MITRE"
     ],
-    "country": "RU",
-    "refs": [
-      "https://www.bleepingcomputer.com/news/security/ta505-group-adopts-new-servhelper-backdoor-and-flawedgrace-rat/",
-      "https://www.proofpoint.com/sites/default/files/ta505_timeline_final4_0.png",
-      "https://www.proofpoint.com/us/threat-insight/post/threat-actor-profile-ta505-dridex-globeimposter",
-      "https://www.cybereason.com/blog/threat-actor-ta505-targets-financial-enterprises-using-lolbins-and-a-new-backdoor-malware",
-      "https://e.cyberint.com/hubfs/Report%20Legit%20Remote%20Access%20Tools%20Turn%20Into%20Threat%20Actors%20Tools/CyberInt_Legit%20Remote%20Access%20Tools%20Turn%20Into%20Threat%20Actors'%20Tools_Report.pdf",
-      "https://threatpost.com/ta505-servhelper-malware/140792/",
-      "https://blog.yoroi.company/research/the-stealthy-email-stealer-in-the-ta505-arsenal/",
-      "https://threatrecon.nshc.net/2019/08/29/sectorj04-groups-increased-activity-in-2019/",
-      "https://www.proofpoint.com/us/threat-insight/post/ta505-distributes-new-sdbbot-remote-access-trojan-get2-downloader",
-      "https://www.blueliv.com/cyber-security-and-cyber-threat-intelligence-blog-blueliv/research/servhelper-evolution-and-new-ta505-campaigns/",
-      "https://www.telekom.com/en/blog/group/article/cybersecurity-ta505-s-box-of-chocolate-597672",
-      "https://www.telekom.com/en/blog/group/article/cybersecurity-ta505-returns-with-a-new-bag-of-tricks-602104",
-      "https://www.secureworks.com/research/threat-profiles/gold-tahoe",
-      "https://www.telekom.com/en/blog/group/article/eager-beaver-a-short-overview-of-the-restless-threat-actor-ta505-609546",
-      "https://blog.fox-it.com/2020/11/16/ta505-a-brief-history-of-their-time/",
-      "https://www.secureworks.com/blog/how-cyber-adversaries-are-adapting-to-exploit-the-global-pandemic",
-      "https://cyberthreat.thalesgroup.com/attackers/ATK103",
-      "https://securityintelligence.com/posts/ta505-continues-to-infect-networks-with-sdbbot-rat/",
-      "https://www.tenable.com/blog/cve-2020-1472-advanced-persistent-threat-actors-use-zerologon-vulnerability-in-exploit-chain"
-    ],
-    "synonyms": [
-      "SectorJ04",
-      "SectorJ04 Group",
-      "GRACEFUL SPIDER",
-      "GOLD TAHOE",
-      "Dudear",
-      "G0092",
-      "ATK103",
-      "Hive0065",
-      "CHIMBORAZO",
-      "Spandex Tempest"
-    ]
+    "external_ids": {
+      "mitre": "G0092"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 198
+  "order": 0
 }

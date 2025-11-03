@@ -1,19 +1,26 @@
 {
   "slug": "ta2725",
   "name": "TA2725",
-  "uuid": "1697dace-fe21-452c-acee-bef62fc5e386",
+  "uuid": null,
   "description": "TA2725 is a threat actor that has been tracked since March 2022. They primarily target organizations in Brazil and Mexico using Brazilian banking malware and phishing techniques. Recently, they have expanded their operations to also target victims in Spain and Mexico simultaneously. TA2725 typically uses GoDaddy virtual hosting for their URL redirector and hosts malicious files on legitimate cloud hosting providers like Amazon AWS, Google Cloud, or Microsoft Azure. They have been known to spoof legitimate companies, such as ÉSECÈ Group, to deceive their victims.",
   "aliases": [],
   "refs": [
     "https://www.proofpoint.com/us/blog/threat-insight/copacabana-barcelona-cross-continental-threat-brazilian-banking-malware"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.proofpoint.com/us/blog/threat-insight/copacabana-barcelona-cross-continental-threat-brazilian-banking-malware"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 630
+  "order": 0
 }

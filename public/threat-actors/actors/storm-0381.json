@@ -1,7 +1,7 @@
 {
   "slug": "storm-0381",
   "name": "Storm-0381",
-  "uuid": "874860fe-5aee-4c94-aee1-2166c225c41e",
+  "uuid": null,
   "description": "Storm-0381 is a threat actor identified by Microsoft as a Russian cybercrime group. They are known for their use of malvertising to deploy Magniber, a type of ransomware.",
   "aliases": [
     "DEV-0381"
@@ -13,16 +13,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "DEV-0381"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 604
+  "order": 0
 }

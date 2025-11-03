@@ -1,0 +1,26 @@
+{
+  "slug": "mindware",
+  "name": "mindware",
+  "uuid": null,
+  "description": "Ransomware, potential rebranding of win.sfile.\n",
+  "aliases": [],
+  "refs": [
+    "https://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

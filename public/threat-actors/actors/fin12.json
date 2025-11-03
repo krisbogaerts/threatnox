@@ -1,0 +1,29 @@
+{
+  "slug": "fin12",
+  "name": "FIN12",
+  "uuid": null,
+  "description": "FIN12 is a financially motivated threat actor group believed to be responsible for multiple high-profile ransomware attacks since 2018. The group has attacked victims in various sectors and locations, including multiple attacks on healthcare entities. An October 2021 Mandiant assessment indicated 85% of the group's victims were U.S.-based, and the large majority of them were large enterprises with more than $300 million in annual revenue. The report also assessed that initial access brokers partnering with FIN12 target a wider range of organizations and allow FIN12 actors to select victims for further malicious activity.<sup>[[Mandiant FIN12 Group Profile October 07 2021](/references/7af84b3d-bbd6-449f-b29b-2f14591c9f05)]</sup>\n\nFIN12's toolset has reportedly shifted over time. Cobalt Strike has been observed in most intrusions. While TrickBot and Empire were common post-exploitation tools historically, French authorities observed the group using SystemBC alongside Cobalt Strike during a March 2023 hospital center intrusion. Ryuk, and to a lesser degree Conti, were traditionally used ransomware payloads, with the former used in a series of attacks on U.S. healthcare entities in 2020. However, a French CERT assessment published in 2023 linked the group to multiple more recent incidents it investigated and analyzed, which featured deployment of various ransomware families, including Hive, Nokoyawa, Play, Royal, and BlackCat, along with Emotet and BazarLoader malware for initial footholds.<sup>[[Mandiant FIN12 Group Profile October 07 2021](/references/7af84b3d-bbd6-449f-b29b-2f14591c9f05)]</sup><sup>[[CERTFR-2023-CTI-007](/references/0f4a03c5-79b3-418e-a77d-305d5a32caca)]</sup>\n\n**Related Vulnerabilities**: CVE-2023-21746, CVE-2022-24521, CVE-2021-34527, CVE-2019-0708, CVE-2020-1472<sup>[[CERTFR-2023-CTI-007](/references/0f4a03c5-79b3-418e-a77d-305d5a32caca)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3005"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3005"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

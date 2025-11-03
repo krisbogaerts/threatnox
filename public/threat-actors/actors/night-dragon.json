@@ -1,12 +1,15 @@
 {
   "slug": "night-dragon",
   "name": "Night Dragon",
-  "uuid": "b3714d59-b61e-4713-903a-9b4f04ae7f3d",
-  "description": "",
+  "uuid": null,
+  "description": "[Night Dragon](https://attack.mitre.org/groups/G0014) is a campaign name for activity involving a threat group that has conducted activity originating primarily in China. (Citation: McAfee Night Dragon)",
   "aliases": [
+    "Night Dragon",
     "G0014"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0014",
+    "https://scadahacker.com/library/Documents/Cyber_Events/McAfee%20-%20Night%20Dragon%20-%20Global%20Energy%20Cyberattacks.pdf",
     "https://kc.mcafee.com/corporate/index?page=content&id=KB71150",
     "https://securingtomorrow.mcafee.com/wp-content/uploads/2011/02/McAfee_NightDragon_wp_draft_to_customersv1-1.pdf",
     "https://attack.mitre.org/groups/G0014/"
@@ -15,19 +18,21 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "https://kc.mcafee.com/corporate/index?page=content&id=KB71150",
-      "https://securingtomorrow.mcafee.com/wp-content/uploads/2011/02/McAfee_NightDragon_wp_draft_to_customersv1-1.pdf",
-      "https://attack.mitre.org/groups/G0014/"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "G0014"
-    ]
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0014"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 27
+  "order": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "apt45",
   "name": "APT45",
-  "uuid": "02768be6-853c-4239-8fb1-823427489a86",
+  "uuid": null,
   "description": "APT45 is a North Korean cyber threat actor that has been active since at least 2009. They have conducted espionage campaigns targeting government agencies and defense industries, as well as financially-motivated operations, including ransomware development. APT45 has targeted critical infrastructure, financial organizations, nuclear research facilities, and healthcare and pharmaceutical companies. They use a mix of publicly available tools, modified malware, and custom malware families in their operations.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "KP"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "KP",
-    "refs": [
-      "https://cloud.google.com/blog/topics/threat-intelligence/apt45-north-korea-digital-military-machine"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 715
+  "order": 0
 }

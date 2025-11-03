@@ -1,7 +1,7 @@
 {
   "slug": "cyber-berkut",
   "name": "Cyber Berkut",
-  "uuid": "4d9f68ba-cb2b-40bf-ba4b-6a5a9f2e1cf8",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -11,14 +11,16 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "RU",
-    "refs": [
-      "https://www.threatconnect.com/blog/russia-hacks-bellingcat-mh17-investigation/#.V-wnrubaeEU.twitter"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 118
+  "order": 0
 }

@@ -1,19 +1,35 @@
 {
   "slug": "ta2541",
   "name": "TA2541",
-  "uuid": "a57e5bf5-d7f4-43a1-9c15-8a44cdb95079",
-  "description": "Persistent cybercrime threat actor targeting aviation, aerospace, transportation, manufacturing, and defense industries for years. This threat actor consistently uses remote access trojans (RATs) that can be used to remotely control compromised machines. This threat actor uses consistent themes related to aviation, transportation, and travel. The threat actor has used similar themes and targeting since 2017.",
-  "aliases": [],
-  "refs": [
-    "https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight"
+  "uuid": null,
+  "description": "[TA2541](https://attack.mitre.org/groups/G1018) is a cybercriminal group that has been targeting the aviation, aerospace, transportation, manufacturing, and defense industries since at least 2017. [TA2541](https://attack.mitre.org/groups/G1018) campaigns are typically high volume and involve the use of commodity remote access tools obfuscated by crypters and themes related to aviation, transportation, and travel.(Citation: Proofpoint TA2541 February 2022)(Citation: Cisco Operation Layover September 2021)",
+  "aliases": [
+    "TA2541"
   ],
-  "countries": [],
-  "sectors": [],
+  "refs": [
+    "https://attack.mitre.org/groups/G1018",
+    "https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight",
+    "https://blog.talosintelligence.com/operation-layover-how-we-tracked-attack/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.proofpoint.com/us/blog/threat-insight/charting-ta2541s-flight"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1018"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1018"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 342
+  "order": 0
 }

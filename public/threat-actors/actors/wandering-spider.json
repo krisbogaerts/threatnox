@@ -1,0 +1,27 @@
+{
+  "slug": "wandering-spider",
+  "name": "WANDERING SPIDER",
+  "uuid": null,
+  "description": "WANDERING SPIDER is a prolific ransomware operator group that has been active since at least April 2020. The group has used a variety of of ransomware families developed by other groups and is also believed to have developed the Black Basta ransomware family, which it has used since April 2022.<sup>[[Wandering Spider Profile](/references/cbaa3a39-f12e-4487-8aa6-1bd3e66b62b0)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3087"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3087"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

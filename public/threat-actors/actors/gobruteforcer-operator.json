@@ -1,0 +1,26 @@
+{
+  "slug": "gobruteforcer-operator",
+  "name": "GoBruteforcer operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🚦 GoBruteforcer operator Tags Botnet Operator Attribution 💰Cybercrime Incidents GoBruteforcer campaign Last edited Jan 18, 2024 1:25 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://unit42.paloaltonetworks.com/gobruteforcer-golang-botnet/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

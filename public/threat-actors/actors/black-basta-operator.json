@@ -1,0 +1,35 @@
+{
+  "slug": "black-basta-operator",
+  "name": "Black Basta operator",
+  "uuid": null,
+  "description": "Black Basta is a sophisticated ransomware-as-a-service (RaaS) operator that emerged in April 2022 and has since compromised over 500 organizations globally, primarily in the U.S. and allied countries. Believed to have ties to the former Conti group, Black Basta affiliates gain initial access through phishing emails, exploiting known vulnerabilities, or purchasing access from initial access brokers. Once inside, they deploy tools such as QakBot, Cobalt Strike, and remote monitoring software to move laterally and exfiltrate data.",
+  "aliases": [],
+  "refs": [
+    "https://socradar.io/black-bastas-internal-chats-leak/"
+  ],
+  "country": null,
+  "countries": [
+    "Europe",
+    "United States/North America"
+  ],
+  "sectors": [
+    "Finance",
+    "Healthcare/Medical",
+    "Manufactoring",
+    "Education",
+    "Energy"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

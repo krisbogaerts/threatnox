@@ -1,7 +1,7 @@
 {
   "slug": "vanilla-tempest",
   "name": "Vanilla Tempest",
-  "uuid": "c4132d43-2405-43ca-9940-a6f78e007861",
+  "uuid": null,
   "description": "Vice Society is a ransomware group that has been active since at least June 2021. They primarily target the education and healthcare sectors, but have also been observed targeting the manufacturing industry. The group has used multiple ransomware families and has been known to utilize PowerShell scripts for their attacks. There are similarities between Vice Society and the Rhysida ransomware group, suggesting a potential connection or rebranding.",
   "aliases": [
     "DEV-0832",
@@ -13,20 +13,24 @@
     "https://detect.fyi/rhysida-ransomware-and-the-detection-opportunities-3599e9a02bb2",
     "https://research.checkpoint.com/2023/the-rhysida-ransomware-activity-analysis-and-ties-to-vice-society/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector/",
-      "https://fourcore.io/blogs/rhysida-ransomware-history-ttp-adversary-emulation",
-      "https://detect.fyi/rhysida-ransomware-and-the-detection-opportunities-3599e9a02bb2",
-      "https://research.checkpoint.com/2023/the-rhysida-ransomware-activity-analysis-and-ties-to-vice-society/"
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3054"
     ],
-    "synonyms": [
-      "DEV-0832",
-      "Vice Society"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3054"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 590
+  "order": 0
 }

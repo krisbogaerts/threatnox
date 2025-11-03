@@ -1,0 +1,67 @@
+{
+  "slug": "medusa",
+  "name": "Medusa Ransomware Actors",
+  "uuid": null,
+  "description": "Medusa is a ransomware operation that reportedly launched in June 2021. In 2023, the group launched a website used to publicize alleged victims. The group appears to be independent of the similarly named \"MedusaLocker\" operation.<sup>[[Bleeping Computer Medusa Ransomware March 12 2023](/references/21fe1d9e-17f1-49e2-b05f-78e9160f5414)]</sup>\n\nAccording to data collected by the [ransomwatch project](https://github.com/joshhighet/ransomwatch) and analyzed by Tidal, Medusa actors publicly claimed around 90 victims through September 2023, ranking it ninth out of the 50+ ransomware operations in the dataset. These victims come from a wide variety of industry sectors and localities.<sup>[[GitHub ransomwatch](/references/62037959-58e4-475a-bb91-ff360d20c1d7)]</sup>",
+  "aliases": [
+    "Ransomware Medusa"
+  ],
+  "refs": [
+    "https://blog.talosintelligence.com/threat-actor-believed-to-be-spreading-new-medusalocker-variant-since-2022",
+    "https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/",
+    "http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion/",
+    "http://medusakxxtp3uo7vusntvubnytaph4d3amxivbggl3hnhpk2nmus34yd.onion/",
+    "http://xfv4jzckytb4g3ckwemcny3ihv4i5p4lqzdpi624cxisu35my5fwi5qd.onion/",
+    "http://dlmfciajg5s4vliyo5dhs5jyzhi2xr2fnkebul46lpf4xudtqiue4nid.onion/",
+    "http://kyfiw76eol6ph2mq7pi5e5tdvce37bicddhai62qhdc5ja6jdchz4qqd.onion/",
+    "http://s7lmmhlt3iwnwirxvgjidl6omcblvw2rg75txjfduy73kx5brlmiulad.onion/",
+    "http://45.9.148.39:8001/",
+    "http://cx5u7zxbvrfyoj6ughw76oa264ucuuizmmzypwum6ear7pct4yc723qd.onion/",
+    "http://hupxs7ps7md24kpz4lwsbra64abgxjx3pcc2wuca5ibawf2g5hlpfyqd.onion/",
+    "https://github.com/user-attachments/assets/478cae5e-3d1d-4a4f-abf6-4157eca717bf",
+    "https://github.com/user-attachments/assets/b6c680f9-38df-4386-890a-bb847a374450",
+    "https://github.com/user-attachments/assets/21f9d67a-827d-4e1c-90e4-79d347a5e872",
+    "https://github.com/user-attachments/assets/81b25a35-b065-425f-bfc6-71e5f7af074b"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3021",
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3021"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1078",
+      "T1566",
+      "T1133",
+      "T1059",
+      "T1047",
+      "T1562",
+      "T1562.001",
+      "T1562.009",
+      "T1110",
+      "T1083",
+      "T1135",
+      "T1021",
+      "T1105",
+      "T1045",
+      "T1567",
+      "T1048",
+      "T1490",
+      "T1489",
+      "T1486"
+    ]
+  },
+  "order": 0
+}

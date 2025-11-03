@@ -1,0 +1,26 @@
+{
+  "slug": "windigo-operator",
+  "name": "Windigo operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape Windigo operator Tags Attribution Incidents Operation Windigo Last edited Nov 3, 2024 6:58 AM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.welivesecurity.com/2014/03/18/operation-windigo-the-vivisection-of-a-large-linux-server-side-credential-stealing-malware-campaign/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

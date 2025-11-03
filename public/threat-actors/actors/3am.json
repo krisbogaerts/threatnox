@@ -1,0 +1,40 @@
+{
+  "slug": "3am",
+  "name": "3AM",
+  "uuid": null,
+  "description": "A new Ransomware family identified by the name \"3AM\" or \"ThreeAM\" in September 2023. The ransomware operation was observed by the Symantec team, in which a ransomware affiliate attempted to deploy another ransomware, LockBit, on the target network and then switched to 3AM when LockBit was reportedly blocked.",
+  "aliases": [
+    "Ransomware 3AM"
+  ],
+  "refs": [
+    "https://github.com/crocodyli/Ransomwares-TTP/assets/113185400/1e3012b3-51b4-42b3-9074-815d049786ae"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1018",
+      "T1048",
+      "T1070.001",
+      "T1135",
+      "T1136",
+      "T1486",
+      "T1490",
+      "T1543.003",
+      "T1548.002",
+      "T1562.004",
+      "T1615"
+    ]
+  },
+  "order": 0
+}

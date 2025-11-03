@@ -1,0 +1,26 @@
+{
+  "slug": "tellyouthepass-gang",
+  "name": "TellYouThePass Gang",
+  "uuid": null,
+  "description": "TellYouThePass Gang has been running the TellYouThePass ransomware campaign since 2019, and is known for exploiting n-day vulnerabilities. The gang uses the Windows mshta.exe binary to run a malicious HTML application (HTA) file containing VBScript with a base64-encoded string. This string decodes into a binary, loading a .NET variant of the ransomware into the host&#x27;s memory. The ransomware then sends an HTTP request disguised as a CSS resource request to a command-and-control server and encrypts files on the infected machine. A ransom note, &quot;READ_ME10.html,&quot; is left on the system with instructions for the victim on how to restore their files.",
+  "aliases": [],
+  "refs": [
+    "https://www.imperva.com/blog/update-cve-2024-4577-quickly-weaponized-to-distribute-tellyouthepass-ransomware/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

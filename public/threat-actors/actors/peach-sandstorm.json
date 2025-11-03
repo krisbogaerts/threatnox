@@ -1,0 +1,41 @@
+{
+  "slug": "peach-sandstorm",
+  "name": "Peach Sandstorm",
+  "uuid": null,
+  "description": "Iranian state-sponsored threat actor known to conduct espionage operations. In at least one campaign, they moved laterally into their targets’ cloud environments once gaining initial access to on-premise devices.",
+  "aliases": [
+    "APT33",
+    "Elfin",
+    "HOLMIUM",
+    "Magic Hound",
+    "Refined Kitten"
+  ],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets/"
+  ],
+  "country": null,
+  "countries": [
+    "Middle East"
+  ],
+  "sectors": [
+    "and",
+    "Pharmaceutical",
+    "Tickler",
+    "Roadtools",
+    "Military",
+    "AzureHound"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

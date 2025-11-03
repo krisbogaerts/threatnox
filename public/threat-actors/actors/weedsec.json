@@ -1,19 +1,26 @@
 {
   "slug": "weedsec",
   "name": "WeedSec",
-  "uuid": "000a2535-8fbf-459d-a067-d10528496a92",
+  "uuid": null,
   "description": "WeedSec is a threat actor group that recently targeted the online learning and course management platform Moodle. They posted sample databases of Moodle on their Telegram channel, which is widely used by educational institutions and workplaces.",
   "aliases": [],
   "refs": [
     "https://socradar.io/cyber-awakeness-month-takedown-of-trigona-hive-ransomware-resurges-ransomedforum-and-new-raas-qbit/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://socradar.io/cyber-awakeness-month-takedown-of-trigona-hive-ransomware-resurges-ransomedforum-and-new-raas-qbit/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 520
+  "order": 0
 }

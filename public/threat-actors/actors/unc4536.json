@@ -1,19 +1,26 @@
 {
   "slug": "unc4536",
   "name": "UNC4536",
-  "uuid": "5a00ccdb-7987-4563-af4f-e368af8406df",
+  "uuid": null,
   "description": "UNC4536 is a threat actor that distributes malware, including ICEDID, REDLINESTEALER, and CARBANAK, primarily through malvertising and trojanized MSIX installers masquerading as popular software. They utilize SEO poisoning tactics to direct victims to malicious sites that mimic legitimate software hosting platforms, facilitating the download of compromised installers. The actor employs a PowerShell script known as NUMOZYLOD to deliver tailored payloads, such as the CARBANAK backdoor, to their partners. Additionally, UNC4536 has been linked to campaigns that distribute NetSupport RAT, targeting IT administrators through fake sites promoted via Google Ads.",
   "aliases": [],
   "refs": [
     "https://www.googlecloudcommunity.com/gc/Community-Blog/Finding-Malware-Unveiling-NUMOZYLOD-with-Google-Security/ba-p/789551"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.googlecloudcommunity.com/gc/Community-Blog/Finding-Malware-Unveiling-NUMOZYLOD-with-Google-Security/ba-p/789551"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 727
+  "order": 0
 }

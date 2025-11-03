@@ -1,0 +1,26 @@
+{
+  "slug": "seashell-blizzard",
+  "name": "Seashell Blizzard",
+  "uuid": null,
+  "description": "Cloud Threat Landscape Seashell Blizzard Tags Attribution Incidents Seashell Blizzard Subgroup&#x27;s Campaign Exploiting Vulnerabilities for Data Exfiltration Last edited Feb 18, 2025 2:26 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2025/02/12/the-badpilot-campaign-seashell-blizzard-subgroup-conducts-multiyear-global-access-operation/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

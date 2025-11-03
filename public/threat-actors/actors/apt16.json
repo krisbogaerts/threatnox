@@ -1,16 +1,18 @@
 {
   "slug": "apt16",
   "name": "APT16",
-  "uuid": "1f73e14f-b882-4032-a565-26dc653b0daf",
-  "description": "Between November 26, 2015, and December 1, 2015, known and suspected China-based APT groups launched several spear-phishing attacks targeting Japanese and Taiwanese organizations in the high-tech, government services, media and financial services industries. Each campaign delivered a malicious Microsoft Word document exploiting the aforementioned EPS dict copy use-after-free vulnerability, and the local Windows privilege escalation vulnerability CVE-2015-1701. The successful exploitation of both vulnerabilities led to the delivery of either a downloader that we refer to as IRONHALO, or a backdoor that we refer to as ELMER.",
+  "uuid": null,
+  "description": "[APT16](https://attack.mitre.org/groups/G0023) is a China-based threat group that has launched spearphishing campaigns targeting Japanese and Taiwanese organizations. (Citation: FireEye EPS Awakens Part 2)",
   "aliases": [
+    "APT16",
     "SVCMONDR",
     "G0023"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0023",
+    "https://web.archive.org/web/20151226205946/https://www.fireeye.com/blog/threat-research/2015/12/the-eps-awakens-part-two.html",
     "https://www.fireeye.com/blog/threat-research/2015/12/the_eps_awakens.html",
     "https://www.cfr.org/interactive/cyber-operations/apt-16",
-    "https://attack.mitre.org/groups/G0023",
     "https://www.mandiant.com/resources/insights/apt-groups",
     "https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/"
   ],
@@ -18,33 +20,23 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Private sector"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "Japan",
-      "Taiwan"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0023"
     ],
-    "cfr-target-category": [
-      "Private sector"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://www.fireeye.com/blog/threat-research/2015/12/the_eps_awakens.html",
-      "https://www.cfr.org/interactive/cyber-operations/apt-16",
-      "https://attack.mitre.org/groups/G0023",
-      "https://www.mandiant.com/resources/insights/apt-groups",
-      "https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/"
-    ],
-    "synonyms": [
-      "SVCMONDR",
-      "G0023"
-    ]
+    "external_ids": {
+      "mitre": "G0023"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 16
+  "order": 0
 }

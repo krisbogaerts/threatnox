@@ -1,19 +1,27 @@
 {
   "slug": "codefinger",
   "name": "Codefinger",
-  "uuid": "8f099c68-8fc5-44c8-b935-bcc95f7b0489",
+  "uuid": null,
   "description": "Codefinger is a ransomware group that targets Amazon S3 buckets by exploiting AWS’s Server-Side Encryption with Customer Provided Keys to encrypt victim data. They utilize compromised AWS credentials to gain access and demand Bitcoin ransoms for the decryption keys, threatening to delete files if negotiations fail. The group has been observed abusing publicly disclosed AWS keys with permissions to read and write S3 objects, making recovery impossible without their cooperation. Halcyon has documented multiple incidents linked to Codefinger's data extortion campaign against organizations with unsecured infrastructure.",
   "aliases": [],
   "refs": [
     "https://www.halcyon.ai/blog/abusing-aws-native-services-ransomware-encrypting-s3-buckets-with-sse-c"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.halcyon.ai/blog/abusing-aws-native-services-ransomware-encrypting-s3-buckets-with-sse-c"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 797
+  "order": 0
 }

@@ -1,0 +1,26 @@
+{
+  "slug": "silent",
+  "name": "silent",
+  "uuid": null,
+  "description": "Unlike many other groups, Silent claims to operate with a high level of anonymity and discretion. According to their own statement, they avoid public negotiations and encrypt minimal data. Instead, their focus is on stealing valuable confidential corporate information — and either selling it to competitors, on the dark web, or publishing it selectively.",
+  "aliases": [],
+  "refs": [
+    "http://silentbgdghp3zeldwpumnwabglreql7jcffhx5vqkvtf2lshc4n5zid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

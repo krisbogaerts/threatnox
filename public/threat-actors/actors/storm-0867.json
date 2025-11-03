@@ -1,7 +1,7 @@
 {
   "slug": "storm-0867",
   "name": "Storm-0867",
-  "uuid": "dc1d0202-8976-4d15-810d-4af0feff6af9",
+  "uuid": null,
   "description": "Storm-0867 is a threat actor that has been active since 2012 and has targeted various industries and regions. They employ sophisticated phishing campaigns, utilizing social engineering techniques and a phishing as a service platform called Caffeine. Their attacks involve intercepting and manipulating communication between users and legitimate services, allowing them to steal passwords, hijack sign-in sessions, bypass multifactor authentication, and modify authentication methods.",
   "aliases": [
     "DEV-0867"
@@ -13,16 +13,18 @@
   "countries": [
     "EG"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "EG",
-    "refs": [
-      "https://techcommunity.microsoft.com/t5/microsoft-security-experts-blog/defender-experts-chronicles-a-deep-dive-into-storm-0867/ba-p/3911769"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "DEV-0867"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 587
+  "order": 0
 }

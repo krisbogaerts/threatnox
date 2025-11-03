@@ -1,7 +1,7 @@
 {
   "slug": "anthropoid-spider",
   "name": "ANTHROPOID SPIDER",
-  "uuid": "559a64d8-8657-4a93-9208-060d52efdec4",
+  "uuid": null,
   "description": "Publicly known as 'EmpireMonkey', ANTHROPOID SPIDER conducted phishing campaigns in February and March 2019, spoofing French, Norwegian and Belizean financial regulators and institutions. These campaigns used macro-enabled Microsoft documents to deliver the PowerShell Empire post-exploitation framework. ANTHROPOID SPIDER likely enabled a breach that allegedly involved fraudulent transfers over the SWIFT network.",
   "aliases": [
     "Empire Monkey",
@@ -12,22 +12,20 @@
     "https://www.kaspersky.com/about/press-releases/2019_fin7-hacking-group-targets-more-than-130-companies-after-leaders-arrest",
     "https://fortiguard.com/encyclopedia/botnet/7630456"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeGlobalThreatReport.pdf",
-      "https://www.kaspersky.com/about/press-releases/2019_fin7-hacking-group-targets-more-than-130-companies-after-leaders-arrest",
-      "https://fortiguard.com/encyclopedia/botnet/7630456"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Empire Monkey",
-      "CobaltGoblin"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "targeted-sector": [
-      "Finance"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 275
+  "order": 0
 }

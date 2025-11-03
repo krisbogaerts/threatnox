@@ -1,0 +1,26 @@
+{
+  "slug": "eldorado",
+  "name": "ElDorado",
+  "uuid": null,
+  "description": "In September The El Dorado ransomware group have been rebrand as BlackLock ",
+  "aliases": [],
+  "refs": [
+    "http://dataleakypypu7uwblm5kttv726l3iripago6p336xjnbstkjwrlnlid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

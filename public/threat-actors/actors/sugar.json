@@ -1,0 +1,26 @@
+{
+  "slug": "sugar",
+  "name": "sugar",
+  "uuid": null,
+  "description": "Ransomware, written in Delphi.\n",
+  "aliases": [],
+  "refs": [
+    "http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion/gate.php"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "valencialeaks",
+  "name": "ValenciaLeaks",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://6doyqxqqj36vnedtt2zwxmngx52mgyp7brbrtwkyd75jgiolocoybgid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

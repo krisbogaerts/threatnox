@@ -1,7 +1,7 @@
 {
   "slug": "cyber-av3ngers",
   "name": "Cyber Av3ngers",
-  "uuid": "286db62d-859d-48e2-9601-1b7abde9f3c3",
+  "uuid": null,
   "description": "The hacktivist group ‘Cyber Av3ngers’ has historically claimed attacks on Israel’s critical infrastructures. It has been launching DDoS attacks and claiming breach of Israeli networks with supporting data leaks.",
   "aliases": [],
   "refs": [
@@ -13,15 +13,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IR",
-    "refs": [
-      "https://securelist.com/a-hack-in-hand-is-worth-two-in-the-bush/110794/",
-      "https://cyberwarzone.com/cyber-av3ngers-claims-infiltration-of-israeli-water-treatment-stations-amid-ongoing-conflict/",
-      "https://cyberwarzone.com/hacking-group-cyber-av3ngers-claims-responsibility-for-yavne-power-outages-what-you-need-to-know/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 471
+  "order": 0
 }

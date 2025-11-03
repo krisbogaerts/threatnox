@@ -1,0 +1,27 @@
+{
+  "slug": "anonymous-collective",
+  "name": "Anonymous (Collective)",
+  "uuid": null,
+  "description": "Anonymous is a decentralized international group of hacktivists known for carrying out cyber attacks against government bodies and corporations worldwide. Their activities often include distributed denial-of-service (DDoS) attacks, website defacements, and data leaks, primarily motivated by opposition to internet censorship, control, and various geopolitical issues.<sup>[[Cyber Security Agency of Singapore March 9 2022](/references/382b5b53-8f24-4e20-9493-ccc8187fef51)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3097"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3097"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

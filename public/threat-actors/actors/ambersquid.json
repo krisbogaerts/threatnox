@@ -1,0 +1,26 @@
+{
+  "slug": "ambersquid",
+  "name": "AmberSquid",
+  "uuid": null,
+  "description": "Known for Cloud-native cryptojacking, targeting AWS services.",
+  "aliases": [],
+  "refs": [
+    "https://sysdig.com/blog/ambersquid/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

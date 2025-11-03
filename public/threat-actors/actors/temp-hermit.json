@@ -1,0 +1,26 @@
+{
+  "slug": "temp-hermit",
+  "name": "TEMP.Hermit",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://www.fireeye.com/blog/threat-research/2018/02/attacks-leveraging-adobe-zero-day.html"
+  ],
+  "country": "KP",
+  "countries": [
+    "KP"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

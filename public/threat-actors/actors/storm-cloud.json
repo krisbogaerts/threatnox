@@ -1,7 +1,7 @@
 {
   "slug": "storm-cloud",
   "name": "Storm Cloud",
-  "uuid": "3baec27f-3827-4a38-82c8-7195a18193f9",
+  "uuid": null,
   "description": "Storm Cloud is a Chinese espionage threat actor known for targeting organizations across Asia, particularly Tibetan organizations and individuals. They use a variety of malware families, including GIMMICK and GOSLU, which are feature-rich and multi-platform. Storm Cloud leverages public cloud hosting services like Google Drive for command-and-control channels, making it difficult to detect their activities.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.volexity.com/blog/2020/03/31/storm-cloud-unleashed-tibetan-community-focus-of-highly-targeted-fake-flash-campaign/",
-      "https://www.rewterz.com/rewterz-news/rewterz-threat-alert-gimmick-malware-active-iocs"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 531
+  "order": 0
 }

@@ -1,0 +1,28 @@
+{
+  "slug": "targetcompany",
+  "name": "TargetCompany",
+  "uuid": null,
+  "description": "The ransomware group known as TargetCompany, which emerged in June 2021, is known for attaching the names of its victims to the files it encrypts. This group has evolved significantly, frequently updating its encryption methods, the features of its decryptors, and the extensions of the encrypted files.",
+  "aliases": [
+    "Mallox"
+  ],
+  "refs": [
+    "https://asec.ahnlab.com/en/64921/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

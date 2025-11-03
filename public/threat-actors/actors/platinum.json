@@ -1,39 +1,40 @@
 {
   "slug": "platinum",
   "name": "PLATINUM",
-  "uuid": "1fc5671f-5757-43bf-8d6d-a9a93b03713a",
-  "description": "PLATINUM has been targeting its victims since at least as early as 2009, and may have been active for several years prior. Its activities are distinctly different not only from those typically seen in untargeted attacks, but from many targeted attacks as well. A large share of targeted attacks can be characterized as opportunistic: the activity group changes its target profiles and attack geographies based on geopolitical seasons, and may attack institutions all over the world. Like many such groups, PLATINUM seeks to steal sensitive intellectual property related to government interests, but its range of preferred targets is consistently limited to specific governmental organizations, defense institutes, intelligence agencies, diplomatic institutions, and telecommunication providers in South and Southeast Asia. The group’s persistent use of spear phishing tactics (phishing attempts aimed at specific individuals) and access to previously undiscovered zero-day exploits have made it a highly resilient threat.",
+  "uuid": null,
+  "description": "[PLATINUM](https://attack.mitre.org/groups/G0068) is an activity group that has targeted victims since at least 2009. The group has focused on targets associated with governments and related organizations in South and Southeast Asia. (Citation: Microsoft PLATINUM April 2016)",
   "aliases": [
+    "PLATINUM",
     "TwoForOne",
     "G0068",
     "ATK33"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0068",
+    "https://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf",
     "http://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf",
     "https://blogs.technet.microsoft.com/mmpc/2016/04/26/digging-deep-for-platinum/",
     "https://attack.mitre.org/groups/G0068/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "http://download.microsoft.com/download/2/2/5/225BFE3E-E1DE-4F5B-A77B-71200928D209/Platinum%20feature%20article%20-%20Targeted%20attacks%20in%20South%20and%20Southeast%20Asia%20April%202016.pdf",
-      "https://blogs.technet.microsoft.com/mmpc/2016/04/26/digging-deep-for-platinum/",
-      "https://attack.mitre.org/groups/G0068/"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0068"
     ],
-    "synonyms": [
-      "TwoForOne",
-      "G0068",
-      "ATK33"
+    "description_sources": [
+      "MITRE"
     ],
-    "targeted-sector": [
-      "Defense",
-      "Government, Administration",
-      "Diplomacy",
-      "Intelligence",
-      "Telecoms"
-    ]
+    "external_ids": {
+      "mitre": "G0068"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 112
+  "order": 0
 }

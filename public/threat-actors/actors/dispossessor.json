@@ -1,0 +1,27 @@
+{
+  "slug": "dispossessor",
+  "name": "dispossessor",
+  "uuid": null,
+  "description": "This is not a ransomware group but a data broker",
+  "aliases": [],
+  "refs": [
+    "https://dispossessor.com/",
+    "http://e27z5kd2rjsern2gpgukhcioysqlfquxgf7rxpvcwepxl4lfc736piyd.onion/dashboard"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

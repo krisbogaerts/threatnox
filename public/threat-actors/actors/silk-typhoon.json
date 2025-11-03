@@ -1,0 +1,39 @@
+{
+  "slug": "silk-typhoon",
+  "name": "Silk Typhoon",
+  "uuid": null,
+  "description": "Silk Typhoon is a China-based advanced persistent threat (APT) group known for cyber espionage operations targeting entities in the United States and other regions. Active since at least 2009, the group, also referred to as APT20 or NICKEL, primarily focuses on intelligence collection to support Chinese geopolitical interests. Silk Typhoon is known for leveraging vulnerabilities in public-facing applications and employing stolen credentials to maintain persistent access. The group frequently uses web shells and custom malware to establish footholds and exfiltrate data. Silk Typhoon adapts its techniques based on target defenses, combining living-off-the-land tactics with bespoke tools. It has been linked to intrusions against government agencies, non-governmental organizations (NGOs), diplomatic entities, and telecommunications providers.",
+  "aliases": [
+    "HAFNIUM",
+    "Murky Panda"
+  ],
+  "refs": [
+    "https://www.crowdstrike.com/en-us/blog/murky-panda-trusted-relationship-threat-in-cloud/",
+    "https://www.microsoft.com/en-us/security/blog/2025/03/05/silk-typhoon-targeting-it-supply-chain/"
+  ],
+  "country": null,
+  "countries": [
+    "Southeast Asia",
+    "Latin America",
+    "Europe",
+    "United States/North America"
+  ],
+  "sectors": [
+    "Telecommunication",
+    "Government",
+    "Non-governmental organizations (NGOs)"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

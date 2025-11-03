@@ -1,0 +1,27 @@
+{
+  "slug": "eldorado-ransomware-operators",
+  "name": "Eldorado Ransomware Operators",
+  "uuid": null,
+  "description": "This object reflects the ATT&CK Techniques associated with threat actors who deploy Eldorado, a ransomware-as-a-service (\"RaaS\") first advertised for sale on cybercrime forums in March 2024. Researchers assess that Eldorado is a \"unique\" ransomware strain that is likely not derived from previously leaked ransomware source code.<sup>[[Group-IB July 3 2024](/references/50148a85-314c-4b29-bdfc-913ab647dadf)]</sup>\n\nWindows and Linux-focused versions of the ransomware are known to exist. (ATT&CK Techniques associated with these malware binaries are tracked in a separate \"Eldorado  Ransomware\" Software object.)",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3045"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3045"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

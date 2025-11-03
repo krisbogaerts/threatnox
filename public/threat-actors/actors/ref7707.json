@@ -1,7 +1,7 @@
 {
   "slug": "ref7707",
   "name": "REF7707",
-  "uuid": "ff080026-9df7-4874-ad04-0c7d4dcb3e7f",
+  "uuid": null,
   "description": "REF7707 is a cyber campaign targeting government entities, particularly a foreign ministry in South America, utilizing malware families such as FinalDraft, GuidLoader, and PathLoader for persistence and lateral movement. The threat actor employs the Microsoft Graph API for C2 communication, blending malicious traffic with legitimate activity to evade detection. Despite their technical sophistication, REF7707 operators exhibited poor operational security, leading to the exposure of their infrastructure and malware. Their tactics enable the extraction of sensitive data, including passwords and Active Directory information, facilitating ongoing espionage activities.",
   "aliases": [
     "CL-STA-0049"
@@ -14,17 +14,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://unit42.paloaltonetworks.com/advanced-backdoor-squidoor/",
-      "https://www.elastic.co/security-labs/fragile-web-ref7707"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "CL-STA-0049"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 829
+  "order": 0
 }

@@ -1,0 +1,27 @@
+{
+  "slug": "lucifer-operator",
+  "name": "Lucifer operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 😈 Lucifer operator Tags Attribution 💰Cybercrime Incidents Lucifer Botnet targeting Hadoop Lucifer Apache Druid cryptojacking Last edited Apr 30, 2024 6:46 AM Status Stub Cloud-fluent Unique Tools Lucifer Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.aquasec.com/blog/lucifer-ddos-botnet-malware-is-targeting-apache-big-data-stack/",
+    "https://www.armosec.io/blog/armo-cadr-detects-kubernetes-crypto-mining/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,19 +1,38 @@
 {
   "slug": "storm-0501",
   "name": "Storm-0501",
-  "uuid": "f6a60403-4bcc-4fc6-ac07-abb913c1f080",
-  "description": "Storm-0501 is a financially motivated cybercriminal group that has been active since 2021, initially targeting US school districts with the Sabbath ransomware and later transitioning to a RaaS model deploying various ransomware strains, including Embargo. The group exploits weak credentials and over-privileged accounts to achieve lateral movement from on-premises environments to cloud infrastructures, establishing persistent backdoor access and deploying ransomware. They have utilized techniques such as credential theft, exploiting vulnerabilities in Zoho ManageEngine and Citrix NetScaler, and employing tools like Cobalt Strike and Rclone for lateral movement and data exfiltration. Storm-0501 has specifically targeted sectors such as government, manufacturing, transportation, and law enforcement in the United States.",
-  "aliases": [],
-  "refs": [
-    "https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/"
+  "uuid": null,
+  "description": "[Storm-0501](https://attack.mitre.org/groups/G1053) is a financially motivated cyber criminal group that uses commodity and open-source tools to conduct ransomware operations. [Storm-0501](https://attack.mitre.org/groups/G1053) has been active since 2021 and has previously been affiliated with Sabbath Ransomware and other Ransomware-as-a-Service (RaaS) variants such as Hive, [BlackCat](https://attack.mitre.org/software/S1068), Hunters International, [LockBit 3.0](https://attack.mitre.org/software/S1202), and [Embargo](https://attack.mitre.org/software/S1247) ransomware.(Citation: Avertium Storm-0501 Sabbath Ransomware Arcane January 2022)(Citation: Microsoft Storm-501 Sabbath Ransomware Embargo September 2024)(Citation: Microsoft Storm-0501 Embargo Ransomware August 2025)(Citation: Google Mandiant Storm-0501 Sabbath Ransomware November 2021)",
+  "aliases": [
+    "Storm-0501"
   ],
-  "countries": [],
-  "sectors": [],
+  "refs": [
+    "https://attack.mitre.org/groups/G1053",
+    "https://www.avertium.com/resources/threat-reports/in-depth-look-at-sabbath-ransomware-gang",
+    "https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/",
+    "https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/",
+    "https://cloud.google.com/blog/topics/threat-intelligence/sabbath-ransomware-affiliate/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3057",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1053"
+    },
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 743
+  "order": 0
 }

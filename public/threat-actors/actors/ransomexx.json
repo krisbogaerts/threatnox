@@ -1,0 +1,27 @@
+{
+  "slug": "ransomexx",
+  "name": "ransomexx",
+  "uuid": null,
+  "description": "RansomExx is a ransomware family that targeted multiple companies starting in mid-2020. It shares commonalities with Defray777.\n",
+  "aliases": [],
+  "refs": [
+    "https://analyst1.com/ransomware-diaries-volume-2/",
+    "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

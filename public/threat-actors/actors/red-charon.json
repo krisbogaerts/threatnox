@@ -1,7 +1,7 @@
 {
   "slug": "red-charon",
   "name": "Red Charon",
-  "uuid": "c8b961fe-3698-41ac-aba1-002ee3c19531",
+  "uuid": null,
   "description": "Throughout 2019, multiple companies in the Taiwan high-tech ecosystem were victims of an advanced persistent threat (APT) attack. Due to these APT attacks having similar behavior profiles (similar adversarial techniques, tactics, and procedures or TTP) with each other and previously documented cyberattacks, CyCraft assess with high confidence these new attacks were conducted by the same foreign threat actor. During their investigation, they dubbed this threat actor Chimera. “Chimera” stands for the synthesis of hacker tools that they’ve seen the group use, such as the skeleton key malware that contained code extracted from both Dumpert and Mimikatz — hence Chimera. Their operation — the entirety of the new attacks utilizing the Skeleton Key attack (described below) from late 2018 to late 2019, CyCraft have dubbed Operation Skeleton Key.",
   "aliases": [],
   "refs": [
@@ -11,17 +11,20 @@
     "https://medium.com/cycraft/taiwan-high-tech-ecosystem-targeted-by-foreign-apt-group-5473d2ad8730",
     "https://www.pwc.co.uk/cyber-security/pdf/pwc-cyber-threats-2020-a-year-in-retrospect.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://i.blackhat.com/USA-20/Thursday/us-20-Chen-Operation-Chimera-APT-Operation-Targets-Semiconductor-Vendors.pdf",
-      "https://www.wired.com/story/chinese-hackers-taiwan-semiconductor-industry-skeleton-key/",
-      "https://cycraft.com/download/%5BTLP-White%5D20200415%20Chimera_V4.1.pdf",
-      "https://medium.com/cycraft/taiwan-high-tech-ecosystem-targeted-by-foreign-apt-group-5473d2ad8730",
-      "https://www.pwc.co.uk/cyber-security/pdf/pwc-cyber-threats-2020-a-year-in-retrospect.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 300
+  "order": 0
 }

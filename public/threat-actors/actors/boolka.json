@@ -1,19 +1,27 @@
 {
   "slug": "boolka",
   "name": "Boolka",
-  "uuid": "99ad0cef-c53a-44d5-85d4-5459e59a06d5",
+  "uuid": null,
   "description": "Boolka is a threat actor known for infecting websites with malicious JavaScript scripts for data exfiltration. They have been carrying out opportunistic SQL injection attacks since at least 2022. Boolka has developed a malware delivery platform based on the BeEF framework and has been distributing the BMANAGER trojan. Their activities demonstrate a progression from basic website infections to more sophisticated malware operations.",
   "aliases": [],
   "refs": [
     "https://www.group-ib.com/blog/boolka/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.group-ib.com/blog/boolka/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 704
+  "order": 0
 }

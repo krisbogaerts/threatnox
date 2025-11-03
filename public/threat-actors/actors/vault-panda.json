@@ -1,0 +1,29 @@
+{
+  "slug": "vault-panda",
+  "name": "VAULT PANDA",
+  "uuid": null,
+  "description": "A likely intelligence gathering-focused, China-nexus threat actor group that has targeted organizations in various sectors, especially financial services, around the world.<sup>[[CrowdStrike 2025 Global Threat Report](/references/a69b0ce3-f314-4b32-bfb3-b1380c4f0ec4)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3085"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3085"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

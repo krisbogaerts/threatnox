@@ -1,19 +1,26 @@
 {
   "slug": "sparklinggoblin",
   "name": "SparklingGoblin",
-  "uuid": "f3fd4397-19e4-47e0-b1bc-f792690e3bd0",
+  "uuid": null,
   "description": "ESET researchers have discovered a new undocumented modular backdoor, SideWalk, being used by an APT group they’ve named SparklingGoblin; this backdoor was used during one of SparklingGoblin’s recent campaigns that targeted a computer retail company based in the USA. This backdoor shares multiple similarities with another backdoor used by the group: CROSSWALK.",
   "aliases": [],
   "refs": [
     "https://www.welivesecurity.com/2021/08/24/sidewalk-may-be-as-dangerous-as-crosswalk/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.welivesecurity.com/2021/08/24/sidewalk-may-be-as-dangerous-as-crosswalk/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 447
+  "order": 0
 }

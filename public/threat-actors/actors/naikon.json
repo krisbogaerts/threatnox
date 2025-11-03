@@ -1,22 +1,25 @@
 {
   "slug": "naikon",
   "name": "Naikon",
-  "uuid": "2f1fd017-9df6-4759-91fb-e7039609b5ff",
-  "description": "Kaspersky described Naikon in a 2015 report as: 'The Naikon group is mostly active in countries such as the Philippines, Malaysia, Cambodia, Indonesia, Vietnam, Myanmar, Singapore, and Nepal, hitting a variety of targets in a very opportunistic way.'",
+  "uuid": null,
+  "description": "[Naikon](https://attack.mitre.org/groups/G0019) is assessed to be a state-sponsored cyber espionage group attributed to the Chinese People’s Liberation Army’s (PLA) Chengdu Military Region Second Technical Reconnaissance Bureau (Military Unit Cover Designator 78020).(Citation: CameraShy) Active since at least 2010, [Naikon](https://attack.mitre.org/groups/G0019) has primarily conducted operations against government, military, and civil organizations in Southeast Asia, as well as against international bodies such as the United Nations Development Programme (UNDP) and the Association of Southeast Asian Nations (ASEAN).(Citation: CameraShy)(Citation: Baumgartner Naikon 2015) \n\nWhile [Naikon](https://attack.mitre.org/groups/G0019) shares some characteristics with [APT30](https://attack.mitre.org/groups/G0013), the two groups do not appear to be exact matches.(Citation: Baumgartner Golovkin Naikon 2015)",
   "aliases": [
+    "Naikon",
     "PLA Unit 78020",
     "OVERRIDE PANDA",
     "Camerashy",
     "BRONZE GENEVA",
     "G0019",
-    "Naikon",
     "BRONZE STERLING",
     "G0013"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0019",
+    "http://cdn2.hubspot.net/hubfs/454298/Project_CAMERASHY_ThreatConnect_Copyright_2015.pdf",
+    "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
+    "https://securelist.com/the-naikon-apt/69953/",
     "https://securelist.com/analysis/publications/69953/the-naikon-apt/",
     "https://www.fireeye.com/blog/threat-research/2014/03/spear-phishing-the-news-cycle-apt-actors-leverage-interest-in-the-disappearance-of-malaysian-flight-mh-370.html",
-    "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
     "https://usa.kaspersky.com/resource-center/threats/naikon-targeted-attacks",
     "https://web.archive.org/web/20210925164035/https://blog.trendmicro.com/trendlabs-security-intelligence/bkdr_rarstone-new-rat-to-watch-out-for/",
     "https://threatconnect.com/blog/tag/naikon/",
@@ -31,60 +34,23 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Government",
-    "Private sector"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "India",
-      "Saudi Arabia",
-      "Vietnam",
-      "Myanmar",
-      "Singapore",
-      "Thailand",
-      "Malaysia",
-      "Cambodia",
-      "China",
-      "Philippines",
-      "South Korea",
-      "United States",
-      "Indonesia",
-      "Laos"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0019"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Private sector"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://securelist.com/analysis/publications/69953/the-naikon-apt/",
-      "https://www.fireeye.com/blog/threat-research/2014/03/spear-phishing-the-news-cycle-apt-actors-leverage-interest-in-the-disappearance-of-malaysian-flight-mh-370.html",
-      "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07205555/TheNaikonAPT-MsnMM1.pdf",
-      "https://usa.kaspersky.com/resource-center/threats/naikon-targeted-attacks",
-      "https://web.archive.org/web/20210925164035/https://blog.trendmicro.com/trendlabs-security-intelligence/bkdr_rarstone-new-rat-to-watch-out-for/",
-      "https://threatconnect.com/blog/tag/naikon/",
-      "https://attack.mitre.org/groups/G0019/",
-      "https://www.secureworks.com/research/threat-profiles/bronze-geneva",
-      "https://cyware.com/news/chinese-naikon-group-back-with-new-espionage-attack-66a8413d",
-      "https://cluster25.io/2022/04/29/lotus-panda-awake-last-strike/",
-      "https://www.mandiant.com/resources/insights/apt-groups",
-      "https://www.fireeye.com/content/dam/fireeye-www/summit/cds-2019/presentations/cds19-executive-s08-achievement-unlocked.pdf"
-    ],
-    "synonyms": [
-      "PLA Unit 78020",
-      "OVERRIDE PANDA",
-      "Camerashy",
-      "BRONZE GENEVA",
-      "G0019",
-      "Naikon",
-      "BRONZE STERLING",
-      "G0013"
-    ]
+    "external_ids": {
+      "mitre": "G0019"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 20
+  "order": 0
 }

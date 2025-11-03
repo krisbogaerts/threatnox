@@ -1,0 +1,27 @@
+{
+  "slug": "dreambus-operator",
+  "name": "Dreambus operator",
+  "uuid": null,
+  "description": "Dreambus is a botnet active since at least 2020, known to be quite adept at exploiting vulnerabilities and misconfigurations in multiple applications in order to gain initial access to publicly exposed Linux servers. Their preferred attack surface includes PostgreSQL, Hashicorp Consul, RocketMQ, Hadoop, Redis, and other popular software. The operators behind this activity appear to be financially motivated, as infections result in cryptojacking (hijacking of the infected workload for illicit cryptomining operations).",
+  "aliases": [],
+  "refs": [
+    "https://www.zscaler.com/blogs/security-research/dreambus-botnet-technical-analysis",
+    "https://www.zscaler.com/blogs/security-research/dreambus-unleashes-metabase-mayhem-new-exploit-module"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

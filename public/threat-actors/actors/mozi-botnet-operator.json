@@ -1,0 +1,30 @@
+{
+  "slug": "mozi-botnet-operator",
+  "name": "Mozi Botnet operator",
+  "uuid": null,
+  "description": "The Mozi botnet primarily operated in China, India, and Albania, targeting Netgear, Dasan, D-Link routers, and MVPower DVR Jaws servers. In 2021, Chinese law enforcement arrested the individuals responsible for the botnet. Following the arrests, either the creators themselves, under law enforcement pressure, or the authorities directly, deployed an update that severed the Mozi botnet agents&#x27; connections to the outside world, effectively dismantling most of the botnet and leaving only a small number of active bots.",
+  "aliases": [],
+  "refs": [
+    "https://www.cloudsek.com/blog/mozi-resurfaces-as-androxgh0st-botnet-unraveling-the-latest-exploitation-wave"
+  ],
+  "country": null,
+  "countries": [
+    "Asia",
+    "East Asia",
+    "Eastern Europe"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

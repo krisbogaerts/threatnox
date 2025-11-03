@@ -1,0 +1,26 @@
+{
+  "slug": "redtail-operator",
+  "name": "RedTail operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🍒 RedTail operator Tags Attribution Incidents RedTail Cryptomining campaign Last edited Aug 25, 2024 7:46 AM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.akamai.com/blog/security-research/2024-redtail-cryptominer-pan-os-cve-exploit"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

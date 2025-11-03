@@ -1,7 +1,7 @@
 {
   "slug": "cadelle",
   "name": "Cadelle",
-  "uuid": "03f13462-003c-4296-8784-bccea16710a9",
+  "uuid": null,
   "description": "Symantec telemetry identified Cadelle and Chafer activity dating from as far back as July 2014, however, it’s likely that activity began well before this date. Command-and-control (C&C) registrant information points to activity possibly as early as 2011, while executable compilation times suggest early 2012. Their attacks continue to the present day. Symantec estimates that each team is made up of between 5 and 10 people.",
   "aliases": [],
   "refs": [
@@ -11,14 +11,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "IR",
-    "refs": [
-      "https://www.symantec.com/connect/blogs/iran-based-attackers-use-back-door-threats-spy-middle-eastern-targets"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 94
+  "order": 0
 }

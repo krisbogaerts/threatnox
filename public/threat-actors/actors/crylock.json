@@ -1,0 +1,24 @@
+{
+  "slug": "crylock",
+  "name": "crylock",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://d57uremugxjrafyg.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

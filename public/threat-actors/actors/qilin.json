@@ -1,0 +1,33 @@
+{
+  "slug": "qilin",
+  "name": "qilin",
+  "uuid": null,
+  "description": "Qilin ransomware was first observed in July of 2022. Qilin Ransomware is written in Golang and supports multiple encryption modes; all of which are controlled by the operator. Qilin actors practice double extortion – demanding payment for a decryptor, as well as for the non-release of stolen data.",
+  "aliases": [],
+  "refs": [
+    "https://www.secureworks.com/research/threat-profiles/gold-feather",
+    "https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html",
+    "https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/",
+    "https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html",
+    "http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion/",
+    "http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/",
+    "http://ijzn3sicrcy7guixkzjkib4ukbiilwc3xhnmby4mcbccnsd7j2rekvqd.onion/",
+    "http://ji57fr53anp7wb44tbbnp72qcgbhqywy4jmbncawdcrejj5amuvh3zqd.onion/site/login"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

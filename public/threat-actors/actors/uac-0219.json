@@ -1,21 +1,27 @@
 {
   "slug": "uac-0219",
   "name": "UAC-0219",
-  "uuid": "0bcd32bc-a241-44aa-a3eb-492eecb004eb",
+  "uuid": null,
   "description": "UAC-0219 is a hacking group observed conducting cyber-espionage operations targeting Ukrainian critical sectors, primarily utilising WRECKSTEEL malware for file exfiltration in both VBScript and PowerShell variants. Their activities focus on gathering intelligence from military innovation hubs, armed forces, law enforcement, and regional government institutions. CERT-UA has linked multiple cyber-attacks against government agencies and critical infrastructure in Ukraine to UAC-0219, emphasizing their reliance on specialized malware for sensitive information theft. The group’s operations are characterized by stealthy access and data exfiltration tactics, consistent with state-sponsored APT behavior.",
   "aliases": [],
   "refs": [
     "https://cert.gov.ua/article/6282902",
     "https://socprime.com/blog/detect-uac-0219-attacks-against-ukrainian-state-bodies"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://cert.gov.ua/article/6282902",
-      "https://socprime.com/blog/detect-uac-0219-attacks-against-ukrainian-state-bodies"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 830
+  "order": 0
 }

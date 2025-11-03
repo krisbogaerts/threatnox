@@ -1,0 +1,28 @@
+{
+  "slug": "doppelpaymer",
+  "name": "doppelpaymer",
+  "uuid": null,
+  "description": "Doppelpaymer is a ransomware family that encrypts user data and later on it asks for a ransom in order to restore original files. It is recognizable by its trademark file extension added to encrypted files: .doppeled. It also creates a note file named: \".how2decrypt.txt\".\n",
+  "aliases": [],
+  "refs": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions",
+    "https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-009.pdf",
+    "http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

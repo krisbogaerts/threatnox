@@ -1,19 +1,26 @@
 {
   "slug": "silitnetwork",
   "name": "SilitNetwork",
-  "uuid": "a0b92be9-7b62-47df-a2e8-16211c864599",
+  "uuid": null,
   "description": "SilitNetwork is a hacking group known for targeting high-profile entities, such as airlines, for various motives. They utilize sophisticated tactics to breach their targets, potentially including social engineering and exploiting software vulnerabilities. The group's attack on RwandAir highlighted the vulnerability of the aviation industry and the need for robust cybersecurity measures.",
   "aliases": [],
   "refs": [
     "https://www.resecurity.com/blog/article/the-aviation-and-aerospace-sectors-face-skyrocketing-cyber-threats"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.resecurity.com/blog/article/the-aviation-and-aerospace-sectors-face-skyrocketing-cyber-threats"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 648
+  "order": 0
 }

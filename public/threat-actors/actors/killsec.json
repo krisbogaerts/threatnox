@@ -1,0 +1,32 @@
+{
+  "slug": "killsec",
+  "name": "KillSec",
+  "uuid": null,
+  "description": "KillSec is an actor group founded in 2021, which traditionally participated in hacktivist defacement campaigns and other compromises. The group's ideology appeared to align with the high-profile Anonymous hacktivist group. In June 2024, KillSec announced the release of their own ransomware-as-a-service program, which featured an original, encryption-focused malware written in C++.<sup>[[Cyber Express KillSec June 26 2024](/references/9afb764a-84fb-4fea-b925-d7d36a24ac14)]</sup> The group publicizes alleged victims of its attacks on its dark web \"leak\" site.<sup>[[GitHub ransomwatch](/references/62037959-58e4-475a-bb91-ff360d20c1d7)]</sup>\n\nAs of February 2025, few technical details were publicly available related to KillSec's ransomware or techniques observed during alleged KillSec intrusions. Researchers suggested that the group could be heavily recycling previously leaked data in its victim claims, which could account for the lack of analyzed malware samples or intrusion data.<sup>[[DataBreaches KillSec December 8 2024](/references/3009e3d3-def9-4838-9b54-8586858fb3e2)]</sup>",
+  "aliases": [],
+  "refs": [
+    "http://kill432ltnkqvaqntbalnsgojqqs2wz4lhnamrqjg66tq6fuvcztilyd.onion/",
+    "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/",
+    "http://ks5424y3wpr5zlug5c7i6svvxweinhbdcqcfnptkfcutrncfazzgz5id.onion/posts.php"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3065",
+      "RWLive"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3065"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

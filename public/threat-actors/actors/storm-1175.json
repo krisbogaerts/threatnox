@@ -1,0 +1,26 @@
+{
+  "slug": "storm-1175",
+  "name": "Storm-1175",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🌩️ Storm-1175 Tags Attribution Incidents Ransomware operators exploit ESXi vulnerability Last edited Aug 28, 2024 6:37 AM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

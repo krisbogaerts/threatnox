@@ -1,12 +1,16 @@
 {
   "slug": "apt30",
   "name": "APT30",
-  "uuid": "d3881afe-f781-4c53-9f68-33487a119a59",
-  "description": "APT30 is a threat group suspected to be associated with the Chinese government. While Naikon shares some characteristics with APT30, the two groups do not appear to be exact matches",
+  "uuid": null,
+  "description": "[APT30](https://attack.mitre.org/groups/G0013) is a threat group suspected to be associated with the Chinese government. While [Naikon](https://attack.mitre.org/groups/G0019) shares some characteristics with [APT30](https://attack.mitre.org/groups/G0013), the two groups do not appear to be exact matches.(Citation: FireEye APT30)(Citation: Baumgartner Golovkin Naikon 2015)",
   "aliases": [
+    "APT30",
     "G0013"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0013",
+    "https://securelist.com/the-naikon-apt/69953/",
+    "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2015/05/20081935/rpt-apt30.pdf",
     "https://attack.mitre.org/wiki/Group/G0013",
     "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
     "https://www.mandiant.com/resources/insights/apt-groups"
@@ -15,35 +19,23 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Government"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "United States",
-      "South Korea",
-      "Saudi Arabia",
-      "Thailand",
-      "Vietnam",
-      "Malaysia",
-      "India"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0013"
     ],
-    "cfr-target-category": [
-      "Government"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://attack.mitre.org/wiki/Group/G0013",
-      "https://www2.fireeye.com/rs/fireye/images/rpt-apt30.pdf",
-      "https://www.mandiant.com/resources/insights/apt-groups"
-    ],
-    "synonyms": [
-      "G0013"
-    ]
+    "external_ids": {
+      "mitre": "G0013"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 21
+  "order": 0
 }

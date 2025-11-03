@@ -1,7 +1,7 @@
 {
   "slug": "predatory-sparrow",
   "name": "Predatory Sparrow",
-  "uuid": "e665ac2f-87b4-4c2e-bef7-78bf0a8af87b",
+  "uuid": null,
   "description": "A self-proclaimed hacktivist group that carried out attacks against Iranian railway systems and against Iranian steel plants.",
   "aliases": [
     "Indra",
@@ -12,30 +12,24 @@
     "https://twitter.com/_cpresearch_/status/1541753913732366338",
     "https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/"
   ],
-  "countries": [],
-  "sectors": [
-    "Critical manufacturing",
-    "Transportation systems"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Iran"
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3112"
     ],
-    "cfr-target-category": [
-      "Critical manufacturing",
-      "Transportation systems"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Sabotage",
-    "refs": [
-      "https://www.bbc.com/news/technology-62072480",
-      "https://twitter.com/_cpresearch_/status/1541753913732366338",
-      "https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/"
-    ],
-    "synonyms": [
-      "Indra",
-      "Gonjeshke Darande"
-    ]
+    "external_ids": {
+      "mitre": "G3112"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 368
+  "order": 0
 }

@@ -1,0 +1,22 @@
+{
+  "slug": "people-s-cyber-army-of-russia",
+  "name": "People's Cyber Army of Russia",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

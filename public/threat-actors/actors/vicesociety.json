@@ -1,0 +1,33 @@
+{
+  "slug": "vicesociety",
+  "name": "vicesociety",
+  "uuid": null,
+  "description": "Vice Society ransomware appends the .v-society extension when encrypting Linux machines. Running a leak site on the darkweb, Possible relations with \"HelloKitty\"",
+  "aliases": [],
+  "refs": [
+    "https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector",
+    "https://www.sygnia.co/blog/the-vice-society-ransomware-investigation",
+    "http://4hzyuotli6maqa4u.onion/",
+    "http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion/",
+    "http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion/",
+    "http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion/partners.html",
+    "http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion/partners.html",
+    "http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion/partners.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

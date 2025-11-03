@@ -1,21 +1,27 @@
 {
   "slug": "greyenergy",
   "name": "GreyEnergy",
-  "uuid": "d52ca4c4-d214-11e8-8d29-c3e7cb78acce",
+  "uuid": null,
   "description": "ESET research reveals a successor to the infamous BlackEnergy APT group targeting critical infrastructure, quite possibly in preparation for damaging attacks",
   "aliases": [],
   "refs": [
     "https://www.eset.com/int/greyenergy-exposed/",
     "https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.eset.com/int/greyenergy-exposed/",
-      "https://www.welivesecurity.com/2018/10/17/greyenergy-updated-arsenal-dangerous-threat-actors/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 187
+  "order": 0
 }

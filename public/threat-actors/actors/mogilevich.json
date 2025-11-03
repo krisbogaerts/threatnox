@@ -1,21 +1,29 @@
 {
   "slug": "mogilevich",
   "name": "Mogilevich",
-  "uuid": "95634994-9604-4fe6-9462-f472c2d82271",
+  "uuid": null,
   "description": "Mogilevich is a ransomware group known for claiming to breach organizations like Epic Games and Ireland's Department of Foreign Affairs, offering stolen data for sale without providing proof of the attacks. They operate as an extortion group, targeting high-profile victims and demanding payment for the data they claim to have stolen. Despite their claims, security researchers have noted that Mogilevich's tactics and website design suggest they may not be a sophisticated threat actor.",
   "aliases": [],
   "refs": [
     "https://therecord.media/ireland-dfa-no-evidence-of-cybersecurity-breach",
-    "https://www.bleepingcomputer.com/news/security/epic-games-zero-evidence-we-were-hacked-by-mogilevich-gang/"
+    "https://www.bleepingcomputer.com/news/security/epic-games-zero-evidence-we-were-hacked-by-mogilevich-gang/",
+    "http://dkgn45pinr7nwvdaehemcrpgcjqf4fooit3c4gjw6dhzrp443ctvnoad.onion/leaks.html"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://therecord.media/ireland-dfa-no-evidence-of-cybersecurity-breach",
-      "https://www.bleepingcomputer.com/news/security/epic-games-zero-evidence-we-were-hacked-by-mogilevich-gang/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "RWLive"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 642
+  "order": 0
 }

@@ -1,0 +1,29 @@
+{
+  "slug": "uat4356",
+  "name": "UAT4356",
+  "uuid": null,
+  "description": "UAT4356 (aka Storm-1849) is an actor attributed to the ArcaneDoor campaign targeting Cisco Adaptive Security Appliance (ASA) network devices. The suspected espionage activity targeted unspecified government institutions around the world.<sup>[[Cisco Talos ArcaneDoor April 24 2024](/references/531c3f6f-2d2b-4774-b069-e2b7a13602c1)]</sup> Anonymous sources indicated that the ArcaneDoor campaign appeared aligned with China's state interests.<sup>[[Wired ArcaneDoor April 24 2024](/references/05a8afd3-0173-41ca-b23b-196ea0f3b1c1)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3036"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3036"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

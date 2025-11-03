@@ -1,0 +1,35 @@
+{
+  "slug": "earth-kasha",
+  "name": "Earth Kasha",
+  "uuid": null,
+  "description": "Earth Kasha is a China-linked threat actor active since 2019, primarily targeting organizations in Japan, Taiwan, and India. Known for using malware like LODEINFO and NOOPDOOR, the group exploits public-facing vulnerabilities, to infiltrate networks. Earth Kasha focuses on credential theft, data exfiltration, and targeting sectors such as government, technology, and academia, often demonstrating ties to the broader APT10 umbrella.",
+  "aliases": [],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/24/k/lodeinfo-campaign-of-earth-kasha.html"
+  ],
+  "country": null,
+  "countries": [
+    "Asia",
+    "East Asia"
+  ],
+  "sectors": [
+    "Government",
+    "Aerospace",
+    "Manufactoring",
+    "High-tech",
+    "Technological"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

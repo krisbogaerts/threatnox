@@ -1,19 +1,26 @@
 {
   "slug": "gamacopy",
   "name": "GamaCopy",
-  "uuid": "d424f90d-fc2b-428a-bbe6-41e390308fb3",
+  "uuid": null,
   "description": "GamaCopy is a threat actor first discovered in June 2023, known for launching cyberattacks against Russia’s defense and critical infrastructure sectors by mimicking the TTPs of Gamaredon. The organization has been active since at least August 2021 and primarily uses Russian-language bait documents related to military facilities. Analysis of attack samples shows considerable overlap in code structure and tactics, including the use of 7z-SFX documentation to install UltraVNC and connecting via port 443. GamaCopy employs open-source tools to obfuscate its activities while targeting sensitive information in the context of the Russia-Ukraine conflict.",
   "aliases": [],
   "refs": [
     "https://medium.com/@knownsec404team/love-and-hate-under-war-the-gamacopy-organization-which-imitates-the-russian-gamaredon-uses-560ba5e633fa?source=rss-f1efd6b74751------2"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://medium.com/@knownsec404team/love-and-hate-under-war-the-gamacopy-organization-which-imitates-the-russian-gamaredon-uses-560ba5e633fa?source=rss-f1efd6b74751------2"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 816
+  "order": 0
 }

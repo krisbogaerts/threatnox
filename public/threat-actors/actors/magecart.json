@@ -1,7 +1,7 @@
 {
   "slug": "magecart",
   "name": "MageCart",
-  "uuid": "0768fd50-c547-11e8-9aa5-776183769eab",
+  "uuid": null,
   "description": "Digital threat management company RiskIQ tracks the activity of MageCart group and reported their use of web-based card skimmers since 2016.",
   "aliases": [],
   "refs": [
@@ -11,17 +11,20 @@
     "https://www.bleepingcomputer.com/news/security/visiondirect-data-breach-caused-by-magecart-attack/",
     "https://www.bleepingcomputer.com/news/security/magecart-group-sabotages-rival-to-ruin-data-and-reputation/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.bleepingcomputer.com/news/security/british-airways-fell-victim-to-card-scraping-attack/",
-      "https://www.bleepingcomputer.com/news/security/feedify-hacked-with-magecart-information-stealing-script/",
-      "https://www.bleepingcomputer.com/news/security/magecart-group-compromises-plugin-used-in-thousands-of-stores-makes-rookie-mistake/",
-      "https://www.bleepingcomputer.com/news/security/visiondirect-data-breach-caused-by-magecart-attack/",
-      "https://www.bleepingcomputer.com/news/security/magecart-group-sabotages-rival-to-ruin-data-and-reputation/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 183
+  "order": 0
 }

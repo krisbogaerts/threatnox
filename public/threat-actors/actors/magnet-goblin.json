@@ -1,0 +1,26 @@
+{
+  "slug": "magnet-goblin",
+  "name": "Magnet Goblin",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 👺 Magnet Goblin Tags Attribution 💰Cybercrime Incidents Magnet Goblin campaign (2024) Last edited Apr 30, 2024 6:46 AM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://research.checkpoint.com/2024/magnet-goblin-targets-publicly-facing-servers-using-1-day-vulnerabilities/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

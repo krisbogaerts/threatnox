@@ -1,16 +1,18 @@
 {
   "slug": "rancor",
-  "name": "RANCOR",
-  "uuid": "79c7c7e0-79d5-11e8-9b9c-1ff96be20c0b",
-  "description": "The Rancor group’s attacks use two primary malware families which are naming DDKONG and PLAINTEE. DDKONG is used throughout the campaign and PLAINTEE appears to be new addition to these attackers’ toolkit.  Countries Unit 42 has identified as targeted by Rancor with these malware families include, but are not limited to Singapore and Cambodia.",
+  "name": "Rancor",
+  "uuid": null,
+  "description": "[Rancor](https://attack.mitre.org/groups/G0075) is a threat group that has led targeted campaigns against the South East Asia region. [Rancor](https://attack.mitre.org/groups/G0075) uses politically-motivated lures to entice victims to open malicious documents. (Citation: Rancor Unit42 June 2018)",
   "aliases": [
-    "Rancor group",
     "Rancor",
+    "Rancor group",
     "Rancor Group",
     "G0075",
     "Rancor Taurus"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0075",
+    "https://researchcenter.paloaltonetworks.com/2018/06/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/",
     "https://unit42.paloaltonetworks.com/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/",
     "https://www.cfr.org/interactive/cyber-operations/rancor",
     "https://attack.mitre.org/groups/G0075/",
@@ -20,37 +22,23 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Government",
-    "Civil society"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "Singapore",
-      "Cambodia"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0075"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Civil society"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://unit42.paloaltonetworks.com/unit42-rancor-targeted-attacks-south-east-asia-using-plaintee-ddkong-malware-families/",
-      "https://www.cfr.org/interactive/cyber-operations/rancor",
-      "https://attack.mitre.org/groups/G0075/",
-      "https://unit42.paloaltonetworks.com/atoms/rancortaurus/"
-    ],
-    "synonyms": [
-      "Rancor group",
-      "Rancor",
-      "Rancor Group",
-      "G0075",
-      "Rancor Taurus"
-    ]
+    "external_ids": {
+      "mitre": "G0075"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 166
+  "order": 0
 }

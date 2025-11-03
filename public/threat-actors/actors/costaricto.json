@@ -1,21 +1,33 @@
 {
   "slug": "costaricto",
   "name": "CostaRicto",
-  "uuid": "5587f082-349b-46ab-9e6f-303d9bfd1e1b",
-  "description": "CostaRicto is a cyber-espionage threat actor that operates as a mercenary group, offering its services to various clients globally. They use bespoke malware tools and sophisticated techniques like VPN proxy and SSH tunnelling. While their targets are scattered across different regions, there is a concentration in South Asia.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[CostaRicto](https://attack.mitre.org/groups/G0132) is a suspected hacker-for-hire cyber espionage campaign that has targeted multiple industries worldwide since at least 2019. [CostaRicto](https://attack.mitre.org/groups/G0132)'s targets, a large portion of which are financial institutions, are scattered across Europe, the Americas, Asia, Australia, and Africa, with a large concentration in South Asia.(Citation: BlackBerry CostaRicto November 2020)",
+  "aliases": [
+    "CostaRicto"
+  ],
   "refs": [
+    "https://attack.mitre.org/groups/G0132",
     "https://blogs.blackberry.com/en/2020/11/the-costaricto-campaign-cyber-espionage-outsourced",
     "https://www.cybersecurityintelligence.com/blog/outsourced-cyber-spying-5335.html"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://blogs.blackberry.com/en/2020/11/the-costaricto-campaign-cyber-espionage-outsourced",
-      "https://www.cybersecurityintelligence.com/blog/outsourced-cyber-spying-5335.html"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0132"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 532
+  "order": 0
 }

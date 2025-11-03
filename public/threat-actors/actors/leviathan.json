@@ -1,0 +1,52 @@
+{
+  "slug": "leviathan",
+  "name": "Leviathan",
+  "uuid": null,
+  "description": "[Leviathan](https://attack.mitre.org/groups/G0065) is a Chinese state-sponsored cyber espionage group that has been attributed to the Ministry of State Security's (MSS) Hainan State Security Department and an affiliated front company.(Citation: CISA AA21-200A APT40 July 2021) Active since at least 2009, [Leviathan](https://attack.mitre.org/groups/G0065) has targeted the following sectors: academia, aerospace/aviation, biomedical, defense industrial base, government, healthcare, manufacturing, maritime, and transportation across the US, Canada, Australia, Europe, the Middle East, and Southeast Asia.(Citation: CISA AA21-200A APT40 July 2021)(Citation: Proofpoint Leviathan Oct 2017)(Citation: FireEye Periscope March 2018)(Citation: CISA Leviathan 2024)",
+  "aliases": [
+    "Leviathan",
+    "MUDCARP",
+    "Kryptonite Panda",
+    "Gadolinium",
+    "BRONZE MOHAWK",
+    "TEMP.Jumper",
+    "APT40",
+    "TEMP.Periscope",
+    "Gingham Typhoon"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0065",
+    "https://www.accenture.com/us-en/blogs/cyber-defense/mudcarps-focus-on-submarine-technologies",
+    "https://www.crowdstrike.com/blog/two-birds-one-stone-panda/",
+    "https://www.proofpoint.com/us/threat-insight/post/leviathan-espionage-actor-spearphishes-maritime-and-defense-targets",
+    "https://www.microsoft.com/security/blog/2020/09/24/gadolinium-detecting-empires-cloud/",
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-190a",
+    "https://us-cert.cisa.gov/ncas/alerts/aa21-200a",
+    "https://www.fireeye.com/blog/threat-research/2018/03/suspected-chinese-espionage-group-targeting-maritime-and-engineering-industries.html",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
+    "https://www.fireeye.com/blog/threat-research/2019/03/apt40-examining-a-china-nexus-espionage-actor.html",
+    "https://www.secureworks.com/research/threat-profiles/bronze-mohawk"
+  ],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0065"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0065"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

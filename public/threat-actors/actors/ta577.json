@@ -1,12 +1,15 @@
 {
   "slug": "ta577",
   "name": "TA577",
-  "uuid": "e405b7d0-3eed-4f9d-9b68-728e9793974c",
-  "description": "TA577 is a prolific cybercrime threat actor tracked by Proofpoint since mid-2020. This actor conducts broad targeting across various industries and geographies, and Proofpoint has observed TA577 deliver payloads including Qbot, IcedID, SystemBC, SmokeLoader, Ursnif, and Cobalt Strike.",
+  "uuid": null,
+  "description": "[TA577](https://attack.mitre.org/groups/G1037) is an initial access broker (IAB) that has distributed [QakBot](https://attack.mitre.org/software/S0650) and [Pikabot](https://attack.mitre.org/software/S1145), and was among the first observed groups distributing [Latrodectus](https://attack.mitre.org/software/S1160) in 2023.(Citation: Latrodectus APR 2024)",
   "aliases": [
+    "TA577",
     "Hive0118"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G1037",
+    "https://www.proofpoint.com/us/blog/threat-insight/latrodectus-spider-bytes-ice",
     "https://www.proofpoint.com/us/blog/threat-insight/first-step-initial-access-leads-ransomware",
     "https://thehackernews.com/2021/06/ransomware-attackers-partnering-with.html",
     "https://www.itpro.com/security/ransomware/359919/ransomware-criminals-look-to-other-hackers-to-provide-them-with-network",
@@ -16,19 +19,23 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://www.proofpoint.com/us/blog/threat-insight/first-step-initial-access-leads-ransomware",
-      "https://thehackernews.com/2021/06/ransomware-attackers-partnering-with.html",
-      "https://www.itpro.com/security/ransomware/359919/ransomware-criminals-look-to-other-hackers-to-provide-them-with-network",
-      "https://exchange.xforce.ibmcloud.com/threat-group/guid:1dda890fa2662ed26b451c703e922315"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1037"
     ],
-    "synonyms": [
-      "Hive0118"
-    ]
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1037"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 407
+  "order": 0
 }

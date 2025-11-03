@@ -1,0 +1,27 @@
+{
+  "slug": "unc961",
+  "name": "UNC961",
+  "uuid": null,
+  "description": "UNC961 is a financially motivated group active since at least 2018. It traditionally targeted retail and \"business services\" organizations based in North America, until expanding its targeting in 2020 to also include victims in a range of additional sectors in Northern Europe and Western Asia. In all known intrusions, UNC961 gained initial access by exploiting web-facing applications.<sup>[[Mandiant Log4Shell March 28 2022](/references/62d4d685-09c4-47b6-865c-4a6096e551cd)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3026"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3026"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

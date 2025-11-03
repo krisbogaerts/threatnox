@@ -1,21 +1,29 @@
 {
   "slug": "triplestrength",
   "name": "TRIPLESTRENGTH",
-  "uuid": "4d1692ca-8022-4258-9f35-149e3d0564bb",
+  "uuid": null,
   "description": "TRIPLESTRENGTH is a financially motivated threat actor targeting cloud environments and on-premises infrastructures for cryptojacking, ransomware, and extortion. They exploit stolen credentials, cookies, and information stealer logs to gain unauthorized access to platforms like Google Cloud, AWS, and Microsoft Azure, deploying the unMiner application for cryptocurrency mining. Their ransomware operations utilize lockers such as Phobos, LokiLocker, and RCRU64, involving lateral movement and mass encryption. TRIPLESTRENGTH also engages in account hijacking and collaborates with partners for ransomware and blackmail operations, advertising their services in hacking-focused Telegram channels.",
   "aliases": [],
   "refs": [
     "https://services.google.com/fh/files/misc/threat_horizons_report_h1_2025.pdf",
-    "https://www.cyfirma.com/research/tracking-ransomware-january-2025/"
+    "https://www.cyfirma.com/research/tracking-ransomware-january-2025/",
+    "https://thehackernews.com/2025/01/triplestrength-targets-cloud-platforms.html"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://services.google.com/fh/files/misc/threat_horizons_report_h1_2025.pdf",
-      "https://www.cyfirma.com/research/tracking-ransomware-january-2025/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 814
+  "order": 0
 }

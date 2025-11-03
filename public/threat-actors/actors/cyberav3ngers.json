@@ -1,0 +1,29 @@
+{
+  "slug": "cyberav3ngers",
+  "name": "CyberAv3ngers",
+  "uuid": null,
+  "description": "CyberAv3ngers is a cyber actor group that has claimed responsibility for numerous disruption-focused attacks against critical infrastructure organizations, including an oil refinery and electric utility in Israel and water/wastewater utilities in the United States. According to a joint advisory released by U.S. & Israeli cybersecurity authorities in December 2023, CyberAv3ngers (aka Cyber Av3ngers or Cyber Avengers) is a “cyber persona” of advanced persistent threat actors affiliated with the Iranian Islamic Revolutionary Guard Corps (IRGC). The advisory detailed how suspected CyberAv3ngers actors compromised programmable logic controller (PLC) devices that were exposed to the internet and used the vendor's default passwords and ports, leaving defacement images and possibly rendering the devices inoperable. The defacement messages suggested that the group or affiliates might carry out attacks against other technological equipment produced in or associated with Israel.<sup>[[U.S. CISA IRGC-Affiliated PLC Activity December 2023](/references/51a18523-5276-4a67-8644-2bc6997d043c)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "IR",
+  "countries": [
+    "IR"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3028"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3028"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

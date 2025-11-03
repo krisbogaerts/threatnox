@@ -1,7 +1,7 @@
 {
   "slug": "gray-sandstorm",
   "name": "Gray Sandstorm",
-  "uuid": "6ea73b7f-b2e5-4e6d-a1ff-705f91175613",
+  "uuid": null,
   "description": "Gray Sandstorm is an Iran-linked threat actor that has been active since at least 2012. They have targeted defense technology companies, maritime transportation companies, and Persian Gulf ports of entry. Their primary method of attack is password spraying, and they have been observed using tools like o365spray. They have a specific focus on US and Israeli targets and are likely operating in support of Iranian interests.",
   "aliases": [
     "DEV-0343"
@@ -14,17 +14,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IR",
-    "refs": [
-      "https://www.microsoft.com/en-us/security/blog/2021/11/16/evolving-trends-in-iranian-threat-actor-activity-mstic-presentation-at-cyberwarcon-2021/",
-      "https://www.microsoft.com/en-us/security/blog/2021/10/11/iran-linked-dev-0343-targeting-defense-gis-and-maritime-sectors/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "DEV-0343"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 568
+  "order": 0
 }

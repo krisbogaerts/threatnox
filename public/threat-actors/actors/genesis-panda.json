@@ -1,0 +1,31 @@
+{
+  "slug": "genesis-panda",
+  "name": "Genesis Panda",
+  "uuid": null,
+  "description": "Since at least March 2024, the threat actor known as GENESIS PANDA has been actively leveraging cloud service provider (CSP) environments for initial access, lateral movement, persistence, and command-and-control operations. Operating across sectors such as finance, telecom, tech, and media in at least 11 countries, GENESIS PANDA is assessed to act as an initial access broker. Their activity is marked by strategic exploitation of web-facing infrastructure, use of cloud-native tools, and the establishment of layered persistence mechanisms in cloud environments.",
+  "aliases": [],
+  "refs": [
+    "http://go.crowdstrike.com/rs/281-OBQ-266/images/Threat-Hunt-Report-2025.pdf"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": [
+    "Telecommunication",
+    "Finance",
+    "High-tech",
+    "Technological"
+  ],
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,21 +1,27 @@
 {
   "slug": "boson-spider",
   "name": "BOSON SPIDER",
-  "uuid": "9c11a822-2239-42ca-a439-ee57edb44ebf",
+  "uuid": null,
   "description": "BOSON SPIDER is a cyber criminal group, which was first identified in 2015, recently and inexplicably went dark in the spring of 2016, appears to be a tightly knit group operating out of Eastern Europe. They have used a variety of distribution mechanisms such as the infamous (and now defunct) angler exploit kit, and obfuscated JavaScript to reduce the detection by antivirus solutions.",
   "aliases": [],
   "refs": [
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report_BosonSpider.pdf",
     "https://www.crowdstrike.com/blog/ecrime-ecosystem/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report_BosonSpider.pdf",
-      "https://www.crowdstrike.com/blog/ecrime-ecosystem/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 316
+  "order": 0
 }

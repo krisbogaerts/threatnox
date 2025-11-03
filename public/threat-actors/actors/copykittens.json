@@ -1,16 +1,20 @@
 {
   "slug": "copykittens",
   "name": "CopyKittens",
-  "uuid": "8cca9a1d-66e4-4bc4-ad49-95f759f4c1ae",
-  "description": "",
+  "uuid": null,
+  "description": "[CopyKittens](https://attack.mitre.org/groups/G0052) is an Iranian cyber espionage group that has been operating since at least 2013. It has targeted countries including Israel, Saudi Arabia, Turkey, the U.S., Jordan, and Germany. The group is responsible for the campaign known as Operation Wilted Tulip.(Citation: ClearSky CopyKittens March 2017)(Citation: ClearSky Wilted Tulip July 2017)(Citation: CopyKittens Nov 2015)",
   "aliases": [
+    "CopyKittens",
     "Slayer Kitten",
     "G0052"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0052",
+    "http://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf",
+    "http://www.clearskysec.com/copykitten-jpost/",
+    "https://cdn2.hubspot.net/hubfs/1903456/Whitepapers/CopyKittens.pdf",
     "https://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf",
     "https://www.domaintools.com/resources/blog/case-study-hunting-campaign-indicators-on-privacy-protected-attack-infrastr",
-    "http://www.clearskysec.com/copykitten-jpost/",
     "http://www.clearskysec.com/tulip/",
     "https://www.cfr.org/interactive/cyber-operations/copykittens",
     "https://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf",
@@ -20,42 +24,23 @@
   "countries": [
     "IR"
   ],
-  "sectors": [
-    "Government",
-    "Private sector",
-    "Civil society"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "Iran (Islamic Republic of)",
-    "cfr-suspected-victims": [
-      "Israel",
-      "Jordan",
-      "Saudi Arabia",
-      "Germany",
-      "United States"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0052"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Private sector",
-      "Civil society"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "IR",
-    "refs": [
-      "https://s3-eu-west-1.amazonaws.com/minervaresearchpublic/CopyKittens/CopyKittens.pdf",
-      "https://www.domaintools.com/resources/blog/case-study-hunting-campaign-indicators-on-privacy-protected-attack-infrastr",
-      "http://www.clearskysec.com/copykitten-jpost/",
-      "http://www.clearskysec.com/tulip/",
-      "https://www.cfr.org/interactive/cyber-operations/copykittens",
-      "https://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf",
-      "https://attack.mitre.org/groups/G0052/"
-    ],
-    "synonyms": [
-      "Slayer Kitten",
-      "G0052"
-    ]
+    "external_ids": {
+      "mitre": "G0052"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 130
+  "order": 0
 }

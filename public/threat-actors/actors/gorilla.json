@@ -1,19 +1,26 @@
 {
   "slug": "gorilla",
   "name": "Gorilla",
-  "uuid": "192be820-af1a-4967-b38c-73326fa9ca9f",
+  "uuid": null,
   "description": "Gorilla is a threat-actor operating a DoS-as-a-service service controlled on Telegram.",
   "aliases": [],
   "refs": [
     "https://www.ncsc.admin.ch/ncsc/en/home/aktuell/im-fokus/2024/gorilla_bericht.html"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.ncsc.admin.ch/ncsc/en/home/aktuell/im-fokus/2024/gorilla_bericht.html"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 781
+  "order": 0
 }

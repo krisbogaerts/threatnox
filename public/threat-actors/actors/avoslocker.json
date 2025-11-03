@@ -1,0 +1,29 @@
+{
+  "slug": "avoslocker",
+  "name": "avoslocker",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://blog.talosintelligence.com/avoslocker-new-arsenal/",
+    "https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html",
+    "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-avoslocker",
+    "https://www.ic3.gov/Media/News/2022/220318.pdf",
+    "http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/",
+    "http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

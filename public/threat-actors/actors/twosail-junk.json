@@ -1,7 +1,7 @@
 {
   "slug": "twosail-junk",
   "name": "TwoSail Junk",
-  "uuid": "533af03d-e160-4312-a92f-0500055f2b56",
+  "uuid": null,
   "description": "TwoSail Junk directs visitors to its exploit site by posting links within the threads of forum discussions, or creating new topic threads of their own. To date, dozens of visits were recorded from within Hong Kong, with a couple from Macau. The technical details around the functionality of the iOS implant, called LightSpy, and related infrastructure, reveal a low-to-mid capable actor. However, the iOS implant is a modular and exhaustively functional iOS surveillance framework.",
   "aliases": [
     "Operation Poisoned News"
@@ -11,18 +11,20 @@
     "https://securelist.com/apt-annual-review-what-the-worlds-threat-actors-got-up-to-in-2020/99574/",
     "https://www.redpacketsecurity.com/operation-poisoned-news-hong-kong-users-targeted-with-mobile-malware-via-local-news-links/?utm_source=rss&utm_medium=rss&utm_campaign=operation-poisoned-news-hong-kong-users-targeted-with-mobile-malware-via-local-news-links"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://securelist.com/ios-exploit-chain-deploys-lightspy-malware/96407/",
-      "https://securelist.com/apt-annual-review-what-the-worlds-threat-actors-got-up-to-in-2020/99574/",
-      "https://www.redpacketsecurity.com/operation-poisoned-news-hong-kong-users-targeted-with-mobile-malware-via-local-news-links/?utm_source=rss&utm_medium=rss&utm_campaign=operation-poisoned-news-hong-kong-users-targeted-with-mobile-malware-via-local-news-links"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Operation Poisoned News"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 486
+  "order": 0
 }

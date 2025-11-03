@@ -1,0 +1,29 @@
+{
+  "slug": "h0lygh0st-ransomware-group",
+  "name": "H0lyGh0st Ransomware Group",
+  "uuid": null,
+  "description": "H0lyGh0st is a North Korea-based ransomware-focused threat actor group.<sup>[[H0lyGh0st - North Korean Threat Group Strikes Back With New Ransomware](/references/3f66ef62-ac0d-4ece-9a4b-917ae70f1617)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "RU",
+  "countries": [
+    "RU"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3006"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3006"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "shark-spider",
   "name": "SHARK SPIDER",
-  "uuid": "7dd7a8df-9012-4d14-977f-b3f9f71266b4",
+  "uuid": null,
   "description": "This group's activity was first observed in November 2013. It leverages a banking Trojan more commonly known as Shylock which aims to compromise online banking credentials and credentials related to Bitcoin wallets.",
   "aliases": [],
   "refs": [],
@@ -9,14 +9,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "RU",
-    "targeted-sector": [
-      "Bank"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 63
+  "order": 0
 }

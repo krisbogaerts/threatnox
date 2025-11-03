@@ -1,7 +1,7 @@
 {
   "slug": "singularitymd",
   "name": "SingularityMD",
-  "uuid": "d52a06dd-3ee9-47cf-ad31-b55ca4cbc5cf",
+  "uuid": null,
   "description": "SingularityMD is a threat actor group that has targeted educational institutions in the US. They gained unauthorized access to their networks by exploiting weak security practices, such as using students' dates of birth as passwords. SingularityMD demanded a ransom in cryptocurrency and threatened to leak stolen information if not paid. They have demonstrated a willingness to follow through on their threats and have already leaked some data.",
   "aliases": [],
   "refs": [
@@ -9,15 +9,20 @@
     "https://research.checkpoint.com/2023/30th-october-threat-intelligence-report/",
     "https://www.databreaches.net/hackers-escalate-leak-200k-ccsd-students-data-claim-to-still-have-access-to-ccsd-email-system/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.databreaches.net/jeffco-public-schools-hit-by-the-same-threat-actors-that-hit-clark-county-school-district-and-via-the-same-way/",
-      "https://research.checkpoint.com/2023/30th-october-threat-intelligence-report/",
-      "https://www.databreaches.net/hackers-escalate-leak-200k-ccsd-students-data-claim-to-still-have-access-to-ccsd-email-system/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 490
+  "order": 0
 }

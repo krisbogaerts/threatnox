@@ -1,7 +1,7 @@
 {
   "slug": "unnamed-actor",
   "name": "Unnamed Actor",
-  "uuid": "bea5e256-bcc0-11e8-a478-bbf7e7585a1e",
+  "uuid": null,
   "description": "This threat actor compromises civil society groups the Chinese Communist Party views as hostile to its interests, such as Tibetan, Uyghur, Hong Kong, and Taiwanese activist. The threat actor also targeted the Myanmar electoral commission. ",
   "aliases": [],
   "refs": [
@@ -11,29 +11,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Civil society",
-    "Government"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "China",
-      "Myanmar",
-      "Hong Kong",
-      "Taiwan"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Civil society",
-      "Government"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://www.cfr.org/interactive/cyber-operations/unnamed-actor"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 182
+  "order": 0
 }

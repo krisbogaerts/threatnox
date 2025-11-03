@@ -1,0 +1,42 @@
+{
+  "slug": "hexane",
+  "name": "HEXANE",
+  "uuid": null,
+  "description": "[HEXANE](https://attack.mitre.org/groups/G1001) is a cyber espionage threat group that has targeted oil & gas, telecommunications, aviation, and internet service provider organizations since at least 2017. Targeted companies have been located in the Middle East and Africa, including Israel, Saudi Arabia, Kuwait, Morocco, and Tunisia. [HEXANE](https://attack.mitre.org/groups/G1001)'s TTPs appear similar to [APT33](https://attack.mitre.org/groups/G0064) and [OilRig](https://attack.mitre.org/groups/G0049) but due to differences in victims and tools it is tracked as a separate entity.(Citation: Dragos Hexane)(Citation: Kaspersky Lyceum October 2021)(Citation: ClearSky Siamesekitten August 2021)(Citation: Accenture Lyceum Targets November 2021)",
+  "aliases": [
+    "HEXANE",
+    "Lyceum",
+    "Siamesekitten",
+    "Spirlin"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G1001",
+    "https://www.accenture.com/us-en/blogs/cyber-defense/iran-based-lyceum-campaigns",
+    "https://www.clearskysec.com/siamesekitten/",
+    "https://dragos.com/resource/hexane/",
+    "https://vblocalhost.com/uploads/VB2021-Kayal-etal.pdf",
+    "https://www.secureworks.com/blog/lyceum-takes-center-stage-in-middle-east-campaign"
+  ],
+  "country": "IR",
+  "countries": [
+    "IR"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G1001"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1001"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

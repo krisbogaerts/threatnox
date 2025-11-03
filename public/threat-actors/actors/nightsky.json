@@ -1,0 +1,24 @@
+{
+  "slug": "nightsky",
+  "name": "nightsky",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

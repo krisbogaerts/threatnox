@@ -1,13 +1,16 @@
 {
   "slug": "stealth-falcon",
   "name": "Stealth Falcon",
-  "uuid": "dab75e38-6969-4e78-9304-dc269c3cbcf0",
-  "description": "This threat actor targets civil society groups and Emirati journalists, activists, and dissidents. ",
+  "uuid": null,
+  "description": "[Stealth Falcon](https://attack.mitre.org/groups/G0038) is a threat group that has conducted targeted spyware attacks against Emirati journalists, activists, and dissidents since at least 2012. Circumstantial evidence suggests there could be a link between this group and the United Arab Emirates (UAE) government, but that has not been confirmed. (Citation: Citizen Lab Stealth Falcon May 2016)",
   "aliases": [
+    "Stealth Falcon",
     "FruityArmor",
     "G0038"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0038",
+    "https://citizenlab.org/2016/05/stealth-falcon/",
     "https://citizenlab.ca/2016/05/stealth-falcon/",
     "https://www.cfr.org/interactive/cyber-operations/stealth-falcon",
     "https://securelist.com/cve-2019-0797-zero-day-vulnerability/89885/",
@@ -17,38 +20,23 @@
   "countries": [
     "AE"
   ],
-  "sectors": [
-    "Civil society"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "United Arab Emirates",
-    "cfr-suspected-victims": [
-      "United Arab Emirates",
-      "United Kingdom"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0038"
     ],
-    "cfr-target-category": [
-      "Civil society"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "AE",
-    "refs": [
-      "https://citizenlab.ca/2016/05/stealth-falcon/",
-      "https://www.cfr.org/interactive/cyber-operations/stealth-falcon",
-      "https://securelist.com/cve-2019-0797-zero-day-vulnerability/89885/",
-      "https://attack.mitre.org/groups/G0038/"
-    ],
-    "synonyms": [
-      "FruityArmor",
-      "G0038"
-    ],
-    "targeted-sector": [
-      "Activists",
-      "Dissidents",
-      "Journalist",
-      "Civil society"
-    ]
+    "external_ids": {
+      "mitre": "G0038"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 73
+  "order": 0
 }

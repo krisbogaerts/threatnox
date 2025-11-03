@@ -1,7 +1,7 @@
 {
   "slug": "storm-1099",
   "name": "Storm-1099",
-  "uuid": "b05a2a56-08dc-4827-9aef-aaade91016a4",
+  "uuid": null,
   "description": "Storm-1099 is a sophisticated Russia-affiliated influence actor that has been conducting pro-Russia influence operations targeting international supporters of Ukraine since Spring 2022. They are known for their website forgery operation called \"Doppelganger\" and have been actively spreading false information. They have been involved in pushing the claim that Hamas acquired Ukrainian weapons for an attack on Israel. Storm-1099 has also been implicated in amplifying images of graffiti in Paris, suggesting possible Russian involvement and aligning with Russia's Active Measures playbook.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://blogs.microsoft.com/on-the-issues/2023/12/07/russia-ukraine-digital-threat-celebrity-cameo-mtac/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 601
+  "order": 0
 }

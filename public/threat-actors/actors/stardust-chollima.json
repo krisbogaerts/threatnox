@@ -1,7 +1,7 @@
 {
   "slug": "stardust-chollima",
   "name": "STARDUST CHOLLIMA",
-  "uuid": "d8e1762a-0063-48c2-9ea1-8d176d14b70f",
+  "uuid": null,
   "description": "Open-source reporting has claimed that the Hermes ransomware was developed by the North Korean group STARDUST CHOLLIMA (activities of which have been public reported as part of the “Lazarus Group”), because Hermes was executed on a host during the SWIFT compromise of FEIB in October 2017. ",
   "aliases": [
     "Sapphire Sleet"
@@ -9,16 +9,20 @@
   "refs": [
     "https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.crowdstrike.com/blog/big-game-hunting-with-ryuk-another-lucrative-targeted-ransomware/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Sapphire Sleet"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 202
+  "order": 0
 }

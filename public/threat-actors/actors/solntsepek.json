@@ -1,7 +1,7 @@
 {
   "slug": "solntsepek",
   "name": "Solntsepek",
-  "uuid": "0b792fbe-87c2-42c5-8d0d-97c7d47078b5",
+  "uuid": null,
   "description": "Solntsepek is a threat actor group with ties to the Russian military unit GRU. They have claimed responsibility for a cyberattack on Kyivstar, a Ukrainian mobile operator, and have been linked to previous attacks on Ukrainian infrastructure. Solntsepek has been associated with the Sandworm hacking group, known for their destructive cyberattacks, including the NotPetya worm. They have also engaged in hostile activities, such as revealing personal details of Ukrainian soldiers.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://kyivindependent.com/sbu-russian-hacker-group-reponsible-for-kyiv-star-cyberattack/",
-      "https://dev.ua/ru/news/atakovali-suspilne-provaiderov-i-minrazvitiya-obschin-kto-stoit-za-rossiiskoi-gruppirovkoi-solntsepek-kotoraya-aktivizirovala-napadeniya-na-ukrainskie-struktury"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 558
+  "order": 0
 }

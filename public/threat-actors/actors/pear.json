@@ -1,0 +1,29 @@
+{
+  "slug": "pear",
+  "name": "pear",
+  "uuid": null,
+  "description": "Pure Extraction And Ransom (PEAR) Team is the community of highly responsible and strictly disciplined members. We are a private team and have nothing common with any other threat actors. We've been monitoring this field for a long-long time. So, we understand all the processes and know well how it all works.",
+  "aliases": [
+    "Pure Extraction And Ransom"
+  ],
+  "refs": [
+    "http://peargxn3oki34c4savcbcfqofjjwjnnyrlrbszfv6ujlx36mhrh57did.onion/",
+    "http://pearsmob5sn44ismokiusuld34pnfwi6ctgin3qbvonpoob4lh3rmtqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

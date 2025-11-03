@@ -1,7 +1,7 @@
 {
   "slug": "teleboyi",
   "name": "Teleboyi",
-  "uuid": "60b13884-76cf-4152-b78f-85ba2c4faf67",
+  "uuid": null,
   "description": "Teleboyi is a threat actor reportedly based in China, associated with the PlugX RAT. TeamT5 identified a custom PlugX loader used by Teleboyi that employs a similar string decryption algorithm as seen in the McUtil.dll loader from Operation Harvest. While there are weak links to the dsqurey[.]com domain, the connection remains uncertain due to the domain's registration history.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.trendmicro.com/en_us/research/25/b/updated-shadowpad-malware-leads-to-ransomware-deployment.html"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 813
+  "order": 0
 }

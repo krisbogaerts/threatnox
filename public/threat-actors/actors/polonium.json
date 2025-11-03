@@ -1,15 +1,18 @@
 {
   "slug": "polonium",
   "name": "POLONIUM",
-  "uuid": "3c5129ea-8f18-4bcf-a33b-b5aab0720494",
-  "description": "Microsoft successfully detected and disabled attack activity abusing OneDrive by a previously undocumented Lebanon-based activity group Microsoft Threat Intelligence Center (MSTIC) tracks as POLONIUM.",
+  "uuid": null,
+  "description": "[POLONIUM](https://attack.mitre.org/groups/G1005) is a Lebanon-based group that has primarily targeted Israeli organizations, including critical manufacturing, information technology, and defense industry companies, since at least February 2022. Security researchers assess [POLONIUM](https://attack.mitre.org/groups/G1005) has coordinated their operations with multiple actors affiliated with Iran’s Ministry of Intelligence and Security (MOIS), based on victim overlap as well as common techniques and tooling.(Citation: Microsoft POLONIUM June 2022)",
   "aliases": [
+    "POLONIUM",
     "Plaid Rain",
     "UNC4453",
     "GREATRIFT",
     "INCENDIARY JACKAL"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G1005",
+    "https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/microsoft-threat-actor-naming?view=o365-worldwide",
     "https://www.microsoft.com/security/blog/2022/06/02/exposing-polonium-activity-and-infrastructure-targeting-israeli-organizations/",
     "https://www.deepinstinct.com/blog/polonium-apt-group-uncovering-new-elements",
     "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
@@ -18,56 +21,23 @@
   "countries": [
     "LB"
   ],
-  "sectors": [
-    "Critical manufacturing",
-    "Defense industrial base",
-    "Financial services",
-    "Food and agriculture",
-    "Government agencies and services",
-    "Healthcare",
-    "Pharmaceuticals",
-    "Information technology",
-    "Transportation systems",
-    "NGOs",
-    "Civil Society",
-    "Military",
-    "Defense"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "75",
-    "cfr-suspected-state-sponsor": "Lebanon",
-    "cfr-suspected-victims": [
-      "Israel"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1005"
     ],
-    "cfr-target-category": [
-      "Critical manufacturing",
-      "Defense industrial base",
-      "Financial services",
-      "Food and agriculture",
-      "Government agencies and services",
-      "Healthcare",
-      "Pharmaceuticals",
-      "Information technology",
-      "Transportation systems",
-      "NGOs",
-      "Civil Society",
-      "Military",
-      "Defense"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "LB",
-    "refs": [
-      "https://www.microsoft.com/security/blog/2022/06/02/exposing-polonium-activity-and-infrastructure-targeting-israeli-organizations/",
-      "https://www.deepinstinct.com/blog/polonium-apt-group-uncovering-new-elements",
-      "https://services.google.com/fh/files/misc/tool-of-first-resort-israel-hamas-war-cyber.pdf"
-    ],
-    "synonyms": [
-      "Plaid Rain",
-      "UNC4453",
-      "GREATRIFT",
-      "INCENDIARY JACKAL"
-    ]
+    "external_ids": {
+      "mitre": "G1005"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 367
+  "order": 0
 }

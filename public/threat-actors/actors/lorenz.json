@@ -1,0 +1,26 @@
+{
+  "slug": "lorenz",
+  "name": "lorenz",
+  "uuid": null,
+  "description": "Tesorion describes Lorenz as a ransomware with design and implementation flaws, leading to impossible decryption with tools provided by the attackers. A free decryptor for 2021 versions was made available via the NoMoreRansom initiative. A new version of the malware was discovered in March 2022, for which again was provided a free decryptor, while the ransomware operators are not able to provide tools to decrypt affected files.\n",
+  "aliases": [],
+  "refs": [
+    "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

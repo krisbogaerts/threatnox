@@ -1,0 +1,24 @@
+{
+  "slug": "securotrop",
+  "name": "securotrop",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://securo45z554mw7rgrt7wcgv5eenj2xmxyrsdj3fcjsvindu63s4bsid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

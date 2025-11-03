@@ -1,7 +1,7 @@
 {
   "slug": "kasablanka",
   "name": "Kasablanka",
-  "uuid": "6db3ad41-6b47-43c8-b94b-98853749ee02",
+  "uuid": null,
   "description": "The Kasablanka group is a cyber-criminal organization that has\nspecifically targeted Russia between September and December 2022,\nusing various payloads delivered through phishing emails containing\nsocially engineered lnk files, zip packages, and executables attached to\nvirtual disk image files.",
   "aliases": [],
   "refs": [
@@ -13,15 +13,18 @@
   "countries": [
     "MA"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "MA",
-    "refs": [
-      "https://blog.talosintelligence.com/yorotrooper-espionage-campaign-cis-turkey-europe/",
-      "https://www.welivesecurity.com/2021/09/07/bladehawk-android-espionage-kurdish/",
-      "https://blog.talosintelligence.com/get-a-loda-this/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 448
+  "order": 0
 }

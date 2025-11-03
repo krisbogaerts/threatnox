@@ -1,7 +1,7 @@
 {
   "slug": "uta0352",
   "name": "UTA0352",
-  "uuid": "63305373-15a8-4f84-ab09-27ffeaa99ae2",
+  "uuid": null,
   "description": "UTA0352 is a Russian threat actor attributed to phishing campaigns that exploit Microsoft OAuth 2.0 authentication workflows, often impersonating government officials to lure targets into providing sensitive information. The actor has been observed using malicious URLs disguised as legitimate services, such as a Romanian government authentication system. UTA0352 has also targeted Microsoft Teams and employed social engineering tactics via messaging platforms like Signal and WhatsApp. Volexity assesses with medium confidence that UTA0352 is involved in operations themed around Ukraine, targeting individuals and organizations historically associated with Russian threat activities.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://www.volexity.com/blog/2025/04/22/phishing-for-codes-russian-threat-actors-target-microsoft-365-oauth-workflows/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 854
+  "order": 0
 }

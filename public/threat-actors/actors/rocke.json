@@ -1,30 +1,38 @@
 {
   "slug": "rocke",
   "name": "Rocke",
-  "uuid": "53583c40-935e-11e9-b4fc-d7e217a306d2",
-  "description": "This threat actor initially came to our attention in April 2018, leveraging both Western and Chinese Git repositories to deliver malware to honeypot systems vulnerable to an Apache Struts vulnerability.\nIn late July, we became aware that the same actor was engaged in another similar campaign. Through our investigation into this new campaign, we were able to uncover more details about the actor.",
+  "uuid": null,
+  "description": "[Rocke](https://attack.mitre.org/groups/G0106) is an alleged Chinese-speaking adversary whose primary objective appeared to be cryptojacking, or stealing victim system resources for the purposes of mining cryptocurrency. The name [Rocke](https://attack.mitre.org/groups/G0106) comes from the email address \"rocke@live.cn\" used to create the wallet which held collected cryptocurrency. Researchers have detected overlaps between [Rocke](https://attack.mitre.org/groups/G0106) and the Iron Cybercrime Group, though this attribution has not been confirmed.(Citation: Talos Rocke August 2018)",
   "aliases": [
+    "Rocke",
     "Aged Libra"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0106",
     "https://blog.talosintelligence.com/2018/08/rocke-champion-of-monero-miners.html",
     "https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/",
     "https://www.intezer.com/blog-technical-analysis-cryptocurrency-mining-war-on-the-cloud/",
     "https://unit42.paloaltonetworks.com/atoms/agedlibra/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://blog.talosintelligence.com/2018/08/rocke-champion-of-monero-miners.html",
-      "https://unit42.paloaltonetworks.com/malware-used-by-rocke-group-evolves-to-evade-detection-by-cloud-security-products/",
-      "https://www.intezer.com/blog-technical-analysis-cryptocurrency-mining-war-on-the-cloud/",
-      "https://unit42.paloaltonetworks.com/atoms/agedlibra/"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0106"
     ],
-    "synonyms": [
-      "Aged Libra"
-    ]
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0106"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 252
+  "order": 0
 }

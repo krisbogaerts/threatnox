@@ -1,0 +1,27 @@
+{
+  "slug": "gxc-team",
+  "name": "GXC Team",
+  "uuid": null,
+  "description": "According to Resecurity researchers, GXC Team is a cybercriminal actor group that specializes in the development of tools used for financial fraud and theft. The group's leader operates and advertises these tools for sale on dark web forums under the alias \"googleXcoder\".<sup>[[Resecurity GXC Team January 3 2024](/references/6d55aa2c-3f52-4bff-8003-f78b386a4952)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3061"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3061"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

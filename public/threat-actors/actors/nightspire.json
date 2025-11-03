@@ -1,0 +1,39 @@
+{
+  "slug": "nightspire",
+  "name": "NightSpire",
+  "uuid": null,
+  "description": "NightSpire is a new extortion group active in the ransomware ecosystem since early March 2025. It is associated with the Rbfs ransomware group and is known for targeting various sectors opportunistically, primarily seeking to exfiltrate sensitive information and monetize through extortion or by selling the victim’s data.<sup>[[S-RM March 25 2025](/references/ffa47884-4eef-445e-99e3-02f64cc2f7fc)]</sup>",
+  "aliases": [],
+  "refs": [
+    "https://www.s-rminform.com/latest-thinking/ransomware-in-focus-meet-nightspire?utm_campaign=10511277-Meet_nightspire_Ransomware_in_Focus",
+    "http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion/",
+    "http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion/data/",
+    "http://nspireyzmvapgiwgtuoznlafqvlyz7ey6himtgn5bdvdcowfyto3yryd.onion/database",
+    "http://a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion/database",
+    "http://a2lyiiaq4n74tlgz4fk3ft4akolapfrzk772dk24iq32cznjsmzpanqd.onion/",
+    "http://nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion/",
+    "http://nspirebcv4sy3yydtaercuut34hwc4fsxqqv4b4ye4xmo6qp3vxhulqd.onion/database",
+    "http://nspiremkiq44zcxjbgvab4mdedyh2pzj5kzbmvftcugq3mczx3dqogid.onion/",
+    "http://nspiremkiq44zcxjbgvab4mdedyh2pzj5kzbmvftcugq3mczx3dqogid.onion/database"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3100",
+      "RWLive"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3100"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nasirsecurity",
+  "name": "nasirsecurity",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://yzcpwxuhbkyjnyn4qsf4o5dkvu6m2fyo7dwizmnlutanlmzlos7pa6qd.onion/",
+    "http://nasir.cc/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

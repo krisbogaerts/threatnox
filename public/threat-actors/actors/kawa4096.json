@@ -1,0 +1,26 @@
+{
+  "slug": "kawa4096",
+  "name": "kawa4096",
+  "uuid": null,
+  "description": "",
+  "aliases": [
+    "KaWaLocker"
+  ],
+  "refs": [
+    "http://kawasa2qo7345dt7ogxmx7qmn6z2hnwaoi3h5aeosupozkddqwp6lqqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

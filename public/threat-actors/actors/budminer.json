@@ -1,7 +1,7 @@
 {
   "slug": "budminer",
   "name": "Budminer",
-  "uuid": "2eb0dc7a-cef6-4744-92ac-2fe269dacb95",
+  "uuid": null,
   "description": "Based on the evidence we have presented Symantec attributed the activity involving theDripion malware to the Budminer advanced threat group. While we have not seen newcampaigns using Taidoor malware since 2014, we believe the Budminer group has changedtactics to avoid detection after being outed publicly in security white papers and blogs over thepast few years.",
   "aliases": [
     "Budminer cyberespionage group"
@@ -15,19 +15,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.symantec.com/connect/blogs/taiwan-targeted-new-cyberespionage-back-door-trojan",
-      "https://app.box.com/s/xqh458fe1url7mgl072hhd0yxqw3x0jm",
-      "https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/389371/1/Cyber-Reports-2020-01-A-one-sided-Affair.pdf"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "suspected-victims": "Taiwan",
-    "synonyms": [
-      "Budminer cyberespionage group"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 271
+  "order": 0
 }

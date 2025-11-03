@@ -1,0 +1,27 @@
+{
+  "slug": "spandex-tempest",
+  "name": "Spandex Tempest",
+  "uuid": null,
+  "description": "Spandex Tempest is a financially motivated adversary group associated with Dudear campaigns, which deliver the FlawedGrace remote access Trojan for information theft purposes.<sup>[[Microsoft Threat Actor Naming](/references/de9cda86-0b23-4bc8-b524-e74fecf99448)]</sup> The group has evolved initial access techniques observed during these campaigns to evade defenses.<sup>[[Microsoft Threat Intelligence Tweet June 17 2020](/references/98fc7485-9424-412f-8162-a69d6c10c243)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3012"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3012"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

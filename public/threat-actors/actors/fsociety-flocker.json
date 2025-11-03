@@ -1,0 +1,28 @@
+{
+  "slug": "fsociety-flocker",
+  "name": "FSociety-Flocker",
+  "uuid": null,
+  "description": "A new variant emerged in mid-May 2024 and continues to operate, harming various organizations over the months. This variant is named \"Fsociety-Flocker\" and hosts its \"data leak site\" (DLS) on the onion network, as well as having a Telegram announcement channel.",
+  "aliases": [
+    "Ransomware Fsociety-Flocker"
+  ],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1567.002"
+    ]
+  },
+  "order": 0
+}

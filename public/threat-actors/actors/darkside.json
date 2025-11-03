@@ -1,0 +1,28 @@
+{
+  "slug": "darkside",
+  "name": "darkside",
+  "uuid": null,
+  "description": "Darkside ransomware group has started its operation in August of 2020 with the model of RaaS (Ransomware-as-a-Service). They have become known for their operations of large ransoms scale. They have announced that they prefer not to attack hospitals, schools, non-profits, and governments, but rather big organizations that can be able to pay large ransoms. Darkside ransomware group became very famous following the cyberattack of the Colonial Pipeline and Toshiba unit. The FBI finally terminate the Darkside operation and Managed to pull money from their wallets back.",
+  "aliases": [],
+  "refs": [
+    "https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1",
+    "https://news.sophos.com/en-us/2021/05/11/a-defenders-view-inside-a-darkside-ransomware-attack/",
+    "http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

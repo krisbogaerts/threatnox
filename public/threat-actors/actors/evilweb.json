@@ -1,7 +1,7 @@
 {
   "slug": "evilweb",
   "name": "EvilWeb",
-  "uuid": "c8ade1b0-befd-490e-8888-656dffee4d1c",
+  "uuid": null,
   "description": "EvilWeb is a pro-Russian hacktivist group created in March 2024 that targets American and European entities using a hack-and-leak method alongside DDoS attacks. The group claims to have obtained data from various high-profile American organizations. EvilWeb announced its participation in the #FreeDurov operation on August 25, 2024, and began executing DDoS and hacking attacks. As of September 3, 2024, their Telegram channel has 1,146 members.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://blog.checkpoint.com/security/hacktivists-call-for-release-of-telegram-founder-with-freedurov-ddos-campaign/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 764
+  "order": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "saintbear",
   "name": "SaintBear",
-  "uuid": "c67d3dfb-ab39-46e1-a971-5efdfe6a5b9f",
+  "uuid": null,
   "description": "A group targeting UA state organizations using the GraphSteel and GrimPlant malware.",
   "aliases": [
     "UNC2589",
@@ -38,42 +38,18 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "GRU": "Military unit 29155",
-    "country": "RU",
-    "refs": [
-      "https://malpedia.caad.fkie.fraunhofer.de/details/win.graphsteel",
-      "https://cert.gov.ua/article/38374",
-      "https://blog.malwarebytes.com/threat-intelligence/2022/04/new-uac-0056-activity-theres-a-go-elephant-in-the-room/",
-      "https://www.intezer.com/blog/research/elephant-malware-targeting-ukrainian-orgs/",
-      "https://www.sentinelone.com/blog/threat-actor-uac-0056-targeting-ukraine-with-fake-translation-software/",
-      "https://unit42.paloaltonetworks.com/atoms/nascentursa/",
-      "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/nodaria-ukraine-infostealer",
-      "https://blog.google/threat-analysis-group/fog-of-war-how-the-ukraine-conflict-transformed-the-cyber-threat-landscape/",
-      "https://www.microsoft.com/en-us/security/blog/2023/06/14/cadet-blizzard-emerges-as-a-novel-and-distinct-russian-threat-actor/",
-      "https://circleid.com/posts/20230412-probing-lorec53-phishing-through-the-dns-microscope",
-      "https://nsfocusglobal.com/wp-content/uploads/2021/11/Analysis-Report-on-Lorec53-Group.pdf",
-      "https://www.crowdstrike.com/en-us/blog/who-is-ember-bear/",
-      "https://attack.mitre.org/groups/G1003/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "UNC2589",
-      "TA471",
-      "UAC-0056",
-      "Nascent Ursa",
-      "Nodaria",
-      "FROZENVISTA",
-      "Storm-0587",
-      "DEV-0587",
-      "Saint Bear",
-      "Lorec53",
-      "EMBER BEAR",
-      "Lorec Bear",
-      "Bleeding Bear",
-      "Cadet Blizzard"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 356
+  "order": 0
 }

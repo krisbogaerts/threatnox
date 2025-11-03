@@ -1,0 +1,28 @@
+{
+  "slug": "c3rb3r-operator",
+  "name": "C3RB3R operator",
+  "uuid": null,
+  "description": "Confluence targeting by C3RB3R References https://redcanary.com/blog/confluence-exploit-ransomware/ Last edited Apr 30, 2024 6:42 AM Status Stub Cloud-fluent Unique Tools C3RB3R Ransomware Made with 💙 by Wiz",
+  "aliases": [
+    "Cerber"
+  ],
+  "refs": [
+    "https://www.sentinelone.com/blog/c3rb3r-ransomware-ongoing-exploitation-of-cve-2023-22518-targets-unpatched-confluence-servers/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

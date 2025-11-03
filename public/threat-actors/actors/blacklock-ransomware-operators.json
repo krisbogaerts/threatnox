@@ -1,0 +1,27 @@
+{
+  "slug": "blacklock-ransomware-operators",
+  "name": "BlackLock Ransomware Operators",
+  "uuid": null,
+  "description": "Security researchers have described BlackLock as a \"rebranding\" of the Eldorado ransomware operation.<sup>[[Resecurity BlackLock March 25 2025](/references/2977c45f-3a7a-42ae-be59-378aa288dc24)]</sup> Unless otherwise noted, this object uses details from the existing \"Eldorado Ransomware Operators\" Group object.",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3109"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3109"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

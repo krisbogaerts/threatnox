@@ -1,7 +1,7 @@
 {
   "slug": "bladehawk",
   "name": "BladeHawk",
-  "uuid": "0d72c57c-73e3-4739-8144-c8055cabd7dc",
+  "uuid": null,
   "description": "",
   "aliases": [],
   "refs": [
@@ -9,25 +9,18 @@
     "https://telegra.ph/Discover-Malware-Android-03-26",
     "https://ti.qianxin.com/blog/articles/Blade-hawk-The-activities-of-targeted-the-Middle-East-and-West-Asia-are-exposed/"
   ],
-  "countries": [],
-  "sectors": [
-    "Government"
-  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Kurdistan"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government"
-    ],
-    "cfr-type-of-incident": "Espionage",
-    "refs": [
-      "https://www.welivesecurity.com/2021/09/07/bladehawk-android-espionage-kurdish/",
-      "https://telegra.ph/Discover-Malware-Android-03-26",
-      "https://ti.qianxin.com/blog/articles/Blade-hawk-The-activities-of-targeted-the-Middle-East-and-West-Asia-are-exposed/"
-    ],
-    "synonyms": []
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 353
+  "order": 0
 }

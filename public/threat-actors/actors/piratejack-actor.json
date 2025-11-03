@@ -1,0 +1,27 @@
+{
+  "slug": "piratejack-actor",
+  "name": "PirateJack Actor",
+  "uuid": null,
+  "description": "\"PirateJack\" is a username used by a threat actor on underground cybercriminal forums. The actor has been observed attempting to sell numerous accesses to corporate networks mainly gained through compromise of VPN software.<sup>[[CYJAX Initial Access Broker Report June 2024](/references/5a20c423-c4c0-4601-9e4d-028df0297568)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3094"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3094"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "stealth-mango-and-tangelo",
+  "name": "Stealth Mango and Tangelo",
+  "uuid": null,
+  "description": "This threat actor targets organizations in the satellite communications, telecommunications, geospatial-imaging, and defense sectors in the United States and Southeast Asia for espionage purposes.",
+  "aliases": [],
+  "refs": [
+    "https://www.cfr.org/interactive/cyber-operations/stealth-mango-and-tangelo",
+    "https://www.lookout.com/blog/stealth-mango"
+  ],
+  "country": "PK",
+  "countries": [
+    "PK"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

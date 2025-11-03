@@ -1,0 +1,29 @@
+{
+  "slug": "salmon-typhoon",
+  "name": "Salmon Typhoon",
+  "uuid": null,
+  "description": "Sodium is reportedly a \"sophisticated Chinese state-affiliated\" threat actor group, which has especially targeted defense, government, and high-tech organizations in the United States.<sup>[[GitHub cybershujin Threat-Actors-use-of-Artifical-Intelligence](/references/b595af7e-ff84-49fa-8e07-cd2abe9e1d65)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": "CN",
+  "countries": [
+    "CN"
+  ],
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3060"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3060"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

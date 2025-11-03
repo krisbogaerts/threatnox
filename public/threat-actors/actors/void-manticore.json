@@ -1,7 +1,7 @@
 {
   "slug": "void-manticore",
   "name": "Void Manticore",
-  "uuid": "53ac2695-35ba-4ab2-a5cd-48ca533f1b72",
+  "uuid": null,
   "description": "Void Manticore is an Iranian APT group affiliated with MOIS, known for conducting destructive wiping attacks and influence operations. They collaborate with Scarred Manticore, sharing targets and conducting disruptive operations using custom wipers. Void Manticore's TTPs involve manual file deletion, lateral movement via RDP, and the deployment of custom wipers like the BiBi wiper. The group utilizes online personas like 'Karma' and 'Homeland Justice' to leak information and amplify the impact of their attacks.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IR",
-    "refs": [
-      "https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 677
+  "order": 0
 }

@@ -1,0 +1,36 @@
+{
+  "slug": "storm-1811",
+  "name": "Storm-1811",
+  "uuid": null,
+  "description": "[Storm-1811](https://attack.mitre.org/groups/G1046) is a financially-motivated entity linked to [Black Basta](https://attack.mitre.org/software/S1070) ransomware deployment. [Storm-1811](https://attack.mitre.org/groups/G1046) is notable for unique phishing and social engineering mechanisms for initial access, such as overloading victim email inboxes with non-malicious spam to prompt a fake \"help desk\" interaction leading to the deployment of adversary tools and capabilities.(Citation: Microsoft Storm-1811 2024)(Citation: rapid7-email-bombing)(Citation: RedCanary Storm-1811 2024)(Citation: RedCanary June Insights 2024)",
+  "aliases": [
+    "Storm-1811"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G1046",
+    "https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/",
+    "https://redcanary.com/blog/threat-intelligence/storm-1811-black-basta/",
+    "https://redcanary.com/blog/threat-intelligence/intelligence-insights-june-2024/",
+    "https://www.rapid7.com/blog/post/2024/05/10/ongoing-social-engineering-campaign-linked-to-black-basta-ransomware-operators"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G1046"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1046"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

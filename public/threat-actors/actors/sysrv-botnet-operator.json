@@ -1,0 +1,26 @@
+{
+  "slug": "sysrv-botnet-operator",
+  "name": "Sysrv botnet operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape Sysrv botnet operator Tags Attribution Incidents Sysrv Apache Druid cryptojacking Last edited Apr 27, 2025 11:10 AM Status Not started Cloud-fluent Unique Tools Sysrv Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.armosec.io/blog/armo-cadr-detects-kubernetes-crypto-mining/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

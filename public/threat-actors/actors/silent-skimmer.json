@@ -1,0 +1,26 @@
+{
+  "slug": "silent-skimmer",
+  "name": "Silent Skimmer",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🔇 Silent Skimmer Tags Attribution Incidents Silent Skimmer Attacks Exploiting Telerik UI to Steal Payment Data Last edited Nov 19, 2024 4:00 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://unit42.paloaltonetworks.com/silent-skimmer-latest-campaign/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

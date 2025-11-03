@@ -1,0 +1,24 @@
+{
+  "slug": "ransomcortex",
+  "name": "ransomcortex",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://gg6owuhu72muoelkt2msjrp2llwr2on5634sk5v2xefzmobvryywbhid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

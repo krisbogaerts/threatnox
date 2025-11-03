@@ -1,7 +1,7 @@
 {
   "slug": "operation-drbcontrol",
   "name": "Operation DRBControl",
-  "uuid": "dda55447-f7bc-405a-ab2e-c9be9fc1c53f",
+  "uuid": null,
   "description": "Operation DRBControl is a cyberespionage campaign targeting gambling companies in Southeast Asia, first identified in 2019. The operation involves the use of HyperBro malware and SysUpdate variants, with evidence of customer database and source code exfiltration. The threat actor has employed domain spoofing for command and control and has shown a consistent interest in the gambling industry. Trend Micro's analysis linked multiple tools and malware families to this campaign, indicating a sophisticated and evolving threat landscape.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-drbcontrol-uncovering-a-cyberespionage-campaign-targeting-gambling-companies-in-southeast-asia"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 798
+  "order": 0
 }

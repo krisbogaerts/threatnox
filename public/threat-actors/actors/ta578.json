@@ -1,19 +1,36 @@
 {
   "slug": "ta578",
   "name": "TA578",
-  "uuid": "d1a8626a-06a5-4ecc-9519-e17fc6724f15",
-  "description": "TA578, a threat actor that Proofpoint researchers have been tracking since May of 2020. TA578 has previously been observed in email-based campaigns delivering Ursnif, IcedID, KPOT Stealer, Buer Loader, BazaLoader, and Cobalt Strike.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[TA578](https://attack.mitre.org/groups/G1038) is a threat actor that has used contact forms and email to initiate communications with victims and to distribute malware including [Latrodectus](https://attack.mitre.org/software/S1160), [IcedID](https://attack.mitre.org/software/S0483), and [Bumblebee](https://attack.mitre.org/software/S1039).(Citation: Latrodectus APR 2024)(Citation: Bitsight Latrodectus June 2024)",
+  "aliases": [
+    "TA578"
+  ],
   "refs": [
+    "https://attack.mitre.org/groups/G1038",
+    "https://www.bitsight.com/blog/latrodectus-are-you-coming-back",
+    "https://www.proofpoint.com/us/blog/threat-insight/latrodectus-spider-bytes-ice",
     "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-is-still-transforming"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.proofpoint.com/us/blog/threat-insight/bumblebee-is-still-transforming"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1038"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G1038"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 363
+  "order": 0
 }

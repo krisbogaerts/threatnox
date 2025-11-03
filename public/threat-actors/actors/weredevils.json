@@ -1,7 +1,7 @@
 {
   "slug": "weredevils",
   "name": "WeRedEvils",
-  "uuid": "7ba756f0-0753-4da9-b00d-8cf35ba84e57",
+  "uuid": null,
   "description": "WeRedEvils is a hacking group that has claimed responsibility for multiple cyber attacks. They targeted the Iranian Electric Grid and the Tasnimnews website, causing the latter to go offline. The group also claimed to have hacked into Iran's oil infrastructure, causing significant damage. They emerged in response to the Hamas massacre and are believed to be a group of Israeli cyber experts.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "IL"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IL",
-    "refs": [
-      "https://cyberwarzone.com/tasnim-news-hacked-by-weredevils/",
-      "https://www.msspalert.com/news/managed-security-services-provider-mssp-market-news-30-october-2023"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 494
+  "order": 0
 }

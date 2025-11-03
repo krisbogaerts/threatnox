@@ -1,23 +1,65 @@
 {
   "slug": "ransomhub",
   "name": "RansomHub",
-  "uuid": "9d218bb3-fc59-43e0-a273-a0a0fb5c463e",
+  "uuid": null,
   "description": "RansomHub is a rapidly growing ransomware group believed to be an updated version of the older Knight ransomware. They have been linked to attacks exploiting the Zerologon vulnerability to gain initial access. RansomHub has attracted former affiliates of the ALPHV ransomware group and operates as a Ransomware-as-a-Service with a unique affiliate prepayment model. The group has been active in extorting victims and leaking sensitive data to pressure for ransom payments.",
-  "aliases": [],
+  "aliases": [
+    "RANSOMHUB HISTORY"
+  ],
   "refs": [
     "https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomhub-knight-ransomware",
     "https://forescoutstage.wpengine.com/blog/analysis-a-new-ransomware-group-emerges-from-the-change-healthcare-cyber-attack/",
-    "https://www.sentinelone.com/blog/ransomware-evolution-how-cheated-affiliates-are-recycling-victim-data-for-profit/"
+    "https://www.sentinelone.com/blog/ransomware-evolution-how-cheated-affiliates-are-recycling-victim-data-for-profit/",
+    "https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/",
+    "https://news.sophos.com/en-us/2024/08/14/edr-kill-shifter/",
+    "https://www.forescout.com/blog/analysis-a-new-ransomware-group-emerges-from-the-change-healthcare-cyber-attack/",
+    "https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/",
+    "https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions",
+    "http://ransomxifxwc5eteopdobynonjctkxxvap77yqifu2emfbecgbqdw6qd.onion/",
+    "http://ransomgxjnwmu5ceqwo2jrjssxpoicolmgismfpnslaixg3pgpe5qcad.onion/",
+    "http://fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion/",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/01aaef6e-55b7-47f7-8d66-7313a122e26b",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/0a9f470b-f08d-449b-85aa-349af4f2b3f2",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/534fbd1a-2e6c-4189-b8ee-e21b0f60833b",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/78df3b44-6118-46a9-82c6-b170e522363e",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/b7af9422-58c5-4aee-b47d-21137bf66377",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/6329eaf4-09f1-4cc7-9397-c04dc82e6e73",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/99895fa0-31ec-4e8c-86f0-c9533724da6a",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/ce6e3101-71bd-46ba-aa39-01c17da3dcfd",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/2b129c30-e414-426f-b610-18a8f1d3f85b",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/cf536cc2-0c76-4085-ab8c-a1ebca5b6c26",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/9db9d317-edeb-4724-9e39-0df4603cd970",
+    "https://community.fortinet.com/t5/FortiEDR/Threat-Coverage-How-FortiEDR-protects-against-RansomHub/ta-p/308376"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomhub-knight-ransomware",
-      "https://forescoutstage.wpengine.com/blog/analysis-a-new-ransomware-group-emerges-from-the-change-healthcare-cyber-attack/",
-      "https://www.sentinelone.com/blog/ransomware-evolution-how-cheated-affiliates-are-recycling-victim-data-for-profit/"
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3049",
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3049"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1047",
+      "T1059.003",
+      "T1070.001",
+      "T1562",
+      "T1570",
+      "T1486",
+      "T1489",
+      "T1490"
     ]
   },
-  "order": 679
+  "order": 0
 }

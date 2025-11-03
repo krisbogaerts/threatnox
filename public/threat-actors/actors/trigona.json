@@ -1,0 +1,29 @@
+{
+  "slug": "trigona",
+  "name": "trigona",
+  "uuid": null,
+  "description": "According to PCrisk, Trigona is ransomware that encrypts files and appends the ._locked extension to filenames. Also, it drops the how_to_decrypt.hta file that opens a ransom note. An example of how Trigona renames files: it renames 1.jpg to 1.jpg._locked, 2.png to 2.png._locked, and so forth.It embeds the encrypted decryption key, the campaign ID, and the victim ID in the encrypted files.",
+  "aliases": [],
+  "refs": [
+    "http://3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad.onion/",
+    "http://6n5tfadusp4sarzuxntz34q4ohspiaya2mc6aw6uhlusfqfsdomavyyd.onion/",
+    "http://trigonax2zb3fw34rbaap4cqep76zofxs53zakrdgcxzq6xzt24l5lqd.onion/",
+    "http://krsbhaxbki6jr4zvwblvkaqzjkircj7cxf46qt3na5o5sj2hpikbupqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

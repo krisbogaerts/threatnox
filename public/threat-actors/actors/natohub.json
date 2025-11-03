@@ -1,19 +1,26 @@
 {
   "slug": "natohub",
   "name": "Natohub",
-  "uuid": "43e2a6bc-0b62-456a-b5ae-a40770b8b8e1",
+  "uuid": null,
   "description": "Natohub is a hacker who claimed to have stolen 42,000 documents from the UN’s International Civil Aviation Organization and is offering the data for sale on underground forums. The compromised documents allegedly contain personal records of ICAO staff and others associated with the agency. While ICAO is investigating the potential breach, Natohub has also made unverified claims about accessing personal data on thousands of UN delegates. The actor's track record of leaks is limited, raising questions about the credibility of their assertions.",
   "aliases": [],
   "refs": [
     "https://cisoseries.com/cyber-security-news-cyber-trust-label-uk-deepfake-laws-treasury-attack-details/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://cisoseries.com/cyber-security-news-cyber-trust-label-uk-deepfake-laws-treasury-attack-details/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 794
+  "order": 0
 }

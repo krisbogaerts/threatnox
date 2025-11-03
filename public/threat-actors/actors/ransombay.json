@@ -1,0 +1,26 @@
+{
+  "slug": "ransombay",
+  "name": "ransombay",
+  "uuid": null,
+  "description": "Launched on April 24th, 2025 RansomBay is a new project operating under the DragonForce initiative",
+  "aliases": [],
+  "refs": [
+    "http://mrbay3n14c2wxmhpro5tcdfjpqkeowfucbodic4ix6rzqtoss3ebhid.onion/news"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

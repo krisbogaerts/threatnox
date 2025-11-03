@@ -1,0 +1,28 @@
+{
+  "slug": "ragnarlocker",
+  "name": "ragnarlocker",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://www.sygnia.co/blog/threat-actor-spotlight-ragnarlocker-ransomware/",
+    "http://rgleak7op734elep.onion/",
+    "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/",
+    "http://p6o7m73ujalhgkiv.onion/",
+    "http://ragnarnwvli32xnmwudsvhbl7klzmofxeylyhcqfc5ifx5mbybq3ekqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

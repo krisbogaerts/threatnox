@@ -1,0 +1,29 @@
+{
+  "slug": "raworld",
+  "name": "raworld",
+  "uuid": null,
+  "description": "RA Group, also known as RA World, first surfaced in April 2023, utilizing a custom variant of the Babuk ransomware.",
+  "aliases": [
+    "ragroup"
+  ],
+  "refs": [
+    "http://raworldw32b2qxevn3gp63pvibgixr4v75z62etlptg3u3pmajwra4ad.onion/",
+    "http://pa32ymaeu62yo5th5mraikgw5fcvznnsiiwti42carjliarodltmqcqd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "shinra",
+  "name": "Shinra",
+  "uuid": null,
+  "description": "SHINRA ransomware is a variant of the Proton ransomware family, known for its malicious activities involving data encryption and demanding a ransom for data decryption.",
+  "aliases": [
+    "Ransomware Shinra"
+  ],
+  "refs": [
+    "https://github.com/user-attachments/assets/375c6c8b-2bf8-4f2f-bc58-1e1ab146bf8c",
+    "https://github.com/user-attachments/assets/b5c89f43-7018-4dd3-aef4-8c86241464a9"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1007",
+      "T1010",
+      "T1016",
+      "T1018",
+      "T1027",
+      "T1027.005",
+      "T1027.009",
+      "T1036",
+      "T1047",
+      "T1056",
+      "T1057",
+      "T1059",
+      "T1064",
+      "T1070.001",
+      "T1070.004",
+      "T1074",
+      "T1082",
+      "T1083",
+      "T1119",
+      "T1129",
+      "T1135",
+      "T1202",
+      "T1222",
+      "T1485",
+      "T1486",
+      "T1489",
+      "T1490",
+      "T1518.001",
+      "T1543.003",
+      "T1547",
+      "T1547.001",
+      "T1548",
+      "T1562.001",
+      "T1564.003"
+    ]
+  },
+  "order": 0
+}

@@ -1,12 +1,14 @@
 {
   "slug": "poseidon-group",
   "name": "Poseidon Group",
-  "uuid": "5fc09923-fcff-4e81-9cae-4518ef31cf4d",
-  "description": "Poseidon Group is a Portuguese-speaking threat group that has been active since at least 2005. The group has a history of using information exfiltrated from victims to blackmail victim companies into contracting the Poseidon Group as a security firm.",
+  "uuid": null,
+  "description": "[Poseidon Group](https://attack.mitre.org/groups/G0033) is a Portuguese-speaking threat group that has been active since at least 2005. The group has a history of using information exfiltrated from victims to blackmail victim companies into contracting the [Poseidon Group](https://attack.mitre.org/groups/G0033) as a security firm. (Citation: Kaspersky Poseidon Group)",
   "aliases": [
+    "Poseidon Group",
     "G0033"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0033",
     "https://securelist.com/poseidon-group-a-targeted-attack-boutique-specializing-in-global-cyber-espionage/73673/",
     "https://attack.mitre.org/wiki/Groups",
     "https://attack.mitre.org/groups/G0033/"
@@ -15,19 +17,23 @@
   "countries": [
     "BR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "BR",
-    "refs": [
-      "https://securelist.com/poseidon-group-a-targeted-attack-boutique-specializing-in-global-cyber-espionage/73673/",
-      "https://attack.mitre.org/wiki/Groups",
-      "https://attack.mitre.org/groups/G0033/"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0033"
     ],
-    "synonyms": [
-      "G0033"
-    ]
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0033"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 77
+  "order": 0
 }

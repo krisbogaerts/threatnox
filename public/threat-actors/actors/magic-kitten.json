@@ -1,7 +1,7 @@
 {
   "slug": "magic-kitten",
   "name": "Magic Kitten",
-  "uuid": "2e77511d-f72f-409e-9b64-e2a15efe9bf4",
+  "uuid": null,
   "description": "Earliest activity back to November 2008. An established group of cyber attackers based in Iran, who carried on several campaigns in 2013, including a series of attacks targeting political dissidents and those supporting Iranian political opposition.",
   "aliases": [
     "Group 42",
@@ -15,24 +15,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "IR",
-    "refs": [
-      "https://web.archive.org/web/20161020180305/http://www.scmagazineuk.com/iran-and-russia-blamed-for-state-sponsored-espionage/article/330401/",
-      "https://carnegieendowment.org/2018/01/04/iran-s-cyber-ecosystem-who-are-threat-actors-pub-75140"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Group 42",
-      "VOYEUR"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "targeted-sector": [
-      "Opposition",
-      "Dissidents",
-      "Political party"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 47
+  "order": 0
 }

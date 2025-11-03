@@ -1,37 +1,36 @@
 {
   "slug": "moustachedbouncer",
   "name": "MoustachedBouncer",
-  "uuid": "01ac8b25-492e-444b-891b-968f2694e7b2",
-  "description": "MoustachedBouncer is a cyberespionage group discovered by ESET Research and first publicly disclosed in August 2023. The group has been active since at least 2014 and only targets foreign embassies in Belarus. Since 2020, MoustachedBouncer has most likely been able to perform adversary-in-the-middle (AitM) attacks at the ISP level, within Belarus, in order to compromise its targets. The group uses two separate toolsets that we have named NightClub and Disco.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[MoustachedBouncer](https://attack.mitre.org/groups/G1019) is a cyberespionage group that has been active since at least 2014 targeting foreign embassies in Belarus.(Citation: MoustachedBouncer ESET August 2023)",
+  "aliases": [
+    "MoustachedBouncer"
+  ],
   "refs": [
+    "https://attack.mitre.org/groups/G1019",
     "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/"
   ],
   "country": "BY",
   "countries": [
     "BY"
   ],
-  "sectors": [
-    "Government"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "Belarus",
-    "cfr-suspected-victims": [
-      "Europe",
-      "Eastern Europe",
-      "South Asia",
-      "Northeast Africa"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G1019"
     ],
-    "cfr-target-category": [
-      "Government"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "BY",
-    "refs": [
-      "https://www.welivesecurity.com/en/eset-research/moustachedbouncer-espionage-against-foreign-diplomats-in-belarus/"
-    ]
+    "external_ids": {
+      "mitre": "G1019"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 426
+  "order": 0
 }

@@ -1,7 +1,7 @@
 {
   "slug": "earth-longzhi",
   "name": "Earth Longzhi",
-  "uuid": "b21dbf83-3459-44f4-b91b-6157379e430a",
+  "uuid": null,
   "description": "Earth Longzhi is a subgroup of APT41 targeting organizations based in Taiwan, Thailand, the Philippines, and Fiji, and using “stack rumbling” via Image File Execution Options (IFEO), a new denial-of-service (DoS) technique to disable security software.",
   "aliases": [
     "SnakeCharmer"
@@ -12,19 +12,20 @@
     "https://ics-cert.kaspersky.com/publications/reports/2023/03/24/apt-attacks-on-industrial-organizations-in-h2-2022/",
     "https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.picussecurity.com/resource/blog/cyber-threat-intelligence-report-may-2023",
-      "https://www.trendmicro.com/en_us/research/23/e/attack-on-security-titans-earth-longzhi-returns-with-new-tricks.html",
-      "https://ics-cert.kaspersky.com/publications/reports/2023/03/24/apt-attacks-on-industrial-organizations-in-h2-2022/",
-      "https://www.trendmicro.com/en_us/research/22/k/hack-the-real-box-apt41-new-subgroup-earth-longzhi.html"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "SnakeCharmer"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 439
+  "order": 0
 }

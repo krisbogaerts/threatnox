@@ -1,7 +1,7 @@
 {
   "slug": "bohrium",
   "name": "Bohrium",
-  "uuid": "111efc97-6a93-487b-8cb3-1e890ac51066",
+  "uuid": null,
   "description": "Bohrium is an Iranian threat actor that has been involved in spear-phishing operations targeting organizations in the US, Middle East, and India. They often create fake social media profiles, particularly posing as recruiters, to trick victims into running malware on their computers. Microsoft's Digital Crimes Unit has taken legal action and seized 41 domains used by Bohrium to disrupt their activities. The group has shown a particular interest in sectors such as technology, transportation, government, and education.",
   "aliases": [
     "Smoke Sandstorm",
@@ -15,18 +15,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IR",
-    "refs": [
-      "https://twitter.com/CyberAmyHB/status/1532398956918890500"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Smoke Sandstorm",
-      "BOHRIUM",
-      "IMPERIAL KITTEN"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 504
+  "order": 0
 }

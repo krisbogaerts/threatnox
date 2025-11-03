@@ -1,0 +1,26 @@
+{
+  "slug": "coinbasecartel",
+  "name": "coinbasecartel",
+  "uuid": null,
+  "description": "CoinbaseCartel specializes in data acquisition through system access and strategic partnerships. It focus exclusively on data exfiltration—our operations never involve system encryption or operational disruption.",
+  "aliases": [],
+  "refs": [
+    "http://fjg4zi4opkxkvdz7mvwp7h6goe4tcby3hhkrz43pht4j3vakhy75znyd.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

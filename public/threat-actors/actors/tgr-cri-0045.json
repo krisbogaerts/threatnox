@@ -1,0 +1,26 @@
+{
+  "slug": "tgr-cri-0045",
+  "name": "TGR-CRI-0045",
+  "uuid": null,
+  "description": "Cloud Threat Landscape TGR-CRI-0045 Tags Attribution Incidents In-Memory IIS Attacks via View State Deserialization Last edited Jul 9, 2025 1:17 PM Status Not started Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://unit42.paloaltonetworks.com/initial-access-broker-exploits-leaked-machine-keys/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "bapak",
+  "name": "Bapak",
+  "uuid": null,
+  "description": "`Bapak` is a group Wiz research detected across multiple customers, suggesting a systematic scanning of exposed credentials without any specific targeting. The group mainly operates out of IP addresses located in Indonesia, but occasionally employs VPNs to try and mask their activity.",
+  "aliases": [],
+  "refs": [
+    "https://www.wiz.io/blog/detecting-behavioral-cloud-indicators-of-compromise-iocs"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

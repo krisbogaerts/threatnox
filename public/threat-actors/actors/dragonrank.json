@@ -1,19 +1,31 @@
 {
   "slug": "dragonrank",
   "name": "DragonRank",
-  "uuid": "28157c93-0b9f-4341-983a-3a521cee12bb",
+  "uuid": null,
   "description": "DragonRank is a threat actor primarily targeting web application services in Asia and Europe, utilizing TTPs associated with Simplified Chinese-speaking hacking groups. They exploit vulnerabilities in platforms like phpMyAdmin and WordPress to deploy web shells, enabling the installation of PlugX and BadIIS malware for black hat SEO practices. Their operations involve lateral movement within compromised networks to maintain control and elevate privileges, while also engaging in unethical online marketing strategies. DragonRank's activities include manipulating search engine rankings and distributing scam websites through compromised Windows IIS servers.",
   "aliases": [],
   "refs": [
     "https://blog.talosintelligence.com/dragon-rank-seo-poisoning/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://blog.talosintelligence.com/dragon-rank-seo-poisoning/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3075",
+      "Wiz"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3075"
+    },
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
   },
-  "order": 739
+  "order": 0
 }

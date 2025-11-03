@@ -1,21 +1,27 @@
 {
   "slug": "gold-northfield",
   "name": "GOLD NORTHFIELD",
-  "uuid": "4c51f24c-90a1-4f22-b932-bd4bb9d488f6",
+  "uuid": null,
   "description": "Operational since at least October 2020, GOLD NORTHFIELD is a financially motivated cybercriminal threat group that leverages GOLD SOUTHFIELD's REvil ransomware in their attacks. To do this, the threat actors replace the configuration of the REvil ransomware binary with their own in an effort to repurpose the ransomware for their operations. GOLD NORTHFIELD has given this modified REvil ransomware variant the name 'LV ransomware'.",
   "aliases": [],
   "refs": [
     "http://www.secureworks.com/research/threat-profiles/gold-northfield",
     "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-13th-2020-extortion-gone-wild/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "http://www.secureworks.com/research/threat-profiles/gold-northfield",
-      "https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-13th-2020-extortion-gone-wild/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 328
+  "order": 0
 }

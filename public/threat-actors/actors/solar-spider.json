@@ -1,22 +1,26 @@
 {
   "slug": "solar-spider",
   "name": "SOLAR SPIDER",
-  "uuid": "f65103ad-f051-47c3-b90e-c77239a4d65c",
+  "uuid": null,
   "description": "SOLAR SPIDER’s phishing campaigns deliver the JSOutProx RAT to financial institutions across Africa, the Middle East, South Asia and Southeast Asia.",
   "aliases": [],
   "refs": [
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2021GTR.pdf"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "targeted-sector": [
-      "Finance"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 311
+  "order": 0
 }

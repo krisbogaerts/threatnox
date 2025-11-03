@@ -1,7 +1,7 @@
 {
   "slug": "caracal-kitten",
   "name": "Caracal Kitten",
-  "uuid": "46a67fdf-5376-4d01-8092-6549a20030af",
+  "uuid": null,
   "description": "Caracal Kitten is an APT group that has been targeting activists associated with the Kurdistan Democratic Party. They employ a mobile remote access Trojan to gain unauthorized access to victims' devices. The group disguises their malware as legitimate mobile apps, tricking users into installing them and granting the hackers access to their personal data.",
   "aliases": [
     "APT-Q-58"
@@ -10,17 +10,20 @@
     "https://deform.co/hacker-group-caracal-kitten-targets-kdp-activists-with-malware/",
     "https://www.ctfiot.com/138538.html"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://deform.co/hacker-group-caracal-kitten-targets-kdp-activists-with-malware/",
-      "https://www.ctfiot.com/138538.html"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "APT-Q-58"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 496
+  "order": 0
 }

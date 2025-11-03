@@ -1,0 +1,25 @@
+{
+  "slug": "abcbot-operator",
+  "name": "Abcbot operator",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://s.tencent.com/research/report/1177.html",
+    "https://www.trendmicro.com/en_us/research/21/j/actors-target-huawei-cloud-using-upgraded-linux-malware-.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

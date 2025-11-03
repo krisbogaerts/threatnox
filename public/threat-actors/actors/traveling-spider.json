@@ -1,7 +1,7 @@
 {
   "slug": "traveling-spider",
   "name": "TRAVELING SPIDER",
-  "uuid": "a515632e-3374-4602-911e-4f4e259ae0fd",
+  "uuid": null,
   "description": "Crowdstrike Tracks the criminal developer of Nemty ransomware as TRAVELING SPIDER. The actor has been observed to take advantage of single-factor authentication to gain access to victim organizations through Citrix Gateway and send extortion-related emails using the victim’s own Microsoft Office 365 instance.",
   "aliases": [],
   "refs": [
@@ -9,15 +9,20 @@
     "https://www.crowdstrike.com/blog/ransomware-preparedness-a-call-to-action/",
     "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeServicesCyberFrontLines.pdf"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.cyberscoop.com/coronavirus-hacking-disinformation-ransomware-spearphishing/",
-      "https://www.crowdstrike.com/blog/ransomware-preparedness-a-call-to-action/",
-      "https://go.crowdstrike.com/rs/281-OBQ-266/images/Report2020CrowdStrikeServicesCyberFrontLines.pdf"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 307
+  "order": 0
 }

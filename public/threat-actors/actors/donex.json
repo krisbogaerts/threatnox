@@ -1,0 +1,69 @@
+{
+  "slug": "donex",
+  "name": "donex",
+  "uuid": null,
+  "description": "The ransomware group known as DoNex was first identified in mid-March 2024. According to the data collected, the samples used by the group were compiled in mid-February, suggesting that it is a relatively new operation.",
+  "aliases": [
+    "Ransomware DoNex"
+  ],
+  "refs": [
+    "http://g3h3klsev3eiofxhykmtenmdpi67wzmaixredk5pjuttbx7okcfkftqd.onion/",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/f46524aa-97cc-499b-8c8e-9362bcf7a7c8",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/73c1c743-4272-4d9f-a533-9070b4bc573d",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/b3be60fe-1b7f-4e13-aa01-77c18c68bde4",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/0a8ff8a2-2d0b-46a2-86b5-a18323b9560a",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/aefc5357-8130-4dfa-9246-d12a021fe79f",
+    "https://github.com/crocodyli/ThreatActors-TTPs/assets/113185400/847fb373-0507-4a23-805c-60f2c02e7acb"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "TA-TTPs"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1047",
+      "T1059",
+      "T1064",
+      "T1106",
+      "T1129",
+      "T1543.003",
+      "T1027",
+      "T1027.005",
+      "T1027.009",
+      "T1036",
+      "T1070.001",
+      "T1070.004",
+      "T1202",
+      "T1222",
+      "T1548",
+      "T1562.001",
+      "T1564.003",
+      "T1056",
+      "T1007",
+      "T1010",
+      "T1016",
+      "T1018",
+      "T1057",
+      "T1082",
+      "T1083",
+      "T1135",
+      "T1518.001",
+      "T1074",
+      "T1119",
+      "T1486",
+      "T1489",
+      "T1490",
+      "T1485"
+    ]
+  },
+  "order": 0
+}

@@ -1,25 +1,29 @@
 {
   "slug": "apt12",
   "name": "APT12",
-  "uuid": "48146604-6693-4db1-bd94-159744726514",
-  "description": "A group of China-based attackers, who conducted a number of spear phishing attacks in 2013.",
+  "uuid": null,
+  "description": "[APT12](https://attack.mitre.org/groups/G0005) is a threat group that has been attributed to China. The group has targeted a variety of victims including but not limited to media outlets, high-tech companies, and multiple governments.(Citation: Meyers Numbered Panda)",
   "aliases": [
+    "APT12",
+    "IXESHE",
+    "DynCalc",
+    "Numbered Panda",
+    "DNSCALC",
     "NUMBERED PANDA",
     "TG-2754",
     "BeeBus",
     "Group 22",
-    "DynCalc",
     "Calc Team",
     "DNSCalc",
     "Crimson Iron",
-    "IXESHE",
     "BRONZE GLOBE",
     "Hexagon Typhoon"
   ],
   "refs": [
+    "https://attack.mitre.org/groups/G0005",
     "http://www.crowdstrike.com/blog/whois-numbered-panda/",
-    "https://www.cfr.org/interactive/cyber-operations/apt-12",
     "https://www.fireeye.com/blog/threat-research/2014/09/darwins-favorite-apt-group-2.html",
+    "https://www.cfr.org/interactive/cyber-operations/apt-12",
     "https://www.secureworks.com/research/threat-profiles/bronze-globe",
     "https://www.mandiant.com/resources/insights/apt-groups"
   ],
@@ -27,44 +31,23 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Private sector",
-    "Government"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "Taiwan",
-      "Japan"
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0005"
     ],
-    "cfr-target-category": [
-      "Private sector",
-      "Government"
+    "description_sources": [
+      "MITRE"
     ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "http://www.crowdstrike.com/blog/whois-numbered-panda/",
-      "https://www.cfr.org/interactive/cyber-operations/apt-12",
-      "https://www.fireeye.com/blog/threat-research/2014/09/darwins-favorite-apt-group-2.html",
-      "https://www.secureworks.com/research/threat-profiles/bronze-globe",
-      "https://www.mandiant.com/resources/insights/apt-groups"
-    ],
-    "synonyms": [
-      "NUMBERED PANDA",
-      "TG-2754",
-      "BeeBus",
-      "Group 22",
-      "DynCalc",
-      "Calc Team",
-      "DNSCalc",
-      "Crimson Iron",
-      "IXESHE",
-      "BRONZE GLOBE",
-      "Hexagon Typhoon"
-    ]
+    "external_ids": {
+      "mitre": "G0005"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 15
+  "order": 0
 }

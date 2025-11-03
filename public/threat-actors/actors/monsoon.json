@@ -1,0 +1,26 @@
+{
+  "slug": "monsoon",
+  "name": "MONSOON",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://attack.mitre.org/groups/G0042"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE"
+    ],
+    "description_sources": null,
+    "external_ids": {
+      "mitre": "G0042"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

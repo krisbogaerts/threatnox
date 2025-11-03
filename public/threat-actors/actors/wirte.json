@@ -1,25 +1,38 @@
 {
   "slug": "wirte",
   "name": "WIRTE",
-  "uuid": "ec6bcaa9-4cb3-4397-a735-c806bc986c81",
-  "description": "WIRTE is a threat actor group that was first discovered in 2018. They are suspected to be part of the Gaza Cybergang, an Arabic politically motivated cyber criminal group. WIRTE has been observed changing their toolkit and operating methods to remain undetected for longer periods of time. They primarily target governmental and political entities, but have also been known to target law firms and financial institutions.",
-  "aliases": [],
+  "uuid": null,
+  "description": "[WIRTE](https://attack.mitre.org/groups/G0090) is a threat group that has been active since at least August 2018. [WIRTE](https://attack.mitre.org/groups/G0090) has targeted government, diplomatic, financial, military, legal, and technology organizations in the Middle East and Europe.(Citation: Lab52 WIRTE Apr 2019)(Citation: Kaspersky WIRTE November 2021)",
+  "aliases": [
+    "WIRTE"
+  ],
   "refs": [
-    "https://securelist.com/wirtes-campaign-in-the-middle-east-living-off-the-land-since-at-least-2019/105044/",
-    "https://lab52.io/blog/wirte-group-attacking-the-middle-east/"
+    "https://attack.mitre.org/groups/G0090",
+    "https://lab52.io/blog/wirte-group-attacking-the-middle-east/",
+    "https://securelist.com/wirtes-campaign-in-the-middle-east-living-off-the-land-since-at-least-2019/105044",
+    "https://securelist.com/wirtes-campaign-in-the-middle-east-living-off-the-land-since-at-least-2019/105044/"
   ],
   "country": "PS",
   "countries": [
     "PS"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "PS",
-    "refs": [
-      "https://securelist.com/wirtes-campaign-in-the-middle-east-living-off-the-land-since-at-least-2019/105044/",
-      "https://lab52.io/blog/wirte-group-attacking-the-middle-east/"
-    ]
+    "sources": [
+      "MITRE",
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G0090"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0090"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 495
+  "order": 0
 }

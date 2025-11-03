@@ -1,0 +1,24 @@
+{
+  "slug": "robinhood",
+  "name": "robinhood",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://robinhoodleaks.tumblr.com/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

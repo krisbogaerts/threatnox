@@ -1,19 +1,26 @@
 {
   "slug": "badrory",
   "name": "BadRory",
-  "uuid": "aa74d1f3-b294-405b-bb18-3ac1c13560a1",
+  "uuid": null,
   "description": "Kaspersky researchers have identified a new APT group named BadRory that has mounted two waves of spear-phishing attacks against Russian organizations. The campaigns took place in October 2022 and April 2023 and leveraged boobytrapped Office emails. Targets included government entities, military contractors, universities, and hospitals.",
   "aliases": [],
   "refs": [
     "https://securelist.com/apt-trends-report-q3-2023/110752/"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://securelist.com/apt-trends-report-q3-2023/110752/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 466
+  "order": 0
 }

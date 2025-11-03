@@ -1,7 +1,7 @@
 {
   "slug": "taskmasters",
   "name": "TaskMasters",
-  "uuid": "f6134b6c-56f1-4eda-be0f-79411d627f19",
+  "uuid": null,
   "description": "TaskMasters is a state-sponsored Chinese APT that has been active since at least 2010, primarily targeting industrial, energy, and government sectors in Russia and the CIS. The group has been linked to the Webdav-O Trojan, which employs techniques to bypass network defenses by connecting to legitimate services. Investigations suggest that TaskMasters may have been involved in attacks against Russian federal executive authorities in 2020, potentially alongside another Chinese group, TA428. Additionally, the group has been associated with the BackDoor.RemShell.24 malware, indicating a diverse toolkit in their operations.",
   "aliases": [
     "BlueTraveller"
@@ -14,17 +14,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "CN",
-    "refs": [
-      "https://www.group-ib.com/blog/task/",
-      "https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia/?utm_source=rss&utm_medium=rss&utm_campaign=apt-group-targeting-governmental-agencies-in-east-asia"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "BlueTraveller"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 750
+  "order": 0
 }

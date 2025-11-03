@@ -1,0 +1,26 @@
+{
+  "slug": "coinstomp-operator",
+  "name": "CoinStomp operator",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🪙 CoinStomp operator Tags Cryptojacking Attribution 💰Cybercrime Incidents CoinStomp campaign Last edited Jan 18, 2024 1:25 PM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://www.cadosecurity.com/coinstomp-malware-family-targets-asian-cloud-service-providers/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

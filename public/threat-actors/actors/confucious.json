@@ -1,7 +1,7 @@
 {
   "slug": "confucious",
   "name": "Confucious",
-  "uuid": "54618130-55d3-4506-b62b-67f2dca12b04",
+  "uuid": null,
   "description": "Confucius is an APT organization funded by India. It has been carrying out cyber attacks since 2013. Its main targets are India's neighbouring countries such as Pakistan and China. It has a strong interest in targets in the fields of military, government and energy.",
   "aliases": [],
   "refs": [
@@ -12,14 +12,18 @@
   "countries": [
     "IN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IN",
-    "refs": [
-      "https://medium.com/@knownsec404team/apt-k-47-mysterious-elephant-a-new-apt-organization-in-south-asia-5c66f954477",
-      "https://blog.nsfocus.net/aptconfuciuspakistanibo/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 483
+  "order": 0
 }

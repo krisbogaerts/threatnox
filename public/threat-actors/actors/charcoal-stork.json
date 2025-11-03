@@ -1,0 +1,27 @@
+{
+  "slug": "charcoal-stork",
+  "name": "Charcoal Stork",
+  "uuid": null,
+  "description": "Charcoal Stork is a threat actor believed to provide content used to fuel malvertising and search engine optimization (SEO) operations, which affiliates ultimately use to deliver malware to victim systems. Charcoal Stork is thought to be financially motivated, operating on a pay-per-install basis.<sup>[[Red Canary March 18 2024](/references/a86131cd-1a42-4222-9d39-221dd6e054ba)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3055"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3055"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

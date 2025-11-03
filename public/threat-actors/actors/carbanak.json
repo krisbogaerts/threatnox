@@ -1,0 +1,39 @@
+{
+  "slug": "carbanak",
+  "name": "Carbanak",
+  "uuid": null,
+  "description": "[Carbanak](https://attack.mitre.org/groups/G0008) is a cybercriminal group that has used [Carbanak](https://attack.mitre.org/software/S0030) malware to target financial institutions since at least 2013. [Carbanak](https://attack.mitre.org/groups/G0008) may be linked to groups tracked separately as [Cobalt Group](https://attack.mitre.org/groups/G0080) and [FIN7](https://attack.mitre.org/groups/G0046) that have also used [Carbanak](https://attack.mitre.org/software/S0030) malware.(Citation: Kaspersky Carbanak)(Citation: FireEye FIN7 April 2017)(Citation: Europol Cobalt Mar 2018)(Citation: Secureworks GOLD NIAGARA Threat Profile)(Citation: Secureworks GOLD KINGSWOOD Threat Profile)",
+  "aliases": [
+    "Carbanak",
+    "Anunak"
+  ],
+  "refs": [
+    "https://attack.mitre.org/groups/G0008",
+    "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064518/Carbanak_APT_eng.pdf",
+    "https://www.fireeye.com/blog/threat-research/2017/04/fin7-phishing-lnk.html",
+    "https://www.europol.europa.eu/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain",
+    "https://www.secureworks.com/research/threat-profiles/gold-niagara",
+    "https://www.secureworks.com/research/threat-profiles/gold-kingswood?filter=item-financial-gain",
+    "https://www.fox-it.com/en/news/blog/anunak-aka-carbanak-update/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MITRE",
+      "MISP:tidal",
+      "MITRE:G0008"
+    ],
+    "description_sources": [
+      "MITRE"
+    ],
+    "external_ids": {
+      "mitre": "G0008"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

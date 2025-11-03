@@ -1,7 +1,7 @@
 {
   "slug": "mosesstaff",
   "name": "MosesStaff",
-  "uuid": "d45dd940-b38d-4b2c-9f2f-3e4a0eac841c",
+  "uuid": null,
   "description": "Cybereason Nocturnus describes Moses Staff as an Iranian hacker group, first spotted in October 2021. Their motivation appears to be to harm Israeli companies by leaking sensitive, stolen data.",
   "aliases": [
     "Moses Staff",
@@ -13,28 +13,27 @@
     "https://twitter.com/campuscodi/status/1450455259202166799",
     "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/",
     "https://www.cybereason.com/blog/strifewater-rat-iranian-apt-moses-staff-adds-new-trojan-to-ransomware-operations",
-    "https://www.fortinet.com/blog/threat-research/guard-your-drive-from-driveguard"
+    "https://www.fortinet.com/blog/threat-research/guard-your-drive-from-driveguard",
+    "http://mosesstaffm7hptp.onion/",
+    "https://moses-staff.se/activities/"
   ],
   "country": "IR",
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "IR",
-    "refs": [
-      "https://twitter.com/campuscodi/status/1450455259202166799",
-      "https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/",
-      "https://www.cybereason.com/blog/strifewater-rat-iranian-apt-moses-staff-adds-new-trojan-to-ransomware-operations",
-      "https://www.fortinet.com/blog/threat-research/guard-your-drive-from-driveguard"
+    "sources": [
+      "MISP:threat-actor",
+      "RWLive"
     ],
-    "synonyms": [
-      "Moses Staff",
-      "Marigold Sandstorm",
-      "DEV-0500",
-      "VENGEFUL KITTEN"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 348
+  "order": 0
 }

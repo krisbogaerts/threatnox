@@ -1,0 +1,27 @@
+{
+  "slug": "unc6040",
+  "name": "UNC6040",
+  "uuid": null,
+  "description": "UNC6040 is a financially motivated threat cluster that specializes in voice phishing (vishing) campaigns to compromise organizations' Salesforce instances for data theft and extortion. They impersonate IT support personnel to trick employees into granting access or sharing credentials, facilitating data exfiltration from Salesforce and other cloud platforms.<sup>[[Google Cloud June 4 2025](/references/4feebcde-4471-4275-80b1-0a9ade1745a5)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3107"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3107"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

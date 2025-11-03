@@ -1,0 +1,74 @@
+{
+  "slug": "blackbasta",
+  "name": "blackbasta",
+  "uuid": null,
+  "description": "\"Black Basta\" is a new ransomware strain discovered during April 2022 - looks in dev since at least early February 2022 - and due to their ability to quickly amass new victims and the style of their negotiations, this is likely not a new operation but rather a rebrand of a previous top-tier ransomware gang that brought along their affiliates.\n",
+  "aliases": [
+    "RANSOMWARE BLACKBASTA"
+  ],
+  "refs": [
+    "https://cloud.google.com/blog/topics/threat-intelligence/unc4393-goes-gently-into-silentnight",
+    "https://www.trendmicro.com/en_ca/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html",
+    "http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/",
+    "https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion/",
+    "https://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion/",
+    "https://github.com/user-attachments/assets/ae180150-5163-47e1-800b-1bf2fc10e592"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive",
+      "TA-TTPs"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": [
+      "T1566.001",
+      "T1569.002",
+      "T1047",
+      "T1059.001",
+      "T1136",
+      "T1098",
+      "T1543.003",
+      "T1574.001",
+      "T1484.001",
+      "T1005",
+      "T1016",
+      "T1021.001",
+      "T1036",
+      "T1049",
+      "T1068",
+      "T1070.004",
+      "T1071",
+      "T1078",
+      "T1082",
+      "T1087.002",
+      "T1090",
+      "T1140",
+      "T1190",
+      "T1218.010",
+      "T1219",
+      "T1486",
+      "T1489",
+      "T1490",
+      "T1555",
+      "T1558",
+      "T1560.001",
+      "T1562.001",
+      "T1562.004",
+      "T1562.009",
+      "T1566",
+      "T1567.002",
+      "T1572",
+      "T1573",
+      "T1622"
+    ]
+  },
+  "order": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "coralraider",
   "name": "CoralRaider",
-  "uuid": "20927a3f-d011-4e22-8268-0938d6816a13",
+  "uuid": null,
   "description": "CoralRaider is a financially motivated threat actor of Vietnamese origin, targeting victims in Asian and Southeast Asian countries since at least 2023. They use the RotBot loader family and XClient stealer to steal victim information, with hardcoded Vietnamese words in their payloads. CoralRaider operates from Hanoi, Vietnam, and uses a Telegram bot as a C2 channel for their malicious campaigns. Their activities include system reconnaissance, data exfiltration, and targeting victims in multiple countries in the region.",
   "aliases": [],
   "refs": [
@@ -11,13 +11,18 @@
   "countries": [
     "VN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "VN",
-    "refs": [
-      "https://blog.talosintelligence.com/coralraider-targets-socialmedia-accounts/"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 656
+  "order": 0
 }

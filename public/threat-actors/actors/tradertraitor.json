@@ -1,7 +1,7 @@
 {
   "slug": "tradertraitor",
   "name": "TraderTraitor",
-  "uuid": "825abfd9-7238-4438-a9e7-c08791f4df4e",
+  "uuid": null,
   "description": "TraderTraitor targets blockchain companies through spear-phishing messages. The group sends these messages to employees, particularly those in system administration or software development roles, on various communication platforms, intended to gain access to these start-up and high-tech companies. TraderTraitor may be the work of operators previously responsible for APT38 activity.",
   "aliases": [
     "Jade Sleet",
@@ -18,21 +18,18 @@
   "countries": [
     "KP"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "KP",
-    "refs": [
-      "https://www.mandiant.com/resources/blog/north-korea-supply-chain",
-      "https://us-cert.cisa.gov/ncas/alerts/aa22-108a",
-      "https://www.mandiant.com/resources/blog/north-korea-cyber-structure-alignment-2023",
-      "https://cloud.google.com/blog/topics/threat-intelligence/cyber-threats-targeting-brazil"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "synonyms": [
-      "Jade Sleet",
-      "UNC4899",
-      "Pukchong"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 479
+  "order": 0
 }

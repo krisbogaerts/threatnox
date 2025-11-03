@@ -1,0 +1,27 @@
+{
+  "slug": "gafgyt-operator",
+  "name": "Gafgyt operator",
+  "uuid": null,
+  "description": "GAFGYT, also known as BASHLITE, is a Linux-based IoT botnet first discovered in 2014. It primarily targets vulnerable IoT devices to launch large-scale distributed denial-of-service (DDoS) attacks. Early versions of GAFGYT exploited the Shellshock vulnerability (CVE-2014-7169) for initial access, along with router-specific flaws like CVE-2017-17215 (Huawei), CVE-2017-18368 (ZYXEL), and CVE-2014-8361 (Realtek). Compromised devices receive backdoor commands from a command-and-control (C&amp;C) server and can download additional payloads.",
+  "aliases": [],
+  "refs": [
+    "https://www.aquasec.com/blog/gafgyt-malware-variant-exploits-gpu-power-and-cloud-native-environments/",
+    "https://www.trendmicro.com/en_us/research/24/l/gafgyt-malware-targeting-docker-remote-api-servers.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

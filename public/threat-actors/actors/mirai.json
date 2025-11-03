@@ -1,0 +1,26 @@
+{
+  "slug": "mirai",
+  "name": "Mirai",
+  "uuid": null,
+  "description": "Cloud Threat Landscape 🪞 Mirai Tags Attribution 💰Cybercrime Incidents Mirai Botnet Exploiting Apache OFBiz Vulnerability Last edited Aug 28, 2024 6:36 AM Status Stub Cloud-fluent Made with 💙 by Wiz",
+  "aliases": [],
+  "refs": [
+    "https://isc.sans.edu/diary/Increased%20Activity%20Against%20Apache%20OFBiz%20CVE-2024-32113/31132"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

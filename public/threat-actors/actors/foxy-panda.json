@@ -1,7 +1,7 @@
 {
   "slug": "foxy-panda",
   "name": "FOXY PANDA",
-  "uuid": "41c15f08-a646-49f7-a644-1bebbf7a4dcd",
+  "uuid": null,
   "description": "Adversary group targeting telecommunication and technology organizations.",
   "aliases": [],
   "refs": [
@@ -11,18 +11,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "CN",
-    "refs": [
-      "https://www.sans.org/cyber-security-summit/archives/file/summit-archive-1492182276.pdf"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "targeted-sector": [
-      "Technology",
-      "Telecoms"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 4
+  "order": 0
 }

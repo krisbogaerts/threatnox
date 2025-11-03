@@ -1,27 +1,34 @@
 {
   "slug": "handala",
   "name": "Handala",
-  "uuid": "7b14f285-86e9-47da-be1a-16ce566c428b",
+  "uuid": null,
   "description": "Handala is a pro-Palestinian hacktivist group that targets Israeli organizations, employing tactics such as phishing, data theft, extortion, and destructive attacks using custom wiper malware. The group utilizes a multi-stage loading process, including a Delphi-coded second-stage loader and an AutoIT injector, to deliver wiper malware that specifically targets Windows and Linux environments. Their phishing campaigns often exploit major events and critical vulnerabilities, masquerading as legitimate organizations to gain initial access. Handala operates a data leak site to publicize stolen data, although claims of successful attacks are sometimes disputed by targeted organizations.",
   "aliases": [],
   "refs": [
     "https://www.splunk.com/en_us/blog/security/handalas-wiper-threat-analysis-and-detections.html",
     "https://www.trellix.com/blogs/research/handalas-wiper-targets-israel/",
-    "https://intezer.com/blog/research/stealth-wiper-israeli-infrastructure/"
+    "https://intezer.com/blog/research/stealth-wiper-israeli-infrastructure/",
+    "https://handala.to/",
+    "https://handala-hack.to/",
+    "http://vmjfieomxhnfjba57sd6jjws2ogvowjgxhhfglsikqvvrnrajbmpxqqd.onion/"
   ],
   "country": "PS",
   "countries": [
     "PS"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "PS",
-    "refs": [
-      "https://www.splunk.com/en_us/blog/security/handalas-wiper-threat-analysis-and-detections.html",
-      "https://www.trellix.com/blogs/research/handalas-wiper-targets-israel/",
-      "https://intezer.com/blog/research/stealth-wiper-israeli-infrastructure/"
-    ]
+    "sources": [
+      "MISP:threat-actor",
+      "RWLive"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 742
+  "order": 0
 }

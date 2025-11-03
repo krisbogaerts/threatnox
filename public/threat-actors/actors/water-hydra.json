@@ -1,0 +1,28 @@
+{
+  "slug": "water-hydra",
+  "name": "Water Hydra",
+  "uuid": null,
+  "description": "Water Hydra is an advanced persistent threat (APT) group that emerged in 2021, initially targeting the financial sector, including banks, cryptocurrency platforms, forex and stock trading platforms, gambling sites, and casinos worldwide. Initially misattributed to the Evilnum group due to similar tactics, Water Hydra has since been recognized as a distinct entity. Notably, the group has demonstrated a high level of technical sophistication, employing undisclosed zero-day vulnerabilities in their attacks. In a 2023 campaign, they exploited the CVE-2023-38831 vulnerability in WinRAR to target stock traders, demonstrating their capability to use advanced techniques. Water Hydra&#x27;s activities also included the use of the DarkMe VisualBasic remote access tool (RAT) as part of the DarkCasino campaign, which targeted European traders and gambling platforms.",
+  "aliases": [
+    "DarkCasino"
+  ],
+  "refs": [
+    "https://www.trendmicro.com/en_us/research/24/b/cve202421412-water-hydra-targets-traders-with-windows-defender-s.html"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

@@ -1,7 +1,7 @@
 {
   "slug": "antlion",
   "name": "Antlion",
-  "uuid": "8482f350-867c-11ec-a8a3-0242ac120002",
+  "uuid": null,
   "description": "Antlion is a Chinese state-backed advanced persistent threat (APT) group, who has been targeting financial institutions in Taiwan. This persistent campaign has lasted over the course of at least 18 months.",
   "aliases": [],
   "refs": [
@@ -11,21 +11,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Financial"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "Taiwan"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Financial"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "country": "CN",
-    "refs": [
-      "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/china-apt-antlion-taiwan-financial-attacks"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 341
+  "order": 0
 }

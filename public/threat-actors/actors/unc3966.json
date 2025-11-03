@@ -1,0 +1,27 @@
+{
+  "slug": "unc3966",
+  "name": "UNC3966",
+  "uuid": null,
+  "description": "UNC3966 is a threat actor group tracked by Mandiant. In an intrusion documented in March 2023, UNC3966 received access to a victim network initially compromised by the group UNC961. UNC3966 primary motivations remain unclear. During the intrusion, the group was observed collecting and exfiltrating victim data. While a ransom note was also discovered, UNC3966 did not appear to deploy ransomware encryption software and did not appear to demand a ransom payment.<sup>[[Mandiant UNC961 March 23 2023](/references/cef19ceb-179f-4d49-acba-5ce40ab9f65e)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3027"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3027"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

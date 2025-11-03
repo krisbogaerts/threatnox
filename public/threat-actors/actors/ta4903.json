@@ -1,19 +1,26 @@
 {
   "slug": "ta4903",
   "name": "TA4903",
-  "uuid": "1725e1c3-9870-4f66-8962-753c4ed3e086",
+  "uuid": null,
   "description": "TA4903 is a financially motivated threat actor known for conducting credential phishing and business email compromise campaigns. They target organizations in the U.S. across various sectors, spoofing government entities and private businesses. The actor has been observed using techniques such as QR codes in phishing campaigns and spoofing supplier domains to prompt victims to provide banking information. TA4903's activities typically involve stealing corporate credentials to facilitate follow-on BEC activities.",
   "aliases": [],
   "refs": [
     "https://www.proofpoint.com/us/blog/threat-insight/ta4903-actor-spoofs-us-government-small-businesses-phishing-bec-bids"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://www.proofpoint.com/us/blog/threat-insight/ta4903-actor-spoofs-us-government-small-businesses-phishing-bec-bids"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 716
+  "order": 0
 }

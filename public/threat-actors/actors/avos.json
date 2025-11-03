@@ -1,0 +1,28 @@
+{
+  "slug": "avos",
+  "name": "avos",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://blog.talosintelligence.com/avoslocker-new-arsenal/",
+    "https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html",
+    "https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-avoslocker",
+    "https://www.ic3.gov/Media/News/2022/220318.pdf",
+    "http://avos2fuj6olp6x36.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

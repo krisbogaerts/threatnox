@@ -1,0 +1,27 @@
+{
+  "slug": "plump-spider",
+  "name": "PLUMP SPIDER",
+  "uuid": null,
+  "description": "A cybercriminal actor that uses voice phishing to gain access to compromise environments and initiate fraudulent transactions from victim payment systems.<sup>[[CrowdStrike 2025 Global Threat Report](/references/a69b0ce3-f314-4b32-bfb3-b1380c4f0ec4)]</sup>",
+  "aliases": [],
+  "refs": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "MISP:tidal",
+      "MITRE:G3083"
+    ],
+    "description_sources": [
+      "MISP:tidal"
+    ],
+    "external_ids": {
+      "mitre": "G3083"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

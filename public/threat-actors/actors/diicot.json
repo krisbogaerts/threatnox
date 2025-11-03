@@ -1,0 +1,26 @@
+{
+  "slug": "diicot",
+  "name": "Diicot",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "https://www.akamai.com/blog/security-research/mexals-cryptojacking-malware-resurgence",
+    "https://www.cadosecurity.com/blog/tracking-diicot-an-emerging-romanian-threat-actor",
+    "https://www.wiz.io/blog/diicot-threat-group-malware-campaign"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

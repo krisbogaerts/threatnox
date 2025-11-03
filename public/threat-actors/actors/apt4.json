@@ -1,7 +1,7 @@
 {
   "slug": "apt4",
   "name": "APT4",
-  "uuid": "8e28dbee-4e9e-4491-9a6c-ee9c9ec4b28b",
+  "uuid": null,
   "description": "",
   "aliases": [
     "PLA Navy",
@@ -22,40 +22,16 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Private sector",
-    "Military"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "United States",
-      "United Kingdom",
-      "Hong Kong"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Private sector",
-      "Military"
-    ],
-    "cfr-type-of-incident": "Espionage",
-    "country": "CN",
-    "refs": [
-      "https://www.alienvault.com/open-threat-exchange/blog/new-sykipot-developments",
-      "http://blog.trendmicro.com/trendlabs-security-intelligence/sykipot-now-targeting-us-civil-aviation-sector-information/",
-      "https://www.sans.org/reading-room/whitepapers/malicious/detailed-analysis-sykipot-smartcard-proxy-variant-33919",
-      "https://www.cfr.org/interactive/cyber-operations/sykipot",
-      "https://www.secureworks.com/research/threat-profiles/bronze-edison",
-      "https://www.mandiant.com/resources/insights/apt-groups"
-    ],
-    "synonyms": [
-      "PLA Navy",
-      "MAVERICK PANDA",
-      "BRONZE EDISON",
-      "SODIUM",
-      "Salmon Typhoon"
-    ]
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 135
+  "order": 0
 }

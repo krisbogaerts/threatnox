@@ -1,7 +1,7 @@
 {
   "slug": "greenbug",
   "name": "Greenbug",
-  "uuid": "47204403-34c9-4d25-a006-296a0939d1a2",
+  "uuid": null,
   "description": "Greenbug was discovered targeting a range of organizations in the Middle East including companies in the aviation, energy, government, investment, and education sectors.",
   "aliases": [],
   "refs": [
@@ -14,24 +14,18 @@
   "countries": [
     "IR"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "country": "IR",
-    "refs": [
-      "https://web.archive.org/web/20190331181353/https://www.symantec.com/connect/blogs/greenbug-cyberespionage-group-targeting-middle-east-possible-links-shamoon",
-      "https://unit42.paloaltonetworks.com/unit42-oilrig-uses-ismdoor-variant-possibly-linked-greenbug-threat-group/",
-      "https://threatpost.com/shamoon-collaborator-greenbug-adopts-new-communication-tool/125383/",
-      "https://www.clearskysec.com/greenbug/"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "targeted-sector": [
-      "Education",
-      "Energy",
-      "Investment",
-      "Aerospace",
-      "Government, Administration"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 101
+  "order": 0
 }

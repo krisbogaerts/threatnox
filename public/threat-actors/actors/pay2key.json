@@ -1,0 +1,27 @@
+{
+  "slug": "pay2key",
+  "name": "pay2key",
+  "uuid": null,
+  "description": "Pay2Key is ransomware that has been used by the threat actor Fox Kitten. The group seems to operate since July 2020, targetting mainly Israeli companies. Pay2Key has a darknet leak site to public stolen and sensitive information of their victims. Some of their victims: Intel - Habana Labs, IAI - Israel Aerospace Industries, Portnox - Network Security Solutions.\n",
+  "aliases": [],
+  "refs": [
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a",
+    "http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

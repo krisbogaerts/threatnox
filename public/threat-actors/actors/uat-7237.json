@@ -1,0 +1,26 @@
+{
+  "slug": "uat-7237",
+  "name": "UAT-7237",
+  "uuid": null,
+  "description": "Chinese-speaking advanced persistent threat (APT) group active since at least 2022, which has significant overlaps with UAT-5918.",
+  "aliases": [],
+  "refs": [
+    "https://blog.talosintelligence.com/uat-7237-targets-web-hosting-infra/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "Wiz"
+    ],
+    "description_sources": [
+      "Wiz:site"
+    ],
+    "external_ids": null,
+    "entity_type": "threat-actor",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

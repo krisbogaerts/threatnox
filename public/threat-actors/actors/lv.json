@@ -1,0 +1,27 @@
+{
+  "slug": "lv",
+  "name": "lv",
+  "uuid": null,
+  "description": "LV ransomware group main message: \"Here are companies which didn't meet consumer data protection obligations. They rejected to fix their mistakes, they rejected to protect this data in the case when they could and had to ptotect it. These companies prefered to sell their private information, their employees' and customers' personal data\". Security researchers claim that the LV group is utilizing the REvil ransomware group malware. The LV group claim to have compromised the corporate network of Groupe Reorev.\n",
+  "aliases": [],
+  "refs": [
+    "http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion/api/posts/1",
+    "http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": [
+      "RWLive"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

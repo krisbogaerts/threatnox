@@ -1,0 +1,24 @@
+{
+  "slug": "chilelocker",
+  "name": "chilelocker",
+  "uuid": null,
+  "description": "",
+  "aliases": [],
+  "refs": [
+    "http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion/"
+  ],
+  "country": null,
+  "countries": null,
+  "sectors": null,
+  "related": [],
+  "rawMeta": {
+    "sources": [
+      "RWLive"
+    ],
+    "description_sources": null,
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
+  },
+  "order": 0
+}

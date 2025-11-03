@@ -1,7 +1,7 @@
 {
   "slug": "void-blizzard",
   "name": "Void Blizzard",
-  "uuid": "b495419f-e327-4bbe-aba5-0c281dc2605b",
+  "uuid": null,
   "description": "Void Blizzard’s cyberespionage operations tend to be highly targeted at specific organizations of interest to the Russian government, including in government, defense, transportation, media, non-governmental organizations (NGOs), and healthcare sectors primarily in Europe and North America. The threat actor uses stolen credentials—which are likely procured from commodity infostealer ecosystems—and collects a high volume of email and files from compromised organizations.",
   "aliases": [
     "LAUNDRY BEAR"
@@ -14,17 +14,22 @@
   "countries": [
     "RU"
   ],
-  "sectors": [],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "country": "RU",
-    "refs": [
-      "https://www.microsoft.com/en-us/security/blog/2025/05/27/new-russia-affiliated-actor-void-blizzard-targets-critical-sectors-for-espionage/",
-      "https://www.aivd.nl/actueel/nieuws/2025/05/27/onbekende-russische-groep-achter-hacks-nederlandse-doelen"
+    "sources": [
+      "MISP:threat-actor",
+      "MISP:tidal",
+      "MITRE:G3104"
     ],
-    "synonyms": [
-      "LAUNDRY BEAR"
-    ]
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": {
+      "mitre": "G3104"
+    },
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 855
+  "order": 0
 }

@@ -1,21 +1,27 @@
 {
   "slug": "overflame",
   "name": "OverFlame",
-  "uuid": "8bd29f1a-ea33-49c2-a783-42cd2a193f83",
+  "uuid": null,
   "description": "OverFlame is a hacktivist group known for executing DDoS attacks and website defacements, primarily targeting government institutions and corporations in Europe and North America. The group has been involved in coordinated attacks alongside other pro-Russian threat actors, such as NoName057and the People’s Cyber Army, often motivated by anti-government and anti-corporate sentiments. OverFlame operates through underground forums and encrypted messaging platforms to coordinate attacks and recruit members. Their activities have included targeting financial services, political parties, and educational institutions, demonstrating a focus on disrupting critical infrastructure.",
   "aliases": [],
   "refs": [
     "https://socradar.io/biggest-education-industry-attacks-in-2024/",
     "https://www.scworld.com/brief/austria-subjected-to-pro-russian-ddos-intrusions"
   ],
-  "countries": [],
-  "sectors": [],
+  "country": null,
+  "countries": null,
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "refs": [
-      "https://socradar.io/biggest-education-industry-attacks-in-2024/",
-      "https://www.scworld.com/brief/austria-subjected-to-pro-russian-ddos-intrusions"
-    ]
+    "sources": [
+      "MISP:threat-actor"
+    ],
+    "description_sources": [
+      "MISP:threat-actor"
+    ],
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 756
+  "order": 0
 }

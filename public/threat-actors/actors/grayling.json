@@ -1,7 +1,7 @@
 {
   "slug": "grayling",
   "name": "Grayling",
-  "uuid": "6714de29-4dd8-463c-99a3-77c9e80fa47d",
+  "uuid": null,
   "description": "Grayling activity was first observed in early 2023, when a number of victims were identified with distinctive malicious DLL side-loading activity. Grayling appears to target organisations in Asia, however one unknown organisation in the United States was also targeted. Industries targeted include Biomedical, Government and Information Technology. Grayling use a variety of tools during their attacks, including well known tools such as Cobalt Strike and Havoc and also some others.",
   "aliases": [],
   "refs": [
@@ -11,30 +11,18 @@
   "countries": [
     "CN"
   ],
-  "sectors": [
-    "Biomedical",
-    "Government",
-    "Information technology"
-  ],
+  "sectors": null,
   "related": [],
   "rawMeta": {
-    "attribution-confidence": "50",
-    "cfr-suspected-state-sponsor": "China",
-    "cfr-suspected-victims": [
-      "Taiwan",
-      "United States",
-      "Vietnam",
-      "Solomon Islands"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Biomedical",
-      "Government",
-      "Information technology"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "country": "CN",
-    "refs": [
-      "https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/grayling-taiwan-cyber-attacks"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 10
+  "order": 0
 }
