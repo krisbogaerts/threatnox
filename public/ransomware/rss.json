@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-03T19:09:10.099Z",
+  "updatedAt": "2025-11-03T20:13:15.235Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Irwin Car",
+      "link": "https://www.ransomware.live/id/SXJ3aW4gQ2FyQHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Mon, 03 Nov 2025 19:22:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?a059b9877b15e433589fc21ee90301fd",
+      "group": "Play",
+      "victim": "Irwin Car",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Bishop Ireton High School",
       "link": "https://www.ransomware.live/id/QmlzaG9wIElyZXRvbiBIaWdoIFNjaG9vbEBpbnRlcmxvY2s=",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "DAVIDYURMAN.COM",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : PANAMERICANSILVER.COM",
-      "link": "https://www.ransomware.live/id/UEFOQU1FUklDQU5TSUxWRVIuQ09NQGNsb3A=",
-      "summary": "[AI generated] Pan American Silver Corp. is a Canada-based mining company engaged in the production and sale of silver, gold, zinc, lead, and copper. It owns and operates mines in Mexico, Peru, Canada, Argentina, and Bolivia, among others. The company focuses on developing its mining operations, implementing effective technologies, and promoting responsible mining practices.",
-      "pubDate": "Mon, 27 Oct 2025 11:30:10 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/clop?d0e6ce2a5af808c228d4dd3c57727d29",
-      "group": "Clop",
-      "victim": "PANAMERICANSILVER.COM",
-      "country": "CA"
     }
   ]
 }
