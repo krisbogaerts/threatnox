@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-02T23:10:11.556Z",
+  "updatedAt": "2025-11-03T00:56:36.635Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : CEVA LOGISTICS - THIS DATABASE IS FOR SALE",
+      "link": "https://www.ransomware.live/id/Q0VWQSBMT0dJU1RJQ1MgLSBUSElTIERBVEFCQVNFIElTIEZPUiBTQUxFQGNvaW5iYXNlY2FydGVs",
+      "summary": "CEVA Logistics is a global asset-light supply chain management company. It designs and implements freight forwarding, contract logistics, transport...",
+      "pubDate": "Sun, 02 Nov 2025 23:47:44 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?e9bc4eec856a8c1e51221470017b769e",
+      "group": "Coinbasecartel",
+      "victim": "CEVA LOGISTICS - THIS DATABASE IS FOR SALE",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Mayco International [www.maycointernational.com]",
+      "link": "https://www.ransomware.live/id/TWF5Y28gSW50ZXJuYXRpb25hbCBbd3d3Lm1heWNvaW50ZXJuYXRpb25hbC5jb21dQGFudWJpcw==",
+      "summary": "Data breach at automotive industry leader.",
+      "pubDate": "Sun, 02 Nov 2025 23:45:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?f09d989c98a27634422c4312ed6a2450",
+      "group": "Anubis",
+      "victim": "Mayco International [www.maycointernational.com]",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : Castilla",
       "link": "https://www.ransomware.live/id/Q2FzdGlsbGFAbm92YQ==",
@@ -2179,28 +2201,6 @@
       "group": "Incransom",
       "victim": "partitio.com",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Limocar by Transdev.ca",
-      "link": "https://www.ransomware.live/id/TGltb2NhciBieSBUcmFuc2Rldi5jYUBjb2luYmFzZWNhcnRlbA==",
-      "summary": "Limocar, operated by Transdev Canada, is an intercity bus service offering reliable and efficient transportation between Sherbrooke, Bromont, and M...",
-      "pubDate": "Sun, 26 Oct 2025 21:39:36 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?c091cb200745b53adf19cd7c89dd58c6",
-      "group": "Coinbasecartel",
-      "victim": "Limocar by Transdev.ca",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : LaBonne",
-      "link": "https://www.ransomware.live/id/TGFCb25uZUBwbGF5",
-      "summary": "United States",
-      "pubDate": "Sun, 26 Oct 2025 19:49:02 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?00b37b39d52ce4299d9d26710867518d",
-      "group": "Play",
-      "victim": "LaBonne",
-      "country": ""
     }
   ]
 }
