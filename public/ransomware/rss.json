@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-04T08:16:31.342Z",
+  "updatedAt": "2025-11-04T09:14:01.839Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Invacare",
+      "link": "https://www.ransomware.live/id/SW52YWNhcmVAcmh5c2lkYQ==",
+      "summary": "Invacare Invacare, founded in 1885 and headquartered out of Elyria, Ohio, is a manufacturer and distributor of home and long term care medical products.    More",
+      "pubDate": "Tue, 04 Nov 2025 08:43:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?099f3c4c92ce728100219085ac062d23",
+      "group": "Rhysida",
+      "victim": "Invacare",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : DOVERN Import",
       "link": "https://www.ransomware.live/id/RE9WRVJOIEltcG9ydEBzcGFjZWJlYXJz",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Dental Society of La Plata",
       "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Marmotech",
-      "link": "https://www.ransomware.live/id/TWFybW90ZWNoQGRyYWdvbmZvcmNl",
-      "summary": "It owns and manages eight quarries that include marble, travertine, limestone and coralline stones that are processed with state-of-the-art European technology. Consequently precision of designs and cut is ensured by employing the use of machinery operated with CAD/CAM technology for the manufacturing of all products. In performing both extraction and processing tasks, our corporation is committed to the development of a sustainable mining industry that is based on environmental protection policies that have deserved the acknowledgement of our clients. Marmotech exports its products to America, Europe and the Middle East: namely United Kingdom, Italy, Spain, Israel, Brazil, Argentina, Venezuela, Canada, and United States as well as to nearly the entire Caribbean region.",
-      "pubDate": "Mon, 27 Oct 2025 11:53:47 +0000",
-      "category": "DO",
-      "guid": "https://www.ransomware.live/group/dragonforce?5746d0d50d46413e6d9c2af55e14ace7",
-      "group": "Dragonforce",
-      "victim": "Marmotech",
-      "country": "DO"
     }
   ]
 }
