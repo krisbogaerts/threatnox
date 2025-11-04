@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-04T05:12:20.887Z",
+  "updatedAt": "2025-11-04T06:18:14.284Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : DOVERN Import",
+      "link": "https://www.ransomware.live/id/RE9WRVJOIEltcG9ydEBzcGFjZWJlYXJz",
+      "summary": "At DOVERN Import, we are passionate about the art of rare wines and champagnes. Since 2001, we have had the honor of selecting and importing wines and champagnes to Morocco, primarily from the prestigious terroirs of France. Our mission is to showcase unique and often overlooked wineries, while adhering to strict quality standards.We have created an exclusive selection for wine and champagne enthusiasts in Morocco, sourced from the finest wine regions such as the Rhône Valley, Champagne, Burgundy, and Bordeaux. Our commitment to our clients and restaurateurs is reflected in our personalized service, offering them exclusive access to our flagship products.Based in Casablanca, DOVERN Import is the go-to source for those seeking wines and champagnes in Morocco, offering unique and personalized tastings. Our philosophy is founded on authenticity, excellence, and a love of wine.Personal information of employees and clientsFinancial documents https://dovern-import.com/",
+      "pubDate": "Tue, 04 Nov 2025 05:57:04 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/spacebears?aba93dc23ab2f3335553fb9a60008f89",
+      "group": "Spacebears",
+      "victim": "DOVERN Import",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : Rios Espinosa",
       "link": "https://www.ransomware.live/id/UmlvcyBFc3Bpbm9zYUBzcGFjZWJlYXJz",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Marmotech",
       "country": "DO"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Egaraset",
-      "link": "https://www.ransomware.live/id/RWdhcmFzZXRAZHJhZ29uZm9yY2U=",
-      "summary": "Egaraset specializes in providing adaptable and flexible IT solutions tailored for small and medium enterprises (SMEs) and religious congregations. With over 20 years of experience, they offer services including ERP, financial management, and customer relationship management to improve efficiency for over 400 companies and 1,000 communities worldwide. Their team of IT professionals ensures close and efficient service to clients, understanding their specific needs. The company is committed to evolving its solutions according to the changing environments of its clients",
-      "pubDate": "Mon, 27 Oct 2025 11:52:40 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?5e547f6f546627b9766d70d41cea388c",
-      "group": "Dragonforce",
-      "victim": "Egaraset",
-      "country": ""
     }
   ]
 }
