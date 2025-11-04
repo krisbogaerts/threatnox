@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-04T19:09:30.242Z",
+  "updatedAt": "2025-11-04T20:13:13.215Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : thevisapro.com (Yibirin Law Group)",
+      "link": "https://www.ransomware.live/id/dGhldmlzYXByby5jb20gKFlpYmlyaW4gTGF3IEdyb3VwKUBpbmNyYW5zb20=",
+      "summary": "all client cases, personal data",
+      "pubDate": "Tue, 04 Nov 2025 19:16:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?e39293ab560ab21ab884420c86fa535f",
+      "group": "Incransom",
+      "victim": "thevisapro.com (Yibirin Law Group)",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Property Finder / PropSpace",
+      "link": "https://www.ransomware.live/id/UHJvcGVydHkgRmluZGVyIC8gUHJvcFNwYWNlQGNvaW5iYXNlY2FydGVs",
+      "summary": "Samples on Friday/",
+      "pubDate": "Tue, 04 Nov 2025 19:13:27 +0000",
+      "category": "AE",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?01fa50d06d29684d39b66f3b13b59ecc",
+      "group": "Coinbasecartel",
+      "victim": "Property Finder / PropSpace",
+      "country": "AE"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Mango's Tropical Cafe",
       "link": "https://www.ransomware.live/id/TWFuZ28ncyBUcm9waWNhbCBDYWZlQHFpbGlu",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Izaki Group Investments",
       "country": "IL"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Maki Building Centers",
-      "link": "https://www.ransomware.live/id/TWFraSBCdWlsZGluZyBDZW50ZXJzQGludGVybG9jaw==",
-      "summary": "Maki Building Centers is a company engaged in commerce and manufacturing with three branches in central Massachusetts. The company has warehouses, manufacturing facilities, large volumes, and financial resources! Security was very low, and the entire system was successfully compromised and taken over. Company, employee, and customer data ended up in our hands and, accordingly, in the public!",
-      "pubDate": "Mon, 27 Oct 2025 15:48:11 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/interlock?91fa3ce3e95572373505f65995529e02",
-      "group": "Interlock",
-      "victim": "Maki Building Centers",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Domy",
-      "link": "https://www.ransomware.live/id/RG9teUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 27 Oct 2025 15:23:55 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?6dd89bf57cf5d502804517413cbafaf3",
-      "group": "Qilin",
-      "victim": "Domy",
-      "country": ""
     }
   ]
 }
