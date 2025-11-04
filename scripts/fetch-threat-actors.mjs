@@ -22,6 +22,27 @@ function ensureDir(dir) {
 function writeJSON(filePath, data) {
   fs.writeFileSync(filePath, JSON.stringify(data, null, 2) + '\n', 'utf8')
 }
+function isLikelyAlias(s) {
+  if (typeof s !== 'string') return false
+  const v = s.trim()
+  if (!v) return false
+  if (v.length > 80) return false
+  if (/^https?:\/\//i.test(v)) return false
+  if (/[{}\[\]<>]/.test(v)) return false
+  if (/[\\]/.test(v)) return false
+  if (/[`"']/.test(v)) return false
+  if (/__next|script|<\/|\n|\r|\t/i.test(v)) return false
+  // require at least one letter (latin or extended)
+  if (!/[A-Za-z\u00C0-\u024F]/.test(v)) return false
+  return true
+}
+function sanitizeAliases(arr) {
+  const out = []
+  for (const x of arr || []) {
+    if (isLikelyAlias(x)) out.push(x.trim())
+  }
+  return Array.from(new Set(out))
+}
 function toSlug(actor, slugger) {
   if (typeof actor?.id === 'string' && actor.id.startsWith('ta:')) {
     return actor.id.slice(3)
@@ -67,7 +88,7 @@ function main() {
       : Array.isArray(countriesVictim) && countriesVictim.length
         ? countriesVictim
         : null
-    const aliases = unique(a?.aliases || [])
+    const aliases = sanitizeAliases(a?.aliases || [])
     const ttpIds = unique((a?.ttp_mappings || []).map((t) => t?.technique))
     const out = {
       // match current schema under public/threat-actors/actors/*.json
@@ -80,6 +101,8 @@ function main() {
       country,
       countries,
       sectors,
+      first_seen: a?.first_seen ?? null,
+      last_seen: a?.last_seen ?? null,
       related: [], // keep empty; can be populated later if needed
       rawMeta: {
         sources: a?.sources || [],
@@ -104,6 +127,7 @@ function main() {
     name: a.name,
     aliases: a.aliases,
     country: a.country,
+    last_seen: a.last_seen || null,
     description: (a.description || '').slice(0, 400),
   }))
   writeJSON(path.join(outDir, 'search-data.json'), searchData)

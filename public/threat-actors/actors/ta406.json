@@ -1,7 +1,7 @@
 {
   "slug": "ta406",
   "name": "TA406",
-  "uuid": "89f005f9-22e9-4c50-9b48-e94c521266e5",
+  "uuid": null,
   "description": "TA406 is engaging in malware distribution, phishing, intelligence collection, and cryptocurrency theft, resulting in a wide range of criminal activities.",
   "aliases": [],
   "refs": [
@@ -12,35 +12,20 @@
   "countries": [
     "KP"
   ],
-  "sectors": [
-    "Government",
-    "Journalists",
-    "NGOs"
-  ],
+  "sectors": null,
+  "first_seen": null,
+  "last_seen": null,
   "related": [],
   "rawMeta": {
-    "cfr-suspected-victims": [
-      "China",
-      "France",
-      "Germany",
-      "India",
-      "Japan",
-      "North America",
-      "Russia",
-      "South Africa",
-      "South Korea",
-      "United Kingdom"
+    "sources": [
+      "MISP:threat-actor"
     ],
-    "cfr-target-category": [
-      "Government",
-      "Journalists",
-      "NGOs"
+    "description_sources": [
+      "MISP:threat-actor"
     ],
-    "country": "KP",
-    "refs": [
-      "https://www.proofpoint.com/us/blog/threat-insight/triple-threat-north-korea-aligned-ta406-scams-spies-and-steals",
-      "https://www.proofpoint.com/us/blog/threat-insight/ta406-pivots-front"
-    ]
+    "external_ids": null,
+    "entity_type": "intrusion-set",
+    "ttp_mappings": []
   },
-  "order": 410
+  "order": 0
 }

@@ -22,6 +22,8 @@
     "IN"
   ],
   "sectors": null,
+  "first_seen": null,
+  "last_seen": null,
   "related": [],
   "rawMeta": {
     "sources": [

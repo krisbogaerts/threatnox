@@ -4,8 +4,7 @@
   "uuid": null,
   "description": "[Gelsemium](https://attack.mitre.org/groups/G0141) is a cyberespionage group that has been active since at least 2014, targeting governmental institutions, electronics manufacturers, universities, and religious organizations in East Asia and the Middle East.(Citation: ESET Gelsemium June 2021)",
   "aliases": [
-    "Gelsemium",
-    "狼毒草"
+    "Gelsemium"
   ],
   "refs": [
     "https://attack.mitre.org/groups/G0141",
@@ -29,6 +28,8 @@
     "Education",
     "Gelsemium elegans"
   ],
+  "first_seen": null,
+  "last_seen": null,
   "related": [],
   "rawMeta": {
     "sources": [

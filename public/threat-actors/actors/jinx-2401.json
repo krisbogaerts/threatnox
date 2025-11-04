@@ -17,6 +17,8 @@
     "PutUseCaseForModelAccess",
     "CreateFoundationModelAgreement"
   ],
+  "first_seen": null,
+  "last_seen": null,
   "related": [],
   "rawMeta": {
     "sources": [
