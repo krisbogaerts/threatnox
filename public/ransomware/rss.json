@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-04T16:15:15.149Z",
+  "updatedAt": "2025-11-04T17:09:36.874Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : MS Metal Solutions",
+      "link": "https://www.ransomware.live/id/TVMgTWV0YWwgU29sdXRpb25zQGFraXJh",
+      "summary": "MS Metal Solutions offers a wide range of manufacturing capabilit ies including cutting, welding, and powder coating to cater to di verse industries such as automotive, agriculture, and office furn iture.  We will upload corporate documents soon. Complete information abo ut employees (w-9 forms containing DOB, SSN, DL, passport, addres s, email, phone   personal docs scans, credit card details), HR f iles, financials, internal confidential files, NDA, confidentiali ty agreements, etc.",
+      "pubDate": "Tue, 04 Nov 2025 16:10:06 +0000",
+      "category": "DK",
+      "guid": "https://www.ransomware.live/group/akira?ab0dc627f949106b9bb0db9b0531e8db",
+      "group": "Akira",
+      "victim": "MS Metal Solutions",
+      "country": "DK"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Elliott Tax Service",
       "link": "https://www.ransomware.live/id/RWxsaW90dCBUYXggU2VydmljZUBha2lyYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "SK group, Za Za Bazaar, TH UK & Ireland Ltd and a few more.",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : MotorsportMarkt.de",
-      "link": "https://www.ransomware.live/id/TW90b3JzcG9ydE1hcmt0LmRlQGV2ZXJlc3Q=",
-      "summary": "[AI generated] \"MotorsportMarkt.de\" is a German company that operates an online portal specializing in the market for motorsports. It provides a marketplace for buying and selling of motorsport vehicles, parts, equipment, and accessories. Additionally, it offers listings for motorsport-related jobs, properties and services. The platform corresponds to a broad range of motorsport disciplines including cars, motorcycles, karts, and offroad vehicles.",
-      "pubDate": "Mon, 27 Oct 2025 14:10:02 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/everest?d0f323cbeacea68c9a93cb70e513e98d",
-      "group": "Everest",
-      "victim": "MotorsportMarkt.de",
-      "country": "DE"
     }
   ]
 }
