@@ -28,7 +28,8 @@ function isLikelyAlias(s) {
   if (!v) return false
   if (v.length > 80) return false
   if (/^https?:\/\//i.test(v)) return false
-  if (/[{}\[\]<>]/.test(v)) return false
+  // Avoid escaping '[' and ']' in a character class to satisfy no-useless-escape
+  if (/[{}<>]/.test(v) || v.includes('[') || v.includes(']')) return false
   if (/[\\]/.test(v)) return false
   if (/[`"']/.test(v)) return false
   if (/__next|script|<\/|\n|\r|\t/i.test(v)) return false
