@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-04T12:23:49.098Z",
+  "updatedAt": "2025-11-04T13:28:22.862Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : General Micro Systems",
+      "link": "https://www.ransomware.live/id/R2VuZXJhbCBNaWNybyBTeXN0ZW1zQGFraXJh",
+      "summary": "General Micro Systems (GMS) is the rugged server company. The com pany is known as the industry expert in highest-density, modular, compute-intensive, and rugged small form-factor embedded computi ng systems, servers, and switches. We will upload corporate documents soon. Detailed project informa tion, a bit of client information, financials, confidential milit ary information, NDA, the most interesting thing here is confiden tial files of Intel corporation concerning Thunderbolt. And they  don&#x27;t care about such data leaked. We&#x27;ll upload the files soon.",
+      "pubDate": "Tue, 04 Nov 2025 12:11:49 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?3d415fd1540b720d2dd14aab1f19c14b",
+      "group": "Akira",
+      "victim": "General Micro Systems",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Invacare",
       "link": "https://www.ransomware.live/id/SW52YWNhcmVAcmh5c2lkYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "gardiners solicitors",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Dental Society of La Plata",
-      "link": "https://www.ransomware.live/id/RGVudGFsIFNvY2lldHkgb2YgTGEgUGxhdGFAZHJhZ29uZm9yY2U=",
-      "summary": "The Sociedad Odontológica de La Plata (SOLP) is an organization focused on the promotion and advancement of dentistry through education, research, and community services. They offer various online services, educational courses, and access to a library with resources for dental professionals. The intended clients include dentists and dental practitioners in the La Plata area looking for support, resources, and continuing education. SOLP also engages with the community through updates and announcements on social media platforms.",
-      "pubDate": "Mon, 27 Oct 2025 11:54:52 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/dragonforce?f40fd7f012e17407cec4222ca53b8efb",
-      "group": "Dragonforce",
-      "victim": "Dental Society of La Plata",
-      "country": "AR"
     }
   ]
 }
