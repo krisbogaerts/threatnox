@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-04T14:12:16.250Z",
+  "updatedAt": "2025-11-04T15:12:47.862Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : St Stephen's International",
+      "link": "https://www.ransomware.live/id/U3QgU3RlcGhlbidzIEludGVybmF0aW9uYWxAdGhlZ2VudGxlbWVu",
+      "summary": "www.sis.edu https://www.zoominfo.com/c/st-stephens-international-school/1293733677 St Stephen&#x27;s International School offers educational programs at its Bangkok and Khao Yai campuses, catering to a diverse student population. The school provides weekend schooling and various camps for groups, aiming to enhance the educational experience. It is associated with several organizations including Ocean Glass, Ocean Property, and Bandara Group. The institution focuses on fostering an international learning environment for its students.",
+      "pubDate": "Tue, 04 Nov 2025 14:55:32 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/thegentlemen?cfa13068a3f22a7a617a75dd7fdd46c2",
+      "group": "Thegentlemen",
+      "victim": "St Stephen's International",
+      "country": "TH"
+    },
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Automated Logistics Systems",
+      "link": "https://www.ransomware.live/id/QXV0b21hdGVkIExvZ2lzdGljcyBTeXN0ZW1zQHJoeXNpZGE=",
+      "summary": "Automated Logistics Systems",
+      "pubDate": "Tue, 04 Nov 2025 14:51:58 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/rhysida?171b26d2401290180f3378625305c2f7",
+      "group": "Rhysida",
+      "victim": "Automated Logistics Systems",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Benda Grace Stulz",
+      "link": "https://www.ransomware.live/id/QmVuZGEgR3JhY2UgU3R1bHpAYWtpcmE=",
+      "summary": "You Are Number One at Benda, Grace, Stulz &amp; Co. operates in the C ertified Public Accountant business/industry within the Engineeri ng, Accounting, Research, and Management Services sector. Their m ost valuable assets - our clients. And this company is ready to s hare 90gb of their data containing the data of their clients. We  will upload corporate documents soon. Detailed client financials, a bit of employee personal information, NDA, credit card details , payment information, confidentiality agreements and so on.",
+      "pubDate": "Tue, 04 Nov 2025 14:17:06 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?9f8098c2e96c4c1434fb3353a6bf52fa",
+      "group": "Akira",
+      "victim": "Benda Grace Stulz",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Palacios Marine & Industrial",
       "link": "https://www.ransomware.live/id/UGFsYWNpb3MgTWFyaW5lICYgSW5kdXN0cmlhbEBha2lyYQ==",
@@ -2168,39 +2201,6 @@
       "group": "Everest",
       "victim": "ANIA KRUK",
       "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Abilene Family Medical Associates",
-      "link": "https://www.ransomware.live/id/QWJpbGVuZSBGYW1pbHkgTWVkaWNhbCBBc3NvY2lhdGVzQHJoeXNpZGE=",
-      "summary": "Abilene Family Medical Associates",
-      "pubDate": "Mon, 27 Oct 2025 13:12:43 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?f81f516526777d8285fdf1ddd4838c14",
-      "group": "Rhysida",
-      "victim": "Abilene Family Medical Associates",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Autorotor",
-      "link": "https://www.ransomware.live/id/QXV0b3JvdG9yQGRyYWdvbmZvcmNl",
-      "summary": "Autorotor builds custom machinery for factories and manufacturing plants. They make rotating tables, transport belts, rings, and robotic handling equipment that help companies move and position products quickly and accurately. From small workshops to big industrial facilities, Autorotor creates machines that make production lines run smoother and faster.",
-      "pubDate": "Mon, 27 Oct 2025 11:58:05 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/dragonforce?9666e5808a2a930de1d03ad2ceb68b2f",
-      "group": "Dragonforce",
-      "victim": "Autorotor",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : The Law Offices of Michael C George",
-      "link": "https://www.ransomware.live/id/VGhlIExhdyBPZmZpY2VzIG9mIE1pY2hhZWwgQyBHZW9yZ2VAZHJhZ29uZm9yY2U=",
-      "summary": "The Law Office of Michael C. George, P.A. specializes in personal injury and criminal law, providing legal representation for clients throughout Florida who have been victims of negligence. Their services include handling cases related to automobile accidents, medical malpractice, workplace injuries, and more. The firm is dedicated to offering personalized attention and expert legal guidance, ensuring clients receive the support they need during challenging times. With a history of successful settlements and a commitment to client advocacy, they strive to achieve the best possible outcomes for their clients.",
-      "pubDate": "Mon, 27 Oct 2025 11:57:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?e6b3ee6b583f744f63253848f7b49fee",
-      "group": "Dragonforce",
-      "victim": "The Law Offices of Michael C George",
-      "country": "US"
     }
   ]
 }
