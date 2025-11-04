@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-04T17:09:36.874Z",
+  "updatedAt": "2025-11-04T18:16:47.054Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Mango's Tropical Cafe",
+      "link": "https://www.ransomware.live/id/TWFuZ28ncyBUcm9waWNhbCBDYWZlQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 04 Nov 2025 17:52:54 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?d2d3681c0e224fd5d7a7e4cf527d6cca",
+      "group": "Qilin",
+      "victim": "Mango's Tropical Cafe",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Prova",
+      "link": "https://www.ransomware.live/id/UHJvdmFAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 04 Nov 2025 17:52:13 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?6aee9173391dea25b0faf0a3dde760a9",
+      "group": "Qilin",
+      "victim": "Prova",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : MS Metal Solutions",
       "link": "https://www.ransomware.live/id/TVMgTWV0YWwgU29sdXRpb25zQGFraXJh",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Domy",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Engineered Profiles",
-      "link": "https://www.ransomware.live/id/RW5naW5lZXJlZCBQcm9maWxlc0Bha2lyYQ==",
-      "summary": "Engineered Profiles specializes in high-quality plastic extrusion , design, and advanced manufacturing technologies. We are ready to upload more than 56gb of corporate documents. Emp loyee information (social security cards, driver licenses, medica l information, addresses, phones and so on), projects, customer i nformation, accounting, confidentiality agreements, NDA, etc.",
-      "pubDate": "Mon, 27 Oct 2025 14:48:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?47b82652188fcf5e3aebe15307b370f9",
-      "group": "Akira",
-      "victim": "Engineered Profiles",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : SK group, Za Za Bazaar, TH UK & Ireland Ltd and a few more.",
-      "link": "https://www.ransomware.live/id/U0sgZ3JvdXAsIFphIFphIEJhemFhciwgVEggVUsgJiBJcmVsYW5kIEx0ZCBhbmQgYSBmZXcgbW9yZS5AYWtpcmE=",
-      "summary": "You will get access to files these companies soon. Here is what w e got: 70gb of corporate documents. We&#x27;ve taken lots of personal  files (passports, social security cards, driver licenses, medical information, address, phones and other information of numerous p eople), confidential files, projects, customer information, detai led accounting, confidentiality agreements, NDA, etc.",
-      "pubDate": "Mon, 27 Oct 2025 14:48:29 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/akira?d27d44bd3573eb68d55a543037b5c8e2",
-      "group": "Akira",
-      "victim": "SK group, Za Za Bazaar, TH UK & Ireland Ltd and a few more.",
-      "country": "GB"
     }
   ]
 }
