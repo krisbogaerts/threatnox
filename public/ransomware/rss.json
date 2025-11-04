@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-04T20:13:13.215Z",
+  "updatedAt": "2025-11-04T21:11:06.251Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : ConvExx",
+      "link": "https://www.ransomware.live/id/Q29udkV4eEBwbGF5",
+      "summary": "United States",
+      "pubDate": "Tue, 04 Nov 2025 20:54:03 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?f7b9981edbef88a781e8a437d10ab7d6",
+      "group": "Play",
+      "victim": "ConvExx",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Sellars Absorbent Materials",
+      "link": "https://www.ransomware.live/id/U2VsbGFycyBBYnNvcmJlbnQgTWF0ZXJpYWxzQHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Tue, 04 Nov 2025 20:53:26 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?c395953767bf0b7b957d02534d58ba54",
+      "group": "Play",
+      "victim": "Sellars Absorbent Materials",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : American PowerNet",
+      "link": "https://www.ransomware.live/id/QW1lcmljYW4gUG93ZXJOZXRAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Tue, 04 Nov 2025 20:52:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?cd511499033e39ec3394f34578afe057",
+      "group": "Play",
+      "victim": "American PowerNet",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Payoutsking has just published a new victim : I****r",
+      "link": "https://www.ransomware.live/id/SSoqKipyQHBheW91dHNraW5n",
+      "summary": "",
+      "pubDate": "Tue, 04 Nov 2025 20:51:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/payoutsking?796776c77ee8f9c3b6a2bd64f2ba0ded",
+      "group": "Payoutsking",
+      "victim": "I****r",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : thevisapro.com (Yibirin Law Group)",
       "link": "https://www.ransomware.live/id/dGhldmlzYXByby5jb20gKFlpYmlyaW4gTGF3IEdyb3VwKUBpbmNyYW5zb20=",
@@ -2157,50 +2201,6 @@
       "group": "Sinobi",
       "victim": "Cavalry Consulting",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Mainetti UK - Data breach",
-      "link": "https://www.ransomware.live/id/TWFpbmV0dGkgVUsgLSBEYXRhIGJyZWFjaEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 27 Oct 2025 17:12:33 +0000",
-      "category": "UK",
-      "guid": "https://www.ransomware.live/group/qilin?bc24eba150c4fbaa69ddbff4edb9ef73",
-      "group": "Qilin",
-      "victim": "Mainetti UK - Data breach",
-      "country": "UK"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Micke Stridh Maskin",
-      "link": "https://www.ransomware.live/id/TWlja2UgU3RyaWRoIE1hc2tpbkBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 27 Oct 2025 17:12:00 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/qilin?12ee76f643e7f3d83f40d6063360f22f",
-      "group": "Qilin",
-      "victim": "Micke Stridh Maskin",
-      "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Henrietta Ezeoke Law Firm",
-      "link": "https://www.ransomware.live/id/SGVucmlldHRhIEV6ZW9rZSBMYXcgRmlybUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 27 Oct 2025 17:11:20 +0000",
-      "category": "NG",
-      "guid": "https://www.ransomware.live/group/qilin?6610fb9ce7495ec2ced337e4210c9541",
-      "group": "Qilin",
-      "victim": "Henrietta Ezeoke Law Firm",
-      "country": "NG"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Izaki Group Investments",
-      "link": "https://www.ransomware.live/id/SXpha2kgR3JvdXAgSW52ZXN0bWVudHNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 27 Oct 2025 17:10:36 +0000",
-      "category": "IL",
-      "guid": "https://www.ransomware.live/group/qilin?33fe6c77c1d3949aaeee7280d9409a11",
-      "group": "Qilin",
-      "victim": "Izaki Group Investments",
-      "country": "IL"
     }
   ]
 }
