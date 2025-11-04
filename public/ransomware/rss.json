@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-04T15:12:47.862Z",
+  "updatedAt": "2025-11-04T16:15:15.149Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Elliott Tax Service",
+      "link": "https://www.ransomware.live/id/RWxsaW90dCBUYXggU2VydmljZUBha2lyYQ==",
+      "summary": "Elliott Tax Service is a local firm in San Mateo specializing in  income tax preparation and advice, boasting 27 years of experienc e.  We will upload 82gb corporate documents soon. Client personal doc uments scans, employee personal information and other HR informat ion. Clients financials and other files, NDA, credit card details , payment details, confidentiality agreements, legal and court do cuments, police reports, and so on.",
+      "pubDate": "Tue, 04 Nov 2025 15:13:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?c93f04c4cbc46bbf44e26bec232d586a",
+      "group": "Akira",
+      "victim": "Elliott Tax Service",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : St Stephen's International",
       "link": "https://www.ransomware.live/id/U3QgU3RlcGhlbidzIEludGVybmF0aW9uYWxAdGhlZ2VudGxlbWVu",
@@ -2190,17 +2201,6 @@
       "group": "Everest",
       "victim": "MotorsportMarkt.de",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : ANIA KRUK",
-      "link": "https://www.ransomware.live/id/QU5JQSBLUlVLQGV2ZXJlc3Q=",
-      "summary": "[AI generated] ANIA KRUK is a Polish luxury jewelry brand that has been creating high-quality accessories since 1986. Founded by Ania Kruk, the company offers a wide variety of jewelry crafted in the finest materials like silver, gold, and diamonds. ANIA KRUK’s collections are known for their modern designs, uniqueness and high-quality craftsmanship. They operate online and have several boutiques across Poland and internationally.",
-      "pubDate": "Mon, 27 Oct 2025 14:09:19 +0000",
-      "category": "PL",
-      "guid": "https://www.ransomware.live/group/everest?6f6b86a8c0f9c8ed68527423e20defdf",
-      "group": "Everest",
-      "victim": "ANIA KRUK",
-      "country": "PL"
     }
   ]
 }
