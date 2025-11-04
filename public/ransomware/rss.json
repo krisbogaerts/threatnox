@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-04T00:53:33.235Z",
+  "updatedAt": "2025-11-04T02:26:14.124Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Crown Automotive Sales",
+      "link": "https://www.ransomware.live/id/Q3Jvd24gQXV0b21vdGl2ZSBTYWxlc0BzaW5vYmk=",
+      "summary": "Crown Automotive Sales Co specializes in providing high-quality replacement parts for Jeep, Chrysler, and Dodge vehicles. With over 8,000 part numbers and a diverse range of applications, the company supplies authorized dealers with essential components for both maintenance and upgrades. Additionally, their RT Off-Road line features performance accessories specifically tailored for Jeep models. The company has been a key player in the automotive parts industry since 1963, serving retailers and dealers exclusively.",
+      "pubDate": "Tue, 04 Nov 2025 00:48:58 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?e63456f5369e3d24973a56366dd00c99",
+      "group": "Sinobi",
+      "victim": "Crown Automotive Sales",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : www.heitech.com.my",
+      "link": "https://www.ransomware.live/id/d3d3LmhlaXRlY2guY29tLm15QGRldm1hbg==",
+      "summary": "Ransom: 500k 60gb",
+      "pubDate": "Tue, 04 Nov 2025 00:15:23 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/devman?e29ff2c4b64f2f6dd186610e9be848a2",
+      "group": "Devman",
+      "victim": "www.heitech.com.my",
+      "country": "MY"
+    },
     {
       "title": "🏴‍☠️ Alphalocker has just published a new victim : www.myriversidedentaloffice.com",
       "link": "https://www.ransomware.live/id/d3d3Lm15cml2ZXJzaWRlZGVudGFsb2ZmaWNlLmNvbUBhbHBoYWxvY2tlcg==",
@@ -2179,28 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Latona Trucking",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Saturn Machine",
-      "link": "https://www.ransomware.live/id/U2F0dXJuIE1hY2hpbmVAZHJhZ29uZm9yY2U=",
-      "summary": "Saturn Machine is a leading designer and manufacturer of equipment for major steel companies in North America, specializing in steel fabrication, machining, laser processing, and sandblasting. The company prides itself on delivering high-quality products and problem-solving solutions, supported by a team of skilled professionals and advanced machinery. With capabilities in mechanical and electrical engineering, hydraulic system design, and welding fabrication, Saturn Machine aims to expand its services to a broader client base. Their commitment to customer satisfaction and excellence in design sets them apart in the steel products manufacturing industry.",
-      "pubDate": "Mon, 27 Oct 2025 11:50:18 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/dragonforce?1300de9c9ba124e5a99a5cb56ae4460b",
-      "group": "Dragonforce",
-      "victim": "Saturn Machine",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : West Welch Reed Engineers",
-      "link": "https://www.ransomware.live/id/V2VzdCBXZWxjaCBSZWVkIEVuZ2luZWVyc0BkcmFnb25mb3JjZQ==",
-      "summary": "West, Welch, Reed Engineers, Inc. offers engineering services focused on transforming ideas into tangible projects. They cater to a diverse range of clients, providing expertise across various engineering disciplines. With a commitment to quality and innovation, the firm aims to deliver solutions that meet their clients&#x27; specific needs. Their office is located in Knoxville, Tennessee.",
-      "pubDate": "Mon, 27 Oct 2025 11:49:14 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?218c5ef1c2a57f17fe27304a03fdbfb4",
-      "group": "Dragonforce",
-      "victim": "West Welch Reed Engineers",
-      "country": ""
     }
   ]
 }
