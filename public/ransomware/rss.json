@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-04T13:28:22.862Z",
+  "updatedAt": "2025-11-04T14:12:16.250Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Palacios Marine & Industrial",
+      "link": "https://www.ransomware.live/id/UGFsYWNpb3MgTWFyaW5lICYgSW5kdXN0cmlhbEBha2lyYQ==",
+      "summary": "Palacios Marine Industrial (PMI)  offers quality contracting and  service solutions while prioritizing environmental health and saf ety.  We will upload corporate documents soon. Detailed employee inform ation (passports, driver licenses, medical information, social se curity number and other scans with personal information), NDA, co ntracts and agreements, client data, drawings, and other operatio nal data.",
+      "pubDate": "Tue, 04 Nov 2025 13:08:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?2b95f2b97e58c8f15b877d7e45fb8227",
+      "group": "Akira",
+      "victim": "Palacios Marine & Industrial",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : General Micro Systems",
       "link": "https://www.ransomware.live/id/R2VuZXJhbCBNaWNybyBTeXN0ZW1zQGFraXJh",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "The Law Offices of Michael C George",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : gardiners solicitors",
-      "link": "https://www.ransomware.live/id/Z2FyZGluZXJzIHNvbGljaXRvcnNAZHJhZ29uZm9yY2U=",
-      "summary": "We are a small firm of solicitors based in West Kensington, close to Olympia, established in 1997 by Paul Gardiner. We specialise in: - Property - Shared Ownership - Employment law We offer private criminal work. We are not confined to the London area and can arrange to buy and sell properties throughout the UK. We have considerable experience in respect of shared ownership work.",
-      "pubDate": "Mon, 27 Oct 2025 11:56:16 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/dragonforce?199b251751cb7272d62c3dbb7d719f03",
-      "group": "Dragonforce",
-      "victim": "gardiners solicitors",
-      "country": "GB"
     }
   ]
 }
