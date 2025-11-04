@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-04T03:37:34.995Z",
+  "updatedAt": "2025-11-04T04:14:16.361Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Rios Espinosa",
+      "link": "https://www.ransomware.live/id/UmlvcyBFc3Bpbm9zYUBzcGFjZWJlYXJz",
+      "summary": "Since 1985, at Ríos Espinosa we have been at the forefront of our sector, challenging expectations and setting trends. With offices in Sabinillas, Estepona, Sotogrande, and Seville, our team, comprised of economists, social graduates, lawyers, and registered property managers, combines experience and innovation to offer a unique service tailored to each client.Personal information of employees and clientsFinancial documents https://riosespinosa.com/",
+      "pubDate": "Tue, 04 Nov 2025 03:47:00 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/spacebears?198dd18bb3ba8233540d2f165e7f88de",
+      "group": "Spacebears",
+      "victim": "Rios Espinosa",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Crown Automotive Sales",
       "link": "https://www.ransomware.live/id/Q3Jvd24gQXV0b21vdGl2ZSBTYWxlc0BzaW5vYmk=",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Egaraset",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Latona Trucking",
-      "link": "https://www.ransomware.live/id/TGF0b25hIFRydWNraW5nQGRyYWdvbmZvcmNl",
-      "summary": "latonatrucking.com is a company that operates in the Transportation industry. It employs 100to249 people and has 1Mto5M of revenue.",
-      "pubDate": "Mon, 27 Oct 2025 11:51:28 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?1168a7dfa15d6cdaf1472898a800fe0f",
-      "group": "Dragonforce",
-      "victim": "Latona Trucking",
-      "country": "US"
     }
   ]
 }
