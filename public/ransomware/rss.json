@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-05T21:11:15.840Z",
+  "updatedAt": "2025-11-05T22:11:12.312Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Francehopital",
+      "link": "https://www.ransomware.live/id/RnJhbmNlaG9waXRhbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 05 Nov 2025 21:25:04 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?c3f28910780e499715c8b7d898e5f3c6",
+      "group": "Qilin",
+      "victim": "Francehopital",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : www.oucru.org",
       "link": "https://www.ransomware.live/id/d3d3Lm91Y3J1Lm9yZ0BkZXZtYW4=",
@@ -2190,17 +2201,6 @@
       "group": "Ciphbit",
       "victim": "Jimfor, S.A.",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Advantage CDC",
-      "link": "https://www.ransomware.live/id/QWR2YW50YWdlIENEQ0BnZW5lc2lz",
-      "summary": "A company that provides long-term loans",
-      "pubDate": "Tue, 28 Oct 2025 02:13:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?41f4e0bf571362e51a3f60d34a6c0bdc",
-      "group": "Genesis",
-      "victim": "Advantage CDC",
-      "country": "US"
     }
   ]
 }
