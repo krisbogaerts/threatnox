@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-05T15:12:35.541Z",
+  "updatedAt": "2025-11-05T16:14:59.326Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Nobu Restaurants",
+      "link": "https://www.ransomware.live/id/Tm9idSBSZXN0YXVyYW50c0Bha2lyYQ==",
+      "summary": "Nobu, the world-renowned Japanese restaurant recognized for pione ering a new-style Japanese cuisine, started as a business partner ship in 1994 between Chef Nobu Matsuhisa and his partners, Academ y Award-winning actor Robert De Niro, producer Meir Teper, and re staurateur Drew Nieporent. We will upload more than 71gb of corporate documents soon. Employ ee and owners information (passports, driver licenses, SSN and so on), detailed financials, confidential files, NDA, etc. You can  find Robert De Niro&#x27;s SSN and you will know how much he earns fro m this business.",
+      "pubDate": "Wed, 05 Nov 2025 14:38:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?b3dda7619de442ad2d3dfa22d30c0617",
+      "group": "Akira",
+      "victim": "Nobu Restaurants",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Pine Pharmaceuticals",
       "link": "https://www.ransomware.live/id/UGluZSBQaGFybWFjZXV0aWNhbHNAYWtpcmE=",
@@ -2190,17 +2201,6 @@
       "group": "Stormous",
       "victim": "Volkswagen",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Stormous has just published a new victim : usbmemorydirect.com",
-      "link": "https://www.ransomware.live/id/dXNibWVtb3J5ZGlyZWN0LmNvbUBzdG9ybW91cw==",
-      "summary": "Personal data (individual names, photos, etc.), company/business data (company names, services, tools, equipment), backup copies, system archive compressed files, internal documents and project files, and more.",
-      "pubDate": "Mon, 27 Oct 2025 20:47:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/stormous?48c95d3e782d58993e3977e90a4e143e",
-      "group": "Stormous",
-      "victim": "usbmemorydirect.com",
-      "country": "US"
     }
   ]
 }
