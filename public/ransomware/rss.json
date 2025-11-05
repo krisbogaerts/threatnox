@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-05T04:15:20.661Z",
+  "updatedAt": "2025-11-05T05:12:28.099Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Durvet",
+      "link": "https://www.ransomware.live/id/RHVydmV0QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 05 Nov 2025 04:20:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?2bb276255b08583537036e228635cc9e",
+      "group": "Qilin",
+      "victim": "Durvet",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : ConvExx",
       "link": "https://www.ransomware.live/id/Q29udkV4eEBwbGF5",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?cf00881f2c01a4231d3aafe951635055",
       "group": "Sinobi",
       "victim": "Deltta + Unique data center",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Cavalry Consulting",
-      "link": "https://www.ransomware.live/id/Q2F2YWxyeSBDb25zdWx0aW5nQHNpbm9iaQ==",
-      "summary": "Cavalry Co is a prominent player in Australia&#x27;s face-to-face sales and marketing industry, dedicated to delivering promotional excellence for leading brands. The company specializes in collaboration with established sports and non-profit organizations, focusing on helping clients achieve their goals and passions. With ambitions for national and international expansion, Cavalry Co aims to lead the industry through innovative strategies and campaigns. Their commitment to core values ensures they maintain a quality environment and workforce, striving for excellence in every aspect of their operations.",
-      "pubDate": "Mon, 27 Oct 2025 17:15:32 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?aa6983eec962b9b34682c542fc6d91e4",
-      "group": "Sinobi",
-      "victim": "Cavalry Consulting",
       "country": ""
     }
   ]
