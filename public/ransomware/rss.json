@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-05T14:12:03.250Z",
+  "updatedAt": "2025-11-05T15:12:35.541Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Pine Pharmaceuticals",
+      "link": "https://www.ransomware.live/id/UGluZSBQaGFybWFjZXV0aWNhbHNAYWtpcmE=",
+      "summary": "Pine Pharmaceuticals is one of the industry&#x27;s largest and most tr usted 503B outsourcing facilities specializing in the preparation of high-quality, ready-to-administer compounds and repackaged pr oducts. We will upload more than 18gb of corporate documents soon. Detail ed employee information (complete I-9 forms, SSN, DL, passports,  birth/death certs and so on), customer information, projects deta ils, financials, confidential files, NDA, etc.",
+      "pubDate": "Wed, 05 Nov 2025 13:38:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?2fc07da676b9c7e2f9a950ff3bb6caa2",
+      "group": "Akira",
+      "victim": "Pine Pharmaceuticals",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Christina Development",
+      "link": "https://www.ransomware.live/id/Q2hyaXN0aW5hIERldmVsb3BtZW50QGFraXJh",
+      "summary": "Christina is a Los Angeles-based real estate investment firm with 45 years of experience, focusing on providing investors the oppo rtunity to invest in prime real estate in locations such as Bever ly Hills, Malibu, and Santa Monica. We will upload more than 18gb of corporate documents soon. Employ ee personal documents (passports, driver licenses, birth/death ce rtificates), customer projects and other information, client info rmation, financials, confidential files, NDA, etc.",
+      "pubDate": "Wed, 05 Nov 2025 13:37:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?7066658b09acad713a334ffc1cfbb13a",
+      "group": "Akira",
+      "victim": "Christina Development",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : mcintoshlabs.com",
       "link": "https://www.ransomware.live/id/bWNpbnRvc2hsYWJzLmNvbUBzYWZlcGF5",
@@ -2179,28 +2201,6 @@
       "group": "Stormous",
       "victim": "usbmemorydirect.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Stormous has just published a new victim : www.sincroslab.com",
-      "link": "https://www.ransomware.live/id/d3d3LnNpbmNyb3NsYWIuY29tQHN0b3Jtb3Vz",
-      "summary": "Sincroslab Sas is a company in Colombia, with a head office in Bogota D.C.. It operates in the Miscellaneous Nondurable Goods Merchant Wholesalers industry.",
-      "pubDate": "Mon, 27 Oct 2025 20:47:35 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/stormous?c908004a209a23abf095cde6b1adc748",
-      "group": "Stormous",
-      "victim": "www.sincroslab.com",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Stormous has just published a new victim : www.visioninksltd.in",
-      "link": "https://www.ransomware.live/id/d3d3LnZpc2lvbmlua3NsdGQuaW5Ac3Rvcm1vdXM=",
-      "summary": "Vision Inks and Resins Limited ( previously known as Vision Inks &amp; Resins ) is established in May 1999 with Factory at MIDC, Murbad, Maharashtra INDIA having ...",
-      "pubDate": "Mon, 27 Oct 2025 20:47:10 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/stormous?bd02736bcae35bba92e636e6bb849d58",
-      "group": "Stormous",
-      "victim": "www.visioninksltd.in",
-      "country": "IN"
     }
   ]
 }
