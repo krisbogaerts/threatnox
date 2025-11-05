@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-05T05:12:28.099Z",
+  "updatedAt": "2025-11-05T06:17:57.249Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Enem Nostrum Remedies Pvt. Ltd",
+      "link": "https://www.ransomware.live/id/RW5lbSBOb3N0cnVtIFJlbWVkaWVzIFB2dC4gTHRkQG5pZ2h0c3BpcmU=",
+      "summary": "Enem Nostrum Remedies Pvt. Ltd",
+      "pubDate": "Wed, 05 Nov 2025 05:21:28 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/nightspire?161b3f71eadc7627da628efae9bc8638",
+      "group": "Nightspire",
+      "victim": "Enem Nostrum Remedies Pvt. Ltd",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Durvet",
       "link": "https://www.ransomware.live/id/RHVydmV0QHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Double Oak Construction",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Deltta + Unique data center",
-      "link": "https://www.ransomware.live/id/RGVsdHRhICsgVW5pcXVlIGRhdGEgY2VudGVyQHNpbm9iaQ==",
-      "summary": "Unique DataCenter provides tailored cloud computing solutions designed to enhance business operations through high performance, security, scalability, and unmatched agility. Their services include cloud backup, dedicated servers, SD-WAN solutions, and advanced firewalls, aimed at businesses of all sizes seeking reliable IT infrastructure. With a focus on 24/7 technical support and compliance with Tier 3 standards, they ensure data security and seamless connectivity. Unique DataCenter emphasizes sustainability and flexibility, enabling clients to control their IT resources effectively.",
-      "pubDate": "Mon, 27 Oct 2025 17:15:53 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?cf00881f2c01a4231d3aafe951635055",
-      "group": "Sinobi",
-      "victim": "Deltta + Unique data center",
-      "country": ""
     }
   ]
 }
