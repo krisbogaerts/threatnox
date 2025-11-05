@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-05T07:12:14.656Z",
+  "updatedAt": "2025-11-05T08:16:10.115Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Habib Bank",
+      "link": "https://www.ransomware.live/id/SGFiaWIgQmFua0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 05 Nov 2025 07:21:51 +0000",
+      "category": "PK",
+      "guid": "https://www.ransomware.live/group/qilin?4f29bd6a67e0864ab75ef72d69941e7b",
+      "group": "Qilin",
+      "victim": "Habib Bank",
+      "country": "PK"
+    },
     {
       "title": "🏴‍☠️ Nightspire has just published a new victim : Enem Nostrum Remedies Pvt. Ltd",
       "link": "https://www.ransomware.live/id/RW5lbSBOb3N0cnVtIFJlbWVkaWVzIFB2dC4gTHRkQG5pZ2h0c3BpcmU=",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "Luis Garratón",
       "country": "PR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Double Oak Construction",
-      "link": "https://www.ransomware.live/id/RG91YmxlIE9hayBDb25zdHJ1Y3Rpb25AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 27 Oct 2025 18:21:44 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?b52e43b6465a9d764573ff779fd945e3",
-      "group": "Qilin",
-      "victim": "Double Oak Construction",
-      "country": "US"
     }
   ]
 }
