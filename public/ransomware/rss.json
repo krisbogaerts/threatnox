@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-05T20:13:23.891Z",
+  "updatedAt": "2025-11-05T21:11:15.840Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : www.oucru.org",
+      "link": "https://www.ransomware.live/id/d3d3Lm91Y3J1Lm9yZ0BkZXZtYW4=",
+      "summary": "Ransom: 500k 120gb",
+      "pubDate": "Wed, 05 Nov 2025 19:43:28 +0000",
+      "category": "VN",
+      "guid": "https://www.ransomware.live/group/devman?662d35ad31cc9441da05ad82ba292950",
+      "group": "Devman",
+      "victim": "www.oucru.org",
+      "country": "VN"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : KISS FM",
       "link": "https://www.ransomware.live/id/S0lTUyBGTUByaHlzaWRh",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/genesis?41f4e0bf571362e51a3f60d34a6c0bdc",
       "group": "Genesis",
       "victim": "Advantage CDC",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Kipp & Christian",
-      "link": "https://www.ransomware.live/id/S2lwcCAmIENocmlzdGlhbkBnZW5lc2lz",
-      "summary": "A law firm located in Salt Lake City",
-      "pubDate": "Tue, 28 Oct 2025 02:13:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?8f9077ea8ea16cdf1da15dad330b7a43",
-      "group": "Genesis",
-      "victim": "Kipp & Christian",
       "country": "US"
     }
   ]
