@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-05T10:13:55.626Z",
+  "updatedAt": "2025-11-05T11:10:22.258Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Habib Bank AG Zurich",
+      "link": "https://www.ransomware.live/id/SGFiaWIgQmFuayBBRyBadXJpY2hAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 05 Nov 2025 10:20:35 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/qilin?1099bf47d6d8cf8c404c3da6eeaa44a8",
+      "group": "Qilin",
+      "victim": "Habib Bank AG Zurich",
+      "country": "CH"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Habib Bank",
       "link": "https://www.ransomware.live/id/SGFiaWIgQmFua0BxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "SanDiego Automotive Museum",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Luis Garratón",
-      "link": "https://www.ransomware.live/id/THVpcyBHYXJyYXTDs25Ac2lub2Jp",
-      "summary": "Luis Garratón, LLC is a full-service distributor specializing in pharmaceutical products, consumer goods, and logistics services. The company aims to meet the needs of its clients through four main service categories: healthcare, consumer products, logistics, and digital marketing. With a focus on professionalism and a dedicated sales force, they strive to achieve their clients&#x27; business objectives. Their commitment to excellence ensures lasting results for their customers.",
-      "pubDate": "Mon, 27 Oct 2025 18:24:45 +0000",
-      "category": "PR",
-      "guid": "https://www.ransomware.live/group/sinobi?b30ac23018939a0c10a9113ab75d276c",
-      "group": "Sinobi",
-      "victim": "Luis Garratón",
-      "country": "PR"
     }
   ]
 }
