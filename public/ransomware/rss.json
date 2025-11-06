@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-06T14:12:12.985Z",
+  "updatedAt": "2025-11-06T15:13:21.865Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Health Dimensions Group",
+      "link": "https://www.ransomware.live/id/SGVhbHRoIERpbWVuc2lvbnMgR3JvdXBAd29ybGRsZWFrcw==",
+      "summary": "[AI generated] Health Dimensions Group (HDG) is a management consulting and health care services firm. Headquartered in Minneapolis, the company provides consulting services and solutions in the areas of senior housing, post-acute care, health systems, and hospitals. They offer a wide variety of services including strategic planning, operational oversight, financial advisory, and more.",
+      "pubDate": "Thu, 06 Nov 2025 15:01:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?945cbf762713635eb1453fcb73a60b18",
+      "group": "Worldleaks",
+      "victim": "Health Dimensions Group",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Ville de MontLaurier",
+      "link": "https://www.ransomware.live/id/VmlsbGUgZGUgTW9udExhdXJpZXJAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 06 Nov 2025 14:54:09 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?202762b5406adf35af8e48cdb5e884a7",
+      "group": "Qilin",
+      "victim": "Ville de MontLaurier",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Dermatology Associates",
+      "link": "https://www.ransomware.live/id/RGVybWF0b2xvZ3kgQXNzb2NpYXRlc0BhbnViaXM=",
+      "summary": "Leak of clinic customer data.",
+      "pubDate": "Thu, 06 Nov 2025 14:19:19 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/anubis?cef2dbac9810d9df132d06b103f139cf",
+      "group": "Anubis",
+      "victim": "Dermatology Associates",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Nitrogen has just published a new victim : Black Hills Bentonite",
       "link": "https://www.ransomware.live/id/QmxhY2sgSGlsbHMgQmVudG9uaXRlQG5pdHJvZ2Vu",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?def2f2895cd414ca78b02460e2313698",
       "group": "Play",
       "victim": "Henry Raymond & Thompson",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Evogence",
-      "link": "https://www.ransomware.live/id/RXZvZ2VuY2VAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Tue, 28 Oct 2025 17:40:49 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?5f6a8e2fe6cdcea76d9c2f142f6fa29a",
-      "group": "Play",
-      "victim": "Evogence",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Super Quik",
-      "link": "https://www.ransomware.live/id/U3VwZXIgUXVpa0BwbGF5",
-      "summary": "United States",
-      "pubDate": "Tue, 28 Oct 2025 17:40:11 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?aafc83cf6d6be256af3fd7c4784c3a80",
-      "group": "Play",
-      "victim": "Super Quik",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Fast Freight",
-      "link": "https://www.ransomware.live/id/RmFzdCBGcmVpZ2h0QHBsYXk=",
-      "summary": "Canada",
-      "pubDate": "Tue, 28 Oct 2025 17:39:31 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?5b0790fc5f2f4eb96157a98f7bbfad54",
-      "group": "Play",
-      "victim": "Fast Freight",
       "country": ""
     }
   ]
