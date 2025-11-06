@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-06T13:26:11.180Z",
+  "updatedAt": "2025-11-06T14:12:12.985Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nitrogen has just published a new victim : Black Hills Bentonite",
+      "link": "https://www.ransomware.live/id/QmxhY2sgSGlsbHMgQmVudG9uaXRlQG5pdHJvZ2Vu",
+      "summary": "An American company founded in 1947. It mines and processes sodium bentonite, a natural clay used in well drilling, metal casting, and pond and landfill sealing.",
+      "pubDate": "Thu, 06 Nov 2025 13:39:20 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nitrogen?83903a403efd529341c29ad4ca9c983b",
+      "group": "Nitrogen",
+      "victim": "Black Hills Bentonite",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : E-First Aid Supplies",
       "link": "https://www.ransomware.live/id/RS1GaXJzdCBBaWQgU3VwcGxpZXNAYWtpcmE=",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Fast Freight",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Aphase II",
-      "link": "https://www.ransomware.live/id/QXBoYXNlIElJQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Tue, 28 Oct 2025 17:38:52 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/play?e1ec52f3425ea0dc30e8c25fe8455f66",
-      "group": "Play",
-      "victim": "Aphase II",
-      "country": "JP"
     }
   ]
 }
