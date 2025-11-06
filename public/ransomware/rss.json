@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-06T20:13:03.832Z",
+  "updatedAt": "2025-11-06T21:10:52.685Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Ketat Grundstücksverwertungs GmbH",
+      "link": "https://www.ransomware.live/id/S2V0YXQgR3J1bmRzdMO8Y2tzdmVyd2VydHVuZ3MgR21iSEBpbmNyYW5zb20=",
+      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
+      "pubDate": "Thu, 06 Nov 2025 20:23:34 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/incransom?7db6a3f018b596e559b5c0dc3214eb56",
+      "group": "Incransom",
+      "victim": "Ketat Grundstücksverwertungs GmbH",
+      "country": "AT"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : prutsch-ra.at",
+      "link": "https://www.ransomware.live/id/cHJ1dHNjaC1yYS5hdEBpbmNyYW5zb20=",
+      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
+      "pubDate": "Thu, 06 Nov 2025 20:23:20 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/incransom?8ecde9780045e020e01b0ba2f5f99ae4",
+      "group": "Incransom",
+      "victim": "prutsch-ra.at",
+      "country": "AT"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : MusikComputer GmbH",
+      "link": "https://www.ransomware.live/id/TXVzaWtDb21wdXRlciBHbWJIQGluY3JhbnNvbQ==",
+      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
+      "pubDate": "Thu, 06 Nov 2025 20:22:44 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/incransom?be15a80a4f05097e95dc42bb78207d82",
+      "group": "Incransom",
+      "victim": "MusikComputer GmbH",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Kryptos has just published a new victim : Provincial Department of Health Services Sri Lanka",
       "link": "https://www.ransomware.live/id/UHJvdmluY2lhbCBEZXBhcnRtZW50IG9mIEhlYWx0aCBTZXJ2aWNlcyBTcmkgTGFua2FAa3J5cHRvcw==",
@@ -2168,39 +2201,6 @@
       "group": "Coinbasecartel",
       "victim": "SK-Telecom",
       "country": "KR"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Bestlog Logistic Solutions",
-      "link": "https://www.ransomware.live/id/QmVzdGxvZyBMb2dpc3RpYyBTb2x1dGlvbnNAbmlnaHRzcGlyZQ==",
-      "summary": "Bestlog Logistic Solutions",
-      "pubDate": "Wed, 29 Oct 2025 06:47:50 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/nightspire?b4452a2b5725082ced98cf38e57b536e",
-      "group": "Nightspire",
-      "victim": "Bestlog Logistic Solutions",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Pritchard Brown & Chillicothe Metal",
-      "link": "https://www.ransomware.live/id/UHJpdGNoYXJkIEJyb3duICYgQ2hpbGxpY290aGUgTWV0YWxAaW50ZXJsb2Nr",
-      "summary": "Pritchard Brown and Chillicothe Metal Company (CMCO) are two manufacturers that collaborate to develop comprehensive solutions in the field of protective enclosures and microclimate control systems. Founded in 1947, Pritchard Brown specializes in custom-designed protective enclosures, offering a range of weatherproof, weather-resistant, and noise-absorbing models specifically designed for harsh operating environments. With over 50 years of experience, Chillicothe Metal Company complements Pritchard Brown&#x27;s offerings by specializing in protective enclosures and complete generator sets. Operating in a wide range of industries, including energy, utilities, petrochemical, mining, and defense, CMCO has completed more than 40,000 projects at facilities around the world. Its expertise in design, engineering, and manufacturing is evidenced by its work on high-profile projects such as the Statue of Liberty and NASA.",
-      "pubDate": "Wed, 29 Oct 2025 06:24:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/interlock?ce639b2ebe2fd86643cc5d8b7a0f20e0",
-      "group": "Interlock",
-      "victim": "Pritchard Brown & Chillicothe Metal",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Obscura has just published a new victim : Federal Auto Holdings Berhad",
-      "link": "https://www.ransomware.live/id/RmVkZXJhbCBBdXRvIEhvbGRpbmdzIEJlcmhhZEBvYnNjdXJh",
-      "summary": "Revenue: $41.8kk | Leak Size: 6 GB | Status: Pending | Time Left: 7d 18h 57m 21s",
-      "pubDate": "Wed, 29 Oct 2025 05:40:28 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/obscura?4f99d76bf432bbcd39bf23fe3c4170b8",
-      "group": "Obscura",
-      "victim": "Federal Auto Holdings Berhad",
-      "country": "MY"
     }
   ]
 }
