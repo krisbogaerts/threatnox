@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-05T23:11:02.351Z",
+  "updatedAt": "2025-11-06T00:54:31.626Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : The Union League of Philadelphia",
+      "link": "https://www.ransomware.live/id/VGhlIFVuaW9uIExlYWd1ZSBvZiBQaGlsYWRlbHBoaWFAaW5jcmFuc29t",
+      "summary": "Founded in 1862 as a patriotic society to support the Union and the policies of President Abraham Lincoln, The Union League of Philadelphia laid the philosophical foundation of other Union Leagues across a nation torn by civil war. The League has hosted U.S. presidents, heads of state, industrialists, entertainers and dignitaries from around the globe and has proudly supported the American military in each conflict since the Civil War. The Union League continues to be driven by its founding motto, Amor Patriae Ducit or Love of Country Leads.",
+      "pubDate": "Thu, 06 Nov 2025 00:14:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?712a81dbf8d36e2cd017c46f3441cb53",
+      "group": "Incransom",
+      "victim": "The Union League of Philadelphia",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Francehopital",
       "link": "https://www.ransomware.live/id/RnJhbmNlaG9waXRhbEBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Pear",
       "victim": "Riddell Law Group",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ciphbit has just published a new victim : Jimfor, S.A.",
-      "link": "https://www.ransomware.live/id/SmltZm9yLCBTLkEuQGNpcGhiaXQ=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Tue, 28 Oct 2025 05:11:55 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/ciphbit?dd4e5add575ab069441d62dd6014533f",
-      "group": "Ciphbit",
-      "victim": "Jimfor, S.A.",
-      "country": "ES"
     }
   ]
 }
