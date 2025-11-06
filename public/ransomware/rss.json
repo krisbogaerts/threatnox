@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-06T15:13:21.865Z",
+  "updatedAt": "2025-11-06T16:15:02.173Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : DRD Communications",
+      "link": "https://www.ransomware.live/id/RFJEIENvbW11bmljYXRpb25zQHRoZWdlbnRsZW1lbg==",
+      "summary": "https://www.zoominfo.com/c/drd-software-and-systems-india-private-ltd/372534475 www.drd.co.in DRD India is a telecommunications and software development company with over 25 years of experience, dedicated to rejuvenating the telecommunications channel. They offer products and services such as Uboss, a cloud trading platform, and VanillaIP, a white label channel provider for the UK market. The company is committed to continuous development and innovation, ensuring high-quality solutions for their clients. DRD India caters to a wide audience, having successfully served millions of users over the years.",
+      "pubDate": "Thu, 06 Nov 2025 15:49:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/thegentlemen?40a7f03c342f1334ff65519f27fb1989",
+      "group": "Thegentlemen",
+      "victim": "DRD Communications",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : First Resources",
+      "link": "https://www.ransomware.live/id/Rmlyc3QgUmVzb3VyY2VzQHJhbnNvbWhvdXNl",
+      "summary": "Founded in1992 and headquartered in First Resources Limited is primarily cultivating oil palms, harvesting the fruits, and milling them into crude palm oil (CPO) and palm kernel (PK) for sale to the local and export markets. With its integrated processing facilities, the Group also processes its CPO and PK into higher value palm-based products such as biodiesel, refined, bleached, and deodorized (RBD) olein, RBD stearin, palm kernel oil, and palm kernel expeller.",
+      "pubDate": "Thu, 06 Nov 2025 15:43:43 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/ransomhouse?94c7540381b2be38a8704e1c67caea36",
+      "group": "Ransomhouse",
+      "victim": "First Resources",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Health Dimensions Group",
       "link": "https://www.ransomware.live/id/SGVhbHRoIERpbWVuc2lvbnMgR3JvdXBAd29ybGRsZWFrcw==",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Lorber, Greenfield & Polito, LLP",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Gemini Group",
-      "link": "https://www.ransomware.live/id/R2VtaW5pIEdyb3VwQHJoeXNpZGE=",
-      "summary": "Gemini Group",
-      "pubDate": "Tue, 28 Oct 2025 17:43:07 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/rhysida?23010a971f099f69289fe8d684e0d618",
-      "group": "Rhysida",
-      "victim": "Gemini Group",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Henry Raymond & Thompson",
-      "link": "https://www.ransomware.live/id/SGVucnkgUmF5bW9uZCAmIFRob21wc29uQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Tue, 28 Oct 2025 17:41:28 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?def2f2895cd414ca78b02460e2313698",
-      "group": "Play",
-      "victim": "Henry Raymond & Thompson",
-      "country": ""
     }
   ]
 }
