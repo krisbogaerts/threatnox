@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-06T09:13:32.322Z",
+  "updatedAt": "2025-11-06T10:13:58.863Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : speedmais",
+      "link": "https://www.ransomware.live/id/c3BlZWRtYWlzQG5pZ2h0c3BpcmU=",
+      "summary": "speedmais",
+      "pubDate": "Thu, 06 Nov 2025 09:40:55 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/nightspire?1b69120bfa065e68dea8bda5c0190d68",
+      "group": "Nightspire",
+      "victim": "speedmais",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : vratatech",
+      "link": "https://www.ransomware.live/id/dnJhdGF0ZWNoQG5pZ2h0c3BpcmU=",
+      "summary": "vratatech",
+      "pubDate": "Thu, 06 Nov 2025 09:40:30 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/nightspire?65d1c60d30d45372e8abbfb2bfcb15c0",
+      "group": "Nightspire",
+      "victim": "vratatech",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Brihta",
+      "link": "https://www.ransomware.live/id/QnJpaHRhQG5pZ2h0c3BpcmU=",
+      "summary": "Brihta",
+      "pubDate": "Thu, 06 Nov 2025 09:40:05 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/nightspire?23dbe4b3f7bb8cdac70b14770978c276",
+      "group": "Nightspire",
+      "victim": "Brihta",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Warlock has just published a new victim : energogroup.net",
       "link": "https://www.ransomware.live/id/ZW5lcmdvZ3JvdXAubmV0QHdhcmxvY2s=",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?2f09eee7e1136e2fde62527643b924a7",
       "group": "Play",
       "victim": "Furniture Plus",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Ouranos",
-      "link": "https://www.ransomware.live/id/T3VyYW5vc0BwbGF5",
-      "summary": "Canada",
-      "pubDate": "Tue, 28 Oct 2025 17:36:50 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/play?fd72537c1529540c67a3b98424887349",
-      "group": "Play",
-      "victim": "Ouranos",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Sylvester Roofing",
-      "link": "https://www.ransomware.live/id/U3lsdmVzdGVyIFJvb2ZpbmdAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Tue, 28 Oct 2025 17:36:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?4d0686a646699dabb04b77e2b3be6aa6",
-      "group": "Play",
-      "victim": "Sylvester Roofing",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Air Arabia DataBase on sale for $2 Million",
-      "link": "https://www.ransomware.live/id/QWlyIEFyYWJpYSBEYXRhQmFzZSBvbiBzYWxlIGZvciAkMiBNaWxsaW9uQGV2ZXJlc3Q=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Tue, 28 Oct 2025 17:16:34 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/everest?a8d7085a81cb9b8e704d907eda365d4d",
-      "group": "Everest",
-      "victim": "Air Arabia DataBase on sale for $2 Million",
       "country": ""
     }
   ]
