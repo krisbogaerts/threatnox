@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-06T19:09:50.047Z",
+  "updatedAt": "2025-11-06T20:13:03.832Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Kryptos has just published a new victim : Provincial Department of Health Services Sri Lanka",
+      "link": "https://www.ransomware.live/id/UHJvdmluY2lhbCBEZXBhcnRtZW50IG9mIEhlYWx0aCBTZXJ2aWNlcyBTcmkgTGFua2FAa3J5cHRvcw==",
+      "summary": "Health Services – 145 Institutions – 439 Field Clinic Centres – 850 Medical Officer",
+      "pubDate": "Thu, 06 Nov 2025 19:21:47 +0000",
+      "category": "LK",
+      "guid": "https://www.ransomware.live/group/kryptos?f91202ad60541c3ef30afe77a786ea5f",
+      "group": "Kryptos",
+      "victim": "Provincial Department of Health Services Sri Lanka",
+      "country": "LK"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : pmsp.at",
+      "link": "https://www.ransomware.live/id/cG1zcC5hdEBpbmNyYW5zb20=",
+      "summary": "We have Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH company data, payment and tax documentation, employee and client documents, as well as projects and developments.",
+      "pubDate": "Thu, 06 Nov 2025 19:16:40 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/incransom?c646315f47fe55dd162892395b3b6bdd",
+      "group": "Incransom",
+      "victim": "pmsp.at",
+      "country": "AT"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : elektroanlagen",
+      "link": "https://www.ransomware.live/id/ZWxla3Ryb2FubGFnZW5AaW5jcmFuc29t",
+      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
+      "pubDate": "Thu, 06 Nov 2025 19:16:05 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/incransom?b3fa96cec60317b4dc6265afea51062f",
+      "group": "Incransom",
+      "victim": "elektroanlagen",
+      "country": "AT"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : zebra.or.at",
       "link": "https://www.ransomware.live/id/emVicmEub3IuYXRAaW5jcmFuc29t",
@@ -2168,39 +2201,6 @@
       "group": "Obscura",
       "victim": "Federal Auto Holdings Berhad",
       "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Radiant has just published a new victim : Spijkermat",
-      "link": "https://www.ransomware.live/id/U3Bpamtlcm1hdEByYWRpYW50",
-      "summary": "Spijkermat specializes in acupressure mats designed to enhance relaxation, alleviate pain, and improve sleep...",
-      "pubDate": "Wed, 29 Oct 2025 01:11:49 +0000",
-      "category": "NL",
-      "guid": "https://www.ransomware.live/group/radiant?6b09e1975c14a6a8fa8fa298323efdf7",
-      "group": "Radiant",
-      "victim": "Spijkermat",
-      "country": "NL"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Florida-Spectrum Environmental Services",
-      "link": "https://www.ransomware.live/id/RmxvcmlkYS1TcGVjdHJ1bSBFbnZpcm9ubWVudGFsIFNlcnZpY2VzQHNpbm9iaQ==",
-      "summary": "Florida-Spectrum Environmental Services, Inc. is a premier full-service environmental testing and analytical chemistry laboratory specializing in the assessment of contamination in various mediums, including water, soil, and hazardous wastes. With over 40 years of experience and multiple locations in Florida and Georgia, the company serves the Engineering, Consulting, Chemical, Petroleum, and Waste Management industries. They offer a range of analytical and sampling services, supported by a commitment to superior service and client satisfaction through dedicated Client Service Managers. Their philosophy emphasizes building partnerships with clients, ensuring that the data quality objectives of environmental projects are met efficiently.",
-      "pubDate": "Tue, 28 Oct 2025 22:53:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?e4d0fbe3b608ce935caae067c5281f97",
-      "group": "Sinobi",
-      "victim": "Florida-Spectrum Environmental Services",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : WarmBlue",
-      "link": "https://www.ransomware.live/id/V2FybUJsdWVAc2lub2Jp",
-      "summary": "Small company",
-      "pubDate": "Tue, 28 Oct 2025 21:49:16 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?77105d2baae9cb0f04d214840729e06b",
-      "group": "Sinobi",
-      "victim": "WarmBlue",
-      "country": ""
     }
   ]
 }
