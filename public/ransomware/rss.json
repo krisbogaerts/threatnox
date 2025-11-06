@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-06T22:11:15.696Z",
+  "updatedAt": "2025-11-06T23:10:51.993Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : www.wilmar.co.id",
+      "link": "https://www.ransomware.live/id/d3d3LndpbG1hci5jby5pZEBzdG9ybW91cw==",
+      "summary": "VPN access to the company’s internal network is provided",
+      "pubDate": "Thu, 06 Nov 2025 22:57:01 +0000",
+      "category": "ID",
+      "guid": "https://www.ransomware.live/group/stormous?8d28ddc25ec467c098330d3e8bf784f3",
+      "group": "Stormous",
+      "victim": "www.wilmar.co.id",
+      "country": "ID"
+    },
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : www.danareksa.com",
+      "link": "https://www.ransomware.live/id/d3d3LmRhbmFyZWtzYS5jb21Ac3Rvcm1vdXM=",
+      "summary": "VPN access to the company’s internal network is provided",
+      "pubDate": "Thu, 06 Nov 2025 22:56:37 +0000",
+      "category": "ID",
+      "guid": "https://www.ransomware.live/group/stormous?93ebbd2544ec9db5bd14835e606fa212",
+      "group": "Stormous",
+      "victim": "www.danareksa.com",
+      "country": "ID"
+    },
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : www.marjane.ma",
+      "link": "https://www.ransomware.live/id/d3d3Lm1hcmphbmUubWFAc3Rvcm1vdXM=",
+      "summary": "Marjane Group is a Moroccan retail group that owns the Marjane hypermarkets and Marjane Market supermarkets. Founded in 1990, Marjane has gradually become the largest retail company in Morocco",
+      "pubDate": "Thu, 06 Nov 2025 22:56:13 +0000",
+      "category": "MA",
+      "guid": "https://www.ransomware.live/group/stormous?c559310767f07a71518b043dc4c151cf",
+      "group": "Stormous",
+      "victim": "www.marjane.ma",
+      "country": "MA"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Studio Corvo Parma",
+      "link": "https://www.ransomware.live/id/U3R1ZGlvIENvcnZvIFBhcm1hQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 06 Nov 2025 22:46:38 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?9bcb93da42b719288aa941c90e607dcf",
+      "group": "Qilin",
+      "victim": "Studio Corvo Parma",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Ketat Grundstücksverwertungs GmbH",
       "link": "https://www.ransomware.live/id/S2V0YXQgR3J1bmRzdMO8Y2tzdmVyd2VydHVuZ3MgR21iSEBpbmNyYW5zb20=",
@@ -2157,50 +2201,6 @@
       "group": "Akira",
       "victim": "Sadler Gibb & Associates",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Blacknevas has just published a new victim : Yateem Group",
-      "link": "https://www.ransomware.live/id/WWF0ZWVtIEdyb3VwQGJsYWNrbmV2YXM=",
-      "summary": "500+ gigabytes and over 100,000+ files availableThe Yateem Group owns nearly 100 optical outlets in addition to many other brands and facilities. At its heart, the group retains the original family values set forth by the founders.A complete customer database with all contacts has been downloaded, including phones and emails of more than 9000000+ records, as well as all internal information on YateemGroup employees, passports, rights, work contracts and insurance.The IT department is aware of the leak, but has broken off negotiations, and customer and employee data is being prepared for publication.(ready to sell all databases without publishing)access was obtained thanks to the IT departments of these companies:Trojan Construction &amp;amp; Holding Group www.trojan.aeT. Choithram And Sons, LLC www.choithrams.com",
-      "pubDate": "Wed, 29 Oct 2025 10:19:32 +0000",
-      "category": "BH",
-      "guid": "https://www.ransomware.live/group/blacknevas?8f431bd8fab04fd920b846f4bd0b2870",
-      "group": "Blacknevas",
-      "victim": "Yateem Group",
-      "country": "BH"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Bridgehead I.T",
-      "link": "https://www.ransomware.live/id/QnJpZGdlaGVhZCBJLlRAYWtpcmE=",
-      "summary": "Founded in 1999, Bridgehead I.T. Inc. provides customized Informa tion Technology (IT) solutions for businesses across all industri es. Bridgehead I.T. services are specifically engineered for each client needs. Bridgehead I.T. is headquartered in San Antonio, T X. We are going to upload company data soon. You will find financial data (audit, payment details, invoices), personal financial deta ils of employees, accounting files.",
-      "pubDate": "Wed, 29 Oct 2025 10:17:52 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?2a69081b4d2724f5195ea5a081c716d9",
-      "group": "Akira",
-      "victim": "Bridgehead I.T",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : G & H Distributing",
-      "link": "https://www.ransomware.live/id/RyAmIEggRGlzdHJpYnV0aW5nQGFraXJh",
-      "summary": "GH Distributing Inc. is a prominent agricultural and industrial s upply distributor in South Dakota, known for its retail and whole sale operations. This company will soon be known as another one that doesn&#x27;t care  of employee information. We will upload corporate documents soon. You will find lots of 2-9 forms with addresses, phones, emails a nd other information of employees. Also there are accounting file s, projects, client information and so on.",
-      "pubDate": "Wed, 29 Oct 2025 09:38:19 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?1300602f7ce679b03a2b83a8ae33afbd",
-      "group": "Akira",
-      "victim": "G & H Distributing",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : SK-Telecom",
-      "link": "https://www.ransomware.live/id/U0stVGVsZWNvbUBjb2luYmFzZWNhcnRlbA==",
-      "summary": "South Koreas largest wireless carrier offering mobile services broadband IPTV and cutting-edge AI and IoT solutions",
-      "pubDate": "Wed, 29 Oct 2025 08:09:53 +0000",
-      "category": "KR",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?775e7349769f360e5367f9ecc0315c0c",
-      "group": "Coinbasecartel",
-      "victim": "SK-Telecom",
-      "country": "KR"
     }
   ]
 }
