@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-06T11:11:06.948Z",
+  "updatedAt": "2025-11-06T12:22:15.150Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Noble Compaña de Seguros",
+      "link": "https://www.ransomware.live/id/Tm9ibGUgQ29tcGHDsWEgZGUgU2VndXJvc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 06 Nov 2025 11:50:48 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/qilin?390730d956c85ad492c502a387588cca",
+      "group": "Qilin",
+      "victim": "Noble Compaña de Seguros",
+      "country": "MX"
+    },
     {
       "title": "🏴‍☠️ Nightspire has just published a new victim : speedmais",
       "link": "https://www.ransomware.live/id/c3BlZWRtYWlzQG5pZ2h0c3BpcmU=",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Kitchen Design Concepts",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Furniture Plus",
-      "link": "https://www.ransomware.live/id/RnVybml0dXJlIFBsdXNAcGxheQ==",
-      "summary": "The Bahamas",
-      "pubDate": "Tue, 28 Oct 2025 17:37:30 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?2f09eee7e1136e2fde62527643b924a7",
-      "group": "Play",
-      "victim": "Furniture Plus",
-      "country": ""
     }
   ]
 }
