@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-06T17:12:17.271Z",
+  "updatedAt": "2025-11-06T18:17:46.030Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Systems Integrated",
+      "link": "https://www.ransomware.live/id/U3lzdGVtcyBJbnRlZ3JhdGVkQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 06 Nov 2025 17:52:36 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?5efd81eb8ef6a0033adafc793aa46858",
+      "group": "Qilin",
+      "victim": "Systems Integrated",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sai Mai Hospital",
+      "link": "https://www.ransomware.live/id/U2FpIE1haSBIb3NwaXRhbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 06 Nov 2025 17:51:52 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/qilin?1615f85ea7e03582f2ce6a9b3e38d957",
+      "group": "Qilin",
+      "victim": "Sai Mai Hospital",
+      "country": "TH"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : PCB Uitvaartzorg",
+      "link": "https://www.ransomware.live/id/UENCIFVpdHZhYXJ0em9yZ0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 06 Nov 2025 17:51:11 +0000",
+      "category": "BE",
+      "guid": "https://www.ransomware.live/group/qilin?67eb1e9c358667bf7c10707808e83b60",
+      "group": "Qilin",
+      "victim": "PCB Uitvaartzorg",
+      "country": "BE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : UScraft",
+      "link": "https://www.ransomware.live/id/VVNjcmFmdEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 06 Nov 2025 17:50:28 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?73c7cb73003b7bb80617e4d023cab78c",
+      "group": "Qilin",
+      "victim": "UScraft",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Tass Meister Patent Firm",
       "link": "https://www.ransomware.live/id/VGFzcyBNZWlzdGVyIFBhdGVudCBGaXJtQHFpbGlu",
@@ -2157,50 +2201,6 @@
       "group": "Genesis",
       "victim": "Heimbrock",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : Eligibility Tracking Calculators",
-      "link": "https://www.ransomware.live/id/RWxpZ2liaWxpdHkgVHJhY2tpbmcgQ2FsY3VsYXRvcnNAYmxhY2tzaHJhbnRhYw==",
-      "summary": "[AI generated] \"Eligibility Tracking Calculators\" (ETC) is a company that offers technological solutions for employee benefits management. It provides software applications that help employers, insurance brokers, and CPA firms to track and calculate their employee benefits eligibility efficiently. This assists organizations in adhering to various legal compliance requirements related to employee benefits.",
-      "pubDate": "Tue, 28 Oct 2025 21:14:52 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/blackshrantac?3a52ef935b2e9c2df048d3d3460913dc",
-      "group": "Blackshrantac",
-      "victim": "Eligibility Tracking Calculators",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Alios Finance Group",
-      "link": "https://www.ransomware.live/id/QWxpb3MgRmluYW5jZSBHcm91cEBpbmNyYW5zb20=",
-      "summary": "Alios Finance Group , is a leading operator in Africa providing specialized financial solutions to Professionals and Individuals. We are operating in 9 Sub-Saharan countries (Burkina-Faso, Cameroon, Ivory Coast, Gabon, Kenya, Mali, Senegal, Tanzania and Zambia). Our Group is also present in North Africa (Algeria and Tunisia) through our main shareholder: Tunisie Leasing Group.\r 100GB of fresh data (last 3 years)",
-      "pubDate": "Tue, 28 Oct 2025 19:24:14 +0000",
-      "category": "TN",
-      "guid": "https://www.ransomware.live/group/incransom?d96596b8d839e5bbd4de856ce2f5151c",
-      "group": "Incransom",
-      "victim": "Alios Finance Group",
-      "country": "TN"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : AT&T Careers - Database Leaked",
-      "link": "https://www.ransomware.live/id/QVQmVCBDYXJlZXJzIC0gRGF0YWJhc2UgTGVha2VkQGV2ZXJlc3Q=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Tue, 28 Oct 2025 18:41:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/everest?b66404ef7983a906f2d82c3e104e8d52",
-      "group": "Everest",
-      "victim": "AT&T Careers - Database Leaked",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Dublin Airport DataBase on sale for $1 Million",
-      "link": "https://www.ransomware.live/id/RHVibGluIEFpcnBvcnQgRGF0YUJhc2Ugb24gc2FsZSBmb3IgJDEgTWlsbGlvbkBldmVyZXN0",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Tue, 28 Oct 2025 18:41:06 +0000",
-      "category": "IE",
-      "guid": "https://www.ransomware.live/group/everest?160057e29a4e4f0967e9a2e7fb2e8cf3",
-      "group": "Everest",
-      "victim": "Dublin Airport DataBase on sale for $1 Million",
-      "country": "IE"
     }
   ]
 }
