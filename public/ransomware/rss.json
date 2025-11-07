@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-07T07:12:21.541Z",
+  "updatedAt": "2025-11-07T08:16:15.498Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Rex-Hide",
+      "link": "https://www.ransomware.live/id/UmV4LUhpZGVAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 07 Nov 2025 07:39:43 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?d4293c832426e0afe9abf9ed639d1240",
+      "group": "Qilin",
+      "victim": "Rex-Hide",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Stormous has just published a new victim : www.wilmar.co.id",
       "link": "https://www.ransomware.live/id/d3d3LndpbG1hci5jby5pZEBzdG9ybW91cw==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Malibu Boats Australia",
       "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Sadler Gibb & Associates",
-      "link": "https://www.ransomware.live/id/U2FkbGVyIEdpYmIgJiBBc3NvY2lhdGVzQGFraXJh",
-      "summary": "Sadler Gibb is a certified public accounting firm dedicated to pr oviding professional financial services to businesses and individ uals. They specialize in tax planning and preparation, financial  statement audits, business advisory, bookkeeping, and payroll pro cessing.  We are ready to upload more than 65GB data. There are lots of ess ential corporate documents such as: financial data (audit, paymen t details, invoices), detailed employees and customers informatio n (passports, driver&#x27;s license , Social Security Numbers, death/b irth certificate, medical information, emails, phones) confidenti al information, NDAs and other documents with detailed personal i nformation.",
-      "pubDate": "Wed, 29 Oct 2025 12:15:02 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?39801d07d57b6c506ba24bf8b59b60d5",
-      "group": "Akira",
-      "victim": "Sadler Gibb & Associates",
-      "country": "US"
     }
   ]
 }
