@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-07T18:16:41.339Z",
+  "updatedAt": "2025-11-07T19:09:29.960Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Village of New Lenox",
+      "link": "https://www.ransomware.live/id/VmlsbGFnZSBvZiBOZXcgTGVub3hAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 07 Nov 2025 18:17:20 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?7dfb207ddffaa05bbb2f1e7948d42b38",
+      "group": "Qilin",
+      "victim": "Village of New Lenox",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Klae Construction",
+      "link": "https://www.ransomware.live/id/S2xhZSBDb25zdHJ1Y3Rpb25AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 07 Nov 2025 18:16:39 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?91e9f0c54c147eaf57f77955f9da5940",
+      "group": "Qilin",
+      "victim": "Klae Construction",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Aptura Group & Central Indiana Hardware",
       "link": "https://www.ransomware.live/id/QXB0dXJhIEdyb3VwICYgQ2VudHJhbCBJbmRpYW5hIEhhcmR3YXJlQGludGVybG9jaw==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?62ec083a1f198baa9b514fa5d0a7fbdb",
       "group": "Qilin",
       "victim": "Price & Ramey Insurance",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : bassetti-group.com",
-      "link": "https://www.ransomware.live/id/YmFzc2V0dGktZ3JvdXAuY29tQG5vdmE=",
-      "summary": "As a pioneer in industrial digitalization, the BASSETTI Group has been supporting its customers for over 30 years in transferring and enhancing the value of their technical heritage to ensure their sustainable industrial excellence.",
-      "pubDate": "Wed, 29 Oct 2025 16:52:18 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/nova?49deb003b8fc5c49345aa151f93d986a",
-      "group": "Nova",
-      "victim": "bassetti-group.com",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : We R Family Foundation",
-      "link": "https://www.ransomware.live/id/V2UgUiBGYW1pbHkgRm91bmRhdGlvbkBuaWdodHNwaXJl",
-      "summary": "We R Family Foundation",
-      "pubDate": "Wed, 29 Oct 2025 16:50:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nightspire?febaab62911ddcb375bde677bc33c818",
-      "group": "Nightspire",
-      "victim": "We R Family Foundation",
       "country": "US"
     }
   ]
