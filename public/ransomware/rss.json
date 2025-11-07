@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-07T21:08:07.810Z",
+  "updatedAt": "2025-11-07T22:10:34.355Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : DCS TECHNOLOGIES INC.",
+      "link": "https://www.ransomware.live/id/RENTIFRFQ0hOT0xPR0lFUyBJTkMuQGRyYWdvbmZvcmNl",
+      "summary": "DCS Technology Inc. is providing complete IT Solutions since 2004. They are specialized in Point of Sale systems, Website Designing, Technical Support, and Computer Networking Solutions. With 17 years of experience, DCS serving over 5000 businesses in North America.",
+      "pubDate": "Fri, 07 Nov 2025 21:50:17 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?444cd92241acb73a7c4eeae3289ea10e",
+      "group": "Dragonforce",
+      "victim": "DCS TECHNOLOGIES INC.",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Shollenberger Januzzi & Wolfe",
       "link": "https://www.ransomware.live/id/U2hvbGxlbmJlcmdlciBKYW51enppICYgV29sZmVAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Braincipher",
       "victim": "fsbgroup.ca",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Braincipher has just published a new victim : semag.fr",
-      "link": "https://www.ransomware.live/id/c2VtYWcuZnJAQnJhaW5DaXBoZXI=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Wed, 29 Oct 2025 21:37:10 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/BrainCipher?be92c50ceef1a2651ab3a6a92c2fcb7e",
-      "group": "Braincipher",
-      "victim": "semag.fr",
-      "country": "FR"
     }
   ]
 }
