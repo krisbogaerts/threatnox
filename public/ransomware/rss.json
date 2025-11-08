@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-08T08:13:53.747Z",
+  "updatedAt": "2025-11-08T09:10:41.754Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Advanced Delivery Services",
+      "link": "https://www.ransomware.live/id/QWR2YW5jZWQgRGVsaXZlcnkgU2VydmljZXNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sat, 08 Nov 2025 08:49:13 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?26fd49da392020bd2ecefc014ffffa99",
+      "group": "Qilin",
+      "victim": "Advanced Delivery Services",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : SHRM New Mexico",
       "link": "https://www.ransomware.live/id/U0hSTSBOZXcgTWV4aWNvQHFpbGlu",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?aaf83ede5862d0b0276b0fa64e2b8469",
       "group": "Akira",
       "victim": "RPI Roofing",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Spindletop Center",
-      "link": "https://www.ransomware.live/id/U3BpbmRsZXRvcCBDZW50ZXJAcmh5c2lkYQ==",
-      "summary": "Spindletop Center Spindletop Center is a non-profit healthcare organization focused on providing behavioral healthcare, as well as programs for individuals with intellectual and developmental disabilities and substance use recovery services. Over 100,000 patient records (address, phone number, passport number, social security number, diagnosis, medical history, etc.)",
-      "pubDate": "Thu, 30 Oct 2025 09:53:32 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?13d1793cee614437f19ad75ada0d6b5e",
-      "group": "Rhysida",
-      "victim": "Spindletop Center",
       "country": "US"
     }
   ]
