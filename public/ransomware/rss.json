@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-07T23:10:32.120Z",
+  "updatedAt": "2025-11-08T00:50:46.962Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : GB Mail",
+      "link": "https://www.ransomware.live/id/R0IgTWFpbEBkcmFnb25mb3JjZQ==",
+      "summary": "GB Mail is a privately owned and leading mailing house located centrally in the home counties. With a strong ethos of delivering mail with no fuss, on time and in full, the company boasts a dedicated and knowledgeable team passionate about all aspects of print and mail. Their services include storage &amp; fulfilment, postal solutions, print personalisation, database cleansing, international mail, direct mail, and subscription mail.",
+      "pubDate": "Fri, 07 Nov 2025 22:53:42 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/dragonforce?891750759bb6afed595a3d70caa0fe0a",
+      "group": "Dragonforce",
+      "victim": "GB Mail",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : DCS TECHNOLOGIES INC.",
       "link": "https://www.ransomware.live/id/RENTIFRFQ0hOT0xPR0lFUyBJTkMuQGRyYWdvbmZvcmNl",
@@ -2190,17 +2201,6 @@
       "group": "Incransom",
       "victim": "DILOSA FOOD COMPANIES",
       "country": "SV"
-    },
-    {
-      "title": "🏴‍☠️ Braincipher has just published a new victim : fsbgroup.ca",
-      "link": "https://www.ransomware.live/id/ZnNiZ3JvdXAuY2FAQnJhaW5DaXBoZXI=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Wed, 29 Oct 2025 21:37:52 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/BrainCipher?85b52acdef17868d476f8b797071c007",
-      "group": "Braincipher",
-      "victim": "fsbgroup.ca",
-      "country": "CA"
     }
   ]
 }
