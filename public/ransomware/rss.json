@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-08T11:09:00.184Z",
+  "updatedAt": "2025-11-08T12:19:27.428Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Saturday Spotlight",
+      "link": "https://www.ransomware.live/id/U2F0dXJkYXkgU3BvdGxpZ2h0QGhhbmRhbGE=",
+      "summary": "As per our unbreakable tradition, every Saturday, the world awaits the chilling revelation from Handala RedWanted. This week, we pull back the mask on eight more Zionist criminals, names that strike terror in the hearts of those who believe they can commit atrocities from the shadows. Among our revelations are chief architects of the infamous…",
+      "pubDate": "Sat, 08 Nov 2025 10:54:07 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?900ac1fd29080d8f250bab2b81a24b5a",
+      "group": "Handala",
+      "victim": "Saturday Spotlight",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Wasserverband Wulkatal",
       "link": "https://www.ransomware.live/id/V2Fzc2VydmVyYmFuZCBXdWxrYXRhbEBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Apache OpenOffice",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : ASKUL",
-      "link": "https://www.ransomware.live/id/QVNLVUxAcmFuc29taG91c2U=",
-      "summary": "ASKUL Corporation, founded in 1963 and headquartered in Tokyo, is a leading Japanese e-commerce company serving both businesses (B2B) and consumers (B2C). It offers office supplies, daily goods, medical products, and logistics services through platforms such as ASKUL, SOLOEL ARENA, and LOHACO. The company operates its own distribution centers, ensuring fast delivery and efficient supply chain management. ASKUL also provides additional services like printing, office design, and digital business solutions. The company emphasizes sustainability, digital transformation, and recycling initiatives.",
-      "pubDate": "Thu, 30 Oct 2025 11:45:40 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/ransomhouse?c3532ce3cc2f5e0074cfe36cabe0542e",
-      "group": "Ransomhouse",
-      "victim": "ASKUL",
-      "country": "JP"
     }
   ]
 }
