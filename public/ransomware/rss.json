@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-08T16:12:15.255Z",
+  "updatedAt": "2025-11-08T17:09:03.696Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : JC Auto Accident Law Firm",
+      "link": "https://www.ransomware.live/id/SkMgQXV0byBBY2NpZGVudCBMYXcgRmlybUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 08 Nov 2025 16:20:53 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?64d8e8ee6f25a4579e42f1d2c5c9a53b",
+      "group": "Qilin",
+      "victim": "JC Auto Accident Law Firm",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Ponzini S.p.A.",
       "link": "https://www.ransomware.live/id/UG9uemluaSBTLnAuQS5AZHJhZ29uZm9yY2U=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "halifax.k12.va.us",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Econo-Pak",
-      "link": "https://www.ransomware.live/id/RWNvbm8tUGFrQGFraXJh",
-      "summary": "Econo-Pak is a food packaging expert. They help growing companies and Fortune 500 clients package food products at a fixed price. We are going to upload company data soon. You will find financial data (audit, payment details, invoices), detailed employees and  customers information  (emails, phones)  and other documents with detailed personal information.",
-      "pubDate": "Thu, 30 Oct 2025 12:15:59 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/akira?fa1a2f434d935a58c7c240f209240a93",
-      "group": "Akira",
-      "victim": "Econo-Pak",
-      "country": "DE"
     }
   ]
 }
