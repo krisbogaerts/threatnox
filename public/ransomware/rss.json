@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-08T10:10:37.721Z",
+  "updatedAt": "2025-11-08T11:09:00.184Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Wasserverband Wulkatal",
+      "link": "https://www.ransomware.live/id/V2Fzc2VydmVyYmFuZCBXdWxrYXRhbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 08 Nov 2025 10:20:45 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/qilin?46bc7058831810bbc68f8f608df23dc9",
+      "group": "Qilin",
+      "victim": "Wasserverband Wulkatal",
+      "country": "AT"
+    },
     {
       "title": "🏴‍☠️ Securotrop has just published a new victim : Pocatello Ready Mix",
       "link": "https://www.ransomware.live/id/UG9jYXRlbGxvIFJlYWR5IE1peEBzZWN1cm90cm9w",
@@ -2190,17 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "ASKUL",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : The Gerson",
-      "link": "https://www.ransomware.live/id/VGhlIEdlcnNvbkBha2lyYQ==",
-      "summary": "Gerson is a company specializing in high-quality respiratory prot ection products, including NIOSH and FDA approved respirators, ma sks, and filter systems. Their product range includes various sty les such as molded masks, half masks, and full face masks, cateri ng to diverse industrial and health needs.  We are going to upload company data soon. You will find financial data (audit, payment details, financial reports, invoices), deta iled employees and customers information  (medical information, e mails, phones)  and other documents with detailed personal inform ation.",
-      "pubDate": "Thu, 30 Oct 2025 11:12:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?2c7401aae2832fc9e6b707c3490b4f05",
-      "group": "Akira",
-      "victim": "The Gerson",
-      "country": "US"
     }
   ]
 }
