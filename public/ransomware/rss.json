@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-08T14:09:13.520Z",
+  "updatedAt": "2025-11-08T15:10:08.312Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Ponzini S.p.A.",
+      "link": "https://www.ransomware.live/id/UG9uemluaSBTLnAuQS5AZHJhZ29uZm9yY2U=",
+      "summary": "Founded in 1862, Ponzini S.p.A. is a global leader in personal care product manufacturing. With over 160 years of history, the company has evolved to offer innovative and sustainable solutions in cosmetics and oral hygiene. Ponzini emphasizes quality, technology, creativity, sustainability, flexibility and health and safety.",
+      "pubDate": "Sat, 08 Nov 2025 13:53:52 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/dragonforce?31719247cee4736cb7f2ea6cbfc2ffa4",
+      "group": "Dragonforce",
+      "victim": "Ponzini S.p.A.",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Saturday Spotlight",
       "link": "https://www.ransomware.live/id/U2F0dXJkYXkgU3BvdGxpZ2h0QGhhbmRhbGE=",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Econo-Pak",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Apache OpenOffice",
-      "link": "https://www.ransomware.live/id/QXBhY2hlIE9wZW5PZmZpY2VAYWtpcmE=",
-      "summary": "Apache OpenOffice is an open-source office productivity software  suite developed by the Apache Software Foundation. It was created as a successor project of OpenOffice.org, itself a successor to  StarOffice. We will upload 23gb of corporate documents soon. Employee informa tion (addresses, phones, DOB, driver licenses, social security ca rds, credit cards information and so on), financial information,  internal confidential files, lots of reports about their problems with the application and so on.",
-      "pubDate": "Thu, 30 Oct 2025 12:15:54 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?88e78f8ce2d4becf757e54531fba033b",
-      "group": "Akira",
-      "victim": "Apache OpenOffice",
-      "country": "US"
     }
   ]
 }
