@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-08T17:09:03.696Z",
+  "updatedAt": "2025-11-08T18:14:40.007Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Gadge USA",
+      "link": "https://www.ransomware.live/id/R2FkZ2UgVVNBQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 08 Nov 2025 17:50:22 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?ca9b2b23796bb02e5946a82370cd8af7",
+      "group": "Qilin",
+      "victim": "Gadge USA",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : JC Auto Accident Law Firm",
       "link": "https://www.ransomware.live/id/SkMgQXV0byBBY2NpZGVudCBMYXcgRmlybUBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "bagnoles.nl",
       "country": "NL"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : halifax.k12.va.us",
-      "link": "https://www.ransomware.live/id/aGFsaWZheC5rMTIudmEudXNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 30 Oct 2025 13:09:27 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?8d4b32ed213baefb5d5d5e05fbe47b52",
-      "group": "Qilin",
-      "victim": "halifax.k12.va.us",
-      "country": "US"
     }
   ]
 }
