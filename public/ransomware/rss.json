@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-08T00:50:46.962Z",
+  "updatedAt": "2025-11-08T02:19:30.625Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : !",
+      "link": "https://www.ransomware.live/id/IUBzdG9ybW91cw==",
+      "summary": "VPN access to the company’s internal network is provided",
+      "pubDate": "Sat, 08 Nov 2025 01:45:17 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/stormous?35d1c9a206da11ce873c6d0ce4b33747",
+      "group": "Stormous",
+      "victim": "!",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Mold In Graphic Systems",
+      "link": "https://www.ransomware.live/id/TW9sZCBJbiBHcmFwaGljIFN5c3RlbXNAYWtpcmE=",
+      "summary": "Mold In Graphic Systems specializes in providing permanent labeli ng solutions for plastic durable goods using their unique Polymer Fusion Labels. We will upload 15gb of corporate documents soon. Employee informa tion (Driver licenses, credit cards scans, medical information an d so on), projects information, internal confidential files, agre ements and contracts, NDAs, etc.",
+      "pubDate": "Sat, 08 Nov 2025 00:44:06 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?6232cdbc0b1eee23a594c93ad7949ec0",
+      "group": "Akira",
+      "victim": "Mold In Graphic Systems",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : GB Mail",
       "link": "https://www.ransomware.live/id/R0IgTWFpbEBkcmFnb25mb3JjZQ==",
@@ -2179,28 +2201,6 @@
       "group": "Blackshrantac",
       "victim": "ApleNet Co., Ltd",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : nationalcoatingsinc.com",
-      "link": "https://www.ransomware.live/id/bmF0aW9uYWxjb2F0aW5nc2luYy5jb21AbHlueA==",
-      "summary": "National Coatings is a trusted commercial and industrial painting company serving a broad range of commercial and industrial customers, large and small, throughout the U.S.A. They offer expert painting, wallcovering, industrial coatings, and sandblasting services, plus more",
-      "pubDate": "Thu, 30 Oct 2025 00:18:13 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?1bf5c45e253aad77ef5b3bd9dd41abf9",
-      "group": "Lynx",
-      "victim": "nationalcoatingsinc.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : DILOSA FOOD COMPANIES",
-      "link": "https://www.ransomware.live/id/RElMT1NBIEZPT0QgQ09NUEFOSUVTQGluY3JhbnNvbQ==",
-      "summary": "ventasdifrico@dilosafoods.com \r ventas@dilosafoods.com \r servicioalcliente@dilosafoods.com\r +(503) 2201-6806\r +(503) 2201-6810\r +(503) 2201-6800\r +(503) 6060-8784",
-      "pubDate": "Wed, 29 Oct 2025 22:46:07 +0000",
-      "category": "SV",
-      "guid": "https://www.ransomware.live/group/incransom?2bb1500baa8fe00897b12dfbbe69596f",
-      "group": "Incransom",
-      "victim": "DILOSA FOOD COMPANIES",
-      "country": "SV"
     }
   ]
 }
