@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-08T09:10:41.754Z",
+  "updatedAt": "2025-11-08T10:10:37.721Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Securotrop has just published a new victim : Pocatello Ready Mix",
+      "link": "https://www.ransomware.live/id/UG9jYXRlbGxvIFJlYWR5IE1peEBzZWN1cm90cm9w",
+      "summary": "Status: AWAITING Size: 274 GB",
+      "pubDate": "Sat, 08 Nov 2025 09:16:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/securotrop?0418b8aab9efd0d0af7dc85bfa6e7342",
+      "group": "Securotrop",
+      "victim": "Pocatello Ready Mix",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Advanced Delivery Services",
       "link": "https://www.ransomware.live/id/QWR2YW5jZWQgRGVsaXZlcnkgU2VydmljZXNAcWlsaW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?2c7401aae2832fc9e6b707c3490b4f05",
       "group": "Akira",
       "victim": "The Gerson",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : RPI Roofing",
-      "link": "https://www.ransomware.live/id/UlBJIFJvb2ZpbmdAYWtpcmE=",
-      "summary": "RPI Roofing specializes in providing professional commercial roof ing services for businesses in the southeastern United States. We will upload 90gb of corporate documents soon. Detailed employe e information (addresses, phones, DOB, driver licenses, social se curity cards and so on), financial information, internal confiden tial files, NDA, etc.",
-      "pubDate": "Thu, 30 Oct 2025 11:12:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?aaf83ede5862d0b0276b0fa64e2b8469",
-      "group": "Akira",
-      "victim": "RPI Roofing",
       "country": "US"
     }
   ]
