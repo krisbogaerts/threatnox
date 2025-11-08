@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-08T05:10:51.029Z",
+  "updatedAt": "2025-11-08T06:15:43.981Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : SHRM New Mexico",
+      "link": "https://www.ransomware.live/id/U0hSTSBOZXcgTWV4aWNvQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 08 Nov 2025 05:51:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?28eb47828f68175faf3e8c394adb55ec",
+      "group": "Qilin",
+      "victim": "SHRM New Mexico",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Scouts Canada",
+      "link": "https://www.ransomware.live/id/U2NvdXRzIENhbmFkYUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 08 Nov 2025 05:50:35 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?77b21c6b34db458d4bc8ea1a72ffd1a7",
+      "group": "Qilin",
+      "victim": "Scouts Canada",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Stormous has just published a new victim : !",
       "link": "https://www.ransomware.live/id/IUBzdG9ybW91cw==",
@@ -2179,28 +2201,6 @@
       "group": "Rhysida",
       "victim": "Spindletop Center",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Evolve Mortgage Services",
-      "link": "https://www.ransomware.live/id/RXZvbHZlIE1vcnRnYWdlIFNlcnZpY2VzQGluY3JhbnNvbQ==",
-      "summary": "Introducing Evolve Mortgage Services, the old company name mrn3.com. We stole more than 20 TB of company data. Including 2TB of databases. This company refused to resolve the issue with us with the security of its customers&#x27; data. This company does not care about the safety of its customers. They don&#x27;t care about leaks and disclosure of your data. We have all the data on all clients of both companies since 2016. SSN numbers, scans of client IDs, home and work addresses, personal, home and work phone numbers, FULL credit history about each client. Personal and confidential PII form information for thousands of citizens of the United States of America.",
-      "pubDate": "Thu, 30 Oct 2025 03:22:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?07170c97c8d20a814add718601a63fa4",
-      "group": "Incransom",
-      "victim": "Evolve Mortgage Services",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : ApleNet Co., Ltd",
-      "link": "https://www.ransomware.live/id/QXBsZU5ldCBDby4sIEx0ZEBibGFja3NocmFudGFj",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Thu, 30 Oct 2025 03:19:19 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/blackshrantac?c77e63a65bf6fc34c1fed4667639e356",
-      "group": "Blackshrantac",
-      "victim": "ApleNet Co., Ltd",
-      "country": ""
     }
   ]
 }
