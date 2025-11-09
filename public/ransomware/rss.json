@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-09T02:41:52.625Z",
+  "updatedAt": "2025-11-09T03:39:07.624Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Hitzinger",
+      "link": "https://www.ransomware.live/id/SGl0emluZ2VyQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sun, 09 Nov 2025 03:12:17 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/qilin?dd06b2fa8451bd24d7e29ea7a3955b0c",
+      "group": "Qilin",
+      "victim": "Hitzinger",
+      "country": "AT"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Gadge USA",
       "link": "https://www.ransomware.live/id/R2FkZ2UgVVNBQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Bengal Industries",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : bagnoles.nl",
-      "link": "https://www.ransomware.live/id/YmFnbm9sZXMubmxAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 30 Oct 2025 13:09:46 +0000",
-      "category": "NL",
-      "guid": "https://www.ransomware.live/group/qilin?3acab11f53249400f07aa45a7c03993c",
-      "group": "Qilin",
-      "victim": "bagnoles.nl",
-      "country": "NL"
     }
   ]
 }
