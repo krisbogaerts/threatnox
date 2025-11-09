@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-09T13:17:52.201Z",
+  "updatedAt": "2025-11-09T14:08:57.913Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Beast has just published a new victim : Ringmor",
+      "link": "https://www.ransomware.live/id/UmluZ21vckBiZWFzdA==",
+      "summary": "CallMor offers virtual phone system services aimed at businesses looking for unlimited communication options with no hidden fees. Their plans are designed to simplify connectivity for teams and clients alike and include 24/7 customer support. With offices in Orange County, San Diego, and Los Angeles, they prioritize customer satisfaction and provide competitive pricing in the telecommunications market. CallMor is known for its professional service and effectiveness in improving communication and sales results for its clients",
+      "pubDate": "Sun, 09 Nov 2025 13:10:43 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/beast?6b8c0a132402ed1befadb6b0ee8a571d",
+      "group": "Beast",
+      "victim": "Ringmor",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Beast has just published a new victim : Punjab Forensic Science Agency",
+      "link": "https://www.ransomware.live/id/UHVuamFiIEZvcmVuc2ljIFNjaWVuY2UgQWdlbmN5QGJlYXN0",
+      "summary": "The Punjab Forensic Science Agency (PFSA) provides a range of forensic services including audio visual analysis, computer forensics, DNA and serology, pathology, latent fingerprint analysis, and trace chemistry. It aims to support law enforcement agencies through training and education, offering courses and workshops on evidence collection and preservation. The agency also facilitates study tours for various institutions to familiarize them with its operations. PFSA is dedicated to enhancing forensic science capabilities in Pakistan to combat corruption and promote justice.",
+      "pubDate": "Sun, 09 Nov 2025 13:09:45 +0000",
+      "category": "PK",
+      "guid": "https://www.ransomware.live/group/beast?9b37e06f1db7c5dda76a63c4f89a14bb",
+      "group": "Beast",
+      "victim": "Punjab Forensic Science Agency",
+      "country": "PK"
+    },
+    {
+      "title": "🏴‍☠️ Beast has just published a new victim : Noroaco",
+      "link": "https://www.ransomware.live/id/Tm9yb2Fjb0BiZWFzdA==",
+      "summary": "Noroaco - Ferro e Aco specializes in a diverse range of high-quality steel products including tubes, beams, tiles, sheets, and plasma cutting services. With over sixteen years of experience, the company serves clients from various sectors such as agribusiness, construction, metallurgy, and locksmithing. They ensure excellence in every step of production by investing in team training and modern equipment, sourcing steel from the country&#x27;s leading steel mills. Noroaco caters to both wholesale and retail markets, providing tailored solutions for clients&#x27; steel project needs.",
+      "pubDate": "Sun, 09 Nov 2025 13:08:19 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/beast?37e72a4955d89e8724218f559eb4ebd7",
+      "group": "Beast",
+      "victim": "Noroaco",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Gullco International",
       "link": "https://www.ransomware.live/id/R3VsbGNvIEludGVybmF0aW9uYWxAcWlsaW4=",
@@ -2168,39 +2201,6 @@
       "group": "Akira",
       "victim": "Huber , Erickson & Bowman",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Boilersource",
-      "link": "https://www.ransomware.live/id/Qm9pbGVyc291cmNlQGFraXJh",
-      "summary": "Meilner Mechanical Sales, doing business as Boilersource, is a th ird-generation, family-owned and proud WBENC certified business. We will upload corporate documents soon. Employees personal infor mation (addresses, phones, DOB, driver licenses, social security  cards, credit cards insurance forms with personal information), a ccounting information, contracts and agreements, NDA etc.",
-      "pubDate": "Thu, 30 Oct 2025 13:20:56 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?8eae7244d0806bea896a1da7fb5e5e08",
-      "group": "Akira",
-      "victim": "Boilersource",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Sullivan Interests",
-      "link": "https://www.ransomware.live/id/U3VsbGl2YW4gSW50ZXJlc3RzQGFraXJh",
-      "summary": "The Sullivan Brothers Family of Companies (SBFC) offers a diverse range of services in environmental remediation, disaster recover y, health, construction, infrastructure, and industrial sectors a cross North America and beyond. We will upload 40gb of corporate documents soon. Employees person al information (passports, addresses, phones, DOB, driver license s, social security cards, w-9 forms), accounting information, con tracts and agreements, incidents and police reports and so on.",
-      "pubDate": "Thu, 30 Oct 2025 13:20:52 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?10626b921c6d2ce85978633abf0a62a1",
-      "group": "Akira",
-      "victim": "Sullivan Interests",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Suarez & Menendez",
-      "link": "https://www.ransomware.live/id/U3VhcmV6ICYgTWVuZW5kZXpAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 30 Oct 2025 13:15:41 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?750b2ebca8601d29e68f472fbaa026e2",
-      "group": "Qilin",
-      "victim": "Suarez & Menendez",
-      "country": "ES"
     }
   ]
 }
