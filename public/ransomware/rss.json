@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2025-11-09T19:08:22.595Z",
+  "updatedAt": "2025-11-09T20:11:51.353Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Stormous has just published a new victim : !",
+      "link": "https://www.ransomware.live/id/IUBzdG9ybW91cw==",
+      "summary": "VPN access to the company’s internal network is provided",
+      "pubDate": "Sun, 09 Nov 2025 19:54:36 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/stormous?35d1c9a206da11ce873c6d0ce4b33747",
+      "group": "Stormous",
+      "victim": "!",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Servicios del Valle del Fuerte, Mexico",
+      "link": "https://www.ransomware.live/id/U2VydmljaW9zIGRlbCBWYWxsZSBkZWwgRnVlcnRlLCBNZXhpY29AbmlnaHRzcGlyZQ==",
+      "summary": "Servicios del Valle del Fuerte, Mexico",
+      "pubDate": "Sun, 09 Nov 2025 19:48:04 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/nightspire?bf9b334c2fa31cf35bcb9f23cfaa8b81",
+      "group": "Nightspire",
+      "victim": "Servicios del Valle del Fuerte, Mexico",
+      "country": "MX"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Fidelity Pension Managers, Nigeria",
+      "link": "https://www.ransomware.live/id/RmlkZWxpdHkgUGVuc2lvbiBNYW5hZ2VycywgTmlnZXJpYUBuaWdodHNwaXJl",
+      "summary": "Fidelity Pension Managers, Nigeria",
+      "pubDate": "Sun, 09 Nov 2025 19:47:38 +0000",
+      "category": "NG",
+      "guid": "https://www.ransomware.live/group/nightspire?bb1780153c6f15d871f8026694b3f8cf",
+      "group": "Nightspire",
+      "victim": "Fidelity Pension Managers, Nigeria",
+      "country": "NG"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Eastern Cape Department of Human Settlements, South Africa",
+      "link": "https://www.ransomware.live/id/RWFzdGVybiBDYXBlIERlcGFydG1lbnQgb2YgSHVtYW4gU2V0dGxlbWVudHMsIFNvdXRoIEFmcmljYUBuaWdodHNwaXJl",
+      "summary": "Eastern Cape Department of Human Settlements, South Africa",
+      "pubDate": "Sun, 09 Nov 2025 19:47:12 +0000",
+      "category": "ZA",
+      "guid": "https://www.ransomware.live/group/nightspire?b00f58b0f9c73bb6dc66a959a8bbb2e9",
+      "group": "Nightspire",
+      "victim": "Eastern Cape Department of Human Settlements, South Africa",
+      "country": "ZA"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Instituto Nacional de Oftalmologia, Peru",
+      "link": "https://www.ransomware.live/id/SW5zdGl0dXRvIE5hY2lvbmFsIGRlIE9mdGFsbW9sb2dpYSwgUGVydUBuaWdodHNwaXJl",
+      "summary": "Instituto Nacional de Oftalmologia, Peru",
+      "pubDate": "Sun, 09 Nov 2025 19:46:47 +0000",
+      "category": "PE",
+      "guid": "https://www.ransomware.live/group/nightspire?a40d12c8051141d01f8e3f3e0fddd31e",
+      "group": "Nightspire",
+      "victim": "Instituto Nacional de Oftalmologia, Peru",
+      "country": "PE"
+    },
+    {
+      "title": "🏴‍☠️ Medusa has just published a new victim : Atrium Living Centers",
+      "link": "https://www.ransomware.live/id/QXRyaXVtIExpdmluZyBDZW50ZXJzQG1lZHVzYQ==",
+      "summary": "Atrium Living Centers is a 100% employee-owned company providing skilled nursing, rehabilitation, and long-term care services. The organization is dedicated to delivering compassionate, high-quality healthcare to residents while promoting dignity, respect, and community involvement. With a strong focus on personalized treatment, Atrium Living Centers offers both short-term post-acute rehabilitation and long-term nursing care. Their mission is to “be a light in the lives of our residents and families,” ensuring comfort and well-being in a supportive environment. The company operates multiple care centers across several U.S. states, including Ohio, Michigan, Kentucky, and Wisconsin. company is headquartered in Atrium Living Centers headquarters is located at 2550 Corporate Exchange Drive, Suite 200, Columbus, Ohio 43231, United States. 2,000 Employees",
+      "pubDate": "Sun, 09 Nov 2025 18:42:58 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/medusa?1a169872323c24b0facf2cac130bdaa8",
+      "group": "Medusa",
+      "victim": "Atrium Living Centers",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Beast has just published a new victim : Ringmor",
       "link": "https://www.ransomware.live/id/UmluZ21vckBiZWFzdA==",
@@ -155,17 +221,6 @@
       "group": "Qilin",
       "victim": "Scouts Canada",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Stormous has just published a new victim : !",
-      "link": "https://www.ransomware.live/id/IUBzdG9ybW91cw==",
-      "summary": "VPN access to the company’s internal network is provided",
-      "pubDate": "Sat, 08 Nov 2025 01:45:17 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/stormous?35d1c9a206da11ce873c6d0ce4b33747",
-      "group": "Stormous",
-      "victim": "!",
-      "country": ""
     },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Mold In Graphic Systems",
@@ -2146,61 +2201,6 @@
       "group": "Qilin",
       "victim": "Anderson-Moore Construction",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Architectural Systems",
-      "link": "https://www.ransomware.live/id/QXJjaGl0ZWN0dXJhbCBTeXN0ZW1zQGFraXJh",
-      "summary": "Architectural Systems, Inc. is a full-service partner in the comm ercial construction industry, dedicated to providing high-quality products and timely delivery. We will upload 355gb of corporate documents soon. Numerous confid ential files of clients (drawings of building, security systems), customer information, accounting information, contracts and agre ements, client information and so on.",
-      "pubDate": "Thu, 30 Oct 2025 16:18:25 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?fdf758db05f12142ba3babcf1caf1cdd",
-      "group": "Akira",
-      "victim": "Architectural Systems",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Saxun by Giménez Ganga",
-      "link": "https://www.ransomware.live/id/U2F4dW4gYnkgR2ltw6luZXogR2FuZ2FAYWtpcmE=",
-      "summary": "Saxun by Giménez Ganga creates smart sun protection systems for h omes and businesses. We will upload 320gb of corporate documents soon. Lots of project s and clients files, drawings and specifications, employee inform ation, lots of contracts, NDA.",
-      "pubDate": "Thu, 30 Oct 2025 16:18:20 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/akira?31aa35406cd6e106afabde33286b7e8c",
-      "group": "Akira",
-      "victim": "Saxun by Giménez Ganga",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Silverlake Axis",
-      "link": "https://www.ransomware.live/id/U2lsdmVybGFrZSBBeGlzQHRoZWdlbnRsZW1lbg==",
-      "summary": "Stock Symbol 5CP www.silverlakeaxis.com https://www.zoominfo.com/c/silverlake-axis-ltd/259457307 Silverlake Axis Ltd. (\"SAL\") is a leading enterprise technology, software and services company focused on financial services and serves 40% of the top 20 largest banks in South East Asia. Founded in 1989, SAL has an impeccable track record of successful delivery of innovative and transformative solutions to its enterprise customers and their ecosystems. The Group has more than 380 enterprise customers in over 80 countries across Asia, Europe, Middle East, Africa and the Americas. Under Axis Systems Holdings Limited, SAL was listed on the SGX-SESDAQ on 12 March 2003. It was renamed Silverlake Axis Ltd in 2006 and the listing was transferred to the Mainboard of the Singapore Exchange on 22 June 2011.",
-      "pubDate": "Thu, 30 Oct 2025 14:49:12 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/thegentlemen?523d70db1e2ac5fc250a8d9a3e9ea097",
-      "group": "Thegentlemen",
-      "victim": "Silverlake Axis",
-      "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Buffalo Games, Edaron, Ceaco",
-      "link": "https://www.ransomware.live/id/QnVmZmFsbyBHYW1lcywgRWRhcm9uLCBDZWFjb0Bha2lyYQ==",
-      "summary": "Buffalo Games is an American company that specializes in board ga mes and puzzles, headquartered in Buffalo, New York. We also took some data from Edaron, Inc. and Ceaco. We will upload 34gb of corporate documents soon. Numerous employe e docs (passports, driver licenses, social security cards, w-9 fo rms), accounting information, contracts and agreements, client in formation and so on.",
-      "pubDate": "Thu, 30 Oct 2025 14:10:13 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?1a853cd6b5f78d81eedfdeda9d29f60a",
-      "group": "Akira",
-      "victim": "Buffalo Games, Edaron, Ceaco",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Huber , Erickson & Bowman",
-      "link": "https://www.ransomware.live/id/SHViZXIgLCBFcmlja3NvbiAmIEJvd21hbkBha2lyYQ==",
-      "summary": "HEB Advisors is Salt Lake City&#x27;s premier full-service tax and acc ounting firm with over 45 years of experience, serving individual s, small and mid-sized businesses, government entities, and non-p rofit organizations. We will upload 66gb of corporate documents soon. We&#x27;ve taken incr edibly large amount of personal information of clients and employ ees (addresses, phones, DOB, driver licenses, social security car ds, credit cards and so on and so forth), detailed accounting inf ormation, internal confidential files, etc.",
-      "pubDate": "Thu, 30 Oct 2025 13:21:00 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?49f8e7d6d1384b525afffa2471d22cd0",
-      "group": "Akira",
-      "victim": "Huber , Erickson & Bowman",
-      "country": ""
     }
   ]
 }
