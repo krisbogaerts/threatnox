@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-09T11:08:43.647Z",
+  "updatedAt": "2025-11-09T12:19:37.318Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Gullco International",
+      "link": "https://www.ransomware.live/id/R3VsbGNvIEludGVybmF0aW9uYWxAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 09 Nov 2025 11:59:11 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?6d675b5189e3316c23a60451367a422f",
+      "group": "Qilin",
+      "victim": "Gullco International",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Hitzinger",
       "link": "https://www.ransomware.live/id/SGl0emluZ2VyQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Suarez & Menendez",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Bengal Industries",
-      "link": "https://www.ransomware.live/id/QmVuZ2FsIEluZHVzdHJpZXNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 30 Oct 2025 13:10:28 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?145aafc1dba7f78351dbdc9c09bcf30b",
-      "group": "Qilin",
-      "victim": "Bengal Industries",
-      "country": ""
     }
   ]
 }
