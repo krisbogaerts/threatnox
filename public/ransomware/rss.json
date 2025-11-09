@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-09T22:10:13.103Z",
+  "updatedAt": "2025-11-09T23:10:19.446Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ J has just published a new victim : ikad.com.au - A 5-Month Staycation in the Defense Supply Chain",
+      "link": "https://www.ransomware.live/id/aWthZC5jb20uYXUgLSBBIDUtTW9udGggU3RheWNhdGlvbiBpbiB0aGUgRGVmZW5zZSBTdXBwbHkgQ2hhaW5ASg==",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Sun, 09 Nov 2025 22:08:43 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/J?77da11420a13f4caf32e814a889439a4",
+      "group": "J",
+      "victim": "ikad.com.au - A 5-Month Staycation in the Defense Supply Chain",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Stormous has just published a new victim : !",
       "link": "https://www.ransomware.live/id/IUBzdG9ybW91cw==",
@@ -2190,17 +2201,6 @@
       "group": "Blacknevas",
       "victim": "LATCOM",
       "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Anderson-Moore Construction",
-      "link": "https://www.ransomware.live/id/QW5kZXJzb24tTW9vcmUgQ29uc3RydWN0aW9uQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Thu, 30 Oct 2025 16:52:54 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?af972fd4ddfef406d88c4288627ada66",
-      "group": "Qilin",
-      "victim": "Anderson-Moore Construction",
-      "country": "US"
     }
   ]
 }
