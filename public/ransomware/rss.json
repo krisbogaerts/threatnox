@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-10T07:12:34.731Z",
+  "updatedAt": "2025-11-10T08:17:34.200Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : LMHT Associates",
+      "link": "https://www.ransomware.live/id/TE1IVCBBc3NvY2lhdGVzQHJoeXNpZGE=",
+      "summary": "LMHT Associates",
+      "pubDate": "Mon, 10 Nov 2025 07:47:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?41e045ba454db8033f5ee2cdbf638e86",
+      "group": "Rhysida",
+      "victim": "LMHT Associates",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Seward County, KS",
       "link": "https://www.ransomware.live/id/U2V3YXJkIENvdW50eSwgS1NAc2lub2Jp",
@@ -18,11 +29,11 @@
       "link": "https://www.ransomware.live/id/Q2FwaXRhbFBsdXMgRXhjaGFuZ2VAc2lub2Jp",
       "summary": "CapitalPlus Exchange (CapPlus) supports financial institutions in emerging economies by enhancing their strategic and operational capacities, offering training and innovative financing solutions for small and medium enterprises (SMEs). Through initiatives like the Education Markets Impact Initiative (EMII) and FIRST+, CapPlus helps to unlock education finance markets and catalyze job creation in sectors such as agriculture by improving access to finance. CapPlus partners with local institutions to tailor financial services, focusing on underserved demographics such as women and youth. With nearly two decades of experience, CapPlus aims to reduce poverty by expanding financial services for small businesses.",
       "pubDate": "Mon, 10 Nov 2025 00:52:48 +0000",
-      "category": "MY",
+      "category": "US",
       "guid": "https://www.ransomware.live/group/sinobi?0ae62d6e67ec657424114046d7ad3f78",
       "group": "Sinobi",
       "victim": "CapitalPlus Exchange",
-      "country": "MY"
+      "country": "US"
     },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Propertyfinder / PropSpace CRM",
@@ -1008,11 +1019,11 @@
       "link": "https://www.ransomware.live/id/bXl0dW5lLm1lQHdhcmxvY2s=",
       "summary": "No description provided.",
       "pubDate": "Thu, 06 Nov 2025 07:46:15 +0000",
-      "category": "MY",
+      "category": "N/A",
       "guid": "https://www.ransomware.live/group/warlock?4a6936af50728fcd553e5587521f4d65",
       "group": "Warlock",
       "victim": "mytune.me",
-      "country": "MY"
+      "country": ""
     },
     {
       "title": "🏴‍☠️ Warlock has just published a new victim : atg.cz",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "Post Ranch Inn",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : C.M.G, entreprise de serrurerie et métallerie à Saint Calais",
-      "link": "https://www.ransomware.live/id/Qy5NLkcsIGVudHJlcHJpc2UgZGUgc2VycnVyZXJpZSBldCBtw6l0YWxsZXJpZSDDoCBTYWludCBDYWxhaXNAc2lub2Jp",
-      "summary": "CMG Métallerie specializes in the custom creation and installation of industrial metal frameworks and various metal construction works, including locksmithing services. They offer tailored solutions for metal furniture design, access security, and space arrangement, serving clients in the Genevois region, including Saint-Julien-en-Genevois, Annecy, and Geneva. With over 20 years of experience, their team of skilled metalworkers provides personalized project studies and 3D plans to meet unique client needs. Their commitment to quality and responsiveness ensures that each project is handled with care and precision.",
-      "pubDate": "Thu, 30 Oct 2025 17:47:18 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/sinobi?305fa2687a8b6b2778b5f6990eb54c45",
-      "group": "Sinobi",
-      "victim": "C.M.G, entreprise de serrurerie et métallerie à Saint Calais",
-      "country": "FR"
     }
   ]
 }
