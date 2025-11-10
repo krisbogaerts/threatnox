@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-10T22:11:42.577Z",
+  "updatedAt": "2025-11-10T23:11:09.296Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : SIAD",
+      "link": "https://www.ransomware.live/id/U0lBREBldmVyZXN0",
+      "summary": "[AI generated] SIAD is a leading international group operating in the production and sale of industrial and medical gases, engineering, healthcare, and training services. Founded in 1927 in Italy, the company develops, produces, and supplies a range of gases including oxygen, nitrogen, argon, carbon dioxide and hydrogen. SIAD also offers medical gases for healthcare industries, gas equipment, and systems for gas production and treatment.",
+      "pubDate": "Mon, 10 Nov 2025 22:19:33 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/everest?57497938dd51ca3d2af9179ed232f6e4",
+      "group": "Everest",
+      "victim": "SIAD",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : AGFA",
+      "link": "https://www.ransomware.live/id/QUdGQUBldmVyZXN0",
+      "summary": "[AI generated] AGFA, short for AktienGesellschaft für Anilin-Fabrikation, is a multinational company that develops, manufactures, and distributes analogue and digital imaging systems and IT solutions. The company&#x27;s history traces back to 1867 in Berlin, Germany. The company operates in four divisions: health care, graphic systems, materials, and glass. Products include systems for radiology, cardiology, hospital and clinical care, printing and publishing industries.",
+      "pubDate": "Mon, 10 Nov 2025 22:19:15 +0000",
+      "category": "BE",
+      "guid": "https://www.ransomware.live/group/everest?ed91d8c98ab8f4187bea3163dd544055",
+      "group": "Everest",
+      "victim": "AGFA",
+      "country": "BE"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Easterseals Arc of Northeast Indiana",
       "link": "https://www.ransomware.live/id/RWFzdGVyc2VhbHMgQXJjIG9mIE5vcnRoZWFzdCBJbmRpYW5hQGluY3JhbnNvbQ==",
@@ -2179,28 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Central Plate Services Limitited",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Obscura has just published a new victim : New Toyo International Holdings Ltd",
-      "link": "https://www.ransomware.live/id/TmV3IFRveW8gSW50ZXJuYXRpb25hbCBIb2xkaW5ncyBMdGRAb2JzY3VyYQ==",
-      "summary": "Revenue: $221.7kk | Leak Size: 2 GB | Status: Pending | Time Left: 6d 17h 27m 32s",
-      "pubDate": "Sat, 01 Nov 2025 07:14:21 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/obscura?94b2faecc2847d4691157f605ec1f867",
-      "group": "Obscura",
-      "victim": "New Toyo International Holdings Ltd",
-      "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : o*c*u.o**",
-      "link": "https://www.ransomware.live/id/bypjKnUubyoqQGRldm1hbg==",
-      "summary": "Ransom: 500k 120gb",
-      "pubDate": "Sat, 01 Nov 2025 00:44:30 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/devman?fa165f7ad04c5b48eccd67a0a3b00736",
-      "group": "Devman",
-      "victim": "o*c*u.o**",
-      "country": ""
     }
   ]
 }
