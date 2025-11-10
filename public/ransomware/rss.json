@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-10T08:17:34.200Z",
+  "updatedAt": "2025-11-10T09:14:58.266Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : [EVIDENCE PACK 2]ASKUL",
+      "link": "https://www.ransomware.live/id/W0VWSURFTkNFIFBBQ0sgMl1BU0tVTEByYW5zb21ob3VzZQ==",
+      "summary": "ASKUL Corporation, founded in 1963 and headquartered in Tokyo, is a leading Japanese e-commerce company serving both businesses (B2B) and consumers (B2C). It offers office supplies, daily goods, medical products, and logistics services through platforms such as ASKUL, SOLOEL ARENA, and LOHACO. The company operates its own distribution centers, ensuring fast delivery and efficient supply chain management. ASKUL also provides additional services like printing, office design, and digital business solutions. The company emphasizes sustainability, digital transformation, and recycling initiatives.",
+      "pubDate": "Mon, 10 Nov 2025 08:53:38 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/ransomhouse?7813b9f09137fad5709527dbbd1fc043",
+      "group": "Ransomhouse",
+      "victim": "[EVIDENCE PACK 2]ASKUL",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : LMHT Associates",
       "link": "https://www.ransomware.live/id/TE1IVCBBc3NvY2lhdGVzQHJoeXNpZGE=",
@@ -2190,17 +2201,6 @@
       "group": "Obscura",
       "victim": "Thompson Dorfman Sweatman",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Post Ranch Inn",
-      "link": "https://www.ransomware.live/id/UG9zdCBSYW5jaCBJbm5Ac2lub2Jp",
-      "summary": "Post Ranch Inn is a luxury hotel situated on the cliffs of Big Sur, offering stunning views and serene accommodations designed for restorative experiences. The hotel features a variety of luxurious packages, exceptional dining options at its acclaimed restaurant Sierra Mar, and engaging wellness activities like yoga and guided nature walks. Catering primarily to couples and those seeking a tranquil getaway, Post Ranch Inn emphasizes sustainability and community investment. Recognized with numerous awards, including a Three-Key MICHELIN distinction, it provides an unforgettable escape for discerning travelers.",
-      "pubDate": "Thu, 30 Oct 2025 18:50:25 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?24a8f32f7fa12bdcc8a1826111441b78",
-      "group": "Sinobi",
-      "victim": "Post Ranch Inn",
-      "country": "US"
     }
   ]
 }
