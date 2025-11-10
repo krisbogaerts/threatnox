@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-10T15:13:36.283Z",
+  "updatedAt": "2025-11-10T16:15:11.087Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : MARCK Industries",
+      "link": "https://www.ransomware.live/id/TUFSQ0sgSW5kdXN0cmllc0ByYW5zb21ob3VzZQ==",
+      "summary": "GMARCK Industries believe that the services we provide make a difference: In Your Company - From your first 360 Waste Audit to implementing and maintaining your customized recycling program, we help you reach your sustainability goals while helping you increase efficiencies and reduce costs. In Our Community - Recycling keeps reusable products out of the landfill, while boosting the local economy with sustainable jobs.",
+      "pubDate": "Mon, 10 Nov 2025 15:49:37 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/ransomhouse?28f0875d2409272f5720b6b629ae3b74",
+      "group": "Ransomhouse",
+      "victim": "MARCK Industries",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Weintraub Traub Tracy & Virk Cra's LLP",
       "link": "https://www.ransomware.live/id/V2VpbnRyYXViIFRyYXViIFRyYWN5ICYgVmlyayBDcmEncyBMTFBAaW5jcmFuc29t",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/blackshrantac?df8e7c1e905accc49b06969a1106faf5",
       "group": "Blackshrantac",
       "victim": "TENAX Law Group PC",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.verdugohillsdental.com",
-      "link": "https://www.ransomware.live/id/d3d3LnZlcmR1Z29oaWxsc2RlbnRhbC5jb21AYWxwaGFsb2NrZXI=",
-      "summary": "At Verdugo Hills Dental in Glendale, CA, our experienced team is committed to more than just dentistry—we’re here to ensure your comfort and overall well-being every step of the way. From routine check-ups to advanced restorative treatments, we deliver comprehensive care with a gentle touch, alw... Read more ⇒",
-      "pubDate": "Fri, 31 Oct 2025 01:19:28 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/alphalocker?e09034882ed9f08a94d8833abe473123",
-      "group": "Alphalocker",
-      "victim": "www.verdugohillsdental.com",
       "country": "US"
     }
   ]
