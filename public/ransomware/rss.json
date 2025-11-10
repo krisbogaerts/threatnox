@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-10T17:11:11.686Z",
+  "updatedAt": "2025-11-10T18:17:05.425Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : OMS",
+      "link": "https://www.ransomware.live/id/T01TQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 10 Nov 2025 17:37:37 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?05f81b87bd863c4cee8d29baa3be25f0",
+      "group": "Qilin",
+      "victim": "OMS",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Mciver Engineering & Controls",
+      "link": "https://www.ransomware.live/id/TWNpdmVyIEVuZ2luZWVyaW5nICYgQ29udHJvbHNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 10 Nov 2025 17:36:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?721d19f615f6dea46c975bb0003b1970",
+      "group": "Qilin",
+      "victim": "Mciver Engineering & Controls",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Ami Bearings",
       "link": "https://www.ransomware.live/id/QW1pIEJlYXJpbmdzQGFraXJh",
@@ -2179,28 +2201,6 @@
       "group": "Incransom",
       "victim": "VZW Avalon",
       "country": "BE"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : The Matlusky Firm LLC",
-      "link": "https://www.ransomware.live/id/VGhlIE1hdGx1c2t5IEZpcm0gTExDQGJsYWNrc2hyYW50YWM=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 31 Oct 2025 02:15:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/blackshrantac?2d6420dc0cee6c15979e65bc5e82d38e",
-      "group": "Blackshrantac",
-      "victim": "The Matlusky Firm LLC",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : CyPark Resources Berhad",
-      "link": "https://www.ransomware.live/id/Q3lQYXJrIFJlc291cmNlcyBCZXJoYWRAYmxhY2tzaHJhbnRhYw==",
-      "summary": "[AI generated] CyPark Resources Berhad is a Malaysian company specializing in renewable energy, environmental engineering, and landscaping infrastructure. They engage in various large-scale projects dealing with solid waste management and renewable energy sources. Additionally, the company provides solutions like landfill construction, waste treatment technologies, and landscape services for various sectors.",
-      "pubDate": "Fri, 31 Oct 2025 01:21:47 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/blackshrantac?d5faf0fcebc41c742712f99b2cc80f73",
-      "group": "Blackshrantac",
-      "victim": "CyPark Resources Berhad",
-      "country": "MY"
     }
   ]
 }
