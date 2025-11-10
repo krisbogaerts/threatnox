@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-10T12:22:55.857Z",
+  "updatedAt": "2025-11-10T13:26:02.227Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Weintraub Traub Tracy & Virk Cra's LLP",
+      "link": "https://www.ransomware.live/id/V2VpbnRyYXViIFRyYXViIFRyYWN5ICYgVmlyayBDcmEncyBMTFBAaW5jcmFuc29t",
+      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
+      "pubDate": "Mon, 10 Nov 2025 12:21:55 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?17c16be291272a343dbf29c604a110de",
+      "group": "Incransom",
+      "victim": "Weintraub Traub Tracy & Virk Cra's LLP",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : [EVIDENCE PACK 2]ASKUL",
       "link": "https://www.ransomware.live/id/W0VWSURFTkNFIFBBQ0sgMl1BU0tVTEByYW5zb21ob3VzZQ==",
@@ -2190,17 +2201,6 @@
       "group": "Alphalocker",
       "victim": "www.verdugohillsdental.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Obscura has just published a new victim : Thompson Dorfman Sweatman",
-      "link": "https://www.ransomware.live/id/VGhvbXBzb24gRG9yZm1hbiBTd2VhdG1hbkBvYnNjdXJh",
-      "summary": "Revenue: $31.2kk | Leak Size: 250 GB | Status: Pending | Time Left: 8d 3h 57m 25s",
-      "pubDate": "Thu, 30 Oct 2025 20:42:48 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/obscura?61ff160de5044a1eaa70fdadb141ff81",
-      "group": "Obscura",
-      "victim": "Thompson Dorfman Sweatman",
-      "country": "CA"
     }
   ]
 }
