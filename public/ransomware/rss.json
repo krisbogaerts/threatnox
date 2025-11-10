@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-10T19:09:35.083Z",
+  "updatedAt": "2025-11-10T20:16:57.897Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Yaesu",
+      "link": "https://www.ransomware.live/id/WWFlc3VAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 10 Nov 2025 19:49:19 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/qilin?ae38429aa9528e16ee8265bce5ea986e",
+      "group": "Qilin",
+      "victim": "Yaesu",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Garvin Promotion Group",
       "link": "https://www.ransomware.live/id/R2FydmluIFByb21vdGlvbiBHcm91cEBwbGF5",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "ANSELL.COM",
       "country": "BE"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : MASTEC.COM",
-      "link": "https://www.ransomware.live/id/TUFTVEVDLkNPTUBjbG9w",
-      "summary": "[AI generated] MasTec, Inc. is a leading American infrastructure construction firm. Founded in 1929 and currently headquartered in Coral Gables, Florida, MasTec delivers a range of services across different industries including electricity, oil and gas, technology, and telecommunications. Its wide array of services include engineering, building, installation, maintenance, upgrade of energy, utility, and communications infrastructure.",
-      "pubDate": "Fri, 31 Oct 2025 16:31:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?ab5a5154d3b6669fe6ccd4118493f288",
-      "group": "Clop",
-      "victim": "MASTEC.COM",
-      "country": "US"
     }
   ]
 }
