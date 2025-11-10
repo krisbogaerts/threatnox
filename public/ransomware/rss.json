@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-10T20:16:57.897Z",
+  "updatedAt": "2025-11-10T21:11:27.028Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : ielplumbing.com",
+      "link": "https://www.ransomware.live/id/aWVscGx1bWJpbmcuY29tQHNhZmVwYXk=",
+      "summary": "I.E. Plumbing Services is a privately-held plumbing contractor based in Southern California, operating from two locations in the Riverside / …",
+      "pubDate": "Mon, 10 Nov 2025 20:46:00 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/safepay?2eff133959d61be5ff3869cd22d5e8b5",
+      "group": "Safepay",
+      "victim": "ielplumbing.com",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Heart South Cardiovascular Group",
+      "link": "https://www.ransomware.live/id/SGVhcnQgU291dGggQ2FyZGlvdmFzY3VsYXIgR3JvdXBAcmh5c2lkYQ==",
+      "summary": "Heart South Cardiovascular Group Heart South is a leading provider of comprehensive cardiac and vascular care in Central Alabama.    More",
+      "pubDate": "Mon, 10 Nov 2025 20:45:19 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?24dd915dab5fcb7a76339315b367c3f6",
+      "group": "Rhysida",
+      "victim": "Heart South Cardiovascular Group",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Yaesu",
       "link": "https://www.ransomware.live/id/WWFlc3VAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Incransom",
       "victim": "TMF Logistics",
       "country": "DZ"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : aa-llp.com (aa.law)",
-      "link": "https://www.ransomware.live/id/YWEtbGxwLmNvbSAoYWEubGF3KUBpbmNyYW5zb20=",
-      "summary": "All criminal cases, clients&#x27; personal documents, medical records, and all confidential files were stolen.",
-      "pubDate": "Fri, 31 Oct 2025 19:51:55 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?2cb9616d93d6856d33aed94727abf167",
-      "group": "Incransom",
-      "victim": "aa-llp.com (aa.law)",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : ANSELL.COM",
-      "link": "https://www.ransomware.live/id/QU5TRUxMLkNPTUBjbG9w",
-      "summary": "[AI generated] Ansell is a global leader in protection solutions, specializing in the design, development, and manufacture of protective gloves, condoms, and other safety apparel. Founded in Australia with a history spanning 125+ years, now widely recognized in different sectors from healthcare to industrial. They are committed to innovation in products, making them successfully diverse in the global marketplace.",
-      "pubDate": "Fri, 31 Oct 2025 16:32:22 +0000",
-      "category": "BE",
-      "guid": "https://www.ransomware.live/group/clop?6a88f06ef8a0347355cde37bfb1f263d",
-      "group": "Clop",
-      "victim": "ANSELL.COM",
-      "country": "BE"
     }
   ]
 }
