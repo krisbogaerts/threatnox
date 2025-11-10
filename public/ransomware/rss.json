@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-10T16:15:11.087Z",
+  "updatedAt": "2025-11-10T17:11:11.686Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Ami Bearings",
+      "link": "https://www.ransomware.live/id/QW1pIEJlYXJpbmdzQGFraXJh",
+      "summary": "AMI Bearings, Inc. is a premier manufacturer of mounted ball bear ings that caters to the North American market. We will upload 15gb of corporate documents soon. Employee informa tion, clients information, lots of projects information, agreemen ts and contracts, NDAs, etc.",
+      "pubDate": "Mon, 10 Nov 2025 16:15:16 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?131f82ae362905ac461e08a750c06143",
+      "group": "Akira",
+      "victim": "Ami Bearings",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : MARCK Industries",
       "link": "https://www.ransomware.live/id/TUFSQ0sgSW5kdXN0cmllc0ByYW5zb21ob3VzZQ==",
@@ -2190,17 +2201,6 @@
       "group": "Blackshrantac",
       "victim": "CyPark Resources Berhad",
       "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : TENAX Law Group PC",
-      "link": "https://www.ransomware.live/id/VEVOQVggTGF3IEdyb3VwIFBDQGJsYWNrc2hyYW50YWM=",
-      "summary": "[AI generated] TENAX Law Group, P.C. is a U.S.-based law firm that specializes in numerous sectors. Areas of practice include business law, estate planning &amp; trusts, real estate law, civil litigation, among others. It is committed to providing high-quality legal services &amp; personalized solutions to both individuals and businesses. Located in Point Richmond, California, they&#x27;re renowned for maintaining professional and cost-effective legal solutions.",
-      "pubDate": "Fri, 31 Oct 2025 01:21:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/blackshrantac?df8e7c1e905accc49b06969a1106faf5",
-      "group": "Blackshrantac",
-      "victim": "TENAX Law Group PC",
-      "country": "US"
     }
   ]
 }
