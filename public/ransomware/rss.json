@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-11T21:10:42.166Z",
+  "updatedAt": "2025-11-11T22:11:30.537Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Payoutsking has just published a new victim : Irwin Car",
+      "link": "https://www.ransomware.live/id/SXJ3aW4gQ2FyQHBheW91dHNraW5n",
+      "summary": "[AI generated] Irwin Car and Equipment is a manufacturing company specialized in the production of heavy-duty material handling equipment. They create custom mining cars, conveyor cars, tunneling cars and more. It aids various industries, including mining and tunneling, in improving their efficiency and safety. The company is based in the USA and is recognized for its innovative and durable equipment.",
+      "pubDate": "Tue, 11 Nov 2025 21:23:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/payoutsking?c004f7fc198007618c5ac13d022522b8",
+      "group": "Payoutsking",
+      "victim": "Irwin Car",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : Brenda Richardson Memorial Care Home LLC",
       "link": "https://www.ransomware.live/id/QnJlbmRhIFJpY2hhcmRzb24gTWVtb3JpYWwgQ2FyZSBIb21lIExMQ0BhbnViaXM=",
@@ -2190,17 +2201,6 @@
       "group": "Incransom",
       "victim": "Vitalmex",
       "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Morris Communications Company LLC",
-      "link": "https://www.ransomware.live/id/TW9ycmlzIENvbW11bmljYXRpb25zIENvbXBhbnkgTExDQGFraXJh",
-      "summary": "Morris Communications Company, founded in 2001 and headquartered  in Augusta, Georgia, is part of a privately held company with div ersified holdings in media, Real Estate and property development  and agriculture. We are ready to upload more than 84GB data. There are lots of ess ential corporate documents such as: financial data (audit, paymen t details, invoices), detailed employees and customers informatio n (passports, driver&#x27;s license , Social Security Numbers, medical information, death/birth certificate, emails, phones) confidenti al information, NDAs and other documents with detailed personal i nformation.",
-      "pubDate": "Mon, 03 Nov 2025 13:36:04 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?a25c0461ddbba18b8446f2c576002669",
-      "group": "Akira",
-      "victim": "Morris Communications Company LLC",
-      "country": "US"
     }
   ]
 }
