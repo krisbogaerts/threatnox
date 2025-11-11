@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-11T20:12:45.968Z",
+  "updatedAt": "2025-11-11T21:10:42.166Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Brenda Richardson Memorial Care Home LLC",
+      "link": "https://www.ransomware.live/id/QnJlbmRhIFJpY2hhcmRzb24gTWVtb3JpYWwgQ2FyZSBIb21lIExMQ0BhbnViaXM=",
+      "summary": "Negligence of mental health care agency employees",
+      "pubDate": "Tue, 11 Nov 2025 20:50:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?d27fcc18cf4074b7d9c080f37be47bf9",
+      "group": "Anubis",
+      "victim": "Brenda Richardson Memorial Care Home LLC",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Olive Branch Family Medical Center",
+      "link": "https://www.ransomware.live/id/T2xpdmUgQnJhbmNoIEZhbWlseSBNZWRpY2FsIENlbnRlckBhbnViaXM=",
+      "summary": "Data Breach at U.S. Medical Center Puts Thousands of Patients at Risk",
+      "pubDate": "Tue, 11 Nov 2025 20:48:52 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?7dfcb74a21acd56131ca231633664848",
+      "group": "Anubis",
+      "victim": "Olive Branch Family Medical Center",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : glendaleobgyn.com",
       "link": "https://www.ransomware.live/id/Z2xlbmRhbGVvYmd5bi5jb21Ac2FmZXBheQ==",
@@ -2179,28 +2201,6 @@
       "group": "Akira",
       "victim": "Morris Communications Company LLC",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Seasons Federal Credit Union",
-      "link": "https://www.ransomware.live/id/U2Vhc29ucyBGZWRlcmFsIENyZWRpdCBVbmlvbkBha2lyYQ==",
-      "summary": "Montage Marketing Services is an outsourced contact center specia lizing in handling peak activity periods and supporting back-offi ce needs through their Customer Contact Center, Custom Fulfillmen t Center, and Administrative Services. We will upload 17gb of corporate documents soon. Employee and cus tomer information, w-9 forms, contracts and agreements, confident ial files, accounting and financial documents, HR files, NDA, etc .",
-      "pubDate": "Mon, 03 Nov 2025 13:35:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?304038bfe14b33637ee956003719b4cd",
-      "group": "Akira",
-      "victim": "Seasons Federal Credit Union",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Radar has just published a new victim : Kingcan Holdings Limited , Fuzhen Group",
-      "link": "https://www.ransomware.live/id/S2luZ2NhbiBIb2xkaW5ncyBMaW1pdGVkICwgRnV6aGVuIEdyb3VwQHJhZGFy",
-      "summary": "https://web.archive.org/web/20210624183642/http://www.kingcan.net/ Fuzhen Group Founded in 1993, with quality as the cornerstone, specializes in the production of various types of fully open three-piece tinplate beverage cans, food, fruits and vegetables cans and two-piece aluminum products beverage cans and other metal packaging containers, and also provides professional one-stop food and beverage filling and filling foundry business. Fuzhen Group currently has five production bases in Fujian, Shandong, Hubei, Guangdong and Henan, which can produce more than 54 kinds of cans, with an annual production capacity of 2.5 billion three-piece tinplate tinplate cans and 2.5 billion two-piece aluminum cans, of which three tinplate tin cans account for more than 15% of China&#x27;s three-piece tinplate market, and is the best in mainland China&#x27;s tinplate industry! The production is not only highly automated, but also introduces six-color printing presses, high-frequency welding machines and high-speed tank lines with a capacity of 1,000 cans imported by world-renowned manufacturers such as the United Kingdom, Switzerland and Germany. In addition to one-stop production advantages, more to save the transmission costs between the production lines, production integration and production management control degree is also more effective, with perfect one-stop service and strict quality management, to win the long-term trust of customers. The main operating position in the Group - Fujian Fuzhen Metal Packaging Co., Ltd. was certified by IS09000 quality system in 1996, and is a pioneer in China&#x27;s tank manufacturing industry certification. Fuzhen Group has always adhered to the business philosophy of \"integrity and pragmatism, sustainable management\", and aims to \"quality first, customer first, international standards\", and has provided customers with high-quality metal packaging materials with large shipments and stable quality over the years, and the quality of products has been recognized by the client. In addition to the domestic demand market in mainland China, Fuzhen cans are more marketed globally, including the United States and Canada, Japan, India, Pakistan, Yemen and other places; customers throughout the two sides of the well-known beverage and food manufacturers.",
-      "pubDate": "Mon, 03 Nov 2025 13:22:34 +0000",
-      "category": "CN",
-      "guid": "https://www.ransomware.live/group/radar?3c866f41ec2cd8252fa84f685aa9d73f",
-      "group": "Radar",
-      "victim": "Kingcan Holdings Limited , Fuzhen Group",
-      "country": "CN"
     }
   ]
 }
