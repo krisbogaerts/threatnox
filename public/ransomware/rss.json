@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-11T15:12:46.876Z",
+  "updatedAt": "2025-11-11T16:14:26.591Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Barry Sallinger Law",
+      "link": "https://www.ransomware.live/id/QmFycnkgU2FsbGluZ2VyIExhd0Bha2lyYQ==",
+      "summary": "Sallinger / Melancon Defense Attorneys are top-rated criminal def ense lawyers based in Lafayette, specializing in alcohol, drug of fenses, and complex litigation.  We will upload corporate documents soon. Clients personal documen ts (scanned passports, drivers licenses, SSNs, medical informatio n), court files, financials, confidentiality agreements, confiden tial files, police reports and other legal files, etc.",
+      "pubDate": "Tue, 11 Nov 2025 15:40:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?a19d59af74874ad1a780575dbb373918",
+      "group": "Akira",
+      "victim": "Barry Sallinger Law",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Miromar",
+      "link": "https://www.ransomware.live/id/TWlyb21hckBha2lyYQ==",
+      "summary": "Miromar Development Corporation is a multi-faceted real estate de velopment company which holds a portfolio of internationally reco gnized residential and commercial properties in the United States . We will upload corporate documents soon. Clients information, HR  files, financials, agreements and contracts, etc.",
+      "pubDate": "Tue, 11 Nov 2025 15:15:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?10d322f3fd59d5773a2b0d4c1b4834f0",
+      "group": "Akira",
+      "victim": "Miromar",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Rhodes Young Black &Duncan RYBD",
+      "link": "https://www.ransomware.live/id/UmhvZGVzIFlvdW5nIEJsYWNrICZEdW5jYW4gUllCREBha2lyYQ==",
+      "summary": "Rhodes, Young, Black &amp; Duncan is a CPA consulting firm based in D uluth, offering comprehensive tax, accounting, and business consu lting services. We will upload corporate documents soon. Lots of clients personal documents (scanned passports, drivers licenses, SSNs, medical in formation), HR files, financials, agreements and contracts, proje cts, a few military related files, etc.",
+      "pubDate": "Tue, 11 Nov 2025 15:14:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?10c140c315cd7786dc57eb29ac388b48",
+      "group": "Akira",
+      "victim": "Rhodes Young Black &Duncan RYBD",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Public Safety Mutual Benefit Fund",
       "link": "https://www.ransomware.live/id/UHVibGljIFNhZmV0eSBNdXR1YWwgQmVuZWZpdCBGdW5kQHJhbnNvbWhvdXNl",
@@ -2168,39 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "Victorian Chemical",
       "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : REPECHAGE",
-      "link": "https://www.ransomware.live/id/UkVQRUNIQUdFQGluY3JhbnNvbQ==",
-      "summary": "We have over 1 TB of personal data belonging to this organization, and all attempts at peaceful resolution have been completely ignored. Aware that the addresses, phone numbers, and job titles of individual employees, medical records, and complete data on clients and partners have been lost (and will undoubtedly be used for selfish purposes by a huge number of people), they have shown complete indifference—REPECHAGE we want you to know about this before it is too late.",
-      "pubDate": "Mon, 03 Nov 2025 10:52:25 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?4c2c61fa0122f0312ac80d75595d71e4",
-      "group": "Incransom",
-      "victim": "REPECHAGE",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.unterkofler.info",
-      "link": "https://www.ransomware.live/id/d3d3LnVudGVya29mbGVyLmluZm9AYWxwaGFsb2NrZXI=",
-      "summary": "117 GB data has stolen 5611 Grossarl | Marktstr. 109 +43 (0) 6414 / 2760",
-      "pubDate": "Mon, 03 Nov 2025 01:41:25 +0000",
-      "category": "AT",
-      "guid": "https://www.ransomware.live/group/alphalocker?683af37b4b356433fbabc307544c271f",
-      "group": "Alphalocker",
-      "victim": "www.unterkofler.info",
-      "country": "AT"
-    },
-    {
-      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.automotiveml.com",
-      "link": "https://www.ransomware.live/id/d3d3LmF1dG9tb3RpdmVtbC5jb21AYWxwaGFsb2NrZXI=",
-      "summary": "www.automotiveml.com",
-      "pubDate": "Mon, 03 Nov 2025 01:40:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/alphalocker?4d66a96e40bf8259dadc1d1db6707bac",
-      "group": "Alphalocker",
-      "victim": "www.automotiveml.com",
-      "country": "US"
     }
   ]
 }
