@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-11T12:22:40.382Z",
+  "updatedAt": "2025-11-11T13:25:26.901Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : omniumint.com",
+      "link": "https://www.ransomware.live/id/b21uaXVtaW50LmNvbUBkZXZtYW4=",
+      "summary": "Ransom: 1.2million 1.2 tb and one very interesting email",
+      "pubDate": "Tue, 11 Nov 2025 12:21:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?58182eaef7aa5fc3ffdc204255d9b31b",
+      "group": "Devman",
+      "victim": "omniumint.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Polidano Group",
       "link": "https://www.ransomware.live/id/UG9saWRhbm8gR3JvdXBAcmFuc29taG91c2U=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/J?e49d1174a8a9716b20697c2bbc6615e0",
       "group": "J",
       "victim": "****.com.au",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Professional's Choice Sports",
-      "link": "https://www.ransomware.live/id/UHJvZmVzc2lvbmFsJ3MgQ2hvaWNlIFNwb3J0c0BwbGF5",
-      "summary": "United States",
-      "pubDate": "Sat, 01 Nov 2025 15:23:13 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?839521e24b0f76b1cbbcda09c7e56080",
-      "group": "Play",
-      "victim": "Professional's Choice Sports",
       "country": ""
     }
   ]
