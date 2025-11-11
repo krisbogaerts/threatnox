@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-11T19:09:24.220Z",
+  "updatedAt": "2025-11-11T20:12:45.968Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : glendaleobgyn.com",
+      "link": "https://www.ransomware.live/id/Z2xlbmRhbGVvYmd5bi5jb21Ac2FmZXBheQ==",
+      "summary": "Glendale OBGYN (an obstetrics and gynecology practice) would likely operate as a mid-sized women’s health clinic in Glendale, California, offering …",
+      "pubDate": "Tue, 11 Nov 2025 19:18:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?0f4038eb623cc87de17e38ef80afb297",
+      "group": "Safepay",
+      "victim": "glendaleobgyn.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Genesis has just published a new victim : S.B. Conrad, Inc",
       "link": "https://www.ransomware.live/id/Uy5CLiBDb25yYWQsIEluY0BnZW5lc2lz",
@@ -2190,17 +2201,6 @@
       "group": "Radar",
       "victim": "Kingcan Holdings Limited , Fuzhen Group",
       "country": "CN"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Montage Marketing Services",
-      "link": "https://www.ransomware.live/id/TW9udGFnZSBNYXJrZXRpbmcgU2VydmljZXNAYWtpcmE=",
-      "summary": "Montage Marketing Services is an outsourced contact center specia lizing in handling peak activity periods and supporting back-offi ce needs through their Customer Contact Center, Custom Fulfillmen t Center, and Administrative Services. We will upload 26gb of corporate documents soon. Employee and cus tomer information, contracts and agreements, accounting and finan cial documents, HR files, etc.",
-      "pubDate": "Mon, 03 Nov 2025 12:48:05 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?827423e15b67910a0a7e9178f26c6441",
-      "group": "Akira",
-      "victim": "Montage Marketing Services",
-      "country": "US"
     }
   ]
 }
