@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-11T11:10:57.419Z",
+  "updatedAt": "2025-11-11T12:22:40.382Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Polidano Group",
+      "link": "https://www.ransomware.live/id/UG9saWRhbm8gR3JvdXBAcmFuc29taG91c2U=",
+      "summary": "Polidano Group is a leading construction company in Malta, specializing in a wide range of infrastructure projects including transport, social, and lifestyle developments. They also manufacture construction materials such as asphalt, concrete, and bricks, catering to industrial and commercial clients.",
+      "pubDate": "Tue, 11 Nov 2025 11:52:25 +0000",
+      "category": "MT",
+      "guid": "https://www.ransomware.live/group/ransomhouse?c9713bbfd1fe806b639590e2a0778a68",
+      "group": "Ransomhouse",
+      "victim": "Polidano Group",
+      "country": "MT"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : himmelstein.com",
       "link": "https://www.ransomware.live/id/aGltbWVsc3RlaW4uY29tQHNhZmVwYXk=",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Professional's Choice Sports",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Encore Repair Services",
-      "link": "https://www.ransomware.live/id/RW5jb3JlIFJlcGFpciBTZXJ2aWNlc0BwbGF5",
-      "summary": "United States",
-      "pubDate": "Sat, 01 Nov 2025 15:22:32 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?6e5d867efe988d3a96d580701c896dc8",
-      "group": "Play",
-      "victim": "Encore Repair Services",
-      "country": "US"
     }
   ]
 }
