@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-11-11T13:25:26.901Z",
+  "updatedAt": "2025-11-11T14:11:45.681Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Dublin Airport - Database Leaked",
+      "link": "https://www.ransomware.live/id/RHVibGluIEFpcnBvcnQgLSBEYXRhYmFzZSBMZWFrZWRAZXZlcmVzdA==",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Tue, 11 Nov 2025 13:21:35 +0000",
+      "category": "IE",
+      "guid": "https://www.ransomware.live/group/everest?bb7864a400c121b6ac6f80a06d2665fe",
+      "group": "Everest",
+      "victim": "Dublin Airport - Database Leaked",
+      "country": "IE"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Collins Aerospace / RTX.com - Database Leaked",
+      "link": "https://www.ransomware.live/id/Q29sbGlucyBBZXJvc3BhY2UgLyBSVFguY29tIC0gRGF0YWJhc2UgTGVha2VkQGV2ZXJlc3Q=",
+      "summary": "[AI generated] Collins Aerospace is a subsidiary of Raytheon Technologies Corporation, an aerospace and defense company. It produces solutions for aerostructures, avionics, interiors, mechanical systems, mission systems, and power &amp; control systems. However, \"Collins Aerospace/RTX.com - Database Leaked\" seems to refer to an incident where the company’s data might have been compromised. This could potentially include sensitive information like employee data, internal communications, or proprietary information.",
+      "pubDate": "Tue, 11 Nov 2025 13:21:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?20631404aad3cac98c99ee59dd8f296d",
+      "group": "Everest",
+      "victim": "Collins Aerospace / RTX.com - Database Leaked",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Kazu has just published a new victim : National Civil Service Commission of Colombia",
+      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgQ2l2aWwgU2VydmljZSBDb21taXNzaW9uIG9mIENvbG9tYmlhQGthenU=",
+      "summary": "The official portal of the Comisión Nacional del Servicio Civil (CNSC), Colombia’s National Civil Service Commission. This government body is responsible for overseeing the recruitment, selection, and management of public servants in the country. It ensures that hiring for government positions is fair, transparent, and based on merit. The site provides essential information about job openings in the public sector, application processes, and the regulations that govern public service employment in Colombia. It serves as a key resource for individuals seeking to apply for civil service positions or learn about public sector employment in Colombia",
+      "pubDate": "Tue, 11 Nov 2025 13:20:23 +0000",
+      "category": "CO",
+      "guid": "https://www.ransomware.live/group/kazu?86d5f87b2c64386791d4dfa3b1bd599e",
+      "group": "Kazu",
+      "victim": "National Civil Service Commission of Colombia",
+      "country": "CO"
+    },
+    {
+      "title": "🏴‍☠️ Kazu has just published a new victim : Defensoría del Pueblo de Colombia – Protection and Promotion of Human Rights",
+      "link": "https://www.ransomware.live/id/RGVmZW5zb3LDrWEgZGVsIFB1ZWJsbyBkZSBDb2xvbWJpYSDigJMgUHJvdGVjdGlvbiBhbmQgUHJvbW90aW9uIG9mIEh1bWFuIFJpZ2h0c0BrYXp1",
+      "summary": "The official online portal of the Defensoría del Pueblo de Colombia, a constitutional and autonomous institution responsible for promoting, protecting, and defending human rights across the country. It serves as a public platform where citizens can access information about their rights, file complaints, seek legal guidance, and learn about the institution’s oversight and advocacy efforts. The Defensoría operates independently from other branches of government and plays a key role in ensuring that state entities respect and uphold fundamental rights, especially for vulnerable populations",
+      "pubDate": "Tue, 11 Nov 2025 13:19:58 +0000",
+      "category": "CO",
+      "guid": "https://www.ransomware.live/group/kazu?1812f44be4b4533f350fa1cf0b0e9fdd",
+      "group": "Kazu",
+      "victim": "Defensoría del Pueblo de Colombia – Protection and Promotion of Human Rights",
+      "country": "CO"
+    },
+    {
+      "title": "🏴‍☠️ Kazu has just published a new victim : Doctor Alliance – Streamlined Document and Billing Management for Healthcare Providers",
+      "link": "https://www.ransomware.live/id/RG9jdG9yIEFsbGlhbmNlIOKAkyBTdHJlYW1saW5lZCBEb2N1bWVudCBhbmQgQmlsbGluZyBNYW5hZ2VtZW50IGZvciBIZWFsdGhjYXJlIFByb3ZpZGVyc0BrYXp1",
+      "summary": "Doctor Alliance (doctoralliance.com) is a U.S.-based healthcare technology platform that helps physicians and medical agencies manage documents, referrals, and billing in one secure online system. Headquartered in Dallas, Texas, it offers services such as electronic document signing, coordination with agencies, and billing support for programs like CPO, CCM, and TCM. The platform integrates with systems like Axxess Home Health to streamline workflow and reduce paperwork, promoting faster document turnaround and improved billing efficiency -- contact me to protect your files !!",
+      "pubDate": "Tue, 11 Nov 2025 13:19:33 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/kazu?412ca207799efb3c86135e94efbad262",
+      "group": "Kazu",
+      "victim": "Doctor Alliance – Streamlined Document and Billing Management for Healthcare Providers",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : omniumint.com",
       "link": "https://www.ransomware.live/id/b21uaXVtaW50LmNvbUBkZXZtYW4=",
@@ -2145,61 +2200,6 @@
       "guid": "https://www.ransomware.live/group/coinbasecartel?e9bc4eec856a8c1e51221470017b769e",
       "group": "Coinbasecartel",
       "victim": "CEVA LOGISTICS - THIS DATABASE IS FOR SALE",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Mayco International [www.maycointernational.com]",
-      "link": "https://www.ransomware.live/id/TWF5Y28gSW50ZXJuYXRpb25hbCBbd3d3Lm1heWNvaW50ZXJuYXRpb25hbC5jb21dQGFudWJpcw==",
-      "summary": "Data breach at automotive industry leader.",
-      "pubDate": "Sun, 02 Nov 2025 23:45:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?f09d989c98a27634422c4312ed6a2450",
-      "group": "Anubis",
-      "victim": "Mayco International [www.maycointernational.com]",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Castilla",
-      "link": "https://www.ransomware.live/id/Q2FzdGlsbGFAbm92YQ==",
-      "summary": "Castilla is a company that operates in the Consumer Services industry. It employs 5to9 people and has 1Mto5M of revenue. The company is headquartered in Soria, Castille and Leon, Spain.",
-      "pubDate": "Sun, 02 Nov 2025 17:12:41 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/nova?85f70f9e09a7031f088ec96751ccfe0e",
-      "group": "Nova",
-      "victim": "Castilla",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Deco Dental",
-      "link": "https://www.ransomware.live/id/RGVjbyBEZW50YWxAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 02 Nov 2025 13:16:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?19529c9f0ba59d41cde05095cf4bee23",
-      "group": "Qilin",
-      "victim": "Deco Dental",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : m*c*e*ic*l.com",
-      "link": "https://www.ransomware.live/id/bSpjKmUqaWMqbC5jb21AZGV2bWFu",
-      "summary": "Ransom: 50gb 100k",
-      "pubDate": "Sat, 01 Nov 2025 23:14:04 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/devman?56e73e4c4e84ca0a6e9a2e72dad9ab56",
-      "group": "Devman",
-      "victim": "m*c*e*ic*l.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ J has just published a new victim : ****.com.au",
-      "link": "https://www.ransomware.live/id/KioqKi5jb20uYXVASg==",
-      "summary": "",
-      "pubDate": "Sat, 01 Nov 2025 17:08:44 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/J?e49d1174a8a9716b20697c2bbc6615e0",
-      "group": "J",
-      "victim": "****.com.au",
       "country": ""
     }
   ]
