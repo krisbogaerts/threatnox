@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-11T18:16:44.221Z",
+  "updatedAt": "2025-11-11T19:09:24.220Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : S.B. Conrad, Inc",
+      "link": "https://www.ransomware.live/id/Uy5CLiBDb25yYWQsIEluY0BnZW5lc2lz",
+      "summary": "A general contracting construction company",
+      "pubDate": "Tue, 11 Nov 2025 18:22:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?ca28bcf729e8953de8c00158db6a622e",
+      "group": "Genesis",
+      "victim": "S.B. Conrad, Inc",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Continental Global Group",
+      "link": "https://www.ransomware.live/id/Q29udGluZW50YWwgR2xvYmFsIEdyb3VwQGdlbmVzaXM=",
+      "summary": "A subsidiary of PPI Global",
+      "pubDate": "Tue, 11 Nov 2025 18:22:09 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?bdf4cb44bf4f681211357f81f4b30694",
+      "group": "Genesis",
+      "victim": "Continental Global Group",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Lows Orkney",
+      "link": "https://www.ransomware.live/id/TG93cyBPcmtuZXlAZ2VuZXNpcw==",
+      "summary": "A legal and accounting provider",
+      "pubDate": "Tue, 11 Nov 2025 18:21:31 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/genesis?705598a154902afeecd2ef79bdc934c4",
+      "group": "Genesis",
+      "victim": "Lows Orkney",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Manusos General Contracting, Inc",
+      "link": "https://www.ransomware.live/id/TWFudXNvcyBHZW5lcmFsIENvbnRyYWN0aW5nLCBJbmNAZ2VuZXNpcw==",
+      "summary": "A general contracting construction company",
+      "pubDate": "Tue, 11 Nov 2025 18:20:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?0ec7c4f7effeacc222b6f5a60c3a4e12",
+      "group": "Genesis",
+      "victim": "Manusos General Contracting, Inc",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Barry Sallinger Law",
       "link": "https://www.ransomware.live/id/QmFycnkgU2FsbGluZ2VyIExhd0Bha2lyYQ==",
@@ -2157,50 +2201,6 @@
       "group": "Akira",
       "victim": "Montage Marketing Services",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : ANCO",
-      "link": "https://www.ransomware.live/id/QU5DT0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 03 Nov 2025 12:23:21 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?51309781ddd9f51f5f4d30d71fca90fa",
-      "group": "Qilin",
-      "victim": "ANCO",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Pear has just published a new victim : Gerson & Schwartz Accident & Injury Lawyers",
-      "link": "https://www.ransomware.live/id/R2Vyc29uICYgU2Nod2FydHogQWNjaWRlbnQgJiBJbmp1cnkgTGF3eWVyc0BwZWFy",
-      "summary": "A Miami law firm representing victims in all types of legal proceedings related to accidents, injuries, and wrongful death",
-      "pubDate": "Mon, 03 Nov 2025 12:22:04 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/pear?4853683604be8790df3b258d0bc886f2",
-      "group": "Pear",
-      "victim": "Gerson & Schwartz Accident & Injury Lawyers",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : G. Hauswirth Architects",
-      "link": "https://www.ransomware.live/id/Ry4gSGF1c3dpcnRoIEFyY2hpdGVjdHNAZHJhZ29uZm9yY2U=",
-      "summary": "G. Hauswirth Architects G. Hauswirth Architekten AG is one of the leading architectural firms for chalets in Gstaad - Saanenland. Our core areas are residential, hotel, commercial and cultural facilities. We combine tailor-made architecture, Swiss tradition and modern design in our work. We attach great importance to the realization of individual wishes in every phase of a project.",
-      "pubDate": "Mon, 03 Nov 2025 11:51:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?fda19b3628903851da1b8c690a38d97e",
-      "group": "Dragonforce",
-      "victim": "G. Hauswirth Architects",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Victorian Chemical",
-      "link": "https://www.ransomware.live/id/VmljdG9yaWFuIENoZW1pY2FsQHJhbnNvbWhvdXNl",
-      "summary": "Vicchem, based in Melbourne, Australia, is a specialist manufacturer and global marketer of agricultural and industrial chemical products since 1933. The company offers a diverse range of over 30 agricultural products, including spray adjuvants and organic insecticides, suitable for various farming applications. Additionally, Vicchem provides industrial chemicals, such as concrete mould release agents and degreasers, for multiple industries.",
-      "pubDate": "Mon, 03 Nov 2025 11:23:29 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/ransomhouse?a58ee94e26dfecc0fa69778b656d0d7b",
-      "group": "Ransomhouse",
-      "victim": "Victorian Chemical",
-      "country": "AU"
     }
   ]
 }
