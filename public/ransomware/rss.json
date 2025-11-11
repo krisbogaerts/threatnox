@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-11T06:18:24.917Z",
+  "updatedAt": "2025-11-11T07:12:52.477Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sarcoma has just published a new victim : Paul Hildebrandt",
+      "link": "https://www.ransomware.live/id/UGF1bCBIaWxkZWJyYW5kdEBzYXJjb21h",
+      "summary": "Paul Hildebrandt Paul Hildebrandt AG is a leading packaging company offering over 50,000 products, including environmentally friendly options. With 300 employees across 14 locations in Germany, Austria, and Denmark, they provide tailored packaging solutions for a variety of industries. The company emphasizes sustainability and efficient packaging processes as part of their commitment to client solutions. Their diverse product range includes films, boxes, adhesive tapes, and various packaging materials.Geo: Germany - Leak size: 1,4 TB Archive - Contains: Files, SQL, Exchange",
+      "pubDate": "Tue, 11 Nov 2025 06:54:01 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/sarcoma?02178fbaebe0b6305b4ba7f3d571ad45",
+      "group": "Sarcoma",
+      "victim": "Paul Hildebrandt",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Nightspire has just published a new victim : Vascara, Vietnam",
       "link": "https://www.ransomware.live/id/VmFzY2FyYSwgVmlldG5hbUBuaWdodHNwaXJl",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?6653b36bcda4c75ede146ec29a0a4256",
       "group": "Play",
       "victim": "Tavo Packaging Inc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Wright Tool",
-      "link": "https://www.ransomware.live/id/V3JpZ2h0IFRvb2xAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Sat, 01 Nov 2025 15:21:08 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?03efbfa20f2247b87925c5a5d8d8075b",
-      "group": "Play",
-      "victim": "Wright Tool",
       "country": "US"
     }
   ]
