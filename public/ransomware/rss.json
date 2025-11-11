@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-11T07:12:52.477Z",
+  "updatedAt": "2025-11-11T08:15:56.359Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : himmelstein.com",
+      "link": "https://www.ransomware.live/id/aGltbWVsc3RlaW4uY29tQHNhZmVwYXk=",
+      "summary": "S. Himmelstein &amp; Company is a U.S.-based specialist manufacturer founded in 1960, headquartered in Hoffman Estates, Illinois. The company focuses …",
+      "pubDate": "Tue, 11 Nov 2025 07:50:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?7c650e80ed6d841d6527e331963ea0ae",
+      "group": "Safepay",
+      "victim": "himmelstein.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sarcoma has just published a new victim : Paul Hildebrandt",
       "link": "https://www.ransomware.live/id/UGF1bCBIaWxkZWJyYW5kdEBzYXJjb21h",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?6e5d867efe988d3a96d580701c896dc8",
       "group": "Play",
       "victim": "Encore Repair Services",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Tavo Packaging Inc",
-      "link": "https://www.ransomware.live/id/VGF2byBQYWNrYWdpbmcgSW5jQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Sat, 01 Nov 2025 15:21:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?6653b36bcda4c75ede146ec29a0a4256",
-      "group": "Play",
-      "victim": "Tavo Packaging Inc",
       "country": "US"
     }
   ]
