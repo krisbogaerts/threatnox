@@ -1,27 +1,38 @@
 {
-  "updatedAt": "2025-11-11T14:11:45.681Z",
+  "updatedAt": "2025-11-11T15:12:46.876Z",
   "count": 200,
   "items": [
     {
-      "title": "🏴‍☠️ Everest has just published a new victim : Dublin Airport - Database Leaked",
-      "link": "https://www.ransomware.live/id/RHVibGluIEFpcnBvcnQgLSBEYXRhYmFzZSBMZWFrZWRAZXZlcmVzdA==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Tue, 11 Nov 2025 13:21:35 +0000",
-      "category": "IE",
-      "guid": "https://www.ransomware.live/group/everest?bb7864a400c121b6ac6f80a06d2665fe",
-      "group": "Everest",
-      "victim": "Dublin Airport - Database Leaked",
-      "country": "IE"
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Public Safety Mutual Benefit Fund",
+      "link": "https://www.ransomware.live/id/UHVibGljIFNhZmV0eSBNdXR1YWwgQmVuZWZpdCBGdW5kQHJhbnNvbWhvdXNl",
+      "summary": "The Public Safety Mutual Benefit Fund, Inc. (PSMBFI) is a non-stock, non-profit mutual benefit fund association dedicated to providing life insurance protection and financial assistance to its members, including personnel from various public safety agencies in the Philippines. Its services include various insurance plans, loans, and benefits tailored specifically for public safety practitioners, both uniformed and civilian. PSMBFI ensures timely releases of cash advances to beneficiaries for funeral expenses and processes full claims efficiently.",
+      "pubDate": "Tue, 11 Nov 2025 14:20:11 +0000",
+      "category": "PH",
+      "guid": "https://www.ransomware.live/group/ransomhouse?ae9862f556c214f3e960448d73139287",
+      "group": "Ransomhouse",
+      "victim": "Public Safety Mutual Benefit Fund",
+      "country": "PH"
     },
     {
-      "title": "🏴‍☠️ Everest has just published a new victim : Collins Aerospace / RTX.com - Database Leaked",
-      "link": "https://www.ransomware.live/id/Q29sbGlucyBBZXJvc3BhY2UgLyBSVFguY29tIC0gRGF0YWJhc2UgTGVha2VkQGV2ZXJlc3Q=",
-      "summary": "[AI generated] Collins Aerospace is a subsidiary of Raytheon Technologies Corporation, an aerospace and defense company. It produces solutions for aerostructures, avionics, interiors, mechanical systems, mission systems, and power &amp; control systems. However, \"Collins Aerospace/RTX.com - Database Leaked\" seems to refer to an incident where the company’s data might have been compromised. This could potentially include sensitive information like employee data, internal communications, or proprietary information.",
-      "pubDate": "Tue, 11 Nov 2025 13:21:18 +0000",
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Octomeca Oy",
+      "link": "https://www.ransomware.live/id/T2N0b21lY2EgT3lAcmFuc29taG91c2U=",
+      "summary": "Octomeca is Finnish technology company, founded in 1989. We are specialized in designing and manufacturing of premium class stretch film wrapping machines.",
+      "pubDate": "Tue, 11 Nov 2025 14:19:35 +0000",
+      "category": "FI",
+      "guid": "https://www.ransomware.live/group/ransomhouse?2056c69a8d9513ecf2c21ea37a431e07",
+      "group": "Ransomhouse",
+      "victim": "Octomeca Oy",
+      "country": "FI"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Brian-Kyles Construction",
+      "link": "https://www.ransomware.live/id/QnJpYW4tS3lsZXMgQ29uc3RydWN0aW9uQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 11 Nov 2025 14:18:58 +0000",
       "category": "US",
-      "guid": "https://www.ransomware.live/group/everest?20631404aad3cac98c99ee59dd8f296d",
-      "group": "Everest",
-      "victim": "Collins Aerospace / RTX.com - Database Leaked",
+      "guid": "https://www.ransomware.live/group/qilin?183482d2b99309a26e7a16bf12d46480",
+      "group": "Qilin",
+      "victim": "Brian-Kyles Construction",
       "country": "US"
     },
     {
@@ -2190,17 +2201,6 @@
       "group": "Alphalocker",
       "victim": "www.automotiveml.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : CEVA LOGISTICS - THIS DATABASE IS FOR SALE",
-      "link": "https://www.ransomware.live/id/Q0VWQSBMT0dJU1RJQ1MgLSBUSElTIERBVEFCQVNFIElTIEZPUiBTQUxFQGNvaW5iYXNlY2FydGVs",
-      "summary": "CEVA Logistics is a global asset-light supply chain management company. It designs and implements freight forwarding, contract logistics, transport...",
-      "pubDate": "Sun, 02 Nov 2025 23:47:44 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?e9bc4eec856a8c1e51221470017b769e",
-      "group": "Coinbasecartel",
-      "victim": "CEVA LOGISTICS - THIS DATABASE IS FOR SALE",
-      "country": ""
     }
   ]
 }
