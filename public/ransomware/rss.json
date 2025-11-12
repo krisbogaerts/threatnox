@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-12T08:16:33.783Z",
+  "updatedAt": "2025-11-12T09:14:13.810Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Treetop Companies",
+      "link": "https://www.ransomware.live/id/VHJlZXRvcCBDb21wYW5pZXNAYWtpcmE=",
+      "summary": "Treetop Companies is a real estate investment firm founded in 200 5 by Azi Mandel and Adam Mermelstein. We will upload almost 100gb of corporate documents soon. Lots of  confidential files, clients personal documents (passports, driver s licenses, financials), other internal client information, NDA,  etc.",
+      "pubDate": "Wed, 12 Nov 2025 08:42:24 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?ee8a35ec5cdeef92bfb8876b5e67a137",
+      "group": "Akira",
+      "victim": "Treetop Companies",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : ctfc.cat",
       "link": "https://www.ransomware.live/id/Y3RmYy5jYXRAZGV2bWFu",
@@ -2190,17 +2201,6 @@
       "group": "Anubis",
       "victim": "Mayco International",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Dayal Metal Containers Factory LLC",
-      "link": "https://www.ransomware.live/id/RGF5YWwgTWV0YWwgQ29udGFpbmVycyBGYWN0b3J5IExMQ0BuaWdodHNwaXJl",
-      "summary": "Dayal Metal Containers Factory LLC",
-      "pubDate": "Mon, 03 Nov 2025 14:43:21 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/nightspire?2a8fc489341929802df2b385b073fdc7",
-      "group": "Nightspire",
-      "victim": "Dayal Metal Containers Factory LLC",
-      "country": "AE"
     }
   ]
 }
