@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-12T16:15:50.921Z",
+  "updatedAt": "2025-11-12T17:12:48.241Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : *******.com",
+      "link": "https://www.ransomware.live/id/KioqKioqKi5jb21AdGhlZ2VudGxlbWVu",
+      "summary": "http://25swr3rgce7elyedjmmhdw4ourgtxc72mj2cynsrqz6wwitestfpiiyd.onion/",
+      "pubDate": "Wed, 12 Nov 2025 16:26:51 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/thegentlemen?168966e56516bec70db8cb0f900b4ba9",
+      "group": "Thegentlemen",
+      "victim": "*******.com",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : KohaFoods Hawaii",
       "link": "https://www.ransomware.live/id/S29oYUZvb2RzIEhhd2FpaUBpbmNyYW5zb20=",
@@ -2190,17 +2201,6 @@
       "group": "Spacebears",
       "victim": "Rios Espinosa",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Crown Automotive Sales",
-      "link": "https://www.ransomware.live/id/Q3Jvd24gQXV0b21vdGl2ZSBTYWxlc0BzaW5vYmk=",
-      "summary": "Crown Automotive Sales Co specializes in providing high-quality replacement parts for Jeep, Chrysler, and Dodge vehicles. With over 8,000 part numbers and a diverse range of applications, the company supplies authorized dealers with essential components for both maintenance and upgrades. Additionally, their RT Off-Road line features performance accessories specifically tailored for Jeep models. The company has been a key player in the automotive parts industry since 1963, serving retailers and dealers exclusively.",
-      "pubDate": "Tue, 04 Nov 2025 00:48:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?e63456f5369e3d24973a56366dd00c99",
-      "group": "Sinobi",
-      "victim": "Crown Automotive Sales",
-      "country": "US"
     }
   ]
 }
