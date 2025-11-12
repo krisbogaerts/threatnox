@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-12T07:12:23.374Z",
+  "updatedAt": "2025-11-12T08:16:33.783Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : ctfc.cat",
+      "link": "https://www.ransomware.live/id/Y3RmYy5jYXRAZGV2bWFu",
+      "summary": "Ransom: 248000 30gb of files exfiltrated",
+      "pubDate": "Wed, 12 Nov 2025 07:49:52 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/devman?074bf459206fd5f22f70f6e50a855d0d",
+      "group": "Devman",
+      "victim": "ctfc.cat",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Crypto24 has just published a new victim : AsahiKASEI MICRODEVICES",
       "link": "https://www.ransomware.live/id/QXNhaGlLQVNFSSBNSUNST0RFVklDRVNAY3J5cHRvMjQ=",
@@ -2190,17 +2201,6 @@
       "group": "Nightspire",
       "victim": "Dayal Metal Containers Factory LLC",
       "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : BR Group",
-      "link": "https://www.ransomware.live/id/QlIgR3JvdXBAbmlnaHRzcGlyZQ==",
-      "summary": "BR Group",
-      "pubDate": "Mon, 03 Nov 2025 14:42:57 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/nightspire?4bcc157cd3caef780aa95bf44fe18999",
-      "group": "Nightspire",
-      "victim": "BR Group",
-      "country": ""
     }
   ]
 }
