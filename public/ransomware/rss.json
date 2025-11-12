@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-12T06:18:16.818Z",
+  "updatedAt": "2025-11-12T07:12:23.374Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Crypto24 has just published a new victim : AsahiKASEI MICRODEVICES",
+      "link": "https://www.ransomware.live/id/QXNhaGlLQVNFSSBNSUNST0RFVklDRVNAY3J5cHRvMjQ=",
+      "summary": "...",
+      "pubDate": "Wed, 12 Nov 2025 06:42:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/crypto24?a16408dd5e26e99e9d021ae4de85f0b0",
+      "group": "Crypto24",
+      "victim": "AsahiKASEI MICRODEVICES",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Wiraswasta Gemilang",
       "link": "https://www.ransomware.live/id/V2lyYXN3YXN0YSBHZW1pbGFuZ0BpbmNyYW5zb20=",
@@ -2190,17 +2201,6 @@
       "group": "Nightspire",
       "victim": "BR Group",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : UnitedLayer",
-      "link": "https://www.ransomware.live/id/VW5pdGVkTGF5ZXJAcmFuc29taG91c2U=",
-      "summary": "UnitedLayer® provides the Colocation services from one of the largest data centers in San Francisco, USA, at 200 Paul Ave. Their long list of managed services enables enterprises to modernize their infrastructure and improve their responsiveness, resource utilization, scalability, and agility resulting in better customer experience and faster time to market",
-      "pubDate": "Mon, 03 Nov 2025 14:10:00 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/ransomhouse?b9313c9ff4733ebcfb01138a8398aa2a",
-      "group": "Ransomhouse",
-      "victim": "UnitedLayer",
-      "country": "US"
     }
   ]
 }
