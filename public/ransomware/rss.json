@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-12T12:23:05.709Z",
+  "updatedAt": "2025-11-12T13:27:31.468Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Soleol",
+      "link": "https://www.ransomware.live/id/U29sZW9sQHJhbnNvbWhvdXNl",
+      "summary": "Soleol is an Algerian renewable energy company that designs and installs solar equipment for homes, businesses, and local governments. Their unique products are built using biomimetic technology, which means they copy natural designs to create environmentally friendly solar solutions.",
+      "pubDate": "Wed, 12 Nov 2025 12:55:22 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/ransomhouse?f6ecd82d7425471b2d08b69d16f666ec",
+      "group": "Ransomhouse",
+      "victim": "Soleol",
+      "country": "CH"
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Vennerhus Weine AG",
+      "link": "https://www.ransomware.live/id/VmVubmVyaHVzIFdlaW5lIEFHQHJhbnNvbWhvdXNl",
+      "summary": "Vennerhus Weine AG is a Swiss wine company based in Grosshöchstetten, Canton of Bern. Founded in 1994, the company specializes in the import, trade, and distribution of high-quality wines. In addition to wine sales, Vennerhus offers professional wine tastings, courses, and events designed for both private clients and corporate customers.",
+      "pubDate": "Wed, 12 Nov 2025 12:54:45 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/ransomhouse?3ea25be2b1d8f832b59ebbd32ecde7e4",
+      "group": "Ransomhouse",
+      "victim": "Vennerhus Weine AG",
+      "country": "CH"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Grupo Via Argentina",
+      "link": "https://www.ransomware.live/id/R3J1cG8gVmlhIEFyZ2VudGluYUBpbmNyYW5zb20=",
+      "summary": "Grupo Vía hosts events focusing on architecture, interior design, real estate, hospitality, and construction. Its activities connect professionals from these sectors with networking opportunities and debates on contemporary trends. The company serves a diverse clientele, including architects, designers, and industry stakeholders across major cities in Spain and Portugal. Through its offerings, Grupo Vía aims to foster collaboration and innovation within the built environment.",
+      "pubDate": "Wed, 12 Nov 2025 12:51:57 +0000",
+      "category": "AR",
+      "guid": "https://www.ransomware.live/group/incransom?8fb96a823daa378d0feaac6ebb01380d",
+      "group": "Incransom",
+      "victim": "Grupo Via Argentina",
+      "country": "AR"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : bridge-housing-corp",
+      "link": "https://www.ransomware.live/id/YnJpZGdlLWhvdXNpbmctY29ycEBpbmNyYW5zb20=",
+      "summary": "Founded in 1983 BRIDGE Housing is a non-profit that works towards securing affordable housing. The organization is headquartered in San Francisco, California.\r  We have over 150 GB of confidential information, and the management of this organization has completely ignored us. Remember, the publication of your data is entirely their fault.",
+      "pubDate": "Wed, 12 Nov 2025 12:49:30 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?5effd9e4fdb27bc2cfd2190c044bbfc6",
+      "group": "Incransom",
+      "victim": "bridge-housing-corp",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : forensicmed.com",
       "link": "https://www.ransomware.live/id/Zm9yZW5zaWNtZWQuY29tQGluY3JhbnNvbQ==",
@@ -2156,50 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?a059b9877b15e433589fc21ee90301fd",
       "group": "Play",
       "victim": "Irwin Car",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Bishop Ireton High School",
-      "link": "https://www.ransomware.live/id/QmlzaG9wIElyZXRvbiBIaWdoIFNjaG9vbEBpbnRlcmxvY2s=",
-      "summary": "Bishop Ayrton High School is a Catholic college preparatory school that focuses on spiritual, intellectual, creative, social, and physical development. The school offers an academic program that includes honors courses and dual enrollment programs, as well as a variety of extracurricular activities, such as sports and arts programs. The school helps students and their families receive an education based on Christian principles that prepares them for future challenges. The school supports the Salesian community, which combines learning and service, encouraging students to participate in community service and personal growth.",
-      "pubDate": "Mon, 03 Nov 2025 15:56:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/interlock?d7a09d328732cf07b445b6b8da70a8d6",
-      "group": "Interlock",
-      "victim": "Bishop Ireton High School",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Pinto Coates Kyre & Bowers",
-      "link": "https://www.ransomware.live/id/UGludG8gQ29hdGVzIEt5cmUgJiBCb3dlcnNAaW50ZXJsb2Nr",
-      "summary": "Pinto Coates Kyre &amp; Bowers is a civil litigation law firm based in Greensboro, NC, specializing in defending individuals and corporations as well as representing claimants in diverse legal matters. Due to its easily accessible security, the company was compromised and published publicly! The company and its clients lost a significant amount of confidential information and data!",
-      "pubDate": "Mon, 03 Nov 2025 15:56:30 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/interlock?91ca335125187710f3a70ba10737a1d8",
-      "group": "Interlock",
-      "victim": "Pinto Coates Kyre & Bowers",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Moonlight Basin",
-      "link": "https://www.ransomware.live/id/TW9vbmxpZ2h0IEJhc2luQGFraXJh",
-      "summary": "Moonlight Basin offers the best snow conditions in Montana, first class rental lodging and vacation homes, fine dining, spa servic es, and easy access to attractions such as Yellowstone National P ark and seasonal activities such as fishing, horseback riding, hi king, and rafting, Moonlight Basin is also known for providing an extraordinary level of guest service. We will upload 17gb of corporate documents soon. A bit of client  and employee data, lots of internal reports, contracts and agreem ents, accounting and financial documents, NDA, etc.",
-      "pubDate": "Mon, 03 Nov 2025 15:23:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?7344a8baac6800c4e9c4ae1bbbc062f9",
-      "group": "Akira",
-      "victim": "Moonlight Basin",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Designs for Vision",
-      "link": "https://www.ransomware.live/id/RGVzaWducyBmb3IgVmlzaW9uQGFraXJh",
-      "summary": "Designs for Vision, Inc. specializes in high-quality magnificatio n and LED headlights for dental, medical, and low vision applicat ions. We will upload about 50gb of corporate documents soon. Lots of pr oject information, a bit of personal information, credit cards de tails and other financial and accounting information, contracts a nd agreements, NDA, etc.",
-      "pubDate": "Mon, 03 Nov 2025 15:23:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?b28589f65af7c006bf23076ad14f14be",
-      "group": "Akira",
-      "victim": "Designs for Vision",
       "country": "US"
     }
   ]
