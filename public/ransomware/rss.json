@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-12T19:09:49.532Z",
+  "updatedAt": "2025-11-12T20:13:27.952Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Chaos has just published a new victim : iconinternational.com",
+      "link": "https://www.ransomware.live/id/aWNvbmludGVybmF0aW9uYWwuY29tQGNoYW9z",
+      "summary": "ICON International, Inc. is a corporate barter firm that offers innovative solutions and strategic thinking to help brands grow and create economic value.",
+      "pubDate": "Wed, 12 Nov 2025 19:42:20 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/chaos?c6963f21966cc22adb480db06537fe67",
+      "group": "Chaos",
+      "victim": "iconinternational.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : doversd.org",
+      "link": "https://www.ransomware.live/id/ZG92ZXJzZC5vcmdAc2FmZXBheQ==",
+      "summary": "Dover City Schools is a public K-12 school district located in Dover, Ohio, serving approximately 2,650 students across multiple schools. …",
+      "pubDate": "Wed, 12 Nov 2025 19:25:27 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?b684c66c7758eb27497387e498423fb9",
+      "group": "Safepay",
+      "victim": "doversd.org",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : *******.com",
       "link": "https://www.ransomware.live/id/KioqKioqKi5jb21AdGhlZ2VudGxlbWVu",
@@ -2179,28 +2201,6 @@
       "group": "Rhysida",
       "victim": "Invacare",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : DOVERN Import",
-      "link": "https://www.ransomware.live/id/RE9WRVJOIEltcG9ydEBzcGFjZWJlYXJz",
-      "summary": "At DOVERN Import, we are passionate about the art of rare wines and champagnes. Since 2001, we have had the honor of selecting and importing wines and champagnes to Morocco, primarily from the prestigious terroirs of France. Our mission is to showcase unique and often overlooked wineries, while adhering to strict quality standards.We have created an exclusive selection for wine and champagne enthusiasts in Morocco, sourced from the finest wine regions such as the Rhône Valley, Champagne, Burgundy, and Bordeaux. Our commitment to our clients and restaurateurs is reflected in our personalized service, offering them exclusive access to our flagship products.Based in Casablanca, DOVERN Import is the go-to source for those seeking wines and champagnes in Morocco, offering unique and personalized tastings. Our philosophy is founded on authenticity, excellence, and a love of wine.Personal information of employees and clientsFinancial documents https://dovern-import.com/",
-      "pubDate": "Tue, 04 Nov 2025 05:57:04 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/spacebears?aba93dc23ab2f3335553fb9a60008f89",
-      "group": "Spacebears",
-      "victim": "DOVERN Import",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : Rios Espinosa",
-      "link": "https://www.ransomware.live/id/UmlvcyBFc3Bpbm9zYUBzcGFjZWJlYXJz",
-      "summary": "Since 1985, at Ríos Espinosa we have been at the forefront of our sector, challenging expectations and setting trends. With offices in Sabinillas, Estepona, Sotogrande, and Seville, our team, comprised of economists, social graduates, lawyers, and registered property managers, combines experience and innovation to offer a unique service tailored to each client.Personal information of employees and clientsFinancial documents https://riosespinosa.com/",
-      "pubDate": "Tue, 04 Nov 2025 03:47:00 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/spacebears?198dd18bb3ba8233540d2f165e7f88de",
-      "group": "Spacebears",
-      "victim": "Rios Espinosa",
-      "country": ""
     }
   ]
 }
