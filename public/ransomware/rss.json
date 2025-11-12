@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-12T13:27:31.468Z",
+  "updatedAt": "2025-11-12T14:12:50.940Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : KohaFoods Hawaii",
+      "link": "https://www.ransomware.live/id/S29oYUZvb2RzIEhhd2FpaUBpbmNyYW5zb20=",
+      "summary": "Koha Foods is a Honolulu-based distributor and wholesaler specializing in Asian food products. The company boasts a diverse selection of over 2,500 items including seafood, condiments, and Korean dishes, catering primarily to local Oahu businesses such as restaurants and supermarkets. Having served Hawaii since 1970, Koha Foods emphasizes quality and connection with the community through its offerings. In addition to distribution, they manufacture their own signature Korean food items using authentic recipes and high-quality ingredients.",
+      "pubDate": "Wed, 12 Nov 2025 13:19:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?86c39339307c4dd47cadc6b8ba0169c4",
+      "group": "Incransom",
+      "victim": "KohaFoods Hawaii",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : latamlex (gyg.local)",
+      "link": "https://www.ransomware.live/id/bGF0YW1sZXggKGd5Zy5sb2NhbClAaW5jcmFuc29t",
+      "summary": "Latamlex is a regional law firm with a team of over 100 attorneys and more than 20 years of experience, recognized for its expertise in various legal areas including arbitration, corporate law, and intellectual property. The firm caters to local entrepreneurs looking to expand internationally as well as multinational corporations seeking to establish or grow their operations in Central America. With offices across five countries, Latamlex combines international vision with local knowledge to effectively serve its diverse clientele. The firm&#x27;s commitment to excellence has earned it numerous accolades from prestigious legal publications.",
+      "pubDate": "Wed, 12 Nov 2025 13:18:50 +0000",
+      "category": "CR",
+      "guid": "https://www.ransomware.live/group/incransom?56e9bb200f1131fcd4f4b73b46ec8924",
+      "group": "Incransom",
+      "victim": "latamlex (gyg.local)",
+      "country": "CR"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Znojma Czechia",
+      "link": "https://www.ransomware.live/id/Wm5vam1hIEN6ZWNoaWFAaW5jcmFuc29t",
+      "summary": "Subject of activity\r Main activity\r \r comprehensive administration in the area of ​​housing owned by the city of Znojmo\r ensuring matters in the interest of the city in the management of housing stock and other real estate owned by the city of Znojmo\r administration of the physical education and sports department, operation of sports facilities\r security of matters in the area of ​​personal culture, public toilets\r maintain and manage the property of the city of Znojmo.",
+      "pubDate": "Wed, 12 Nov 2025 13:18:40 +0000",
+      "category": "CZ",
+      "guid": "https://www.ransomware.live/group/incransom?c4aec886b0ea4036ed4c78db3abfcd51",
+      "group": "Incransom",
+      "victim": "Znojma Czechia",
+      "country": "CZ"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Soleol",
       "link": "https://www.ransomware.live/id/U29sZW9sQHJhbnNvbWhvdXNl",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?e63456f5369e3d24973a56366dd00c99",
       "group": "Sinobi",
       "victim": "Crown Automotive Sales",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : www.heitech.com.my",
-      "link": "https://www.ransomware.live/id/d3d3LmhlaXRlY2guY29tLm15QGRldm1hbg==",
-      "summary": "Ransom: 500k 60gb",
-      "pubDate": "Tue, 04 Nov 2025 00:15:23 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/devman?e29ff2c4b64f2f6dd186610e9be848a2",
-      "group": "Devman",
-      "victim": "www.heitech.com.my",
-      "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.myriversidedentaloffice.com",
-      "link": "https://www.ransomware.live/id/d3d3Lm15cml2ZXJzaWRlZGVudGFsb2ZmaWNlLmNvbUBhbHBoYWxvY2tlcg==",
-      "summary": "It is dental practice devoted to restoring and enhancing the natural beauty of your smile using conservative, state-of-the-art procedures that will result in beautiful, long lasting smiles!",
-      "pubDate": "Mon, 03 Nov 2025 19:36:05 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/alphalocker?712bcbc236f3898033d921e94b338261",
-      "group": "Alphalocker",
-      "victim": "www.myriversidedentaloffice.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Irwin Car",
-      "link": "https://www.ransomware.live/id/SXJ3aW4gQ2FyQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Mon, 03 Nov 2025 19:22:08 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?a059b9877b15e433589fc21ee90301fd",
-      "group": "Play",
-      "victim": "Irwin Car",
       "country": "US"
     }
   ]
