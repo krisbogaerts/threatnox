@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-12T00:54:49.285Z",
+  "updatedAt": "2025-11-12T02:27:26.541Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Wiraswasta Gemilang",
+      "link": "https://www.ransomware.live/id/V2lyYXN3YXN0YSBHZW1pbGFuZ0BpbmNyYW5zb20=",
+      "summary": "PT Wiraswasta Gemilang Indonesia (WGI) is the first and largest private lubricant plant in Indonesia, specializing in re-refinery and blending services.\r \r To your attention a small portion of screenshots.",
+      "pubDate": "Wed, 12 Nov 2025 01:25:38 +0000",
+      "category": "ID",
+      "guid": "https://www.ransomware.live/group/incransom?d9fa0518e99c7f265f29fbece21cfb46",
+      "group": "Incransom",
+      "victim": "Wiraswasta Gemilang",
+      "country": "ID"
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Fulgar S.p.A.",
+      "link": "https://www.ransomware.live/id/RnVsZ2FyIFMucC5BLkByYW5zb21ob3VzZQ==",
+      "summary": "Fulgar S.p.A. is an international leader in the production of polyamide yarns and covered elastomers, known for its commitment to quality, innovation, and sustainability. The company offers a range of innovative textile solutions, including eco-friendly and biodegradable fibers, catering to the global textile and technical markets. Fulgar&#x27;s products, such as Q-CYCLE and AMNI SOUL ECO, emphasize environmental responsibility while maintaining high performance standards.",
+      "pubDate": "Wed, 12 Nov 2025 00:52:37 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/ransomhouse?e27f9a61c9345869ed426c4369048ef7",
+      "group": "Ransomhouse",
+      "victim": "Fulgar S.p.A.",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Payoutsking has just published a new victim : Irwin Car",
       "link": "https://www.ransomware.live/id/SXJ3aW4gQ2FyQHBheW91dHNraW5n",
@@ -2179,28 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "UnitedLayer",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : afton.loc",
-      "link": "https://www.ransomware.live/id/YWZ0b24ubG9jQGluY3JhbnNvbQ==",
-      "summary": "The Aetherius Society is a spiritual organization founded in 1955 by Dr. George King to spread and act upon teachings from advanced extraterrestrial intelligences, known as Cosmic Masters. The society practices King Yoga, focusing on spiritual evolution, cosmic wisdom, and service to humanity in preparation for the New Age. Their teachings cover topics like meditation, karma, reincarnation, UFOs, and spiritual healing. Through the practice of King Yoga, individuals can discover life-changing wisdom, unlock psychic powers, and contribute to raising global consciousness.",
-      "pubDate": "Mon, 03 Nov 2025 13:41:41 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?39874ea695b3e46975f1f5221b7a7288",
-      "group": "Incransom",
-      "victim": "afton.loc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Vitalmex",
-      "link": "https://www.ransomware.live/id/Vml0YWxtZXhAaW5jcmFuc29t",
-      "summary": "Vitalmex is a Mexican company dedicated to providing personalized health solutions, along with medical logistics and technical services for medical equipment and instruments. Their mission is to improve patients&#x27; quality of life through differentiated and cost-effective solutions. They aim to establish world-class leadership that revolutionizes health systems while emphasizing values such as integrity, humanity, and collaboration. Vitalmex focuses on customer orientation and innovative problem-solving to enhance satisfaction and meet applicable product and service requirements.",
-      "pubDate": "Mon, 03 Nov 2025 13:41:11 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/incransom?825ef8fbfd0cf0e5924675ebb4140c5f",
-      "group": "Incransom",
-      "victim": "Vitalmex",
-      "country": "MX"
     }
   ]
 }
