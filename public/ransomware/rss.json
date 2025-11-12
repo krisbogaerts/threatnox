@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-12T11:10:48.879Z",
+  "updatedAt": "2025-11-12T12:23:05.709Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : forensicmed.com",
+      "link": "https://www.ransomware.live/id/Zm9yZW5zaWNtZWQuY29tQGluY3JhbnNvbQ==",
+      "summary": "Forensic Medical is a comprehensive forensic pathology company headquartered in Nashville, Tennessee, which provides medical examiner, death investigation, medical autopsy services, expert forensic testimony and forensic management services to government agencies and private individuals.",
+      "pubDate": "Wed, 12 Nov 2025 11:48:29 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?fdf3515ddc319cc79de6428b450de3ef",
+      "group": "Incransom",
+      "victim": "forensicmed.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : galileo.it",
+      "link": "https://www.ransomware.live/id/Z2FsaWxlby5pdEBpbmNyYW5zb20=",
+      "summary": "Galileo is a global payments platform that powers fintech, financial services, and investment firms by removing the complexity of payments. We&#x27;re a proven financial technology platform, an innovation engine and a leader in card issuing, payments and digital banking. Galileo was founded in 2000 and is headquartered in Utah.",
+      "pubDate": "Wed, 12 Nov 2025 11:47:58 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/incransom?37b1d82ddf971b623993ee5d0f9550b3",
+      "group": "Incransom",
+      "victim": "galileo.it",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Treetop Companies",
       "link": "https://www.ransomware.live/id/VHJlZXRvcCBDb21wYW5pZXNAYWtpcmE=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?b28589f65af7c006bf23076ad14f14be",
       "group": "Akira",
       "victim": "Designs for Vision",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Mecanex USA",
-      "link": "https://www.ransomware.live/id/TWVjYW5leCBVU0FAYWtpcmE=",
-      "summary": "Mecanex USA is a U.S. subsidiary of RUAG Aviation. RUAG Aviation  is a leading supplier, support provider and integrator of systems and components for civil and military aviation worldwide.  We will upload 24gb of corporate documents soon. Detailed employe e information (Social security number, passports, driver licenses , phones, addresses and so on), confidential military information , lots of contracts and agreements (including military), informat ion on how to work with explosive and so on, NDA, etc.",
-      "pubDate": "Mon, 03 Nov 2025 15:23:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?4a68796eb8ba674390cd321c4033d912",
-      "group": "Akira",
-      "victim": "Mecanex USA",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Mayco International",
-      "link": "https://www.ransomware.live/id/TWF5Y28gSW50ZXJuYXRpb25hbEBhbnViaXM=",
-      "summary": "Data breach at automotive industry leader.",
-      "pubDate": "Mon, 03 Nov 2025 15:08:36 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?7284d8865d4267d22e60e764c4829104",
-      "group": "Anubis",
-      "victim": "Mayco International",
       "country": "US"
     }
   ]
