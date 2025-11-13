@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-13T11:11:23.331Z",
+  "updatedAt": "2025-11-13T12:23:21.043Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Vikor Scientific, LLC / Korgene",
+      "link": "https://www.ransomware.live/id/Vmlrb3IgU2NpZW50aWZpYywgTExDIC8gS29yZ2VuZUBldmVyZXN0",
+      "summary": "[AI generated] Vikor Scientific, LLC / Korgene is a specialized molecular diagnostics company dedicated to advancing the healthcare sector through innovation. They offer comprehensive, customized diagnostic tests to clinicians for better patient outcomes. Vikor aims to combat the rise of antibiotic resistance by providing targeted treatments. Korgene, on the other hand, develops efficient diagnostic platforms to detect diseases like cancer.",
+      "pubDate": "Thu, 13 Nov 2025 11:18:45 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?917be58839e8421078364e49a36b62aa",
+      "group": "Everest",
+      "victim": "Vikor Scientific, LLC / Korgene",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : KorPath",
+      "link": "https://www.ransomware.live/id/S29yUGF0aEBldmVyZXN0",
+      "summary": "[AI generated] KorPath is a biotechnology company that specializes in early-stage technologies. Their main focus is on identifying unique compounds and molecules that can be used in various medical interventions. The company conducts extensive research on pathological conditions including cancer and neurodegenerative disorders. They also offer preclinical services such as ex vivo efficacy studies.",
+      "pubDate": "Thu, 13 Nov 2025 11:18:24 +0000",
+      "category": "KR",
+      "guid": "https://www.ransomware.live/group/everest?e24f4c922ac892214acf482bc9638dee",
+      "group": "Everest",
+      "victim": "KorPath",
+      "country": "KR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Cornerstone Staffing Solutions",
       "link": "https://www.ransomware.live/id/Q29ybmVyc3RvbmUgU3RhZmZpbmcgU29sdXRpb25zQHFpbGlu",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/incransom?e39293ab560ab21ab884420c86fa535f",
       "group": "Incransom",
       "victim": "thevisapro.com (Yibirin Law Group)",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Property Finder / PropSpace",
-      "link": "https://www.ransomware.live/id/UHJvcGVydHkgRmluZGVyIC8gUHJvcFNwYWNlQGNvaW5iYXNlY2FydGVs",
-      "summary": "Samples on Friday/",
-      "pubDate": "Tue, 04 Nov 2025 19:13:27 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?01fa50d06d29684d39b66f3b13b59ecc",
-      "group": "Coinbasecartel",
-      "victim": "Property Finder / PropSpace",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Mango's Tropical Cafe",
-      "link": "https://www.ransomware.live/id/TWFuZ28ncyBUcm9waWNhbCBDYWZlQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Tue, 04 Nov 2025 17:52:54 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?d2d3681c0e224fd5d7a7e4cf527d6cca",
-      "group": "Qilin",
-      "victim": "Mango's Tropical Cafe",
       "country": "US"
     }
   ]
