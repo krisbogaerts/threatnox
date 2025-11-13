@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-13T10:13:32.294Z",
+  "updatedAt": "2025-11-13T11:11:23.331Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cornerstone Staffing Solutions",
+      "link": "https://www.ransomware.live/id/Q29ybmVyc3RvbmUgU3RhZmZpbmcgU29sdXRpb25zQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 13 Nov 2025 10:45:33 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?69948e91461aecf6dc7ecc9bdfec2e14",
+      "group": "Qilin",
+      "victim": "Cornerstone Staffing Solutions",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Kraken has just published a new victim : www.pointcag.com",
       "link": "https://www.ransomware.live/id/d3d3LnBvaW50Y2FnLmNvbUBrcmFrZW4=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Mango's Tropical Cafe",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Prova",
-      "link": "https://www.ransomware.live/id/UHJvdmFAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Tue, 04 Nov 2025 17:52:13 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?6aee9173391dea25b0faf0a3dde760a9",
-      "group": "Qilin",
-      "victim": "Prova",
-      "country": ""
     }
   ]
 }
