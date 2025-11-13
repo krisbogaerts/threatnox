@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-13T18:16:38.253Z",
+  "updatedAt": "2025-11-13T19:09:24.425Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Viabizzuno",
+      "link": "https://www.ransomware.live/id/VmlhYml6enVub0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 13 Nov 2025 18:28:27 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?9667101a61352afe776adfb4302060e2",
+      "group": "Qilin",
+      "victim": "Viabizzuno",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : FullBeauty Brands",
       "link": "https://www.ransomware.live/id/RnVsbEJlYXV0eSBCcmFuZHNAZXZlcmVzdA==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?7066658b09acad713a334ffc1cfbb13a",
       "group": "Akira",
       "victim": "Christina Development",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : mcintoshlabs.com",
-      "link": "https://www.ransomware.live/id/bWNpbnRvc2hsYWJzLmNvbUBzYWZlcGF5",
-      "summary": "McIntosh Laboratory is an iconic American company, founded in 1949 and headquartered in Binghamton, New York. It specializes in high-end, …",
-      "pubDate": "Wed, 05 Nov 2025 13:24:04 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?16a575f9641d5260148588b09c38387c",
-      "group": "Safepay",
-      "victim": "mcintoshlabs.com",
       "country": "US"
     }
   ]
