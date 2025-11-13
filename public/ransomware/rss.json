@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-13T09:14:12.305Z",
+  "updatedAt": "2025-11-13T10:13:32.294Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Kraken has just published a new victim : www.pointcag.com",
+      "link": "https://www.ransomware.live/id/d3d3LnBvaW50Y2FnLmNvbUBrcmFrZW4=",
+      "summary": "POINT provides expert Construction Management Consulting and Litigation Services with objectivity and reliability.  http://o5...",
+      "pubDate": "Thu, 13 Nov 2025 09:22:52 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/kraken?419706836e92352208b7aa096edbb225",
+      "group": "Kraken",
+      "victim": "www.pointcag.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Blackshrantac has just published a new victim : libertyshoes, Inc",
       "link": "https://www.ransomware.live/id/bGliZXJ0eXNob2VzLCBJbmNAYmxhY2tzaHJhbnRhYw==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Prova",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : MS Metal Solutions",
-      "link": "https://www.ransomware.live/id/TVMgTWV0YWwgU29sdXRpb25zQGFraXJh",
-      "summary": "MS Metal Solutions offers a wide range of manufacturing capabilit ies including cutting, welding, and powder coating to cater to di verse industries such as automotive, agriculture, and office furn iture.  We will upload corporate documents soon. Complete information abo ut employees (w-9 forms containing DOB, SSN, DL, passport, addres s, email, phone   personal docs scans, credit card details), HR f iles, financials, internal confidential files, NDA, confidentiali ty agreements, etc.",
-      "pubDate": "Tue, 04 Nov 2025 16:10:06 +0000",
-      "category": "DK",
-      "guid": "https://www.ransomware.live/group/akira?ab0dc627f949106b9bb0db9b0531e8db",
-      "group": "Akira",
-      "victim": "MS Metal Solutions",
-      "country": "DK"
     }
   ]
 }
