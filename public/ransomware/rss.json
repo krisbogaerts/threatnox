@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-13T13:27:27.055Z",
+  "updatedAt": "2025-11-13T14:11:57.731Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Muskoka Brewery",
+      "link": "https://www.ransomware.live/id/TXVza29rYSBCcmV3ZXJ5QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 13 Nov 2025 13:43:20 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?b827cbd4e24abe2607f0a95fce6714f3",
+      "group": "Qilin",
+      "victim": "Muskoka Brewery",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Vikor Scientific, LLC / Korgene",
       "link": "https://www.ransomware.live/id/Vmlrb3IgU2NpZW50aWZpYywgTExDIC8gS29yZ2VuZUBldmVyZXN0",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/payoutsking?796776c77ee8f9c3b6a2bd64f2ba0ded",
       "group": "Payoutsking",
       "victim": "I****r",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : thevisapro.com (Yibirin Law Group)",
-      "link": "https://www.ransomware.live/id/dGhldmlzYXByby5jb20gKFlpYmlyaW4gTGF3IEdyb3VwKUBpbmNyYW5zb20=",
-      "summary": "all client cases, personal data",
-      "pubDate": "Tue, 04 Nov 2025 19:16:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?e39293ab560ab21ab884420c86fa535f",
-      "group": "Incransom",
-      "victim": "thevisapro.com (Yibirin Law Group)",
       "country": "US"
     }
   ]
