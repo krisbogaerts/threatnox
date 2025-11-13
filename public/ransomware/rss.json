@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-13T22:11:51.038Z",
+  "updatedAt": "2025-11-13T23:11:06.779Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : avrind.com",
+      "link": "https://www.ransomware.live/id/YXZyaW5kLmNvbUBpbmNyYW5zb20=",
+      "summary": "AVR Industries is a long-standing, well-established company with many years of experience in the field of machining for the aeronautics industry. Our comprehensive technological solutions help industry leading companies to achieve greater success. Our team always strives for the most accurate, professional and fast production for our customers.\r They offer a wide range of metalworking services under one roof: Sheet Metal Working | Assemblies Processing | Welding | Metal Finishes | Metal Coatings\r All are of the highest standard and with ISO and NADCAP certifications.",
+      "pubDate": "Thu, 13 Nov 2025 21:50:54 +0000",
+      "category": "IL",
+      "guid": "https://www.ransomware.live/group/incransom?16f6ff18edb0b8b72f9aa9c3148d413a",
+      "group": "Incransom",
+      "victim": "avrind.com",
+      "country": "IL"
+    },
     {
       "title": "🏴‍☠️ Clop has just published a new victim : ENTRUST.COM",
       "link": "https://www.ransomware.live/id/RU5UUlVTVC5DT01AY2xvcA==",
@@ -2190,17 +2201,6 @@
       "group": "Warlock",
       "victim": "mnpease.ca",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Warlock has just published a new victim : metro.local",
-      "link": "https://www.ransomware.live/id/bWV0cm8ubG9jYWxAd2FybG9jaw==",
-      "summary": "No description provided.",
-      "pubDate": "Thu, 06 Nov 2025 07:47:56 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/warlock?658060bd3a803a3af8f2c8135b8a9e9c",
-      "group": "Warlock",
-      "victim": "metro.local",
-      "country": ""
     }
   ]
 }
