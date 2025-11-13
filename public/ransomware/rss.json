@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2025-11-13T14:11:57.731Z",
+  "updatedAt": "2025-11-13T15:13:52.284Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : confortchem.com & rogitex.com",
+      "link": "https://www.ransomware.live/id/Y29uZm9ydGNoZW0uY29tICYgcm9naXRleC5jb21Ac2FmZXBheQ==",
+      "summary": "ConfortChem Inc. is a Canada-based distributor and technical partner specializing in raw materials and machinery for the polyurethane foam industry. …",
+      "pubDate": "Thu, 13 Nov 2025 14:54:01 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/safepay?52c9601454485e4199cb26c724c25fd1",
+      "group": "Safepay",
+      "victim": "confortchem.com & rogitex.com",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : PACCAR",
+      "link": "https://www.ransomware.live/id/UEFDQ0FSQGNvaW5iYXNlY2FydGVs",
+      "summary": "Founded in 1905, PACCAR is a global technology company in the design, manufacture and customer support of high-quality light, medium and heavy-duty...",
+      "pubDate": "Thu, 13 Nov 2025 14:20:06 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?9ba4a43dd2455c5094ffcb3d56cc3307",
+      "group": "Coinbasecartel",
+      "victim": "PACCAR",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Avery Dennison",
+      "link": "https://www.ransomware.live/id/QXZlcnkgRGVubmlzb25AY29pbmJhc2VjYXJ0ZWw=",
+      "summary": "Avery Dennison Corporation produces and sells pressure-sensitive materials worldwide. The companys Label and Graphic Materials segment offers press...",
+      "pubDate": "Thu, 13 Nov 2025 14:19:28 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?dbfb665f1bd09044067f8ccc38d00856",
+      "group": "Coinbasecartel",
+      "victim": "Avery Dennison",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Cinvestav",
+      "link": "https://www.ransomware.live/id/Q2ludmVzdGF2QGNvaW5iYXNlY2FydGVs",
+      "summary": "The Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional is a public Mexican institution focused on the development...",
+      "pubDate": "Thu, 13 Nov 2025 14:18:54 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?892112c4569ecdb9d27122c8ca47219c",
+      "group": "Coinbasecartel",
+      "victim": "Cinvestav",
+      "country": "MX"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : SGK INC",
+      "link": "https://www.ransomware.live/id/U0dLIElOQ0Bjb2luYmFzZWNhcnRlbA==",
+      "summary": "Based in Des Plaines, Illinois, SKG is a marketing company that specializes in global brand development, activation, and deployment. The company is...",
+      "pubDate": "Thu, 13 Nov 2025 14:18:16 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?4e78d5d753f37641f3d01965e85adc5a",
+      "group": "Coinbasecartel",
+      "victim": "SGK INC",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Beast has just published a new victim : Goldhorse Capital Management",
+      "link": "https://www.ransomware.live/id/R29sZGhvcnNlIENhcGl0YWwgTWFuYWdlbWVudEBiZWFzdA==",
+      "summary": "The company&#x27;s customers&#x27; personal data, databases, and source code have been stolen. If the company does not respond within 24 hours, this data will be published.",
+      "pubDate": "Thu, 13 Nov 2025 14:15:51 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/beast?c5648dc896715e13c3a9617f1a0f44c0",
+      "group": "Beast",
+      "victim": "Goldhorse Capital Management",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Muskoka Brewery",
       "link": "https://www.ransomware.live/id/TXVza29rYSBCcmV3ZXJ5QHFpbGlu",
@@ -2135,72 +2201,6 @@
       "group": "Qilin",
       "victim": "Habib Bank",
       "country": "PK"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Enem Nostrum Remedies Pvt. Ltd",
-      "link": "https://www.ransomware.live/id/RW5lbSBOb3N0cnVtIFJlbWVkaWVzIFB2dC4gTHRkQG5pZ2h0c3BpcmU=",
-      "summary": "Enem Nostrum Remedies Pvt. Ltd",
-      "pubDate": "Wed, 05 Nov 2025 05:21:28 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/nightspire?161b3f71eadc7627da628efae9bc8638",
-      "group": "Nightspire",
-      "victim": "Enem Nostrum Remedies Pvt. Ltd",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Durvet",
-      "link": "https://www.ransomware.live/id/RHVydmV0QHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 05 Nov 2025 04:20:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?2bb276255b08583537036e228635cc9e",
-      "group": "Qilin",
-      "victim": "Durvet",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : ConvExx",
-      "link": "https://www.ransomware.live/id/Q29udkV4eEBwbGF5",
-      "summary": "United States",
-      "pubDate": "Tue, 04 Nov 2025 20:54:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?f7b9981edbef88a781e8a437d10ab7d6",
-      "group": "Play",
-      "victim": "ConvExx",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Sellars Absorbent Materials",
-      "link": "https://www.ransomware.live/id/U2VsbGFycyBBYnNvcmJlbnQgTWF0ZXJpYWxzQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Tue, 04 Nov 2025 20:53:26 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?c395953767bf0b7b957d02534d58ba54",
-      "group": "Play",
-      "victim": "Sellars Absorbent Materials",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : American PowerNet",
-      "link": "https://www.ransomware.live/id/QW1lcmljYW4gUG93ZXJOZXRAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Tue, 04 Nov 2025 20:52:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?cd511499033e39ec3394f34578afe057",
-      "group": "Play",
-      "victim": "American PowerNet",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : I****r",
-      "link": "https://www.ransomware.live/id/SSoqKipyQHBheW91dHNraW5n",
-      "summary": "",
-      "pubDate": "Tue, 04 Nov 2025 20:51:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/payoutsking?796776c77ee8f9c3b6a2bd64f2ba0ded",
-      "group": "Payoutsking",
-      "victim": "I****r",
-      "country": "US"
     }
   ]
 }
