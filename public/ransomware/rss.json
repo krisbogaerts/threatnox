@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-13T17:13:03.239Z",
+  "updatedAt": "2025-11-13T18:16:38.253Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : FullBeauty Brands",
+      "link": "https://www.ransomware.live/id/RnVsbEJlYXV0eSBCcmFuZHNAZXZlcmVzdA==",
+      "summary": "[AI generated] FullBeauty Brands is a US-based plus-size women&#x27;s and men&#x27;s apparel and home goods company. The company operates multiple brands such as Woman Within, Roaman&#x27;s, Jessica London, Ellos, Swimsuits For All, KingSize, and BrylaneHome. It is committed to providing stylish, high-quality products in sizes that are traditionally hard to find.",
+      "pubDate": "Thu, 13 Nov 2025 17:20:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?0f402d5b82715c68e742d72c6ed74f14",
+      "group": "Everest",
+      "victim": "FullBeauty Brands",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Svenska Kraftnät data",
+      "link": "https://www.ransomware.live/id/U3ZlbnNrYSBLcmFmdG7DpHQgZGF0YUBldmVyZXN0",
+      "summary": "[AI generated] \"Svenska Kraftnät\" is Sweden&#x27;s national grid operator, responsible for ensuring that the country&#x27;s electricity transmission system is safe, efficient and environmentally friendly. Their role includes maintaining balance between supply and demand, coordinating grid infrastructure and overseeing the electricity market. \"Svenska Kraftnät Data\" could refer to data management or IT departments within the organization, or data related to the company&#x27;s operations.",
+      "pubDate": "Thu, 13 Nov 2025 17:20:17 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/everest?4a477ecd30888d513254d1a7909ce5ba",
+      "group": "Everest",
+      "victim": "Svenska Kraftnät data",
+      "country": "SE"
+    },
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Lung Rose Voss Wagnild",
+      "link": "https://www.ransomware.live/id/THVuZyBSb3NlIFZvc3MgV2FnbmlsZEBhbnViaXM=",
+      "summary": "Hawaii’s leading law firm data breach.",
+      "pubDate": "Thu, 13 Nov 2025 17:15:39 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/anubis?3f15f54c5bf3ce48eb1c30486f075e05",
+      "group": "Anubis",
+      "victim": "Lung Rose Voss Wagnild",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Fundidora de Cananea, S.A",
       "link": "https://www.ransomware.live/id/RnVuZGlkb3JhIGRlIENhbmFuZWEsIFMuQUBxaWxpbg==",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/safepay?16a575f9641d5260148588b09c38387c",
       "group": "Safepay",
       "victim": "mcintoshlabs.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Maine Course Hospitality Group",
-      "link": "https://www.ransomware.live/id/TWFpbmUgQ291cnNlIEhvc3BpdGFsaXR5IEdyb3VwQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 05 Nov 2025 13:21:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?6fe72452bcb20466e1bafe8c51400564",
-      "group": "Qilin",
-      "victim": "Maine Course Hospitality Group",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : SAIGON INDUSTRIAL SERVICE",
-      "link": "https://www.ransomware.live/id/U0FJR09OIElORFVTVFJJQUwgU0VSVklDRUBkcmFnb25mb3JjZQ==",
-      "summary": "Since Saigon Industrial Service&#x27;s establishment in 2012, we have more than 10 years of experience in supplying, installing, processing, maintaining and repairing valves, pumps and other equipment in the oil and gas industry and electricity for numerous partners, both domestic (Petro Vietnam, BSR, PVGas, PTSC M&amp;C, EVNGENCO2 TPC Can Tho, EVNGENCO3 TPC Phu My, etc.) and international (Ansaldo Energia, Clyde Bergeman, Petroseal, Enertork, Alco valve, VESL, MSD, VIAR, Firsa, Goodwin, PBV, BFE, DHV Valve, etc.)",
-      "pubDate": "Wed, 05 Nov 2025 12:53:13 +0000",
-      "category": "VN",
-      "guid": "https://www.ransomware.live/group/dragonforce?75f9c6a8a302516e1ed99494afa9088a",
-      "group": "Dragonforce",
-      "victim": "SAIGON INDUSTRIAL SERVICE",
-      "country": "VN"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Coilplus",
-      "link": "https://www.ransomware.live/id/Q29pbHBsdXNAYWtpcmE=",
-      "summary": "Coilplus is part of the MetalOne Group, MetalOne is the largest i ntegrated steel company in the world. We will upload 14gb of corporate documents soon. Detailed employe e information (complete I-9 forms, SSN, DL, passports, birth/deat h certs and so on), financials, internal confidentiality agreemen ts, NDA, etc.",
-      "pubDate": "Wed, 05 Nov 2025 12:48:39 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?d662c335494b101f2df3cea3e5870982",
-      "group": "Akira",
-      "victim": "Coilplus",
       "country": "US"
     }
   ]
