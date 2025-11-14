@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-14T21:10:46.798Z",
+  "updatedAt": "2025-11-14T22:11:05.974Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sol Trading",
+      "link": "https://www.ransomware.live/id/U29sIFRyYWRpbmdAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 14 Nov 2025 21:18:53 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?0051c94dfa2b3f88bcc50693ea28f48b",
+      "group": "Qilin",
+      "victim": "Sol Trading",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : UNOde50",
       "link": "https://www.ransomware.live/id/VU5PZGU1MEB3b3JsZGxlYWtz",
@@ -2190,17 +2201,6 @@
       "group": "Incransom",
       "victim": "prutsch-ra.at",
       "country": "AT"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : MusikComputer GmbH",
-      "link": "https://www.ransomware.live/id/TXVzaWtDb21wdXRlciBHbWJIQGluY3JhbnNvbQ==",
-      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
-      "pubDate": "Thu, 06 Nov 2025 20:22:44 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/incransom?be15a80a4f05097e95dc42bb78207d82",
-      "group": "Incransom",
-      "victim": "MusikComputer GmbH",
-      "country": "DE"
     }
   ]
 }
