@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-14T00:54:59.259Z",
+  "updatedAt": "2025-11-14T02:27:53.648Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : facadeinnovations.com.au",
+      "link": "https://www.ransomware.live/id/ZmFjYWRlaW5ub3ZhdGlvbnMuY29tLmF1QGluY3JhbnNvbQ==",
+      "summary": "Facade Innovations has been providing specialized facade solutions for new and existing commercial buildings across Sydney, Melbourne, and Canberra since 1997. Their extensive services include facade design documentation, manufacture and installation, overcladding, and resealing. The company has a strong track record, having worked on many landmark buildings and collaborated with leading property owners, builders, architects, and facade consultants. They are recognized for their quality work, winning multiple awards including the MBA NSW 2023 Excellence in Construction Award.\r Employees: 50\r Revenue: $5 Million\r Industry: Building Materials-Manufacturing\r Phone Number: +61 294170817",
+      "pubDate": "Fri, 14 Nov 2025 00:55:03 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?3fd9e5ca503edd7e7b6a70047f21be38",
+      "group": "Incransom",
+      "victim": "facadeinnovations.com.au",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.northcroftme.com",
+      "link": "https://www.ransomware.live/id/d3d3Lm5vcnRoY3JvZnRtZS5jb21AaW5jcmFuc29t",
+      "summary": "300 GB of data",
+      "pubDate": "Fri, 14 Nov 2025 00:54:27 +0000",
+      "category": "QA",
+      "guid": "https://www.ransomware.live/group/incransom?f421c9918c9400e72387b40391cc15f7",
+      "group": "Incransom",
+      "victim": "www.northcroftme.com",
+      "country": "QA"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : kellylegal.com.au",
       "link": "https://www.ransomware.live/id/a2VsbHlsZWdhbC5jb20uYXVAaW5jcmFuc29t",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Noble Compaña de Seguros",
       "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : speedmais",
-      "link": "https://www.ransomware.live/id/c3BlZWRtYWlzQG5pZ2h0c3BpcmU=",
-      "summary": "speedmais",
-      "pubDate": "Thu, 06 Nov 2025 09:40:55 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/nightspire?1b69120bfa065e68dea8bda5c0190d68",
-      "group": "Nightspire",
-      "victim": "speedmais",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : vratatech",
-      "link": "https://www.ransomware.live/id/dnJhdGF0ZWNoQG5pZ2h0c3BpcmU=",
-      "summary": "vratatech",
-      "pubDate": "Thu, 06 Nov 2025 09:40:30 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/nightspire?65d1c60d30d45372e8abbfb2bfcb15c0",
-      "group": "Nightspire",
-      "victim": "vratatech",
-      "country": "IN"
     }
   ]
 }
