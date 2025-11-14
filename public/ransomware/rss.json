@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-14T12:23:11.170Z",
+  "updatedAt": "2025-11-14T13:24:53.756Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Kaan Cronenberg & Partners Law",
+      "link": "https://www.ransomware.live/id/S2FhbiBDcm9uZW5iZXJnICYgUGFydG5lcnMgTGF3QGluY3JhbnNvbQ==",
+      "summary": "Kaan Cronenberg &amp; Partners Law has been providing legal services since 1897, offering representation before courts and authorities, legal counseling, and contract preparation. The firm caters to enterprises of all sizes, ensuring that economic aspects are considered in their legal strategies. Their well-rehearsed team consists of partners, associates, and assistants who work collaboratively to support clients in any legal issue. They aim to be a competent partner for clients navigating their legal paths.",
+      "pubDate": "Fri, 14 Nov 2025 12:46:01 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/incransom?008ed0e4978d47f68f8ac3a9cdfb45de",
+      "group": "Incransom",
+      "victim": "Kaan Cronenberg & Partners Law",
+      "country": "AT"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Waukegan Steel",
       "link": "https://www.ransomware.live/id/V2F1a2VnYW4gU3RlZWxAYWtpcmE=",
@@ -2190,17 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Health Dimensions Group",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Ville de MontLaurier",
-      "link": "https://www.ransomware.live/id/VmlsbGUgZGUgTW9udExhdXJpZXJAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 06 Nov 2025 14:54:09 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?202762b5406adf35af8e48cdb5e884a7",
-      "group": "Qilin",
-      "victim": "Ville de MontLaurier",
-      "country": "CA"
     }
   ]
 }
