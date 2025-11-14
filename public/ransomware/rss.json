@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-14T15:11:35.293Z",
+  "updatedAt": "2025-11-14T16:14:32.015Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : A-B Communications",
+      "link": "https://www.ransomware.live/id/QS1CIENvbW11bmljYXRpb25zQGFraXJh",
+      "summary": "A-B Communications has been serving businesses since 1960, offeri ng a range of services including professional answering, call cen ter solutions, voicemail/IVR services, and secure messaging.  We will upload almost corporate documents soon. Detailed personal employee information (about 100 persons or more), lots of scanne d passports, DLs, SSNs, birth/death certs and so on. Contracts an d agreements, NDAs, etc.",
+      "pubDate": "Fri, 14 Nov 2025 14:41:12 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?8164c9303a20815ea021edffc82a5b2a",
+      "group": "Akira",
+      "victim": "A-B Communications",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Aero Precision",
+      "link": "https://www.ransomware.live/id/QWVybyBQcmVjaXNpb25AYWtpcmE=",
+      "summary": "Aero Precision is a firearm and components manufacturer. We will upload 24gb corporate documents soon. Employee informatio n, project details, contracts and agreements, NDAs, specification s, etc.",
+      "pubDate": "Fri, 14 Nov 2025 14:41:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?ef627369b7d06b5040c0dd745cbf5e26",
+      "group": "Akira",
+      "victim": "Aero Precision",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Valley Banks",
+      "link": "https://www.ransomware.live/id/VmFsbGV5IEJhbmtzQGFraXJh",
+      "summary": "Valley Bank is a state chartered community bank, with branches in Ronan, Arlee, Hot Springs, Thompson Falls, Pablo, Polson and Sai nt Ignatius. We will upload 294gb corporate documents soon. Employee informati on (scanned passports, driver licenses, hr docs with DOB, phones, addresses, credit card details and so on), contracts and agreeme nts, NDAs, and other client&#x27;s files, etc.",
+      "pubDate": "Fri, 14 Nov 2025 14:41:04 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?aa1f9e03a86ef7132a2638c6ed1aea82",
+      "group": "Akira",
+      "victim": "Valley Banks",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Kaan Cronenberg & Partners Law",
       "link": "https://www.ransomware.live/id/S2FhbiBDcm9uZW5iZXJnICYgUGFydG5lcnMgTGF3QGluY3JhbnNvbQ==",
@@ -2168,39 +2201,6 @@
       "group": "Everest",
       "victim": "Everest Exclusive Interview for Dailydarkweb.net",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : DRD Communications",
-      "link": "https://www.ransomware.live/id/RFJEIENvbW11bmljYXRpb25zQHRoZWdlbnRsZW1lbg==",
-      "summary": "https://www.zoominfo.com/c/drd-software-and-systems-india-private-ltd/372534475 www.drd.co.in DRD India is a telecommunications and software development company with over 25 years of experience, dedicated to rejuvenating the telecommunications channel. They offer products and services such as Uboss, a cloud trading platform, and VanillaIP, a white label channel provider for the UK market. The company is committed to continuous development and innovation, ensuring high-quality solutions for their clients. DRD India caters to a wide audience, having successfully served millions of users over the years.",
-      "pubDate": "Thu, 06 Nov 2025 15:49:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/thegentlemen?40a7f03c342f1334ff65519f27fb1989",
-      "group": "Thegentlemen",
-      "victim": "DRD Communications",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : First Resources",
-      "link": "https://www.ransomware.live/id/Rmlyc3QgUmVzb3VyY2VzQHJhbnNvbWhvdXNl",
-      "summary": "Founded in1992 and headquartered in First Resources Limited is primarily cultivating oil palms, harvesting the fruits, and milling them into crude palm oil (CPO) and palm kernel (PK) for sale to the local and export markets. With its integrated processing facilities, the Group also processes its CPO and PK into higher value palm-based products such as biodiesel, refined, bleached, and deodorized (RBD) olein, RBD stearin, palm kernel oil, and palm kernel expeller.",
-      "pubDate": "Thu, 06 Nov 2025 15:43:43 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/ransomhouse?94c7540381b2be38a8704e1c67caea36",
-      "group": "Ransomhouse",
-      "victim": "First Resources",
-      "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Health Dimensions Group",
-      "link": "https://www.ransomware.live/id/SGVhbHRoIERpbWVuc2lvbnMgR3JvdXBAd29ybGRsZWFrcw==",
-      "summary": "[AI generated] Health Dimensions Group (HDG) is a management consulting and health care services firm. Headquartered in Minneapolis, the company provides consulting services and solutions in the areas of senior housing, post-acute care, health systems, and hospitals. They offer a wide variety of services including strategic planning, operational oversight, financial advisory, and more.",
-      "pubDate": "Thu, 06 Nov 2025 15:01:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?945cbf762713635eb1453fcb73a60b18",
-      "group": "Worldleaks",
-      "victim": "Health Dimensions Group",
-      "country": "US"
     }
   ]
 }
