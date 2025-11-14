@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-14T11:10:49.034Z",
+  "updatedAt": "2025-11-14T12:23:11.170Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Waukegan Steel",
+      "link": "https://www.ransomware.live/id/V2F1a2VnYW4gU3RlZWxAYWtpcmE=",
+      "summary": "Waukegan Steel is a structural steel fabricator serving the Midwe st, specializing in high-quality steel fabrication since 1929. Th e company has worked on notable projects in the Chicago area, suc h as Soldier Field and Willis Tower, offering a complete range of services including structural, miscellaneous, and ornamental ste el fabrication. We will upload almost 15gb of corporate documents soon. Scanned p ersonal documents (passports, social security numbers, driver lic enses, w-9 forms and so on), project information, NDAs, contracts and agreements, financials, client&#x27;s information, lots of drawin gs of ongoing projects, etc.",
+      "pubDate": "Fri, 14 Nov 2025 10:40:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?4e63266bda460cf1546917d11189c87d",
+      "group": "Akira",
+      "victim": "Waukegan Steel",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Basin Harbor",
+      "link": "https://www.ransomware.live/id/QmFzaW4gSGFyYm9yQGFraXJh",
+      "summary": "Basin Harbor is a unique Vermont resort situated on the shores of Lake Champlain, offering a blend of timeless traditions and lake side charm. The resort spans 700 acres and features historic cott ages, making it an ideal destination for outdoor adventures, wate rfront relaxation, and family gatherings.  We are going to upload company data soon. There are lots of essen tial corporate documents such as: financial data (audit, payment  details, invoices), detailed employees and customers information  (passports, driver&#x27;s license , Social Security Numbers, emails, p hones) confidential information and other documents with detailed personal information.",
+      "pubDate": "Fri, 14 Nov 2025 10:40:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?762c5581e7b24d6ac02aa0063291de13",
+      "group": "Akira",
+      "victim": "Basin Harbor",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Barnhart",
+      "link": "https://www.ransomware.live/id/QmFybmhhcnRAYWtpcmE=",
+      "summary": "Barnhart is a third-party global logistics provider dedicated to  delivering customized transportation solutions with a focus on sa fety and service.  We are going to upload company data soon. There are lots of essen tial corporate documents such as: financial data (audit, payment  details, invoices), detailed employees and customers information  (Passports, driver&#x27;s license ,Social Security Numbers, medical in formation, emails, phones) confidential information, NDAs and oth er documents with detailed personal information.",
+      "pubDate": "Fri, 14 Nov 2025 10:40:09 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?bfb0b470fdc963f25c7cae8f908741bd",
+      "group": "Akira",
+      "victim": "Barnhart",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : The Foot Doctor's",
       "link": "https://www.ransomware.live/id/VGhlIEZvb3QgRG9jdG9yJ3NAc3BhY2ViZWFycw==",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Ville de MontLaurier",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Dermatology Associates",
-      "link": "https://www.ransomware.live/id/RGVybWF0b2xvZ3kgQXNzb2NpYXRlc0BhbnViaXM=",
-      "summary": "Leak of clinic customer data.",
-      "pubDate": "Thu, 06 Nov 2025 14:19:19 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/anubis?cef2dbac9810d9df132d06b103f139cf",
-      "group": "Anubis",
-      "victim": "Dermatology Associates",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nitrogen has just published a new victim : Black Hills Bentonite",
-      "link": "https://www.ransomware.live/id/QmxhY2sgSGlsbHMgQmVudG9uaXRlQG5pdHJvZ2Vu",
-      "summary": "An American company founded in 1947. It mines and processes sodium bentonite, a natural clay used in well drilling, metal casting, and pond and landfill sealing.",
-      "pubDate": "Thu, 06 Nov 2025 13:39:20 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nitrogen?83903a403efd529341c29ad4ca9c983b",
-      "group": "Nitrogen",
-      "victim": "Black Hills Bentonite",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : E-First Aid Supplies",
-      "link": "https://www.ransomware.live/id/RS1GaXJzdCBBaWQgU3VwcGxpZXNAYWtpcmE=",
-      "summary": "Fieldtex is a manufacturer known as Fieldtex Cases that produces  soft sided carrying cases for portable electronic equipment for m edical and military markets. Their second division is a medical s upplies distributor known as Fieldtex Medical. We will upload more than 14gb of corporate documents soon. Employ ee and customer, financials, confidential files, lots etc.",
-      "pubDate": "Thu, 06 Nov 2025 12:07:43 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?164ac8ed5b412403c1a39cc0a411e3f9",
-      "group": "Akira",
-      "victim": "E-First Aid Supplies",
-      "country": "US"
     }
   ]
 }
