@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-11-13T23:11:06.779Z",
+  "updatedAt": "2025-11-14T00:54:59.259Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : kellylegal.com.au",
+      "link": "https://www.ransomware.live/id/a2VsbHlsZWdhbC5jb20uYXVAaW5jcmFuc29t",
+      "summary": "Kelly Legal is a law firm based in Brisbane and Mackay, offering a wide range of legal services throughout Queensland. Their experienced team provides personalized legal advice in areas such as family law, real estate, injury compensation, and business law. They focus on treating clients as individuals and strive to achieve the best outcomes for their unique circumstances. With a commitment to being there for their clients, Kelly Legal emphasizes a supportive approach in all legal matters.\r Employees: 50\r Revenue: $5 Million\r Industry: Law Firms &amp; Legal Services\r Phone Number: +61 749110500",
+      "pubDate": "Thu, 13 Nov 2025 23:48:27 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/incransom?57db4f28843da4ab8e6d711843155c4d",
+      "group": "Incransom",
+      "victim": "kellylegal.com.au",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : wafergrind.com",
+      "link": "https://www.ransomware.live/id/d2FmZXJncmluZC5jb21AaW5jcmFuc29t",
+      "summary": "Grinding &amp; Dicing Services Inc (GDSI) provides wafer thinning and dicing services to the IC industry for critical post-fabrication process requirements. GDSI is headquartered in San Jose, California.\r Employees: 50\r Revenue: $5 Million\r Industry: Manufacturing-Electronics \r Phone Number: (408) 451-2000",
+      "pubDate": "Thu, 13 Nov 2025 23:47:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?434e1ccb0554a6acc03ed0f6be09fa74",
+      "group": "Incransom",
+      "victim": "wafergrind.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : duboiswood.com",
+      "link": "https://www.ransomware.live/id/ZHVib2lzd29vZC5jb21AaW5jcmFuc29t",
+      "summary": "Dubois Wood, located in southern Indiana, has been a domestic producer of high-quality, American-made furniture since 1979. The company caters to several markets by offering superior products at competitive prices, distinguishing itself in the furniture-making industry.\r Employees: 200\r Revenue: $21.6 Million\r Industry: Retail-Furniture \r Phone Number: (812) 683-3613",
+      "pubDate": "Thu, 13 Nov 2025 23:47:19 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?f28f065061e8a4e8931b4c519de5236d",
+      "group": "Incransom",
+      "victim": "duboiswood.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : rosemontexpo.com",
+      "link": "https://www.ransomware.live/id/cm9zZW1vbnRleHBvLmNvbUBpbmNyYW5zb20=",
+      "summary": "Rosemont Exposition Services, Inc. is an Illinois-based company that offers exhibitor show services. These include exhibit rentals, utilities, decorating services, catering, and area information. Formerly known as O&#x27;Hare Exposition Services, they primarily function as the full-service general contractor for all trade shows and events held at the Donald E. Stephens Convention Center located in Rosemont, IL.\r Employees: 500\r Revenue: $48.6 Million\r Industry: Business Services\r Phone Number: (847) 696-2208",
+      "pubDate": "Thu, 13 Nov 2025 22:48:03 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?8b72ee53a2be4355ea53c8d98dca8e57",
+      "group": "Incransom",
+      "victim": "rosemontexpo.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Chaos has just published a new victim : Metropolitan Adjustment Bureau",
+      "link": "https://www.ransomware.live/id/TWV0cm9wb2xpdGFuIEFkanVzdG1lbnQgQnVyZWF1QGNoYW9z",
+      "summary": "Metropolitan Adjustment Bureau is a public insurance adjusting firm with over 50 years of experience assisting homeowners and businesses with insurance claims related to fire, water, earthquake, and disaster damage.",
+      "pubDate": "Thu, 13 Nov 2025 22:43:04 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/chaos?53a4bcaf2c2822b20eadcd2d901eddc8",
+      "group": "Chaos",
+      "victim": "Metropolitan Adjustment Bureau",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : avrind.com",
       "link": "https://www.ransomware.live/id/YXZyaW5kLmNvbUBpbmNyYW5zb20=",
@@ -2146,61 +2201,6 @@
       "group": "Nightspire",
       "victim": "vratatech",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Brihta",
-      "link": "https://www.ransomware.live/id/QnJpaHRhQG5pZ2h0c3BpcmU=",
-      "summary": "Brihta",
-      "pubDate": "Thu, 06 Nov 2025 09:40:05 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/nightspire?23dbe4b3f7bb8cdac70b14770978c276",
-      "group": "Nightspire",
-      "victim": "Brihta",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Warlock has just published a new victim : energogroup.net",
-      "link": "https://www.ransomware.live/id/ZW5lcmdvZ3JvdXAubmV0QHdhcmxvY2s=",
-      "summary": "No description provided.",
-      "pubDate": "Thu, 06 Nov 2025 07:49:34 +0000",
-      "category": "RU",
-      "guid": "https://www.ransomware.live/group/warlock?8fc14e0a5d5c206dba2f7e9b6e981617",
-      "group": "Warlock",
-      "victim": "energogroup.net",
-      "country": "RU"
-    },
-    {
-      "title": "🏴‍☠️ Warlock has just published a new victim : goldenline.com",
-      "link": "https://www.ransomware.live/id/Z29sZGVubGluZS5jb21Ad2FybG9jaw==",
-      "summary": "No description provided.",
-      "pubDate": "Thu, 06 Nov 2025 07:49:10 +0000",
-      "category": "PL",
-      "guid": "https://www.ransomware.live/group/warlock?00ae82645455c44cea4d01ed2fbbb510",
-      "group": "Warlock",
-      "victim": "goldenline.com",
-      "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Warlock has just published a new victim : bengineered.com.au",
-      "link": "https://www.ransomware.live/id/YmVuZ2luZWVyZWQuY29tLmF1QHdhcmxvY2s=",
-      "summary": "No description provided.",
-      "pubDate": "Thu, 06 Nov 2025 07:48:46 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/warlock?ae5a8f6c1337b1a2438bf500b71caed3",
-      "group": "Warlock",
-      "victim": "bengineered.com.au",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Warlock has just published a new victim : mnpease.ca",
-      "link": "https://www.ransomware.live/id/bW5wZWFzZS5jYUB3YXJsb2Nr",
-      "summary": "No description provided.",
-      "pubDate": "Thu, 06 Nov 2025 07:48:21 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/warlock?8bec0a7d78ecd10fb9f5cfc20f637c62",
-      "group": "Warlock",
-      "victim": "mnpease.ca",
-      "country": "CA"
     }
   ]
 }
