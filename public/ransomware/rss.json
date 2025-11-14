@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-14T22:11:05.974Z",
+  "updatedAt": "2025-11-14T23:11:02.382Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : killinglyschools.org",
+      "link": "https://www.ransomware.live/id/a2lsbGluZ2x5c2Nob29scy5vcmdAc2FmZXBheQ==",
+      "summary": "Killingly Public Schools is a K-12 public school district based in Danielson, Connecticut, serving students in the town of Killingly. …",
+      "pubDate": "Fri, 14 Nov 2025 22:18:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?2c9e17724d5b97e2954da31d3643275a",
+      "group": "Safepay",
+      "victim": "killinglyschools.org",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : eakas.com",
+      "link": "https://www.ransomware.live/id/ZWFrYXMuY29tQGluY3JhbnNvbQ==",
+      "summary": "Eakas Corp. specializes in producing both functional and decorative products for the automotive industry, serving as a Tier 1 supplier to manufacturers in the United States. They offer comprehensive services including engineering, injection molding, painting, chrome plating, assembly, and quality testing to ensure consistent product quality. Their product range includes various automotive components such as door handles, bumper fascias, and mirror assemblies. Eakas is committed to customer satisfaction by delivering quality services on time and at competitive prices.\r Employees: 416\r Revenue: $81.3 Million\r Industry: Manufacturing \r Phone Number:\r (815) 223-8811 phone site\r x236 (cell:870-208-5643)\r 248-536-2211\r 815-488-1879\r x208 / 815-713-0753\r (815) 223-8811\r 248-536-2211\r 248-536-2211\r x224 (cell:815-830-6497)\r x218 (cell:815-875-7241)\r 248-536-2211\r 815-719-2814\r 815-713-0753 homePhone: 815-497-2023\r 5135921045",
+      "pubDate": "Fri, 14 Nov 2025 21:46:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?9548461c748b6102c78cdd6316185e5f",
+      "group": "Incransom",
+      "victim": "eakas.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Sol Trading",
       "link": "https://www.ransomware.live/id/U29sIFRyYWRpbmdAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Studio Corvo Parma",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Ketat Grundstücksverwertungs GmbH",
-      "link": "https://www.ransomware.live/id/S2V0YXQgR3J1bmRzdMO8Y2tzdmVyd2VydHVuZ3MgR21iSEBpbmNyYW5zb20=",
-      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
-      "pubDate": "Thu, 06 Nov 2025 20:23:34 +0000",
-      "category": "AT",
-      "guid": "https://www.ransomware.live/group/incransom?7db6a3f018b596e559b5c0dc3214eb56",
-      "group": "Incransom",
-      "victim": "Ketat Grundstücksverwertungs GmbH",
-      "country": "AT"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : prutsch-ra.at",
-      "link": "https://www.ransomware.live/id/cHJ1dHNjaC1yYS5hdEBpbmNyYW5zb20=",
-      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
-      "pubDate": "Thu, 06 Nov 2025 20:23:20 +0000",
-      "category": "AT",
-      "guid": "https://www.ransomware.live/group/incransom?8ecde9780045e020e01b0ba2f5f99ae4",
-      "group": "Incransom",
-      "victim": "prutsch-ra.at",
-      "country": "AT"
     }
   ]
 }
