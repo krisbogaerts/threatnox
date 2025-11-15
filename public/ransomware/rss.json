@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-15T02:23:39.580Z",
+  "updatedAt": "2025-11-15T03:34:53.571Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Crypto24 has just published a new victim : Bayu Buana Travel Service",
+      "link": "https://www.ransomware.live/id/QmF5dSBCdWFuYSBUcmF2ZWwgU2VydmljZUBjcnlwdG8yNA==",
+      "summary": "We have successfully extracted over 500GB of documents from your internal network, including internal company documents, customer and project information, and other data stored within your internal systems.",
+      "pubDate": "Sat, 15 Nov 2025 02:48:57 +0000",
+      "category": "ID",
+      "guid": "https://www.ransomware.live/group/crypto24?b44c2d138536948ec773ec1293de0ba1",
+      "group": "Crypto24",
+      "victim": "Bayu Buana Travel Service",
+      "country": "ID"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : killinglyschools.org",
       "link": "https://www.ransomware.live/id/a2lsbGluZ2x5c2Nob29scy5vcmdAc2FmZXBheQ==",
@@ -2190,17 +2201,6 @@
       "group": "Stormous",
       "victim": "www.marjane.ma",
       "country": "MA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Studio Corvo Parma",
-      "link": "https://www.ransomware.live/id/U3R1ZGlvIENvcnZvIFBhcm1hQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Thu, 06 Nov 2025 22:46:38 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/qilin?9bcb93da42b719288aa941c90e607dcf",
-      "group": "Qilin",
-      "victim": "Studio Corvo Parma",
-      "country": "IT"
     }
   ]
 }
