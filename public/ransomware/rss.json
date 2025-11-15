@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-15T12:19:42.906Z",
+  "updatedAt": "2025-11-15T13:18:28.230Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Killsec has just published a new victim : Force Brokerage",
+      "link": "https://www.ransomware.live/id/Rm9yY2UgQnJva2VyYWdlQGtpbGxzZWM=",
+      "summary": "Price ??? Disclosures 0/1",
+      "pubDate": "Sat, 15 Nov 2025 12:02:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/killsec?0365fe328c07b34eb92338c8ccaadae9",
+      "group": "Killsec",
+      "victim": "Force Brokerage",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Crypto24 has just published a new victim : Bayu Buana Travel Service",
       "link": "https://www.ransomware.live/id/QmF5dSBCdWFuYSBUcmF2ZWwgU2VydmljZUBjcnlwdG8yNA==",
@@ -2190,17 +2201,6 @@
       "group": "Stormous",
       "victim": "www.danareksa.com",
       "country": "ID"
-    },
-    {
-      "title": "🏴‍☠️ Stormous has just published a new victim : www.marjane.ma",
-      "link": "https://www.ransomware.live/id/d3d3Lm1hcmphbmUubWFAc3Rvcm1vdXM=",
-      "summary": "Marjane Group is a Moroccan retail group that owns the Marjane hypermarkets and Marjane Market supermarkets. Founded in 1990, Marjane has gradually become the largest retail company in Morocco",
-      "pubDate": "Thu, 06 Nov 2025 22:56:13 +0000",
-      "category": "MA",
-      "guid": "https://www.ransomware.live/group/stormous?c559310767f07a71518b043dc4c151cf",
-      "group": "Stormous",
-      "victim": "www.marjane.ma",
-      "country": "MA"
     }
   ]
 }
