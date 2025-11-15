@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-15T13:18:28.230Z",
+  "updatedAt": "2025-11-15T14:10:05.013Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Spark Power",
+      "link": "https://www.ransomware.live/id/U3BhcmsgUG93ZXJAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sat, 15 Nov 2025 13:13:40 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?2a073bb18e28cf10229f5b25e059628d",
+      "group": "Qilin",
+      "victim": "Spark Power",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Smile for the Camera – Handala Is Watching",
+      "link": "https://www.ransomware.live/id/U21pbGUgZm9yIHRoZSBDYW1lcmEg4oCTIEhhbmRhbGEgSXMgV2F0Y2hpbmdAaGFuZGFsYQ==",
+      "summary": "This Saturday, Handala RedWanted decided to do things differently. We set our sights directly on the Shabak, your regime’s so-called security guardians. But do you truly feel safe? As long as we are here, that’s little more than an illusion. For years, Shabak’s airport security systems were said to exist solely for “protection.” Yet, their…",
+      "pubDate": "Sat, 15 Nov 2025 12:53:42 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?3b09419313a95f156e7f7554fe989b0f",
+      "group": "Handala",
+      "victim": "Smile for the Camera – Handala Is Watching",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Killsec has just published a new victim : Force Brokerage",
       "link": "https://www.ransomware.live/id/Rm9yY2UgQnJva2VyYWdlQGtpbGxzZWM=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Rex-Hide",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Stormous has just published a new victim : www.wilmar.co.id",
-      "link": "https://www.ransomware.live/id/d3d3LndpbG1hci5jby5pZEBzdG9ybW91cw==",
-      "summary": "VPN access to the company’s internal network is provided",
-      "pubDate": "Thu, 06 Nov 2025 22:57:01 +0000",
-      "category": "ID",
-      "guid": "https://www.ransomware.live/group/stormous?8d28ddc25ec467c098330d3e8bf784f3",
-      "group": "Stormous",
-      "victim": "www.wilmar.co.id",
-      "country": "ID"
-    },
-    {
-      "title": "🏴‍☠️ Stormous has just published a new victim : www.danareksa.com",
-      "link": "https://www.ransomware.live/id/d3d3LmRhbmFyZWtzYS5jb21Ac3Rvcm1vdXM=",
-      "summary": "VPN access to the company’s internal network is provided",
-      "pubDate": "Thu, 06 Nov 2025 22:56:37 +0000",
-      "category": "ID",
-      "guid": "https://www.ransomware.live/group/stormous?93ebbd2544ec9db5bd14835e606fa212",
-      "group": "Stormous",
-      "victim": "www.danareksa.com",
-      "country": "ID"
     }
   ]
 }
