@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-16T11:08:59.808Z",
+  "updatedAt": "2025-11-16T12:19:29.191Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Maresa Logística",
+      "link": "https://www.ransomware.live/id/TWFyZXNhIExvZ8Otc3RpY2FAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 16 Nov 2025 11:18:59 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?480e4373f7a62af8d33d609b71a99cfa",
+      "group": "Qilin",
+      "victim": "Maresa Logística",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Alphalocker has just published a new victim : www.bew.co.th",
       "link": "https://www.ransomware.live/id/d3d3LmJldy5jby50aEBhbHBoYWxvY2tlcg==",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Shands Elbert",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : PLP SoCal",
-      "link": "https://www.ransomware.live/id/UExQIFNvQ2FsQGFraXJh",
-      "summary": "PLP SoCal is Southern California&#x27;s premier representative of perf ormance Architectural Lighting, Decorative Lighting, Lighting Con trols, Acoustic, EV Charging Stations, Illuminated Handrails &amp; Si te Furnishing. We will upload 26gb of corporate documents soon. You will find fu ll personal information of almost every employee. (Name, DOB, pho ne, SSN, address, DL, passport, medical information, family membe rs personal information and so on), financials, internal confiden tial files, client information, etc.",
-      "pubDate": "Fri, 07 Nov 2025 15:18:07 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?6fe73260d948d18dfc16aef6b46e3266",
-      "group": "Akira",
-      "victim": "PLP SoCal",
-      "country": "US"
     }
   ]
 }
