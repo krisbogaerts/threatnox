@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-16T00:58:40.933Z",
+  "updatedAt": "2025-11-16T02:47:21.130Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.bew.co.th",
+      "link": "https://www.ransomware.live/id/d3d3LmJldy5jby50aEBhbHBoYWxvY2tlcg==",
+      "summary": "Bangkok Eagle Wings Co.,Ltd. 67/14 Mu 5 Chuamsamphan Rd. Kokfad. Nongchok. Bangkok 10530. Thailand. Stamping process Welding and assembly process Machining process Painting process",
+      "pubDate": "Sun, 16 Nov 2025 00:39:34 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/alphalocker?ec7e935d76ddc861962c32a65a5d59e5",
+      "group": "Alphalocker",
+      "victim": "www.bew.co.th",
+      "country": "TH"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : SES Société Energies Services",
       "link": "https://www.ransomware.live/id/U0VTIFNvY2nDqXTDqSBFbmVyZ2llcyBTZXJ2aWNlc0BxaWxpbg==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?6fe73260d948d18dfc16aef6b46e3266",
       "group": "Akira",
       "victim": "PLP SoCal",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Koch & Co, Inc.",
-      "link": "https://www.ransomware.live/id/S29jaCAmIENvLCBJbmMuQGFraXJh",
-      "summary": "Koch &amp; Co, Inc., is a wood door and cabinet manufacturing company . We will upload 54gb of corporate documents soon. Detailed financi als and accounting, projects information, contracts, agreements,  lots of HR files, etc.",
-      "pubDate": "Fri, 07 Nov 2025 15:18:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9020e57844da0bda471879ee36273e56",
-      "group": "Akira",
-      "victim": "Koch & Co, Inc.",
       "country": "US"
     }
   ]
