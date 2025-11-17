@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-17T14:12:07.078Z",
+  "updatedAt": "2025-11-17T15:13:52.322Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Svenska kraftnät Database on sale for $2 Million",
+      "link": "https://www.ransomware.live/id/U3ZlbnNrYSBrcmFmdG7DpHQgRGF0YWJhc2Ugb24gc2FsZSBmb3IgJDIgTWlsbGlvbkBldmVyZXN0",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 17 Nov 2025 14:16:30 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/everest?66afe16d135f4656e223512be33a98b6",
+      "group": "Everest",
+      "victim": "Svenska kraftnät Database on sale for $2 Million",
+      "country": "SE"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Svenska kraftnät 280GB Database on sale",
+      "link": "https://www.ransomware.live/id/U3ZlbnNrYSBrcmFmdG7DpHQgMjgwR0IgRGF0YWJhc2Ugb24gc2FsZUBldmVyZXN0",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 17 Nov 2025 14:15:52 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/everest?0f86fd31628b9d80f23805c41bddc9ed",
+      "group": "Everest",
+      "victim": "Svenska kraftnät 280GB Database on sale",
+      "country": "SE"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : AkroStar Technology Co., Ltd. Akrostar",
       "link": "https://www.ransomware.live/id/QWtyb1N0YXIgVGVjaG5vbG9neSBDby4sIEx0ZC4gQWtyb3N0YXJAdGhlZ2VudGxlbWVu",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/dragonforce?444cd92241acb73a7c4eeae3289ea10e",
       "group": "Dragonforce",
       "victim": "DCS TECHNOLOGIES INC.",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Shollenberger Januzzi & Wolfe",
-      "link": "https://www.ransomware.live/id/U2hvbGxlbmJlcmdlciBKYW51enppICYgV29sZmVAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Fri, 07 Nov 2025 19:18:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?5f6ac68ac0506f57c81f893e18c876b2",
-      "group": "Qilin",
-      "victim": "Shollenberger Januzzi & Wolfe",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Marine Turbine Technologies",
-      "link": "https://www.ransomware.live/id/TWFyaW5lIFR1cmJpbmUgVGVjaG5vbG9naWVzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Fri, 07 Nov 2025 19:18:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?4cddee489da5725ca6fe7c93d5937599",
-      "group": "Qilin",
-      "victim": "Marine Turbine Technologies",
       "country": "US"
     }
   ]
