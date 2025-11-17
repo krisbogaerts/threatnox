@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-17T10:14:14.751Z",
+  "updatedAt": "2025-11-17T11:11:00.556Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Brotherhood has just published a new victim : Announcement till 20/11",
+      "link": "https://www.ransomware.live/id/QW5ub3VuY2VtZW50IHRpbGwgMjAvMTFAYnJvdGhlcmhvb2Q=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 17 Nov 2025 09:42:20 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/brotherhood?04ea8d7b4fea31f84fdbc65a2a187422",
+      "group": "Brotherhood",
+      "victim": "Announcement till 20/11",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : ************.com",
       "link": "https://www.ransomware.live/id/KioqKioqKioqKioqLmNvbUB0aGVnZW50bGVtZW4=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Village of New Lenox",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Klae Construction",
-      "link": "https://www.ransomware.live/id/S2xhZSBDb25zdHJ1Y3Rpb25AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Fri, 07 Nov 2025 18:16:39 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?91e9f0c54c147eaf57f77955f9da5940",
-      "group": "Qilin",
-      "victim": "Klae Construction",
-      "country": "US"
     }
   ]
 }
