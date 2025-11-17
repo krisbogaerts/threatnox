@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-17T13:26:19.477Z",
+  "updatedAt": "2025-11-17T14:12:07.078Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : AkroStar Technology Co., Ltd. Akrostar",
+      "link": "https://www.ransomware.live/id/QWtyb1N0YXIgVGVjaG5vbG9neSBDby4sIEx0ZC4gQWtyb3N0YXJAdGhlZ2VudGxlbWVu",
+      "summary": "www.akrostar-tech.com AkroStar was founded in June 2020 and is a leading Chinese enterprise specializing in advanced interface IP. We are committed to the research and development of domestically produced advanced interface IP and breaking through “bottleneck” technologies. AkroStar offers comprehensive high-speed interface IP solutions, including PCIe, Serdes, DDR, D2D, USB, MIPI, HDMI, SATA, SD/eMMC, etc., covering a full-stack complete IP solution compliant with the latest protocol standards. https://www.crunchbase.com/organization/akrostar",
+      "pubDate": "Mon, 17 Nov 2025 13:47:25 +0000",
+      "category": "TW",
+      "guid": "https://www.ransomware.live/group/thegentlemen?6e5456a5ce9b7d253180fd0f8a5223a4",
+      "group": "Thegentlemen",
+      "victim": "AkroStar Technology Co., Ltd. Akrostar",
+      "country": "TW"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : A***-****.com",
       "link": "https://www.ransomware.live/id/QSoqKi0qKioqLmNvbUB0aGVnZW50bGVtZW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?4cddee489da5725ca6fe7c93d5937599",
       "group": "Qilin",
       "victim": "Marine Turbine Technologies",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Medusa has just published a new victim : Simon Property Group",
-      "link": "https://www.ransomware.live/id/U2ltb24gUHJvcGVydHkgR3JvdXBAbWVkdXNh",
-      "summary": "Simon Property Group is a leading real estate investment trust (REIT) based in Indianapolis, Indiana. Founded in 1993, it owns, develops, and manages premier shopping malls, outlets, and lifestyle centers across the United States and internationally. The company’s well-known properties include Premium Outlets and The Mills centers. Led by CEO David E. Simon, it focuses on creating high-quality retail and entertainment destinations that attract millions of visitors each year. Despite challenges from online retail, Simon Property Group continues to innovate by combining shopping, dining, and mixed-use spaces, maintaining its position as a global leader in retail real estate. company is headquartered in 225 West Washington Street, Indianapolis, Indiana 46204, USA. 3,000 employees",
-      "pubDate": "Fri, 07 Nov 2025 18:31:06 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/medusa?f237bdb4e2b6ef0390a693baab5ee37c",
-      "group": "Medusa",
-      "victim": "Simon Property Group",
       "country": "US"
     }
   ]
