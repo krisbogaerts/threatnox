@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-16T23:10:32.487Z",
+  "updatedAt": "2025-11-17T00:56:01.873Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : ************.com",
+      "link": "https://www.ransomware.live/id/KioqKioqKioqKioqLmNvbUB0aGVnZW50bGVtZW4=",
+      "summary": "🇨🇳 Semiconductor industry",
+      "pubDate": "Mon, 17 Nov 2025 00:14:29 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/thegentlemen?33e79f25fa4fefb537743518ca16524f",
+      "group": "Thegentlemen",
+      "victim": "************.com",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Lotus Powergear Pvt. Ltd, India",
+      "link": "https://www.ransomware.live/id/TG90dXMgUG93ZXJnZWFyIFB2dC4gTHRkLCBJbmRpYUBuaWdodHNwaXJl",
+      "summary": "Lotus Powergear Pvt. Ltd, India",
+      "pubDate": "Mon, 17 Nov 2025 00:06:39 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/nightspire?a16fe7b9f63fb3fda6d11f13ca934b7a",
+      "group": "Nightspire",
+      "victim": "Lotus Powergear Pvt. Ltd, India",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : United Enterprise Fund",
       "link": "https://www.ransomware.live/id/VW5pdGVkIEVudGVycHJpc2UgRnVuZEB0aGVnZW50bGVtZW4=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?91e9f0c54c147eaf57f77955f9da5940",
       "group": "Qilin",
       "victim": "Klae Construction",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Aptura Group & Central Indiana Hardware",
-      "link": "https://www.ransomware.live/id/QXB0dXJhIEdyb3VwICYgQ2VudHJhbCBJbmRpYW5hIEhhcmR3YXJlQGludGVybG9jaw==",
-      "summary": "Central Indiana Hardware - Produces custom access systems, space management solutions, and high-performance hardware to optimize the security and functionality of commercial spaces. APTURA GROUP is a wholly employee-owned company specializing in innovative solutions and services in the door hardware and security systems industry. Working with several leading brands, including Central Indiana Hardware (CIH), APTEK, Security Builders Supply, and HG/Schultz Door, we have built our reputation on precision, efficiency, and exceptional customer service that consistently exceeds expectations. CIH helps the company work more productively.",
-      "pubDate": "Fri, 07 Nov 2025 15:33:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/interlock?1e8ef13f9fa5620e98aa67b07c1e261a",
-      "group": "Interlock",
-      "victim": "Aptura Group & Central Indiana Hardware",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Soapy Joe's Car Wash",
-      "link": "https://www.ransomware.live/id/U29hcHkgSm9lJ3MgQ2FyIFdhc2hAYWtpcmE=",
-      "summary": "Voted Best Car Wash in San Diego. Guinness World Record holder. We will upload more than 40gb of corporate documents soon. We obt ained personal information of all employees of this company. Phon es, addresses, DLs, passports, almost 2000 SSN numbers, medical i nformation. Detailed financials, lots of confidential files, cont racts and agreements, partners information and so on, NDAs etc.",
-      "pubDate": "Fri, 07 Nov 2025 15:18:15 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?5fadd354f1a81c49f1cc403b9a6b8d35",
-      "group": "Akira",
-      "victim": "Soapy Joe's Car Wash",
       "country": "US"
     }
   ]
