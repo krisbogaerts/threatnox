@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-17T21:11:02.718Z",
+  "updatedAt": "2025-11-17T22:11:03.237Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Kdr Real Estate Services",
+      "link": "https://www.ransomware.live/id/S2RyIFJlYWwgRXN0YXRlIFNlcnZpY2VzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 17 Nov 2025 21:14:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?7a335dd2bbe22aff34a7405df261a048",
+      "group": "Qilin",
+      "victim": "Kdr Real Estate Services",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Air Design Systems",
       "link": "https://www.ransomware.live/id/QWlyIERlc2lnbiBTeXN0ZW1zQHNpbm9iaQ==",
@@ -2190,17 +2201,6 @@
       "group": "Beast",
       "victim": "Punjab Forensic Science Agency",
       "country": "PK"
-    },
-    {
-      "title": "🏴‍☠️ Beast has just published a new victim : Noroaco",
-      "link": "https://www.ransomware.live/id/Tm9yb2Fjb0BiZWFzdA==",
-      "summary": "Noroaco - Ferro e Aco specializes in a diverse range of high-quality steel products including tubes, beams, tiles, sheets, and plasma cutting services. With over sixteen years of experience, the company serves clients from various sectors such as agribusiness, construction, metallurgy, and locksmithing. They ensure excellence in every step of production by investing in team training and modern equipment, sourcing steel from the country&#x27;s leading steel mills. Noroaco caters to both wholesale and retail markets, providing tailored solutions for clients&#x27; steel project needs.",
-      "pubDate": "Sun, 09 Nov 2025 13:08:19 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/beast?37e72a4955d89e8724218f559eb4ebd7",
-      "group": "Beast",
-      "victim": "Noroaco",
-      "country": ""
     }
   ]
 }
