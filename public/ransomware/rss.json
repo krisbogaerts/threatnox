@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-17T17:11:21.622Z",
+  "updatedAt": "2025-11-17T18:16:49.322Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Poe's Accounting Services",
+      "link": "https://www.ransomware.live/id/UG9lJ3MgQWNjb3VudGluZyBTZXJ2aWNlc0BwZWFy",
+      "summary": "Accounting services and tax return preparation",
+      "pubDate": "Mon, 17 Nov 2025 17:37:45 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?967f8a8a98285b63f205a18b0d5efdf9",
+      "group": "Pear",
+      "victim": "Poe's Accounting Services",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Quinn Jay Patent",
+      "link": "https://www.ransomware.live/id/UXVpbm4gSmF5IFBhdGVudEBwZWFy",
+      "summary": "Drawing services for the intellectual property community",
+      "pubDate": "Mon, 17 Nov 2025 17:37:06 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?38a863f4099b487314431c69b5efda5d",
+      "group": "Pear",
+      "victim": "Quinn Jay Patent",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Law Office of Ronald W. Hillberg",
+      "link": "https://www.ransomware.live/id/TGF3IE9mZmljZSBvZiBSb25hbGQgVy4gSGlsbGJlcmdAcGVhcg==",
+      "summary": "Estate planning and wills",
+      "pubDate": "Mon, 17 Nov 2025 17:36:28 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?b64cff55a13bb2718906648c34ad32ed",
+      "group": "Pear",
+      "victim": "Law Office of Ronald W. Hillberg",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Payoutsking has just published a new victim : K****n",
       "link": "https://www.ransomware.live/id/SyoqKipuQHBheW91dHNraW5n",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Gadge USA",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : JC Auto Accident Law Firm",
-      "link": "https://www.ransomware.live/id/SkMgQXV0byBBY2NpZGVudCBMYXcgRmlybUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sat, 08 Nov 2025 16:20:53 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?64d8e8ee6f25a4579e42f1d2c5c9a53b",
-      "group": "Qilin",
-      "victim": "JC Auto Accident Law Firm",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Ponzini S.p.A.",
-      "link": "https://www.ransomware.live/id/UG9uemluaSBTLnAuQS5AZHJhZ29uZm9yY2U=",
-      "summary": "Founded in 1862, Ponzini S.p.A. is a global leader in personal care product manufacturing. With over 160 years of history, the company has evolved to offer innovative and sustainable solutions in cosmetics and oral hygiene. Ponzini emphasizes quality, technology, creativity, sustainability, flexibility and health and safety.",
-      "pubDate": "Sat, 08 Nov 2025 13:53:52 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/dragonforce?31719247cee4736cb7f2ea6cbfc2ffa4",
-      "group": "Dragonforce",
-      "victim": "Ponzini S.p.A.",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Handala has just published a new victim : Saturday Spotlight",
-      "link": "https://www.ransomware.live/id/U2F0dXJkYXkgU3BvdGxpZ2h0QGhhbmRhbGE=",
-      "summary": "As per our unbreakable tradition, every Saturday, the world awaits the chilling revelation from Handala RedWanted. This week, we pull back the mask on eight more Zionist criminals, names that strike terror in the hearts of those who believe they can commit atrocities from the shadows. Among our revelations are chief architects of the infamous…",
-      "pubDate": "Sat, 08 Nov 2025 10:54:07 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/handala?900ac1fd29080d8f250bab2b81a24b5a",
-      "group": "Handala",
-      "victim": "Saturday Spotlight",
-      "country": ""
     }
   ]
 }
