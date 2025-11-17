@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-17T20:13:25.111Z",
+  "updatedAt": "2025-11-17T21:11:02.718Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Air Design Systems",
+      "link": "https://www.ransomware.live/id/QWlyIERlc2lnbiBTeXN0ZW1zQHNpbm9iaQ==",
+      "summary": "Air Design Systems, Inc. is a woman-owned business based in the Chicago area, specializing in complete ventilation solutions since 1977. They offer services such as Building Information Modeling, fabrication, and design assistance, catering to markets including healthcare, education, and commercial projects. The company is recognized for its commitment to innovation, quality, and safety, having received multiple awards for its exemplary safety programs and subcontractor excellence. With a focus on advanced technology and 3D coordination, Air Design Systems aims to provide high-quality infrastructure for successful project outcomes.",
+      "pubDate": "Mon, 17 Nov 2025 20:25:58 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?8399ee9ec1f31ec205485afb2046919d",
+      "group": "Sinobi",
+      "victim": "Air Design Systems",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Lincoln IT",
+      "link": "https://www.ransomware.live/id/TGluY29sbiBJVEBzaW5vYmk=",
+      "summary": "Gregory N. Mirsky is an AWS certified solutions architect and security specialist with extensive experience in optimizing cloud infrastructure and applications. He specializes in cloud migration, cybersecurity compliance, and implementing modern application architectures, such as serverless and containerized solutions. His targeted clients include companies seeking to enhance their IT security and operational efficiency, as well as those in need of infrastructure modernization. With a strong background in collaboration between technology teams, Mirsky offers holistic and strategic approaches to systems design.",
+      "pubDate": "Mon, 17 Nov 2025 20:25:39 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?2d0a16f81a3649c9794f9f36a3a184af",
+      "group": "Sinobi",
+      "victim": "Lincoln IT",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : H G Reynolds",
+      "link": "https://www.ransomware.live/id/SCBHIFJleW5vbGRzQHNpbm9iaQ==",
+      "summary": "H.G. Reynolds is a full-service construction management company specializing in the development of K-12 school facilities in the southeastern United States. With over 70 years of experience, the firm emphasizes maintaining long-term relationships with clients and positively impacting local communities through state-of-the-art educational spaces. Their range of services includes management planning, preconstruction services, quality control, and safety. H.G. Reynolds aims to enhance educational infrastructure while contributing to local economic growth.",
+      "pubDate": "Mon, 17 Nov 2025 20:25:17 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?94c299760d2c22cb01dd765fa52a7125",
+      "group": "Sinobi",
+      "victim": "H G Reynolds",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Petrobras Campos Basin 3D & 4D Seismic Survey Data",
       "link": "https://www.ransomware.live/id/UGV0cm9icmFzIENhbXBvcyBCYXNpbiAzRCAmIDREIFNlaXNtaWMgU3VydmV5IERhdGFAZXZlcmVzdA==",
@@ -2168,39 +2201,6 @@
       "group": "Beast",
       "victim": "Noroaco",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Gullco International",
-      "link": "https://www.ransomware.live/id/R3VsbGNvIEludGVybmF0aW9uYWxAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 09 Nov 2025 11:59:11 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?6d675b5189e3316c23a60451367a422f",
-      "group": "Qilin",
-      "victim": "Gullco International",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Hitzinger",
-      "link": "https://www.ransomware.live/id/SGl0emluZ2VyQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sun, 09 Nov 2025 03:12:17 +0000",
-      "category": "AT",
-      "guid": "https://www.ransomware.live/group/qilin?dd06b2fa8451bd24d7e29ea7a3955b0c",
-      "group": "Qilin",
-      "victim": "Hitzinger",
-      "country": "AT"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Gadge USA",
-      "link": "https://www.ransomware.live/id/R2FkZ2UgVVNBQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sat, 08 Nov 2025 17:50:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?ca9b2b23796bb02e5946a82370cd8af7",
-      "group": "Qilin",
-      "victim": "Gadge USA",
-      "country": "US"
     }
   ]
 }
