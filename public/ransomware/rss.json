@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-18T08:16:35.459Z",
+  "updatedAt": "2025-11-18T09:13:56.889Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Skira has just published a new victim : INNOVEX HOLDINGS CO., LTD",
+      "link": "https://www.ransomware.live/id/SU5OT1ZFWCBIT0xESU5HUyBDTy4sIExUREBza2lyYQ==",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Tue, 18 Nov 2025 08:25:03 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/skira?52657c1c4f231cb2f5c0cb91bb41eecc",
+      "group": "Skira",
+      "victim": "INNOVEX HOLDINGS CO., LTD",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Smoll & Banning, CPAs",
       "link": "https://www.ransomware.live/id/U21vbGwgJiBCYW5uaW5nLCBDUEFzQHJoeXNpZGE=",
@@ -2190,17 +2201,6 @@
       "group": "Nightspire",
       "victim": "Instituto Nacional de Oftalmologia, Peru",
       "country": "PE"
-    },
-    {
-      "title": "🏴‍☠️ Medusa has just published a new victim : Atrium Living Centers",
-      "link": "https://www.ransomware.live/id/QXRyaXVtIExpdmluZyBDZW50ZXJzQG1lZHVzYQ==",
-      "summary": "Atrium Living Centers is a 100% employee-owned company providing skilled nursing, rehabilitation, and long-term care services. The organization is dedicated to delivering compassionate, high-quality healthcare to residents while promoting dignity, respect, and community involvement. With a strong focus on personalized treatment, Atrium Living Centers offers both short-term post-acute rehabilitation and long-term nursing care. Their mission is to “be a light in the lives of our residents and families,” ensuring comfort and well-being in a supportive environment. The company operates multiple care centers across several U.S. states, including Ohio, Michigan, Kentucky, and Wisconsin. company is headquartered in Atrium Living Centers headquarters is located at 2550 Corporate Exchange Drive, Suite 200, Columbus, Ohio 43231, United States. 2,000 Employees",
-      "pubDate": "Sun, 09 Nov 2025 18:42:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/medusa?1a169872323c24b0facf2cac130bdaa8",
-      "group": "Medusa",
-      "victim": "Atrium Living Centers",
-      "country": "US"
     }
   ]
 }
