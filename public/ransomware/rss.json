@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-18T13:26:46.730Z",
+  "updatedAt": "2025-11-18T14:11:50.256Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Kensington Court",
+      "link": "https://www.ransomware.live/id/S2Vuc2luZ3RvbiBDb3VydEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 18 Nov 2025 13:48:52 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?95ed986e43fd36a11f9a26976176aa7d",
+      "group": "Qilin",
+      "victim": "Kensington Court",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : QuaLex Manufacturing",
       "link": "https://www.ransomware.live/id/UXVhTGV4IE1hbnVmYWN0dXJpbmdAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Nightspire",
       "victim": "Fidelity Pension Managers, Nigeria",
       "country": "NG"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Eastern Cape Department of Human Settlements, South Africa",
-      "link": "https://www.ransomware.live/id/RWFzdGVybiBDYXBlIERlcGFydG1lbnQgb2YgSHVtYW4gU2V0dGxlbWVudHMsIFNvdXRoIEFmcmljYUBuaWdodHNwaXJl",
-      "summary": "Eastern Cape Department of Human Settlements, South Africa",
-      "pubDate": "Sun, 09 Nov 2025 19:47:12 +0000",
-      "category": "ZA",
-      "guid": "https://www.ransomware.live/group/nightspire?b00f58b0f9c73bb6dc66a959a8bbb2e9",
-      "group": "Nightspire",
-      "victim": "Eastern Cape Department of Human Settlements, South Africa",
-      "country": "ZA"
     }
   ]
 }
