@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-18T19:10:25.874Z",
+  "updatedAt": "2025-11-18T20:14:12.253Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : baisyaakov.ca",
+      "link": "https://www.ransomware.live/id/YmFpc3lhYWtvdi5jYUBpbmNyYW5zb20=",
+      "summary": "Bais Yaakov Elementary School is dedicated to providing exceptional education for girls in the Toronto community. With a long-standing commitment to students and educational excellence, the school contributes significantly to the local community&#x27;s character. It serves approximately 945 students with a faculty of 115 teachers across 50 classrooms, fostering a strong legacy through its graduates. The school offers various programs including tuition payment options, lunch services, and community events.\r Employees: 50\r Revenue: $5 Million\r Industry: Education  \r Phone Number: (416) 783-6181",
+      "pubDate": "Tue, 18 Nov 2025 19:53:51 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/incransom?06b88eb9f6be1de42794f91d93bc23cc",
+      "group": "Incransom",
+      "victim": "baisyaakov.ca",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : continuumindia.com",
+      "link": "https://www.ransomware.live/id/Y29udGludXVtaW5kaWEuY29tQGluY3JhbnNvbQ==",
+      "summary": "Continuum India is a contract research organization specializing in drug safety monitoring and regulatory services for the pharmaceutical industry. They offer a range of services including pharmacovigilance, evidence evaluation, and technology solutions, aimed at enhancing patient safety and ensuring regulatory compliance. Their target clients include globally recognized brands in the healthcare sector, for whom they provide integrated, high-performance services across various therapeutic areas. With a commitment to excellence and the use of cutting-edge technology, including AI and automation, they focus on delivering accurate and timely results for their partners.\r Employees: 250\r Revenue: $14 Million\r Industry: Retail  \r Phone Number: (203) 274-0016",
+      "pubDate": "Tue, 18 Nov 2025 19:24:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?782285ee26205542610f22a5234bd38a",
+      "group": "Incransom",
+      "victim": "continuumindia.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : ripleyacademy.org",
       "link": "https://www.ransomware.live/id/cmlwbGV5YWNhZGVteS5vcmdAaW5jcmFuc29t",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/incransom?17c16be291272a343dbf29c604a110de",
       "group": "Incransom",
       "victim": "Weintraub Traub Tracy & Virk Cra's LLP",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : [EVIDENCE PACK 2]ASKUL",
-      "link": "https://www.ransomware.live/id/W0VWSURFTkNFIFBBQ0sgMl1BU0tVTEByYW5zb21ob3VzZQ==",
-      "summary": "ASKUL Corporation, founded in 1963 and headquartered in Tokyo, is a leading Japanese e-commerce company serving both businesses (B2B) and consumers (B2C). It offers office supplies, daily goods, medical products, and logistics services through platforms such as ASKUL, SOLOEL ARENA, and LOHACO. The company operates its own distribution centers, ensuring fast delivery and efficient supply chain management. ASKUL also provides additional services like printing, office design, and digital business solutions. The company emphasizes sustainability, digital transformation, and recycling initiatives.",
-      "pubDate": "Mon, 10 Nov 2025 08:53:38 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/ransomhouse?7813b9f09137fad5709527dbbd1fc043",
-      "group": "Ransomhouse",
-      "victim": "[EVIDENCE PACK 2]ASKUL",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : LMHT Associates",
-      "link": "https://www.ransomware.live/id/TE1IVCBBc3NvY2lhdGVzQHJoeXNpZGE=",
-      "summary": "LMHT Associates",
-      "pubDate": "Mon, 10 Nov 2025 07:47:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?41e045ba454db8033f5ee2cdbf638e86",
-      "group": "Rhysida",
-      "victim": "LMHT Associates",
       "country": "US"
     }
   ]
