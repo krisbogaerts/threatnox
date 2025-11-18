@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-17T23:11:00.432Z",
+  "updatedAt": "2025-11-18T00:54:10.677Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Medusalocker has just published a new victim : dulay.ca",
+      "link": "https://www.ransomware.live/id/ZHVsYXkuY2FAbWVkdXNhbG9ja2Vy",
+      "summary": "Price-$40000 (sale in one hand there are options for making a profit from these files will be included in the deal) 500Gb",
+      "pubDate": "Tue, 18 Nov 2025 00:33:56 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/medusalocker?87b5a9d22e3f228868c5556d4ebea55d",
+      "group": "Medusalocker",
+      "victim": "dulay.ca",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Kdr Real Estate Services",
       "link": "https://www.ransomware.live/id/S2RyIFJlYWwgRXN0YXRlIFNlcnZpY2VzQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Beast",
       "victim": "Ringmor",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Beast has just published a new victim : Punjab Forensic Science Agency",
-      "link": "https://www.ransomware.live/id/UHVuamFiIEZvcmVuc2ljIFNjaWVuY2UgQWdlbmN5QGJlYXN0",
-      "summary": "The Punjab Forensic Science Agency (PFSA) provides a range of forensic services including audio visual analysis, computer forensics, DNA and serology, pathology, latent fingerprint analysis, and trace chemistry. It aims to support law enforcement agencies through training and education, offering courses and workshops on evidence collection and preservation. The agency also facilitates study tours for various institutions to familiarize them with its operations. PFSA is dedicated to enhancing forensic science capabilities in Pakistan to combat corruption and promote justice.",
-      "pubDate": "Sun, 09 Nov 2025 13:09:45 +0000",
-      "category": "PK",
-      "guid": "https://www.ransomware.live/group/beast?9b37e06f1db7c5dda76a63c4f89a14bb",
-      "group": "Beast",
-      "victim": "Punjab Forensic Science Agency",
-      "country": "PK"
     }
   ]
 }
