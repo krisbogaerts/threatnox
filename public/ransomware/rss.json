@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-11-18T22:11:28.154Z",
+  "updatedAt": "2025-11-18T23:10:40.224Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : TFC Poultry",
+      "link": "https://www.ransomware.live/id/VEZDIFBvdWx0cnlAc2lub2Jp",
+      "summary": "TFC Poultry specializes in producing high-quality meat, with a focus on deboning turkey thighs. They also offer a range of other protein services and products. The company utilizes advanced x-ray and metal detection technology to ensure the safety and wholesomeness of their products. Their intended clients include businesses seeking reliable and safe poultry products.",
+      "pubDate": "Tue, 18 Nov 2025 22:19:03 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?1580473926aec121e68f3594d173c978",
+      "group": "Sinobi",
+      "victim": "TFC Poultry",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : istitutocomprensivo-cavaglia.edu.it",
+      "link": "https://www.ransomware.live/id/aXN0aXR1dG9jb21wcmVuc2l2by1jYXZhZ2xpYS5lZHUuaXRAc2FmZXBheQ==",
+      "summary": "Istituto Comprensivo di Cavaglià is a public school district in the Biella province of the Piedmont region, serving students from …",
+      "pubDate": "Tue, 18 Nov 2025 21:15:50 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/safepay?aa9b2d42d9d8205e1f52f1ae29594252",
+      "group": "Safepay",
+      "victim": "istitutocomprensivo-cavaglia.edu.it",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : puertoricowarehousing.com",
+      "link": "https://www.ransomware.live/id/cHVlcnRvcmljb3dhcmVob3VzaW5nLmNvbUBzYWZlcGF5",
+      "summary": "Puerto Rico Warehousing Management Corp. is a logistics and storage company based in Carolina, Puerto Rico. It operates a modern …",
+      "pubDate": "Tue, 18 Nov 2025 21:15:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?ccf12bd80bad634085dbb0389bda0069",
+      "group": "Safepay",
+      "victim": "puertoricowarehousing.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : adesursas.com",
+      "link": "https://www.ransomware.live/id/YWRlc3Vyc2FzLmNvbUBzYWZlcGF5",
+      "summary": "Adesur SAS is a Colombian company based in Pasto, Nariño, that operates in the wholesale distribution of agricultural and veterinary …",
+      "pubDate": "Tue, 18 Nov 2025 21:14:39 +0000",
+      "category": "CO",
+      "guid": "https://www.ransomware.live/group/safepay?4608eecfc5f1f54590c7f4aa4dbdf580",
+      "group": "Safepay",
+      "victim": "adesursas.com",
+      "country": "CO"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : aussenwelten.ch",
+      "link": "https://www.ransomware.live/id/YXVzc2Vud2VsdGVuLmNoQHNhZmVwYXk=",
+      "summary": "Zuber Aussenwelten AG is a Swiss company based in Domat/Ems (Graubünden), operating in the garden design and outdoor-living sector. The …",
+      "pubDate": "Tue, 18 Nov 2025 21:14:04 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/safepay?6c3058895359c2756cd2f63e598d5cfe",
+      "group": "Safepay",
+      "victim": "aussenwelten.ch",
+      "country": "CH"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : simmonsbb.com",
+      "link": "https://www.ransomware.live/id/c2ltbW9uc2JiLmNvbUBzYWZlcGF5",
+      "summary": "Simmons Electrical Co. Ltd. is a well-established Barbadian electrical contracting firm headquartered in St. Philip. The company specializes in a …",
+      "pubDate": "Tue, 18 Nov 2025 21:13:29 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/safepay?78076b6774a14b1f82074d107ae881b0",
+      "group": "Safepay",
+      "victim": "simmonsbb.com",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Spark Innovation",
+      "link": "https://www.ransomware.live/id/U3BhcmsgSW5ub3ZhdGlvbkBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 18 Nov 2025 21:10:04 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?0290e7c9226562fcb198e19da547deaf",
+      "group": "Qilin",
+      "victim": "Spark Innovation",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : baisyaakov.ca",
       "link": "https://www.ransomware.live/id/YmFpc3lhYWtvdi5jYUBpbmNyYW5zb20=",
@@ -2124,83 +2201,6 @@
       "group": "Play",
       "victim": "Ioxo & Stream Computers",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Darvin Furniture",
-      "link": "https://www.ransomware.live/id/RGFydmluIEZ1cm5pdHVyZUBwbGF5",
-      "summary": "United States",
-      "pubDate": "Mon, 10 Nov 2025 18:52:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?c0e9c81216e1027f72e72c0c33f2cc53",
-      "group": "Play",
-      "victim": "Darvin Furniture",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Land Title Guaranty",
-      "link": "https://www.ransomware.live/id/TGFuZCBUaXRsZSBHdWFyYW50eUBwbGF5",
-      "summary": "United States",
-      "pubDate": "Mon, 10 Nov 2025 18:51:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?df72de270a865129113acc72e45f2c2e",
-      "group": "Play",
-      "victim": "Land Title Guaranty",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : OMS",
-      "link": "https://www.ransomware.live/id/T01TQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Mon, 10 Nov 2025 17:37:37 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?05f81b87bd863c4cee8d29baa3be25f0",
-      "group": "Qilin",
-      "victim": "OMS",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Mciver Engineering & Controls",
-      "link": "https://www.ransomware.live/id/TWNpdmVyIEVuZ2luZWVyaW5nICYgQ29udHJvbHNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 10 Nov 2025 17:36:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?721d19f615f6dea46c975bb0003b1970",
-      "group": "Qilin",
-      "victim": "Mciver Engineering & Controls",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Ami Bearings",
-      "link": "https://www.ransomware.live/id/QW1pIEJlYXJpbmdzQGFraXJh",
-      "summary": "AMI Bearings, Inc. is a premier manufacturer of mounted ball bear ings that caters to the North American market. We will upload 15gb of corporate documents soon. Employee informa tion, clients information, lots of projects information, agreemen ts and contracts, NDAs, etc.",
-      "pubDate": "Mon, 10 Nov 2025 16:15:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?131f82ae362905ac461e08a750c06143",
-      "group": "Akira",
-      "victim": "Ami Bearings",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : MARCK Industries",
-      "link": "https://www.ransomware.live/id/TUFSQ0sgSW5kdXN0cmllc0ByYW5zb21ob3VzZQ==",
-      "summary": "GMARCK Industries believe that the services we provide make a difference: In Your Company - From your first 360 Waste Audit to implementing and maintaining your customized recycling program, we help you reach your sustainability goals while helping you increase efficiencies and reduce costs. In Our Community - Recycling keeps reusable products out of the landfill, while boosting the local economy with sustainable jobs.",
-      "pubDate": "Mon, 10 Nov 2025 15:49:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/ransomhouse?28f0875d2409272f5720b6b629ae3b74",
-      "group": "Ransomhouse",
-      "victim": "MARCK Industries",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Weintraub Traub Tracy & Virk Cra's LLP",
-      "link": "https://www.ransomware.live/id/V2VpbnRyYXViIFRyYXViIFRyYWN5ICYgVmlyayBDcmEncyBMTFBAaW5jcmFuc29t",
-      "summary": "We have data from Piaty Müller-Mezin Schoeller Rechtsanwälte GmbH, payment and tax records, employee and client documents, as well as projects and developments, and personal correspondence with clients.",
-      "pubDate": "Mon, 10 Nov 2025 12:21:55 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?17c16be291272a343dbf29c604a110de",
-      "group": "Incransom",
-      "victim": "Weintraub Traub Tracy & Virk Cra's LLP",
-      "country": "US"
     }
   ]
 }
