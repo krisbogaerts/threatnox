@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-18T14:11:50.256Z",
+  "updatedAt": "2025-11-18T15:13:21.512Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Cloak has just published a new victim : Con*******.com",
+      "link": "https://www.ransomware.live/id/Q29uKioqKioqKi5jb21AY2xvYWs=",
+      "summary": "",
+      "pubDate": "Tue, 18 Nov 2025 14:49:14 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/cloak?85136c59ec3360405e1e3ac74bca1022",
+      "group": "Cloak",
+      "victim": "Con*******.com",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Cloak has just published a new victim : ****e-det**.de",
+      "link": "https://www.ransomware.live/id/KioqKmUtZGV0KiouZGVAY2xvYWs=",
+      "summary": "",
+      "pubDate": "Tue, 18 Nov 2025 14:49:11 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/cloak?6dba512dd3665535716fb7a0df07cfcb",
+      "group": "Cloak",
+      "victim": "****e-det**.de",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Kensington Court",
       "link": "https://www.ransomware.live/id/S2Vuc2luZ3RvbiBDb3VydEBxaWxpbg==",
@@ -2179,28 +2201,6 @@
       "group": "Stormous",
       "victim": "!",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Servicios del Valle del Fuerte, Mexico",
-      "link": "https://www.ransomware.live/id/U2VydmljaW9zIGRlbCBWYWxsZSBkZWwgRnVlcnRlLCBNZXhpY29AbmlnaHRzcGlyZQ==",
-      "summary": "Servicios del Valle del Fuerte, Mexico",
-      "pubDate": "Sun, 09 Nov 2025 19:48:04 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/nightspire?bf9b334c2fa31cf35bcb9f23cfaa8b81",
-      "group": "Nightspire",
-      "victim": "Servicios del Valle del Fuerte, Mexico",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Fidelity Pension Managers, Nigeria",
-      "link": "https://www.ransomware.live/id/RmlkZWxpdHkgUGVuc2lvbiBNYW5hZ2VycywgTmlnZXJpYUBuaWdodHNwaXJl",
-      "summary": "Fidelity Pension Managers, Nigeria",
-      "pubDate": "Sun, 09 Nov 2025 19:47:38 +0000",
-      "category": "NG",
-      "guid": "https://www.ransomware.live/group/nightspire?bb1780153c6f15d871f8026694b3f8cf",
-      "group": "Nightspire",
-      "victim": "Fidelity Pension Managers, Nigeria",
-      "country": "NG"
     }
   ]
 }
