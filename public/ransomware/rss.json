@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-18T02:27:22.842Z",
+  "updatedAt": "2025-11-18T03:40:28.971Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Smoll & Banning, CPAs",
+      "link": "https://www.ransomware.live/id/U21vbGwgJiBCYW5uaW5nLCBDUEFzQHJoeXNpZGE=",
+      "summary": "Smoll &amp; Banning, CPAs Smoll &amp; Banning, CPA&#x27;s, LLC is an independent accounting firm located in Dodge City, Kansas.",
+      "pubDate": "Tue, 18 Nov 2025 02:48:15 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?2921936a90993b7eb45662a7c3a9e174",
+      "group": "Rhysida",
+      "victim": "Smoll & Banning, CPAs",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Medusalocker has just published a new victim : dulay.ca",
       "link": "https://www.ransomware.live/id/ZHVsYXkuY2FAbWVkdXNhbG9ja2Vy",
@@ -2190,17 +2201,6 @@
       "group": "Medusa",
       "victim": "Atrium Living Centers",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Beast has just published a new victim : Ringmor",
-      "link": "https://www.ransomware.live/id/UmluZ21vckBiZWFzdA==",
-      "summary": "CallMor offers virtual phone system services aimed at businesses looking for unlimited communication options with no hidden fees. Their plans are designed to simplify connectivity for teams and clients alike and include 24/7 customer support. With offices in Orange County, San Diego, and Los Angeles, they prioritize customer satisfaction and provide competitive pricing in the telecommunications market. CallMor is known for its professional service and effectiveness in improving communication and sales results for its clients",
-      "pubDate": "Sun, 09 Nov 2025 13:10:43 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/beast?6b8c0a132402ed1befadb6b0ee8a571d",
-      "group": "Beast",
-      "victim": "Ringmor",
-      "country": ""
     }
   ]
 }
