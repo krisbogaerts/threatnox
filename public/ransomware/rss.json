@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-18T12:23:27.565Z",
+  "updatedAt": "2025-11-18T13:26:46.730Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : QuaLex Manufacturing",
+      "link": "https://www.ransomware.live/id/UXVhTGV4IE1hbnVmYWN0dXJpbmdAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 18 Nov 2025 12:19:06 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?f060c19041d02a045ae4686e12df7cfd",
+      "group": "Qilin",
+      "victim": "QuaLex Manufacturing",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Skira has just published a new victim : INNOVEX HOLDINGS CO., LTD",
       "link": "https://www.ransomware.live/id/SU5OT1ZFWCBIT0xESU5HUyBDTy4sIExUREBza2lyYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Nightspire",
       "victim": "Eastern Cape Department of Human Settlements, South Africa",
       "country": "ZA"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Instituto Nacional de Oftalmologia, Peru",
-      "link": "https://www.ransomware.live/id/SW5zdGl0dXRvIE5hY2lvbmFsIGRlIE9mdGFsbW9sb2dpYSwgUGVydUBuaWdodHNwaXJl",
-      "summary": "Instituto Nacional de Oftalmologia, Peru",
-      "pubDate": "Sun, 09 Nov 2025 19:46:47 +0000",
-      "category": "PE",
-      "guid": "https://www.ransomware.live/group/nightspire?a40d12c8051141d01f8e3f3e0fddd31e",
-      "group": "Nightspire",
-      "victim": "Instituto Nacional de Oftalmologia, Peru",
-      "country": "PE"
     }
   ]
 }
