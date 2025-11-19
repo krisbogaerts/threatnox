@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-19T14:11:45.869Z",
+  "updatedAt": "2025-11-19T15:12:56.442Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : reidhurstnagy.com",
+      "link": "https://www.ransomware.live/id/cmVpZGh1cnN0bmFneS5jb21AaW5jcmFuc29t",
+      "summary": "RHN CPA is a full-service accounting firm that provides diverse accounting services to various clients including businesses, First Nations, not-for-profit organizations, and individuals across the Lower Mainland and Okanagan. The firm is committed to delivering superior accounting and related services that enhance clients&#x27; quality of life, while fostering a supportive and flexible environment for its employees. With a focus on accessibility and personalized service, RHN CPA builds strong relationships with clients to support their growth and success. Their offerings include bookkeeping, tax preparation, and financial advisory services tailored to meet the unique needs of their community.",
+      "pubDate": "Wed, 19 Nov 2025 13:46:12 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/incransom?bb3768b390e065cb5e25ac17c8366722",
+      "group": "Incransom",
+      "victim": "reidhurstnagy.com",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : mcchemical.com",
+      "link": "https://www.ransomware.live/id/bWNjaGVtaWNhbC5jb21AZGV2bWFu",
+      "summary": "Ransom: 200k 80gb",
+      "pubDate": "Wed, 19 Nov 2025 13:43:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?5fa2145dcc2de727107964685666c45e",
+      "group": "Devman",
+      "victim": "mcchemical.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : ***.***",
       "link": "https://www.ransomware.live/id/KioqLioqKkB0aGVnZW50bGVtZW4=",
@@ -2179,28 +2201,6 @@
       "group": "Sinobi",
       "victim": "Hongji Metal",
       "country": "CN"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Sarulla Operation",
-      "link": "https://www.ransomware.live/id/U2FydWxsYSBPcGVyYXRpb25AaW5jcmFuc29t",
-      "summary": "Administration \r Financial operations \r Budgets and account balances \r User information \r Confidential information \r Over 1,000 passports \r Payment instructions and other accounting documents \r Contract discussions and final contracts \r and others",
-      "pubDate": "Tue, 11 Nov 2025 00:27:51 +0000",
-      "category": "ID",
-      "guid": "https://www.ransomware.live/group/incransom?7c1255f13d713c4d56b97cd1c2bb7d37",
-      "group": "Incransom",
-      "victim": "Sarulla Operation",
-      "country": "ID"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.modcomedia.com",
-      "link": "https://www.ransomware.live/id/d3d3Lm1vZGNvbWVkaWEuY29tQGluY3JhbnNvbQ==",
-      "summary": "5GB of confidential data, 400GB of total data, contracts with Rockstar, Siemens, and other popular brands.",
-      "pubDate": "Tue, 11 Nov 2025 00:27:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?bc0f46a710f6b04a98f07c55021f51a7",
-      "group": "Incransom",
-      "victim": "www.modcomedia.com",
-      "country": "US"
     }
   ]
 }
