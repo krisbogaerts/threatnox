@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-19T06:18:20.918Z",
+  "updatedAt": "2025-11-19T07:12:20.456Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sarcoma has just published a new victim : B&J Rocket Sales",
+      "link": "https://www.ransomware.live/id/QiZKIFJvY2tldCBTYWxlc0BzYXJjb21h",
+      "summary": "B&amp;J Rocket Sales BJ Rocket is a leading manufacturer in the tire and rubber industry, specializing in retreading blades and carbide tools. The company provides a comprehensive range of tire retreading tools and is recognized for its innovative offerings that enhance the efficiency of tire processing. Additionally, BJ Rocket caters to various sectors by producing specialized tools for materials like mineral wool, marble, and leather. Their commitment to product quality and customer satisfaction has secured their position as a trusted market leaderGeo: Switzerland - Leak size: 156 GB Archive - Contains: Files, SQL, Exchange",
+      "pubDate": "Wed, 19 Nov 2025 06:32:43 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/sarcoma?c5e991f8f1b3532e005847f5c4870590",
+      "group": "Sarcoma",
+      "victim": "B&J Rocket Sales",
+      "country": "CH"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : FSGROUP-Engineering",
       "link": "https://www.ransomware.live/id/RlNHUk9VUC1FbmdpbmVlcmluZ0BhbnViaXM=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Yaesu",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Garvin Promotion Group",
-      "link": "https://www.ransomware.live/id/R2FydmluIFByb21vdGlvbiBHcm91cEBwbGF5",
-      "summary": "United States",
-      "pubDate": "Mon, 10 Nov 2025 18:55:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?1cfa2f8730581cd3f7b929bda1740ebb",
-      "group": "Play",
-      "victim": "Garvin Promotion Group",
-      "country": "US"
     }
   ]
 }
