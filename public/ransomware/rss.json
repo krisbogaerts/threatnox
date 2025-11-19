@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-19T20:12:05.477Z",
+  "updatedAt": "2025-11-19T21:09:31.846Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Croft",
+      "link": "https://www.ransomware.live/id/Q3JvZnRAc2lub2Jp",
+      "summary": "Croft is a leading window and door company specializing in energy-efficient vinyl and aluminum products, including a variety of windows and patio doors. With a commitment to quality and innovation, the company has built a reputation as one of the largest and most reliable suppliers in the industry since its establishment in 1920. Croft&#x27;s offerings are designed to enhance comfort and energy savings for homeowners, making them an ideal choice for those seeking high-performance solutions. The company caters to both individual customers and certified dealers in the market.",
+      "pubDate": "Wed, 19 Nov 2025 20:14:11 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?5a919007fb348ee7c38dd053d44385ca",
+      "group": "Sinobi",
+      "victim": "Croft",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : CHANGEPOND",
+      "link": "https://www.ransomware.live/id/Q0hBTkdFUE9OREBzaW5vYmk=",
+      "summary": "Founded in 2000, Changepond is a software company that provides enterprise software, digital and data solutions. The company is headquartered in Siruseri, Chennai, India.",
+      "pubDate": "Wed, 19 Nov 2025 20:13:48 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/sinobi?f558070624a5b6dd500cf9ce7f447470",
+      "group": "Sinobi",
+      "victim": "CHANGEPOND",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : IGT",
       "link": "https://www.ransomware.live/id/SUdUQHFpbGlu",
@@ -2179,28 +2201,6 @@
       "group": "Kazu",
       "victim": "National Civil Service Commission of Colombia",
       "country": "CO"
-    },
-    {
-      "title": "🏴‍☠️ Kazu has just published a new victim : Defensoría del Pueblo de Colombia – Protection and Promotion of Human Rights",
-      "link": "https://www.ransomware.live/id/RGVmZW5zb3LDrWEgZGVsIFB1ZWJsbyBkZSBDb2xvbWJpYSDigJMgUHJvdGVjdGlvbiBhbmQgUHJvbW90aW9uIG9mIEh1bWFuIFJpZ2h0c0BrYXp1",
-      "summary": "The official online portal of the Defensoría del Pueblo de Colombia, a constitutional and autonomous institution responsible for promoting, protecting, and defending human rights across the country. It serves as a public platform where citizens can access information about their rights, file complaints, seek legal guidance, and learn about the institution’s oversight and advocacy efforts. The Defensoría operates independently from other branches of government and plays a key role in ensuring that state entities respect and uphold fundamental rights, especially for vulnerable populations",
-      "pubDate": "Tue, 11 Nov 2025 13:19:58 +0000",
-      "category": "CO",
-      "guid": "https://www.ransomware.live/group/kazu?1812f44be4b4533f350fa1cf0b0e9fdd",
-      "group": "Kazu",
-      "victim": "Defensoría del Pueblo de Colombia – Protection and Promotion of Human Rights",
-      "country": "CO"
-    },
-    {
-      "title": "🏴‍☠️ Kazu has just published a new victim : Doctor Alliance – Streamlined Document and Billing Management for Healthcare Providers",
-      "link": "https://www.ransomware.live/id/RG9jdG9yIEFsbGlhbmNlIOKAkyBTdHJlYW1saW5lZCBEb2N1bWVudCBhbmQgQmlsbGluZyBNYW5hZ2VtZW50IGZvciBIZWFsdGhjYXJlIFByb3ZpZGVyc0BrYXp1",
-      "summary": "Doctor Alliance (doctoralliance.com) is a U.S.-based healthcare technology platform that helps physicians and medical agencies manage documents, referrals, and billing in one secure online system. Headquartered in Dallas, Texas, it offers services such as electronic document signing, coordination with agencies, and billing support for programs like CPO, CCM, and TCM. The platform integrates with systems like Axxess Home Health to streamline workflow and reduce paperwork, promoting faster document turnaround and improved billing efficiency -- contact me to protect your files !!",
-      "pubDate": "Tue, 11 Nov 2025 13:19:33 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/kazu?412ca207799efb3c86135e94efbad262",
-      "group": "Kazu",
-      "victim": "Doctor Alliance – Streamlined Document and Billing Management for Healthcare Providers",
-      "country": "US"
     }
   ]
 }
