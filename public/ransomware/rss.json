@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-19T15:12:56.442Z",
+  "updatedAt": "2025-11-19T16:15:20.627Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : The InterTech Group",
+      "link": "https://www.ransomware.live/id/VGhlIEludGVyVGVjaCBHcm91cEBha2lyYQ==",
+      "summary": "The InterTech Group is a holding company based in North Charlesto n, South Carolina, focused on investments, diversification, and o pportunity creation. We will upload 17gb of corporate documents soon. Detailed persona l employee data (SSNs, passports, driver licenses, Mexican ID&#x27;s,  personal phones, addresses, addresses emails), employee relatives data will be available as well, confidentiality agreements, fina ncials and accounting, contracts and agreements, clients&#x27; informa tion, NDA, etc.",
+      "pubDate": "Wed, 19 Nov 2025 14:44:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?67e79b08d9655336ff37d982f13bdc14",
+      "group": "Akira",
+      "victim": "The InterTech Group",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Pearl River Valley Electric Power Association",
+      "link": "https://www.ransomware.live/id/UGVhcmwgUml2ZXIgVmFsbGV5IEVsZWN0cmljIFBvd2VyIEFzc29jaWF0aW9uQGFraXJh",
+      "summary": "PRVEPA is an electric cooperative dedicated to providing safe, de pendable, and affordable power to the residents of South-Central  Mississippi since 1938. We will upload 62gb of corporate documents soon. Employee data (d river licenses, phones, addresses, emails), confidential technolo gies, financials and accounting, contracts and agreements, client s&#x27; information, NDA, etc.",
+      "pubDate": "Wed, 19 Nov 2025 14:44:04 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?e8d7bd1b8beaef1a19f6be96ce72c4df",
+      "group": "Akira",
+      "victim": "Pearl River Valley Electric Power Association",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : reidhurstnagy.com",
       "link": "https://www.ransomware.live/id/cmVpZGh1cnN0bmFneS5jb21AaW5jcmFuc29t",
@@ -2179,28 +2201,6 @@
       "group": "Nightspire",
       "victim": "Vascara, Vietnam",
       "country": "VN"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Middlesex Endodontics",
-      "link": "https://www.ransomware.live/id/TWlkZGxlc2V4IEVuZG9kb250aWNzQHNpbm9iaQ==",
-      "summary": "Middlesex Endodontics is conveniently located in Burlington and Winchester, MA. Our experienced team of endodontists and staff is dedicated to providing the highest level of professional care for our patients. Besides routine endodontics (root canals), our services also include: Pediatric endodontics, Post removal and retreatment, Endodontic surgery, and Implants. EXPERIENCE For over 40 years our practice has worked together with area dentists to provide the best overall dental care. Supporting our 5 endodontists is an experienced staff --many members of which have been with us for over 15 years, with several over or approaching the 25 year mark. We do not believe any patient should have to wait with pain and discomfort. We offer same day emergency appointments and we also like to accommodate busy schedules with expanded hours for scheduled appointments including evenings and Saturdays.",
-      "pubDate": "Tue, 11 Nov 2025 00:58:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?d1cd86ff844e9e7db5fd8252371522fb",
-      "group": "Sinobi",
-      "victim": "Middlesex Endodontics",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Hongji Metal",
-      "link": "https://www.ransomware.live/id/SG9uZ2ppIE1ldGFsQHNpbm9iaQ==",
-      "summary": "Hongji Metal is a professional industrial manufacturing company with corporate headquarters located in Shanghai, China. Founded in Jan 2000, Hongji is committed to producing diversified metal components, assembled products, services and solutions for the Home Security, Automotive, Consumer goods, Home Electronics industries and more. We provide customers with a one-stop solution to your manufacturing requirements andare devoted to a continuous improvement philosophy byutilizing advanced technological methodologies and unsurpassed quality control systems.",
-      "pubDate": "Tue, 11 Nov 2025 00:57:49 +0000",
-      "category": "CN",
-      "guid": "https://www.ransomware.live/group/sinobi?863f1523c165323c038e859e0a7735a2",
-      "group": "Sinobi",
-      "victim": "Hongji Metal",
-      "country": "CN"
     }
   ]
 }
