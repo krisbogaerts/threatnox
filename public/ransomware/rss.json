@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-19T13:26:38.797Z",
+  "updatedAt": "2025-11-19T14:11:45.869Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : ***.***",
+      "link": "https://www.ransomware.live/id/KioqLioqKkB0aGVnZW50bGVtZW4=",
+      "summary": "1.5 terabytes of data stolen from one of Asia&#x27;s largest investment companies, with more than 10 billion USD under management. The stolen data includes: 1. Investment documentation: private placement memorandums, investment memos (Pre-IC/Final-IC), financial models and project budgets 2. Investor database (LP): complete limited partner information, investment terms, contacts, non-disclosure agreements 3. Portfolio companies: financial statements, strategic plans and operating metrics for 30+ companies under management 4. Active M&amp;A deals: documentation on 9+ projects, including due diligence and asset valuations 5. Corporate finances: salaries and bonuses for all employees (150+ people), department budgets, financial results 2022-2025 6. Strategic documents: Management Committee materials, top management biographies, corporate strategy, ESG policies 7. Legal documents: counterparty contracts, partner NDAs, regulatory documentation 8. Email correspondence: 500+ email files with deal approvals, negotiations and confidential management communications 9. CEO Office documents: leadership personal files and critical corporate secrets",
+      "pubDate": "Wed, 19 Nov 2025 13:30:27 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/thegentlemen?d49540d307c8af2262f19432f7cd58bd",
+      "group": "Thegentlemen",
+      "victim": "***.***",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Perry Brothers Oil",
+      "link": "https://www.ransomware.live/id/UGVycnkgQnJvdGhlcnMgT2lsQGFraXJh",
+      "summary": "Perry Brothers Oil Company is an automotive shop specializing in  tires, motor oil, and wheel alignments.  We will upload 20gb of corporate documents soon. Personal employe e and customers data (passports, driver licenses, personal phones , addresses, addresses emails, credit card records), confidential ity agreements, detailed financials and accounting, contracts and agreements, clients&#x27; information, incident reports, NDA, etc.",
+      "pubDate": "Wed, 19 Nov 2025 12:51:07 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?d5f834b71b0e14ea035c2639769a252c",
+      "group": "Akira",
+      "victim": "Perry Brothers Oil",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Aarco",
+      "link": "https://www.ransomware.live/id/QWFyY29AYWtpcmE=",
+      "summary": "AARCO is a Mexican insurance company that offers a diverse range  of products including auto, life, medical, home, and travel insur ance, tailored for both individuals and businesses. We will upload 17gb of corporate documents soon. Detailed persona l employee data (passports, driver licenses, Mexican ID&#x27;s, person al phones, addresses, addresses emails, fingerprints), lots of co nfidential files, financials and accounting, contracts and agreem ents, clients&#x27; personal information, etc.",
+      "pubDate": "Wed, 19 Nov 2025 12:51:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?061e21d7759e6c5cfafdebb700ebd525",
+      "group": "Akira",
+      "victim": "Aarco",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : ARENCON",
       "link": "https://www.ransomware.live/id/QVJFTkNPTkBha2lyYQ==",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/incransom?bc0f46a710f6b04a98f07c55021f51a7",
       "group": "Incransom",
       "victim": "www.modcomedia.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : SIAD",
-      "link": "https://www.ransomware.live/id/U0lBREBldmVyZXN0",
-      "summary": "[AI generated] SIAD is a leading international group operating in the production and sale of industrial and medical gases, engineering, healthcare, and training services. Founded in 1927 in Italy, the company develops, produces, and supplies a range of gases including oxygen, nitrogen, argon, carbon dioxide and hydrogen. SIAD also offers medical gases for healthcare industries, gas equipment, and systems for gas production and treatment.",
-      "pubDate": "Mon, 10 Nov 2025 22:19:33 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/everest?57497938dd51ca3d2af9179ed232f6e4",
-      "group": "Everest",
-      "victim": "SIAD",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : AGFA",
-      "link": "https://www.ransomware.live/id/QUdGQUBldmVyZXN0",
-      "summary": "[AI generated] AGFA, short for AktienGesellschaft für Anilin-Fabrikation, is a multinational company that develops, manufactures, and distributes analogue and digital imaging systems and IT solutions. The company&#x27;s history traces back to 1867 in Berlin, Germany. The company operates in four divisions: health care, graphic systems, materials, and glass. Products include systems for radiology, cardiology, hospital and clinical care, printing and publishing industries.",
-      "pubDate": "Mon, 10 Nov 2025 22:19:15 +0000",
-      "category": "BE",
-      "guid": "https://www.ransomware.live/group/everest?ed91d8c98ab8f4187bea3163dd544055",
-      "group": "Everest",
-      "victim": "AGFA",
-      "country": "BE"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Easterseals Arc of Northeast Indiana",
-      "link": "https://www.ransomware.live/id/RWFzdGVyc2VhbHMgQXJjIG9mIE5vcnRoZWFzdCBJbmRpYW5hQGluY3JhbnNvbQ==",
-      "summary": "Easterseals Northeast Indiana provides life-changing services and programs for individuals with disabilities, their families, and the wider community. Their offerings include youth and adult services, employment readiness programs, wellness coordination, and recreational activities designed to empower participants. The organization operates across multiple locations in northeast Indiana, including Fort Wayne, Columbia City, and Angola, and is committed to meeting the unique needs of each individual. Through compassionate staff and various service initiatives, they aim to create inclusive environments and enhance the quality of life for their clients.",
-      "pubDate": "Mon, 10 Nov 2025 21:22:43 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?7cd3a51406b7735ec0e4154fa9fe3f4d",
-      "group": "Incransom",
-      "victim": "Easterseals Arc of Northeast Indiana",
       "country": "US"
     }
   ]
