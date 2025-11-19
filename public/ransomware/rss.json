@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-19T11:10:50.357Z",
+  "updatedAt": "2025-11-19T12:22:49.373Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Marine Foods Express LTD",
+      "link": "https://www.ransomware.live/id/TWFyaW5lIEZvb2RzIEV4cHJlc3MgTFREQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 19 Nov 2025 11:23:08 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/qilin?cf26f4096fe3ff8b62b2372c1f472258",
+      "group": "Qilin",
+      "victim": "Marine Foods Express LTD",
+      "country": "JP"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Stoss Landscape Urbanism",
+      "link": "https://www.ransomware.live/id/U3Rvc3MgTGFuZHNjYXBlIFVyYmFuaXNtQGFraXJh",
+      "summary": "Stoss Landscape Urbanism specializes in designing landscapes and  social spaces that promote resilience, vitality, and equity. Thei r projects encompass a variety of sectors including downtown plaz as, parks, waterfronts, campus institutions, and mixed-use reside ntial areas. We are ready to upload more than 76GB data. You will find employe es and customers information (passports, Social Security Numbers, emails, phones) confidential information, NDAs and other documen ts with detailed personal information.",
+      "pubDate": "Wed, 19 Nov 2025 10:47:23 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/akira?8c93182456f5f3004e8992701943a3b1",
+      "group": "Akira",
+      "victim": "Stoss Landscape Urbanism",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Sarcoma has just published a new victim : B&J Rocket Sales",
       "link": "https://www.ransomware.live/id/QiZKIFJvY2tldCBTYWxlc0BzYXJjb21h",
@@ -2179,28 +2201,6 @@
       "group": "Safepay",
       "victim": "ielplumbing.com",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Heart South Cardiovascular Group",
-      "link": "https://www.ransomware.live/id/SGVhcnQgU291dGggQ2FyZGlvdmFzY3VsYXIgR3JvdXBAcmh5c2lkYQ==",
-      "summary": "Heart South Cardiovascular Group Heart South is a leading provider of comprehensive cardiac and vascular care in Central Alabama.    More",
-      "pubDate": "Mon, 10 Nov 2025 20:45:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?24dd915dab5fcb7a76339315b367c3f6",
-      "group": "Rhysida",
-      "victim": "Heart South Cardiovascular Group",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Yaesu",
-      "link": "https://www.ransomware.live/id/WWFlc3VAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 10 Nov 2025 19:49:19 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/qilin?ae38429aa9528e16ee8265bce5ea986e",
-      "group": "Qilin",
-      "victim": "Yaesu",
-      "country": "JP"
     }
   ]
 }
