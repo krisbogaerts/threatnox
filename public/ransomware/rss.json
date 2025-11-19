@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-19T00:54:28.676Z",
+  "updatedAt": "2025-11-19T02:27:05.883Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : FSGROUP-Engineering",
+      "link": "https://www.ransomware.live/id/RlNHUk9VUC1FbmdpbmVlcmluZ0BhbnViaXM=",
+      "summary": "Leakage of customer contact details.",
+      "pubDate": "Wed, 19 Nov 2025 01:28:20 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/anubis?575b6de1c4df683a2a3f3ba444f6e466",
+      "group": "Anubis",
+      "victim": "FSGROUP-Engineering",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Genrose Stone + Tile",
       "link": "https://www.ransomware.live/id/R2Vucm9zZSBTdG9uZSArIFRpbGVAc2lub2Jp",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?1cfa2f8730581cd3f7b929bda1740ebb",
       "group": "Play",
       "victim": "Garvin Promotion Group",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Jean-Georges",
-      "link": "https://www.ransomware.live/id/SmVhbi1HZW9yZ2VzQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Mon, 10 Nov 2025 18:54:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?32e6be7076c784354af7a74af5fc9fda",
-      "group": "Play",
-      "victim": "Jean-Georges",
       "country": "US"
     }
   ]
