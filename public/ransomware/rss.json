@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-19T16:15:20.627Z",
+  "updatedAt": "2025-11-19T17:11:14.891Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : future.com.bo",
+      "link": "https://www.ransomware.live/id/ZnV0dXJlLmNvbS5ib0BkZXZtYW4=",
+      "summary": "Ransom: 200k 120gb",
+      "pubDate": "Wed, 19 Nov 2025 15:55:11 +0000",
+      "category": "BO",
+      "guid": "https://www.ransomware.live/group/devman?140ff14455f646fc42de90ac9afbe7a4",
+      "group": "Devman",
+      "victim": "future.com.bo",
+      "country": "BO"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Orchid Island Golf and Beach Club",
+      "link": "https://www.ransomware.live/id/T3JjaGlkIElzbGFuZCBHb2xmIGFuZCBCZWFjaCBDbHViQGFraXJh",
+      "summary": "Orchid Island Golf and Beach Club is a member-owned golf communit y located in Vero Beach, Florida, nestled between the Atlantic Oc ean and the Indian River. We will upload almost 20gb of corporate documents soon. Employee  data (driver licenses, phones, addresses), confidential files, fi nancials and accounting, contracts and agreements, clients&#x27; infor mation, NDA, projects, etc.",
+      "pubDate": "Wed, 19 Nov 2025 15:50:17 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?e3e382fcebba95569ef0c04fa7535685",
+      "group": "Akira",
+      "victim": "Orchid Island Golf and Beach Club",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Modern Display",
+      "link": "https://www.ransomware.live/id/TW9kZXJuIERpc3BsYXlAYWtpcmE=",
+      "summary": "Modern Display specializes in providing exquisite seasonal decor, collectibles, and thoughtful gifts suitable for every occasion. We will upload almost 20gb of corporate documents soon. Employee  data, confidentiality agreements, detailed financials and account ing, contracts with Disney and other widely known companies, clie nt data, lots of projects, drawings and specification, etc.",
+      "pubDate": "Wed, 19 Nov 2025 15:50:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?9efde30841028ca3023f95efd71b1834",
+      "group": "Akira",
+      "victim": "Modern Display",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : The InterTech Group",
       "link": "https://www.ransomware.live/id/VGhlIEludGVyVGVjaCBHcm91cEBha2lyYQ==",
@@ -2168,39 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "Polidano Group",
       "country": "MT"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : himmelstein.com",
-      "link": "https://www.ransomware.live/id/aGltbWVsc3RlaW4uY29tQHNhZmVwYXk=",
-      "summary": "S. Himmelstein &amp; Company is a U.S.-based specialist manufacturer founded in 1960, headquartered in Hoffman Estates, Illinois. The company focuses …",
-      "pubDate": "Tue, 11 Nov 2025 07:50:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?7c650e80ed6d841d6527e331963ea0ae",
-      "group": "Safepay",
-      "victim": "himmelstein.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sarcoma has just published a new victim : Paul Hildebrandt",
-      "link": "https://www.ransomware.live/id/UGF1bCBIaWxkZWJyYW5kdEBzYXJjb21h",
-      "summary": "Paul Hildebrandt Paul Hildebrandt AG is a leading packaging company offering over 50,000 products, including environmentally friendly options. With 300 employees across 14 locations in Germany, Austria, and Denmark, they provide tailored packaging solutions for a variety of industries. The company emphasizes sustainability and efficient packaging processes as part of their commitment to client solutions. Their diverse product range includes films, boxes, adhesive tapes, and various packaging materials.Geo: Germany - Leak size: 1,4 TB Archive - Contains: Files, SQL, Exchange",
-      "pubDate": "Tue, 11 Nov 2025 06:54:01 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/sarcoma?02178fbaebe0b6305b4ba7f3d571ad45",
-      "group": "Sarcoma",
-      "victim": "Paul Hildebrandt",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Vascara, Vietnam",
-      "link": "https://www.ransomware.live/id/VmFzY2FyYSwgVmlldG5hbUBuaWdodHNwaXJl",
-      "summary": "Vascara, Vietnam",
-      "pubDate": "Tue, 11 Nov 2025 01:41:18 +0000",
-      "category": "VN",
-      "guid": "https://www.ransomware.live/group/nightspire?e0b5238c4d1e98e0da399a1f72bb5a22",
-      "group": "Nightspire",
-      "victim": "Vascara, Vietnam",
-      "country": "VN"
     }
   ]
 }
