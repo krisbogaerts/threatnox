@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-19T17:11:14.891Z",
+  "updatedAt": "2025-11-19T18:17:26.850Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : IGT",
+      "link": "https://www.ransomware.live/id/SUdUQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 19 Nov 2025 17:05:45 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?73eb4f80ad8f701c2e1be71484816f27",
+      "group": "Qilin",
+      "victim": "IGT",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : American Trust Administrators",
+      "link": "https://www.ransomware.live/id/QW1lcmljYW4gVHJ1c3QgQWRtaW5pc3RyYXRvcnNAYWtpcmE=",
+      "summary": "American Trust Administrators, Inc. (ATA) is a national leader in the administration and management of employee benefit plans. We will upload almost 143gb of corporate documents soon. As you c an understand there are a lot of HR files, confidentiality agreem ents, detailed financials and accounting, lots of client files, p rojects, NDA, etc.",
+      "pubDate": "Wed, 19 Nov 2025 16:39:21 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?c49486be187cd61f0fadc5889101e9ea",
+      "group": "Akira",
+      "victim": "American Trust Administrators",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : future.com.bo",
       "link": "https://www.ransomware.live/id/ZnV0dXJlLmNvbS5ib0BkZXZtYW4=",
@@ -2179,28 +2201,6 @@
       "group": "Kazu",
       "victim": "Doctor Alliance – Streamlined Document and Billing Management for Healthcare Providers",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : omniumint.com",
-      "link": "https://www.ransomware.live/id/b21uaXVtaW50LmNvbUBkZXZtYW4=",
-      "summary": "Ransom: 1.2million 1.2 tb and one very interesting email",
-      "pubDate": "Tue, 11 Nov 2025 12:21:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?58182eaef7aa5fc3ffdc204255d9b31b",
-      "group": "Devman",
-      "victim": "omniumint.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Polidano Group",
-      "link": "https://www.ransomware.live/id/UG9saWRhbm8gR3JvdXBAcmFuc29taG91c2U=",
-      "summary": "Polidano Group is a leading construction company in Malta, specializing in a wide range of infrastructure projects including transport, social, and lifestyle developments. They also manufacture construction materials such as asphalt, concrete, and bricks, catering to industrial and commercial clients.",
-      "pubDate": "Tue, 11 Nov 2025 11:52:25 +0000",
-      "category": "MT",
-      "guid": "https://www.ransomware.live/group/ransomhouse?c9713bbfd1fe806b639590e2a0778a68",
-      "group": "Ransomhouse",
-      "victim": "Polidano Group",
-      "country": "MT"
     }
   ]
 }
