@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-19T12:22:49.373Z",
+  "updatedAt": "2025-11-19T13:26:38.797Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : ARENCON",
+      "link": "https://www.ransomware.live/id/QVJFTkNPTkBha2lyYQ==",
+      "summary": "ARENCON is a Toronto-based consulting engineering firm specializi ng in fire protection, security, and life safety solutions, boast ing a 25-year track record of success in North America.  We are ready to upload more than 84GB data. There are lots of ess ential corporate documents such as: financial data (audit, paymen t details, invoices), detailed employees and customers informatio n (passports, driver&#x27;s license , Social Security Numbers,emails,  phones) confidential information, NDAs and other documents with d etailed personal information.",
+      "pubDate": "Wed, 19 Nov 2025 11:49:46 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?da0152d5e1ad201e6ddc8f0aaf5c488c",
+      "group": "Akira",
+      "victim": "ARENCON",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Cardinal Services",
+      "link": "https://www.ransomware.live/id/Q2FyZGluYWwgU2VydmljZXNAYWtpcmE=",
+      "summary": "Cardinal Services, based in New Iberia, LA, is a leading oilfield service company specializing in land and offshore services. We will upload 90gb of corporate documents soon. Personal employe e files (driver licenses, phones, addresses, emails, credit card  details), financials and accounting, contracts and agreements, cl ients&#x27; information, incident reports, NDA, etc.",
+      "pubDate": "Wed, 19 Nov 2025 11:49:42 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?07b744fcc28af00d3efe4ea9840e4b17",
+      "group": "Akira",
+      "victim": "Cardinal Services",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Marine Foods Express LTD",
       "link": "https://www.ransomware.live/id/TWFyaW5lIEZvb2RzIEV4cHJlc3MgTFREQHFpbGlu",
@@ -2179,28 +2201,6 @@
       "group": "Incransom",
       "victim": "Easterseals Arc of Northeast Indiana",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Community Unit School District 201",
-      "link": "https://www.ransomware.live/id/Q29tbXVuaXR5IFVuaXQgU2Nob29sIERpc3RyaWN0IDIwMUBpbmNyYW5zb20=",
-      "summary": "Community Unit School District 200 is dedicated to inspiring, educating, challenging, and supporting all students to achieve their highest potential in learning and personal development. The district offers various educational programs and services aimed at fostering student growth and excellence. Their intended clients include students, parents, and the community, with a focus on providing a supportive environment for all. The district is committed to innovation and technology in education, as well as special education services.",
-      "pubDate": "Mon, 10 Nov 2025 21:22:30 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?897273784cfe2889b7b1df625210d079",
-      "group": "Incransom",
-      "victim": "Community Unit School District 201",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : ielplumbing.com",
-      "link": "https://www.ransomware.live/id/aWVscGx1bWJpbmcuY29tQHNhZmVwYXk=",
-      "summary": "I.E. Plumbing Services is a privately-held plumbing contractor based in Southern California, operating from two locations in the Riverside / …",
-      "pubDate": "Mon, 10 Nov 2025 20:46:00 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/safepay?2eff133959d61be5ff3869cd22d5e8b5",
-      "group": "Safepay",
-      "victim": "ielplumbing.com",
-      "country": "CA"
     }
   ]
 }
