@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-20T15:12:32.942Z",
+  "updatedAt": "2025-11-20T16:15:23.969Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sakol Energy Public",
+      "link": "https://www.ransomware.live/id/U2Frb2wgRW5lcmd5IFB1YmxpY0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 20 Nov 2025 15:14:11 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/qilin?a576bddca09a8f27070e6612105d387c",
+      "group": "Qilin",
+      "victim": "Sakol Energy Public",
+      "country": "TH"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Mae Krathing Power Company",
+      "link": "https://www.ransomware.live/id/TWFlIEtyYXRoaW5nIFBvd2VyIENvbXBhbnlAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 20 Nov 2025 15:13:33 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/qilin?e6e28e6b86db14d47a2847847cc73445",
+      "group": "Qilin",
+      "victim": "Mae Krathing Power Company",
+      "country": "TH"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : N15 Technology",
+      "link": "https://www.ransomware.live/id/TjE1IFRlY2hub2xvZ3lAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 20 Nov 2025 15:12:54 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?eeadaed9bef6d049387719e521f78ce1",
+      "group": "Qilin",
+      "victim": "N15 Technology",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Makro",
       "link": "https://www.ransomware.live/id/TWFrcm9AcmFuc29taG91c2U=",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/anubis?7dfcb74a21acd56131ca231633664848",
       "group": "Anubis",
       "victim": "Olive Branch Family Medical Center",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : glendaleobgyn.com",
-      "link": "https://www.ransomware.live/id/Z2xlbmRhbGVvYmd5bi5jb21Ac2FmZXBheQ==",
-      "summary": "Glendale OBGYN (an obstetrics and gynecology practice) would likely operate as a mid-sized women’s health clinic in Glendale, California, offering …",
-      "pubDate": "Tue, 11 Nov 2025 19:18:38 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?0f4038eb623cc87de17e38ef80afb297",
-      "group": "Safepay",
-      "victim": "glendaleobgyn.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : S.B. Conrad, Inc",
-      "link": "https://www.ransomware.live/id/Uy5CLiBDb25yYWQsIEluY0BnZW5lc2lz",
-      "summary": "A general contracting construction company",
-      "pubDate": "Tue, 11 Nov 2025 18:22:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?ca28bcf729e8953de8c00158db6a622e",
-      "group": "Genesis",
-      "victim": "S.B. Conrad, Inc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Continental Global Group",
-      "link": "https://www.ransomware.live/id/Q29udGluZW50YWwgR2xvYmFsIEdyb3VwQGdlbmVzaXM=",
-      "summary": "A subsidiary of PPI Global",
-      "pubDate": "Tue, 11 Nov 2025 18:22:09 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?bdf4cb44bf4f681211357f81f4b30694",
-      "group": "Genesis",
-      "victim": "Continental Global Group",
       "country": "US"
     }
   ]
