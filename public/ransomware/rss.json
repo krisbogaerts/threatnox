@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-20T20:13:54.125Z",
+  "updatedAt": "2025-11-20T21:11:10.141Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : classiccenter.com",
+      "link": "https://www.ransomware.live/id/Y2xhc3NpY2NlbnRlci5jb21AbHlueA==",
+      "summary": "Akins Ford Arena is a state-of-the-art entertainment venue located in downtown Athens, Georgia, with a seating capacity of 8,500. It hosts a variety of events including concerts, sports, and special performances, providing memorable experiences for fans. The venue serves local audiences, featuring events such as professional hockey games and concerts from renowned artists. As part of The Classic Center campus, Akins Ford Arena is committed to delivering top-tier entertainment in a vibrant setting",
+      "pubDate": "Thu, 20 Nov 2025 20:10:33 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lynx?4ee78c4b315401d63b2fb442596df817",
+      "group": "Lynx",
+      "victim": "classiccenter.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Fayette County",
       "link": "https://www.ransomware.live/id/RmF5ZXR0ZSBDb3VudHlAcWlsaW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/ransomhouse?f6ecd82d7425471b2d08b69d16f666ec",
       "group": "Ransomhouse",
       "victim": "Soleol",
-      "country": "CH"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Vennerhus Weine AG",
-      "link": "https://www.ransomware.live/id/VmVubmVyaHVzIFdlaW5lIEFHQHJhbnNvbWhvdXNl",
-      "summary": "Vennerhus Weine AG is a Swiss wine company based in Grosshöchstetten, Canton of Bern. Founded in 1994, the company specializes in the import, trade, and distribution of high-quality wines. In addition to wine sales, Vennerhus offers professional wine tastings, courses, and events designed for both private clients and corporate customers.",
-      "pubDate": "Wed, 12 Nov 2025 12:54:45 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/ransomhouse?3ea25be2b1d8f832b59ebbd32ecde7e4",
-      "group": "Ransomhouse",
-      "victim": "Vennerhus Weine AG",
       "country": "CH"
     }
   ]
