@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-11-20T18:17:07.791Z",
+  "updatedAt": "2025-11-20T19:09:29.472Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Fayette County",
+      "link": "https://www.ransomware.live/id/RmF5ZXR0ZSBDb3VudHlAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 20 Nov 2025 18:13:13 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?bfaf9542d5604e1239c96201ad86637b",
+      "group": "Qilin",
+      "victim": "Fayette County",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Radio Sound",
+      "link": "https://www.ransomware.live/id/UmFkaW8gU291bmRAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Thu, 20 Nov 2025 18:12:26 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/play?c65995dd52fa414366f97db41b2b4b3f",
+      "group": "Play",
+      "victim": "Radio Sound",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Applied Energy Systems",
+      "link": "https://www.ransomware.live/id/QXBwbGllZCBFbmVyZ3kgU3lzdGVtc0BwbGF5",
+      "summary": "United States",
+      "pubDate": "Thu, 20 Nov 2025 18:11:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?1146e0b296bd3e66c524db982d29f72f",
+      "group": "Play",
+      "victim": "Applied Energy Systems",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Artesian Insurance",
+      "link": "https://www.ransomware.live/id/QXJ0ZXNpYW4gSW5zdXJhbmNlQHBsYXk=",
+      "summary": "Canada",
+      "pubDate": "Thu, 20 Nov 2025 18:11:00 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/play?aa0552526966492081bd60878613021c",
+      "group": "Play",
+      "victim": "Artesian Insurance",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : One Source Associates",
+      "link": "https://www.ransomware.live/id/T25lIFNvdXJjZSBBc3NvY2lhdGVzQHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Thu, 20 Nov 2025 18:10:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?3dbb3a21d0d73ee1922cc605394fd3cd",
+      "group": "Play",
+      "victim": "One Source Associates",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : N C Machinery",
+      "link": "https://www.ransomware.live/id/TiBDIE1hY2hpbmVyeUBwbGF5",
+      "summary": "United States",
+      "pubDate": "Thu, 20 Nov 2025 18:09:33 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?4efafd685ed3d1bffb49493e3f33c91c",
+      "group": "Play",
+      "victim": "N C Machinery",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Highmark Companies",
+      "link": "https://www.ransomware.live/id/SGlnaG1hcmsgQ29tcGFuaWVzQHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Thu, 20 Nov 2025 18:08:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?cf4091bd7c6ec982e25c83b0d6ee7866",
+      "group": "Play",
+      "victim": "Highmark Companies",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Cimertex",
       "link": "https://www.ransomware.live/id/Q2ltZXJ0ZXhAcWlsaW4=",
@@ -2124,83 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "Vennerhus Weine AG",
       "country": "CH"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Grupo Via Argentina",
-      "link": "https://www.ransomware.live/id/R3J1cG8gVmlhIEFyZ2VudGluYUBpbmNyYW5zb20=",
-      "summary": "Grupo Vía hosts events focusing on architecture, interior design, real estate, hospitality, and construction. Its activities connect professionals from these sectors with networking opportunities and debates on contemporary trends. The company serves a diverse clientele, including architects, designers, and industry stakeholders across major cities in Spain and Portugal. Through its offerings, Grupo Vía aims to foster collaboration and innovation within the built environment.",
-      "pubDate": "Wed, 12 Nov 2025 12:51:57 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/incransom?8fb96a823daa378d0feaac6ebb01380d",
-      "group": "Incransom",
-      "victim": "Grupo Via Argentina",
-      "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : bridge-housing-corp",
-      "link": "https://www.ransomware.live/id/YnJpZGdlLWhvdXNpbmctY29ycEBpbmNyYW5zb20=",
-      "summary": "Founded in 1983 BRIDGE Housing is a non-profit that works towards securing affordable housing. The organization is headquartered in San Francisco, California.\r  We have over 150 GB of confidential information, and the management of this organization has completely ignored us. Remember, the publication of your data is entirely their fault.",
-      "pubDate": "Wed, 12 Nov 2025 12:49:30 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?5effd9e4fdb27bc2cfd2190c044bbfc6",
-      "group": "Incransom",
-      "victim": "bridge-housing-corp",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : forensicmed.com",
-      "link": "https://www.ransomware.live/id/Zm9yZW5zaWNtZWQuY29tQGluY3JhbnNvbQ==",
-      "summary": "Forensic Medical is a comprehensive forensic pathology company headquartered in Nashville, Tennessee, which provides medical examiner, death investigation, medical autopsy services, expert forensic testimony and forensic management services to government agencies and private individuals.",
-      "pubDate": "Wed, 12 Nov 2025 11:48:29 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?fdf3515ddc319cc79de6428b450de3ef",
-      "group": "Incransom",
-      "victim": "forensicmed.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : galileo.it",
-      "link": "https://www.ransomware.live/id/Z2FsaWxlby5pdEBpbmNyYW5zb20=",
-      "summary": "Galileo is a global payments platform that powers fintech, financial services, and investment firms by removing the complexity of payments. We&#x27;re a proven financial technology platform, an innovation engine and a leader in card issuing, payments and digital banking. Galileo was founded in 2000 and is headquartered in Utah.",
-      "pubDate": "Wed, 12 Nov 2025 11:47:58 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/incransom?37b1d82ddf971b623993ee5d0f9550b3",
-      "group": "Incransom",
-      "victim": "galileo.it",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Treetop Companies",
-      "link": "https://www.ransomware.live/id/VHJlZXRvcCBDb21wYW5pZXNAYWtpcmE=",
-      "summary": "Treetop Companies is a real estate investment firm founded in 200 5 by Azi Mandel and Adam Mermelstein. We will upload almost 100gb of corporate documents soon. Lots of  confidential files, clients personal documents (passports, driver s licenses, financials), other internal client information, NDA,  etc.",
-      "pubDate": "Wed, 12 Nov 2025 08:42:24 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?ee8a35ec5cdeef92bfb8876b5e67a137",
-      "group": "Akira",
-      "victim": "Treetop Companies",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : ctfc.cat",
-      "link": "https://www.ransomware.live/id/Y3RmYy5jYXRAZGV2bWFu",
-      "summary": "Ransom: 248000 30gb of files exfiltrated",
-      "pubDate": "Wed, 12 Nov 2025 07:49:52 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/devman?074bf459206fd5f22f70f6e50a855d0d",
-      "group": "Devman",
-      "victim": "ctfc.cat",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Crypto24 has just published a new victim : AsahiKASEI MICRODEVICES",
-      "link": "https://www.ransomware.live/id/QXNhaGlLQVNFSSBNSUNST0RFVklDRVNAY3J5cHRvMjQ=",
-      "summary": "...",
-      "pubDate": "Wed, 12 Nov 2025 06:42:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/crypto24?a16408dd5e26e99e9d021ae4de85f0b0",
-      "group": "Crypto24",
-      "victim": "AsahiKASEI MICRODEVICES",
-      "country": "US"
     }
   ]
 }
