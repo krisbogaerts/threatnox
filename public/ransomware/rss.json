@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-20T11:11:13.537Z",
+  "updatedAt": "2025-11-20T12:22:55.968Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sarcoma has just published a new victim : Söllner",
+      "link": "https://www.ransomware.live/id/U8O2bGxuZXJAc2FyY29tYQ==",
+      "summary": "Söllner Söllner GmbH &amp; Co. KG is a family-owned roofing company based in Plettenberg, operating for four generations since 1902. The company specializes in roofing, carpentry, facade construction, scaffolding, and offers additional services such as container service and crane rentals. Recently, they have expanded into architecture, providing comprehensive services from design to execution. With a team of qualified professionals, Söllner serves both regional and national clients in the industrial, commercial, public, and private sectorsGeo: Germany - Leak size: 286 GB Archive - Contains: Files, SQL",
+      "pubDate": "Thu, 20 Nov 2025 11:21:13 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/sarcoma?31c3e41c779af8d9187084238811fcb0",
+      "group": "Sarcoma",
+      "victim": "Söllner",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : naffco.com",
       "link": "https://www.ransomware.live/id/bmFmZmNvLmNvbUBpbmNyYW5zb20=",
@@ -2190,17 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "Public Safety Mutual Benefit Fund",
       "country": "PH"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Octomeca Oy",
-      "link": "https://www.ransomware.live/id/T2N0b21lY2EgT3lAcmFuc29taG91c2U=",
-      "summary": "Octomeca is Finnish technology company, founded in 1989. We are specialized in designing and manufacturing of premium class stretch film wrapping machines.",
-      "pubDate": "Tue, 11 Nov 2025 14:19:35 +0000",
-      "category": "FI",
-      "guid": "https://www.ransomware.live/group/ransomhouse?2056c69a8d9513ecf2c21ea37a431e07",
-      "group": "Ransomhouse",
-      "victim": "Octomeca Oy",
-      "country": "FI"
     }
   ]
 }
