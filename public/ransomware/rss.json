@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-20T17:09:56.923Z",
+  "updatedAt": "2025-11-20T18:17:07.791Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cimertex",
+      "link": "https://www.ransomware.live/id/Q2ltZXJ0ZXhAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 20 Nov 2025 17:13:30 +0000",
+      "category": "PT",
+      "guid": "https://www.ransomware.live/group/qilin?476d4d104087dc425b76aa931d25795e",
+      "group": "Qilin",
+      "victim": "Cimertex",
+      "country": "PT"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Wright ArchitecturalMillwork",
+      "link": "https://www.ransomware.live/id/V3JpZ2h0IEFyY2hpdGVjdHVyYWxNaWxsd29ya0Bha2lyYQ==",
+      "summary": "Wright Architectural Millwork specializes in high-quality archite ctural woodwork and has been in the industry for 50 years.  We will upload 87gb of corporate documents soon. Employee persona l information (passport numbers, driver licenses, phones, emails) , financials, a bit of client data, contracts and agreements, NDA , etc.",
+      "pubDate": "Thu, 20 Nov 2025 16:41:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?cd92f243b4ad0f8c0b1b580d872b9f15",
+      "group": "Akira",
+      "victim": "Wright ArchitecturalMillwork",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Swift Filters",
+      "link": "https://www.ransomware.live/id/U3dpZnQgRmlsdGVyc0Bha2lyYQ==",
+      "summary": "Swift Filters is a leading US manufacturer of high-quality hydrau lic filter elements, offering a wide range of replacement filters for various brands including Parker Hannifin, Pall, and Donaldso n. We will upload 140gb of corporate documents soon. Employee person al files, financials, client data, contracts, NDA, projects, draw ings and specification, etc.",
+      "pubDate": "Thu, 20 Nov 2025 16:40:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?8bed10e0d4a138df1c5e787c5deebb72",
+      "group": "Akira",
+      "victim": "Swift Filters",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Morpheus has just published a new victim : Teamglobal",
       "link": "https://www.ransomware.live/id/VGVhbWdsb2JhbEBtb3JwaGV1cw==",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/crypto24?a16408dd5e26e99e9d021ae4de85f0b0",
       "group": "Crypto24",
       "victim": "AsahiKASEI MICRODEVICES",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Wiraswasta Gemilang",
-      "link": "https://www.ransomware.live/id/V2lyYXN3YXN0YSBHZW1pbGFuZ0BpbmNyYW5zb20=",
-      "summary": "PT Wiraswasta Gemilang Indonesia (WGI) is the first and largest private lubricant plant in Indonesia, specializing in re-refinery and blending services.\r \r To your attention a small portion of screenshots.",
-      "pubDate": "Wed, 12 Nov 2025 01:25:38 +0000",
-      "category": "ID",
-      "guid": "https://www.ransomware.live/group/incransom?d9fa0518e99c7f265f29fbece21cfb46",
-      "group": "Incransom",
-      "victim": "Wiraswasta Gemilang",
-      "country": "ID"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Fulgar S.p.A.",
-      "link": "https://www.ransomware.live/id/RnVsZ2FyIFMucC5BLkByYW5zb21ob3VzZQ==",
-      "summary": "Fulgar S.p.A. is an international leader in the production of polyamide yarns and covered elastomers, known for its commitment to quality, innovation, and sustainability. The company offers a range of innovative textile solutions, including eco-friendly and biodegradable fibers, catering to the global textile and technical markets. Fulgar&#x27;s products, such as Q-CYCLE and AMNI SOUL ECO, emphasize environmental responsibility while maintaining high performance standards.",
-      "pubDate": "Wed, 12 Nov 2025 00:52:37 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/ransomhouse?e27f9a61c9345869ed426c4369048ef7",
-      "group": "Ransomhouse",
-      "victim": "Fulgar S.p.A.",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : Irwin Car",
-      "link": "https://www.ransomware.live/id/SXJ3aW4gQ2FyQHBheW91dHNraW5n",
-      "summary": "[AI generated] Irwin Car and Equipment is a manufacturing company specialized in the production of heavy-duty material handling equipment. They create custom mining cars, conveyor cars, tunneling cars and more. It aids various industries, including mining and tunneling, in improving their efficiency and safety. The company is based in the USA and is recognized for its innovative and durable equipment.",
-      "pubDate": "Tue, 11 Nov 2025 21:23:53 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/payoutsking?c004f7fc198007618c5ac13d022522b8",
-      "group": "Payoutsking",
-      "victim": "Irwin Car",
       "country": "US"
     }
   ]
