@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-20T13:25:10.821Z",
+  "updatedAt": "2025-11-20T14:11:49.946Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Makro",
+      "link": "https://www.ransomware.live/id/TWFrcm9AcmFuc29taG91c2U=",
+      "summary": "Makro is a wholesale center specializing in consumer goods and food products. It provides a wide range of products for its members and business operators across the country. The company offers comprehensive services for food businesses aimed at professional operators. Its target clients include both individual members and various business enterprises",
+      "pubDate": "Thu, 20 Nov 2025 13:26:18 +0000",
+      "category": "NL",
+      "guid": "https://www.ransomware.live/group/ransomhouse?a92ee6b0b29262abae60bdb70efe25b7",
+      "group": "Ransomhouse",
+      "victim": "Makro",
+      "country": "NL"
+    },
     {
       "title": "🏴‍☠️ Payoutsking has just published a new victim : V****e",
       "link": "https://www.ransomware.live/id/VioqKiplQHBheW91dHNraW5n",
@@ -2190,17 +2201,6 @@
       "group": "Genesis",
       "victim": "Continental Global Group",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Lows Orkney",
-      "link": "https://www.ransomware.live/id/TG93cyBPcmtuZXlAZ2VuZXNpcw==",
-      "summary": "A legal and accounting provider",
-      "pubDate": "Tue, 11 Nov 2025 18:21:31 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/genesis?705598a154902afeecd2ef79bdc934c4",
-      "group": "Genesis",
-      "victim": "Lows Orkney",
-      "country": "GB"
     }
   ]
 }
