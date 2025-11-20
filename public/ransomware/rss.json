@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-20T16:15:23.969Z",
+  "updatedAt": "2025-11-20T17:09:56.923Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Morpheus has just published a new victim : Teamglobal",
+      "link": "https://www.ransomware.live/id/VGVhbWdsb2JhbEBtb3JwaGV1cw==",
+      "summary": "Website:  teamglobal.com Revenue: $6.3 Million Premier contract and direct hire staffing services. 30 years of industry experience in aerospace and light industrial and an extensive client list. **",
+      "pubDate": "Thu, 20 Nov 2025 16:18:58 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/morpheus?24dc4c3368d7079610662bbc63363cf6",
+      "group": "Morpheus",
+      "victim": "Teamglobal",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : FELA (EVYTRA)",
+      "link": "https://www.ransomware.live/id/RkVMQSAoRVZZVFJBKUBha2lyYQ==",
+      "summary": "EVYTRA specializes in developing and manufacturing innovative ele ctronic solutions, including Human Machine Interfaces (HMIs) and  printed circuit boards (PCBs). We will upload 91gb of corporate documents soon. Employee persona l data (identity cards, passports, driver licenses, phones, email s and other information for at least 55 ppl), financials and acco unting, client files, contracts and agreements, NDA, etc.",
+      "pubDate": "Thu, 20 Nov 2025 15:48:22 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/akira?acc243a963828e7ca04e45c398ab11be",
+      "group": "Akira",
+      "victim": "FELA (EVYTRA)",
+      "country": "CH"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Sakol Energy Public",
       "link": "https://www.ransomware.live/id/U2Frb2wgRW5lcmd5IFB1YmxpY0BxaWxpbg==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/payoutsking?c004f7fc198007618c5ac13d022522b8",
       "group": "Payoutsking",
       "victim": "Irwin Car",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Brenda Richardson Memorial Care Home LLC",
-      "link": "https://www.ransomware.live/id/QnJlbmRhIFJpY2hhcmRzb24gTWVtb3JpYWwgQ2FyZSBIb21lIExMQ0BhbnViaXM=",
-      "summary": "Negligence of mental health care agency employees",
-      "pubDate": "Tue, 11 Nov 2025 20:50:02 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?d27fcc18cf4074b7d9c080f37be47bf9",
-      "group": "Anubis",
-      "victim": "Brenda Richardson Memorial Care Home LLC",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Olive Branch Family Medical Center",
-      "link": "https://www.ransomware.live/id/T2xpdmUgQnJhbmNoIEZhbWlseSBNZWRpY2FsIENlbnRlckBhbnViaXM=",
-      "summary": "Data Breach at U.S. Medical Center Puts Thousands of Patients at Risk",
-      "pubDate": "Tue, 11 Nov 2025 20:48:52 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?7dfcb74a21acd56131ca231633664848",
-      "group": "Anubis",
-      "victim": "Olive Branch Family Medical Center",
       "country": "US"
     }
   ]
