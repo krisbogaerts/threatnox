@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-20T00:53:35.165Z",
+  "updatedAt": "2025-11-20T02:25:38.536Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : naffco.com",
+      "link": "https://www.ransomware.live/id/bmFmZmNvLmNvbUBpbmNyYW5zb20=",
+      "summary": "NAFFCO is an international manufacturer and supplier of firefighting, security, and safety products.\r They also offer training services and emergency responder certification. The company is headquartered in Dubai, in the United Arab Emirates.\r With a global network spanning over 100 countries, NAFFCO has been recognized as the unparalleled leader in fire safety.\r \r The official website of NAFFCO says:\" Our success is driven by our \"passion to protect\"\"\r We do not know for certain how well they protect their clients, but they could not protect themselves.\r We have 1TB of data at our disposal (fiscal data, internal mail, HR data, budgets, strategic development plans and much more)",
+      "pubDate": "Thu, 20 Nov 2025 01:44:21 +0000",
+      "category": "AE",
+      "guid": "https://www.ransomware.live/group/incransom?06309c8e0a606c5fb248503ed690de5b",
+      "group": "Incransom",
+      "victim": "naffco.com",
+      "country": "AE"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : HostingFest",
       "link": "https://www.ransomware.live/id/SG9zdGluZ0Zlc3RAbm92YQ==",
@@ -2190,17 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "Octomeca Oy",
       "country": "FI"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Brian-Kyles Construction",
-      "link": "https://www.ransomware.live/id/QnJpYW4tS3lsZXMgQ29uc3RydWN0aW9uQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Tue, 11 Nov 2025 14:18:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?183482d2b99309a26e7a16bf12d46480",
-      "group": "Qilin",
-      "victim": "Brian-Kyles Construction",
-      "country": "US"
     }
   ]
 }
