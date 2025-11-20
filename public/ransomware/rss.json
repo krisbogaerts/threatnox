@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-19T23:11:28.925Z",
+  "updatedAt": "2025-11-20T00:53:35.165Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : HostingFest",
+      "link": "https://www.ransomware.live/id/SG9zdGluZ0Zlc3RAbm92YQ==",
+      "summary": "As HostingFest, we provide domain name (Domain), Hosting, VDS and Dedicated servers, E-commerce infrastructures and SEO services to our individual and corporate customers. Due to encryption, the official domain is currently inaccessible: https://hostingfest.net/ However, here is the archived site: https://web.archive.org/web/20250815130556/https://hostingfest.net/ . Contact methods : info@hostingfest.net / https://www.linkedin.com/company/hostingfest",
+      "pubDate": "Thu, 20 Nov 2025 00:12:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nova?b0ae22600ac371d277b586dbf354983f",
+      "group": "Nova",
+      "victim": "HostingFest",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Croft",
       "link": "https://www.ransomware.live/id/Q3JvZnRAc2lub2Jp",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Brian-Kyles Construction",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Kazu has just published a new victim : National Civil Service Commission of Colombia",
-      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgQ2l2aWwgU2VydmljZSBDb21taXNzaW9uIG9mIENvbG9tYmlhQGthenU=",
-      "summary": "The official portal of the Comisión Nacional del Servicio Civil (CNSC), Colombia’s National Civil Service Commission. This government body is responsible for overseeing the recruitment, selection, and management of public servants in the country. It ensures that hiring for government positions is fair, transparent, and based on merit. The site provides essential information about job openings in the public sector, application processes, and the regulations that govern public service employment in Colombia. It serves as a key resource for individuals seeking to apply for civil service positions or learn about public sector employment in Colombia",
-      "pubDate": "Tue, 11 Nov 2025 13:20:23 +0000",
-      "category": "CO",
-      "guid": "https://www.ransomware.live/group/kazu?86d5f87b2c64386791d4dfa3b1bd599e",
-      "group": "Kazu",
-      "victim": "National Civil Service Commission of Colombia",
-      "country": "CO"
     }
   ]
 }
