@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-20T23:10:57.913Z",
+  "updatedAt": "2025-11-21T00:53:57.547Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : PATLITE",
+      "link": "https://www.ransomware.live/id/UEFUTElURUBzaW5vYmk=",
+      "summary": "Founded in 1947, PATLITE Corporation is a technology engineering and manufacturing company. PATLITE provides LED status indicating lights, sound alarms, and visual and audible communication network systems. The company is based in Torrance, California.",
+      "pubDate": "Fri, 21 Nov 2025 00:10:50 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/sinobi?be8caefa9393727e77ad4185e92011b1",
+      "group": "Sinobi",
+      "victim": "PATLITE",
+      "country": "JP"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : CIGAM Software Corporativo Ltda",
+      "link": "https://www.ransomware.live/id/Q0lHQU0gU29mdHdhcmUgQ29ycG9yYXRpdm8gTHRkYUBjb2luYmFzZWNhcnRlbA==",
+      "summary": "CIGAM offers a comprehensive ERP solution designed for medium to large enterprises, assisting them in their digital transformation journey. Their s...",
+      "pubDate": "Thu, 20 Nov 2025 22:44:46 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?96317510757c443ff89354d762338176",
+      "group": "Coinbasecartel",
+      "victim": "CIGAM Software Corporativo Ltda",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : SAExploration",
+      "link": "https://www.ransomware.live/id/U0FFeHBsb3JhdGlvbkBjb2luYmFzZWNhcnRlbA==",
+      "summary": "SAExploration Holdings, Inc., an oilfield services company, provides seismic data acquisition and logistical support services to the oil and natura...",
+      "pubDate": "Thu, 20 Nov 2025 22:44:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?f452295065c74fe7fd13b784c09627cc",
+      "group": "Coinbasecartel",
+      "victim": "SAExploration",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Kewaunee Scientific",
+      "link": "https://www.ransomware.live/id/S2V3YXVuZWUgU2NpZW50aWZpY0Bjb2luYmFzZWNhcnRlbA==",
+      "summary": "Kewaunee Scientific Corporation designs, manufactures, and installs laboratory, healthcare, and technical furniture products. The company operates ...",
+      "pubDate": "Thu, 20 Nov 2025 22:43:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?1a18791d3acf0dd643e5fc04526579cb",
+      "group": "Coinbasecartel",
+      "victim": "Kewaunee Scientific",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : classiccenter.com",
       "link": "https://www.ransomware.live/id/Y2xhc3NpY2NlbnRlci5jb21AbHlueA==",
@@ -2157,50 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "*******.com",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : KohaFoods Hawaii",
-      "link": "https://www.ransomware.live/id/S29oYUZvb2RzIEhhd2FpaUBpbmNyYW5zb20=",
-      "summary": "Koha Foods is a Honolulu-based distributor and wholesaler specializing in Asian food products. The company boasts a diverse selection of over 2,500 items including seafood, condiments, and Korean dishes, catering primarily to local Oahu businesses such as restaurants and supermarkets. Having served Hawaii since 1970, Koha Foods emphasizes quality and connection with the community through its offerings. In addition to distribution, they manufacture their own signature Korean food items using authentic recipes and high-quality ingredients.",
-      "pubDate": "Wed, 12 Nov 2025 13:19:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?86c39339307c4dd47cadc6b8ba0169c4",
-      "group": "Incransom",
-      "victim": "KohaFoods Hawaii",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : latamlex (gyg.local)",
-      "link": "https://www.ransomware.live/id/bGF0YW1sZXggKGd5Zy5sb2NhbClAaW5jcmFuc29t",
-      "summary": "Latamlex is a regional law firm with a team of over 100 attorneys and more than 20 years of experience, recognized for its expertise in various legal areas including arbitration, corporate law, and intellectual property. The firm caters to local entrepreneurs looking to expand internationally as well as multinational corporations seeking to establish or grow their operations in Central America. With offices across five countries, Latamlex combines international vision with local knowledge to effectively serve its diverse clientele. The firm&#x27;s commitment to excellence has earned it numerous accolades from prestigious legal publications.",
-      "pubDate": "Wed, 12 Nov 2025 13:18:50 +0000",
-      "category": "CR",
-      "guid": "https://www.ransomware.live/group/incransom?56e9bb200f1131fcd4f4b73b46ec8924",
-      "group": "Incransom",
-      "victim": "latamlex (gyg.local)",
-      "country": "CR"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Znojma Czechia",
-      "link": "https://www.ransomware.live/id/Wm5vam1hIEN6ZWNoaWFAaW5jcmFuc29t",
-      "summary": "Subject of activity\r Main activity\r \r comprehensive administration in the area of ​​housing owned by the city of Znojmo\r ensuring matters in the interest of the city in the management of housing stock and other real estate owned by the city of Znojmo\r administration of the physical education and sports department, operation of sports facilities\r security of matters in the area of ​​personal culture, public toilets\r maintain and manage the property of the city of Znojmo.",
-      "pubDate": "Wed, 12 Nov 2025 13:18:40 +0000",
-      "category": "CZ",
-      "guid": "https://www.ransomware.live/group/incransom?c4aec886b0ea4036ed4c78db3abfcd51",
-      "group": "Incransom",
-      "victim": "Znojma Czechia",
-      "country": "CZ"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Soleol",
-      "link": "https://www.ransomware.live/id/U29sZW9sQHJhbnNvbWhvdXNl",
-      "summary": "Soleol is an Algerian renewable energy company that designs and installs solar equipment for homes, businesses, and local governments. Their unique products are built using biomimetic technology, which means they copy natural designs to create environmentally friendly solar solutions.",
-      "pubDate": "Wed, 12 Nov 2025 12:55:22 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/ransomhouse?f6ecd82d7425471b2d08b69d16f666ec",
-      "group": "Ransomhouse",
-      "victim": "Soleol",
-      "country": "CH"
     }
   ]
 }
