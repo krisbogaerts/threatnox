@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-21T16:14:28.440Z",
+  "updatedAt": "2025-11-21T17:10:36.861Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Fucerep",
+      "link": "https://www.ransomware.live/id/RnVjZXJlcEByYW5zb21ob3VzZQ==",
+      "summary": "Fucerep is a cooperative focused on savings and credit services targeted at both individuals and businesses. Established in 1974, the company offers a range of financial products including personal loans, salary accounts, credit and debit cards, savings accounts, and fixed-term deposits. Its goal is to help clients save and grow their finances through various tailored financial solutions.",
+      "pubDate": "Fri, 21 Nov 2025 16:43:19 +0000",
+      "category": "UY",
+      "guid": "https://www.ransomware.live/group/ransomhouse?35a97cf8bd0ad30017250048d279c6b6",
+      "group": "Ransomhouse",
+      "victim": "Fucerep",
+      "country": "UY"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Alma Realty",
+      "link": "https://www.ransomware.live/id/QWxtYSBSZWFsdHlAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 21 Nov 2025 16:42:27 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?35141e7cb5f2f9b85284469f5f5a631c",
+      "group": "Qilin",
+      "victim": "Alma Realty",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Wachusett School District MA",
       "link": "https://www.ransomware.live/id/V2FjaHVzZXR0IFNjaG9vbCBEaXN0cmljdCBNQUByaHlzaWRh",
@@ -2179,28 +2201,6 @@
       "group": "Clop",
       "victim": "FORBESMARSHALL.COM",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : SATO-GLOBAL.COM",
-      "link": "https://www.ransomware.live/id/U0FUTy1HTE9CQUwuQ09NQGNsb3A=",
-      "summary": "[AI generated] \"SATO-GLOBAL.COM\", or SATO, is a global barcode and RFID technology company that focuses on data collection and label printing solutions. They serve a variety of industries, including retail, industrial, healthcare, logistics, and food packaging. Their product offerings include barcode printers, labels, software, and maintenance services. SATO aims to help businesses streamline operations, reduce costs, and improve accuracy through efficient data tracking and management.",
-      "pubDate": "Thu, 13 Nov 2025 19:15:03 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/clop?51dc851acccba2e7f20d3a214f562822",
-      "group": "Clop",
-      "victim": "SATO-GLOBAL.COM",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : FLUKE.COM",
-      "link": "https://www.ransomware.live/id/RkxVS0UuQ09NQGNsb3A=",
-      "summary": "[AI generated] Fluke Corporation is an international company known for its production of electronic test tools and software. Established in 1948 in Everett, Washington, Fluke has become a global leader in the commercial electric test tool and software industry. Its products serve diverse markets such as wireless networking, precision measurement, and condition monitoring, helping various businesses and professionals across the globe.",
-      "pubDate": "Thu, 13 Nov 2025 19:14:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?057dd63f7029ea9e1586727905798411",
-      "group": "Clop",
-      "victim": "FLUKE.COM",
-      "country": "US"
     }
   ]
 }
