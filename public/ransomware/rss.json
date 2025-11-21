@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-21T20:13:07.425Z",
+  "updatedAt": "2025-11-21T21:10:19.642Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Colliers",
+      "link": "https://www.ransomware.live/id/Q29sbGllcnNAdGhlZ2VudGxlbWVu",
+      "summary": "Stock Symbol CIGI Revenue $5.2 Billion colliers.com https://www.zoominfo.com/c/colliers-international-group-inc/12042840 Colliers International Group Inc. provides commercial real estate services to corporations, financial institutions, governments, and individuals worldwide. The companys Sales and Lease Brokerage division offers transaction brokerage services, including landlord representation, tenant representation, and capital markets and investment services, as well as property management, leasing, and valuations. This division provides its services for various asset classes, including office, industrial, retail, multi-family, hotel, and mixed-use properties. Its Outsourcing &amp; Advisory Services division offers portfolio management, transaction and project management, workplace solutions, strategic consulting, property and asset management, and other corporate real estate services, as well as lease administration and facilities management systems; and valuation and appraisal review and management, portfolio or single asset valuation, arbitration and consulting, various studies, tax appeals etc.",
+      "pubDate": "Fri, 21 Nov 2025 20:18:56 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/thegentlemen?3cbd7e2c57d6e87ef012d58b4f469688",
+      "group": "Thegentlemen",
+      "victim": "Colliers",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : procure.com",
       "link": "https://www.ransomware.live/id/cHJvY3VyZS5jb21AZGV2bWFu",
@@ -2190,17 +2201,6 @@
       "group": "Handala",
       "victim": "Smile for the Camera – Handala Is Watching",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Killsec has just published a new victim : Force Brokerage",
-      "link": "https://www.ransomware.live/id/Rm9yY2UgQnJva2VyYWdlQGtpbGxzZWM=",
-      "summary": "Price ??? Disclosures 0/1",
-      "pubDate": "Sat, 15 Nov 2025 12:02:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/killsec?0365fe328c07b34eb92338c8ccaadae9",
-      "group": "Killsec",
-      "victim": "Force Brokerage",
-      "country": "US"
     }
   ]
 }
