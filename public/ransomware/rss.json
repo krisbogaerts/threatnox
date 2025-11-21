@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-21T14:12:00.336Z",
+  "updatedAt": "2025-11-21T15:11:28.610Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Datacarry has just published a new victim : UAM",
+      "link": "https://www.ransomware.live/id/VUFNQGRhdGFjYXJyeQ==",
+      "summary": "[AI generated] UAM, officially known as Universal Asset Management, is a global leader in the aviation services industry. They specialize in whole asset management, from leasing, trading to dismantling end-of-life commercial aircraft. Established in 1992 and headquartered in Tennessee, USA, UAM utilizes advanced technology to serve a wide range of clients around the world. They are dedicated to environmental sustainability through recycling aircraft materials.",
+      "pubDate": "Fri, 21 Nov 2025 14:22:36 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/datacarry?e8eec364697b148df414525578dc54be",
+      "group": "Datacarry",
+      "victim": "UAM",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Electro Mechanical Industries",
+      "link": "https://www.ransomware.live/id/RWxlY3RybyBNZWNoYW5pY2FsIEluZHVzdHJpZXNAYWtpcmE=",
+      "summary": "Electro-Mechanical Industries, Inc. (EMI) is a manufacturer of st andard and custom electrical distribution equipment serving the n eeds of the electrical industry in the national and international marketplaces. We will upload 50gb of corporate documents soon. Lots of forms wi th personal employee data (SSNs, addresses, phones, emails), fina ncials, client data, contracts and agreements, projects, drawings and specifications, etc.",
+      "pubDate": "Fri, 21 Nov 2025 14:18:30 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?6c59529b578070b18cd02f5d87eae221",
+      "group": "Akira",
+      "victim": "Electro Mechanical Industries",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Clop has just published a new victim : GREENBALL.COM",
       "link": "https://www.ransomware.live/id/R1JFRU5CQUxMLkNPTUBjbG9w",
@@ -419,50 +441,6 @@
       "group": "Clop",
       "victim": "CYTIVALIFESCIENCES.COM",
       "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : COMPANIES-GROUP-4",
-      "link": "https://www.ransomware.live/id/Q09NUEFOSUVTLUdST1VQLTRAY2xvcA==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 12:43:07 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/clop?a743bf6d97c876ce32f75f69996faaef",
-      "group": "Clop",
-      "victim": "COMPANIES-GROUP-4",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : COMPANIES-GROUP-3",
-      "link": "https://www.ransomware.live/id/Q09NUEFOSUVTLUdST1VQLTNAY2xvcA==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 12:42:47 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/clop?d976d4dfa20896dd77618c010d62a5ff",
-      "group": "Clop",
-      "victim": "COMPANIES-GROUP-3",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : COMPANIES-GROUP-2",
-      "link": "https://www.ransomware.live/id/Q09NUEFOSUVTLUdST1VQLTJAY2xvcA==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 12:42:23 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/clop?19a1d014f1e9bc9ad9a31a7ecfcb4269",
-      "group": "Clop",
-      "victim": "COMPANIES-GROUP-2",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : COMPANIES-GROUP-1",
-      "link": "https://www.ransomware.live/id/Q09NUEFOSUVTLUdST1VQLTFAY2xvcA==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 12:41:31 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/clop?0bd5de8c2c2ab99a26f2647b2415f34e",
-      "group": "Clop",
-      "victim": "COMPANIES-GROUP-1",
-      "country": ""
     },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Gruenberg Kelly Della",
@@ -2200,6 +2178,28 @@
       "guid": "https://www.ransomware.live/group/clop?057dd63f7029ea9e1586727905798411",
       "group": "Clop",
       "victim": "FLUKE.COM",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Clop has just published a new victim : TPICOMPOSITES.COM",
+      "link": "https://www.ransomware.live/id/VFBJQ09NUE9TSVRFUy5DT01AY2xvcA==",
+      "summary": "[AI generated] TPI Composites, Inc. is a leading global provider of structural composites products for the wind energy, transportation, and military markets. The company operates its manufacturing plants in North America, Europe, and Asia. TPI delivers innovative composite solutions to its customers including design, engineering, tooling, fabrication, and lifecycle management services.",
+      "pubDate": "Thu, 13 Nov 2025 19:13:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/clop?9eac53a5937c3c01358e2109b1767453",
+      "group": "Clop",
+      "victim": "TPICOMPOSITES.COM",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Clop has just published a new victim : HELIXESG.COM",
+      "link": "https://www.ransomware.live/id/SEVMSVhFU0cuQ09NQGNsb3A=",
+      "summary": "[AI generated] Helix ESG is a leading provider of offshore energy solutions. With their extensive fleet of vessels, they offer a range of services such as marine construction, repair &amp; maintenance, salvage &amp; decommissioning, and underwater exploration. The company focuses on delivering innovative solutions while also prioritizing their commitment to safety and environmental protection.",
+      "pubDate": "Thu, 13 Nov 2025 19:13:00 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/clop?f4f0c68646ea0895072ce211ba93d155",
+      "group": "Clop",
+      "victim": "HELIXESG.COM",
       "country": "US"
     }
   ]
