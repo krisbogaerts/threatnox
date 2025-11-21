@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-21T15:11:28.610Z",
+  "updatedAt": "2025-11-21T16:14:28.440Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Wachusett School District MA",
+      "link": "https://www.ransomware.live/id/V2FjaHVzZXR0IFNjaG9vbCBEaXN0cmljdCBNQUByaHlzaWRh",
+      "summary": "Wachusett School District MA Wachusett School District MA is a public school district.    More",
+      "pubDate": "Fri, 21 Nov 2025 15:46:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?ed041ebcf4ab797e0af5accfea494a02",
+      "group": "Rhysida",
+      "victim": "Wachusett School District MA",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : XOX Mobile",
+      "link": "https://www.ransomware.live/id/WE9YIE1vYmlsZUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 21 Nov 2025 15:43:56 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/qilin?50204b7db85b7d9740986499b2770bfd",
+      "group": "Qilin",
+      "victim": "XOX Mobile",
+      "country": "MY"
+    },
     {
       "title": "🏴‍☠️ Datacarry has just published a new victim : UAM",
       "link": "https://www.ransomware.live/id/VUFNQGRhdGFjYXJyeQ==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/clop?057dd63f7029ea9e1586727905798411",
       "group": "Clop",
       "victim": "FLUKE.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : TPICOMPOSITES.COM",
-      "link": "https://www.ransomware.live/id/VFBJQ09NUE9TSVRFUy5DT01AY2xvcA==",
-      "summary": "[AI generated] TPI Composites, Inc. is a leading global provider of structural composites products for the wind energy, transportation, and military markets. The company operates its manufacturing plants in North America, Europe, and Asia. TPI delivers innovative composite solutions to its customers including design, engineering, tooling, fabrication, and lifecycle management services.",
-      "pubDate": "Thu, 13 Nov 2025 19:13:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?9eac53a5937c3c01358e2109b1767453",
-      "group": "Clop",
-      "victim": "TPICOMPOSITES.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : HELIXESG.COM",
-      "link": "https://www.ransomware.live/id/SEVMSVhFU0cuQ09NQGNsb3A=",
-      "summary": "[AI generated] Helix ESG is a leading provider of offshore energy solutions. With their extensive fleet of vessels, they offer a range of services such as marine construction, repair &amp; maintenance, salvage &amp; decommissioning, and underwater exploration. The company focuses on delivering innovative solutions while also prioritizing their commitment to safety and environmental protection.",
-      "pubDate": "Thu, 13 Nov 2025 19:13:00 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?f4f0c68646ea0895072ce211ba93d155",
-      "group": "Clop",
-      "victim": "HELIXESG.COM",
       "country": "US"
     }
   ]
