@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-11-21T19:09:55.428Z",
+  "updatedAt": "2025-11-21T20:13:07.425Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : procure.com",
+      "link": "https://www.ransomware.live/id/cHJvY3VyZS5jb21AZGV2bWFu",
+      "summary": "Ransom: data theft  40gb 120K",
+      "pubDate": "Fri, 21 Nov 2025 18:53:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?c1647daa3d5a70794550abb450662872",
+      "group": "Devman",
+      "victim": "procure.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Medusa has just published a new victim : General Distributing",
+      "link": "https://www.ransomware.live/id/R2VuZXJhbCBEaXN0cmlidXRpbmdAbWVkdXNh",
+      "summary": "General Distributing Co is a company that operates in the Convenience Stores, Gas Stations &amp; Liquor Stores industry. It employs 100to249 people and has 25Mto50M of revenue. The company is headquartered in Salt Lake City, Utah. company is headquartered in 5350 W Amelia Earhart Drive, Salt Lake City, UT 84116, USA. 168 Employees",
+      "pubDate": "Fri, 21 Nov 2025 18:44:34 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/medusa?159e97c74066828735a8cb136e40acc2",
+      "group": "Medusa",
+      "victim": "General Distributing",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Medusa has just published a new victim : FDC Interiors",
+      "link": "https://www.ransomware.live/id/RkRDIEludGVyaW9yc0BtZWR1c2E=",
+      "summary": "FDC / Interiors specializes in creating exceptional and luxurious spaces that reflect innovation and beauty. They focus on unique designs from conception to completion, utilizing the finest materials and precision craftsmanship. The company aims to inspire and engage people while enhancing the legacy of prestigious brands. Their services are intended for clients looking for high-quality, timeless environments. company is headquartered in FDC Interiors headquarters: National Industries Park, Dubai, United Arab Emirates, P.O. Box 113507. 201-500 Employees",
+      "pubDate": "Fri, 21 Nov 2025 18:44:19 +0000",
+      "category": "AE",
+      "guid": "https://www.ransomware.live/group/medusa?b7b2919faf978b27d36880006cc0e2a1",
+      "group": "Medusa",
+      "victim": "FDC Interiors",
+      "country": "AE"
+    },
+    {
+      "title": "🏴‍☠️ Medusa has just published a new victim : MFE Formwork Technology",
+      "link": "https://www.ransomware.live/id/TUZFIEZvcm13b3JrIFRlY2hub2xvZ3lAbWVkdXNh",
+      "summary": "MFE Formwork Technology is a global leader in aluminium formwork solutions, known for delivering fast, efficient, and high-quality building systems. The company designs and manufactures precision-engineered formwork that enables rapid construction cycles for both high-rise and landed housing projects. With advanced manufacturing capabilities and a strong focus on engineering excellence, MFE supports developers and contractors in achieving consistent concrete finishing, reduced labour needs, and improved project timelines. Operating in more than 50 countries, the company also provides technical support, 3D modelling, and customised solutions for complex structures. MFE is recognised for innovation, durability, and reliability across the construction industry. company is headquartered in MFE Formwork Technology Sdn Bhd, Lot 4 &amp; 6 Jalan Tun Perak 3, Perdana Industrial Park, 42000 Port Klang, Selangor, Malaysia. 51-200 Employees",
+      "pubDate": "Fri, 21 Nov 2025 18:44:04 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/medusa?8396f99db74c42481e4b763d5b944f12",
+      "group": "Medusa",
+      "victim": "MFE Formwork Technology",
+      "country": "SG"
+    },
+    {
+      "title": "🏴‍☠️ Medusa has just published a new victim : Nationwide Legal LLC",
+      "link": "https://www.ransomware.live/id/TmF0aW9ud2lkZSBMZWdhbCBMTENAbWVkdXNh",
+      "summary": "Nationwide Legal LLC is a leading litigation support and legal services company based in Los Angeles, California, serving clients across the United States. The company provides a wide range of professional services, including process serving, e-filing, court reporting, document duplication, investigations, and subpoena preparation. With the motto “where technology meets experience,” Nationwide Legal focuses on combining advanced digital solutions with decades of industry expertise to ensure accuracy, speed, and reliability in every task. The company supports law firms, corporations, and government agencies by streamlining legal processes and improving overall efficiency in complex litigation workflows. company is headquartered in The headquarters address of Nationwide Legal LLC is 1609 James M Wood Blvd, Los Angeles, CA 90015, United States. 501-1,000 Employees",
+      "pubDate": "Fri, 21 Nov 2025 18:43:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/medusa?bbae4cf03b2ac30a82149a741b318704",
+      "group": "Medusa",
+      "victim": "Nationwide Legal LLC",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Clop has just published a new victim : HCMSPARTNERS.COM",
       "link": "https://www.ransomware.live/id/SENNU1BBUlRORVJTLkNPTUBjbG9w",
@@ -2145,61 +2200,6 @@
       "guid": "https://www.ransomware.live/group/killsec?0365fe328c07b34eb92338c8ccaadae9",
       "group": "Killsec",
       "victim": "Force Brokerage",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Crypto24 has just published a new victim : Bayu Buana Travel Service",
-      "link": "https://www.ransomware.live/id/QmF5dSBCdWFuYSBUcmF2ZWwgU2VydmljZUBjcnlwdG8yNA==",
-      "summary": "We have successfully extracted over 500GB of documents from your internal network, including internal company documents, customer and project information, and other data stored within your internal systems.",
-      "pubDate": "Sat, 15 Nov 2025 02:48:57 +0000",
-      "category": "ID",
-      "guid": "https://www.ransomware.live/group/crypto24?b44c2d138536948ec773ec1293de0ba1",
-      "group": "Crypto24",
-      "victim": "Bayu Buana Travel Service",
-      "country": "ID"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : killinglyschools.org",
-      "link": "https://www.ransomware.live/id/a2lsbGluZ2x5c2Nob29scy5vcmdAc2FmZXBheQ==",
-      "summary": "Killingly Public Schools is a K-12 public school district based in Danielson, Connecticut, serving students in the town of Killingly. …",
-      "pubDate": "Fri, 14 Nov 2025 22:18:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?2c9e17724d5b97e2954da31d3643275a",
-      "group": "Safepay",
-      "victim": "killinglyschools.org",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : eakas.com",
-      "link": "https://www.ransomware.live/id/ZWFrYXMuY29tQGluY3JhbnNvbQ==",
-      "summary": "Eakas Corp. specializes in producing both functional and decorative products for the automotive industry, serving as a Tier 1 supplier to manufacturers in the United States. They offer comprehensive services including engineering, injection molding, painting, chrome plating, assembly, and quality testing to ensure consistent product quality. Their product range includes various automotive components such as door handles, bumper fascias, and mirror assemblies. Eakas is committed to customer satisfaction by delivering quality services on time and at competitive prices.\r Employees: 416\r Revenue: $81.3 Million\r Industry: Manufacturing \r Phone Number:\r (815) 223-8811 phone site\r x236 (cell:870-208-5643)\r 248-536-2211\r 815-488-1879\r x208 / 815-713-0753\r (815) 223-8811\r 248-536-2211\r 248-536-2211\r x224 (cell:815-830-6497)\r x218 (cell:815-875-7241)\r 248-536-2211\r 815-719-2814\r 815-713-0753 homePhone: 815-497-2023\r 5135921045",
-      "pubDate": "Fri, 14 Nov 2025 21:46:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?9548461c748b6102c78cdd6316185e5f",
-      "group": "Incransom",
-      "victim": "eakas.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Sol Trading",
-      "link": "https://www.ransomware.live/id/U29sIFRyYWRpbmdAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Fri, 14 Nov 2025 21:18:53 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?0051c94dfa2b3f88bcc50693ea28f48b",
-      "group": "Qilin",
-      "victim": "Sol Trading",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : UNOde50",
-      "link": "https://www.ransomware.live/id/VU5PZGU1MEB3b3JsZGxlYWtz",
-      "summary": "[AI generated] UNOde50 is a Spanish jewelry and accessory brand. Established in the late &#x27;90s, it initially created only 50 units of each design, hence its name which translates as \"One of 50.\" The company is known for its bold and unique designs in each collection. Their products are handcrafted, ensuring individual uniqueness and quality. It experiences global success and availability because of its distinctive approach to modern jewelry and accessory design.",
-      "pubDate": "Fri, 14 Nov 2025 17:21:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?628cd4a756b35cadb55ce4cd57d72bf9",
-      "group": "Worldleaks",
-      "victim": "UNOde50",
       "country": "US"
     }
   ]
