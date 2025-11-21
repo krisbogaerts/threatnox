@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-21T10:12:28.897Z",
+  "updatedAt": "2025-11-21T11:10:24.372Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Kettle, Sánchez & Co",
+      "link": "https://www.ransomware.live/id/S2V0dGxlLCBTw6FuY2hleiAmIENvQGRyYWdvbmZvcmNl",
+      "summary": "Kettle, Sánchez &amp; Co / OARN is located in Santo Domingo. Kettle, Sánchez &amp; Co / OARN is working in General chemical wholesale, Corporate management, Pharmacies and drug stores activities",
+      "pubDate": "Fri, 21 Nov 2025 10:15:40 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?c06c9958045cf6801ea33727b8508736",
+      "group": "Dragonforce",
+      "victim": "Kettle, Sánchez & Co",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Blackshrantac has just published a new victim : Superintendencia Nacional de Fiscalización Laboral",
       "link": "https://www.ransomware.live/id/U3VwZXJpbnRlbmRlbmNpYSBOYWNpb25hbCBkZSBGaXNjYWxpemFjacOzbiBMYWJvcmFsQGJsYWNrc2hyYW50YWM=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/chaos?c6963f21966cc22adb480db06537fe67",
       "group": "Chaos",
       "victim": "iconinternational.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : doversd.org",
-      "link": "https://www.ransomware.live/id/ZG92ZXJzZC5vcmdAc2FmZXBheQ==",
-      "summary": "Dover City Schools is a public K-12 school district located in Dover, Ohio, serving approximately 2,650 students across multiple schools. …",
-      "pubDate": "Wed, 12 Nov 2025 19:25:27 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?b684c66c7758eb27497387e498423fb9",
-      "group": "Safepay",
-      "victim": "doversd.org",
       "country": "US"
     }
   ]
