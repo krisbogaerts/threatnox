@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-21T22:10:58.266Z",
+  "updatedAt": "2025-11-21T23:10:47.808Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Sansala",
+      "link": "https://www.ransomware.live/id/U2Fuc2FsYUB0aGVnZW50bGVtZW4=",
+      "summary": "www.sansala.es https://www.zoominfo.com/c/sansala/466441418 Sansala offers a variety of delicious sandwiches, salads, and desserts made from fresh, natural ingredients. Their products include fresh and frozen options, all certified to the highest food safety and quality standards. The company prides itself on delivering ultra-fresh products, with ingredients sourced directly from the field within 24 hours. Sansala aims to cater to health-conscious consumers looking for tasty and nutritious meal options.",
+      "pubDate": "Fri, 21 Nov 2025 22:29:29 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/thegentlemen?835058d748b4b5c11f90975a8bf38e2c",
+      "group": "Thegentlemen",
+      "victim": "Sansala",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : gsccca.org",
+      "link": "https://www.ransomware.live/id/Z3NjY2NhLm9yZ0BkZXZtYW4=",
+      "summary": "Ransom: 500gb 400k",
+      "pubDate": "Fri, 21 Nov 2025 21:53:55 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?bcc758bcdc3ca5daaf9b07efa09c221d",
+      "group": "Devman",
+      "victim": "gsccca.org",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Colliers",
       "link": "https://www.ransomware.live/id/Q29sbGllcnNAdGhlZ2VudGxlbWVu",
@@ -2179,28 +2201,6 @@
       "group": "Nova",
       "victim": "Medidores Industriales y Medicos SA de CV",
       "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Spark Power",
-      "link": "https://www.ransomware.live/id/U3BhcmsgUG93ZXJAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sat, 15 Nov 2025 13:13:40 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?2a073bb18e28cf10229f5b25e059628d",
-      "group": "Qilin",
-      "victim": "Spark Power",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Handala has just published a new victim : Smile for the Camera – Handala Is Watching",
-      "link": "https://www.ransomware.live/id/U21pbGUgZm9yIHRoZSBDYW1lcmEg4oCTIEhhbmRhbGEgSXMgV2F0Y2hpbmdAaGFuZGFsYQ==",
-      "summary": "This Saturday, Handala RedWanted decided to do things differently. We set our sights directly on the Shabak, your regime’s so-called security guardians. But do you truly feel safe? As long as we are here, that’s little more than an illusion. For years, Shabak’s airport security systems were said to exist solely for “protection.” Yet, their…",
-      "pubDate": "Sat, 15 Nov 2025 12:53:42 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/handala?3b09419313a95f156e7f7554fe989b0f",
-      "group": "Handala",
-      "victim": "Smile for the Camera – Handala Is Watching",
-      "country": ""
     }
   ]
 }
