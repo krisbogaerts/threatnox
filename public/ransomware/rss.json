@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-21T09:13:03.344Z",
+  "updatedAt": "2025-11-21T10:12:28.897Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : Superintendencia Nacional de Fiscalización Laboral",
+      "link": "https://www.ransomware.live/id/U3VwZXJpbnRlbmRlbmNpYSBOYWNpb25hbCBkZSBGaXNjYWxpemFjacOzbiBMYWJvcmFsQGJsYWNrc2hyYW50YWM=",
+      "summary": "[AI generated] The \"Superintendencia Nacional de Fiscalización Laboral\" (SUNAFIL) is a Peruvian government agency responsible for promoting, supervising and enforcing labor rights. They assure compliance with labor and occupational health and safety standards. They also promote culture of formal employment through the provision of information to workers and employers, aiming to improve working conditions in Peru.",
+      "pubDate": "Fri, 21 Nov 2025 09:12:23 +0000",
+      "category": "PE",
+      "guid": "https://www.ransomware.live/group/blackshrantac?bdcc7694aab18283b806c3cf57e3b188",
+      "group": "Blackshrantac",
+      "victim": "Superintendencia Nacional de Fiscalización Laboral",
+      "country": "PE"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : PATLITE",
       "link": "https://www.ransomware.live/id/UEFUTElURUBzaW5vYmk=",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "doversd.org",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : *******.com",
-      "link": "https://www.ransomware.live/id/KioqKioqKi5jb21AdGhlZ2VudGxlbWVu",
-      "summary": "http://25swr3rgce7elyedjmmhdw4ourgtxc72mj2cynsrqz6wwitestfpiiyd.onion/",
-      "pubDate": "Wed, 12 Nov 2025 16:26:51 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/thegentlemen?168966e56516bec70db8cb0f900b4ba9",
-      "group": "Thegentlemen",
-      "victim": "*******.com",
-      "country": ""
     }
   ]
 }
