@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-21T11:10:24.372Z",
+  "updatedAt": "2025-11-21T12:22:05.413Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Du",
+      "link": "https://www.ransomware.live/id/RHVAZHJhZ29uZm9yY2U=",
+      "summary": "Emirates Integrated Telecommunications Company P.J.S.C., commercially rebranded as du in February 2007, is one of the two main telecom operators in the United Arab Emirates. du offers fixed line, mobile telephony, internet and digital television services across the UAE. It also provides carrier services, a data hub, internet exchange facilities and satellite service for broadcasters. It expanded its services in support of economic and social transformation of UAE and operates subsidiaries such as EITC Investment Holdings Limited, Edara (Telco Operations FZ-LLC), Smart Dubai Platform Project Company LLC and EITC Singapore PTE. LTD.",
+      "pubDate": "Fri, 21 Nov 2025 11:28:44 +0000",
+      "category": "AE",
+      "guid": "https://www.ransomware.live/group/dragonforce?7686cf2341bd4b1e2154e59b7d83cf08",
+      "group": "Dragonforce",
+      "victim": "Du",
+      "country": "AE"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : PAN",
+      "link": "https://www.ransomware.live/id/UEFOQGRyYWdvbmZvcmNl",
+      "summary": "Founded in 1991 by the current CEO and Managing Director, Mr. Abdul Rahman Al Shamsi, Pan Emirates Furniture has built a regional reputation for great quality products of home and office furniture, including accessory items at a very reasonable price. We take pride in giving customers the experience of a rich business tradition that made us a market leader in furniture wholesaling and retailing.",
+      "pubDate": "Fri, 21 Nov 2025 11:27:39 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/dragonforce?1ed416df65dc41764834290841138a40",
+      "group": "Dragonforce",
+      "victim": "PAN",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Kettle, Sánchez & Co",
       "link": "https://www.ransomware.live/id/S2V0dGxlLCBTw6FuY2hleiAmIENvQGRyYWdvbmZvcmNl",
@@ -2179,28 +2201,6 @@
       "group": "Blackshrantac",
       "victim": "M&BM, Inc",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Persians - Cortinas - Todos - Alfombrass",
-      "link": "https://www.ransomware.live/id/UGVyc2lhbnMgLSBDb3J0aW5hcyAtIFRvZG9zIC0gQWxmb21icmFzc0BkcmFnb25mb3JjZQ==",
-      "summary": "Descubra las Mejores Cortinas y Persianas en Costa Rica con Persianas Canet En Canet somos expertos en cortinas y persianas en Costa Rica, ofrecemos soluciones de primera para el recubrimiento de ventanas y superficies. Nuestros asesores especializados le ayudarán a seleccionar la opción ideal que se ajuste a sus necesidades y estilo, garantizando la elección perfecta en cortinas y persianas.",
-      "pubDate": "Thu, 13 Nov 2025 00:51:34 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/dragonforce?ae1470f98f7893d40bbb65b2f0310469",
-      "group": "Dragonforce",
-      "victim": "Persians - Cortinas - Todos - Alfombrass",
-      "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Chaos has just published a new victim : iconinternational.com",
-      "link": "https://www.ransomware.live/id/aWNvbmludGVybmF0aW9uYWwuY29tQGNoYW9z",
-      "summary": "ICON International, Inc. is a corporate barter firm that offers innovative solutions and strategic thinking to help brands grow and create economic value.",
-      "pubDate": "Wed, 12 Nov 2025 19:42:20 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/chaos?c6963f21966cc22adb480db06537fe67",
-      "group": "Chaos",
-      "victim": "iconinternational.com",
-      "country": "US"
     }
   ]
 }
