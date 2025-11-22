@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-22T07:10:24.499Z",
+  "updatedAt": "2025-11-22T08:14:29.205Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Interlink Trade Services",
+      "link": "https://www.ransomware.live/id/SW50ZXJsaW5rIFRyYWRlIFNlcnZpY2VzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 22 Nov 2025 07:23:58 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?ffe55a842b9abfcb17271b2dedd77387",
+      "group": "Qilin",
+      "victim": "Interlink Trade Services",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Securotrop has just published a new victim : Mister Guns",
       "link": "https://www.ransomware.live/id/TWlzdGVyIEd1bnNAc2VjdXJvdHJvcA==",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "Saude Fortaleza",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Stark Shipping",
-      "link": "https://www.ransomware.live/id/U3RhcmsgU2hpcHBpbmdAbm92YQ==",
-      "summary": "Ukraine A maritime service provider with extensive experience in the Black and Azov seas. Offers port agency services, cargo chartering (for bulk and liquid goods), and market analysis for customers. Has a network of offices and strategic partnerships in Ukrainian ports.",
-      "pubDate": "Sat, 15 Nov 2025 15:37:22 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/nova?7473b1a9928ed3eac4d077cb2c9a1bad",
-      "group": "Nova",
-      "victim": "Stark Shipping",
-      "country": ""
     }
   ]
 }
