@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-22T12:19:22.819Z",
+  "updatedAt": "2025-11-22T13:17:34.945Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : onsolve.com",
+      "link": "https://www.ransomware.live/id/b25zb2x2ZS5jb21AaW5jcmFuc29t",
+      "summary": "OnSolve is a leading critical event management provider that proactively mitigates physical threats, allowing organizations to remain agile when a crisis strikes. Using the most trusted expertise and reliable AI-powered risk intelligence, critical communications and incident management technology, the OnSolve Platform enables enterprises, SMB organizations and all levels of government to detect, anticipate and mitigate physical threats that impact their people, places and property.",
+      "pubDate": "Sat, 22 Nov 2025 11:43:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?5b577669b505e1aa816bc6e199701556",
+      "group": "Incransom",
+      "victim": "onsolve.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Kajima Europe",
       "link": "https://www.ransomware.live/id/S2FqaW1hIEV1cm9wZUBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Brotherhood",
       "victim": "Kaener Personal",
       "country": "CH"
-    },
-    {
-      "title": "🏴‍☠️ Brotherhood has just published a new victim : Ninas Jewellery",
-      "link": "https://www.ransomware.live/id/TmluYXMgSmV3ZWxsZXJ5QGJyb3RoZXJob29k",
-      "summary": "[AI generated] Nina&#x27;s Jewellery is a family-owned jewelry business with over 30 years of experience in the industry. Based in Australia, it offers a wide selection of fine jewelry featuring diamonds, colored gemstones, gold and pearls. Known for its exquisite craftsmanship and quality, Nina&#x27;s Jewellery caters to customers seeking luxurious and timeless pieces for all occasions. With a strong commitment to ethical sourcing, the company ensures the sustainability and traceability in their supply chain.",
-      "pubDate": "Sat, 15 Nov 2025 15:50:18 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/brotherhood?dec203e647a29d091fe55a05e7334ccc",
-      "group": "Brotherhood",
-      "victim": "Ninas Jewellery",
-      "country": "AU"
     }
   ]
 }
