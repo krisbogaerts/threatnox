@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-22T08:14:29.205Z",
+  "updatedAt": "2025-11-22T09:11:15.812Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Medical Center, LLP",
+      "link": "https://www.ransomware.live/id/TWVkaWNhbCBDZW50ZXIsIExMUEBwZWFy",
+      "summary": "Family Medicine and Primary Care Practice in Dublin, GA",
+      "pubDate": "Sat, 22 Nov 2025 08:16:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?5285636df9e73dfd35099746c251e82b",
+      "group": "Pear",
+      "victim": "Medical Center, LLP",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Interlink Trade Services",
       "link": "https://www.ransomware.live/id/SW50ZXJsaW5rIFRyYWRlIFNlcnZpY2VzQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "University of Gävle",
       "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Saude Fortaleza",
-      "link": "https://www.ransomware.live/id/U2F1ZGUgRm9ydGFsZXphQG5vdmE=",
-      "summary": "Secretaria Municipal de Saude de Fortaleza is a company that operates in the Custom Software &amp; IT Services industry. It employs 20 to 49 people and has 10M to 25M of revenue. The company is headquartered in Brazil. https://saude.fortaleza.ce.gov.br/ https://www.zoominfo.com/c/secretaria-municipal-de-sau%CC%81de-de-fortaleza/431949261",
-      "pubDate": "Sat, 15 Nov 2025 15:38:20 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/nova?7a53f24e489b1db6e4df537241870470",
-      "group": "Nova",
-      "victim": "Saude Fortaleza",
-      "country": "BR"
     }
   ]
 }
