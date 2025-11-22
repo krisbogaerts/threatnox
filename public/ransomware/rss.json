@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-22T10:11:35.856Z",
+  "updatedAt": "2025-11-22T11:08:26.928Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Kajima Europe",
+      "link": "https://www.ransomware.live/id/S2FqaW1hIEV1cm9wZUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 22 Nov 2025 10:18:57 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?6a53c63ef5c318c5546d8f8be4431bae",
+      "group": "Qilin",
+      "victim": "Kajima Europe",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Pear has just published a new victim : Medical Center, LLP",
       "link": "https://www.ransomware.live/id/TWVkaWNhbCBDZW50ZXIsIExMUEBwZWFy",
@@ -2190,17 +2201,6 @@
       "group": "Brotherhood",
       "victim": "Ninas Jewellery",
       "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : University of Gävle",
-      "link": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBvZiBHw6R2bGVAbm92YQ==",
-      "summary": "University of Gävle is a university college located in Gävle, Sweden. The university was established in 1977 and is currently organized into three academies and nine departments. The university offers around 45 masters- and bachelor&#x27;s degrees and 800 courses in technology, social- and natural sciences and the humanities.  ZoomInfo: https://www.zoominfo.com/c/ga%CC%88vle/1142576926 / Domain: https://www.hig.se/",
-      "pubDate": "Sat, 15 Nov 2025 15:39:14 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/nova?1d8e98ae718deabdbaf72802316f5963",
-      "group": "Nova",
-      "victim": "University of Gävle",
-      "country": "SE"
     }
   ]
 }
