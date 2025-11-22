@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-22T17:09:15.586Z",
+  "updatedAt": "2025-11-22T18:15:16.607Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Katch Kan",
+      "link": "https://www.ransomware.live/id/S2F0Y2ggS2FuQHBsYXk=",
+      "summary": "Canada",
+      "pubDate": "Sat, 22 Nov 2025 17:14:32 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/play?f0b7779b4a2389fe2c1e43717e00924c",
+      "group": "Play",
+      "victim": "Katch Kan",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Keystone Fabricating",
+      "link": "https://www.ransomware.live/id/S2V5c3RvbmUgRmFicmljYXRpbmdAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Sat, 22 Nov 2025 17:13:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?d39bc1461741ca3f06b6665a72c439d0",
+      "group": "Play",
+      "victim": "Keystone Fabricating",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Turkstra Trusses",
+      "link": "https://www.ransomware.live/id/VHVya3N0cmEgVHJ1c3Nlc0BwbGF5",
+      "summary": "Canada",
+      "pubDate": "Sat, 22 Nov 2025 17:13:14 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/play?ea2cab6b7e8d8705e7f4101b985e0a10",
+      "group": "Play",
+      "victim": "Turkstra Trusses",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : St. Joseph's Healthcare Hamilton",
       "link": "https://www.ransomware.live/id/U3QuIEpvc2VwaCdzIEhlYWx0aGNhcmUgSGFtaWx0b25Acmh5c2lkYQ==",
@@ -2168,39 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "United Enterprise Fund",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Maresa Logística",
-      "link": "https://www.ransomware.live/id/TWFyZXNhIExvZ8Otc3RpY2FAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 16 Nov 2025 11:18:59 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?480e4373f7a62af8d33d609b71a99cfa",
-      "group": "Qilin",
-      "victim": "Maresa Logística",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Alphalocker has just published a new victim : www.bew.co.th",
-      "link": "https://www.ransomware.live/id/d3d3LmJldy5jby50aEBhbHBoYWxvY2tlcg==",
-      "summary": "Bangkok Eagle Wings Co.,Ltd. 67/14 Mu 5 Chuamsamphan Rd. Kokfad. Nongchok. Bangkok 10530. Thailand. Stamping process Welding and assembly process Machining process Painting process",
-      "pubDate": "Sun, 16 Nov 2025 00:39:34 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/alphalocker?ec7e935d76ddc861962c32a65a5d59e5",
-      "group": "Alphalocker",
-      "victim": "www.bew.co.th",
-      "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : SES Société Energies Services",
-      "link": "https://www.ransomware.live/id/U0VTIFNvY2nDqXTDqSBFbmVyZ2llcyBTZXJ2aWNlc0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sat, 15 Nov 2025 18:28:08 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?45cf0c486bd5a06760cc21ec3cbef701",
-      "group": "Qilin",
-      "victim": "SES Société Energies Services",
-      "country": "FR"
     }
   ]
 }
