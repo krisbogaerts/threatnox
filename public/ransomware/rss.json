@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-22T20:12:15.724Z",
+  "updatedAt": "2025-11-22T21:09:58.073Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Nuclebrás Equipamentos Pesados",
+      "link": "https://www.ransomware.live/id/TnVjbGVicsOhcyBFcXVpcGFtZW50b3MgUGVzYWRvc0B3b3JsZGxlYWtz",
+      "summary": "[AI generated] \"Nuclebrás Equipamentos Pesados S.A. (NUCLEP) is a Brazilian state-owned company under the Ministry of Science, Technology, Innovation, and Communications. Founded in 1975, NUCLEP is responsible for developing and manufacturing heavy equipment, especially for nuclear power plants. Besides serving the nuclear sector, it also provides solutions for offshore oil platforms and submarine construction, acting as a key player in the Brazilian technological and industrial development.\"",
+      "pubDate": "Sat, 22 Nov 2025 20:11:47 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/worldleaks?69fd3337f41114ce1b9fca5ca45cd06b",
+      "group": "Worldleaks",
+      "victim": "Nuclebrás Equipamentos Pesados",
+      "country": "BR"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Bodega San Huberto",
       "link": "https://www.ransomware.live/id/Qm9kZWdhIFNhbiBIdWJlcnRvQGRyYWdvbmZvcmNl",
@@ -2190,17 +2201,6 @@
       "group": "Everest",
       "victim": "Svenska kraftnät 280GB Database on sale",
       "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : AkroStar Technology Co., Ltd. Akrostar",
-      "link": "https://www.ransomware.live/id/QWtyb1N0YXIgVGVjaG5vbG9neSBDby4sIEx0ZC4gQWtyb3N0YXJAdGhlZ2VudGxlbWVu",
-      "summary": "www.akrostar-tech.com AkroStar was founded in June 2020 and is a leading Chinese enterprise specializing in advanced interface IP. We are committed to the research and development of domestically produced advanced interface IP and breaking through “bottleneck” technologies. AkroStar offers comprehensive high-speed interface IP solutions, including PCIe, Serdes, DDR, D2D, USB, MIPI, HDMI, SATA, SD/eMMC, etc., covering a full-stack complete IP solution compliant with the latest protocol standards. https://www.crunchbase.com/organization/akrostar",
-      "pubDate": "Mon, 17 Nov 2025 13:47:25 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/thegentlemen?6e5456a5ce9b7d253180fd0f8a5223a4",
-      "group": "Thegentlemen",
-      "victim": "AkroStar Technology Co., Ltd. Akrostar",
-      "country": "CH"
     }
   ]
 }
