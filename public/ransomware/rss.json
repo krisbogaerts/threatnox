@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-22T02:21:19.139Z",
+  "updatedAt": "2025-11-22T03:33:10.015Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Securotrop has just published a new victim : Mister Guns",
+      "link": "https://www.ransomware.live/id/TWlzdGVyIEd1bnNAc2VjdXJvdHJvcA==",
+      "summary": "Status: AWAITING Size: 290 GB",
+      "pubDate": "Sat, 22 Nov 2025 03:10:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/securotrop?537987d5b7eb15a95301512fe392c3b7",
+      "group": "Securotrop",
+      "victim": "Mister Guns",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Woom GmbH",
+      "link": "https://www.ransomware.live/id/V29vbSBHbWJIQGluY3JhbnNvbQ==",
+      "summary": "woom is an international manufacturer of bikes for children and teenagers with its headquarters in Klosterneuburg, outside of Vienna. The company was founded in 2013 by Christian Bezdeka and Marcus Ihlenfeld in a garage in Vienna. After a long and fruitless search for the perfect bike for their children, the two bike-loving fathers decided to take matters into their own hands and design a bike themselves: zooming in on a low weight, timeless designs, high-quality components, and child-specific geometry.  In just a few years woom went from little-known brand to market leader, with woom bikes now being sold in 30 countries around the world, including Austria, Germany and Switzerland, the US and Asia.",
+      "pubDate": "Sat, 22 Nov 2025 02:44:20 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/incransom?54a591633397bcac42e1faf680ebc58c",
+      "group": "Incransom",
+      "victim": "Woom GmbH",
+      "country": "AT"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : TBTEAM",
+      "link": "https://www.ransomware.live/id/VEJURUFNQGluY3JhbnNvbQ==",
+      "summary": "OnSolve is a leading critical event management provider that proactively mitigates physical threats, allowing organizations to remain agile when a crisis strikes. Using the most trusted expertise and reliable AI-powered risk intelligence, critical communications and incident management technology, the OnSolve Platform enables enterprises, SMB organizations and all levels of government to detect, anticipate and mitigate physical threats that impact their people, places and property.",
+      "pubDate": "Sat, 22 Nov 2025 01:48:54 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?b69130be02b4577c61949c3a8fb11272",
+      "group": "Incransom",
+      "victim": "TBTEAM",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Sansala",
       "link": "https://www.ransomware.live/id/U2Fuc2FsYUB0aGVnZW50bGVtZW4=",
@@ -2168,39 +2201,6 @@
       "group": "Nova",
       "victim": "Stark Shipping",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : ANG BROTHERS (M&E) PTE. LTD. (P1)",
-      "link": "https://www.ransomware.live/id/QU5HIEJST1RIRVJTIChNJkUpIFBURS4gTFRELiAoUDEpQG5vdmE=",
-      "summary": "ANG BROTHERS (M&amp;E) PTE. LTD. (the \"Company\") is a Exempt Private Company Limited by Shares, incorporated on 22 July 2002 (Monday) in Singapore . The address of the Company&#x27;s registered office is in the SHUN LI INDUSTRIAL PARK estate. The Company current operating status is live and has been operating for 23 years. This Company&#x27;s principal activity is plumbing, heating (non-electric) and air-conditioning with steam and air-conditioning supply as the secondary activity --- we have 3TB of data unziped, 1.05TB ziped, millions of documents and files, the data will be leaked in 15 parts, every part will have 250GB leaked and 10 days, company will contact us by guide we provide in network to recover encrypted files and restore systems, we will provide 1GB as sample, the data is really have everything sensitive you can imagine and lot of things, company profile : https://www.sgpbusiness.com/company/Ang-Brothers-Me-Pte-Ltd",
-      "pubDate": "Sat, 15 Nov 2025 15:36:16 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/nova?b6d31cd86493f68506b7223731e6711c",
-      "group": "Nova",
-      "victim": "ANG BROTHERS (M&E) PTE. LTD. (P1)",
-      "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : SWISS ROSE Factory",
-      "link": "https://www.ransomware.live/id/U1dJU1MgUk9TRSBGYWN0b3J5QG5vdmE=",
-      "summary": "Swiss Rose is a prominent company in the Iraqi market, recognized for its O2 brand, which focuses on various care products. Their offerings include home care, fabric care, surface care, and personal care categories. The company aims to provide quality cleaning solutions and personal care items to a diverse clientele. Established in 2019, Swiss Rose continues to expand its product range to meet consumer needs --- https://www.zoominfo.com/c/swiss-rose-factory/481426718 --- sample provided",
-      "pubDate": "Sat, 15 Nov 2025 15:35:24 +0000",
-      "category": "IR",
-      "guid": "https://www.ransomware.live/group/nova?d8936cc252c1fad97bb7325271082b67",
-      "group": "Nova",
-      "victim": "SWISS ROSE Factory",
-      "country": "IR"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Medidores Industriales y Medicos SA de CV",
-      "link": "https://www.ransomware.live/id/TWVkaWRvcmVzIEluZHVzdHJpYWxlcyB5IE1lZGljb3MgU0EgZGUgQ1ZAbm92YQ==",
-      "summary": "MYIMSA specializes in industrial and medical instrumentation, particularly in the field of nuclear medicine. The company offers advanced technology and highly trained experts to ensure precise results for sample processing. Their product range includes hemoglobin analyzers, urine analyzers, and calibration services tailored to client needs. Committed to quality and precision, MYIMSA serves clients in both industrial and medical sectors",
-      "pubDate": "Sat, 15 Nov 2025 15:34:31 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/nova?5b5d6c319ad7d9aff1b231b53bf22db5",
-      "group": "Nova",
-      "victim": "Medidores Industriales y Medicos SA de CV",
-      "country": "MX"
     }
   ]
 }
