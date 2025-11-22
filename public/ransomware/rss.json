@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-22T13:17:34.945Z",
+  "updatedAt": "2025-11-22T14:09:48.928Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Mmlk",
+      "link": "https://www.ransomware.live/id/TW1sa0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 22 Nov 2025 13:24:49 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?2b22c17f0b676477c28b9b2b10f5e42f",
+      "group": "Qilin",
+      "victim": "Mmlk",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : 10 corpses",
+      "link": "https://www.ransomware.live/id/MTAgY29ycHNlc0BoYW5kYWxh",
+      "summary": "Today, Saturday, Handala RedWanted tears the mask off the Zionist regime’s aerospace elite. We are lifting the veil of secrecy from 10 senior operatives, exposing those who believed their crimes could remain hidden in the darkness. Your names are no longer whispers, we shout them into the world. This is not just an announcement. It…",
+      "pubDate": "Sat, 22 Nov 2025 12:53:26 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?eb84004275ded4f00dd25033db7386c5",
+      "group": "Handala",
+      "victim": "10 corpses",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : C&M Software",
+      "link": "https://www.ransomware.live/id/QyZNIFNvZnR3YXJlQGRyYWdvbmZvcmNl",
+      "summary": "C&amp;M Software is a leading technology company specializing in solutions for the financial market. Their offerings include automated processes, secure payment integrations, and payment solutions tailored for both immediate and installment transactions. The intended clients range from financial institutions to retail and corporate sectors, aiming to enhance efficiency and risk management within their financial operations. With a commitment to innovation, C&amp;M Software is recognized for providing robust and flexible technology services that streamline payment processes and improve business intelligence.",
+      "pubDate": "Sat, 22 Nov 2025 12:50:59 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/dragonforce?6a8f3ca02b79d1614b3e5ad9d39680a5",
+      "group": "Dragonforce",
+      "victim": "C&M Software",
+      "country": "BR"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : onsolve.com",
       "link": "https://www.ransomware.live/id/b25zb2x2ZS5jb21AaW5jcmFuc29t",
@@ -2168,39 +2201,6 @@
       "group": "Brotherhood",
       "victim": "Horst Realty",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Brotherhood has just published a new victim : Spoleta Construction",
-      "link": "https://www.ransomware.live/id/U3BvbGV0YSBDb25zdHJ1Y3Rpb25AYnJvdGhlcmhvb2Q=",
-      "summary": "Contains: 4 Gb compressed Free Files + 33 Gb compressed Paid Files, Database",
-      "pubDate": "Sat, 15 Nov 2025 15:51:29 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/brotherhood?452c13616de403723a38bb732801a240",
-      "group": "Brotherhood",
-      "victim": "Spoleta Construction",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Brotherhood has just published a new victim : Cera Stribley",
-      "link": "https://www.ransomware.live/id/Q2VyYSBTdHJpYmxleUBicm90aGVyaG9vZA==",
-      "summary": "Contains: 2 Gb compressed Free Files + 138 Gb compressed Paid Files",
-      "pubDate": "Sat, 15 Nov 2025 15:51:06 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/brotherhood?acf94539c9c0c7b4c0687cd140cd6f46",
-      "group": "Brotherhood",
-      "victim": "Cera Stribley",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Brotherhood has just published a new victim : Kaener Personal",
-      "link": "https://www.ransomware.live/id/S2FlbmVyIFBlcnNvbmFsQGJyb3RoZXJob29k",
-      "summary": "Contains: 139 Gb compressed Paid Files",
-      "pubDate": "Sat, 15 Nov 2025 15:50:41 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/brotherhood?ab85b66eaa4fe2c273c538d9884842db",
-      "group": "Brotherhood",
-      "victim": "Kaener Personal",
-      "country": "CH"
     }
   ]
 }
