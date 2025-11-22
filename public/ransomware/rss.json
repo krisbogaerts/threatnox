@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-22T15:10:04.233Z",
+  "updatedAt": "2025-11-22T16:12:56.919Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : St. Joseph's Healthcare Hamilton",
+      "link": "https://www.ransomware.live/id/U3QuIEpvc2VwaCdzIEhlYWx0aGNhcmUgSGFtaWx0b25Acmh5c2lkYQ==",
+      "summary": "St. Joseph&#x27;s Healthcare Hamilton",
+      "pubDate": "Sat, 22 Nov 2025 15:14:50 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/rhysida?165ee334937f885c36c8a887ef637259",
+      "group": "Rhysida",
+      "victim": "St. Joseph's Healthcare Hamilton",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : vanteceurope.com",
       "link": "https://www.ransomware.live/id/dmFudGVjZXVyb3BlLmNvbUBseW54",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "SES Société Energies Services",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : FREEDL GROUP s.r.l.",
-      "link": "https://www.ransomware.live/id/RlJFRURMIEdST1VQIHMuci5sLkBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sat, 15 Nov 2025 18:27:28 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/qilin?2a327f9abd085a2c37f99d85cc5d6d38",
-      "group": "Qilin",
-      "victim": "FREEDL GROUP s.r.l.",
-      "country": "IT"
     }
   ]
 }
