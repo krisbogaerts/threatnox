@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-22T14:09:48.928Z",
+  "updatedAt": "2025-11-22T15:10:04.233Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : vanteceurope.com",
+      "link": "https://www.ransomware.live/id/dmFudGVjZXVyb3BlLmNvbUBseW54",
+      "summary": "This page is Group Mission. VANTEC, leading company of Auto Parts Logistics, provides high quality Supply Chain Solutions globally based on our over 60 years logistics expertise.",
+      "pubDate": "Sat, 22 Nov 2025 14:10:53 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/lynx?477898e979f5590be47bb1b043f3e9a1",
+      "group": "Lynx",
+      "victim": "vanteceurope.com",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Mmlk",
       "link": "https://www.ransomware.live/id/TW1sa0BxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "FREEDL GROUP s.r.l.",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Brotherhood has just published a new victim : Horst Realty",
-      "link": "https://www.ransomware.live/id/SG9yc3QgUmVhbHR5QGJyb3RoZXJob29k",
-      "summary": "Contains: 27 Gb compressed Files, Emails",
-      "pubDate": "Sat, 15 Nov 2025 15:51:53 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/brotherhood?0c66550018ae2dde349da1799de08a5e",
-      "group": "Brotherhood",
-      "victim": "Horst Realty",
-      "country": ""
     }
   ]
 }
