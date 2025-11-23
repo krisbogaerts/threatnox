@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-23T14:10:00.038Z",
+  "updatedAt": "2025-11-23T15:10:15.068Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Beast has just published a new victim : Outback Pharmacies",
+      "link": "https://www.ransomware.live/id/T3V0YmFjayBQaGFybWFjaWVzQGJlYXN0",
+      "summary": "Outback Pharmacies operates five locations in Broken Hill, providing a wide range of health services including prescriptions, sleep apnoea management, vaccinations, and weekly medicine packing. With over 30 years of experience, they focus on enhancing the health and wellbeing of the local community through partnerships with health organizations and investment in staff training. Their services cater to individuals seeking reliable pharmaceutical care and convenient medication management solutions. Outback Pharmacies is committed to delivering exceptional service and expert advice to their clients",
+      "pubDate": "Sun, 23 Nov 2025 14:40:46 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/beast?853b1fc1852eb0fc0cf3f2dae57b8d2e",
+      "group": "Beast",
+      "victim": "Outback Pharmacies",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Nissan Capital",
       "link": "https://www.ransomware.live/id/Tmlzc2FuIENhcGl0YWxAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "ARH Associates",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Svenska kraftnät Database on sale for $2 Million",
-      "link": "https://www.ransomware.live/id/U3ZlbnNrYSBrcmFmdG7DpHQgRGF0YWJhc2Ugb24gc2FsZSBmb3IgJDIgTWlsbGlvbkBldmVyZXN0",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Mon, 17 Nov 2025 14:16:30 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/everest?66afe16d135f4656e223512be33a98b6",
-      "group": "Everest",
-      "victim": "Svenska kraftnät Database on sale for $2 Million",
-      "country": "SE"
     }
   ]
 }
