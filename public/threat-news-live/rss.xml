@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cyber Security News</title><link>https://news.securehub.cc</link><description>Liveboat RSS Feed</description><item><title>Hitchhiker&apos;s Guide to Attack Surface Management</title><link>https://devansh.bearblog.dev/attack-surface-management/</link><author>/u/alt69785</author><category>netsec</category><pubDate>Sun, 23 Nov 2025 03:12:55 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>WhatsApp API flaw let researchers scrape 3.5 billion accounts</title><link>https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/</link><author>Lawrence Abrams</author><category>security</category><pubDate>Sat, 22 Nov 2025 18:53:21 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Researchers compiled a list of 3.5 billion WhatsApp mobile phone numbers and associated personal information by abusing a contact-discovery API that lacked rate limiting. [...]]]></content:encoded></item><item><title>Show HN: Forty.News – Daily news, but on a 40-year delay</title><link>https://forty.news/</link><author>foxbarrington</author><category>dev</category><pubDate>Sat, 22 Nov 2025 18:47:08 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>China reaches energy milestone by &quot;breeding&quot; uranium from thorium</title><link>https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium</link><author>surprisetalk</author><category>dev</category><pubDate>Sat, 22 Nov 2025 17:49:27 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[An  developed in the Gobi Desert by the Chinese Academy of Sciences’ Shanghai Institute of Applied Physics has achieved thorium-to-uranium fuel conversion, paving the way for an almost endless supply of nuclear energy.The achievement makes the 2 megawatt liquid-fuelled thorium-based molten salt reactor (TMSR) the only operating example of the technology in the world to have successfully loaded and used thorium fuel.According to the academy, the experiment has provided initial proof of the technical feasibility of using thorium resources in molten salt reactor systems and represents a major leap forward for the technology.It is the first time in the world that scientists have been able to acquire experimental data on thorium operations from inside a molten salt reactor, according to a report by Science and Technology Daily.The article, published on Saturday, was China’s first official confirmation of its success in the development of TMSR technology, an innovation that is poised to reshape the future of clean sustainable nuclear energy.Trump orders US military to resume nuclear weapons tests for first time in 33 yearsTrump orders US military to resume nuclear weapons tests for first time in 33 yearsLi Qingnuan, Communist Party secretary and deputy director at the Shanghai Institute of Applied Physics, told the newspaper that “since achieving first criticality on October 11, 2023, the thorium molten salt reactor has been steadily generating heat through nuclear fission”.]]></content:encoded></item><item><title>The privacy nightmare of browser fingerprinting</title><link>https://kevinboone.me/fingerprinting.html</link><author>ingve</author><category>dev</category><pubDate>Sat, 22 Nov 2025 17:08:36 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[I imagine that most people who take an interest in de-Googling are
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cyber Security News</title><link>https://news.securehub.cc</link><description>Liveboat RSS Feed</description><item><title>Hitchhiker&apos;s Guide to Attack Surface Management</title><link>https://devansh.bearblog.dev/attack-surface-management/</link><author>/u/alt69785</author><category>netsec</category><pubDate>Sun, 23 Nov 2025 03:12:55 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>WorldGen – Text to Immersive 3D Worlds</title><link>https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/</link><author>smusamashah</author><category>dev</category><pubDate>Sat, 22 Nov 2025 21:20:24 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Get Facebook on Your PhoneStay connected anytime, anywhere.]]></content:encoded></item><item><title>The Mozilla Cycle, Part III: Mozilla Dies in Ignominy</title><link>https://taggart-tech.com/mozilla-cycle-pt3/</link><author>holysoles</author><category>dev</category><pubDate>Sat, 22 Nov 2025 20:21:56 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[I owe Mozilla a thank-you. Really, I do. Maybe an Edible Arrangement? People like those. Some lil pineapples cut into stars on sticks and chocolate strawberries might brighten their day. For the note, I'm thinking something like:Thank you for proving me exactly right.Eight months ago, in the fallout of Mozilla's fumbling of a Privacy Policy update, I wrote:Mozilla is pursuing its primary objective, which is the survival of Mozilla. Its mission statement is more than broad enough to accommodate that, and Firefox is not a real priority. The community should accept that and stop waiting for Mozilla to be the hero they deserve.Regrettably, I was unable to take my own advice on the last part. So here we are yet again, marveling at Mozilla's dedication toward eroding decades of goodwill in the community they purportedly serve. To quote one of my sacred texts, it's a focus and intensity normally seen only in successes.Back in the present, we have Mozilla thing down on this direction. First, with their announcement of "AI Window," a new feature (used very loosely) coming to Firefox which seems to emulate the user experience offered by AI browsers like Perplexity's Comet or OpenAI's Atlas. In other words, instead of performing search from the address bar and interacting with websites like browsers have done since they were invented, your first interaction will be with a language model prompt, which then mediates your experience of the web.The response from the Firefox community has not just been overwhelmingly negative, it is  negative as far as I can tell. At least among users willing to post on Mozilla's forums about the issue, which is absolutely a biased sample set. I have received some comments separately in support of Firefox, but they are countable and the vast, vast minority. Mozilla's core audience hates this move. At the very least, they would want all the AI components of Firefox to be opt-in, a choice that Firefox has been unwilling to make so far, instead enabling these new features by default.What does Mozilla do? Temper the plan? Ease up on the forced features?Nah, they do what any good corporate PR person would tell you to do when facing public backlash: post through it.This post is a summary of Mozilla's new Strategic Plan, which is viewable in full here. I read it through a few times, and my brain nearly ripped in half from the cognitive dissonance involved. But I think it's worth examining Mozilla's claims carefully. They are:AI (by which they mean generative AI) is a transformative technology that will fundamentally alter how we interact with machines and the web.The current landscape is dangerous and controlled by big tech and "closed source" models.Mozilla should therefore pivot to develop and support "open source" AI implementations the same way they advocated for open web standards.The strategy details the "what" and "how" of Mozilla's transformation in this direction. We're going to touch on some of those points, but let's begin with these big claims, affording Mozilla maximum benefit of the doubt.Is generative AI a transformative technology? The Corpos sure seem to want it to be, although its actual usage seems mostly to be chatbot-related. All other attempts to use this trick in other realms have failed rather miserably. Microsoft, for example, wants you to talk to your computer instead of using a mouse and keyboard . The results, unfortunately, are much worse than the Jurassic version of computer interaction. The pattern holds true across the board. Google's AI Overview continues to be an inferior provider of information than solid web search results. Also, as it turns out, people learn less from LLM output.Generative AI is transforming something, but I don't think it's the web, and I don't think it's for the better.Which means their second claim is definitely true! The current landscape  dangerous, as I've been decrying for years.But because Mozilla is convinced that generative AI is a force for good (with no evidence to back that claim up), they conclude that their mission must be to create "open source" alternatives to commercial ("big tech") offerings.If you truly believe generative AI is a net good but with potential for significant harm, there are arguments to be made for ethical implementations. This same instinct is what propelled researchers from OpenAI to split and found Anthropic.This, however, is an article of faith. It cannot be argued rationally because no empirical evidence exists to support it. The entirety of the belief is predicated on future potential—and it always will be, right up until the harms are so inescapably clear that even the most ardent of believers suffer because of them. Even then, not all of the Flock will lose faith. And as we now see, Mozilla leadership are not just the Flock, but Disciples.Mozilla has had a conversion experience, while its core audience has not. This results in a schism of purpose.Digging into the plan itself, Mozilla's ambitions are remarkable. Mozilla has, as the plan notes, always measured itself against a "double bottom line" of mission and market success. However, it seems these two criteria are now separately defined by: "a. AI that advances the Manifesto; and b. diversifying revenue away from search."Their specific goals include:All Mozilla orgs have a flagship AI product by 202810% year-over-year community growth20% year-over-year growth in non-search revenue3 Mozilla orgs have more than $25M in revenue (currently: 1)10% year-over-year investment portfolio returnsI am dumbfounded by these goals. I can't even be snarky about them. They seem so disconnected from reality that I can't imagine how a Board arrived at them.Let's go through them one at a time.What "orgs" are we talking about here? Historically there have been two Mozilla organizations: the Mozilla Foundation, which is the not-for-profit to which you donate to preserve the open web); and the Mozilla Corporation, which develops Firefox, makes deals with search engines, and creates other revenue-generating projects like, uh, Pocket.There now exist three other for-profit subsidiaries of the Foundation, although these are not mentioned in the official listings. The first is MZLA Technologies Corporation, which is responsible for Thunderbird. I can't tell what else they do, if anything.Another is Mozilla.ai, which has a much clearer purpose. This company produces AI products and services. So of these organizations, 3 of them need to have flagship AI products by 2028. What could that  look like?There is also Mozilla Ventures, which is literally just a venture capital firm throwing money at AI projects that align with Mozilla's Manifesto.Mozilla.ai has the easiest and clearest road, as their Agent Platformis already in early access and is absolutely a commercial product. MZLA has...Thunderbird? So AI-powered Thunderbird? That's what I can figure, although Thunderbird is not exactly known as an AI platform. Their new paid Thunderbird Pro service currently makes no mention of AI integration. That's a headscratcher. Mozilla VenturesAnd finally, we have the Corporation and Firefox.Let's be as clear as we can possibly be. , and Firefox will be a flagship AI product according to this strategic plan. This is the focus for Mozilla, which means users of Firefox will only get more and more AI shoved down their throat, and likely fewer ways to avoid it.I don't have access to Mozilla's "community" numbers, however they choose to define them. But if the reaction to recent changes is any indication, expecting growth of any kind isn't just optimistic, it's delusional. They are betraying the principles of their core use base in favor of their new god. That behavior is usually not rewarded by users or customers.While I don't have access to community numbers, the Mozilla Foundation must disclose its financials, so that I can review—and you can too, if you're broken like me. I don't want to think about how much time I've spent reading Mozilla's 990s.Looking at their revenue change from 2022 to 2023, we see a  of 3% in royalties (search deals) and almost 15% in subscriptions and advertising. Let's also note that by these counts, royalties account for about 76% of Mozilla's annual revenue. That's by my own calculation on these disclosure, but Mozilla themselves cite 85% as share of revenue from search alone.2022's numbers show a similar drop (down 3% from 2021) in royalties, but a 25% (!!) jump in subscriptions and ad revenue. My guess is ads, since I don't think the VPN service is raking it in, nor do I think a bunch of people suddenly signed up for Pocket before it died. This would certainly explain why last year, Mozilla went hard on their "privacy-honoring" advertising acquisition.Zooming back out: the current business model is not delivering growth. So the pivot to AI is a bet that investment is out there for alternative sources of AI technology. It's also, tacitly, a bet that the AI bubble will last long enough to get competing products off the ground and attract investment before it's too late.As far as their investment portfolio's performance, Mozilla has changed their strategy significantly in the last 3 years, resulting in significant increases in dividend and realized gains in investments. What's the change in strategy?At the end of 2022, Mozilla changed our strategy for managing our financial reserves. In prior years we took a purely defensive approach, investing solely in highly liquid fixed-income securities. Our revised approach is focused on delivering a total return to Mozilla after inflation, while maintaining sufficient liquid reserves to weather economic pressures and seize growth opportunities.Translation: we invested more in stocks and less in bonds, T-notes, and CDs. What specifically they've invested in is unclear, but you can probably guess it rhymes with Blavidia. I'm sure they have a diversified portfolio, but  you believe (as I do) that the market is heading for a massive correction, this goal is unattainable and a dangerous target for a strategic plan.Lastly, on revenue. Mozilla plainly  to diversify away from search, because search is dying. Google itself is trying to kill it, in favor of AI. If this succeeds, Firefox's primary revenue stream is drying up, and they know it. More than anything else, this is the reason for the pivot. As I've said before, the will to survive takes precedence over principle when choosing a path forward for any organization, even a not-for-profit with a stated mission.These goals are not so much reasonable expectations as existential mandates. Either Mozilla approaches these targets in 3 years, or they may be staring death in the face.This strategy hinges on three stated hypotheses from Mozilla:A generational shift in human computer interaction is widening the gap between Mozilla’s products and trustworthy, user-centered experiences.A vibrant, successful and decentralized open source AI ecosystem is essential if we want independent tech players to thrive — and for innovation to come from everywhere.The growing need for sovereign, public interest AI which will only be met by governments and public interest tech players pooling resources and banding together.That's...okay. We'll take it from the top.Would you say generative AI is a "generational shift in human computer interaction?" The Corpos want it to be, but so far this hasn't taken place. Declaring it thus is the wish becoming the father of the thought. Maybe someday a functional language model will govern our interaction with computing machines, but that is nowhere near the case now, and the fundamental flaws in the technology preclude it from being so in the foreseeable future.Would you say generative AI is "trustworthy" or "user-centered?" The people who implicitly trust generative AI are suffering from psychosis. It's a pathology. The model creators themselves tell you not to trust them! What are we doing here?Y'know what is trustworthy? A goddamned URL bar that takes me to the website I want to go to. A search engine that shows me sources, ideally curated for quality.Okay so hypothesis 1 doesn't pass the sniff test. On to number 2.Can someone please explain to me what the hell "open source AI" is? Mozilla's helpful Strategy Wiki lists Mozilla's own products and investments under this category. Remember that for LLMs, you have two major "source" components: the dataset on which a model was trained, and the resulting vectors/weights file that comprises the model. Among them is HuggingFace, which is probably best understood as GitHub for AI. HuggingFace hosts both models and datasets used in ML/AI applications. It's about as close to open source AI as I can imagine.But let's be clear about Mozilla's value proposition of the "transformative" generative AI. These are not small models we're talking about; these are large language models that were trained on massive corpora of text. Those corpora are the "source." We know that the training data for frontier models comes from copyrighted material and material scraped without consent. We also know that code generated from scraped sources may well violate the licenses of that source code in reproduction.In other words, there can never be an open source large language model when the sources are themselves violate of content usage agreements. For all the talk about "ethical" AI, Mozilla fails to address this original sin of the technology.I'm sorry, I should say "nearly fails." In the "Threats" section of their SWOT analysis of their own strategy, they identify "Open models disappear" as a threat:Big tech / China stop releasing open models. No public open source frontier models emerge. Mozilla’s strategy is obsolete / outflanked.Okay so by "open source AI" you actually mean Qwen/Deepseek/Llama. Cool. Cool cool cool. These are open weight , so the premise of open data goes out the window. And this threat gives away the fact that Mozilla can only succeed on the backs of frontier models. There is no real plan to "democratize" LLMs, nor can there be for the scale required.This entire exercise is a farce. Yet again, Mozilla pursues a parasitical relationship with the corpos. It worked last time, right??Hypothesis 3: the growing need for "sovereign" AI. We've already established that there is no large language model possible without corpo scale and investment, except perhaps with government support. So is that what Mozilla wants? State-sponsored LLMs? This hypothesis points in that direction, with Mozilla as the "public interest tech player" catching a percentage somewhere in the middle. Being a government intermediary is also probably not a safe position for anyone at this juncture, much less a tech company.But also, what "need" are we talking about here? Why is there a need for any of this at all?Again we encounter the fundamental schism of purpose between Mozilla trying to survive, and the mission its core audience believes in. You could imagine a Mozilla that decided, "Actually, the web was better without this dreck in it, and the experience of the web is not improved by moving users closer to it." You could imagine an organization that doubled down on true privacy, and a human-centered web. We'll never know what kind of funding streams such an organization could build, because Mozilla has chosen the machines over people. They have chosen quick revenue over long-term sustainability.It's finally time you and I take the advice I offered before: let Mozilla die. It no longer serves its stated purpose.]]></content:encoded></item><item><title>WhatsApp API flaw let researchers scrape 3.5 billion accounts</title><link>https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/</link><author>Lawrence Abrams</author><category>security</category><pubDate>Sat, 22 Nov 2025 18:53:21 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Researchers compiled a list of 3.5 billion WhatsApp mobile phone numbers and associated personal information by abusing a contact-discovery API that lacked rate limiting. [...]]]></content:encoded></item><item><title>Show HN: Forty.News – Daily news, but on a 40-year delay</title><link>https://forty.news/</link><author>foxbarrington</author><category>dev</category><pubDate>Sat, 22 Nov 2025 18:47:08 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>China reaches energy milestone by &quot;breeding&quot; uranium from thorium</title><link>https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium</link><author>surprisetalk</author><category>dev</category><pubDate>Sat, 22 Nov 2025 17:49:27 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[An  developed in the Gobi Desert by the Chinese Academy of Sciences’ Shanghai Institute of Applied Physics has achieved thorium-to-uranium fuel conversion, paving the way for an almost endless supply of nuclear energy.The achievement makes the 2 megawatt liquid-fuelled thorium-based molten salt reactor (TMSR) the only operating example of the technology in the world to have successfully loaded and used thorium fuel.According to the academy, the experiment has provided initial proof of the technical feasibility of using thorium resources in molten salt reactor systems and represents a major leap forward for the technology.It is the first time in the world that scientists have been able to acquire experimental data on thorium operations from inside a molten salt reactor, according to a report by Science and Technology Daily.The article, published on Saturday, was China’s first official confirmation of its success in the development of TMSR technology, an innovation that is poised to reshape the future of clean sustainable nuclear energy.Trump orders US military to resume nuclear weapons tests for first time in 33 yearsTrump orders US military to resume nuclear weapons tests for first time in 33 yearsLi Qingnuan, Communist Party secretary and deputy director at the Shanghai Institute of Applied Physics, told the newspaper that “since achieving first criticality on October 11, 2023, the thorium molten salt reactor has been steadily generating heat through nuclear fission”.]]></content:encoded></item><item><title>The privacy nightmare of browser fingerprinting</title><link>https://kevinboone.me/fingerprinting.html</link><author>ingve</author><category>dev</category><pubDate>Sat, 22 Nov 2025 17:08:36 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[I imagine that most people who take an interest in de-Googling are
 concerned about privacy. Privacy on the Internet is a somewhat nebulous
 concept, but one aspect of privacy is surely the prevention of your web
 browsing behaviour being propagated from one organization to another. I
@@ -1078,7 +1078,538 @@ Follow me on TWTR: https://twitter.com/seytonic
 Follow me on INSTA: https://www.instagram.com/jhonti/
 ===============================================]]></content:encoded></item><item><title>AI teddy bear for kids responds with sexual content and advice about weapons</title><link>https://www.malwarebytes.com/blog/news/2025/11/ai-teddy-bear-for-kids-responds-with-sexual-content-and-advice-about-weapons</link><author></author><category>threatintel</category><pubDate>Fri, 21 Nov 2025 18:45:32 +0000</pubDate><source url="https://www.malwarebytes.com/">Malwarebytes Labs</source><content:encoded><![CDATA[In testing, FoloToy’s AI teddy bear jumped from friendly chat to sexual topics and unsafe household advice. It shows how easily artificial intelligence can cross serious boundaries. It’s a fair moment to ask whether AI-powered stuffed animals are appropriate for children.  It’s easy to get swept up in the excitement of artificial intelligence, especially when it’s packaged as a plush teddy bear promising “warmth, fun, and a little extra curiosity.” FoloToy, a Singapore-based toy company, marketed the $99 bear as the ultimate “friend for both kids and adults,” leveraging powerful conversational AI to deliver interactive stories and playful banter. The website described Kumma as intelligent and safe. Behind the scenes, the bear used OpenAI’s language model to generate its conversational responses. Unfortunately, reality didn’t match the sales pitch.According to a report from the US PIRG Education Fund, Kumma quickly veered into wildly inappropriate territory during researcher tests. Conversations escalated from innocent to sexual within minutes. The bear didn’t just respond to explicit prompts, which would have been more or less understandable. Researchers said it introduced graphic sexual concepts on its own, including BDSM-related topics, explained “knots for beginners,” and referenced roleplay scenarios involving children and adults.  In some conversations, Kumma also probed for personal details or offered advice involving dangerous objects in the home.It’s unclear whether the toy’s supposed safeguards against inappropriate content were missing or simply didn’t work. While children are unlikely to introduce BDSM as a topic to their teddy bear, the researchers warned just how low the bar was for Kumma to cross serious boundaries.The fallout was swift. FoloToy suspended sales of Kumma and other AI-enabled toys, while OpenAI revoked the developer’s access for policy violations. But as PIRG researchers note, that response was reactive. Plenty of AI toys remain unregulated, and the risks aren’t limited to one product.Which proves our point: AI does not automatically make something better. When companies rush out “smart” features without real safety checks, the risks fall on the people using them—especially children, who can’t recognize dangerous content when they see it.Tips for staying safe with AI toys and gadgetsYou’ll see “AI-powered” on almost everything right now, but there are ways to make safer choices. Check for third-party safety reviews before buying any AI-enabled product marketed for kids.Test first, supervise always: Interact with the device yourself before giving it to children. Monitor usage for odd or risky responses. If available, enable all content filters and privacy protections. If devices show inappropriate content, report to manufacturers and consumer protection groups. Find out what the device collects, who it shares data with, and what it uses the information for. But above all, remember that not all “smart” is safe. Sometimes, plush, simple, and old-fashioned really is better.AI may be everywhere, but designers and buyers alike need to put safety, privacy, and common sense ahead of the technological wow-factor.We don’t just report on data privacy—we help you remove your personal informationCybersecurity risks should never spread beyond a headline. With Malwarebytes Personal Data Remover, you can scan to find out which sites are exposing your personal information, and then delete that sensitive data from the internet.]]></content:encoded></item><item><title>North Korean Kimsuky and Lazarus Join Forces to Exploit Zero-Day Vulnerabilities Targeting Critical Sectors Worldwide</title><link>https://cybersecuritynews.com/north-korean-kimsuky-and-lazarus-join-forces/</link><author></author><category>security</category><pubDate>Fri, 21 Nov 2025 18:09:22 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[North Korean Kimsuky and Lazarus Join Forces to Exploit Zero-Day Vulnerabilities Targeting Critical Sectors Worldwide
             Two of North Korea’s most dangerous hacking groups have joined forces to launch a coordinated attack campaign that threatens organizations worldwide.
-The Kimsuky and Lazarus groups are working togethe ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop</title><link>https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 21 Nov 2025 18:02:05 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windows 11 systems repeatedly. [...]]]></content:encoded></item><item><title>Grafana warns of max severity admin spoofing vulnerability</title><link>https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/</link><author>Bill Toulas</author><category>security</category><pubDate>Fri, 21 Nov 2025 17:58:32 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Grafana Labs is warning of a maximum severity vulnerability (CVE-2025-41115) in its Enterprise product that can be exploited to treat new users as administrators or for privilege escalation. [...]]]></content:encoded></item><item><title>CrowdStrike catches insider feeding information to ScatteredLapsus$Hunters</title><link>https://databreaches.net/2025/11/21/crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters/?pk_campaign=feed&amp;pk_kwd=crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 21 Nov 2025 17:44:01 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Helping Valve to power up Steam devices</title><link>https://www.igalia.com/2025/11/helpingvalve.html</link><author>TingPing</author><category>dev</category><pubDate>Fri, 21 Nov 2025 17:29:59 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Last week, Valve stunned the computer gaming world by unveiling three new gaming devices at once: the Steam Frame, a wireless VR headset; the Steam Machine, a gaming console in the vein of a PlayStation or Xbox; and the Steam Controller, a handheld game controller.  Successors to the highly successful Valve Index and Steam Deck, these devices are set to be released in the coming year.Igalia has long worked with Valve on SteamOS, which will power the Machine and Frame, and is excited to be contributing to these new devices, particularly the Frame.  The Frame, unlike the Machine or Deck which have x86 CPUs, runs on an ARM-based CPU.Under normal circumstances, this would mean that only games compiled to run on ARM chips could be played on the Frame.  In order to get around this barrier, a translation layer called FEX is used to run applications compiled for x86 chips (which are used in nearly all gaming PCs) on ARM chips by translating the x86 machine code into ARM64 machine code.“If you love video games, like I do, working on FEX with Valve is a dream come true,” said Paulo Matos, an engineer with Igalia’s Compilers Team.  Even so, the challenges can be daunting, because making sure the translation is working often requires manual QA rather than automated testing.  “You have to start a game, sometimes the error shows up in the colors or sound, or how the game behaves when you break down the door in the second level. Just debugging this can take a while,” said Matos.  “For optimization work I did early last year, I used a game called  to test it. I must have played the first 3 to 4 minutes of the game many, many times for debugging. Looking at my history, Steam tells me I played it for 29 hours, but it was always the first few minutes, nothing else.”Beyond the CPU, the Qualcomm Adreno 750 GPU used in the Steam Frame introduced its own set of challenges when it came to running desktop games, and other complex workloads, on these devices. Doing so requires a rock-solid Vulkan driver that can ensure correctness, eliminating major rendering bugs, while maintaining high performance.  This is a very difficult combination to achieve, and yet that’s exactly what we’ve done for Valve with Mesa3DTurnip, a FOSS Vulkan driver for Qualcomm Adreno GPUs.“We implemented many Vulkan extensions and reviewed numerous others,” said Danylo Piliaiev, an engineer on the Graphics Team. “Over the years, we ensured that D3D11, D3D12, and OpenGL games rendered correctly through DXVK, vkd3d-proton, and Zink, investigating many rendering issues along the way. We achieved higher correctness than the proprietary driver and, in many cases, Mesa3D Turnip is faster as well.”We’ve worked with many wonderful people from Valve, Google, and other companies to iterate on the Vulkan driver over the years in order to introduce new features, bug fixes, performance improvements, as well as debugging workflows. Some of those people decided to join Igalia later on, such as our colleague and Graphics Team developer Emma Anholt. “I’ve been working on Mesa for 22 years, and it’s great to have a home now where I can keep doing that work, across hardware projects, where the organization prioritizes the work experience of its developers and empowers them within the organization.”Valve’s support in all this cannot be understated, either.  Their choice to build their devices using open software like Mesa3D Turnip and FEX means they’re committed to working on and supporting improvements and optimizations that become available to anyone who uses the same open-source projects.“We’ve received a lot of positive feedback about significantly improved performance and fewer rendering glitches from hobbyists who use these projects to run PC games on Android phones as a result of our work,” said Dhruv Mark Collins, another Graphics Team engineer working on Turnip. “And it goes both ways! We’ve caught a couple of nasty bugs because of that widespread testing, which really emphasizes why the FOSS model is beneficial for everyone involved.”An interesting area of graphics driver development is all the compiler work that is involved. Vulkan drivers such as Mesa3D Turnip need to process shader programs sent by the application to the GPU, and these programs govern how pixels in our screens are shaded or colored with geometry, textures, and lights while playing games. Job Noorman, an engineer from our Compilers Team, made significant contributions to the compiler used by Mesa3D Turnip. He also contributed to the Mesa3D NIR shader compiler, a common part that all Mesa drivers use, including RADV (most popularly used on the Steam Deck) or V3DV (used on Raspberry Pi boards).As is normal for Igalia, while we focused on delivering results for our customer, we also made our work as widely useful as possible.  For example: “While our target throughout our work has been the Snapdragon 8 Gen 3 that’s in the Frame, much of our work extends back through years of Snapdragon hardware, and we regression test it to make sure it stays Vulkan conformant,” said Anholt.  This means that Igalia’s work for the Frame has consistently passed Vulkan’s Conformance Test Suite (CTS) of over 2.8 million tests, some of which Igalia is involved in creating.Igalia and other Valve contractors actively participate in several areas inside the Khronos Group, the organization maintaining and developing graphics API standards like Vulkan. We contribute specification fixes and feedback, and we are regularly involved in the development of many new Vulkan extensions. Some of these end up being critical for game developers, like mesh shading. Others ensure a smooth and efficient translation of other APIs like DirectX to Vulkan, or help take advantage of hardware features to ensure applications perform great across multiple platforms, both mobile like the Steam Frame or desktop like the Steam Machine. Having Vulkan CTS coverage for these new extensions is a critical step in the release process, helping make sure the specification is clear and drivers implement it correctly, and Igalia engineers have contributed millions of source code lines and tests since our collaboration with Valve started.A huge challenge we faced in moving forward with development is ensuring that we didn’t introduce regressions, small innocent-seeming changes can completely break rendering on games in a way that even CTS might not catch. What automated testing could be done was often quite constrained, but Igalians found ways to push through the barriers.  “I made a continuous integration test to automatically run single-frame captures of a wide range of games spanning D3D11, D3D9, D3D8, Vulkan, and OpenGL APIs,” said Piliaiev, about the development covered in his recent XDC 2025 talk, “ensuring that we don’t have rendering or performance regressions.”Looking ahead, Igalia’s work for Valve will continue to deliver benefits to the wider Linux Gaming ecosystem.  For example, the Steam Frame, as a battery-powered VR headset, needs to deliver high performance within a limited power budget.  A way to address this is to create a more efficient task scheduler, which is something Changwoo Min of Igalia’s Kernel Team has been working on.  As he says, “I have been developing a customized CPU scheduler for gaming, named LAVD: Latency-criticality Aware Virtual Deadline scheduler.”In general terms, a scheduler automatically identifies critical tasks and dynamically boosts their deadlines to improve responsiveness.  Most task schedulers don’t take energy consumption into account, but the Rust-based LAVD is different.  “LAVD makes scheduling decisions considering each chip’s performance versus energy trade-offs. It measures and predicts the required computing power on the fly, then selects the best set of CPUs to meet that demand with minimal energy consumption,” said Min.One of our other kernel engineers, Melissa Wen, has been working on AMD kernel display drivers to maintain good color management and HDR support for SteamOS across AMD hardware families, both for the Steam Deck and the Steam Machine. This is especially important with newer display hardware in the Steam Machine, which features some notable differences in color capabilities, aiming for more powerful and efficient color management which necessitated driver work.…and that’s a wrap! We will continue our efforts toward improving future versions of SteamOS, and with a partner as strongly supportive as Valve, we expect to do more work to make Linux gaming even better.  If any of that sounded interesting and you’d like to work with us to tackle tricky problems of your own, please get in touch!]]></content:encoded></item><item><title>Solving Fizz Buzz with Cosines</title><link>https://susam.net/fizz-buzz-with-cosines.html</link><author>hprotagonist</author><category>dev</category><pubDate>Fri, 21 Nov 2025 17:28:25 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>How Cops Are Using Flock&apos;s ALPR Network to Surveil Protesters and Activists</title><link>https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists</link><author>pseudalopex</author><category>dev</category><pubDate>Fri, 21 Nov 2025 17:20:51 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Law Enforcement Agencies that Ran Searches Corresponding with "No Kings" RalliesAnaheim Police Department, Calif.Arizona Department of Public SafetyBeaumont Police Department, TexasCharleston Police Department, SCFlagler County Sheriff's Office, Fla.Lisle Police Department, Ill.Little Rock Police Department, Ark.Marion Police Department, OhioMorristown Police Department, Tenn.Oro Valley Police Department, Ariz.Putnam County Sheriff's Office, Tenn.Richmond Police Department, Va.Riverside County Sheriff's Office, Calif.Salinas Police Department, Calif.San Bernardino County Sheriff's Office, Calif.Spartanburg Police Department, SCTempe Police Department, Ariz.Tulsa Police Department, Okla.]]></content:encoded></item><item><title>CrowdStrike catches insider feeding information to hackers</title><link>https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 21 Nov 2025 16:48:41 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[American cybersecurity firm CrowdStrike has confirmed that an insider shared screenshots taken on internal systems with hackers after they were leaked on Telegram by the Scattered Lapsus$ Hunters threat actors. [...]]]></content:encoded></item><item><title>You can make PS2 games in JavaScript</title><link>https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript</link><author>tosh</author><category>dev</category><pubDate>Fri, 21 Nov 2025 16:42:19 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker</title><link>https://wealthfolio.app/?v=2.0</link><author>a-fadil</author><category>dev</category><pubDate>Fri, 21 Nov 2025 16:34:52 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[See how your investments stack up, all in one place. Compare your accounts side by side, check if you are beating the S&P 500, and track your favorite ETFs without the hassle. No fancy jargon - just clear, useful charts that help you understand how your money is really doing.]]></content:encoded></item><item><title>Chinese Hackers Exploiting WSUS Remote Code Execution Vulnerability to Deploy ShadowPad Malware</title><link>https://cybersecuritynews.com/chinese-hackers-exploiting-wsus-remote-code-execution-vulnerability/</link><author></author><category>security</category><pubDate>Fri, 21 Nov 2025 16:15:27 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
+The Kimsuky and Lazarus groups are working togethe ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop</title><link>https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 21 Nov 2025 18:02:05 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Microsoft has released an out-of-band cumulative update to fix a known issue causing the November 2025 KB5068966 hotpatch update to reinstall on Windows 11 systems repeatedly. [...]]]></content:encoded></item><item><title>Grafana warns of max severity admin spoofing vulnerability</title><link>https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/</link><author>Bill Toulas</author><category>security</category><pubDate>Fri, 21 Nov 2025 17:58:32 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Grafana Labs is warning of a maximum severity vulnerability (CVE-2025-41115) in its Enterprise product that can be exploited to treat new users as administrators or for privilege escalation. [...]]]></content:encoded></item><item><title>CrowdStrike catches insider feeding information to ScatteredLapsus$Hunters</title><link>https://databreaches.net/2025/11/21/crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters/?pk_campaign=feed&amp;pk_kwd=crowdstrike-catches-insider-feeding-information-to-scatteredlapsushunters</link><author>Dissent</author><category>databreach</category><pubDate>Fri, 21 Nov 2025 17:44:01 +0000</pubDate><source url="https://databreaches.net/">Recent Data breaches</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Helping Valve to power up Steam devices</title><link>https://www.igalia.com/2025/11/helpingvalve.html</link><author>TingPing</author><category>dev</category><pubDate>Fri, 21 Nov 2025 17:29:59 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Last week, Valve stunned the computer gaming world by unveiling three new gaming devices at once: the Steam Frame, a wireless VR headset; the Steam Machine, a gaming console in the vein of a PlayStation or Xbox; and the Steam Controller, a handheld game controller.  Successors to the highly successful Valve Index and Steam Deck, these devices are set to be released in the coming year.Igalia has long worked with Valve on SteamOS, which will power the Machine and Frame, and is excited to be contributing to these new devices, particularly the Frame.  The Frame, unlike the Machine or Deck which have x86 CPUs, runs on an ARM-based CPU.Under normal circumstances, this would mean that only games compiled to run on ARM chips could be played on the Frame.  In order to get around this barrier, a translation layer called FEX is used to run applications compiled for x86 chips (which are used in nearly all gaming PCs) on ARM chips by translating the x86 machine code into ARM64 machine code.“If you love video games, like I do, working on FEX with Valve is a dream come true,” said Paulo Matos, an engineer with Igalia’s Compilers Team.  Even so, the challenges can be daunting, because making sure the translation is working often requires manual QA rather than automated testing.  “You have to start a game, sometimes the error shows up in the colors or sound, or how the game behaves when you break down the door in the second level. Just debugging this can take a while,” said Matos.  “For optimization work I did early last year, I used a game called  to test it. I must have played the first 3 to 4 minutes of the game many, many times for debugging. Looking at my history, Steam tells me I played it for 29 hours, but it was always the first few minutes, nothing else.”Beyond the CPU, the Qualcomm Adreno 750 GPU used in the Steam Frame introduced its own set of challenges when it came to running desktop games, and other complex workloads, on these devices. Doing so requires a rock-solid Vulkan driver that can ensure correctness, eliminating major rendering bugs, while maintaining high performance.  This is a very difficult combination to achieve, and yet that’s exactly what we’ve done for Valve with Mesa3DTurnip, a FOSS Vulkan driver for Qualcomm Adreno GPUs.“We implemented many Vulkan extensions and reviewed numerous others,” said Danylo Piliaiev, an engineer on the Graphics Team. “Over the years, we ensured that D3D11, D3D12, and OpenGL games rendered correctly through DXVK, vkd3d-proton, and Zink, investigating many rendering issues along the way. We achieved higher correctness than the proprietary driver and, in many cases, Mesa3D Turnip is faster as well.”We’ve worked with many wonderful people from Valve, Google, and other companies to iterate on the Vulkan driver over the years in order to introduce new features, bug fixes, performance improvements, as well as debugging workflows. Some of those people decided to join Igalia later on, such as our colleague and Graphics Team developer Emma Anholt. “I’ve been working on Mesa for 22 years, and it’s great to have a home now where I can keep doing that work, across hardware projects, where the organization prioritizes the work experience of its developers and empowers them within the organization.”Valve’s support in all this cannot be understated, either.  Their choice to build their devices using open software like Mesa3D Turnip and FEX means they’re committed to working on and supporting improvements and optimizations that become available to anyone who uses the same open-source projects.“We’ve received a lot of positive feedback about significantly improved performance and fewer rendering glitches from hobbyists who use these projects to run PC games on Android phones as a result of our work,” said Dhruv Mark Collins, another Graphics Team engineer working on Turnip. “And it goes both ways! We’ve caught a couple of nasty bugs because of that widespread testing, which really emphasizes why the FOSS model is beneficial for everyone involved.”An interesting area of graphics driver development is all the compiler work that is involved. Vulkan drivers such as Mesa3D Turnip need to process shader programs sent by the application to the GPU, and these programs govern how pixels in our screens are shaded or colored with geometry, textures, and lights while playing games. Job Noorman, an engineer from our Compilers Team, made significant contributions to the compiler used by Mesa3D Turnip. He also contributed to the Mesa3D NIR shader compiler, a common part that all Mesa drivers use, including RADV (most popularly used on the Steam Deck) or V3DV (used on Raspberry Pi boards).As is normal for Igalia, while we focused on delivering results for our customer, we also made our work as widely useful as possible.  For example: “While our target throughout our work has been the Snapdragon 8 Gen 3 that’s in the Frame, much of our work extends back through years of Snapdragon hardware, and we regression test it to make sure it stays Vulkan conformant,” said Anholt.  This means that Igalia’s work for the Frame has consistently passed Vulkan’s Conformance Test Suite (CTS) of over 2.8 million tests, some of which Igalia is involved in creating.Igalia and other Valve contractors actively participate in several areas inside the Khronos Group, the organization maintaining and developing graphics API standards like Vulkan. We contribute specification fixes and feedback, and we are regularly involved in the development of many new Vulkan extensions. Some of these end up being critical for game developers, like mesh shading. Others ensure a smooth and efficient translation of other APIs like DirectX to Vulkan, or help take advantage of hardware features to ensure applications perform great across multiple platforms, both mobile like the Steam Frame or desktop like the Steam Machine. Having Vulkan CTS coverage for these new extensions is a critical step in the release process, helping make sure the specification is clear and drivers implement it correctly, and Igalia engineers have contributed millions of source code lines and tests since our collaboration with Valve started.A huge challenge we faced in moving forward with development is ensuring that we didn’t introduce regressions, small innocent-seeming changes can completely break rendering on games in a way that even CTS might not catch. What automated testing could be done was often quite constrained, but Igalians found ways to push through the barriers.  “I made a continuous integration test to automatically run single-frame captures of a wide range of games spanning D3D11, D3D9, D3D8, Vulkan, and OpenGL APIs,” said Piliaiev, about the development covered in his recent XDC 2025 talk, “ensuring that we don’t have rendering or performance regressions.”Looking ahead, Igalia’s work for Valve will continue to deliver benefits to the wider Linux Gaming ecosystem.  For example, the Steam Frame, as a battery-powered VR headset, needs to deliver high performance within a limited power budget.  A way to address this is to create a more efficient task scheduler, which is something Changwoo Min of Igalia’s Kernel Team has been working on.  As he says, “I have been developing a customized CPU scheduler for gaming, named LAVD: Latency-criticality Aware Virtual Deadline scheduler.”In general terms, a scheduler automatically identifies critical tasks and dynamically boosts their deadlines to improve responsiveness.  Most task schedulers don’t take energy consumption into account, but the Rust-based LAVD is different.  “LAVD makes scheduling decisions considering each chip’s performance versus energy trade-offs. It measures and predicts the required computing power on the fly, then selects the best set of CPUs to meet that demand with minimal energy consumption,” said Min.One of our other kernel engineers, Melissa Wen, has been working on AMD kernel display drivers to maintain good color management and HDR support for SteamOS across AMD hardware families, both for the Steam Deck and the Steam Machine. This is especially important with newer display hardware in the Steam Machine, which features some notable differences in color capabilities, aiming for more powerful and efficient color management which necessitated driver work.…and that’s a wrap! We will continue our efforts toward improving future versions of SteamOS, and with a partner as strongly supportive as Valve, we expect to do more work to make Linux gaming even better.  If any of that sounded interesting and you’d like to work with us to tackle tricky problems of your own, please get in touch!]]></content:encoded></item><item><title>Solving Fizz Buzz with Cosines</title><link>https://susam.net/fizz-buzz-with-cosines.html</link><author>hprotagonist</author><category>dev</category><pubDate>Fri, 21 Nov 2025 17:28:25 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[By  on 20 Nov 2025
+  \[
+    \gdef\arraystretch{1.2}
+  \]
+
+  Fizz Buzz is a counting game that has become oddly popular in the
+  world of computer programming as a simple test of basic programming
+  skills.  The rules of the game are straightforward.  Players say the
+  numbers aloud in order beginning with one.  Whenever a number is
+  divisible by 3, they say 'Fizz' instead.  If it is divisible by 5,
+  they say 'Buzz'.  If it is divisible by both 3 and 5, the player
+  says both 'Fizz' and 'Buzz'.  Here is a typical Python program that
+  prints this sequence:
+for n in range(1, 101):
+    if n % 15 == 0:
+        print('FizzBuzz')
+    elif n % 3 == 0:
+        print('Fizz')
+    elif n % 5 == 0:
+        print('Buzz')
+    else:
+        print(n)
+  Here is the output:
+  fizz-buzz.txt.  Can we make
+  the program more complicated?  The words 'Fizz', 'Buzz' and
+  'FizzBuzz' repeat in a periodic manner throughout the sequence.
+  What else is periodic?  Trigonometric functions!  Perhaps we can use
+  trigonometric functions to encode all four rules of the sequence in
+  a single closed-form expression.  That is what we are going to
+  explore in this article.  By the end, we will obtain a discrete
+  Fourier series that can take any integer \( n \) and select the
+  corresponding text to be printed.
+
+  Before going any further, we establish a precise mathematical
+  definition for the Fizz Buzz sequence.  We begin by introducing a
+  few functions that will help us define the Fizz Buzz sequence later.
+
+  We define a set of four functions \( \{ s_0, s_1, s_2, s_3 \} \) for
+  integers \( n \) by:
+
+  \begin{align*}
+    s_0(n) &= n, \\
+    s_1(n) &= \mathtt{Fizz}, \\
+    s_2(n) &= \mathtt{Buzz}, \\
+    s_3(n) &= \mathtt{FizzBuzz}.
+  \end{align*}
+
+  We call these the symbol functions because they produce every term
+  that appears in the Fizz Buzz sequence.  The symbol function \( s_0
+  \) returns \( n \) itself.  The functions \( s_1, \) \( s_2 \) and
+  \( s_3 \) are constant functions that always return the literal
+  words \( \mathtt{Fizz}, \) \( \mathtt{Buzz} \) and \(
+  \mathtt{FizzBuzz} \) respectively, no matter what the value of \( n
+  \) is.
+
+  Now we can define the Fizz Buzz sequence as the sequence
+
+  \[
+    (s_{f(n)}(n))_{n = 1}^{\infty}
+  \]
+
+  where
+
+  \[
+    f(n) = \begin{cases}
+      1 & \text{if } 3 \mid n \text{ and } 5 \nmid n, \\
+      2 & \text{if } 3 \nmid n \text{ and } 5 \mid n, \\
+      3 & \text{if } 3 \mid n \text{ and } 5 \mid n, \\
+      0 & \text{otherwise}.
+    \end{cases}
+  \]
+
+  The notation \( m \mid n \) means that the integer \( m \) divides
+  the integer \( n, \) i.e. \( n \) is a multiple of \( m.  \)
+  Equivalently, there exists an integer \( c \) such that \( n = cm
+ .  \)  Similarly, \( m \nmid n \) means that \( m \) does not divide
+  \( n, \) i.e. \( n \) is not a multiple of \( m.  \)  With the above
+  definitions in place, we can expand the first few terms of the
+  sequence explicitly as follows:
+
+  \begin{align*}
+    (s_{f(n)}(n))_{n = 1}^{\infty}
+    &= (s_{f(1)}(1), \; s_{f(2)}(2), \; s_{f(3)}(3), \; s_{f(4)}(4), \;
+            s_{f(5)}(5), \; s_{f(6)}(6), \; s_{f(7)}(7), \; \dots) \\
+    &= (s_0(1), \; s_0(2), \; s_1(3), \; s_0(4),
+            s_2(5), \; s_1(6), \; s_0(7), \; \dots) \\
+    &= (1, \; 2, \; \mathtt{Fizz}, \; 4, \;
+            \mathtt{Buzz}, \; \mathtt{Fizz}, \; 7, \; \dots).
+  \end{align*}
+
+  Note how the function \( f(n) \) produces an index \( i \) which we
+  then use to select the symbol function \( s_i(n) \) to produce the
+  \( n \)th term of the sequence.  We therefore call \( f(n) \) the
+  index function.
+
+  Here is the index function \( f(n) \) from the previous section with
+  its cases and conditions rearranged to make it easier to spot
+  interesting patterns:
+
+  \[
+    f(n) = \begin{cases}
+      0 & \text{if } 5 \nmid n \text{ and } 3 \nmid n, \\
+      1 & \text{if } 5 \nmid n \text{ and } 3 \mid n, \\
+      2 & \text{if } 5 \mid n \text{ and } 3 \nmid n, \\
+      3 & \text{if } 5 \mid n \text{ and } 3 \mid n.
+    \end{cases}
+  \]
+
+  This function helps us to select another function \( s_{f(n)}(n) \)
+  which in turn determines the \( n \)th term of the Fizz Buzz
+  sequence.  Our goal now is to replace this piecewise formula with a
+  single closed-form expression.  To do so, we first define indicator
+  functions \( I_m(n) \) as follows:
+
+  \[
+    I_m(n) = \begin{cases}
+      1 & \text{if } m \mid n, \\
+      0 & \text{if } m \nmid n.
+    \end{cases}
+  \]
+
+  The formula for \( f(n) \) can now be written as:
+
+  \[
+    f(n) = \begin{cases}
+      0 & \text{if } I_5(n) = 0 \text{ and } I_3(n) = 0, \\
+      1 & \text{if } I_5(n) = 0 \text{ and } I_3(n) = 1, \\
+      2 & \text{if } I_5(n) = 1 \text{ and } I_3(n) = 0, \\
+      3 & \text{if } I_5(n) = 1 \text{ and } I_3(n) = 1.
+    \end{cases}
+  \]
+
+  Do you see a pattern?  Here is the same function written as a table:
+
+  Do you see it now?  If we treat the values in the first two columns
+  as binary digits and the values in the third column as decimal
+  numbers, then in each row the first two columns give the binary
+  representation of the number in the third column.  For example, \(
+  3_{10} = 11_2 \) and indeed in the last row of the table, we see the
+  bits \( 1 \) and \( 1 \) in the first two columns and the number \(
+  3 \) in the last column.  In other words, writing the binary digits
+  \( I_5(n) \) and \( I_3(n) \) side by side gives us the binary
+  representation of \( f(n).  \)  Therefore
+
+  \[
+    f(n) = 2 \, I_5(n) + I_3(n).
+  \]
+
+  We can now write a small program to demonstrate this formula:
+for n in range(1, 101):
+    s = [n, 'Fizz', 'Buzz', 'FizzBuzz']
+    i = (n % 3 == 0) + 2 * (n % 5 == 0)
+    print(s[i])
+  We can make it even shorter at the cost of some clarity:
+for n in range(1, 101):
+    print([n, 'Fizz', 'Buzz', 'FizzBuzz'][(n % 3 == 0) + 2 * (n % 5 == 0)])
+  What we have obtained so far is pretty good.  While there is no
+  universal definition of a closed-form expression, I think most
+  people would agree that the indicator functions as defined above are
+  simple enough to be permitted in a closed-form expression.
+
+  In the previous section, we obtained the formula
+
+  \[
+    f(n) = I_3(n) + 2 \, I_5(n)
+  \]
+
+  which we then used as an index to look up the text to be printed.
+  We also argued that this is a pretty good closed-form expression
+  already.
+
+  However, in the interest of making things more complicated, we must
+  ask ourselves: What if we are not allowed to use the indicator
+  functions?  What if we must adhere to the commonly accepted meaning
+  of a closed-form expression which allows only finite combinations of
+  basic operations such as addition, subtraction, multiplication,
+  division, integer exponents and roots with integer index as well as
+  functions such as exponentials, logarithms and trigonometric
+  functions.  It turns out that the above formula can be rewritten
+  using only addition, multiplication, division and the cosine
+  function.  Let us begin the translation.  Consider the sum
+
+  \[
+    S_m(n) = \sum_{k = 0}^{m - 1} e^{2 \pi i k n / m},
+  \]
+
+  where \( i \) is the imaginary unit and \( n \) and \( m \) are
+  integers.  This is a geometric series in the complex plane with
+  ratio \( r = e^{2 \pi i n / m}.  \)  If \( n \) is a multiple of \( m
+ , \) then \( n = cm \) for some integer \( c \) and we get
+
+  \[
+    r
+    = e^{2 \pi i n / m}
+    = e^{2 \pi i c}
+    = 1.
+  \]
+
+  Therefore, when \( n \) is a multiple of \( m, \) we get
+
+  \[
+    S_m(n)
+    = \sum_{k = 0}^{m - 1} e^{2 \pi i k n / m}
+    = \sum_{k = 0}^{m - 1} 1^k
+    = m.
+  \]
+
+  If \( n \) is not a multiple of \( m, \) then \( r \ne 1 \) and the
+  geometric series becomes
+
+  \[
+    S_m(n)
+    = \frac{r^m - 1}{r - 1}
+    = \frac{e^{2 \pi i n} - 1}{e^{2 \pi i n / m} - 1}
+    = 0.
+  \]
+
+  Therefore,
+
+  \[
+    S_m(n) = \begin{cases}
+      m & \text{if } m \mid n, \\
+      0 & \text{if } m \nmid n.
+    \end{cases}
+  \]
+
+  Dividing both sides by \( m, \) we get
+
+  \[
+    \frac{S_m(n)}{m} = \begin{cases}
+      1 & \text{if } m \mid n, \\
+      0 & \text{if } m \nmid n.
+    \end{cases}
+  \]
+
+  But the right-hand side is \( I_m(n).  \)  Therefore
+
+  \[
+    I_m(n)
+    = \frac{S_m(n)}{m}
+    = \frac{1}{m} \sum_{k = 0}^{m - 1} e^{2 \pi i k n / m}.
+  \]
+
+  We begin with Euler's formula
+
+  \[
+    e^{i x} = \cos x + i \sin x
+  \]
+
+  where \( x \) is a real number.  From this formula, we get
+
+  \[
+    e^{i x} + e^{-i x} = 2 \cos x.
+  \]
+
+  Therefore
+
+  \begin{align*}
+    I_3(n)
+    &= \frac{1}{3} \sum_{k = 0}^2 e^{2 \pi i k n / 3} \\
+    &= \frac{1}{3} \left( 1 + e^{2 \pi i n / 3} +
+                                  e^{4 \pi i n / 3} \right) \\
+    &= \frac{1}{3} \left( 1 + e^{2 \pi i n / 3} +
+                                  e^{-2 \pi i n / 3} \right) \\
+    &= \frac{1}{3} + \frac{2}{3} \cos \left( \frac{2 \pi n}{3} \right).
+  \end{align*}
+
+  The third equality above follows from the fact that \( e^{4 \pi i n
+  / 3} = e^{6 \pi i n / 3} e^{-2 \pi i n / 3} = e^{2 \pi i n} e^{-2
+  \pi i n/3} = e^{-2 \pi i n / 3}.  \)
+
+  The function above is defined for integer values of \( n \) but we
+  can extend its formula to real \( x \) and plot it to observe its
+  shape between integers.  As expected, the function takes the value
+  \( 1 \) whenever \( x \) is an integer multiple of \( 3 \) and \( 0
+  \) whenever \( x \) is an integer not divisible by \( 3.  \)
+
+  Similarly,
+
+  \begin{align*}
+    I_5(n)
+    &= \frac{1}{5} \sum_{k = 0}^4 e^{2 \pi i k n / 5} \\
+    &= \frac{1}{5} \left( 1 + e^{2 \pi i n / 5} +
+                                  e^{4 \pi i n / 5} +
+                                  e^{6 \pi i n / 5} +
+                                  e^{8 \pi i n / 5} \right) \\
+    &= \frac{1}{5} \left( 1 + e^{2 \pi i n / 5} +
+                                  e^{4 \pi i n / 5} +
+                                  e^{-4 \pi i n / 5} +
+                                  e^{-2 \pi i n / 5} \right) \\
+    &= \frac{1}{5} + \frac{2}{5} \cos \left( \frac{2 \pi n}{5} \right) +
+                         \frac{2}{5} \cos \left( \frac{4 \pi n}{5} \right).
+  \end{align*}
+
+  Extending this expression to real values of \( x \) allows us to
+  plot its shape as well.  Once again, the function takes the value \(
+  1 \) at integer multiples of \( 5 \) and \( 0 \) at integers not
+  divisible by \( 5.  \)
+
+  Recall that we expressed \( f(n) \) as
+
+  \[
+    f(n) = I_3(n) + 2 \, I_5(n).
+  \]
+
+  Substituting these trigonometric expressions yields
+
+  \[
+    f(n)
+    = \frac{1}{3} + \frac{2}{3} \cos \left( \frac{2 \pi n}{3} \right) +
+      2 \cdot \left( \frac{1}{5} + \frac{2}{5} \cos \left( \frac{2 \pi n}{5} \right) +
+                         \frac{2}{5} \cos \left( \frac{4 \pi n}{5} \right) \right).
+  \]
+
+  A straightforward simplification gives
+
+  \[
+    f(n)
+    = \frac{11}{15} +
+      \frac{2}{3} \cos \left( \frac{2 \pi n}{3} \right) +
+      \frac{4}{5} \cos \left( \frac{2 \pi n}{5} \right) +
+      \frac{4}{5} \cos \left( \frac{4 \pi n}{5} \right).
+  \]
+
+  We can extend this expression to real \( x \) and plot it as well.
+  The resulting curve takes the values \( 0, 1, 2 \) and \( 3 \) at
+  integer points, as desired.
+
+  Now we can write our Python program as follows:
+from math import cos, pi
+for n in range(1, 101):
+    s = [n, 'Fizz', 'Buzz', 'FizzBuzz']
+    i = round(11 / 15 + (2 / 3) * cos(2 * pi * n / 3)
+                      + (4 / 5) * cos(2 * pi * n / 5)
+                      + (4 / 5) * cos(4 * pi * n / 5))
+    print(s[i])Discrete Fourier Transform
+  The keen-eyed might notice that the expression we obtained for \(
+  f(n) \) is a finite Fourier series.  This is not surprising, since
+  the output of a Fizz Buzz programme depends only on \( n \bmod 15
+ .  \)  Any function on a finite cyclic group can be written exactly as
+  a finite Fourier expansion.  In this section, we recover the same
+  function \( f(n) \) using the discrete Fourier transform.  It is
+  worth mentioning here that the calculations presented here are quite
+  tedious to do by hand.  Nevertheless, this section offers a glimpse
+  of how such coefficients are calculated.  By the end, we will arrive
+  at exactly the same \( f(n) \) as before.  There is nothing new to
+  discover here.  We simply obtain the result by a different, more
+  direct and noticeably tedious method.  If this doesn't sound
+  interesting to you, you may safely skip this section.
+
+  We know that \( f(n) \) is a periodic function with period \( 15.  \)
+  To apply the discrete Fourier transform, we look at one complete
+  period using the indices \( n = 1, 2, \dots, 15.  \)  Over this
+  period, the values are:
+
+  \begin{array}{c|ccccccccccccccc}
+    n    & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 & 12 & 13 & 14 & 15 \\
+    \hline
+    f(n) & 0 & 0 & 1 & 0 & 2 & 1 & 0 & 0 & 1 &  2 &  0 &  1 &  0 &  0 &  3
+  \end{array}
+
+  The discrete Fourier transform gives us the constants defined by:
+
+  \[
+    c_k = \frac{1}{15} \sum_{n = 1}^{15} f(n) e^{-2 \pi i k n / 15},
+  \]
+
+  for \( k = 1, 2, \dots, 15.  \)  These constants reconstruct \( f(n)
+  \) via the inverse transform:
+
+  \[
+    f(n) = \sum_{k = 1}^{15} c_k e^{2 \pi i k n / 15}
+  \]
+
+  where \( n \in \mathbb{Z}.  \)  Let us compute the first constant:
+
+  \[
+    c_1 = \frac{1}{15}\left(
+      \begin{aligned}
+        e^{-2 \pi i \cdot 3/15}
+        &+ 2 e^{-2 \pi i \cdot 5/15}
+        + e^{-2 \pi i \cdot 6/15}
+        + e^{-2 \pi i \cdot 9/15} \\
+        &+ 2 e^{-2 \pi i \cdot 10/15}
+        + e^{-2 \pi i \cdot 12/15}
+        + 3 e^{-2 \pi i \cdot 15/15}
+      \end{aligned}
+    \right) = 0.
+  \]
+
+  Similarly,
+
+  \[
+    c_2 = \frac{1}{15}\left(
+      \begin{aligned}
+        e^{-2 \pi i \cdot 6/15}
+        &+ 2 e^{-2 \pi i \cdot 10/15}
+        + e^{-2 \pi i \cdot 12/15}
+        + e^{-2 \pi i \cdot 18/15} \\
+        &+ 2 e^{-2 \pi i \cdot 20/15}
+        + e^{-2 \pi i \cdot 24/15}
+        + 3 e^{-2 \pi i \cdot 30/15}
+      \end{aligned}
+    \right) = 0.
+  \]
+
+  and
+
+  \[
+    c_3 = \frac{1}{15}\left(
+      \begin{aligned}
+        e^{-2 \pi i \cdot 9/15}
+        &+ 2 e^{-2 \pi i \cdot 15/15}
+        + e^{-2 \pi i \cdot 18/15}
+        + e^{-2 \pi i \cdot 27/15} \\
+        &+ 2 e^{-2 \pi i \cdot 30/15}
+        + e^{-2 \pi i \cdot 36/15}
+        + 3 e^{-2 \pi i \cdot 45/15}
+      \end{aligned}
+    \right) = \frac{2}{5}.
+  \]
+
+  Continuing in this manner, we find all the constants:
+
+  \begin{align*}
+    c_1 &= c_2 = c_4 = c_7 = c_8 = c_{11} = c_{13} = c_{14} = 0, \\
+    c_3 &= c_6 = c_9 = c_{12} = \frac{2}{5}, \\
+    c_5 &= c_{10} = \frac{1}{3}, \\
+    c_{15} &= \frac{11}{15}.
+  \end{align*}
+
+  Using the inverse transform, we get
+
+  \begin{align*}
+    f(n)
+    &= \sum_{k = 1}^{15} c_k \, e^{2 \pi i k n / 15} \\
+    &= \frac{11}{15} +
+      \frac{2}{5} \left(
+        e^{2 \pi i \cdot 3n/15} +
+        e^{2 \pi i \cdot 6n/15} +
+        e^{2 \pi i \cdot 9n/15} +
+        e^{2 \pi i \cdot 12n/15}
+      \right) \\
+    &\phantom{=} \phantom{\frac{11}{15}} +
+      \frac{1}{3} \left(
+        e^{2 \pi i \cdot 5n/15} +
+        e^{2 \pi i \cdot 10n/15}
+      \right) \\
+    &= \frac{11}{15} +
+      \frac{2}{5} \left(
+        e^{6 \pi i n/15} +
+        e^{12 \pi i n/15} +
+        e^{18 \pi i n/15} +
+        e^{24 \pi i n/15}
+      \right) \\
+    &\phantom{=} \phantom{\frac{11}{15}} +
+      \frac{1}{3} \left(
+        e^{10 \pi i n/15} +
+        e^{20 \pi i n/15}
+      \right) \\
+    &= \frac{11}{15} +
+       \frac{2}{5} \left(
+         e^{6 \pi i n/15} +
+         e^{12 \pi i n/15} +
+         e^{-12 \pi i n/15} +
+         e^{-6 \pi i n/15}
+       \right) \\
+    &\phantom{=} \phantom{\frac{11}{15}} +
+      \frac{1}{3} \left(
+        e^{10 \pi i n/15} +
+        e^{-10 \pi i n/15}
+      \right) \\
+    &= \frac{11}{15} +
+       \frac{2}{5} \left(
+         2 \cos \left( \frac{6 \pi n}{15} \right) +
+         2 \cos \left( \frac{12 \pi n}{15} \right)
+       \right) \\
+    &\phantom{=} \phantom{\frac{11}{15}} +
+      \frac{1}{3} \left(
+        2 \cos \left( \frac{10 \pi n}{15} \right)
+      \right) \\
+    &= \frac{11}{15} +
+       \frac{4}{5} \cos \left( \frac{2 \pi n}{5} \right) +
+       \frac{4}{5} \cos \left( \frac{4 \pi n}{5} \right) +
+       \frac{2}{3} \cos \left( \frac{2 \pi n}{3} \right).
+  \end{align*}
+
+  This gives us exactly the same function \( f(n) \) we obtained
+  earlier.  The difference is only in how we arrived there.  Working
+  out Fourier coefficients by hand is slow and mechanical.  In
+  practice these sums are almost always computed automatically by
+  numerical software or computer algebra systems.  Still, this
+  exercise shows that our humble Fizz Buzz index function can be
+  expressed precisely using the machinery of Fourier analysis.
+
+  To summarise, we have defined the Fizz Buzz sequence as
+
+  \[
+    (s_{f(n)}(n))_{n = 1}^{\infty}
+  \]
+
+  where
+
+  \[
+    f(n)
+    = \frac{11}{15} +
+      \frac{2}{3} \cos \left( \frac{2 \pi n}{3} \right) +
+      \frac{4}{5} \cos \left( \frac{2 \pi n}{5} \right) +
+      \frac{4}{5} \cos \left( \frac{4 \pi n}{5} \right).
+  \]
+
+  and \( s_0(n) = n, \) \( s_1(n) = \mathtt{Fizz}, \) \( s_2(n) =
+  \mathtt{Buzz} \) and \( s_3(n) = \mathtt{FizzBuzz}.  \)  A Python
+  program to print the Fizz Buzz sequence based on this definition was
+  presented earlier.  That program can be written more succinctly as
+  follows:
+from math import cos, pi
+for n in range(1, 101):
+    print([n, 'Fizz', 'Buzz', 'FizzBuzz'][round(11 / 15 + (2 / 3) * cos(2 * pi * n / 3) + (4 / 5) * (cos(2 * pi * n / 5) + cos(4 * pi * n / 5)))])
+  We can also wrap this up nicely in a shell one-liner, in case you
+  want to share it with your friends and family and surprise them:
+python3 -c 'from math import cos, pi; [print([n, "Fizz", "Buzz", "FizzBuzz"][round(11/15 + (2/3) * cos(2*pi*n/3) + (4/5) * (cos(2*pi*n/5) + cos(4*pi*n/5)))]) for n in range(1, 101)]'
+  We have taken a simple counting game and turned it into a
+  trigonometric construction: a finite Fourier series with a constant
+  term \( 11/15 \) and three cosine terms with coefficients \( 2/3, \)
+  \( 4/5 \) and \( 4/5.  \)  None of this makes Fizz Buzz any easier,
+  of course, but it does show that every \( \mathtt{Fizz} \) and \(
+  \mathtt{Buzz} \) now owes its existence to a particular set of
+  Fourier coefficients.  We began with the modest goal of making this
+  simple problem more complicated.  I think it is safe to say that we
+  did not fall short.
+]]></content:encoded></item><item><title>How Cops Are Using Flock&apos;s ALPR Network to Surveil Protesters and Activists</title><link>https://www.eff.org/deeplinks/2025/11/how-cops-are-using-flock-safetys-alpr-network-surveil-protesters-and-activists</link><author>pseudalopex</author><category>dev</category><pubDate>Fri, 21 Nov 2025 17:20:51 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Law Enforcement Agencies that Ran Searches Corresponding with "No Kings" RalliesAnaheim Police Department, Calif.Arizona Department of Public SafetyBeaumont Police Department, TexasCharleston Police Department, SCFlagler County Sheriff's Office, Fla.Lisle Police Department, Ill.Little Rock Police Department, Ark.Marion Police Department, OhioMorristown Police Department, Tenn.Oro Valley Police Department, Ariz.Putnam County Sheriff's Office, Tenn.Richmond Police Department, Va.Riverside County Sheriff's Office, Calif.Salinas Police Department, Calif.San Bernardino County Sheriff's Office, Calif.Spartanburg Police Department, SCTempe Police Department, Ariz.Tulsa Police Department, Okla.]]></content:encoded></item><item><title>CrowdStrike catches insider feeding information to hackers</title><link>https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 21 Nov 2025 16:48:41 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[American cybersecurity firm CrowdStrike has confirmed that an insider shared screenshots taken on internal systems with hackers after they were leaked on Telegram by the Scattered Lapsus$ Hunters threat actors. [...]]]></content:encoded></item><item><title>You can make PS2 games in JavaScript</title><link>https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript</link><author>tosh</author><category>dev</category><pubDate>Fri, 21 Nov 2025 16:42:19 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker</title><link>https://wealthfolio.app/?v=2.0</link><author>a-fadil</author><category>dev</category><pubDate>Fri, 21 Nov 2025 16:34:52 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[See how your investments stack up, all in one place. Compare your accounts side by side, check if you are beating the S&P 500, and track your favorite ETFs without the hassle. No fancy jargon - just clear, useful charts that help you understand how your money is really doing.]]></content:encoded></item><item><title>Chinese Hackers Exploiting WSUS Remote Code Execution Vulnerability to Deploy ShadowPad Malware</title><link>https://cybersecuritynews.com/chinese-hackers-exploiting-wsus-remote-code-execution-vulnerability/</link><author></author><category>security</category><pubDate>Fri, 21 Nov 2025 16:15:27 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
             Chinese-backed attackers have begun weaponizing a critical vulnerability in Microsoft Windows Server Update Services (WSUS) to distribute ShadowPad, a sophisticated backdoor malware linked to multiple ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>FCC rolls back cybersecurity rules for telcos, despite state-hacking risks</title><link>https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/</link><author>Bill Toulas</author><category>security</category><pubDate>Fri, 21 Nov 2025 16:01:41 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[The Federal Communications Commission (FCC) has rolled back a previous ruling that required U.S. telecom carriers to implement stricter cybersecurity measures following the massive hack from the Chinese threat group known as Salt Typhoon. [...]]]></content:encoded></item><item><title>Arduino published updated terms and conditions: no longer an open commons</title><link>https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html</link><author>felineflock</author><category>dev</category><pubDate>Fri, 21 Nov 2025 15:44:16 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Six weeks ago, Qualcomm acquired Arduino. The maker community immediately worried that Qualcomm would kill the open-source ethos that made Arduino the lingua franca of hobby electronics.This week, Arduino published updated terms and conditions and a new privacy policy, clearly rewritten by Qualcomm’s lawyers. The changes confirm the community’s worst fears: Arduino is no longer an open commons. It’s becoming just another corporate platform.Here’s what’s at stake, what Qualcomm got wrong, and what might still be salvaged, drawing from community discussions across makerforums and sites.The new terms read like standard corporate boilerplate: mandatory arbitration, data integration with Qualcomm’s global ecosystem, export controls, AI use restrictions. For any other SaaS platform, this would be unremarkable.But Arduino isn’t SaaS. It’s the foundation of the maker ecosystem.The most dangerous change is Arduino now explicitly states that using their platform grants you no patent licenses whatsoever. You can’t even argue one is implied. This means Qualcomm could potentially assert patents against your projects if you built them using Arduino tools, Arduino examples, or Arduino-compatible hardware.And here’s the disconnect, baffling makers. Arduino’s IDE is licensed under AGPL. Their CLI is GPL v3. Both licenses explicitly require that you can reverse engineer the software. But the new Qualcomm terms explicitly forbid reverse engineering “the Platform.”The community is trying to figure out what is Qualcomm’s actual intent. Are these terms just bad lawyering with SaaS lawyers applying their standard template to cloud services, not realizing Arduino is different? Or is Qualcomm testing how much they can get away with before the community revolts? Or is this a first step toward locking down the ecosystem they just bought?Some people point out that “the Platform” might only mean Arduino’s cloud services (forums, Arduino Cloud, Project Hub) not the IDE and CLI that everyone actually uses.If that’s true, Qualcomm needs to say so, explicitly, and in plain language. Because library maintainers are likely wondering whether contributing to Arduino repos puts them at legal risk. And hardware makers are questioning whether “Arduino-compatible” is still safe to advertise. Why Adafruit’s alarm mattersAdafruit has been vocal about the dangers of this acquisition. Some dismiss Adafruit’s criticism as self-serving. After all, they sell competing hardware and promote CircuitPython. But that misses who Adafruit is.Adafruit has been the moral authority on open hardware for decades. They’ve made their living proving you can build a successful business on open principles. When they sound the alarm, it’s not about competition, it’s about principle.What they’re calling out isn’t that Qualcomm bought Arduino. It’s that Qualcomm’s lawyers fundamentally don’t understand what they bought. Arduino wasn’t valuable because it was just a microcontroller company. It was valuable because it was a commons. And you can’t apply enterprise legal frameworks to a commons without destroying it.Adafruit gets this. They’ve built their entire business on this. That’s why their criticism carries weight.What Qualcomm doesn’t seem to understandQualcomm probably thought they were buying an IoT hardware company with a loyal user base. They weren’t. They bought the IBM PC of the maker world.Arduino’s value was never just the hardware. Their boards have been obsolete for years. Their value is the standard. The Arduino IDE is the lingua franca of hobby electronics. Millions of makers learned on it, even if they moved to other hardware. ESP32, STM32, Teensy, Raspberry Pi Pico – none of them are Arduino hardware, but they all work with the Arduino IDE.Thousands of libraries are “Arduino libraries.” Tutorials assume Arduino. University curricula teach Arduino. When you search “how to read a sensor,” the answer comes back in Arduino code.This is the ecosystem Qualcomm’s lawyers just dropped legal uncertainty onto.If Qualcomm’s lawyers start asserting control over the IDE, CLI, or core libraries under restrictive terms, they will poison the entire maker ecosystem. Even people who never buy Arduino hardware are dependent on Arduino software infrastructure.Qualcomm didn’t just buy a company. They bought a commons. And now they inadvertently are taking steps that are destroying what made it valuable.What are makers supposed to do?There has been some buzz of folks just leaving the Arduino environment behind. But Arduino IDE alternatives such as PlatformIO and VSCode are not in any way beginner friendly. If the Arduino IDE goes, then there’s a huge problem. I remember when Hypercard ended. There were alternatives, but none so easy. I don’t think I really coded again for almost 20 years until I picked up the Arduino IDE (go figure).If something happens to the Arduino IDE, even if its development stalls or becomes encumbered, there’s no replacement for that easy onboarding. We’d lose many promising new makers because the first step became too steep.The institutional knowledge at riskBut leaving Arduino behind isn’t simple. The platform’s success depends on two decades of accumulated knowledge, such as countless Arduino tutorials on YouTube, blogs, and school curricula; open-source libraries that depend on Arduino compatibility; projects in production using Arduino tooling; and university programs built around Arduino as the teaching platformAll of these depend on Arduino remaining open and accessible.If Qualcomm decided to sunset the open Arduino IDE in favor of a locked-down “Arduino Pro” platform, or if they start asserting patent claims, or if uncertainty makes contributors abandon the ecosystem, all that knowledge becomes stranded.It’s like Wikipedia going behind a paywall. The value isn’t just the content, it is the trust that it remains accessible. Arduino’s value isn’t just the code, it’s the trust that the commons would stay open.That trust is now gone. And once lost, it hard to get back.Why this happened (but doesn’t excuse it)Let’s be fair to Qualcomm, their lawyers were doing their jobs.When you acquire a company, you standardize the legal terms; add mandatory arbitration to limit class action exposure; integrate data systems for compliance and auditing; add export controls because you sell to defense contractors; prohibit reverse engineering because that’s in the template.For most acquisitions, this is just good corporate hygiene. And Arduino, now part of a megacorp, faces higher liabilities than it did as an independent entity.But here’s what Qualcomm’s lawyers missed: Arduino isn’t a normal acquisition. The community isn’t a customer base, it’s a commons. And you can’t apply enterprise SaaS legal frameworks to a commons without destroying what made it valuable.This is tone-deafness, not malice. But the outcome is the same. A community that trusted Arduino no longer does.Understanding why this happened doesn’t excuse it, but it might suggest what needs to happen next.What should have happened and how to still save itQualcomm dropped legal boilerplate on the community with zero context and let people discover the contradictions themselves. That’s how you destroy trust overnight.Qualcomm should have announced the changes in advance. They should have given the community weeks, not hours, to understand what’s changing and why. They should have used plain-language explanations, not just legal documents.Qualcomm can fix things by explicitly carving out the open ecosystem. They should state clearly that the terms apply to Arduino Cloud services, and the IDE, CLI, and core libraries remain under their existing open source licenses.We’d need concrete commitments, such as which repos stay open, which licenses won’t change, what’s protected from future acquisition decisions. Right now we have vague corporate-speak about “supporting the community.” Indeed, they could create some structural protection, as well, by putting IDE, CLI, and core libraries in a foundation that Qualcomm couldn’t unilaterally control (think the Linux Foundation model).Finally, Qualcomm might wish to establish some form of community governance with real representation and real power over the tools the community depends on.The acquisition is done. The legal integration is probably inevitable. But how it’s done determines whether Arduino survives as a commons or dies as just another Qualcomm subsidiary.Arduino may be the toolset that made hobby electronics accessible to millions. But that maker community built Arduino into what it became. Qualcomm’s acquisition has thrown that legacy into doubt. Whether through legal confusion, corporate tone-deafness, or deliberate strategy, the community’s trust is broken.The next few months will reveal whether this was a stumble or a strategy. If Qualcomm issues clarifications, moves repos to some sort of governance, and explicitly protects the open toolchain, then maybe this is salvageable. If they stay silent, or worse, if IDE development slows or license terms tighten further, then that’s a signal to find alternatives. The question isn’t whether the open hobby electronics maker community survives. It’s whether Arduino does.]]></content:encoded></item><item><title>&apos;Scattered Spider&apos; teens plead not guilty to UK transport hack</title><link>https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/</link><author>Sergiu Gatlan</author><category>security</category><pubDate>Fri, 21 Nov 2025 15:41:24 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Two British teenagers have denied charges related to an investigation into the breach of Transport for London (TfL) in August 2024, which caused millions of pounds in damage and exposed customer data. [...]]]></content:encoded></item><item><title>Grafana Patches CVSS 10.0 SCIM Flaw Enabling Impersonation and Privilege Escalation</title><link>https://thehackernews.com/2025/11/grafana-patches-cvss-100-scim-flaw.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSd96MdjXbbJYSzwIs4CNhCrhOSN5Avm0c3kgMEQVlWBzUPXLbXKs_Kyjk_LhSeKQLjJRbzxyl7SCv62tvd2GEHySWOO__C_f5h2u-5md5Nycx87_WmNUx0CSZ7FCNVEI8LEavtyCoV7cHBFDbdNDaGMrX65oRX0pR17RJcKGIA8PofZ5YhsMrhQV1xpAt/s1600/grafana.jpg" length="" type=""/><pubDate>Fri, 21 Nov 2025 15:40:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[Grafana has released security updates to address a maximum severity security flaw that could allow privilege escalation or user impersonation under certain configurations.
 The vulnerability, tracked as CVE-2025-41115, carries a CVSS score of 10.0. It resides in the System for Cross-domain Identity Management (SCIM) component that allows automated user provisioning and management. First]]></content:encoded></item><item><title>Fake calendar invites are spreading. Here’s how to remove them and prevent more</title><link>https://www.malwarebytes.com/blog/news/2025/11/fake-calendar-invites-are-spreading-heres-how-to-remove-them-and-prevent-more</link><author></author><category>threatintel</category><pubDate>Fri, 21 Nov 2025 15:28:23 +0000</pubDate><source url="https://www.malwarebytes.com/">Malwarebytes Labs</source><content:encoded><![CDATA[We’re seeing a surge in phishing calendar invites that users can’t delete, or that keep coming back because they sync across devices. The good news is you can remove them and block future spam by changing a few settings.Most of these unwanted calendar entries are there for phishing purposes. Most of them warn you about a “impending payment” but the difference is in the subject and the action they want the target to take.Sometimes they want you to call a number:And sometimes they invite you to an actual meeting:We haven’t followed up on these scams, but when attackers want you to call them or join a meeting, the end goal is almost always financial. They might use a tech support scam approach and ask you to install a Remote Monitoring and Management tool, sell you an overpriced product, or simply ask for your banking details.How to remove fake entries from your calendarThis blog focuses on how to remove these unwanted entries. One of the obstacles is that calendars often sync across devices.To disable automatic calendar additions:To prevent unknown senders from adding invites:Tap  >  > Add invitations to my calendar.Select Only if the sender is known.For help reviewing which apps have access to your Android Calendar, refer to the support page.To control how events get added to your Calendar on a Mac:Go to u >  > . Turn calendar access on or off for each app in the list.If you allow access, click  to choose whether the app has full access or can only add events.The controls are similar to macOS, but you may also want to remove additional calendars:Tap  >  > .Select any unwanted calendars and tap the  option.Which brings me to my next point. Check both the Outlook Calendar and the mobile Calendar app for  or  and Delete/Unsubscribe. This will stop the attacker from being able to add even more events to your Calendar. And looking in both places will be helpful in case of synchronization issues.Several victims reported that after removing an event, they just came back. This is almost always due to synchronization. Make sure you remove the unwanted calendar or event everywhere it exists.Tracking down the source can be tricky, but it may help prevent the next wave of calendar spam.How to prevent calendar spamWe’ve covered some of this already, but the main precautions are:Turn off auto‑add or auto‑processing so invites stay as emails until you accept them.Restrict calendar permissions so only trusted people and apps can add events.In shared or resource calendars, remove public or anonymous access and limit who can create or edit items.Use an up-to-date real-time anti-malware solution with a web protection component to block known malicious domains.Don’t engage with unsolicited events. Don’t click links, open attachments, or reply to suspicious calendar events such as “investment,” “invoice,” “bonus payout,” “urgent meeting”—just delete the event.If you’re not sure whether an event is a scam, you can feed the message to Malwarebytes Scam Guard. It’ll help you decide what to do next.We don’t just report on threats—we remove them]]></content:encoded></item><item><title>Make product worse, get money</title><link>https://dynomight.net/worse/</link><author>zdw</author><category>dev</category><pubDate>Fri, 21 Nov 2025 15:23:20 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[I recently asked why people seem to hate dating apps so much. In response, 80% of you emailed me some version of the following theory:The thing about dating apps is that if they do a good job and match people up, then the matched people will quit the app and stop paying. So they have an incentive to string people along but not to actually help people find long-term relationships.May I explain why I don’t find this type of theory very helpful?I’m not saying that I think it’s wrong, mind you. Rather, my objection is that while the theory is phrased in terms of dating apps, the same basic pattern applies to basically anyone who is trying to make money by doing anything.For example, consider a pizza restaurant. Try these theories on for size: “The thing about pizza restaurants is that if they use expensive ingredients or labor-intensive pizza-making techniques, then it costs more to make pizza. So they have an incentive to use low-cost ingredients and labor-saving shortcuts.” “The thing about pizza restaurants is that if they have nice tables separated at a comfortable distance, then they can’t fit as many customers. So they have an incentive to use tiny tables and cram people in cheek by jowl.” “The thing about pizza restaurants is that if they sell big pizzas, then people will eat them and stop being hungry, meaning they don’t buy additional pizza. So they have an incentive to serve tiny low-calorie pizzas.”See what I mean? You can construct similar theories for other domains, too: “The thing about automakers is that making cars safe is expensive. So they have an incentive to make unsafe cars.” “The thing about video streaming is that high-resolution video uses more expensive bandwidth. So they have an incentive to use low-resolution.” “The thing about bloggers is that research is time-consuming. So they have an incentive to be sloppy about the facts.” “The thing about {lightbulb, car, phone, refrigerator, cargo ship} manufacturing is that if you make a {lightbulb, car, phone, refrigerator, cargo ship} that lasts a long time, then people won’t buy new ones. So there’s an incentive to make {lightbulbs, cars, phones, refrigerators, cargo ships} that break quickly.”All these theories can be thought of as instances of two general patterns:Make product worse, get money: “The thing about selling goods or services is that making goods or services better costs money. So people have an incentive to make goods and services worse.” “The thing about selling goods and services is that if you raise prices, then you get more money. So people have an incentive to raise prices.”Are these theories wrong? Not exactly. But it sure seems like something is missing.I’m sure most pizza restauranteurs would be thrilled to sell lukewarm 5 cm cardboard discs for $300 each. They do in fact have an incentive to do that, just as predicted by these theories! Yet, in reality, pizza restaurants usually sell pizzas that are made out of food. So clearly these theories aren’t telling the whole story.Say you have a lucrative business selling 5 cm cardboard discs for $300. I am likely to think, “I like money. Why don’t I sell pizzas that are only  cardboard, but also partly made of flour? And why don’t I sell them for $200, so I can steal Valued Reader’s customers?” But if I did that, then someone else would probably set prices at only $100, or even introduce cardboard-free pizzas, and this would continue until hitting some kind of equilibrium.Sure, producers want to charge infinity dollars for things that cost them zero dollars to make. But  want to pay zero dollars for stuff that’s infinitely valuable. It’s in the conflict between these desires that all interesting theories live.This is why I don’t think it’s helpful to point out that people have an incentive to make their products worse. Of course they do. The interesting question is, why are they able to get away with it?First reason stuff is bad: People are cheapWhy are seats so cramped on planes? Is it because airlines are greedy? Sure. But while they might be greedy, I don’t think they’re dumb. If you do a little math, you can calculate that if airlines were to remove a single row of seats, they could add perhaps 2.5 cm (1 in) of extra legroom for everyone, while only decreasing the number of paying customers by around 3%. (This is based on a 737 with single-class, but you get the idea.)So why don’t airlines rip out a row of seats, raise prices by 3% and enjoy the reduced costs for fuel and customer service? The only answer I can see is that people, on average, aren’t actually willing to pay 3% more for 2.5 cm more legroom. We want a worse but cheaper product, and so that’s what we get.I think this is the most common reason stuff is “bad”. It’s why Subway sandwiches are so soggy, why video games are so buggy, and why IKEA furniture and Primark clothes fall apart so quickly.It’s good when things are bad for this reason. Or at least, that’s the premise of capitalism: When companies cut costs, that’s the invisible hand redirecting resources to maximize social value, or whatever. Companies may be motivated by greed. And you may not like it, since you want to pay zero dollars for infinite value. But this is markets working as designed.Second reason stuff is bad: Information asymmetriesWhy is it that almost every book / blog / podcast about longevity is such garbage? Well, we don’t actually know many things that will reliably increase longevity. And those things are mostly all boring / hard / non-fun. And even if you do all of them, it probably only adds a couple of years in expectation. And telling people these facts is not a good way to find suckers who will pay you lots of money for your unproven supplements / seminars / etc.True! But it doesn’t explain why all longevity stuff is so bad. Why don’t honest people tell the true story and drive all the hucksters out of business? I suspect the answer is that unless you have a  of scientific training and do a  of research, it’s basically impossible to figure out just how huckstery all the hucksters really are.I think this same basic phenomenon explains why some supplements contain heavy metals, why some food contains microplastics, why restaurants use so much butter and salt, why rentals often have crappy insulation, and why most cars seem to only be safe along dimensions included in crash test scores. When consumers can’t tell good from evil, evil triumphs.Third reason stuff is bad: People have bad tasteSometimes stuff is bad because people just don’t appreciate the stuff you consider good. Examples are definitionally controversial, but I think this includes restaurants in cities where all restaurants are bad, North American tea, and travel pants. This reason has a blurry boundary with information asymmetries, as seen in ultrasonic humidifiers or products that use Sucralose instead of aspartame for “safety”.Fourth reason stuff is bad: Pricing powerFinally, sometimes stuff is bad because markets aren’t working. Sometimes a company is selling a product but has some kind of “moat” that makes it hard for anyone else to compete with them, e.g. because of some technological or regulatory barrier, control of some key resource or location, intellectual property, a beloved brand, or network effects.If that’s true, then those companies don’t have to worry as much about someone else stealing their business, and so (because everyone is axiomatically greedy) they will find ways to make their product cheaper and/or raise prices up until the price is equal to the full value it provides to the marginal consumer.Why is food so expensive at sporting events? Yes, people have no alternatives. But people know food is expensive at sporting events. And they don’t like it. Instead of selling water for $17, why don’t venues sell water for $2 and raise ticket prices instead? I don’t know. Probably something complicated, like that expensive food allows you to extract extra money from rich people without losing business from non-rich people.So  dating apps would love to string people along for years instead of finding them long-term relationships, so they keep paying money each month. I wouldn’t be surprised if some people at those companies have literally thought, “Maybe we should string people along for years instead of finding them long-term relationships, so they keep paying money each month, I love money so much.”But if they are actually doing that (which is unclear to me) or if they are bad in some other way, then how do they get away with it? Why doesn’t someone else create a competing app that’s better and thereby steal all their business? It seems like the answer has to be either “because that’s impossible” or “because people don’t really want that”. That’s where the mystery begins.]]></content:encoded></item><item><title>XBMC 4.0 for the Original Xbox</title><link>https://www.xbox-scene.info/articles/announcing-xbmc-40-for-the-original-xbox-r64/</link><author>zdw</author><category>dev</category><pubDate>Fri, 21 Nov 2025 15:18:05 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[
 	A new version of Xbox Media Center (XBMC), , has been released. This version marks a significant update to the long-standing media center platform for the Original Xbox. This marks the first major advancement to the software since 2016 and represents a renewed commitment to preserving, modernizing, and extending the capabilities of one of the most  console homebrew applications ever created.
