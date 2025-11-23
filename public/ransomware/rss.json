@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-23T15:10:15.068Z",
+  "updatedAt": "2025-11-23T16:12:50.104Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : National Institute of Materials Physics",
+      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgSW5zdGl0dXRlIG9mIE1hdGVyaWFscyBQaHlzaWNzQG5vdmE=",
+      "summary": "Romania Scientific Institute in Bucharest.  He is engaged in fundamental and applied research and development, in particular in the field of solid state physics and materials research.",
+      "pubDate": "Sun, 23 Nov 2025 15:45:05 +0000",
+      "category": "RO",
+      "guid": "https://www.ransomware.live/group/nova?1a6f70f93549c494b47ac6f5375d2787",
+      "group": "Nova",
+      "victim": "National Institute of Materials Physics",
+      "country": "RO"
+    },
     {
       "title": "🏴‍☠️ Beast has just published a new victim : Outback Pharmacies",
       "link": "https://www.ransomware.live/id/T3V0YmFjayBQaGFybWFjaWVzQGJlYXN0",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?2aa7347a3214f7380ad7d2aa3e640889",
       "group": "Akira",
       "victim": "Eagle Oil & Gas",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : ARH Associates",
-      "link": "https://www.ransomware.live/id/QVJIIEFzc29jaWF0ZXNAYWtpcmE=",
-      "summary": "ARH is an award-winning design engineering firm specializing in s urveying, professional planning, environmental sciences, and GIS  technologies. We will upload more than 12gb of corporate documents soon. Employ ee personal documents (scanned passports, driver licenses, SSNs,  phones, addresses, email addresses, credit card details and so on ), financials, contracts and agreements, NDA, client personal inf ormation, projects, etc.",
-      "pubDate": "Mon, 17 Nov 2025 15:16:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?1f86dc4abbd8199ad9c008e2f968f335",
-      "group": "Akira",
-      "victim": "ARH Associates",
       "country": "US"
     }
   ]
