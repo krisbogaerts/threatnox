@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-23T06:16:42.132Z",
+  "updatedAt": "2025-11-23T07:11:21.067Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Nissan Capital",
+      "link": "https://www.ransomware.live/id/Tmlzc2FuIENhcGl0YWxAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 23 Nov 2025 06:42:10 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/qilin?47ef2bc6abd52554ffcb1ac79e0f797a",
+      "group": "Qilin",
+      "victim": "Nissan Capital",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Nuclebrás Equipamentos Pesados",
       "link": "https://www.ransomware.live/id/TnVjbGVicsOhcyBFcXVpcGFtZW50b3MgUGVzYWRvc0B3b3JsZGxlYWtz",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/everest?66afe16d135f4656e223512be33a98b6",
       "group": "Everest",
       "victim": "Svenska kraftnät Database on sale for $2 Million",
-      "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Svenska kraftnät 280GB Database on sale",
-      "link": "https://www.ransomware.live/id/U3ZlbnNrYSBrcmFmdG7DpHQgMjgwR0IgRGF0YWJhc2Ugb24gc2FsZUBldmVyZXN0",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Mon, 17 Nov 2025 14:15:52 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/everest?0f86fd31628b9d80f23805c41bddc9ed",
-      "group": "Everest",
-      "victim": "Svenska kraftnät 280GB Database on sale",
       "country": "SE"
     }
   ]
