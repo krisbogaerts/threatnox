@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-11-23T17:09:32.571Z",
+  "updatedAt": "2025-11-23T18:15:26.008Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tengu has just published a new victim : Coral Clubes - Mexico",
+      "link": "https://www.ransomware.live/id/Q29yYWwgQ2x1YmVzIC0gTWV4aWNvQHRlbmd1",
+      "summary": "Coral Clubes - Mexico The Fimex Group offers a collection of luxury leisure and sports clubs, with a special focus on golf clubs and integrated resorts. Founded as a specialist in the leisure and sports sector, the group is dedicated to providing exceptional experiences for its members through world-class facilities. The group is committed to the highest standards of quality, service, and customer satisfaction.",
+      "pubDate": "Sun, 23 Nov 2025 17:18:23 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/tengu?fd159f07d7ae5fb7d52812d08af0d0fe",
+      "group": "Tengu",
+      "victim": "Coral Clubes - Mexico",
+      "country": "MX"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cayuga Milk Ingredients",
+      "link": "https://www.ransomware.live/id/Q2F5dWdhIE1pbGsgSW5ncmVkaWVudHNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 23 Nov 2025 17:13:03 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?81597ec62ddcf2ae147ac3937608dc42",
+      "group": "Qilin",
+      "victim": "Cayuga Milk Ingredients",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : The Hunnicutt Law Group",
+      "link": "https://www.ransomware.live/id/VGhlIEh1bm5pY3V0dCBMYXcgR3JvdXBAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 23 Nov 2025 17:12:19 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?e73d5e49027b465c0dbabfdb3c5a199f",
+      "group": "Qilin",
+      "victim": "The Hunnicutt Law Group",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Berts Electric",
+      "link": "https://www.ransomware.live/id/QmVydHMgRWxlY3RyaWNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 23 Nov 2025 17:11:35 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?38f1b977149d8f8ddd3aeef9a8a1202b",
+      "group": "Qilin",
+      "victim": "Berts Electric",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Capp Shupak",
+      "link": "https://www.ransomware.live/id/Q2FwcCBTaHVwYWtAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 23 Nov 2025 17:10:53 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?aca9c91358800246536ff056171dc807",
+      "group": "Qilin",
+      "victim": "Capp Shupak",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : National Institute of Materials Physics",
       "link": "https://www.ransomware.live/id/TmF0aW9uYWwgSW5zdGl0dXRlIG9mIE1hdGVyaWFscyBQaHlzaWNzQG5vdmE=",
@@ -2145,61 +2200,6 @@
       "guid": "https://www.ransomware.live/group/payoutsking?e752800a7a89eea458585e36019668fe",
       "group": "Payoutsking",
       "victim": "L****x",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Petrobras / SAExploration",
-      "link": "https://www.ransomware.live/id/UGV0cm9icmFzIC8gU0FFeHBsb3JhdGlvbkBldmVyZXN0",
-      "summary": "[AI generated] Petrobras is a state-owned Brazilian multinational corporation involved in the oil, gas, and energy industry. The company specializes in exploration, production, and distribution of oil, gas, and derivative products. SAExploration is an American energy company that provides seismic data acquisition services for the oil and gas industry. They specialize in deep water ocean bottom projects and challenging land operations.",
-      "pubDate": "Mon, 17 Nov 2025 16:13:25 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/everest?5e5730784bd07af03148dda441bfa131",
-      "group": "Everest",
-      "victim": "Petrobras / SAExploration",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : UNDER ARMOUR",
-      "link": "https://www.ransomware.live/id/VU5ERVIgQVJNT1VSQGV2ZXJlc3Q=",
-      "summary": "[AI generated] Under Armour, Inc. is an American multinational corporation founded in 1996 by Kevin Plank. The company specializes in manufacturing and selling branded performance apparel, footwear, and accessories. Its products are engineered with innovative technologies to mitigate the impact of environmental conditions on physical activities. Headquartered in Baltimore, Maryland, it caters extensively to the sports industry globally.",
-      "pubDate": "Mon, 17 Nov 2025 16:13:05 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/everest?265f4cc6bc1a6a1cf87957f0f74d700b",
-      "group": "Everest",
-      "victim": "UNDER ARMOUR",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Charles Rutenberg Realty",
-      "link": "https://www.ransomware.live/id/Q2hhcmxlcyBSdXRlbmJlcmcgUmVhbHR5QGFraXJh",
-      "summary": "Charles Rutenberg Realty, Inc., servicing Pinellas, Pasco, Hillsb orough, &amp; Hernando County real estate. We will upload 91gb of corporate documents soon. Their downloads  folder contains so many personal docs (more than 1,5gb of just sc anned docs), (passports, driver licenses, SSNs, phones, addresses , email addresses, credit card details, employee headshots), fina ncials, contracts and agreements, NDA, clients&#x27; information, proj ects, etc.",
-      "pubDate": "Mon, 17 Nov 2025 16:06:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?ad62bda6b5d25f820f726027b8770a5c",
-      "group": "Akira",
-      "victim": "Charles Rutenberg Realty",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : LG Energy Solution",
-      "link": "https://www.ransomware.live/id/TEcgRW5lcmd5IFNvbHV0aW9uQGFraXJh",
-      "summary": "LG Energy Solution is a total energy solutions company that build s an energy ecosystem with customer-centric advanced technology,  global integrated operations, and sustainable growth. We will upload almost 1.67TB of corporate documents and 46gb of S QL databases soon. Lots of employee personal information (visas,  US and Korean passports, medical documents, Korean ID cards, addr esses, phones, emails and so on), confidential projects, NDAs, co nfidentiality agreements, detailed financials, information about  clients and partners, lots of contracts, etc.",
-      "pubDate": "Mon, 17 Nov 2025 15:16:27 +0000",
-      "category": "KR",
-      "guid": "https://www.ransomware.live/group/akira?9bdd6406ec3ed0c912732730d9145449",
-      "group": "Akira",
-      "victim": "LG Energy Solution",
-      "country": "KR"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Eagle Oil & Gas",
-      "link": "https://www.ransomware.live/id/RWFnbGUgT2lsICYgR2FzQGFraXJh",
-      "summary": "Eagle Oil &amp; Gas operates and manages its own properties and the a ssets of other companies, focusing on drilling new wells and opti mizing legacy assets. We will upload 70gb of corporate documents soon. Employee persona l documents (scanned passports, driver licenses, SSNs, phones, ad dresses, email addresses, credit card payment details and so on), confidential contracts and agreements, NDA, and other client&#x27;s f iles, etc.",
-      "pubDate": "Mon, 17 Nov 2025 15:16:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?2aa7347a3214f7380ad7d2aa3e640889",
-      "group": "Akira",
-      "victim": "Eagle Oil & Gas",
       "country": "US"
     }
   ]
