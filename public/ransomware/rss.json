@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-23T19:08:56.336Z",
+  "updatedAt": "2025-11-23T20:12:57.131Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Chaos has just published a new victim : mToilet",
+      "link": "https://www.ransomware.live/id/bVRvaWxldEBjaGFvcw==",
+      "summary": "mToilet is a company that operates in the Sporting &amp; Recreational Equipment Retail industry.",
+      "pubDate": "Sun, 23 Nov 2025 19:44:57 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/chaos?933255ff7e72929589c47b062227b122",
+      "group": "Chaos",
+      "victim": "mToilet",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Maheu&Maheu",
       "link": "https://www.ransomware.live/id/TWFoZXUmTWFoZXVAcWlsaW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/pear?38a863f4099b487314431c69b5efda5d",
       "group": "Pear",
       "victim": "Quinn Jay Patent",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Pear has just published a new victim : Law Office of Ronald W. Hillberg",
-      "link": "https://www.ransomware.live/id/TGF3IE9mZmljZSBvZiBSb25hbGQgVy4gSGlsbGJlcmdAcGVhcg==",
-      "summary": "Estate planning and wills",
-      "pubDate": "Mon, 17 Nov 2025 17:36:28 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/pear?b64cff55a13bb2718906648c34ad32ed",
-      "group": "Pear",
-      "victim": "Law Office of Ronald W. Hillberg",
       "country": "US"
     }
   ]
