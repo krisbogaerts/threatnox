@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-24T14:12:42.601Z",
+  "updatedAt": "2025-11-24T15:13:29.855Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Akehurst Landscape Service",
+      "link": "https://www.ransomware.live/id/QWtlaHVyc3QgTGFuZHNjYXBlIFNlcnZpY2VAYWtpcmE=",
+      "summary": "Akehurst Landscape Service, Inc., based in Joppa, MD, offers a wi de range of landscaping, snow removal, and grounds maintenance se rvices tailored to meet the needs of commercial, industrial, and  residential clients.  We are going to upload company data soon. You will find financial data (audit, payment details, financial reports, invoices), pers onal financial details of employees, accounting files.",
+      "pubDate": "Mon, 24 Nov 2025 13:47:29 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?0589e2549705a67c9c7d3b975114820f",
+      "group": "Akira",
+      "victim": "Akehurst Landscape Service",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Adept",
       "link": "https://www.ransomware.live/id/QWRlcHRAc2lub2Jp",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?f695f981c1b291228e8cf54e37796b22",
       "group": "Qilin",
       "victim": "Regional Business Systems",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Cloak has just published a new victim : Con*******.com",
-      "link": "https://www.ransomware.live/id/Q29uKioqKioqKi5jb21AY2xvYWs=",
-      "summary": "",
-      "pubDate": "Tue, 18 Nov 2025 14:49:14 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/cloak?85136c59ec3360405e1e3ac74bca1022",
-      "group": "Cloak",
-      "victim": "Con*******.com",
       "country": ""
     }
   ]
