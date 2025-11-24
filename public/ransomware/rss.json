@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-24T20:13:52.439Z",
+  "updatedAt": "2025-11-24T21:11:28.141Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : HYTORC",
+      "link": "https://www.ransomware.live/id/SFlUT1JDQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 24 Nov 2025 20:36:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?d1c02f0e3f8ffb30fb40e5d710049bfa",
+      "group": "Qilin",
+      "victim": "HYTORC",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Southern Lion Sdn Bhd",
+      "link": "https://www.ransomware.live/id/U291dGhlcm4gTGlvbiBTZG4gQmhkQGluY3JhbnNvbQ==",
+      "summary": "SOUTHERN LION, an equal-sharing joint venture between LION CORPORATION, JAPAN and LAM SOON (M) BHD, is a leading and active FMCG marketing company. The company is truly committed to creating and building great brands that will improve and shape the Malaysian lifestyles.",
+      "pubDate": "Mon, 24 Nov 2025 20:12:46 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/incransom?6b87c7250ca0c95d60416b551b6cd27d",
+      "group": "Incransom",
+      "victim": "Southern Lion Sdn Bhd",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Air Miles España, S.A",
+      "link": "https://www.ransomware.live/id/QWly4oCvTWlsZXMgRXNwYcOxYSwgUy5BQGV2ZXJlc3Q=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 24 Nov 2025 20:11:02 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/everest?1f76156b2006161972310f4bba11046b",
+      "group": "Everest",
+      "victim": "Air Miles España, S.A",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Swedish Arts Council",
       "link": "https://www.ransomware.live/id/U3dlZGlzaCBBcnRzIENvdW5jaWxAcmFuc29taG91c2U=",
@@ -2168,39 +2201,6 @@
       "group": "Sinobi",
       "victim": "TFC Poultry",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : istitutocomprensivo-cavaglia.edu.it",
-      "link": "https://www.ransomware.live/id/aXN0aXR1dG9jb21wcmVuc2l2by1jYXZhZ2xpYS5lZHUuaXRAc2FmZXBheQ==",
-      "summary": "Istituto Comprensivo di Cavaglià is a public school district in the Biella province of the Piedmont region, serving students from …",
-      "pubDate": "Tue, 18 Nov 2025 21:15:50 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/safepay?aa9b2d42d9d8205e1f52f1ae29594252",
-      "group": "Safepay",
-      "victim": "istitutocomprensivo-cavaglia.edu.it",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : puertoricowarehousing.com",
-      "link": "https://www.ransomware.live/id/cHVlcnRvcmljb3dhcmVob3VzaW5nLmNvbUBzYWZlcGF5",
-      "summary": "Puerto Rico Warehousing Management Corp. is a logistics and storage company based in Carolina, Puerto Rico. It operates a modern …",
-      "pubDate": "Tue, 18 Nov 2025 21:15:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?ccf12bd80bad634085dbb0389bda0069",
-      "group": "Safepay",
-      "victim": "puertoricowarehousing.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : adesursas.com",
-      "link": "https://www.ransomware.live/id/YWRlc3Vyc2FzLmNvbUBzYWZlcGF5",
-      "summary": "Adesur SAS is a Colombian company based in Pasto, Nariño, that operates in the wholesale distribution of agricultural and veterinary …",
-      "pubDate": "Tue, 18 Nov 2025 21:14:39 +0000",
-      "category": "CO",
-      "guid": "https://www.ransomware.live/group/safepay?4608eecfc5f1f54590c7f4aa4dbdf580",
-      "group": "Safepay",
-      "victim": "adesursas.com",
-      "country": "CO"
     }
   ]
 }
