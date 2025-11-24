@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-24T00:58:37.715Z",
+  "updatedAt": "2025-11-24T02:51:54.896Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : NBCAPITAL JOINT STOCK COMPANY",
+      "link": "https://www.ransomware.live/id/TkJDQVBJVEFMIEpPSU5UIFNUT0NLIENPTVBBTllAdGhlZ2VudGxlbWVu",
+      "summary": "https://fiingate.vn/BusinessDirectory/CompanyDetail/859289 NBCAPITAL Investment Co., Ltd. is a Vietnamese company engaged in investment and business operations, maintaining a complete internal corporate structure that includes finance, accounting, legal, human resources, sales, marketing, IT, and operations. Internal documentation shows that the company manages financial reporting, budgeting, taxation, contractual transactions, administrative records, and operational workflows, reflecting a formally organized and fully functioning enterprise. Official notices also confirm active financial account management and ongoing transactional activities.",
+      "pubDate": "Mon, 24 Nov 2025 00:57:13 +0000",
+      "category": "VN",
+      "guid": "https://www.ransomware.live/group/thegentlemen?862bfa8233a9bb6108bd0fbca18d22ce",
+      "group": "Thegentlemen",
+      "victim": "NBCAPITAL JOINT STOCK COMPANY",
+      "country": "VN"
+    },
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Singapore City Development Company Limited (SINGCONS)",
+      "link": "https://www.ransomware.live/id/U2luZ2Fwb3JlIENpdHkgRGV2ZWxvcG1lbnQgQ29tcGFueSBMaW1pdGVkIChTSU5HQ09OUylAdGhlZ2VudGxlbWVu",
+      "summary": "Singapore City Development Company Limited (SINGCONS) is a construction and real-estate development firm operating in Vietnam and the wider region, offering full-scope services that include land acquisition, master-planning, infrastructure development, construction contracting, and property management. The company focuses on delivering residential, commercial, hospitality and mixed-use projects by leveraging integrated capabilities—from initial feasibility studies and design to construction supervision, interior finishing and post-occupancy management. Headquartered in Singapore with a regional presence, SINGCONS emphasizes quality, sustainability and collaboration with local partners to establish landmark developments in urban centres. https://www.singcons.vn/ www.singcons.com",
+      "pubDate": "Mon, 24 Nov 2025 00:56:38 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/thegentlemen?4b5bf34ea70e17896972c757ebd6068b",
+      "group": "Thegentlemen",
+      "victim": "Singapore City Development Company Limited (SINGCONS)",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : AiHealth",
       "link": "https://www.ransomware.live/id/QWlIZWFsdGhAdGhlZ2VudGxlbWVu",
@@ -2179,28 +2201,6 @@
       "group": "Medusalocker",
       "victim": "dulay.ca",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Kdr Real Estate Services",
-      "link": "https://www.ransomware.live/id/S2RyIFJlYWwgRXN0YXRlIFNlcnZpY2VzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Mon, 17 Nov 2025 21:14:13 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?7a335dd2bbe22aff34a7405df261a048",
-      "group": "Qilin",
-      "victim": "Kdr Real Estate Services",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Air Design Systems",
-      "link": "https://www.ransomware.live/id/QWlyIERlc2lnbiBTeXN0ZW1zQHNpbm9iaQ==",
-      "summary": "Air Design Systems, Inc. is a woman-owned business based in the Chicago area, specializing in complete ventilation solutions since 1977. They offer services such as Building Information Modeling, fabrication, and design assistance, catering to markets including healthcare, education, and commercial projects. The company is recognized for its commitment to innovation, quality, and safety, having received multiple awards for its exemplary safety programs and subcontractor excellence. With a focus on advanced technology and 3D coordination, Air Design Systems aims to provide high-quality infrastructure for successful project outcomes.",
-      "pubDate": "Mon, 17 Nov 2025 20:25:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?8399ee9ec1f31ec205485afb2046919d",
-      "group": "Sinobi",
-      "victim": "Air Design Systems",
-      "country": "US"
     }
   ]
 }
