@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-24T09:15:49.707Z",
+  "updatedAt": "2025-11-24T10:14:31.799Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Advanced Dental",
+      "link": "https://www.ransomware.live/id/QWR2YW5jZWQgRGVudGFsQHNpbm9iaQ==",
+      "summary": "Advanced Dental, located in Aliso Viejo, CA, offers cutting-edge laser dentistry and a wide range of comprehensive dental services tailored for families. Their experienced team, led by Dr. Chitra Tiruveedula and Dr. Joseph C. Yang, provides personalized care for patients of all ages, from toddlers to seniors. The practice emphasizes advanced technology and techniques, including dental implants, Invisalign, and emergency dentistry, ensuring a comfortable and efficient experience. With flexible payment options and a commitment to patient well-being, Advanced Dental aims to create healthy smiles that last a lifetime.",
+      "pubDate": "Mon, 24 Nov 2025 10:03:27 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?cf8b897c62f05d237835623e22165668",
+      "group": "Sinobi",
+      "victim": "Advanced Dental",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Access Search",
+      "link": "https://www.ransomware.live/id/QWNjZXNzIFNlYXJjaEBzaW5vYmk=",
+      "summary": "Access Search, Inc. was founded with one simple mission: to be an honest, diligent, and knowledgeable search firm. With that goal in mind, we assembled the organization that exists today. We take great pride in our team. Each recruiter at ASI has several years of recruiting experience coupled with years of valuable experience in Big 4 public accounting and/or Fortune 500 finance. We come from some of Chicago&#x27;s finest employers including Andersen Consulting, Deloitte &amp; Touche, Ernst &amp; Young, KPMG, Baxter International, Platinum Technology International, R.R. Donnelley &amp; Sons, Unilever, Cardinal Heath, and Sears Roebuck &amp; Company. Our recruiters draw upon their collective knowledge to present our clients with carefully screened and informed business professionals.",
+      "pubDate": "Mon, 24 Nov 2025 10:03:04 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?828b5965fc7609856251aad98da1622f",
+      "group": "Sinobi",
+      "victim": "Access Search",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Liberty Gold Fruit",
       "link": "https://www.ransomware.live/id/TGliZXJ0eSBHb2xkIEZydWl0QHNpbm9iaQ==",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "QuaLex Manufacturing",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Skira has just published a new victim : INNOVEX HOLDINGS CO., LTD",
-      "link": "https://www.ransomware.live/id/SU5OT1ZFWCBIT0xESU5HUyBDTy4sIExUREBza2lyYQ==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Tue, 18 Nov 2025 08:25:03 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/skira?52657c1c4f231cb2f5c0cb91bb41eecc",
-      "group": "Skira",
-      "victim": "INNOVEX HOLDINGS CO., LTD",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Smoll & Banning, CPAs",
-      "link": "https://www.ransomware.live/id/U21vbGwgJiBCYW5uaW5nLCBDUEFzQHJoeXNpZGE=",
-      "summary": "Smoll &amp; Banning, CPAs Smoll &amp; Banning, CPA&#x27;s, LLC is an independent accounting firm located in Dodge City, Kansas.",
-      "pubDate": "Tue, 18 Nov 2025 02:48:15 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?2921936a90993b7eb45662a7c3a9e174",
-      "group": "Rhysida",
-      "victim": "Smoll & Banning, CPAs",
-      "country": "US"
     }
   ]
 }
