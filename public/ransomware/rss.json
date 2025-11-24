@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-24T15:13:29.855Z",
+  "updatedAt": "2025-11-24T16:13:15.894Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : NovAtel (belongs to Hexagon)",
+      "link": "https://www.ransomware.live/id/Tm92QXRlbCAoYmVsb25ncyB0byBIZXhhZ29uKUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 24 Nov 2025 15:47:40 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?625cc1ab853c9e447f6d164368170782",
+      "group": "Qilin",
+      "victim": "NovAtel (belongs to Hexagon)",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : dynamichomerepair.com",
+      "link": "https://www.ransomware.live/id/ZHluYW1pY2hvbWVyZXBhaXIuY29tQHNhZmVwYXk=",
+      "summary": "Dynamic Home Repair is a U.S.-based company specializing in repair services for manufactured homes. It offers a “lifetime warranty” on …",
+      "pubDate": "Mon, 24 Nov 2025 15:09:21 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?f9dd055d9f3bb9a3238ddf350bed9a22",
+      "group": "Safepay",
+      "victim": "dynamichomerepair.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : rehmann.de",
+      "link": "https://www.ransomware.live/id/cmVobWFubi5kZUBzYWZlcGF5",
+      "summary": "Furniture-retail company in Velbert, Germany, operating a furniture house and a high-end studio for home furnishings. This company is mid-sized, …",
+      "pubDate": "Mon, 24 Nov 2025 15:08:46 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?da87960b83ad0aa18c84ad220de49dc3",
+      "group": "Safepay",
+      "victim": "rehmann.de",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Akehurst Landscape Service",
       "link": "https://www.ransomware.live/id/QWtlaHVyc3QgTGFuZHNjYXBlIFNlcnZpY2VAYWtpcmE=",
@@ -2168,39 +2201,6 @@
       "group": "Incransom",
       "victim": "datenlotsen.de",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : zadroinc.com",
-      "link": "https://www.ransomware.live/id/emFkcm9pbmMuY29tQGluY3JhbnNvbQ==",
-      "summary": "Zadro Inc. is a California-based beauty, health, and wellness brand with over 37 years of experience in creating innovative products. Specializing in advanced technology and holding more than 40 patents, the company offers a range of items including makeup mirrors, towel warmers, massagers, and aromatherapy products. Its intended clients include individuals seeking to enhance their daily routines and achieve spa-like comfort at home. With a commitment to quality and customer satisfaction, Zadro Inc. has established itself as a trusted brand in the wellness and beauty industry.\r Employees: 200\r Revenue: $11.9 Million\r Industry: Retail\r Phone Number: (714) 892-9200",
-      "pubDate": "Tue, 18 Nov 2025 18:23:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?b622a7fdf723c0db30a70ea9ac67b7a8",
-      "group": "Incransom",
-      "victim": "zadroinc.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Bleyl Engineering",
-      "link": "https://www.ransomware.live/id/QmxleWwgRW5naW5lZXJpbmdAYWtpcmE=",
-      "summary": "Bleyl Engineering is a Consulting Civil Engineering firm based in Conroe, Texas and with offices in Bryan - College Station, Austi n, and Houston. We will upload 25gb of corporate documents soon. Lots of employee personal files (passports, driver licenses, SSNs, phones, addres ses, email addresses, credit card details), detailed financials,  contracts and agreements, clients&#x27; information, etc.",
-      "pubDate": "Tue, 18 Nov 2025 15:39:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?673ca1a3f693a7675b09e48920b41e5a",
-      "group": "Akira",
-      "victim": "Bleyl Engineering",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Regional Business Systems",
-      "link": "https://www.ransomware.live/id/UmVnaW9uYWwgQnVzaW5lc3MgU3lzdGVtc0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 18 Nov 2025 15:24:16 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?f695f981c1b291228e8cf54e37796b22",
-      "group": "Qilin",
-      "victim": "Regional Business Systems",
-      "country": ""
     }
   ]
 }
