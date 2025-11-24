@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-24T08:17:41.264Z",
+  "updatedAt": "2025-11-24T09:15:49.707Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Liberty Gold Fruit",
+      "link": "https://www.ransomware.live/id/TGliZXJ0eSBHb2xkIEZydWl0QHNpbm9iaQ==",
+      "summary": "Liberty Gold Fruit Company, Inc. is a family-owned business renowned for its premium quality food products and exceptional service since 1932. The company’s LIGO Brand boasts a presence on grocery shelves in 40 countries, primarily in Asia, Central America, and Europe, often ranking as a leading brand. With a commitment to excellence, Liberty Gold is one of the few remaining privately-owned companies in the industry. Its extensive distribution network ensures that their products reach a diverse clientele worldwide.",
+      "pubDate": "Mon, 24 Nov 2025 08:36:47 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?b7d37eb70281da81acf3f8cb9da3b496",
+      "group": "Sinobi",
+      "victim": "Liberty Gold Fruit",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : NBCAPITAL JOINT STOCK COMPANY",
       "link": "https://www.ransomware.live/id/TkJDQVBJVEFMIEpPSU5UIFNUT0NLIENPTVBBTllAdGhlZ2VudGxlbWVu",
@@ -2190,17 +2201,6 @@
       "group": "Rhysida",
       "victim": "Smoll & Banning, CPAs",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Medusalocker has just published a new victim : dulay.ca",
-      "link": "https://www.ransomware.live/id/ZHVsYXkuY2FAbWVkdXNhbG9ja2Vy",
-      "summary": "Price-$40000 (sale in one hand there are options for making a profit from these files will be included in the deal) 500Gb",
-      "pubDate": "Tue, 18 Nov 2025 00:33:56 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/medusalocker?87b5a9d22e3f228868c5556d4ebea55d",
-      "group": "Medusalocker",
-      "victim": "dulay.ca",
-      "country": "CA"
     }
   ]
 }
