@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-24T17:11:27.316Z",
+  "updatedAt": "2025-11-24T18:18:23.628Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Swedish Arts Council",
+      "link": "https://www.ransomware.live/id/U3dlZGlzaCBBcnRzIENvdW5jaWxAcmFuc29taG91c2U=",
+      "summary": "Kulturrådet is a government agency that promotes the development of culture, provides information, and grants funding to realize national cultural policy. It focuses on various cultural sectors including music, literature, visual arts, performing arts, and support for children and youth. The agency aims to enhance international collaboration and cultural exchange, particularly through initiatives like Creative Europe.",
+      "pubDate": "Mon, 24 Nov 2025 18:06:16 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/ransomhouse?aff6cfb845b74bd418c61f577c983b0a",
+      "group": "Ransomhouse",
+      "victim": "Swedish Arts Council",
+      "country": "SE"
+    },
+    {
+      "title": "🏴‍☠️ Payoutsking has just published a new victim : Klüber Elektroanlagenbau GmbH",
+      "link": "https://www.ransomware.live/id/S2zDvGJlciBFbGVrdHJvYW5sYWdlbmJhdSBHbWJIQHBheW91dHNraW5n",
+      "summary": "[AI generated] \"Klüber Elektroanlagenbau GmbH\" is a German electrical installation company. They are experts in implementing and maintaining electrical systems for buildings and industrial operations. The company&#x27;s services include planning and installation of electrical systems, creation of digital planning documents, and comprehensive electrical maintenance.",
+      "pubDate": "Mon, 24 Nov 2025 18:04:22 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/payoutsking?ff14d6772d53838f24bd3bf474dc0858",
+      "group": "Payoutsking",
+      "victim": "Klüber Elektroanlagenbau GmbH",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Issaqueena Pediatric Dentistry",
+      "link": "https://www.ransomware.live/id/SXNzYXF1ZWVuYSBQZWRpYXRyaWMgRGVudGlzdHJ5QGludGVybG9jaw==",
+      "summary": "Isaquenna is a medical center where people get dental treatment and leave their confidential data. Due to its low security, Isaquenna suffered a data breach involving its patients&#x27; phone numbers, addresses, SSNs, and personal information such as images, medical histories, and the entire history of the clinic.",
+      "pubDate": "Mon, 24 Nov 2025 17:48:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/interlock?78fdf00cdf8145e398fab95d5bafbb0a",
+      "group": "Interlock",
+      "victim": "Issaqueena Pediatric Dentistry",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : omegatoolcorp.com",
+      "link": "https://www.ransomware.live/id/b21lZ2F0b29sY29ycC5jb21AaW5jcmFuc29t",
+      "summary": "Omega Tool Corp. is a global leader in engineering, manufacturing, and production, specializing in advanced plastics tooling solutions for over 40 years. They provide services such as mold making, machining, validation, and production molding, focusing on precision and creative design. Their intended clients include industries such as automotive, heavy truck and agricultural, consumer products, and construction. The company is known for its high-energy culture and commitment to results.\r Employees: 500\r Revenue: $29.2 Million\r Industry: Industrial Machinery &amp; Equipment   \r Phone Number: +52 4421615885",
+      "pubDate": "Mon, 24 Nov 2025 17:45:06 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/incransom?bb44ee1d291dac8f923b98d509340962",
+      "group": "Incransom",
+      "victim": "omegatoolcorp.com",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Talarico",
       "link": "https://www.ransomware.live/id/VGFsYXJpY29AdGhlZ2VudGxlbWVu",
@@ -2157,50 +2201,6 @@
       "group": "Safepay",
       "victim": "adesursas.com",
       "country": "CO"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : aussenwelten.ch",
-      "link": "https://www.ransomware.live/id/YXVzc2Vud2VsdGVuLmNoQHNhZmVwYXk=",
-      "summary": "Zuber Aussenwelten AG is a Swiss company based in Domat/Ems (Graubünden), operating in the garden design and outdoor-living sector. The …",
-      "pubDate": "Tue, 18 Nov 2025 21:14:04 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/safepay?6c3058895359c2756cd2f63e598d5cfe",
-      "group": "Safepay",
-      "victim": "aussenwelten.ch",
-      "country": "CH"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : simmonsbb.com",
-      "link": "https://www.ransomware.live/id/c2ltbW9uc2JiLmNvbUBzYWZlcGF5",
-      "summary": "Simmons Electrical Co. Ltd. is a well-established Barbadian electrical contracting firm headquartered in St. Philip. The company specializes in a …",
-      "pubDate": "Tue, 18 Nov 2025 21:13:29 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/safepay?78076b6774a14b1f82074d107ae881b0",
-      "group": "Safepay",
-      "victim": "simmonsbb.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Spark Innovation",
-      "link": "https://www.ransomware.live/id/U3BhcmsgSW5ub3ZhdGlvbkBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 18 Nov 2025 21:10:04 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?0290e7c9226562fcb198e19da547deaf",
-      "group": "Qilin",
-      "victim": "Spark Innovation",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : baisyaakov.ca",
-      "link": "https://www.ransomware.live/id/YmFpc3lhYWtvdi5jYUBpbmNyYW5zb20=",
-      "summary": "Bais Yaakov Elementary School is dedicated to providing exceptional education for girls in the Toronto community. With a long-standing commitment to students and educational excellence, the school contributes significantly to the local community&#x27;s character. It serves approximately 945 students with a faculty of 115 teachers across 50 classrooms, fostering a strong legacy through its graduates. The school offers various programs including tuition payment options, lunch services, and community events.\r Employees: 50\r Revenue: $5 Million\r Industry: Education  \r Phone Number: (416) 783-6181",
-      "pubDate": "Tue, 18 Nov 2025 19:53:51 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/incransom?06b88eb9f6be1de42794f91d93bc23cc",
-      "group": "Incransom",
-      "victim": "baisyaakov.ca",
-      "country": "CA"
     }
   ]
 }
