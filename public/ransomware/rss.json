@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-24T11:10:46.621Z",
+  "updatedAt": "2025-11-24T12:23:34.213Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Adept",
+      "link": "https://www.ransomware.live/id/QWRlcHRAc2lub2Jp",
+      "summary": "ADEPT Projects specializes in innovative urban development and design solutions. They focus on creating sustainable and functional spaces that enhance community living. Their intended clients include municipalities, developers, and organizations looking to improve urban environments. The company is involved in various projects, including the Videnbyen Cortex Park.",
+      "pubDate": "Mon, 24 Nov 2025 11:37:56 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?6a81e6d97462dbb6361f4e506e4566d7",
+      "group": "Sinobi",
+      "victim": "Adept",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Collge Superieur De Montreal",
+      "link": "https://www.ransomware.live/id/Q29sbGdlIFN1cGVyaWV1ciBEZSBNb250cmVhbEByaHlzaWRh",
+      "summary": "Collge Superieur De Montreal",
+      "pubDate": "Mon, 24 Nov 2025 11:32:03 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/rhysida?13492b470e5bd8edd417c32e399bd2d6",
+      "group": "Rhysida",
+      "victim": "Collge Superieur De Montreal",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Chairmans Foods",
+      "link": "https://www.ransomware.live/id/Q2hhaXJtYW5zIEZvb2RzQGFraXJh",
+      "summary": "Chairmans Foods is a gold-star rated, USDA manufacturing plant an d producer of fresh, frozen and refrigerated food products for mo re than 40 years. They serve delicious home cooked foods to vario us delis, grocers and chain restaurants. We are going to upload company data soon. You will find financial data (audit, payment details, financial reports, invoices), pers onal financial details of employees, accounting files.",
+      "pubDate": "Mon, 24 Nov 2025 10:51:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?2ad6e020a932ec1447c517dee41a5af6",
+      "group": "Akira",
+      "victim": "Chairmans Foods",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Advanced Dental",
       "link": "https://www.ransomware.live/id/QWR2YW5jZWQgRGVudGFsQHNpbm9iaQ==",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/cloak?85136c59ec3360405e1e3ac74bca1022",
       "group": "Cloak",
       "victim": "Con*******.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Cloak has just published a new victim : ****e-det**.de",
-      "link": "https://www.ransomware.live/id/KioqKmUtZGV0KiouZGVAY2xvYWs=",
-      "summary": "",
-      "pubDate": "Tue, 18 Nov 2025 14:49:11 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/cloak?6dba512dd3665535716fb7a0df07cfcb",
-      "group": "Cloak",
-      "victim": "****e-det**.de",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Kensington Court",
-      "link": "https://www.ransomware.live/id/S2Vuc2luZ3RvbiBDb3VydEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 18 Nov 2025 13:48:52 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?95ed986e43fd36a11f9a26976176aa7d",
-      "group": "Qilin",
-      "victim": "Kensington Court",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : QuaLex Manufacturing",
-      "link": "https://www.ransomware.live/id/UXVhTGV4IE1hbnVmYWN0dXJpbmdAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Tue, 18 Nov 2025 12:19:06 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?f060c19041d02a045ae4686e12df7cfd",
-      "group": "Qilin",
-      "victim": "QuaLex Manufacturing",
       "country": ""
     }
   ]
