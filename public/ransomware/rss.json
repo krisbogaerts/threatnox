@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-25T16:15:42.359Z",
+  "updatedAt": "2025-11-25T17:13:03.637Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Payoutsking has just published a new victim : Accord Carton",
+      "link": "https://www.ransomware.live/id/QWNjb3JkIENhcnRvbkBwYXlvdXRza2luZw==",
+      "summary": "[AI generated] Accord Carton is a family-owned company that specializes in designing and manufacturing high-quality folding cartons. Founded in 1940, the company is based in Alsip, Illinois. Accord Carton utilizes advanced printing and finishing technologies to produce innovative packaging design solutions. Their services are widely used across industries, including food and beverage, healthcare, and beauty products.",
+      "pubDate": "Tue, 25 Nov 2025 16:45:04 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/payoutsking?9731cf10893b73e6b8be2e9980954ace",
+      "group": "Payoutsking",
+      "victim": "Accord Carton",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Iberia",
+      "link": "https://www.ransomware.live/id/SWJlcmlhQGV2ZXJlc3Q=",
+      "summary": "[AI generated] Iberia, officially known as Iberia Líneas Aéreas de España and owned by International Airlines Group, is the flag carrier airline of Spain. The company was founded in 1927 and its headquarters are located in Madrid, Spain. It operates an international network of services from its main base of Madrid-Barajas Airport. Iberia is a member of the Oneworld airline alliance.",
+      "pubDate": "Tue, 25 Nov 2025 16:14:28 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/everest?38776c1c2764e9ea092deeaf08368040",
+      "group": "Everest",
+      "victim": "Iberia",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : amcor",
       "link": "https://www.ransomware.live/id/YW1jb3JAY29pbmJhc2VjYXJ0ZWw=",
@@ -2179,28 +2201,6 @@
       "group": "Sinobi",
       "victim": "CHANGEPOND",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : IGT",
-      "link": "https://www.ransomware.live/id/SUdUQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 19 Nov 2025 17:05:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?73eb4f80ad8f701c2e1be71484816f27",
-      "group": "Qilin",
-      "victim": "IGT",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : American Trust Administrators",
-      "link": "https://www.ransomware.live/id/QW1lcmljYW4gVHJ1c3QgQWRtaW5pc3RyYXRvcnNAYWtpcmE=",
-      "summary": "American Trust Administrators, Inc. (ATA) is a national leader in the administration and management of employee benefit plans. We will upload almost 143gb of corporate documents soon. As you c an understand there are a lot of HR files, confidentiality agreem ents, detailed financials and accounting, lots of client files, p rojects, NDA, etc.",
-      "pubDate": "Wed, 19 Nov 2025 16:39:21 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?c49486be187cd61f0fadc5889101e9ea",
-      "group": "Akira",
-      "victim": "American Trust Administrators",
-      "country": "US"
     }
   ]
 }
