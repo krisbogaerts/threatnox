@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-25T04:18:17.241Z",
+  "updatedAt": "2025-11-25T05:12:46.445Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Amcore",
+      "link": "https://www.ransomware.live/id/QW1jb3JlQGNvaW5iYXNlY2FydGVs",
+      "summary": "Amcor is a global leader in developing and producing packaging solutions for a wide range of products, including food, beverage, medical, and perso...",
+      "pubDate": "Tue, 25 Nov 2025 03:42:18 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?fe8c109677615651892a858173acd4f9",
+      "group": "Coinbasecartel",
+      "victim": "Amcore",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Ecuacorriente S.A.",
       "link": "https://www.ransomware.live/id/RWN1YWNvcnJpZW50ZSBTLkEuQHRoZWdlbnRsZW1lbg==",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "Genrose Stone + Tile",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : heywood.org",
-      "link": "https://www.ransomware.live/id/aGV5d29vZC5vcmdAc2lub2Jp",
-      "summary": "A member of the Heywood Healthcare system, Heywood Hospital is an acute care hospital in Gardner, MA, providing a broad range of high quality medical, surgical, obstetrical, pediatric and behavioral health services on an inpatient and outpatient basis.",
-      "pubDate": "Wed, 19 Nov 2025 00:38:37 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?9f4f1f847d005cc84e126224fed8d985",
-      "group": "Sinobi",
-      "victim": "heywood.org",
-      "country": ""
     }
   ]
 }
