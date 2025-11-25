@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-25T10:14:35.183Z",
+  "updatedAt": "2025-11-25T11:11:01.914Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Rempe Construction",
+      "link": "https://www.ransomware.live/id/UmVtcGUgQ29uc3RydWN0aW9uQHNpbm9iaQ==",
+      "summary": "Rempe Construction specializes in construction services, offering expertise to various clients in need of reliable building solutions. With a focus on quality and customer satisfaction, they deliver tailored construction projects. Located in Novato, California, they serve the local community and surrounding areas. Their commitment to excellence positions them as a trusted partner in the construction industry.",
+      "pubDate": "Tue, 25 Nov 2025 10:47:41 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?fceb074c3d36123870f0bc5f87a5a9fb",
+      "group": "Sinobi",
+      "victim": "Rempe Construction",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : MSK",
+      "link": "https://www.ransomware.live/id/TVNLQFNpbGVudFJhbnNvbUdyb3Vw",
+      "summary": "Established in 1908, Mitchell Silberberg &amp; Knupp (MSK), is a firm that provides services such as Ventu…",
+      "pubDate": "Tue, 25 Nov 2025 10:09:41 +0000",
+      "category": "RU",
+      "guid": "https://www.ransomware.live/group/SilentRansomGroup?25fa7538fc85c8d2fbcba4db414bf400",
+      "group": "Silentransomgroup",
+      "victim": "MSK",
+      "country": "RU"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Marlex Human Capital",
       "link": "https://www.ransomware.live/id/TWFybGV4IEh1bWFuIENhcGl0YWxAcmh5c2lkYQ==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/devman?5fa2145dcc2de727107964685666c45e",
       "group": "Devman",
       "victim": "mcchemical.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : ***.***",
-      "link": "https://www.ransomware.live/id/KioqLioqKkB0aGVnZW50bGVtZW4=",
-      "summary": "1.5 terabytes of data stolen from one of Asia&#x27;s largest investment companies, with more than 10 billion USD under management. The stolen data includes: 1. Investment documentation: private placement memorandums, investment memos (Pre-IC/Final-IC), financial models and project budgets 2. Investor database (LP): complete limited partner information, investment terms, contacts, non-disclosure agreements 3. Portfolio companies: financial statements, strategic plans and operating metrics for 30+ companies under management 4. Active M&amp;A deals: documentation on 9+ projects, including due diligence and asset valuations 5. Corporate finances: salaries and bonuses for all employees (150+ people), department budgets, financial results 2022-2025 6. Strategic documents: Management Committee materials, top management biographies, corporate strategy, ESG policies 7. Legal documents: counterparty contracts, partner NDAs, regulatory documentation 8. Email correspondence: 500+ email files with deal approvals, negotiations and confidential management communications 9. CEO Office documents: leadership personal files and critical corporate secrets",
-      "pubDate": "Wed, 19 Nov 2025 13:30:27 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/thegentlemen?d49540d307c8af2262f19432f7cd58bd",
-      "group": "Thegentlemen",
-      "victim": "***.***",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Perry Brothers Oil",
-      "link": "https://www.ransomware.live/id/UGVycnkgQnJvdGhlcnMgT2lsQGFraXJh",
-      "summary": "Perry Brothers Oil Company is an automotive shop specializing in  tires, motor oil, and wheel alignments.  We will upload 20gb of corporate documents soon. Personal employe e and customers data (passports, driver licenses, personal phones , addresses, addresses emails, credit card records), confidential ity agreements, detailed financials and accounting, contracts and agreements, clients&#x27; information, incident reports, NDA, etc.",
-      "pubDate": "Wed, 19 Nov 2025 12:51:07 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?d5f834b71b0e14ea035c2639769a252c",
-      "group": "Akira",
-      "victim": "Perry Brothers Oil",
       "country": "US"
     }
   ]
