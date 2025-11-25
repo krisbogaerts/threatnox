@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-25T15:13:23.835Z",
+  "updatedAt": "2025-11-25T16:15:42.359Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : amcor",
+      "link": "https://www.ransomware.live/id/YW1jb3JAY29pbmJhc2VjYXJ0ZWw=",
+      "summary": "Amcor is a global leader in developing and producing packaging solutions for a wide range of products, including food, beverage, medical, and perso...",
+      "pubDate": "Tue, 25 Nov 2025 15:22:07 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?9203c43e7a8c30e70766767047525548",
+      "group": "Coinbasecartel",
+      "victim": "amcor",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : cryopur.com",
       "link": "https://www.ransomware.live/id/Y3J5b3B1ci5jb21AaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "American Trust Administrators",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : future.com.bo",
-      "link": "https://www.ransomware.live/id/ZnV0dXJlLmNvbS5ib0BkZXZtYW4=",
-      "summary": "Ransom: 200k 120gb",
-      "pubDate": "Wed, 19 Nov 2025 15:55:11 +0000",
-      "category": "BO",
-      "guid": "https://www.ransomware.live/group/devman?140ff14455f646fc42de90ac9afbe7a4",
-      "group": "Devman",
-      "victim": "future.com.bo",
-      "country": "BO"
     }
   ]
 }
