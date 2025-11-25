@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-25T17:13:03.637Z",
+  "updatedAt": "2025-11-25T18:18:28.819Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Columbia Medical Practice",
+      "link": "https://www.ransomware.live/id/Q29sdW1iaWEgTWVkaWNhbCBQcmFjdGljZUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 17:34:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?880c3ab639491c2763989e863ef1dd7e",
+      "group": "Qilin",
+      "victim": "Columbia Medical Practice",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Rochester Philharmonic Orchestra",
+      "link": "https://www.ransomware.live/id/Um9jaGVzdGVyIFBoaWxoYXJtb25pYyBPcmNoZXN0cmFAYWtpcmE=",
+      "summary": "The Rochester Philharmonic Orchestra (RPO) is a distinguished ins titution with a 100-year legacy of artistic excellence, offering  a diverse range of concerts and educational programs.  We will upload corporate documents soon. Musicians&#x27; personal info rmation (SSNs, DLs, phones and so on), budget, internal confident ial docs, NDA, etc.",
+      "pubDate": "Tue, 25 Nov 2025 17:07:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?e55e8ba530dc75976b184ab182b4cdcd",
+      "group": "Akira",
+      "victim": "Rochester Philharmonic Orchestra",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Payoutsking has just published a new victim : Accord Carton",
       "link": "https://www.ransomware.live/id/QWNjb3JkIENhcnRvbkBwYXlvdXRza2luZw==",
@@ -2179,28 +2201,6 @@
       "group": "Nova",
       "victim": "HostingFest",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Croft",
-      "link": "https://www.ransomware.live/id/Q3JvZnRAc2lub2Jp",
-      "summary": "Croft is a leading window and door company specializing in energy-efficient vinyl and aluminum products, including a variety of windows and patio doors. With a commitment to quality and innovation, the company has built a reputation as one of the largest and most reliable suppliers in the industry since its establishment in 1920. Croft&#x27;s offerings are designed to enhance comfort and energy savings for homeowners, making them an ideal choice for those seeking high-performance solutions. The company caters to both individual customers and certified dealers in the market.",
-      "pubDate": "Wed, 19 Nov 2025 20:14:11 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?5a919007fb348ee7c38dd053d44385ca",
-      "group": "Sinobi",
-      "victim": "Croft",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : CHANGEPOND",
-      "link": "https://www.ransomware.live/id/Q0hBTkdFUE9OREBzaW5vYmk=",
-      "summary": "Founded in 2000, Changepond is a software company that provides enterprise software, digital and data solutions. The company is headquartered in Siruseri, Chennai, India.",
-      "pubDate": "Wed, 19 Nov 2025 20:13:48 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/sinobi?f558070624a5b6dd500cf9ce7f447470",
-      "group": "Sinobi",
-      "victim": "CHANGEPOND",
-      "country": "IN"
     }
   ]
 }
