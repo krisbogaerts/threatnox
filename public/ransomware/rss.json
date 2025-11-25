@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-25T02:29:21.446Z",
+  "updatedAt": "2025-11-25T03:43:32.651Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Ecuacorriente S.A.",
+      "link": "https://www.ransomware.live/id/RWN1YWNvcnJpZW50ZSBTLkEuQHRoZWdlbnRsZW1lbg==",
+      "summary": "https://ecsa.com.ec https://www.emis.com/php/company-profile/EC/Ecuacorriente_SA_en_3950413.html https://www.dnb.com/business-directory/company-profiles.ecuacorriente_sa.ef08074bdfb377fb12cd904184c089bc.html . Revenue - $1.11 billion USD. Ecuacorriente S.A is a mining company. It is operated by China Railway Construction Copper Crown Investment Co., Ltd. The company is involved in mining and has created over 2,400 direct jobs for the local area, as well as over 10,000 indirect jobs. Ecuacorriente S.A has a mineral processing capacity of 20 million tons per year and operates the Mirador Copper Mine, with an annual production of 354,000 tonnes of copper concentrate and 96,000 tons of copper. The company is also engaged in environmental governance and ecological recovery work.",
+      "pubDate": "Tue, 25 Nov 2025 03:15:50 +0000",
+      "category": "EC",
+      "guid": "https://www.ransomware.live/group/thegentlemen?76bbc2fa856705b327739de22138169b",
+      "group": "Thegentlemen",
+      "victim": "Ecuacorriente S.A.",
+      "country": "EC"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : HYTORC",
       "link": "https://www.ransomware.live/id/SFlUT1JDQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "heywood.org",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : TFC Poultry",
-      "link": "https://www.ransomware.live/id/VEZDIFBvdWx0cnlAc2lub2Jp",
-      "summary": "TFC Poultry specializes in producing high-quality meat, with a focus on deboning turkey thighs. They also offer a range of other protein services and products. The company utilizes advanced x-ray and metal detection technology to ensure the safety and wholesomeness of their products. Their intended clients include businesses seeking reliable and safe poultry products.",
-      "pubDate": "Tue, 18 Nov 2025 22:19:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?1580473926aec121e68f3594d173c978",
-      "group": "Sinobi",
-      "victim": "TFC Poultry",
-      "country": "US"
     }
   ]
 }
