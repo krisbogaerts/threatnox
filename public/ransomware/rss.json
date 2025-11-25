@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-25T05:12:46.445Z",
+  "updatedAt": "2025-11-25T06:19:24.200Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Nottingham Village",
+      "link": "https://www.ransomware.live/id/Tm90dGluZ2hhbSBWaWxsYWdlQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 05:18:54 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?115a52b853a178189648f5cc630c7b9c",
+      "group": "Qilin",
+      "victim": "Nottingham Village",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Zecher",
+      "link": "https://www.ransomware.live/id/WmVjaGVyQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 05:18:15 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/qilin?4eb439da43dbc8d08be5a660ef4d8ea3",
+      "group": "Qilin",
+      "victim": "Zecher",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Blue Projects",
+      "link": "https://www.ransomware.live/id/Qmx1ZSBQcm9qZWN0c0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 05:17:37 +0000",
+      "category": "RO",
+      "guid": "https://www.ransomware.live/group/qilin?186a6338fb48f97a2583e9810e66436f",
+      "group": "Qilin",
+      "victim": "Blue Projects",
+      "country": "RO"
+    },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Amcore",
       "link": "https://www.ransomware.live/id/QW1jb3JlQGNvaW5iYXNlY2FydGVs",
@@ -2168,39 +2201,6 @@
       "group": "Akira",
       "victim": "Stoss Landscape Urbanism",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Sarcoma has just published a new victim : B&J Rocket Sales",
-      "link": "https://www.ransomware.live/id/QiZKIFJvY2tldCBTYWxlc0BzYXJjb21h",
-      "summary": "B&amp;J Rocket Sales BJ Rocket is a leading manufacturer in the tire and rubber industry, specializing in retreading blades and carbide tools. The company provides a comprehensive range of tire retreading tools and is recognized for its innovative offerings that enhance the efficiency of tire processing. Additionally, BJ Rocket caters to various sectors by producing specialized tools for materials like mineral wool, marble, and leather. Their commitment to product quality and customer satisfaction has secured their position as a trusted market leaderGeo: Switzerland - Leak size: 156 GB Archive - Contains: Files, SQL, Exchange",
-      "pubDate": "Wed, 19 Nov 2025 06:32:43 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/sarcoma?c5e991f8f1b3532e005847f5c4870590",
-      "group": "Sarcoma",
-      "victim": "B&J Rocket Sales",
-      "country": "CH"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : FSGROUP-Engineering",
-      "link": "https://www.ransomware.live/id/RlNHUk9VUC1FbmdpbmVlcmluZ0BhbnViaXM=",
-      "summary": "Leakage of customer contact details.",
-      "pubDate": "Wed, 19 Nov 2025 01:28:20 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/anubis?575b6de1c4df683a2a3f3ba444f6e466",
-      "group": "Anubis",
-      "victim": "FSGROUP-Engineering",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Genrose Stone + Tile",
-      "link": "https://www.ransomware.live/id/R2Vucm9zZSBTdG9uZSArIFRpbGVAc2lub2Jp",
-      "summary": "Since 1988, we have been working together with homeowners, architects, and designers to bring ideas to life. Our core purpose is to inspire excitement through innovative products and support. At GENROSE Stone + Tile, we not only provide premium stone and tile for your project, we also look for ways to serve your best interests. Service and support are the foundations of the GENROSE brand, and your needs, creative vision, and long-term satisfaction are always our first priority. That&#x27;s the difference we make every day. We search the world for the most beautiful natural stone and stay in step with fashion trends and technical innovations in interior design. With a very careful eye on style, quality and durability we source, import, and stock over 300 varieties of stone slabs and literally thousands of tile options. With our handcrafted tiles we can make any shape and any color tile in our manufacturing plant right in Connecticut to fulfill your vision.",
-      "pubDate": "Wed, 19 Nov 2025 00:38:54 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?8b845ecf0d3b79f80927c44780211268",
-      "group": "Sinobi",
-      "victim": "Genrose Stone + Tile",
-      "country": "US"
     }
   ]
 }
