@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-25T09:15:11.869Z",
+  "updatedAt": "2025-11-25T10:14:35.183Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Marlex Human Capital",
+      "link": "https://www.ransomware.live/id/TWFybGV4IEh1bWFuIENhcGl0YWxAcmh5c2lkYQ==",
+      "summary": "Marlex Human Capital",
+      "pubDate": "Tue, 25 Nov 2025 09:49:54 +0000",
+      "category": "PL",
+      "guid": "https://www.ransomware.live/group/rhysida?e07f0368321900a8a73e72848a1fab9e",
+      "group": "Rhysida",
+      "victim": "Marlex Human Capital",
+      "country": "PL"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Balkrishna Paper Mills LTD, India",
+      "link": "https://www.ransomware.live/id/QmFsa3Jpc2huYSBQYXBlciBNaWxscyBMVEQsIEluZGlhQG5pZ2h0c3BpcmU=",
+      "summary": "Balkrishna Paper Mills LTD, India",
+      "pubDate": "Tue, 25 Nov 2025 09:44:59 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/nightspire?e3d980f317addc45d42a5cf8f300761a",
+      "group": "Nightspire",
+      "victim": "Balkrishna Paper Mills LTD, India",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : NONC, India",
+      "link": "https://www.ransomware.live/id/Tk9OQywgSW5kaWFAbmlnaHRzcGlyZQ==",
+      "summary": "NONC, India",
+      "pubDate": "Tue, 25 Nov 2025 09:44:35 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/nightspire?d72f5628fb018d5ea6736c6230d134aa",
+      "group": "Nightspire",
+      "victim": "NONC, India",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : LAMAICA, Egypt",
+      "link": "https://www.ransomware.live/id/TEFNQUlDQSwgRWd5cHRAbmlnaHRzcGlyZQ==",
+      "summary": "LAMAICA, Egypt",
+      "pubDate": "Tue, 25 Nov 2025 09:44:10 +0000",
+      "category": "EG",
+      "guid": "https://www.ransomware.live/group/nightspire?aa2f233c83e9f2b464d8a878fa94530f",
+      "group": "Nightspire",
+      "victim": "LAMAICA, Egypt",
+      "country": "EG"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : StatMedPlus LLC",
       "link": "https://www.ransomware.live/id/U3RhdE1lZFBsdXMgTExDQHNpbm9iaQ==",
@@ -2157,50 +2201,6 @@
       "group": "Akira",
       "victim": "Perry Brothers Oil",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Aarco",
-      "link": "https://www.ransomware.live/id/QWFyY29AYWtpcmE=",
-      "summary": "AARCO is a Mexican insurance company that offers a diverse range  of products including auto, life, medical, home, and travel insur ance, tailored for both individuals and businesses. We will upload 17gb of corporate documents soon. Detailed persona l employee data (passports, driver licenses, Mexican ID&#x27;s, person al phones, addresses, addresses emails, fingerprints), lots of co nfidential files, financials and accounting, contracts and agreem ents, clients&#x27; personal information, etc.",
-      "pubDate": "Wed, 19 Nov 2025 12:51:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?061e21d7759e6c5cfafdebb700ebd525",
-      "group": "Akira",
-      "victim": "Aarco",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : ARENCON",
-      "link": "https://www.ransomware.live/id/QVJFTkNPTkBha2lyYQ==",
-      "summary": "ARENCON is a Toronto-based consulting engineering firm specializi ng in fire protection, security, and life safety solutions, boast ing a 25-year track record of success in North America.  We are ready to upload more than 84GB data. There are lots of ess ential corporate documents such as: financial data (audit, paymen t details, invoices), detailed employees and customers informatio n (passports, driver&#x27;s license , Social Security Numbers,emails,  phones) confidential information, NDAs and other documents with d etailed personal information.",
-      "pubDate": "Wed, 19 Nov 2025 11:49:46 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?da0152d5e1ad201e6ddc8f0aaf5c488c",
-      "group": "Akira",
-      "victim": "ARENCON",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Cardinal Services",
-      "link": "https://www.ransomware.live/id/Q2FyZGluYWwgU2VydmljZXNAYWtpcmE=",
-      "summary": "Cardinal Services, based in New Iberia, LA, is a leading oilfield service company specializing in land and offshore services. We will upload 90gb of corporate documents soon. Personal employe e files (driver licenses, phones, addresses, emails, credit card  details), financials and accounting, contracts and agreements, cl ients&#x27; information, incident reports, NDA, etc.",
-      "pubDate": "Wed, 19 Nov 2025 11:49:42 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?07b744fcc28af00d3efe4ea9840e4b17",
-      "group": "Akira",
-      "victim": "Cardinal Services",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Marine Foods Express LTD",
-      "link": "https://www.ransomware.live/id/TWFyaW5lIEZvb2RzIEV4cHJlc3MgTFREQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 19 Nov 2025 11:23:08 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/qilin?cf26f4096fe3ff8b62b2372c1f472258",
-      "group": "Qilin",
-      "victim": "Marine Foods Express LTD",
-      "country": "JP"
     }
   ]
 }
