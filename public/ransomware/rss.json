@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-25T13:28:32.906Z",
+  "updatedAt": "2025-11-25T14:12:22.476Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : cryopur.com",
+      "link": "https://www.ransomware.live/id/Y3J5b3B1ci5jb21AaW5jcmFuc29t",
+      "summary": "CryoPur is a French company specializing in advanced cryogenic technology for biogas purification and liquefaction. Founded in 2015, the company developed a patented process that converts raw biogas into bio-LNG (liquefied biomethane) and liquid CO₂ of very high purity. Their systems are used in agricultural, industrial, wastewater, and landfill biogas facilities. CryoPur was acquired by FDE (La Française de l’Énergie), which now owns 94% of the company. CryoPur is headquartered in Massy, Île-de-France, France.",
+      "pubDate": "Tue, 25 Nov 2025 13:18:36 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/incransom?5b87c06f6c0d1bb869c677a645669967",
+      "group": "Incransom",
+      "victim": "cryopur.com",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Schmidt's",
       "link": "https://www.ransomware.live/id/U2NobWlkdCdzQGluY3JhbnNvbQ==",
@@ -2190,17 +2201,6 @@
       "group": "Devman",
       "victim": "future.com.bo",
       "country": "BO"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Orchid Island Golf and Beach Club",
-      "link": "https://www.ransomware.live/id/T3JjaGlkIElzbGFuZCBHb2xmIGFuZCBCZWFjaCBDbHViQGFraXJh",
-      "summary": "Orchid Island Golf and Beach Club is a member-owned golf communit y located in Vero Beach, Florida, nestled between the Atlantic Oc ean and the Indian River. We will upload almost 20gb of corporate documents soon. Employee  data (driver licenses, phones, addresses), confidential files, fi nancials and accounting, contracts and agreements, clients&#x27; infor mation, NDA, projects, etc.",
-      "pubDate": "Wed, 19 Nov 2025 15:50:17 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?e3e382fcebba95569ef0c04fa7535685",
-      "group": "Akira",
-      "victim": "Orchid Island Golf and Beach Club",
-      "country": "US"
     }
   ]
 }
