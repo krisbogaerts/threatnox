@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-25T21:11:12.190Z",
+  "updatedAt": "2025-11-25T22:11:54.247Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Kids & Company",
+      "link": "https://www.ransomware.live/id/S2lkcyAmIENvbXBhbnlAc2lub2Jp",
+      "summary": "Kids &amp; Company is a leading provider of high-quality, flexible child care and early education, operating over 150 locations across North America. They offer a range of programs for children aged 6 weeks to 12 years, including infant, toddler, preschool, kindergarten, and school-age care, as well as summer camps and back-up care services. Their unique curriculum emphasizes emergent learning and fosters independence, confidence, and socialization through play and exploration. The company also partners with employers to provide caregiving benefits, addressing work-life conflicts for families.",
+      "pubDate": "Tue, 25 Nov 2025 21:12:01 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/sinobi?2b578f0422f01fb89fe47c55084f279a",
+      "group": "Sinobi",
+      "victim": "Kids & Company",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : National Money Mart Company",
+      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgTW9uZXkgTWFydCBDb21wYW55QGV2ZXJlc3Q=",
+      "summary": "[AI generated] National Money Mart Company, commonly known as Money Mart, is a Canadian financial services company which provides payday loans, cheque cashing, tax preparation and money transfer services for underbanked or not-fully-served customers. Headquartered in Victoria, British Columbia, Money Mart operates in multiple locations across Canada. It has facilitated financial solutions for millions of customers since its inception in 1982.",
+      "pubDate": "Tue, 25 Nov 2025 20:44:40 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/everest?8e9a6c3dec22d0111830b92d9006554d",
+      "group": "Everest",
+      "victim": "National Money Mart Company",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Lake Superior State University",
       "link": "https://www.ransomware.live/id/TGFrZSBTdXBlcmlvciBTdGF0ZSBVbml2ZXJzaXR5QHFpbGlu",
@@ -2179,28 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "Makro",
       "country": "NL"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : V****e",
-      "link": "https://www.ransomware.live/id/VioqKiplQHBheW91dHNraW5n",
-      "summary": "",
-      "pubDate": "Thu, 20 Nov 2025 12:17:43 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/payoutsking?94c8136f1e25de95070630d7b93ccfa8",
-      "group": "Payoutsking",
-      "victim": "V****e",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : P****s",
-      "link": "https://www.ransomware.live/id/UCoqKipzQHBheW91dHNraW5n",
-      "summary": "",
-      "pubDate": "Thu, 20 Nov 2025 12:17:40 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/payoutsking?ebf70055b0dbea700dc4f672881defe8",
-      "group": "Payoutsking",
-      "victim": "P****s",
-      "country": "FR"
     }
   ]
 }
