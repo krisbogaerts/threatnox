@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-25T08:17:12.088Z",
+  "updatedAt": "2025-11-25T09:15:11.869Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : StatMedPlus LLC",
+      "link": "https://www.ransomware.live/id/U3RhdE1lZFBsdXMgTExDQHNpbm9iaQ==",
+      "summary": "StatMedPlus LLC is located at 22 Jericho Turnpike in Mineola, New York 11501.",
+      "pubDate": "Tue, 25 Nov 2025 08:47:16 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?6eefcf426f9c3050fb8a6c7aebefe56c",
+      "group": "Sinobi",
+      "victim": "StatMedPlus LLC",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Nottingham Village",
       "link": "https://www.ransomware.live/id/Tm90dGluZ2hhbSBWaWxsYWdlQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Marine Foods Express LTD",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Stoss Landscape Urbanism",
-      "link": "https://www.ransomware.live/id/U3Rvc3MgTGFuZHNjYXBlIFVyYmFuaXNtQGFraXJh",
-      "summary": "Stoss Landscape Urbanism specializes in designing landscapes and  social spaces that promote resilience, vitality, and equity. Thei r projects encompass a variety of sectors including downtown plaz as, parks, waterfronts, campus institutions, and mixed-use reside ntial areas. We are ready to upload more than 76GB data. You will find employe es and customers information (passports, Social Security Numbers, emails, phones) confidential information, NDAs and other documen ts with detailed personal information.",
-      "pubDate": "Wed, 19 Nov 2025 10:47:23 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/akira?8c93182456f5f3004e8992701943a3b1",
-      "group": "Akira",
-      "victim": "Stoss Landscape Urbanism",
-      "country": "ES"
     }
   ]
 }
