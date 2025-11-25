@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-25T12:23:49.076Z",
+  "updatedAt": "2025-11-25T13:28:32.906Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Schmidt's",
+      "link": "https://www.ransomware.live/id/U2NobWlkdCdzQGluY3JhbnNvbQ==",
+      "summary": "SCHMIDT&#x27;S is a specialized market that offers a wide array of products and services for house, garden, crafts, and industry, boasting over 130 years of tradition and quality. They cater to both private and business clients, providing expert advice and tailored solutions from their extensive product range. The company&#x27;s services include workshop support, delivery, eBusiness solutions, and a strong focus on customer satisfaction and reliability. SCHMIDT&#x27;S is dedicated to maintaining long-lasting partnerships and fostering a family-oriented company culture.\r \r Over 100GB of data was extracted: contracts, clients, payment data, PII, and bank transfers.",
+      "pubDate": "Tue, 25 Nov 2025 12:26:39 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/incransom?ec9fc3c810d6cbb3ba44abc4fe10ae64",
+      "group": "Incransom",
+      "victim": "Schmidt's",
+      "country": "AT"
+    },
     {
       "title": "🏴‍☠️ Payoutsking has just published a new victim : S****e",
       "link": "https://www.ransomware.live/id/UyoqKiplQHBheW91dHNraW5n",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?e3e382fcebba95569ef0c04fa7535685",
       "group": "Akira",
       "victim": "Orchid Island Golf and Beach Club",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Modern Display",
-      "link": "https://www.ransomware.live/id/TW9kZXJuIERpc3BsYXlAYWtpcmE=",
-      "summary": "Modern Display specializes in providing exquisite seasonal decor, collectibles, and thoughtful gifts suitable for every occasion. We will upload almost 20gb of corporate documents soon. Employee  data, confidentiality agreements, detailed financials and account ing, contracts with Disney and other widely known companies, clie nt data, lots of projects, drawings and specification, etc.",
-      "pubDate": "Wed, 19 Nov 2025 15:50:13 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9efde30841028ca3023f95efd71b1834",
-      "group": "Akira",
-      "victim": "Modern Display",
       "country": "US"
     }
   ]
