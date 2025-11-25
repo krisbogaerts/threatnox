@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2025-11-25T18:18:28.819Z",
+  "updatedAt": "2025-11-25T19:10:26.641Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Lake Superior State University",
+      "link": "https://www.ransomware.live/id/TGFrZSBTdXBlcmlvciBTdGF0ZSBVbml2ZXJzaXR5QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 18:43:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?3c300786b8ab2fb14329a4697037687d",
+      "group": "Qilin",
+      "victim": "Lake Superior State University",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Paal",
+      "link": "https://www.ransomware.live/id/UGFhbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 18:43:23 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?d1dd0292a4446271faaa418ae04f0a78",
+      "group": "Qilin",
+      "victim": "Paal",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Inspire Communities",
+      "link": "https://www.ransomware.live/id/SW5zcGlyZSBDb21tdW5pdGllc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 18:42:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?fef5cecd748fcf27ad9bbcca9b6cd534",
+      "group": "Qilin",
+      "victim": "Inspire Communities",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : New England Tractor Trailer Training School",
+      "link": "https://www.ransomware.live/id/TmV3IEVuZ2xhbmQgVHJhY3RvciBUcmFpbGVyIFRyYWluaW5nIFNjaG9vbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 18:41:56 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?b8b0416fe49d6542ea515cabba9c2675",
+      "group": "Qilin",
+      "victim": "New England Tractor Trailer Training School",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Christofle",
+      "link": "https://www.ransomware.live/id/Q2hyaXN0b2ZsZUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 25 Nov 2025 18:41:14 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?ead647df27d675a9d156dec0795fda44",
+      "group": "Qilin",
+      "victim": "Christofle",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Iberia Airlines",
+      "link": "https://www.ransomware.live/id/SWJlcmlhIEFpcmxpbmVzQGV2ZXJlc3Q=",
+      "summary": "[AI generated] Iberia Airlines, officially known as Iberia Líneas Aéreas de España S.A. Operadora, is the largest and national flag carrier airline of Spain. It was founded in June 1927 and operates an international network of services from its main base in Madrid. Iberia is a part of the International Airlines Group (IAG), along with other airlines like British Airways and Aer Lingus. Its fleet includes various Airbus models.",
+      "pubDate": "Tue, 25 Nov 2025 18:23:58 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/everest?a804b8bd28aa2b075cf54c074939b1ac",
+      "group": "Everest",
+      "victim": "Iberia Airlines",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Columbia Medical Practice",
       "link": "https://www.ransomware.live/id/Q29sdW1iaWEgTWVkaWNhbCBQcmFjdGljZUBxaWxpbg==",
@@ -2135,72 +2201,6 @@
       "group": "Payoutsking",
       "victim": "P****s",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : J****e",
-      "link": "https://www.ransomware.live/id/SioqKiplQHBheW91dHNraW5n",
-      "summary": "",
-      "pubDate": "Thu, 20 Nov 2025 12:17:17 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/payoutsking?bfaa8a658f15c255671fc7e6f925acad",
-      "group": "Payoutsking",
-      "victim": "J****e",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Hydroscand",
-      "link": "https://www.ransomware.live/id/SHlkcm9zY2FuZEBha2lyYQ==",
-      "summary": "Hydroscand was established 1969 in Stockholm, Sweden, by Björn Ho lmström. The focus was, and still is, fluid connectors, hoses and fittings. High quality and reliable performance in a demanding e nvironment was the primary focus. We are ready to upload more than 42GB data. There are lots of ess ential corporate documents such as: financial data (audit, paymen t details, invoices), detailed employees and customers informatio n (passports, Personal identity numbers, emails, phones) confiden tial information, NDAs and other documents with detailed personal information.",
-      "pubDate": "Thu, 20 Nov 2025 11:39:54 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/akira?5a2c4364d521d1dba3f1708692d140c3",
-      "group": "Akira",
-      "victim": "Hydroscand",
-      "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : AJ Jersey",
-      "link": "https://www.ransomware.live/id/QUogSmVyc2V5QGFraXJh",
-      "summary": "AJ Jersey Inc. is an industry leader in Forklift Sales, Forklift  Rentals, Forklift Service and all of your Material Handling needs . We will upload almost 22gb of corporate documents soon. Employee  personal data (driver licenses of 73 employees, detailed health r eports with DOB, phones, emails and so on), financials and accoun ting, client files, contracts, specifications, projects, NDA, etc .",
-      "pubDate": "Thu, 20 Nov 2025 11:39:49 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?3db6a02f541cdce2345f6910457c17d9",
-      "group": "Akira",
-      "victim": "AJ Jersey",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sarcoma has just published a new victim : Söllner",
-      "link": "https://www.ransomware.live/id/U8O2bGxuZXJAc2FyY29tYQ==",
-      "summary": "Söllner Söllner GmbH &amp; Co. KG is a family-owned roofing company based in Plettenberg, operating for four generations since 1902. The company specializes in roofing, carpentry, facade construction, scaffolding, and offers additional services such as container service and crane rentals. Recently, they have expanded into architecture, providing comprehensive services from design to execution. With a team of qualified professionals, Söllner serves both regional and national clients in the industrial, commercial, public, and private sectorsGeo: Germany - Leak size: 286 GB Archive - Contains: Files, SQL",
-      "pubDate": "Thu, 20 Nov 2025 11:21:13 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/sarcoma?31c3e41c779af8d9187084238811fcb0",
-      "group": "Sarcoma",
-      "victim": "Söllner",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : naffco.com",
-      "link": "https://www.ransomware.live/id/bmFmZmNvLmNvbUBpbmNyYW5zb20=",
-      "summary": "NAFFCO is an international manufacturer and supplier of firefighting, security, and safety products.\r They also offer training services and emergency responder certification. The company is headquartered in Dubai, in the United Arab Emirates.\r With a global network spanning over 100 countries, NAFFCO has been recognized as the unparalleled leader in fire safety.\r \r The official website of NAFFCO says:\" Our success is driven by our \"passion to protect\"\"\r We do not know for certain how well they protect their clients, but they could not protect themselves.\r We have 1TB of data at our disposal (fiscal data, internal mail, HR data, budgets, strategic development plans and much more)",
-      "pubDate": "Thu, 20 Nov 2025 01:44:21 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/incransom?06309c8e0a606c5fb248503ed690de5b",
-      "group": "Incransom",
-      "victim": "naffco.com",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : HostingFest",
-      "link": "https://www.ransomware.live/id/SG9zdGluZ0Zlc3RAbm92YQ==",
-      "summary": "As HostingFest, we provide domain name (Domain), Hosting, VDS and Dedicated servers, E-commerce infrastructures and SEO services to our individual and corporate customers. Due to encryption, the official domain is currently inaccessible: https://hostingfest.net/ However, here is the archived site: https://web.archive.org/web/20250815130556/https://hostingfest.net/ . Contact methods : info@hostingfest.net / https://www.linkedin.com/company/hostingfest",
-      "pubDate": "Thu, 20 Nov 2025 00:12:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nova?b0ae22600ac371d277b586dbf354983f",
-      "group": "Nova",
-      "victim": "HostingFest",
-      "country": "US"
     }
   ]
 }
