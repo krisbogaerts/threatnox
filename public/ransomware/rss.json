@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-26T00:55:03.709Z",
+  "updatedAt": "2025-11-26T02:30:11.276Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : AllerVie Health",
+      "link": "https://www.ransomware.live/id/QWxsZXJWaWUgSGVhbHRoQGFudWJpcw==",
+      "summary": "Major customer database leak.",
+      "pubDate": "Wed, 26 Nov 2025 01:12:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?42eefb38d29dd855d8e7ed5f3fc78564",
+      "group": "Anubis",
+      "victim": "AllerVie Health",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Kids & Company",
       "link": "https://www.ransomware.live/id/S2lkcyAmIENvbXBhbnlAc2lub2Jp",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "N15 Technology",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Makro",
-      "link": "https://www.ransomware.live/id/TWFrcm9AcmFuc29taG91c2U=",
-      "summary": "Makro is a wholesale center specializing in consumer goods and food products. It provides a wide range of products for its members and business operators across the country. The company offers comprehensive services for food businesses aimed at professional operators. Its target clients include both individual members and various business enterprises",
-      "pubDate": "Thu, 20 Nov 2025 13:26:18 +0000",
-      "category": "NL",
-      "guid": "https://www.ransomware.live/group/ransomhouse?a92ee6b0b29262abae60bdb70efe25b7",
-      "group": "Ransomhouse",
-      "victim": "Makro",
-      "country": "NL"
     }
   ]
 }
