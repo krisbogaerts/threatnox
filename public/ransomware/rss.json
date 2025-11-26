@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-26T08:16:42.571Z",
+  "updatedAt": "2025-11-26T09:14:26.568Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Burnham Brown",
+      "link": "https://www.ransomware.live/id/QnVybmhhbSBCcm93bkBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 08:42:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?7ce0aa3f69702695fbdb5bc3131eafb6",
+      "group": "Qilin",
+      "victim": "Burnham Brown",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Eastek International",
+      "link": "https://www.ransomware.live/id/RWFzdGVrIEludGVybmF0aW9uYWxAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 08:41:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?b1b549a8f95354f4771a075a163aec34",
+      "group": "Qilin",
+      "victim": "Eastek International",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Workflow Concepts",
+      "link": "https://www.ransomware.live/id/V29ya2Zsb3cgQ29uY2VwdHNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 08:41:10 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/qilin?0c6e8d8ea35599862d4922fed5c41fb9",
+      "group": "Qilin",
+      "victim": "Workflow Concepts",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : AllerVie Health",
       "link": "https://www.ransomware.live/id/QWxsZXJWaWUgSGVhbHRoQGFudWJpcw==",
@@ -2168,39 +2201,6 @@
       "group": "Akira",
       "victim": "FELA (EVYTRA)",
       "country": "CH"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Sakol Energy Public",
-      "link": "https://www.ransomware.live/id/U2Frb2wgRW5lcmd5IFB1YmxpY0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Thu, 20 Nov 2025 15:14:11 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/qilin?a576bddca09a8f27070e6612105d387c",
-      "group": "Qilin",
-      "victim": "Sakol Energy Public",
-      "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Mae Krathing Power Company",
-      "link": "https://www.ransomware.live/id/TWFlIEtyYXRoaW5nIFBvd2VyIENvbXBhbnlAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 20 Nov 2025 15:13:33 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/qilin?e6e28e6b86db14d47a2847847cc73445",
-      "group": "Qilin",
-      "victim": "Mae Krathing Power Company",
-      "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : N15 Technology",
-      "link": "https://www.ransomware.live/id/TjE1IFRlY2hub2xvZ3lAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 20 Nov 2025 15:12:54 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?eeadaed9bef6d049387719e521f78ce1",
-      "group": "Qilin",
-      "victim": "N15 Technology",
-      "country": "US"
     }
   ]
 }
