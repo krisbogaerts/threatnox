@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-11-26T12:23:53.140Z",
+  "updatedAt": "2025-11-26T13:29:16.050Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Arabia Holding",
+      "link": "https://www.ransomware.live/id/QXJhYmlhIEhvbGRpbmdAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 12:47:33 +0000",
+      "category": "EG",
+      "guid": "https://www.ransomware.live/group/qilin?5666d42f4ee54fd3c946acc143789304",
+      "group": "Qilin",
+      "victim": "Arabia Holding",
+      "country": "EG"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Trolec",
+      "link": "https://www.ransomware.live/id/VHJvbGVjQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 12:46:56 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?f20703d25ac9bd9040fdfb3fbbb1de61",
+      "group": "Qilin",
+      "victim": "Trolec",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Pacific Railway Enterprises",
+      "link": "https://www.ransomware.live/id/UGFjaWZpYyBSYWlsd2F5IEVudGVycHJpc2VzQGFraXJh",
+      "summary": "Pacific Railway Enterprises, Inc. is a woman-owned corporation sp ecializing in Railroad System Design and Consulting. We will upload more than 20gb of corporate documents soon. Employ ee lists containing personal information, NDAs, contacts and agre ements, projects, etc.",
+      "pubDate": "Wed, 26 Nov 2025 12:19:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?81333b85f9e0152597c6d59ca6615d0a",
+      "group": "Akira",
+      "victim": "Pacific Railway Enterprises",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : FloorHeat",
+      "link": "https://www.ransomware.live/id/Rmxvb3JIZWF0QGFraXJh",
+      "summary": "FloorHeat Company specializes in manufacturing and distributing r adiant heat components and complete underfloor heating systems, i ncluding electric film, cable heating mats, and their patented Ea syFloor hydronic heating system. We will upload 25gb of corporate documents soon. Detailed employe e personal information, financial and accounting data, contacts a nd agreements, NDAs, etc.",
+      "pubDate": "Wed, 26 Nov 2025 12:18:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?af8a95ed142439dd244dbadfc44d17ce",
+      "group": "Akira",
+      "victim": "FloorHeat",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Globatech",
+      "link": "https://www.ransomware.live/id/R2xvYmF0ZWNoQGFraXJh",
+      "summary": "Globatech comprises six companies, offering 24/7 service througho ut Quebec with an expanded presence across Canada to ensure the h ealth and safety of your buildings. We will upload about 25gb of corporate documents soon. Employee a nd clients information, financial and accounting data, projects,  contacts and agreements, confidential files, NDAs, etc.",
+      "pubDate": "Wed, 26 Nov 2025 12:18:53 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?c1729eff57895bf78493456a897af9fa",
+      "group": "Akira",
+      "victim": "Globatech",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Dobco",
       "link": "https://www.ransomware.live/id/RG9iY29AYWtpcmE=",
@@ -2146,61 +2201,6 @@
       "group": "Qilin",
       "victim": "Fayette County",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Radio Sound",
-      "link": "https://www.ransomware.live/id/UmFkaW8gU291bmRAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Thu, 20 Nov 2025 18:12:26 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?c65995dd52fa414366f97db41b2b4b3f",
-      "group": "Play",
-      "victim": "Radio Sound",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Applied Energy Systems",
-      "link": "https://www.ransomware.live/id/QXBwbGllZCBFbmVyZ3kgU3lzdGVtc0BwbGF5",
-      "summary": "United States",
-      "pubDate": "Thu, 20 Nov 2025 18:11:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?1146e0b296bd3e66c524db982d29f72f",
-      "group": "Play",
-      "victim": "Applied Energy Systems",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Artesian Insurance",
-      "link": "https://www.ransomware.live/id/QXJ0ZXNpYW4gSW5zdXJhbmNlQHBsYXk=",
-      "summary": "Canada",
-      "pubDate": "Thu, 20 Nov 2025 18:11:00 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/play?aa0552526966492081bd60878613021c",
-      "group": "Play",
-      "victim": "Artesian Insurance",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : One Source Associates",
-      "link": "https://www.ransomware.live/id/T25lIFNvdXJjZSBBc3NvY2lhdGVzQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Thu, 20 Nov 2025 18:10:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?3dbb3a21d0d73ee1922cc605394fd3cd",
-      "group": "Play",
-      "victim": "One Source Associates",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : N C Machinery",
-      "link": "https://www.ransomware.live/id/TiBDIE1hY2hpbmVyeUBwbGF5",
-      "summary": "United States",
-      "pubDate": "Thu, 20 Nov 2025 18:09:33 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?4efafd685ed3d1bffb49493e3f33c91c",
-      "group": "Play",
-      "victim": "N C Machinery",
-      "country": "US"
     }
   ]
 }
