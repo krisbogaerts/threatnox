@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-11-26T18:15:02.668Z",
+  "updatedAt": "2025-11-26T19:09:44.756Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Secure Network Solutions",
+      "link": "https://www.ransomware.live/id/U2VjdXJlIE5ldHdvcmsgU29sdXRpb25zQHNpbm9iaQ==",
+      "summary": "Secure Network Solutions specializes in providing top-notch IT consulting and network management services. Their team of experts is dedicated to ensuring businesses operate smoothly and securely in the digital landscape. They offer comprehensive IT solutions, including advanced network security, expert IT consulting, and cloud solutions. Their intended clients are businesses seeking to enhance their IT infrastructure and security.",
+      "pubDate": "Wed, 26 Nov 2025 18:52:39 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?4665a3a8481ed23c5c021a4a30c99168",
+      "group": "Sinobi",
+      "victim": "Secure Network Solutions",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : St. Johns River Water Management District",
+      "link": "https://www.ransomware.live/id/U3QuIEpvaG5zIFJpdmVyIFdhdGVyIE1hbmFnZW1lbnQgRGlzdHJpY3RAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 18:49:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c8c1785cd4a1987c8e54c55275da319c",
+      "group": "Qilin",
+      "victim": "St. Johns River Water Management District",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : FIT",
+      "link": "https://www.ransomware.live/id/RklUQGluY3JhbnNvbQ==",
+      "summary": "Foxconn Interconnect Technology Limited (FIT) focuses on the development, manufacturing, and marketing of electronic and optoelectronic connectors, antennas, acoustic components, cables, and modules for applications in computers, communication equipment, consumer electronics, automobiles, industrial and green energy field products. With offices and manufacturing sites located in Asia, the Americas, and Europe, FIT is a global leader in the supply of precision components.",
+      "pubDate": "Wed, 26 Nov 2025 18:25:41 +0000",
+      "category": "TW",
+      "guid": "https://www.ransomware.live/group/incransom?32ee8af80ec510a2b66277df604501c4",
+      "group": "Incransom",
+      "victim": "FIT",
+      "country": "TW"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : ADC Aerospace",
       "link": "https://www.ransomware.live/id/QURDIEFlcm9zcGFjZUBwbGF5",
@@ -2168,39 +2201,6 @@
       "group": "Clop",
       "victim": "HUMANA.COM",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : FRONTROL.COM",
-      "link": "https://www.ransomware.live/id/RlJPTlRST0wuQ09NQGNsb3A=",
-      "summary": "[AI generated] \"FRONTROL.COM\" is an e-commerce platform that specializes in selling high-quality roller shutters for windows and doors. The company aims to produce and sell a wide range of security solutions. With their expertise in the field, they provide customers with Robust, durable and aesthetically pleasing roller shutters that ensure safety and security. Their products are available in different models to cater to various architectural needs.",
-      "pubDate": "Fri, 21 Nov 2025 12:51:22 +0000",
-      "category": "PL",
-      "guid": "https://www.ransomware.live/group/clop?cf80cb74ef594aebc27922ab8e754336",
-      "group": "Clop",
-      "victim": "FRONTROL.COM",
-      "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : FRUIT.COM",
-      "link": "https://www.ransomware.live/id/RlJVSVQuQ09NQGNsb3A=",
-      "summary": "[AI generated] Fruit.com is an online delivery-focused gift company specializing in fresh fruit arrangements or boxes. Their product range includes fresh fruit baskets, gourmet chocolate-dipped fruit, and an array of other gift items. Fruit.com uses a direct delivery model to ensure the fresh and quality of their products upon arrival, making it easy for customers to send healthy and unique gifts for various occasions. They emphasize on excellent customer service.",
-      "pubDate": "Fri, 21 Nov 2025 12:50:45 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/clop?cff4454516a38c454bdbd7244dcf3d22",
-      "group": "Clop",
-      "victim": "FRUIT.COM",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : ALJOMAIHAUTO.COM",
-      "link": "https://www.ransomware.live/id/QUxKT01BSUhBVVRPLkNPTUBjbG9w",
-      "summary": "[AI generated] ALJOMAIHAUTO.COM is the official online platform for Abdul Latif Jameel Motors, the authorized distributor of Toyota vehicles in Saudi Arabia. The company specializes in retailing various Toyota models, providing finance packages, and offering high-quality aftersales service, including repairs and parts. Founded in 1945, they are committed to satisfying their customers’ diverse motoring needs.",
-      "pubDate": "Fri, 21 Nov 2025 12:50:04 +0000",
-      "category": "SA",
-      "guid": "https://www.ransomware.live/group/clop?2593180d4e45299a26eba3176d0bd7b0",
-      "group": "Clop",
-      "victim": "ALJOMAIHAUTO.COM",
-      "country": "SA"
     }
   ]
 }
