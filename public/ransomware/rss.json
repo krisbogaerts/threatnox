@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-26T13:29:16.050Z",
+  "updatedAt": "2025-11-26T14:12:50.017Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : ITL Systemhaus",
+      "link": "https://www.ransomware.live/id/SVRMIFN5c3RlbWhhdXNAaW5jcmFuc29t",
+      "summary": "The company ITL Systemhaus für Datentechnik GmbH was founded in 1991.\r \r In the meantime, ITL has over 25 employees at a high level of training and offers a comprehensive range of services as a competent partner \"around IT\". The business policy is based on a long-term, partner-oriented relationship with the end customer. \r \r Milestones in the history of ITL were the move to the new office building in Münchberg with its own training rooms in 2005 and the complete takeover of the dental software DENTIXsoft with over 300 customers nationwide in 2010.",
+      "pubDate": "Wed, 26 Nov 2025 13:18:13 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/incransom?abf3d8f329ffa96a69c451444ea70dcf",
+      "group": "Incransom",
+      "victim": "ITL Systemhaus",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Williams & Sparages",
+      "link": "https://www.ransomware.live/id/V2lsbGlhbXMgJiBTcGFyYWdlc0Bha2lyYQ==",
+      "summary": "Williams &amp; Sparages is a full-service engineering firm specializi ng in civil engineering, planning and development, surveying and  mapping, and construction services. We will upload about 127gb of corporate documents soon. Clients i nformation, employee personal information, financials, credit car d details, projects, contacts and agreements, etc.",
+      "pubDate": "Wed, 26 Nov 2025 13:11:50 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?2cb327f1ce8580cf813cbd1c4abcd8cb",
+      "group": "Akira",
+      "victim": "Williams & Sparages",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Arabia Holding",
       "link": "https://www.ransomware.live/id/QXJhYmlhIEhvbGRpbmdAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Coinbasecartel",
       "victim": "Kewaunee Scientific",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : classiccenter.com",
-      "link": "https://www.ransomware.live/id/Y2xhc3NpY2NlbnRlci5jb21AbHlueA==",
-      "summary": "Akins Ford Arena is a state-of-the-art entertainment venue located in downtown Athens, Georgia, with a seating capacity of 8,500. It hosts a variety of events including concerts, sports, and special performances, providing memorable experiences for fans. The venue serves local audiences, featuring events such as professional hockey games and concerts from renowned artists. As part of The Classic Center campus, Akins Ford Arena is committed to delivering top-tier entertainment in a vibrant setting",
-      "pubDate": "Thu, 20 Nov 2025 20:10:33 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?4ee78c4b315401d63b2fb442596df817",
-      "group": "Lynx",
-      "victim": "classiccenter.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Fayette County",
-      "link": "https://www.ransomware.live/id/RmF5ZXR0ZSBDb3VudHlAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 20 Nov 2025 18:13:13 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?bfaf9542d5604e1239c96201ad86637b",
-      "group": "Qilin",
-      "victim": "Fayette County",
-      "country": ""
     }
   ]
 }
