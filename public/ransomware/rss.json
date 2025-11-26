@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-26T16:14:49.921Z",
+  "updatedAt": "2025-11-26T17:11:12.925Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : AGS",
+      "link": "https://www.ransomware.live/id/QUdTQHJoeXNpZGE=",
+      "summary": "AGS",
+      "pubDate": "Wed, 26 Nov 2025 16:36:43 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/rhysida?0a8a6dded6d94dd1de4720b9339ded9c",
+      "group": "Rhysida",
+      "victim": "AGS",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Healthcare Retroactive Audits",
+      "link": "https://www.ransomware.live/id/SGVhbHRoY2FyZSBSZXRyb2FjdGl2ZSBBdWRpdHNAZHJhZ29uZm9yY2U=",
+      "summary": "22 171 128 medical record files, neatly packaged into 11 archives by hospital. The firm Healthcare Retroactive Audits, which was auditing the data for insurers, not only let the leak happen but also took no steps to stop the files from being published. When we approached NIH Information Security Program to discuss the issue, they said they weren’t interested in resolving it. We’re now open to talks with the affected organizations, insurers and the hospitals whose data were lost. These files are only a portion of the total breach, and we’re deciding whether to keep the release at this size or expand it.",
+      "pubDate": "Wed, 26 Nov 2025 16:14:01 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?1a9df71f9f5e43ec6d70b4e9415e5089",
+      "group": "Dragonforce",
+      "victim": "Healthcare Retroactive Audits",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Zoetis",
+      "link": "https://www.ransomware.live/id/Wm9ldGlzQGFraXJh",
+      "summary": "Zoetis discovers, develops, manufactures, and commercializes anim al health medicines, vaccines, and diagnostic products in the Uni ted States and internationally. We will upload 25gb of corporate documents soon. Lots of internal documents, clients&#x27; data, numerous test and other information.",
+      "pubDate": "Wed, 26 Nov 2025 16:09:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?099209aae0076cadcd7d83459af84246",
+      "group": "Akira",
+      "victim": "Zoetis",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Fineline Architectural Millwork",
+      "link": "https://www.ransomware.live/id/RmluZWxpbmUgQXJjaGl0ZWN0dXJhbCBNaWxsd29ya0Bha2lyYQ==",
+      "summary": "Fineline Woodworks Inc. is full service custom carpentry located  in Orange County in beautiful southern California. We will upload 100gb of corporate documents soon. Employee person al information, detailed financials, NDAs, projects, clients information, agreements and so on.",
+      "pubDate": "Wed, 26 Nov 2025 16:09:05 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?ac32768606975e7a0f74202acff8fe63",
+      "group": "Akira",
+      "victim": "Fineline Architectural Millwork",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ciphbit has just published a new victim : Church of the Ascension Anglican",
       "link": "https://www.ransomware.live/id/Q2h1cmNoIG9mIHRoZSBBc2NlbnNpb24gQW5nbGljYW5AY2lwaGJpdA==",
@@ -2157,50 +2201,6 @@
       "group": "Dragonforce",
       "victim": "PAN",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Kettle, Sánchez & Co",
-      "link": "https://www.ransomware.live/id/S2V0dGxlLCBTw6FuY2hleiAmIENvQGRyYWdvbmZvcmNl",
-      "summary": "Kettle, Sánchez &amp; Co / OARN is located in Santo Domingo. Kettle, Sánchez &amp; Co / OARN is working in General chemical wholesale, Corporate management, Pharmacies and drug stores activities",
-      "pubDate": "Fri, 21 Nov 2025 10:15:40 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?c06c9958045cf6801ea33727b8508736",
-      "group": "Dragonforce",
-      "victim": "Kettle, Sánchez & Co",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : Superintendencia Nacional de Fiscalización Laboral",
-      "link": "https://www.ransomware.live/id/U3VwZXJpbnRlbmRlbmNpYSBOYWNpb25hbCBkZSBGaXNjYWxpemFjacOzbiBMYWJvcmFsQGJsYWNrc2hyYW50YWM=",
-      "summary": "[AI generated] The \"Superintendencia Nacional de Fiscalización Laboral\" (SUNAFIL) is a Peruvian government agency responsible for promoting, supervising and enforcing labor rights. They assure compliance with labor and occupational health and safety standards. They also promote culture of formal employment through the provision of information to workers and employers, aiming to improve working conditions in Peru.",
-      "pubDate": "Fri, 21 Nov 2025 09:12:23 +0000",
-      "category": "PE",
-      "guid": "https://www.ransomware.live/group/blackshrantac?bdcc7694aab18283b806c3cf57e3b188",
-      "group": "Blackshrantac",
-      "victim": "Superintendencia Nacional de Fiscalización Laboral",
-      "country": "PE"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : PATLITE",
-      "link": "https://www.ransomware.live/id/UEFUTElURUBzaW5vYmk=",
-      "summary": "Founded in 1947, PATLITE Corporation is a technology engineering and manufacturing company. PATLITE provides LED status indicating lights, sound alarms, and visual and audible communication network systems. The company is based in Torrance, California.",
-      "pubDate": "Fri, 21 Nov 2025 00:10:50 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/sinobi?be8caefa9393727e77ad4185e92011b1",
-      "group": "Sinobi",
-      "victim": "PATLITE",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : CIGAM Software Corporativo Ltda",
-      "link": "https://www.ransomware.live/id/Q0lHQU0gU29mdHdhcmUgQ29ycG9yYXRpdm8gTHRkYUBjb2luYmFzZWNhcnRlbA==",
-      "summary": "CIGAM offers a comprehensive ERP solution designed for medium to large enterprises, assisting them in their digital transformation journey. Their s...",
-      "pubDate": "Thu, 20 Nov 2025 22:44:46 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?96317510757c443ff89354d762338176",
-      "group": "Coinbasecartel",
-      "victim": "CIGAM Software Corporativo Ltda",
-      "country": "BR"
     }
   ]
 }
