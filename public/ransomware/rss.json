@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-26T19:09:44.756Z",
+  "updatedAt": "2025-11-26T20:13:02.752Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : The American School Foundation",
+      "link": "https://www.ransomware.live/id/VGhlIEFtZXJpY2FuIFNjaG9vbCBGb3VuZGF0aW9uQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 19:43:32 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/qilin?aed7e5a3ad0d7aae86ed5333295cb1dc",
+      "group": "Qilin",
+      "victim": "The American School Foundation",
+      "country": "MX"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Secure Network Solutions",
       "link": "https://www.ransomware.live/id/U2VjdXJlIE5ldHdvcmsgU29sdXRpb25zQHNpbm9iaQ==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/clop?a16098272b5c6d5fc27363292f89e37f",
       "group": "Clop",
       "victim": "ABBOTT.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : HUMANA.COM",
-      "link": "https://www.ransomware.live/id/SFVNQU5BLkNPTUBjbG9w",
-      "summary": "[AI generated] Humana Inc. is a leading US-based health insurance company, founded in 1961. Its coverage extends across the country, providing a range of insurance products and health and wellness services. These include medical, dental, and vision insurance, along with pharmacy services and health information technology solutions. Humana largely focuses on senior citizens, especially those enrolled in Medicare. The company is keen on fostering healthy habits and promoting preventive care efforts.",
-      "pubDate": "Fri, 21 Nov 2025 12:52:02 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?c025529db3aba022ef7f18bcc1c167fa",
-      "group": "Clop",
-      "victim": "HUMANA.COM",
       "country": "US"
     }
   ]
