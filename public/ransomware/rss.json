@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-26T20:13:02.752Z",
+  "updatedAt": "2025-11-26T21:10:25.659Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Shelbra International",
+      "link": "https://www.ransomware.live/id/U2hlbGJyYSBJbnRlcm5hdGlvbmFsQGRyYWdvbmZvcmNl",
+      "summary": "Shelbra International is currently under construction, indicating that they are in the process of developing their offerings. Specific details about their products and services are not available at this time. The company may be looking to reach clients who are interested in their future offerings.",
+      "pubDate": "Wed, 26 Nov 2025 20:14:04 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?544ef9c0b812a8dd0e12d9bba4232da1",
+      "group": "Dragonforce",
+      "victim": "Shelbra International",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : The American School Foundation",
       "link": "https://www.ransomware.live/id/VGhlIEFtZXJpY2FuIFNjaG9vbCBGb3VuZGF0aW9uQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "MAZDA.COM",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : ABBOTT.COM",
-      "link": "https://www.ransomware.live/id/QUJCT1RULkNPTUBjbG9w",
-      "summary": "[AI generated] Abbott.com refers to the website of Abbott Laboratories, an American multinational medical devices and health care company. The company provides diagnostic, medical devices, nutrition, and branded generic pharmaceuticals. It develops products used in hospitals, labs, and people health around the world.",
-      "pubDate": "Fri, 21 Nov 2025 12:52:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?a16098272b5c6d5fc27363292f89e37f",
-      "group": "Clop",
-      "victim": "ABBOTT.COM",
-      "country": "US"
     }
   ]
 }
