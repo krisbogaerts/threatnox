@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-26T14:12:50.017Z",
+  "updatedAt": "2025-11-26T15:11:26.689Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ciphbit has just published a new victim : Church of the Ascension Anglican",
+      "link": "https://www.ransomware.live/id/Q2h1cmNoIG9mIHRoZSBBc2NlbnNpb24gQW5nbGljYW5AY2lwaGJpdA==",
+      "summary": "[AI generated] The Church of the Ascension Anglican is a faith-based organization part of the Anglican Communion. They focus on the teachings of Jesus Christ and rely on the Book of Common Prayer for worship. The church is a welcoming and accepting community, offering regular mass, youth programmes, community outreach and service initiatives. Their mission is to grow the body of Christ by ministering to their congregation and their local community.",
+      "pubDate": "Wed, 26 Nov 2025 14:12:28 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/ciphbit?fbe1401275f4a8e8d841284959c5cc51",
+      "group": "Ciphbit",
+      "victim": "Church of the Ascension Anglican",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Stacey L Tokunaga",
+      "link": "https://www.ransomware.live/id/U3RhY2V5IEwgVG9rdW5hZ2FAYWtpcmE=",
+      "summary": "The Law Offices of Stacey L. Tokunaga specializes in Workers Comp ensation Defense law, offering committed and high-quality legal s ervices to self-insured employers, third party administrators, an d insured clients. We will upload 200gb of corporate documents soon. Detailed person al employee information (DLs, SSNs, passports, addresses, phones  and so on), detailed financials, clients&#x27; credit cards, police re ports, NDAs, etc.",
+      "pubDate": "Wed, 26 Nov 2025 14:09:55 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?33354f5a4e3fb04eab95ac43b4e80f49",
+      "group": "Akira",
+      "victim": "Stacey L Tokunaga",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : ITL Systemhaus",
       "link": "https://www.ransomware.live/id/SVRMIFN5c3RlbWhhdXNAaW5jcmFuc29t",
@@ -2179,28 +2201,6 @@
       "group": "Coinbasecartel",
       "victim": "CIGAM Software Corporativo Ltda",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : SAExploration",
-      "link": "https://www.ransomware.live/id/U0FFeHBsb3JhdGlvbkBjb2luYmFzZWNhcnRlbA==",
-      "summary": "SAExploration Holdings, Inc., an oilfield services company, provides seismic data acquisition and logistical support services to the oil and natura...",
-      "pubDate": "Thu, 20 Nov 2025 22:44:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?f452295065c74fe7fd13b784c09627cc",
-      "group": "Coinbasecartel",
-      "victim": "SAExploration",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Kewaunee Scientific",
-      "link": "https://www.ransomware.live/id/S2V3YXVuZWUgU2NpZW50aWZpY0Bjb2luYmFzZWNhcnRlbA==",
-      "summary": "Kewaunee Scientific Corporation designs, manufactures, and installs laboratory, healthcare, and technical furniture products. The company operates ...",
-      "pubDate": "Thu, 20 Nov 2025 22:43:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?1a18791d3acf0dd643e5fc04526579cb",
-      "group": "Coinbasecartel",
-      "victim": "Kewaunee Scientific",
-      "country": "US"
     }
   ]
 }
