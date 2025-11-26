@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-26T10:14:02.886Z",
+  "updatedAt": "2025-11-26T11:10:50.329Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : BioPharma Services",
+      "link": "https://www.ransomware.live/id/QmlvUGhhcm1hIFNlcnZpY2VzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 10:49:04 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?719263868b15cdc88126bfb0f9b2955c",
+      "group": "Qilin",
+      "victim": "BioPharma Services",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Disston",
+      "link": "https://www.ransomware.live/id/RGlzc3RvbkBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 26 Nov 2025 10:48:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?76363d2a775a29a6290935717fe3ff14",
+      "group": "Qilin",
+      "victim": "Disston",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Emond Publishing",
+      "link": "https://www.ransomware.live/id/RW1vbmQgUHVibGlzaGluZ0BkcmFnb25mb3JjZQ==",
+      "summary": "Emond Publishing is a Canadian publisher specializing in legal education materials and resources for law students and professionals. Their product offerings include textbooks, exam preparation materials, and publications focused on various legal subjects such as criminal law and immigration law. They cater primarily to college and university students, law school attendees, and legal practitioners preparing for certification exams. Emond Publishing is committed to providing high-quality resources by Canadians, for Canadians.",
+      "pubDate": "Wed, 26 Nov 2025 10:24:28 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/dragonforce?3a3cfec3eaf834b298f3cbd9831209b6",
+      "group": "Dragonforce",
+      "victim": "Emond Publishing",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Bergeson",
+      "link": "https://www.ransomware.live/id/QmVyZ2Vzb25AYWtpcmE=",
+      "summary": "Bergeson, LLP is a leading litigation law firm based in Silicon V alley, established in 1990. The firm specializes in representing  individuals and companies in high-profile and high-stakes litigat ion across the country, offering innovative strategies tailored t o complex business disputes. We are ready to upload more than 33GB data. There are lots of ess ential corporate documents such as: financial data (audit, paymen t details, invoices), detailed employees and customers informatio n (passports, driver&#x27;s license , Social Security Numbers,death/bi rth certificate) confidential information, NDAs and other documen ts with detailed personal information.",
+      "pubDate": "Wed, 26 Nov 2025 10:19:05 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?24fd2948223d350aea9d59d685597bc1",
+      "group": "Akira",
+      "victim": "Bergeson",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Burnham Brown",
       "link": "https://www.ransomware.live/id/QnVybmhhbSBCcm93bkBxaWxpbg==",
@@ -2157,50 +2201,6 @@
       "group": "Qilin",
       "victim": "Cimertex",
       "country": "PT"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Wright ArchitecturalMillwork",
-      "link": "https://www.ransomware.live/id/V3JpZ2h0IEFyY2hpdGVjdHVyYWxNaWxsd29ya0Bha2lyYQ==",
-      "summary": "Wright Architectural Millwork specializes in high-quality archite ctural woodwork and has been in the industry for 50 years.  We will upload 87gb of corporate documents soon. Employee persona l information (passport numbers, driver licenses, phones, emails) , financials, a bit of client data, contracts and agreements, NDA , etc.",
-      "pubDate": "Thu, 20 Nov 2025 16:41:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?cd92f243b4ad0f8c0b1b580d872b9f15",
-      "group": "Akira",
-      "victim": "Wright ArchitecturalMillwork",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Swift Filters",
-      "link": "https://www.ransomware.live/id/U3dpZnQgRmlsdGVyc0Bha2lyYQ==",
-      "summary": "Swift Filters is a leading US manufacturer of high-quality hydrau lic filter elements, offering a wide range of replacement filters for various brands including Parker Hannifin, Pall, and Donaldso n. We will upload 140gb of corporate documents soon. Employee person al files, financials, client data, contracts, NDA, projects, draw ings and specification, etc.",
-      "pubDate": "Thu, 20 Nov 2025 16:40:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?8bed10e0d4a138df1c5e787c5deebb72",
-      "group": "Akira",
-      "victim": "Swift Filters",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Morpheus has just published a new victim : Teamglobal",
-      "link": "https://www.ransomware.live/id/VGVhbWdsb2JhbEBtb3JwaGV1cw==",
-      "summary": "Website:  teamglobal.com Revenue: $6.3 Million Premier contract and direct hire staffing services. 30 years of industry experience in aerospace and light industrial and an extensive client list. **",
-      "pubDate": "Thu, 20 Nov 2025 16:18:58 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/morpheus?24dc4c3368d7079610662bbc63363cf6",
-      "group": "Morpheus",
-      "victim": "Teamglobal",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : FELA (EVYTRA)",
-      "link": "https://www.ransomware.live/id/RkVMQSAoRVZZVFJBKUBha2lyYQ==",
-      "summary": "EVYTRA specializes in developing and manufacturing innovative ele ctronic solutions, including Human Machine Interfaces (HMIs) and  printed circuit boards (PCBs). We will upload 91gb of corporate documents soon. Employee persona l data (identity cards, passports, driver licenses, phones, email s and other information for at least 55 ppl), financials and acco unting, client files, contracts and agreements, NDA, etc.",
-      "pubDate": "Thu, 20 Nov 2025 15:48:22 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/akira?acc243a963828e7ca04e45c398ab11be",
-      "group": "Akira",
-      "victim": "FELA (EVYTRA)",
-      "country": "CH"
     }
   ]
 }
