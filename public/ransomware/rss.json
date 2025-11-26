@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-26T11:10:50.329Z",
+  "updatedAt": "2025-11-26T12:23:53.140Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Dobco",
+      "link": "https://www.ransomware.live/id/RG9iY29AYWtpcmE=",
+      "summary": "Dobco founded in 1989 and headquartered in Wayne, New Jersey, is  an established multi-faceted general construction firm. We are going to upload company data soon. You will find financial data (audit, payment details,financial reports, invoices), perso nal financial details of employees, accounting files.",
+      "pubDate": "Wed, 26 Nov 2025 11:14:40 +0000",
+      "category": "BE",
+      "guid": "https://www.ransomware.live/group/akira?ca8edab31e950a1bb15b24be67d8bb4f",
+      "group": "Akira",
+      "victim": "Dobco",
+      "country": "BE"
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Carlton Fields",
+      "link": "https://www.ransomware.live/id/Q2FybHRvbiBGaWVsZHNAU2lsZW50UmFuc29tR3JvdXA=",
+      "summary": "Carlton Fields is a nationally recognized law firm delivering strategic legal counsel to corporations,…",
+      "pubDate": "Wed, 26 Nov 2025 11:13:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/SilentRansomGroup?ffce88fd10fe8f5911a093fdacd14b6f",
+      "group": "Silentransomgroup",
+      "victim": "Carlton Fields",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : BioPharma Services",
       "link": "https://www.ransomware.live/id/QmlvUGhhcm1hIFNlcnZpY2VzQHFpbGlu",
@@ -2179,28 +2201,6 @@
       "group": "Play",
       "victim": "N C Machinery",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Highmark Companies",
-      "link": "https://www.ransomware.live/id/SGlnaG1hcmsgQ29tcGFuaWVzQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Thu, 20 Nov 2025 18:08:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?cf4091bd7c6ec982e25c83b0d6ee7866",
-      "group": "Play",
-      "victim": "Highmark Companies",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Cimertex",
-      "link": "https://www.ransomware.live/id/Q2ltZXJ0ZXhAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 20 Nov 2025 17:13:30 +0000",
-      "category": "PT",
-      "guid": "https://www.ransomware.live/group/qilin?476d4d104087dc425b76aa931d25795e",
-      "group": "Qilin",
-      "victim": "Cimertex",
-      "country": "PT"
     }
   ]
 }
