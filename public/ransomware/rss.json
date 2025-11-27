@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-27T14:12:21.506Z",
+  "updatedAt": "2025-11-27T15:12:29.723Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Kelly Wearstler Gallery",
+      "link": "https://www.ransomware.live/id/S2VsbHkgV2VhcnN0bGVyIEdhbGxlcnlAYWtpcmE=",
+      "summary": "Kelly Wearstlers global luxury brand is influenced by spans of re sidential and commercial interior design. Kelly Wearstlers holds  product collections of furniture, lighting, rugs, fabrics and tri ms, wall coverings, luxe bedding, fine china, and decorative home accessories. We are ready to upload more than 14GB files of essential corporat e documents such as: HR files (employee personal information, com plete forms and so on), financials, etc.",
+      "pubDate": "Thu, 27 Nov 2025 14:11:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?863372db07ea6e9a4c7124e0a525a8d7",
+      "group": "Akira",
+      "victim": "Kelly Wearstler Gallery",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Hitech",
       "link": "https://www.ransomware.live/id/SGl0ZWNoQGFraXJh",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "LLPRODUCTS.COM",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : WORLEY.COM",
-      "link": "https://www.ransomware.live/id/V09STEVZLkNPTUBjbG9w",
-      "summary": "[AI generated] Worley.com is an Australian company providing professional project and asset services in energy, chemical and resources sectors. They aid their customers through entire asset life-cycle, providing global solutions for design and build of new assets; as well as offer maintenance, repair, operations and decommissioning services to optimize their customers&#x27; performance.",
-      "pubDate": "Fri, 21 Nov 2025 12:59:41 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/clop?ee2a6be19583fb7d80eec35a177b8fe8",
-      "group": "Clop",
-      "victim": "WORLEY.COM",
-      "country": "AU"
     }
   ]
 }
