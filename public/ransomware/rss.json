@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-27T22:11:24.678Z",
+  "updatedAt": "2025-11-27T23:10:51.555Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Comansco",
+      "link": "https://www.ransomware.live/id/Q29tYW5zY29AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 27 Nov 2025 22:11:09 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?92a149ae240e354094f67d615fb6d0ab",
+      "group": "Qilin",
+      "victim": "Comansco",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Tengu has just published a new victim : **Rollingertec S.A. - Luxembourg**",
       "link": "https://www.ransomware.live/id/KipSb2xsaW5nZXJ0ZWMgUy5BLiAtIEx1eGVtYm91cmcqKkB0ZW5ndQ==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/clop?cb99373e6f1660b1a3abbb42d17f3e96",
       "group": "Clop",
       "victim": "DOONEY.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : BROADCOM.COM",
-      "link": "https://www.ransomware.live/id/QlJPQURDT00uQ09NQGNsb3A=",
-      "summary": "[AI generated] Broadcom Inc. is a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions. The company&#x27;s extensive product portfolio serves multiple applications within four primary end markets: wired infrastructure, wireless communications, enterprise storage and industrial &amp; others. Headquartered in California, USA, Broadcom is one of the world&#x27;s largest semiconductor manufacturers.",
-      "pubDate": "Fri, 21 Nov 2025 13:03:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?68c2d8992b16426ef1581abe9254a65c",
-      "group": "Clop",
-      "victim": "BROADCOM.COM",
       "country": "US"
     }
   ]
