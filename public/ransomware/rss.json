@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-27T05:13:02.156Z",
+  "updatedAt": "2025-11-27T06:19:19.333Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : WLR Precision Engineering",
+      "link": "https://www.ransomware.live/id/V0xSIFByZWNpc2lvbiBFbmdpbmVlcmluZ0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 27 Nov 2025 06:04:23 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?66541b686eb37e0120d7b1e2f08fbe27",
+      "group": "Qilin",
+      "victim": "WLR Precision Engineering",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Killsec has just published a new victim : Rama Judicial",
       "link": "https://www.ransomware.live/id/UmFtYSBKdWRpY2lhbEBraWxsc2Vj",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "TRANETECHNOLOGIES.COM",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : CANON.COM",
-      "link": "https://www.ransomware.live/id/Q0FOT04uQ09NQGNsb3A=",
-      "summary": "[AI generated] Canon Inc. is a multinational corporation based in Tokyo, Japan. They specialize in the manufacturing of imaging and optical products, including cameras, camcorders, photocopiers, steppers, medical equipment and printers. Canon is well-known for its EOS DSLR cameras, top-quality lenses and reliable printers, which are utilized both locally and internationally by consumers and businesses alike.",
-      "pubDate": "Fri, 21 Nov 2025 12:54:36 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/clop?9f15f9d1f307150eac70d9c3dce67132",
-      "group": "Clop",
-      "victim": "CANON.COM",
-      "country": "JP"
     }
   ]
 }
