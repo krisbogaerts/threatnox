@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-27T17:10:13.621Z",
+  "updatedAt": "2025-11-27T18:16:45.189Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : ERR Raumplaner",
+      "link": "https://www.ransomware.live/id/RVJSIFJhdW1wbGFuZXJAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 27 Nov 2025 17:28:52 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/qilin?0fd13057a52d50277bea78778b277230",
+      "group": "Qilin",
+      "victim": "ERR Raumplaner",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Bcfpers",
+      "link": "https://www.ransomware.live/id/QmNmcGVyc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 27 Nov 2025 17:28:12 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?d6c524000961b56329eca434aa76cd9b",
+      "group": "Qilin",
+      "victim": "Bcfpers",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : United Volleyball Supply",
+      "link": "https://www.ransomware.live/id/VW5pdGVkIFZvbGxleWJhbGwgU3VwcGx5QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 27 Nov 2025 17:27:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c7eaebd7551dd61894eddb36de0492b8",
+      "group": "Qilin",
+      "victim": "United Volleyball Supply",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Mechanical Systems",
+      "link": "https://www.ransomware.live/id/TWVjaGFuaWNhbCBTeXN0ZW1zQGFraXJh",
+      "summary": "Mechanical Systems Company offers building automation controls an d services.  We are ready to upload more than 30GB files of essential corporat e documents such as: Employee personal information (SSNs, DLs, pa ssports and so on), confidentiality agreements, financials, clien ts information, NDA, etc.",
+      "pubDate": "Thu, 27 Nov 2025 16:48:40 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?f3121d06904cff44b2bed1089422608e",
+      "group": "Akira",
+      "victim": "Mechanical Systems",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Kelly Wearstler Gallery",
       "link": "https://www.ransomware.live/id/S2VsbHkgV2VhcnN0bGVyIEdhbGxlcnlAYWtpcmE=",
@@ -2156,50 +2200,6 @@
       "guid": "https://www.ransomware.live/group/clop?bf6abe2f85601ae1f9db371ac9dc8951",
       "group": "Clop",
       "victim": "A10NETWORKS.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : RIDERTA.COM",
-      "link": "https://www.ransomware.live/id/UklERVJUQS5DT01AY2xvcA==",
-      "summary": "[AI generated] RIDERTA.COM refers to the website of the Greater Cleveland Regional Transit Authority (GCRTA or RTA), based in Ohio, USA. It provides public transportation services including bus, paratransit, light/heavy rail transit within Cuyahoga County. Its services help individuals commute around the Cleveland area. On its website, users can access schedules, service updates, fare details, and more.",
-      "pubDate": "Fri, 21 Nov 2025 13:02:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?325af65b37d3f026bd6e2f3f1ead679f",
-      "group": "Clop",
-      "victim": "RIDERTA.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : TREETGROUP.COM",
-      "link": "https://www.ransomware.live/id/VFJFRVRHUk9VUC5DT01AY2xvcA==",
-      "summary": "[AI generated] Treet Group is a well-established Pakistani conglomerate that started operations in 1952. Its diverse business segments include industries such as fast-moving consumer goods (FMCG), real estate, software, razor blades, soaps, and batteries. Treet Group is renowned in Pakistan for its innovations in these sectors while continuously expanding its international footprint.",
-      "pubDate": "Fri, 21 Nov 2025 13:01:36 +0000",
-      "category": "PK",
-      "guid": "https://www.ransomware.live/group/clop?cd40bda74a27343eef57563fa87a956f",
-      "group": "Clop",
-      "victim": "TREETGROUP.COM",
-      "country": "PK"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : PHOENIX.EDU",
-      "link": "https://www.ransomware.live/id/UEhPRU5JWC5FRFVAY2xvcA==",
-      "summary": "[AI generated] Phoenix.edu is the online portal for the University of Phoenix, a for-profit institution that is geared towards adult learners. The university offers degree programs at the associate&#x27;s, bachelor&#x27;s, master&#x27;s and doctoral levels across a range of disciplines, including business, education, nursing, technology and more. It is recognized for its flexible course schedules, online classes, and professional development opportunities.",
-      "pubDate": "Fri, 21 Nov 2025 13:00:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?c9d9b443bfe94182cbeb7826ec4f6181",
-      "group": "Clop",
-      "victim": "PHOENIX.EDU",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : LLPRODUCTS.COM",
-      "link": "https://www.ransomware.live/id/TExQUk9EVUNUUy5DT01AY2xvcA==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 13:00:17 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?4beb4ecd6f28ec1d36c57c24f3fe5a59",
-      "group": "Clop",
-      "victim": "LLPRODUCTS.COM",
       "country": "US"
     }
   ]
