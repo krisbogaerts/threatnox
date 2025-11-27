@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-27T20:11:03.922Z",
+  "updatedAt": "2025-11-27T21:10:44.258Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tengu has just published a new victim : **Rollingertec S.A. - Luxembourg**",
+      "link": "https://www.ransomware.live/id/KipSb2xsaW5nZXJ0ZWMgUy5BLiAtIEx1eGVtYm91cmcqKkB0ZW5ndQ==",
+      "summary": "**Rollingertec S.A. - Luxembourg** Offering integrated solutions in the field of building technology and timber construction, with a special focus on roofs, facades, and metal insulation. Founded as a specialist in the sustainable construction sector, the company is dedicated to combining time-honored craft traditions with modern technology through comprehensive turnkey projects. The company is committed to high standards of quality, environmental sustainability, and customer satisfaction.",
+      "pubDate": "Thu, 27 Nov 2025 20:25:54 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/tengu?81ea4be434ce40357053018716db919a",
+      "group": "Tengu",
+      "victim": "**Rollingertec S.A. - Luxembourg**",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : Caros co",
+      "link": "https://www.ransomware.live/id/Q2Fyb3MgY29Abm92YQ==",
+      "summary": "South Korea It was founded in 2009. It is engaged in the production and sale of general-purpose vehicles. Among the products: an ice maker, a water purifier, a water heater and others.",
+      "pubDate": "Thu, 27 Nov 2025 20:20:44 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/nova?c981b1ebf546c3e7b651a74abfbe55f1",
+      "group": "Nova",
+      "victim": "Caros co",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : ERR Raumplaner",
       "link": "https://www.ransomware.live/id/RVJSIFJhdW1wbGFuZXJAcWlsaW4=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/clop?68c2d8992b16426ef1581abe9254a65c",
       "group": "Clop",
       "victim": "BROADCOM.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : ENVOY.COM",
-      "link": "https://www.ransomware.live/id/RU5WT1kuQ09NQGNsb3A=",
-      "summary": "[AI generated] Envoy.com is a provider of technology services designed to modernize and streamline office operations. The firm offers software solutions including Envoy Visitors, Deliveries and Protect, which automate sign-in processes for visitors and packages, and screen staff for COVID symptoms. The company&#x27;s overall goal is to create safe, efficient workspaces.",
-      "pubDate": "Fri, 21 Nov 2025 13:03:15 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?75355c674b35c8916a2351ce43170401",
-      "group": "Clop",
-      "victim": "ENVOY.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : A10NETWORKS.COM",
-      "link": "https://www.ransomware.live/id/QTEwTkVUV09SS1MuQ09NQGNsb3A=",
-      "summary": "[AI generated] A10 Networks is a leading provider of advanced network and security solutions. They offer high-performance products that help organizations ensure their applications are secure and always available. The company&#x27;s portfolio includes solutions for network and traffic management, application delivery, DDoS protection, SSL inspection, load balancing and more. A10 Networks cater to organizations of all sizes, from large multinationals to small businesses.",
-      "pubDate": "Fri, 21 Nov 2025 13:02:32 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?bf6abe2f85601ae1f9db371ac9dc8951",
-      "group": "Clop",
-      "victim": "A10NETWORKS.COM",
       "country": "US"
     }
   ]
