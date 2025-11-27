@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-27T04:15:35.347Z",
+  "updatedAt": "2025-11-27T05:13:02.156Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Killsec has just published a new victim : Rama Judicial",
+      "link": "https://www.ransomware.live/id/UmFtYSBKdWRpY2lhbEBraWxsc2Vj",
+      "summary": "Price ??? Disclosures 0/1",
+      "pubDate": "Thu, 27 Nov 2025 04:22:23 +0000",
+      "category": "CO",
+      "guid": "https://www.ransomware.live/group/killsec?4ded95e592585130286e1229eb34e793",
+      "group": "Killsec",
+      "victim": "Rama Judicial",
+      "country": "CO"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : St Stephens International",
       "link": "https://www.ransomware.live/id/U3QgU3RlcGhlbnMgSW50ZXJuYXRpb25hbEB0aGVnZW50bGVtZW4=",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "CANON.COM",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : MASHOLDINGS.COM",
-      "link": "https://www.ransomware.live/id/TUFTSE9MRElOR1MuQ09NQGNsb3A=",
-      "summary": "[AI generated] MAS Holdings is a leading manufacturer of intimate apparel, sportswear, performance wear and swimwear. Headquartered in Sri Lanka, it&#x27;s one of the world&#x27;s most recognized design-to-delivery solution providers in the apparel and fashion industry. MAS operates with a network of factories in 15 countries, employing over 99,000 people worldwide.",
-      "pubDate": "Fri, 21 Nov 2025 12:53:59 +0000",
-      "category": "LK",
-      "guid": "https://www.ransomware.live/group/clop?a877dd14775d75720fe0175e176b9ffe",
-      "group": "Clop",
-      "victim": "MASHOLDINGS.COM",
-      "country": "LK"
     }
   ]
 }
