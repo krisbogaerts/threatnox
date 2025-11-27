@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-27T00:53:58.560Z",
+  "updatedAt": "2025-11-27T02:26:36.590Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : St Stephens International",
+      "link": "https://www.ransomware.live/id/U3QgU3RlcGhlbnMgSW50ZXJuYXRpb25hbEB0aGVnZW50bGVtZW4=",
+      "summary": "https://www.zoominfo.com/c/st-stephens-international-school/1293733677 www.sis.edu St Stephens International School offers educational programs at its Bangkok and Khao Yai campuses, catering to a diverse student population. The school provides weekend schooling and various camps for groups, aiming to enhance the educational experience. It is associated with several organizations including Ocean Glass, Ocean Property, and Bandara Group. The institution focuses on fostering an international learning environment for its students",
+      "pubDate": "Thu, 27 Nov 2025 01:03:26 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/thegentlemen?4dab2f016e4126294851dcd6dcdeb9aa",
+      "group": "Thegentlemen",
+      "victim": "St Stephens International",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Shelbra International",
       "link": "https://www.ransomware.live/id/U2hlbGJyYSBJbnRlcm5hdGlvbmFsQGRyYWdvbmZvcmNl",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "MASHOLDINGS.COM",
       "country": "LK"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : MAZDA.COM",
-      "link": "https://www.ransomware.live/id/TUFaREEuQ09NQGNsb3A=",
-      "summary": "[AI generated] Mazda.com is the official website of the Mazda Motor Corporation, a Japanese multinational automaker established in 1920. Known for its production of stylish, high-quality cars and sports utility vehicles with innovative technology, Mazda offers users an extensive view of its products and services on its website. It features various automobile models, information on Mazda car dealerships, and details about vehicle features and specifications.",
-      "pubDate": "Fri, 21 Nov 2025 12:53:19 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/clop?a8df3d8bb1a494bec2cc0cc0c0dcd991",
-      "group": "Clop",
-      "victim": "MAZDA.COM",
-      "country": "JP"
     }
   ]
 }
