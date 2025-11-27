@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-27T09:13:26.589Z",
+  "updatedAt": "2025-11-27T10:13:36.758Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Enerre Pharma Lda",
+      "link": "https://www.ransomware.live/id/RW5lcnJlIFBoYXJtYSBMZGFAZHJhZ29uZm9yY2U=",
+      "summary": "A Enerre Pharma nasce da necessidade de adaptação aos novos tempos. Tendo como base fundadora, a estrutura e experiência de mais de 40 anos da empresa Enerre Produções e Representações Lda., a Enerre Pharma nasce da necessidade de adaptação aos novos tempos. Já com contactos estabelecidos além fronteiras e com um know-how que temos vindo a aperfeiçoar com todos estes anos de experiência no mercado, arregaçámos as mangas e arriscamos novos desafios!",
+      "pubDate": "Thu, 27 Nov 2025 08:48:25 +0000",
+      "category": "PT",
+      "guid": "https://www.ransomware.live/group/dragonforce?13b134394ad709696445558a3b0c2e77",
+      "group": "Dragonforce",
+      "victim": "Enerre Pharma Lda",
+      "country": "PT"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : WLR Precision Engineering",
       "link": "https://www.ransomware.live/id/V0xSIFByZWNpc2lvbiBFbmdpbmVlcmluZ0BxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "GRUPOBIMBO.COM",
       "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : TRANETECHNOLOGIES.COM",
-      "link": "https://www.ransomware.live/id/VFJBTkVURUNITk9MT0dJRVMuQ09NQGNsb3A=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 12:55:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?985c683d76421d95bd5f386320ff145b",
-      "group": "Clop",
-      "victim": "TRANETECHNOLOGIES.COM",
-      "country": "US"
     }
   ]
 }
