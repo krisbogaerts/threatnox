@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-11-28T19:09:01.740Z",
+  "updatedAt": "2025-11-28T20:12:42.969Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Zoya",
+      "link": "https://www.ransomware.live/id/Wm95YUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 28 Nov 2025 19:17:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?e9a07cba5c80d31d8753b8cd76a69c11",
+      "group": "Qilin",
+      "victim": "Zoya",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Weiss",
+      "link": "https://www.ransomware.live/id/V2Vpc3NAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 28 Nov 2025 19:16:40 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?36cce8febe7fcba8a68d3c2217a0b803",
+      "group": "Qilin",
+      "victim": "Weiss",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Kleber and Associates",
+      "link": "https://www.ransomware.live/id/S2xlYmVyIGFuZCBBc3NvY2lhdGVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 28 Nov 2025 19:16:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c3c64ddb11d8146258fe30ba7c40f6a4",
+      "group": "Qilin",
+      "victim": "Kleber and Associates",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Williamson County, TX",
+      "link": "https://www.ransomware.live/id/V2lsbGlhbXNvbiBDb3VudHksIFRYQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 28 Nov 2025 19:15:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?5904e1433c733a55035af0854839f83e",
+      "group": "Qilin",
+      "victim": "Williamson County, TX",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Parrish Tire",
       "link": "https://www.ransomware.live/id/UGFycmlzaCBUaXJlQGFraXJh",
@@ -2156,50 +2200,6 @@
       "guid": "https://www.ransomware.live/group/clop?47026609d697256d39fdf9137c65a78f",
       "group": "Clop",
       "victim": "LEGACYCLASSIC.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : AOSOM.COM",
-      "link": "https://www.ransomware.live/id/QU9TT00uQ09NQGNsb3A=",
-      "summary": "[AI generated] Aosom.com is an online retailer that provides a variety of products for home, office, garden, and outdoor activities. Products include furniture, outdoor items, pet supplies, and sports equipment. They focus on offering customers high-quality items at competitive prices. Their selection of products is continually updated to incorporate the latest trends and innovations. Aosom operates globally with a strong foothold in the USA, UK, Canada, and Germany.",
-      "pubDate": "Fri, 21 Nov 2025 17:29:41 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?ed685efd9d5f7dde3098480995eaf9d5",
-      "group": "Clop",
-      "victim": "AOSOM.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : INCENTIVECONCEPTS.COM",
-      "link": "https://www.ransomware.live/id/SU5DRU5USVZFQ09OQ0VQVFMuQ09NQGNsb3A=",
-      "summary": "[AI generated] Incentive Concepts is a company that provides businesses with high-quality merchandise for corporate gifting, incentive, recognition and reward solutions. They offer a vast selection of name-brand products in several categories, including electronics, housewares, and luggage. They aim to assist organizations in motivating their employees, driving sales, and enhancing brand recognition.",
-      "pubDate": "Fri, 21 Nov 2025 17:29:02 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?c3bf60d5fc5d18ded35715eb83f996b1",
-      "group": "Clop",
-      "victim": "INCENTIVECONCEPTS.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : ALASEEL.COM.SA",
-      "link": "https://www.ransomware.live/id/QUxBU0VFTC5DT00uU0FAY2xvcA==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 17:28:23 +0000",
-      "category": "SA",
-      "guid": "https://www.ransomware.live/group/clop?35f32aa346adc824704561dbee46c011",
-      "group": "Clop",
-      "victim": "ALASEEL.COM.SA",
-      "country": "SA"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : PM Plastics, Reliable Van & Storage, Landis, Whitinger Strategic Services, Kimber Manufact...",
-      "link": "https://www.ransomware.live/id/UE0gUGxhc3RpY3MsIFJlbGlhYmxlIFZhbiAmIFN0b3JhZ2UsIExhbmRpcywgV2hpdGluZ2VyIFN0cmF0ZWdpYyBTZXJ2aWNlcywgS2ltYmVyIE1hbnVmYWN0Li4uQGFraXJh",
-      "summary": "We obtained about 29gb of the following companies: PM Plastics manufacturing of miniatures, small parts, large parts , and multiple component assemblies, with most polymers, acrylics , and thermoplastics. Reliable Van &amp; Storage is a full-service moving company based in  New Jersey, offering local, long-distance, and international relo cation services for both residential and commercial clients. Landis is a real estate services company that that uses technolog y and data science to help renters reach home ownership. Whitinger Strategic Services is a business development firm that  offers a variety of consulting services to help organizations gro w in effectiveness, both internally and in the marketplace. Kimber provides a singular purpose of building fine sporting fire arms, better even than classics from the golden age of American g unmaking. You will find personal employee personal data, client information , project files, accounting and financials and other internal ope rational files.",
-      "pubDate": "Fri, 21 Nov 2025 17:19:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?7fc9d75ccc6a50b172f1327cdefd746b",
-      "group": "Akira",
-      "victim": "PM Plastics, Reliable Van & Storage, Landis, Whitinger Strategic Services, Kimber Manufact...",
       "country": "US"
     }
   ]
