@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-28T12:22:39.858Z",
+  "updatedAt": "2025-11-28T13:25:03.520Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Mid South Pulmonary & Sleep Specialists",
+      "link": "https://www.ransomware.live/id/TWlkIFNvdXRoIFB1bG1vbmFyeSAmIFNsZWVwIFNwZWNpYWxpc3RzQGFudWJpcw==",
+      "summary": "Patient data breach.",
+      "pubDate": "Fri, 28 Nov 2025 12:19:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?71b444730f819e7944ab1c840e73cbaf",
+      "group": "Anubis",
+      "victim": "Mid South Pulmonary & Sleep Specialists",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Family Farm and Home",
       "link": "https://www.ransomware.live/id/RmFtaWx5IEZhcm0gYW5kIEhvbWVAd29ybGRsZWFrcw==",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "MICHELIN.COM",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : WELLBIZBRANDS.COM",
-      "link": "https://www.ransomware.live/id/V0VMTEJJWkJSQU5EUy5DT01AY2xvcA==",
-      "summary": "[AI generated] WELLBIZBRANDS.COM is the parent company of three health and wellness brands: Elements Massage, Fitness Together and Fit36. They offer various services including therapeutic massage, personalized fitness training, and high-intensity interval training (HIIT). They focus on enhancing people’s lives by providing wellness solutions tailored to individual needs. They operate numerous franchise locations across the U.S.",
-      "pubDate": "Fri, 21 Nov 2025 13:05:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?db36955339e8e25d928aed0c541cc6ec",
-      "group": "Clop",
-      "victim": "WELLBIZBRANDS.COM",
-      "country": "US"
     }
   ]
 }
