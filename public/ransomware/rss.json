@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-28T09:13:07.581Z",
+  "updatedAt": "2025-11-28T10:13:47.165Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Family Farm and Home",
+      "link": "https://www.ransomware.live/id/RmFtaWx5IEZhcm0gYW5kIEhvbWVAd29ybGRsZWFrcw==",
+      "summary": "[AI generated] Family Farm and Home is a retail chain specializing in agricultural and home improvement products. Founded in 1959 as a single store in Michigan, it now operates across multiple states. They provide a wide variety of products such as tools, pet supplies, clothing, footwear, and farm equipment. The company aims to meet the needs of rural and suburban communities, offering a tailored selection that fits their specific requirements.",
+      "pubDate": "Fri, 28 Nov 2025 10:06:09 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?a5bcca493dd234ae36bee6f2987ac6dc",
+      "group": "Worldleaks",
+      "victim": "Family Farm and Home",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Comansco",
       "link": "https://www.ransomware.live/id/Q29tYW5zY29AcWlsaW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/clop?db36955339e8e25d928aed0c541cc6ec",
       "group": "Clop",
       "victim": "WELLBIZBRANDS.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : DOONEY.COM",
-      "link": "https://www.ransomware.live/id/RE9PTkVZLkNPTUBjbG9w",
-      "summary": "[AI generated] Dooney.com is the official website and online store for Dooney &amp; Bourke, an American leather goods company established in 1975. Known for their high-quality accessories such as handbags, wallets, and accessories, Dooney &amp; Bourke combines classic designs with modern functionality. The company&#x27;s products can be distinguished by their distinct style and durability which they owe to top-notch craftsmanship.",
-      "pubDate": "Fri, 21 Nov 2025 13:04:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?cb99373e6f1660b1a3abbb42d17f3e96",
-      "group": "Clop",
-      "victim": "DOONEY.COM",
       "country": "US"
     }
   ]
