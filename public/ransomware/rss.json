@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-29T00:53:31.683Z",
+  "updatedAt": "2025-11-29T02:25:47.620Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Everbiz Industrial Co. Ltd.",
+      "link": "https://www.ransomware.live/id/RXZlcmJpeiBJbmR1c3RyaWFsIENvLiBMdGQuQHRoZWdlbnRsZW1lbg==",
+      "summary": "www.everbiz.com.tw https://www.zoominfo.com/c/everbiz-industrial-co-ltd/456233474 Since that time, we have manufactured thousands of assemblies for a wide variety of industrial. Many biggest 1000 companies have come to rely on our unique process to fulfill their requirements. This diverse manufacturing capability has made it possible for us to provide competitive and high quality solutions to virtually any industry. Every product we manufacture is built to our customer exact specifications and the entire process is certified in writing. The company has ISO 9001, ISO 14001, AS9100D, IATF 16949, IPC-A-620 QML and UL certification. We also follow IPC/WHMA-A-620 standard.",
+      "pubDate": "Sat, 29 Nov 2025 01:16:10 +0000",
+      "category": "TW",
+      "guid": "https://www.ransomware.live/group/thegentlemen?aaa6d1b9831278e45e42bd34e16a4205",
+      "group": "Thegentlemen",
+      "victim": "Everbiz Industrial Co. Ltd.",
+      "country": "TW"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : vviewisd.net",
       "link": "https://www.ransomware.live/id/dnZpZXdpc2QubmV0QGluY3JhbnNvbQ==",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "EIGHTEENPK.COM",
       "country": "PK"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : IBIZSOFTINC.COM",
-      "link": "https://www.ransomware.live/id/SUJJWlNPRlRJTkMuQ09NQGNsb3A=",
-      "summary": "[AI generated] IBIZSOFTINC is a multi-faceted company that specializes in developing innovative IT solutions. Their primary focus is on Oracle Cloud Applications, with comprehensive expertise in areas such as ecommerce, integration solutions, mobile commerce, and marketing automation. They aim to help businesses maximize efficiency, growth, and profitability through their tailored technological solutions.",
-      "pubDate": "Fri, 21 Nov 2025 17:31:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?9074c08e31d05360e0596d61306ec775",
-      "group": "Clop",
-      "victim": "IBIZSOFTINC.COM",
-      "country": "US"
     }
   ]
 }
