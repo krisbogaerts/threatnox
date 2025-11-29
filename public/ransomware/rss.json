@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-11-29T20:12:42.991Z",
+  "updatedAt": "2025-11-29T21:10:09.028Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Asia Condominium Association",
+      "link": "https://www.ransomware.live/id/QXNpYSBDb25kb21pbml1bSBBc3NvY2lhdGlvbkBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 29 Nov 2025 20:09:33 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?5f3300ee6b9ee59eaad19ce34f7261a6",
+      "group": "Qilin",
+      "victim": "Asia Condominium Association",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Bomchil",
+      "link": "https://www.ransomware.live/id/Qm9tY2hpbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 29 Nov 2025 20:08:51 +0000",
+      "category": "AR",
+      "guid": "https://www.ransomware.live/group/qilin?dd4cf483d8e41a5c1ddb3d0e4fa9181f",
+      "group": "Qilin",
+      "victim": "Bomchil",
+      "country": "AR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : TBC Consoles",
+      "link": "https://www.ransomware.live/id/VEJDIENvbnNvbGVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 29 Nov 2025 20:08:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?3d598165c30fb04c69c3ab0e97ce9819",
+      "group": "Qilin",
+      "victim": "TBC Consoles",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : CJW",
+      "link": "https://www.ransomware.live/id/Q0pXQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 29 Nov 2025 20:07:29 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?bae6982953ba5f8a6270236af99f78aa",
+      "group": "Qilin",
+      "victim": "CJW",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Chenango Valley Technologies",
+      "link": "https://www.ransomware.live/id/Q2hlbmFuZ28gVmFsbGV5IFRlY2hub2xvZ2llc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 29 Nov 2025 20:06:49 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?6c6de96b6c69ec92565bb6b293005390",
+      "group": "Qilin",
+      "victim": "Chenango Valley Technologies",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Blackshrantac has just published a new victim : Rasen Insaat Ve Yatirim Ticaret A.S.",
       "link": "https://www.ransomware.live/id/UmFzZW4gSW5zYWF0IFZlIFlhdGlyaW0gVGljYXJldCBBLlMuQGJsYWNrc2hyYW50YWM=",
@@ -2146,61 +2201,6 @@
       "group": "Clop",
       "victim": "INTELLINUM.COM",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : KNEXTECH.COM",
-      "link": "https://www.ransomware.live/id/S05FWFRFQ0guQ09NQGNsb3A=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 17:42:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?21ce51aa0c0317e5342e97c9e21ef7e4",
-      "group": "Clop",
-      "victim": "KNEXTECH.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : ANYWHERE.RE",
-      "link": "https://www.ransomware.live/id/QU5ZV0hFUkUuUkVAY2xvcA==",
-      "summary": "[AI generated] \"ANYWHERE.RE\" is a proptech solution providing a comprehensive and innovative platform that transforms the real estate industry. It combines Augmented Reality (AR), Artificial Intelligence (AI), and big data for assisting real estate developers, brokers, and agents make data-driven decisions. In addition, it enhances the way potential buyers view and experience properties through virtual tours.",
-      "pubDate": "Fri, 21 Nov 2025 17:41:37 +0000",
-      "category": "RE",
-      "guid": "https://www.ransomware.live/group/clop?a1ed33d023ce3e2a0c78464853e28e60",
-      "group": "Clop",
-      "victim": "ANYWHERE.RE",
-      "country": "RE"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : GOLDSTARPENS.COM",
-      "link": "https://www.ransomware.live/id/R09MRFNUQVJQRU5TLkNPTUBjbG9w",
-      "summary": "[AI generated] GoldstarPens.com is a manufacturer and supplier of customizable writing instruments and promotional products. Beyond pens, they offer a range of items like flashlights, tech accessories, drinkware, bags, and more. They utilize state-of-the-art printing technology for customization, serving as a resource for businesses looking to enhance brand recognition. With a global reputation for quality and affordability, Goldstar Pens is a trusted partner for organizations worldwide.",
-      "pubDate": "Fri, 21 Nov 2025 17:40:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?9fbfdd0e843bec3aead81bead261c64b",
-      "group": "Clop",
-      "victim": "GOLDSTARPENS.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : NEWLINECLOUD.COM",
-      "link": "https://www.ransomware.live/id/TkVXTElORUNMT1VELkNPTUBjbG9w",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 17:40:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?0719203781bd54cbcbdb1e11b3ffb92b",
-      "group": "Clop",
-      "victim": "NEWLINECLOUD.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : NAMA.OM",
-      "link": "https://www.ransomware.live/id/TkFNQS5PTUBjbG9w",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 17:39:42 +0000",
-      "category": "OM",
-      "guid": "https://www.ransomware.live/group/clop?bcc2605d5d140dd09365ab3365a4906a",
-      "group": "Clop",
-      "victim": "NAMA.OM",
-      "country": "OM"
     }
   ]
 }
