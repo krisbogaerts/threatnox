@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-29T11:09:03.932Z",
+  "updatedAt": "2025-11-29T12:20:49.625Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : 8200 Unit corpses",
+      "link": "https://www.ransomware.live/id/ODIwMCBVbml0IGNvcnBzZXNAaGFuZGFsYQ==",
+      "summary": "WANTED – $10,000 REWARD Ron Weinberg Email: ron.wnbrg@gmail.com Phone: +972 53 279 0256 Ron Weinberg is currently under investigation. He is an experienced cyber security and network research specialist, formerly Head of Cyber Security and Network Research at the IDF 8200 Unit (“Aham Sh’hakim”). Weinberg possesses extensive knowledge in cyber security, network protocols, technological research,…",
+      "pubDate": "Sat, 29 Nov 2025 11:21:45 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?da4b1fef82df58395f55f67bea160c15",
+      "group": "Handala",
+      "victim": "8200 Unit corpses",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Dr. Isaac Gertz – Chief Nuclear Architect of the Zion Regime",
       "link": "https://www.ransomware.live/id/RHIuIElzYWFjIEdlcnR6IOKAkyBDaGllZiBOdWNsZWFyIEFyY2hpdGVjdCBvZiB0aGUgWmlvbiBSZWdpbWVAaGFuZGFsYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "ZAIN.COM",
       "country": "KW"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : ACRONI.SI",
-      "link": "https://www.ransomware.live/id/QUNST05JLlNJQGNsb3A=",
-      "summary": "[AI generated] ACRONI.SI is a Slovenia-based company primarily engaged in the production of steel. The company specializes in heavy plates, electrical steel, clad plates, and off-cut tool steel. It caters to a varied range of industries including naval, heavy machinery, energy, automotive, construction, and tool making industries. Their operations involve processing crude iron, steel casting, rolling, heat treatment and other procedures.",
-      "pubDate": "Fri, 21 Nov 2025 17:32:19 +0000",
-      "category": "SI",
-      "guid": "https://www.ransomware.live/group/clop?f75da1317e90cc04b31b96827f9fe080",
-      "group": "Clop",
-      "victim": "ACRONI.SI",
-      "country": "SI"
     }
   ]
 }
