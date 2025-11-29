@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-28T23:11:14.944Z",
+  "updatedAt": "2025-11-29T00:53:31.683Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : vviewisd.net",
+      "link": "https://www.ransomware.live/id/dnZpZXdpc2QubmV0QGluY3JhbnNvbQ==",
+      "summary": "Valley View ISD was one of only fifteen districts in the entire state of Texas to receive this rating. We are extremely proud of our students and staff for this great accomplishment. This would not be possible without the collaboration of all our stakeholders. It is no secret that when schools, families, and communities support each other and come together, students achieve at the highest levels. On behalf of our Board of Trustees and staff, thank you for your continued support and commitment to our students.\r Employees: 800\r Revenue: $27.8 Million\r Industry: Education  \r Phone Number: (416) 783-6181",
+      "pubDate": "Fri, 28 Nov 2025 22:56:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?c5b612c1198b4bda885221603f04b18b",
+      "group": "Incransom",
+      "victim": "vviewisd.net",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Zoya",
       "link": "https://www.ransomware.live/id/Wm95YUBxaWxpbg==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/clop?9074c08e31d05360e0596d61306ec775",
       "group": "Clop",
       "victim": "IBIZSOFTINC.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : LEGACYCLASSIC.COM",
-      "link": "https://www.ransomware.live/id/TEVHQUNZQ0xBU1NJQy5DT01AY2xvcA==",
-      "summary": "[AI generated] Legacy Classic Furniture, Inc. is a leading supplier of bedroom, dining room, casual dining, and youth furniture. They are dedicated to helping bring a lifetime of memories to dream rooms and strive to provide high-quality furniture with innovative designs at an affordable price. The company offers comprehensive furniture solutions for homes and prides itself on craftsmanship, finishes, and durability.",
-      "pubDate": "Fri, 21 Nov 2025 17:30:20 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?47026609d697256d39fdf9137c65a78f",
-      "group": "Clop",
-      "victim": "LEGACYCLASSIC.COM",
       "country": "US"
     }
   ]
