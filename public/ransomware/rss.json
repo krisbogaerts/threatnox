@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-11-30T15:10:33.086Z",
+  "updatedAt": "2025-11-30T16:13:13.090Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Veton Ai",
+      "link": "https://www.ransomware.live/id/VmV0b24gQWlAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 30 Nov 2025 15:20:43 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?71bb99667dd04a4319693b9de3ae4040",
+      "group": "Qilin",
+      "victim": "Veton Ai",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : ILCA Targhe s.r.l.",
+      "link": "https://www.ransomware.live/id/SUxDQSBUYXJnaGUgcy5yLmwuQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sun, 30 Nov 2025 15:20:01 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?5c63229f2a88bfae6988e9d80d6a3208",
+      "group": "Qilin",
+      "victim": "ILCA Targhe s.r.l.",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Battaglioli",
       "link": "https://www.ransomware.live/id/QmF0dGFnbGlvbGlAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Medusa",
       "victim": "Nationwide Legal LLC",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : HCMSPARTNERS.COM",
-      "link": "https://www.ransomware.live/id/SENNU1BBUlRORVJTLkNPTUBjbG9w",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 17:44:43 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?db960939c2b4b6a5e725492116e18b6f",
-      "group": "Clop",
-      "victim": "HCMSPARTNERS.COM",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : DMC-ME.COM",
-      "link": "https://www.ransomware.live/id/RE1DLU1FLkNPTUBjbG9w",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Fri, 21 Nov 2025 17:44:05 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/clop?ec24a8d77117872cc9913df28d9779e7",
-      "group": "Clop",
-      "victim": "DMC-ME.COM",
-      "country": "AE"
     }
   ]
 }
