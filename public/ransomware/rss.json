@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-30T07:11:14.725Z",
+  "updatedAt": "2025-11-30T08:14:14.706Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Division 10",
+      "link": "https://www.ransomware.live/id/RGl2aXNpb24gMTBAZHJhZ29uZm9yY2U=",
+      "summary": "Division 10 Inc is a company based in Memphis, Tennessee, specializing in supplying specialty products to the construction industry since 1989. They offer services including product sales, estimating services, and installation quotes. Their clients range from contractors to automotive companies, evidenced by testimonials highlighting their successful project contributions. The company prides itself on its commitment to quality and customer satisfaction",
+      "pubDate": "Sun, 30 Nov 2025 06:44:15 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?13be3795bd1ee128398fa051a34d9ff8",
+      "group": "Dragonforce",
+      "victim": "Division 10",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Asia Condominium Association",
       "link": "https://www.ransomware.live/id/QXNpYSBDb25kb21pbml1bSBBc3NvY2lhdGlvbkBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "MSG.COM",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : INTELLINUM.COM",
-      "link": "https://www.ransomware.live/id/SU5URUxMSU5VTS5DT01AY2xvcA==",
-      "summary": "[AI generated] Intellinum Inc. is a technology company that specializes in providing mobile supply chain solutions. Its flagship solution, Express Suite, integrates advanced mobile computing, voice recognition, barcode scanning, and RFID technologies to deliver improved inventory control and reduced labor costs. Its solutions are widely used by Fortune 500 clients across various industries. Based in California, USA.",
-      "pubDate": "Fri, 21 Nov 2025 17:42:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/clop?7d23e1e33554d6a41acc9615e2ebe3d1",
-      "group": "Clop",
-      "victim": "INTELLINUM.COM",
-      "country": "US"
     }
   ]
 }
