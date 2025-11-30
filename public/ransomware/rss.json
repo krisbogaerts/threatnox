@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-11-30T08:14:14.706Z",
+  "updatedAt": "2025-11-30T09:11:25.423Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Battaglioli",
+      "link": "https://www.ransomware.live/id/QmF0dGFnbGlvbGlAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 30 Nov 2025 08:21:30 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?29197fa783ddcad7fa70c2eb7a3b0aaf",
+      "group": "Qilin",
+      "victim": "Battaglioli",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Division 10",
       "link": "https://www.ransomware.live/id/RGl2aXNpb24gMTBAZHJhZ29uZm9yY2U=",
@@ -2190,17 +2201,6 @@
       "group": "Clop",
       "victim": "DMC-ME.COM",
       "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : MSG.COM",
-      "link": "https://www.ransomware.live/id/TVNHLkNPTUBjbG9w",
-      "summary": "[AI generated] MSG.com is a website owned by The Madison Square Garden Company, a sports and entertainment company based in the United States. The site features content pertaining to the company&#x27;s various properties, including the New York Knicks, the New York Rangers, and Madison Square Gardens. It provides news, updates, event schedules, ticket purchasing options, and more.",
-      "pubDate": "Fri, 21 Nov 2025 17:43:30 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/clop?050c14008993a489936afd3ef926fbad",
-      "group": "Clop",
-      "victim": "MSG.COM",
-      "country": ""
     }
   ]
 }
