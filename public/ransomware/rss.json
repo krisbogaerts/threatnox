@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-01T15:13:10.071Z",
+  "updatedAt": "2025-12-01T16:17:01.356Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Astrofein",
+      "link": "https://www.ransomware.live/id/QXN0cm9mZWluQHJhbnNvbWhvdXNl",
+      "summary": "ASTROFEIN develops, produces and tests components and systems for space. We focus on small satellites, attitude control, structures, mechanisms and payloads. The comprehensive knowledge, expertise and experience of the employees ensure a high quality standard in different fields of the space technologies. ASTROFEIN is one of the world&#x27;s leading manufacturers of reaction wheels. A family of reaction wheels for small satellites was successfully launched on the market.",
+      "pubDate": "Mon, 01 Dec 2025 15:18:04 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/ransomhouse?747f6396632adec4315d8a4c80c1d0d7",
+      "group": "Ransomhouse",
+      "victim": "Astrofein",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.enea.com",
+      "link": "https://www.ransomware.live/id/d3d3LmVuZWEuY29tQGluY3JhbnNvbQ==",
+      "summary": "79gb",
+      "pubDate": "Mon, 01 Dec 2025 14:45:24 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/incransom?8afd317c430505160665aac1acb69b17",
+      "group": "Incransom",
+      "victim": "www.enea.com",
+      "country": "SE"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Cleveland Construction",
+      "link": "https://www.ransomware.live/id/Q2xldmVsYW5kIENvbnN0cnVjdGlvbkBha2lyYQ==",
+      "summary": "Cleveland Construction is a family-owned commercial contractor sp ecializing in construction management and self-performing interio r trades. We are ready to upload 12GB of corporate documents such as: very  detailed employee information (about 1500 SSNs, passports, addres ses, phones, emails, driver licenses and so on), contracts and ag reements, projects and so on.",
+      "pubDate": "Mon, 01 Dec 2025 14:38:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?95e98b51df17a3d3c811a536197cb6ad",
+      "group": "Akira",
+      "victim": "Cleveland Construction",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : MD Manouel InsuranceAgency",
       "link": "https://www.ransomware.live/id/TUQgTWFub3VlbCBJbnN1cmFuY2VBZ2VuY3lAYWtpcmE=",
@@ -2168,39 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Fueling Solutions Inc.",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Healthcare & More",
-      "link": "https://www.ransomware.live/id/SGVhbHRoY2FyZSAmIE1vcmVAZHJhZ29uZm9yY2U=",
-      "summary": "Healthcare &amp; Moore, led by independent insurance broker Myra &#x27;Lynn&#x27; Moore, specializes in a comprehensive range of insurance products including Medicare plans, health insurance, life insurance, annuities, and dental coverage. The company is dedicated to providing exceptional service and assisting clients, particularly seniors, in navigating their healthcare insurance options. By offering free consultations and personalized guidance, they aim to ensure clients make informed choices about their insurance needs. With access to over 6,225 products from 305 organizations, Healthcare &amp; Moore is committed to finding the best coverage for their clients’ specific situations.",
-      "pubDate": "Sat, 22 Nov 2025 18:53:48 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?a0f5387992c13e0e012823b66aa1d746",
-      "group": "Dragonforce",
-      "victim": "Healthcare & More",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Barr Trucking Inc.",
-      "link": "https://www.ransomware.live/id/QmFyciBUcnVja2luZyBJbmMuQGRyYWdvbmZvcmNl",
-      "summary": "Barr Trucking was formed in 1981 by William Mark Barr and his Father William DeWitt Barr in Pinckneyville, IL. At the time, Barr Trucking consisted of two water delivery trucks and one dump truck utilized to deliver residential rock. In 1983 Mark acquired his father’s share of the company with visions of expanding into new markets. The next year Mark purchased the company’s first semi, a 1975 R Model Mack. With an expanding fleet and company growth, a new facility was in order. In 1989, Barr Trucking purchased a large work shop and storage yard west of Pinckneyville, IL where the company operates today.",
-      "pubDate": "Sat, 22 Nov 2025 18:52:36 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?b940982fd4e15acace7dc19d4a94f4bd",
-      "group": "Dragonforce",
-      "victim": "Barr Trucking Inc.",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : F-W-S Countertops",
-      "link": "https://www.ransomware.live/id/Ri1XLVMgQ291bnRlcnRvcHNAZHJhZ29uZm9yY2U=",
-      "summary": "F-W-S COUNTERTOPS specializes in the design, fabrication, and installation of premium countertops, including Quartzite, Granite, Sintered Stone, Man-Made Quartz, and Wood Butcher Block. The company serves residential, commercial, and institutional clients in Southern Illinois and the tri-state area. With a focus on quality craftsmanship and a wide range of customizable products, they offer unique solutions for various projects such as kitchen and vanity countertops, wall backsplashes, and outdoor kitchens. Their showroom features full slabs and samples along with kitchen and vanity sinks in multiple styles and materials",
-      "pubDate": "Sat, 22 Nov 2025 18:51:35 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?527b1fedf76c8ae34ee1871c2c28c3f5",
-      "group": "Dragonforce",
-      "victim": "F-W-S Countertops",
-      "country": ""
     }
   ]
 }
