@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-01T01:06:04.795Z",
+  "updatedAt": "2025-12-01T03:43:17.199Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Fun For Less Tours",
+      "link": "https://www.ransomware.live/id/RnVuIEZvciBMZXNzIFRvdXJzQGFudWJpcw==",
+      "summary": "Customer passports and personal data.",
+      "pubDate": "Mon, 01 Dec 2025 00:45:54 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?06bedddde6acdd79d83fc18b4ef7d540",
+      "group": "Anubis",
+      "victim": "Fun For Less Tours",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Medusa has just published a new victim : Universidade Municipal de São Caetano",
       "link": "https://www.ransomware.live/id/VW5pdmVyc2lkYWRlIE11bmljaXBhbCBkZSBTw6NvIENhZXRhbm9AbWVkdXNh",
@@ -2190,17 +2201,6 @@
       "group": "Devman",
       "victim": "procure.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Medusa has just published a new victim : General Distributing",
-      "link": "https://www.ransomware.live/id/R2VuZXJhbCBEaXN0cmlidXRpbmdAbWVkdXNh",
-      "summary": "General Distributing Co is a company that operates in the Convenience Stores, Gas Stations &amp; Liquor Stores industry. It employs 100to249 people and has 25Mto50M of revenue. The company is headquartered in Salt Lake City, Utah. company is headquartered in 5350 W Amelia Earhart Drive, Salt Lake City, UT 84116, USA. 168 Employees",
-      "pubDate": "Fri, 21 Nov 2025 18:44:34 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/medusa?159e97c74066828735a8cb136e40acc2",
-      "group": "Medusa",
-      "victim": "General Distributing",
-      "country": ""
     }
   ]
 }
