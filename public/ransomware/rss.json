@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-01T10:14:51.102Z",
+  "updatedAt": "2025-12-01T11:11:24.368Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tridentlocker has just published a new victim : bpost",
+      "link": "https://www.ransomware.live/id/YnBvc3RAdHJpZGVudGxvY2tlcg==",
+      "summary": "[AI generated] bpost is a Belgian company that handles the sorting, collection, transportation and delivery of postal services both locally and internationally. Apart from this, they also manage electronic communications, financial transactions, and other related services. bpost operates in the mail sector as well as in the parcel and e-commerce logistics in Europe, North-America and Asia.",
+      "pubDate": "Mon, 01 Dec 2025 10:27:43 +0000",
+      "category": "BE",
+      "guid": "https://www.ransomware.live/group/tridentlocker?0a217d7fc46c556eda7287ebc320a57b",
+      "group": "Tridentlocker",
+      "victim": "bpost",
+      "country": "BE"
+    },
     {
       "title": "🏴‍☠️ Genesis has just published a new victim : Rose Displays",
       "link": "https://www.ransomware.live/id/Um9zZSBEaXNwbGF5c0BnZW5lc2lz",
@@ -2190,17 +2201,6 @@
       "group": "Lynx",
       "victim": "vanteceurope.com",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Mmlk",
-      "link": "https://www.ransomware.live/id/TW1sa0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sat, 22 Nov 2025 13:24:49 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?2b22c17f0b676477c28b9b2b10f5e42f",
-      "group": "Qilin",
-      "victim": "Mmlk",
-      "country": ""
     }
   ]
 }
