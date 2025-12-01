@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-01T20:12:44.920Z",
+  "updatedAt": "2025-12-01T21:10:04.967Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : University Loft",
+      "link": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBMb2Z0QHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Mon, 01 Dec 2025 20:08:31 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?e6e26ffbb64082ea7c265363fe9f902e",
+      "group": "Play",
+      "victim": "University Loft",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : PHA Body Systems",
+      "link": "https://www.ransomware.live/id/UEhBIEJvZHkgU3lzdGVtc0BwbGF5",
+      "summary": "South Korea",
+      "pubDate": "Mon, 01 Dec 2025 20:07:52 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/play?5f1e73795233948e05af9e87499e71df",
+      "group": "Play",
+      "victim": "PHA Body Systems",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : South Island Public Service District",
+      "link": "https://www.ransomware.live/id/U291dGggSXNsYW5kIFB1YmxpYyBTZXJ2aWNlIERpc3RyaWN0QHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Mon, 01 Dec 2025 20:07:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?4f2daf91e2117045cf7f4e895f0a936c",
+      "group": "Play",
+      "victim": "South Island Public Service District",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Industrial Steam",
       "link": "https://www.ransomware.live/id/SW5kdXN0cmlhbCBTdGVhbUByYW5zb21ob3VzZQ==",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Maheu&Maheu",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Cal-Comp Electronics Public",
-      "link": "https://www.ransomware.live/id/Q2FsLUNvbXAgRWxlY3Ryb25pY3MgUHVibGljQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sun, 23 Nov 2025 18:46:02 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/qilin?f2436263fc68ab606ebc537aedf51ce7",
-      "group": "Qilin",
-      "victim": "Cal-Comp Electronics Public",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Tengu has just published a new victim : Coral Clubes - Mexico",
-      "link": "https://www.ransomware.live/id/Q29yYWwgQ2x1YmVzIC0gTWV4aWNvQHRlbmd1",
-      "summary": "Coral Clubes - Mexico The Fimex Group offers a collection of luxury leisure and sports clubs, with a special focus on golf clubs and integrated resorts. Founded as a specialist in the leisure and sports sector, the group is dedicated to providing exceptional experiences for its members through world-class facilities. The group is committed to the highest standards of quality, service, and customer satisfaction.",
-      "pubDate": "Sun, 23 Nov 2025 17:18:23 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/tengu?fd159f07d7ae5fb7d52812d08af0d0fe",
-      "group": "Tengu",
-      "victim": "Coral Clubes - Mexico",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Cayuga Milk Ingredients",
-      "link": "https://www.ransomware.live/id/Q2F5dWdhIE1pbGsgSW5ncmVkaWVudHNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 23 Nov 2025 17:13:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?81597ec62ddcf2ae147ac3937608dc42",
-      "group": "Qilin",
-      "victim": "Cayuga Milk Ingredients",
-      "country": "US"
     }
   ]
 }
