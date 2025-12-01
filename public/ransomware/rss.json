@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-01T13:29:33.516Z",
+  "updatedAt": "2025-12-01T14:13:25.546Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : MD Manouel InsuranceAgency",
+      "link": "https://www.ransomware.live/id/TUQgTWFub3VlbCBJbnN1cmFuY2VBZ2VuY3lAYWtpcmE=",
+      "summary": "S&amp;R Insurance Services Inc. is a reputable insurance agency locat ed in Rancho Cucamonga, California, specializing in a wide range  of insurance products such as auto, home, commercial, life, umbre lla, and health insurance. We are ready to upload more than 30GB of corporate documents such as: Personal employee information, client data, projects, agreem ents and contracts, other internal documents.",
+      "pubDate": "Mon, 01 Dec 2025 12:48:19 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?3a2aec43312cba7f4e5bd18125557bb2",
+      "group": "Akira",
+      "victim": "MD Manouel InsuranceAgency",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Abhe & Svoboda",
+      "link": "https://www.ransomware.live/id/QWJoZSAmIFN2b2JvZGFAYWtpcmE=",
+      "summary": "Abhe &amp; Svoboda, Inc. is a full-service restoration contractor. In addition to offering a full range of industrial coatings service s, our core competencies also include a variety of related constr uction services, such as concrete repair, and steel repair and re placement. We are ready to upload 82GB of corporate documents such as: Detai led personal employee information (passports, DLs, SSNs, addresse s, emails, phones, medical information, credit cards), client inf ormation, projects, agreements and contracts, other internal docu ments.",
+      "pubDate": "Mon, 01 Dec 2025 12:48:16 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?4b89c52b386526ba227a777a289517aa",
+      "group": "Akira",
+      "victim": "Abhe & Svoboda",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Goldenrod",
+      "link": "https://www.ransomware.live/id/R29sZGVucm9kQGFraXJh",
+      "summary": "Goldenrod has been designing and manufacturing industry-leading d ifferential winding shafts, multiple bladder air shafts, lightwei ght aluminum and carbon fiber shafts, reel spools, chucks, and sa fety chucks for processors in the North American paper, film, foi l, and non-woven converting industries. We are ready to upload 12GB of corporate documents such as: finan cial files, payment details, invoices and so on.",
+      "pubDate": "Mon, 01 Dec 2025 12:48:13 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?67a9475371a5d0241fc375a822103d19",
+      "group": "Akira",
+      "victim": "Goldenrod",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Radar has just published a new victim : TUAN LE Construction Company Limited",
       "link": "https://www.ransomware.live/id/VFVBTiBMRSBDb25zdHJ1Y3Rpb24gQ29tcGFueSBMaW1pdGVkQHJhZGFy",
@@ -2168,39 +2201,6 @@
       "group": "Dragonforce",
       "victim": "F-W-S Countertops",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Katch Kan",
-      "link": "https://www.ransomware.live/id/S2F0Y2ggS2FuQHBsYXk=",
-      "summary": "Canada",
-      "pubDate": "Sat, 22 Nov 2025 17:14:32 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/play?f0b7779b4a2389fe2c1e43717e00924c",
-      "group": "Play",
-      "victim": "Katch Kan",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Keystone Fabricating",
-      "link": "https://www.ransomware.live/id/S2V5c3RvbmUgRmFicmljYXRpbmdAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Sat, 22 Nov 2025 17:13:53 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?d39bc1461741ca3f06b6665a72c439d0",
-      "group": "Play",
-      "victim": "Keystone Fabricating",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Turkstra Trusses",
-      "link": "https://www.ransomware.live/id/VHVya3N0cmEgVHJ1c3Nlc0BwbGF5",
-      "summary": "Canada",
-      "pubDate": "Sat, 22 Nov 2025 17:13:14 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/play?ea2cab6b7e8d8705e7f4101b985e0a10",
-      "group": "Play",
-      "victim": "Turkstra Trusses",
-      "country": "CA"
     }
   ]
 }
