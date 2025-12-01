@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-01T16:17:01.356Z",
+  "updatedAt": "2025-12-01T17:14:10.314Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Martin",
+      "link": "https://www.ransomware.live/id/TWFydGluQGFraXJh",
+      "summary": "Martin &amp; Company is a leader in tech-enabled insurance solutions, providing a comprehensive suite of services designed for insuran ce carriers and managing general agents (MGAs). We are ready to upload 46GB of corporate documents such as: emplo yee information (passport, driver licenses and os on), client inf ormation, contracts and agreements, confidential files, projects  and so on.",
+      "pubDate": "Mon, 01 Dec 2025 15:41:52 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?fff144b1e2ddd34b5af19674cd2cf0c8",
+      "group": "Akira",
+      "victim": "Martin",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Astrofein",
       "link": "https://www.ransomware.live/id/QXN0cm9mZWluQHJhbnNvbWhvdXNl",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/dragonforce?fef825b08191c2106becb9f218b4bfaa",
       "group": "Dragonforce",
       "victim": "Nugent Supply",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Fueling Solutions Inc.",
-      "link": "https://www.ransomware.live/id/RnVlbGluZyBTb2x1dGlvbnMgSW5jLkBkcmFnb25mb3JjZQ==",
-      "summary": "Fueling Solutions, Inc. specializes in providing commercial, industrial, and mission-critical fueling systems across over 30 countries on four continents. The company offers a range of services including sales, service, and installation for convenience store point-of-sale systems, fuel dispensers, and monitoring systems. They are also involved in complex industrial fueling systems and mission-critical environments such as data centers and government systems. Established in 1986, they have completed thousands of projects, catering to various sectors including convenience stores, bulk plants, and local government fueling systems.",
-      "pubDate": "Sat, 22 Nov 2025 18:54:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?cd54244d5f6f5238ecac34100f6c55b3",
-      "group": "Dragonforce",
-      "victim": "Fueling Solutions Inc.",
       "country": "US"
     }
   ]
