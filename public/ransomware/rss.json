@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-01T17:14:10.314Z",
+  "updatedAt": "2025-12-01T18:19:32.915Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : HASCO Hasenclever",
+      "link": "https://www.ransomware.live/id/SEFTQ08gSGFzZW5jbGV2ZXJAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 17:20:13 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/qilin?8dfb15144ce7a42652bd44bc55607e45",
+      "group": "Qilin",
+      "victim": "HASCO Hasenclever",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Virtualware Solutions",
+      "link": "https://www.ransomware.live/id/VmlydHVhbHdhcmUgU29sdXRpb25zQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 17:19:34 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?92ac65ff40f09903b9aa037d3062a091",
+      "group": "Qilin",
+      "victim": "Virtualware Solutions",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : millerwoodtradepub.com",
+      "link": "https://www.ransomware.live/id/bWlsbGVyd29vZHRyYWRlcHViLmNvbUBpbmNyYW5zb20=",
+      "summary": "Established in 1927, Miller Wood Trade Publications is a leading source of information for the forest products industry, publishing 10 specialized magazines and resources. Their offerings include various marketing directories and handbooks tailored to the lumber market. The company&#x27;s publications serve both domestic and international clients, connecting suppliers with buyers across the globe. With a focus on the lumber trade, they cater to all segments of this billion-dollar industry",
+      "pubDate": "Mon, 01 Dec 2025 16:55:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?03ce42d45fe51751ac8b7df18a81d2fe",
+      "group": "Incransom",
+      "victim": "millerwoodtradepub.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next GenerationLogistics,...",
+      "link": "https://www.ransomware.live/id/V2lzY29uc2luIEtuaWZlIFdvcmtzLCBUaGUgU21pdGggQ29tcGFuaWVzLCBFbnZpcm90ZWNoIFNlcnZpY2VzLCBOZXh0IEdlbmVyYXRpb25Mb2dpc3RpY3MsLi4uQGFraXJh",
+      "summary": "We obtained about 17gb of the following companies: Wisconsin Knife Works is a leader in tooling and precision manufa cturing of woodworking cutting tools, backed by over 90 years of  experience.  Smith Companies, Ltd. is a Boston-based firm specializing in unbi ased and sophisticated advanced planning solutions that effective ly incorporate life insurance into clients&#x27; overall financial str ategies. EnviroTech Services, Inc. specializes in developing superior road and surface solutions to manage all environments; both natural a nd man-made. Next Generation Logistics, Inc. specializes in advanced transport ation management solutions and services, leveraging over 35 years of expertise in the logistics industry.  Security First Bank is dedicated to providing comprehensive banki ng services that prioritize customer satisfaction. You will find personal employee personal data, client information , numerous project files, accounting and financials and other int ernal operational files.",
+      "pubDate": "Mon, 01 Dec 2025 16:48:33 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?c31fae90b9094b87dfe6cf3e29575a8f",
+      "group": "Akira",
+      "victim": "Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next GenerationLogistics,...",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Martin",
       "link": "https://www.ransomware.live/id/TWFydGluQGFraXJh",
@@ -2157,50 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Nuclebrás Equipamentos Pesados",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Bodega San Huberto",
-      "link": "https://www.ransomware.live/id/Qm9kZWdhIFNhbiBIdWJlcnRvQGRyYWdvbmZvcmNl",
-      "summary": "Bodega | San Huberto offers a welcoming environment for all, catering to both Spanish and English-speaking clients. The company focuses on creating a friendly atmosphere for visitors. Although specific products and services are not mentioned, the name suggests a potential emphasis on food and beverages. Their intended clientele likely includes local residents and tourists seeking a culturally enriching experience",
-      "pubDate": "Sat, 22 Nov 2025 18:59:18 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/dragonforce?b83bc94319631fe9cca5df10ea8c2a97",
-      "group": "Dragonforce",
-      "victim": "Bodega San Huberto",
-      "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Parsirang",
-      "link": "https://www.ransomware.live/id/UGFyc2lyYW5nQGRyYWdvbmZvcmNl",
-      "summary": "Parsirang is a large Iranian agro-industrial company focused on egg production, but also involved in feed, olive farming, and compost fertilizer. They run a sizable operation in Fars Province and have significant capacity and certifications.",
-      "pubDate": "Sat, 22 Nov 2025 18:58:13 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?126501481e1ec187d80e745e04475a98",
-      "group": "Dragonforce",
-      "victim": "Parsirang",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Summit Construction Supply",
-      "link": "https://www.ransomware.live/id/U3VtbWl0IENvbnN0cnVjdGlvbiBTdXBwbHlAZHJhZ29uZm9yY2U=",
-      "summary": "Summit Construction Supply is a leading commercial construction product supplier based in Loveland, Colorado, specializing in providing a wide range of construction materials to mechanical, electrical, drywall, and carpentry contractors. Established in 2015, the company prides itself on extensive product knowledge and exceptional customer service, offering next-day deliveries and on-site inventory management support. With over 8,000 items stocked and access to more than 200 manufacturers, they are committed to meeting the specific needs of their clients throughout Northern Colorado and Wyoming. The company also offers consulting services to assist clients with material applications and product selections for their projects.",
-      "pubDate": "Sat, 22 Nov 2025 18:57:00 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?3319f626af17664a6da698b7efa82801",
-      "group": "Dragonforce",
-      "victim": "Summit Construction Supply",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Nugent Supply",
-      "link": "https://www.ransomware.live/id/TnVnZW50IFN1cHBseUBkcmFnb25mb3JjZQ==",
-      "summary": "Nugent Supply Company is a Women Business Enterprise (WBE) and a member of the Specialty Tools and Fasteners Distributors Association (STAFDA) based in Loveland, Colorado. They specialize in the distribution of construction supplies such as nuts, bolts, fasteners, and strut, offering delivery directly to job sites across Colorado and Wyoming. Established in 1994, they prioritize customer service and provide next day delivery through dedicated drivers. Their showroom invites clients to visit and engage with their extensive catalog of products and services.",
-      "pubDate": "Sat, 22 Nov 2025 18:55:56 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?fef825b08191c2106becb9f218b4bfaa",
-      "group": "Dragonforce",
-      "victim": "Nugent Supply",
-      "country": "US"
     }
   ]
 }
