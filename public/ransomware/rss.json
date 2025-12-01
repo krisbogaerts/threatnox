@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-01T12:24:19.661Z",
+  "updatedAt": "2025-12-01T13:29:33.516Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Radar has just published a new victim : TUAN LE Construction Company Limited",
+      "link": "https://www.ransomware.live/id/VFVBTiBMRSBDb25zdHJ1Y3Rpb24gQ29tcGFueSBMaW1pdGVkQHJhZGFy",
+      "summary": "Files Marked Confidential download - https://upload.disroot.org/r/SBnd9KFH#Qjphic5O+R3JHDSY7tW+9iZ/WkjIgplsCqMrx7v29ws=",
+      "pubDate": "Mon, 01 Dec 2025 12:17:24 +0000",
+      "category": "VN",
+      "guid": "https://www.ransomware.live/group/radar?5d7c1b44d080571db9515e209c0db84c",
+      "group": "Radar",
+      "victim": "TUAN LE Construction Company Limited",
+      "country": "VN"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Innomotive SolutionsGroup",
+      "link": "https://www.ransomware.live/id/SW5ub21vdGl2ZSBTb2x1dGlvbnNHcm91cEBha2lyYQ==",
+      "summary": "Innomotive Solutions Group is a North American leader specializin g in high-quality roll-up doors, LED lighting, and power lifting  systems for trucks and specialty vehicles. We are ready to upload 10GB files of corporate documents such as: Personal employee information (passport, phones, emails and so o n), financials, client data, projects, agreements and contracts,  NDA, etc.",
+      "pubDate": "Mon, 01 Dec 2025 11:38:30 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?7019be78f2d080215e90fc164faa158c",
+      "group": "Akira",
+      "victim": "Innomotive SolutionsGroup",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Tridentlocker has just published a new victim : bpost",
       "link": "https://www.ransomware.live/id/YnBvc3RAdHJpZGVudGxvY2tlcg==",
@@ -2179,28 +2201,6 @@
       "group": "Play",
       "victim": "Turkstra Trusses",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : St. Joseph's Healthcare Hamilton",
-      "link": "https://www.ransomware.live/id/U3QuIEpvc2VwaCdzIEhlYWx0aGNhcmUgSGFtaWx0b25Acmh5c2lkYQ==",
-      "summary": "St. Joseph&#x27;s Healthcare Hamilton",
-      "pubDate": "Sat, 22 Nov 2025 15:14:50 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/rhysida?165ee334937f885c36c8a887ef637259",
-      "group": "Rhysida",
-      "victim": "St. Joseph's Healthcare Hamilton",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : vanteceurope.com",
-      "link": "https://www.ransomware.live/id/dmFudGVjZXVyb3BlLmNvbUBseW54",
-      "summary": "This page is Group Mission. VANTEC, leading company of Auto Parts Logistics, provides high quality Supply Chain Solutions globally based on our over 60 years logistics expertise.",
-      "pubDate": "Sat, 22 Nov 2025 14:10:53 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/lynx?477898e979f5590be47bb1b043f3e9a1",
-      "group": "Lynx",
-      "victim": "vanteceurope.com",
-      "country": "GB"
     }
   ]
 }
