@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-12-01T18:19:32.915Z",
+  "updatedAt": "2025-12-01T19:15:00.205Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Industrial Steam",
+      "link": "https://www.ransomware.live/id/SW5kdXN0cmlhbCBTdGVhbUByYW5zb21ob3VzZQ==",
+      "summary": "Industrial Steam is a leading manufacturer specializing in pressurized and atmospheric deaerators, providing innovative solutions for the boiler industry since 1952. Their product line includes various types of deaerators, blowdown systems, condensate recovery units, and advanced feedwater systems. With a commitment to unmatched performance and customer satisfaction, they offer unique designs such as dual compartment systems along with established technologies.",
+      "pubDate": "Mon, 01 Dec 2025 18:15:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/ransomhouse?82c5ae0b2d9da6ed9aea3603206820b9",
+      "group": "Ransomhouse",
+      "victim": "Industrial Steam",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : San Miguel",
+      "link": "https://www.ransomware.live/id/U2FuIE1pZ3VlbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 18:14:38 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?352479e6fb646b868322146535328d35",
+      "group": "Qilin",
+      "victim": "San Miguel",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : France terre d'asile",
+      "link": "https://www.ransomware.live/id/RnJhbmNlIHRlcnJlIGQnYXNpbGVAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 18:13:59 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?cdff508e5b75f02b1126acb8957018e5",
+      "group": "Qilin",
+      "victim": "France terre d'asile",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : B dynamic",
+      "link": "https://www.ransomware.live/id/QiBkeW5hbWljQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 18:13:21 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/qilin?08b8375fe81dbb441202965013a2ec8a",
+      "group": "Qilin",
+      "victim": "B dynamic",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Clark & Sullivan Constructors",
+      "link": "https://www.ransomware.live/id/Q2xhcmsgJiBTdWxsaXZhbiBDb25zdHJ1Y3RvcnNAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Mon, 01 Dec 2025 18:12:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?a4f6f90a9ecc6906c03877bcf27ddbbc",
+      "group": "Play",
+      "victim": "Clark & Sullivan Constructors",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Hall Aluminum Products",
+      "link": "https://www.ransomware.live/id/SGFsbCBBbHVtaW51bSBQcm9kdWN0c0BwbGF5",
+      "summary": "United States",
+      "pubDate": "Mon, 01 Dec 2025 18:11:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?5501a9821400e3921dc332ab71ea3e17",
+      "group": "Play",
+      "victim": "Hall Aluminum Products",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Aspen Distribution",
+      "link": "https://www.ransomware.live/id/QXNwZW4gRGlzdHJpYnV0aW9uQHBsYXk=",
+      "summary": "Canada",
+      "pubDate": "Mon, 01 Dec 2025 18:11:05 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?8cebaa8792b3f9740bcfbb35e947644e",
+      "group": "Play",
+      "victim": "Aspen Distribution",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : HASCO Hasenclever",
       "link": "https://www.ransomware.live/id/SEFTQ08gSGFzZW5jbGV2ZXJAcWlsaW4=",
@@ -2124,83 +2201,6 @@
       "group": "Qilin",
       "victim": "Cayuga Milk Ingredients",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : The Hunnicutt Law Group",
-      "link": "https://www.ransomware.live/id/VGhlIEh1bm5pY3V0dCBMYXcgR3JvdXBAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 23 Nov 2025 17:12:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?e73d5e49027b465c0dbabfdb3c5a199f",
-      "group": "Qilin",
-      "victim": "The Hunnicutt Law Group",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Berts Electric",
-      "link": "https://www.ransomware.live/id/QmVydHMgRWxlY3RyaWNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 23 Nov 2025 17:11:35 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?38f1b977149d8f8ddd3aeef9a8a1202b",
-      "group": "Qilin",
-      "victim": "Berts Electric",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Capp Shupak",
-      "link": "https://www.ransomware.live/id/Q2FwcCBTaHVwYWtAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 23 Nov 2025 17:10:53 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?aca9c91358800246536ff056171dc807",
-      "group": "Qilin",
-      "victim": "Capp Shupak",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : National Institute of Materials Physics",
-      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgSW5zdGl0dXRlIG9mIE1hdGVyaWFscyBQaHlzaWNzQG5vdmE=",
-      "summary": "Romania Scientific Institute in Bucharest.  He is engaged in fundamental and applied research and development, in particular in the field of solid state physics and materials research.",
-      "pubDate": "Sun, 23 Nov 2025 15:45:05 +0000",
-      "category": "RO",
-      "guid": "https://www.ransomware.live/group/nova?1a6f70f93549c494b47ac6f5375d2787",
-      "group": "Nova",
-      "victim": "National Institute of Materials Physics",
-      "country": "RO"
-    },
-    {
-      "title": "🏴‍☠️ Beast has just published a new victim : Outback Pharmacies",
-      "link": "https://www.ransomware.live/id/T3V0YmFjayBQaGFybWFjaWVzQGJlYXN0",
-      "summary": "Outback Pharmacies operates five locations in Broken Hill, providing a wide range of health services including prescriptions, sleep apnoea management, vaccinations, and weekly medicine packing. With over 30 years of experience, they focus on enhancing the health and wellbeing of the local community through partnerships with health organizations and investment in staff training. Their services cater to individuals seeking reliable pharmaceutical care and convenient medication management solutions. Outback Pharmacies is committed to delivering exceptional service and expert advice to their clients",
-      "pubDate": "Sun, 23 Nov 2025 14:40:46 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/beast?853b1fc1852eb0fc0cf3f2dae57b8d2e",
-      "group": "Beast",
-      "victim": "Outback Pharmacies",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Nissan Capital",
-      "link": "https://www.ransomware.live/id/Tmlzc2FuIENhcGl0YWxAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 23 Nov 2025 06:42:10 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/qilin?47ef2bc6abd52554ffcb1ac79e0f797a",
-      "group": "Qilin",
-      "victim": "Nissan Capital",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Nuclebrás Equipamentos Pesados",
-      "link": "https://www.ransomware.live/id/TnVjbGVicsOhcyBFcXVpcGFtZW50b3MgUGVzYWRvc0B3b3JsZGxlYWtz",
-      "summary": "[AI generated] \"Nuclebrás Equipamentos Pesados S.A. (NUCLEP) is a Brazilian state-owned company under the Ministry of Science, Technology, Innovation, and Communications. Founded in 1975, NUCLEP is responsible for developing and manufacturing heavy equipment, especially for nuclear power plants. Besides serving the nuclear sector, it also provides solutions for offshore oil platforms and submarine construction, acting as a key player in the Brazilian technological and industrial development.\"",
-      "pubDate": "Sat, 22 Nov 2025 20:11:47 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/worldleaks?69fd3337f41114ce1b9fca5ca45cd06b",
-      "group": "Worldleaks",
-      "victim": "Nuclebrás Equipamentos Pesados",
-      "country": "BR"
     }
   ]
 }
