@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-01T07:16:12.257Z",
+  "updatedAt": "2025-12-01T08:19:12.864Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Soderstrom Architects, LTD",
+      "link": "https://www.ransomware.live/id/U29kZXJzdHJvbSBBcmNoaXRlY3RzLCBMVERAcmFuc29taG91c2U=",
+      "summary": "Soderstrom Architects is a Pacific Northwest architecture firm that offers creative yet practical solutions for spaces that inspire individuals and communities. They were founded in 1984 and operate out of Portland, Oregon",
+      "pubDate": "Mon, 01 Dec 2025 07:37:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/ransomhouse?5632218705be1f7934e474cf73c0a738",
+      "group": "Ransomhouse",
+      "victim": "Soderstrom Architects, LTD",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Crypto24 has just published a new victim : Hollysys Asia Pacific",
+      "link": "https://www.ransomware.live/id/SG9sbHlzeXMgQXNpYSBQYWNpZmljQGNyeXB0bzI0",
+      "summary": "[AI generated] Hollysys Asia Pacific is part of Hollysys Automation Technologies Ltd, a leading provider of industrial and rail transportation automation solutions. Its core businesses include industrial automation, rail transportation, and mechanical and electrical solutions. The company utilizes advanced technologies in industrial automation and control, digital rail signaling, and mechanical and electrical solutions to address modern industrial operations and infrastructure requirements.",
+      "pubDate": "Mon, 01 Dec 2025 07:12:03 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/crypto24?50a7fa6543ebfc9e47b9b0ec009427cf",
+      "group": "Crypto24",
+      "victim": "Hollysys Asia Pacific",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : Fun For Less Tours",
       "link": "https://www.ransomware.live/id/RnVuIEZvciBMZXNzIFRvdXJzQGFudWJpcw==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/devman?bcc758bcdc3ca5daaf9b07efa09c221d",
       "group": "Devman",
       "victim": "gsccca.org",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Colliers",
-      "link": "https://www.ransomware.live/id/Q29sbGllcnNAdGhlZ2VudGxlbWVu",
-      "summary": "Stock Symbol CIGI Revenue $5.2 Billion colliers.com https://www.zoominfo.com/c/colliers-international-group-inc/12042840 Colliers International Group Inc. provides commercial real estate services to corporations, financial institutions, governments, and individuals worldwide. The companys Sales and Lease Brokerage division offers transaction brokerage services, including landlord representation, tenant representation, and capital markets and investment services, as well as property management, leasing, and valuations. This division provides its services for various asset classes, including office, industrial, retail, multi-family, hotel, and mixed-use properties. Its Outsourcing &amp; Advisory Services division offers portfolio management, transaction and project management, workplace solutions, strategic consulting, property and asset management, and other corporate real estate services, as well as lease administration and facilities management systems; and valuation and appraisal review and management, portfolio or single asset valuation, arbitration and consulting, various studies, tax appeals etc.",
-      "pubDate": "Fri, 21 Nov 2025 20:18:56 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/thegentlemen?3cbd7e2c57d6e87ef012d58b4f469688",
-      "group": "Thegentlemen",
-      "victim": "Colliers",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : procure.com",
-      "link": "https://www.ransomware.live/id/cHJvY3VyZS5jb21AZGV2bWFu",
-      "summary": "Ransom: data theft  40gb 120K",
-      "pubDate": "Fri, 21 Nov 2025 18:53:08 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?c1647daa3d5a70794550abb450662872",
-      "group": "Devman",
-      "victim": "procure.com",
       "country": "US"
     }
   ]
