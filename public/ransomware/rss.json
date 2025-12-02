@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-02T20:14:30.879Z",
+  "updatedAt": "2025-12-02T21:11:32.803Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Chaos has just published a new victim : lesker.com",
+      "link": "https://www.ransomware.live/id/bGVza2VyLmNvbUBjaGFvcw==",
+      "summary": "Since it&#x27;s foundation in 1954, Kurt J. Lesker Company has manufactured and sold vacuum equipment and parts to the electronic and communications related industries",
+      "pubDate": "Tue, 02 Dec 2025 20:51:28 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/chaos?a0303d7fa9df54149a79bc2e4bddb218",
+      "group": "Chaos",
+      "victim": "lesker.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Pathmaker Group",
+      "link": "https://www.ransomware.live/id/UGF0aG1ha2VyIEdyb3VwQHNpbm9iaQ==",
+      "summary": "PathMaker Group is a specialized consulting firm focused on Identity and Access Management solutions for businesses. They provide a full range of services, including planning, implementation, and management of identity management systems, access management, and privileged account management. The company serves a diverse clientele, emphasizing customer satisfaction and effective problem-solving. Established in 2003, PathMaker Group aims to build long-lasting partnerships with clients by combining technical expertise with consultative support.",
+      "pubDate": "Tue, 02 Dec 2025 20:19:49 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?e0185111f236dbefffe04fc2b23ddffe",
+      "group": "Sinobi",
+      "victim": "Pathmaker Group",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Moyes",
       "link": "https://www.ransomware.live/id/TW95ZXNAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Nottingham Village",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Zecher",
-      "link": "https://www.ransomware.live/id/WmVjaGVyQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 05:18:15 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/qilin?4eb439da43dbc8d08be5a660ef4d8ea3",
-      "group": "Qilin",
-      "victim": "Zecher",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Blue Projects",
-      "link": "https://www.ransomware.live/id/Qmx1ZSBQcm9qZWN0c0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 05:17:37 +0000",
-      "category": "RO",
-      "guid": "https://www.ransomware.live/group/qilin?186a6338fb48f97a2583e9810e66436f",
-      "group": "Qilin",
-      "victim": "Blue Projects",
-      "country": "RO"
     }
   ]
 }
