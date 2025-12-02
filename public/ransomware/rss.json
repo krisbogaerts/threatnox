@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-02T12:24:34.815Z",
+  "updatedAt": "2025-12-02T13:31:05.717Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Tlusty & Kennedy",
+      "link": "https://www.ransomware.live/id/VGx1c3R5ICYgS2VubmVkeUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 02 Dec 2025 12:55:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?5ed65bc93d401a14ee74a051b517f85d",
+      "group": "Qilin",
+      "victim": "Tlusty & Kennedy",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : American Pools & Spas",
       "link": "https://www.ransomware.live/id/QW1lcmljYW4gUG9vbHMgJiBTcGFzQGluY3JhbnNvbQ==",
@@ -2190,17 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "Singapore City Development Company Limited (SINGCONS)",
       "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : AiHealth",
-      "link": "https://www.ransomware.live/id/QWlIZWFsdGhAdGhlZ2VudGxlbWVu",
-      "summary": "www.aihealth.vn https://pitchbook.com/profiles/company/469493-83#overview https://provider.aihealth.vn/ Provider of online medical services intended to assist in finding personal doctors, booking appointments, and buying medication online. The company&#x27;s platform allows individuals to find their specialist for healthcare advice, opt for health check-up programs, and receive medicines right at home with the assistance of the online pharmacy network and provides tools for making home healthcare nursing appointments, enabling users to avail themselves of a range of medical services sitting at home.",
-      "pubDate": "Mon, 24 Nov 2025 00:24:07 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/thegentlemen?5524d33fa83450a93975e3c92e2d11cc",
-      "group": "Thegentlemen",
-      "victim": "AiHealth",
-      "country": "US"
     }
   ]
 }
