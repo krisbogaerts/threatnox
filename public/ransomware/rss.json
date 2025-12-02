@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-02T14:14:06.896Z",
+  "updatedAt": "2025-12-02T15:13:41.977Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : www.precipiodx.com",
+      "link": "https://www.ransomware.live/id/d3d3LnByZWNpcGlvZHguY29tQGluY3JhbnNvbQ==",
+      "summary": "150gb",
+      "pubDate": "Tue, 02 Dec 2025 13:53:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?46e251f93024787f79a323d07938c8b4",
+      "group": "Incransom",
+      "victim": "www.precipiodx.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : [EVIDENCE PACK 3]ASKUL",
       "link": "https://www.ransomware.live/id/W0VWSURFTkNFIFBBQ0sgM11BU0tVTEByYW5zb21ob3VzZQ==",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Chairmans Foods",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Advanced Dental",
-      "link": "https://www.ransomware.live/id/QWR2YW5jZWQgRGVudGFsQHNpbm9iaQ==",
-      "summary": "Advanced Dental, located in Aliso Viejo, CA, offers cutting-edge laser dentistry and a wide range of comprehensive dental services tailored for families. Their experienced team, led by Dr. Chitra Tiruveedula and Dr. Joseph C. Yang, provides personalized care for patients of all ages, from toddlers to seniors. The practice emphasizes advanced technology and techniques, including dental implants, Invisalign, and emergency dentistry, ensuring a comfortable and efficient experience. With flexible payment options and a commitment to patient well-being, Advanced Dental aims to create healthy smiles that last a lifetime.",
-      "pubDate": "Mon, 24 Nov 2025 10:03:27 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?cf8b897c62f05d237835623e22165668",
-      "group": "Sinobi",
-      "victim": "Advanced Dental",
-      "country": ""
     }
   ]
 }
