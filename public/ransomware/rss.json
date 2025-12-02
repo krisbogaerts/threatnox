@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-12-02T17:15:56.965Z",
+  "updatedAt": "2025-12-02T18:19:20.926Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : VENZI & PAGANINI AG",
+      "link": "https://www.ransomware.live/id/VkVOWkkgJiBQQUdBTklOSSBBR0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 02 Dec 2025 17:41:56 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/qilin?ea4130fd9516cb623f867a9c1c8d2707",
+      "group": "Qilin",
+      "victim": "VENZI & PAGANINI AG",
+      "country": "CH"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : GreenBest",
+      "link": "https://www.ransomware.live/id/R3JlZW5CZXN0QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 02 Dec 2025 17:41:19 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?fe6eeba32b11dc2e537fa4d72b07143e",
+      "group": "Qilin",
+      "victim": "GreenBest",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : EDIS",
+      "link": "https://www.ransomware.live/id/RURJU0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 02 Dec 2025 17:40:41 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/qilin?117f82ec475b220f1e1db6307b2e6793",
+      "group": "Qilin",
+      "victim": "EDIS",
+      "country": "AT"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Saca Industrie SpA",
+      "link": "https://www.ransomware.live/id/U2FjYSBJbmR1c3RyaWUgU3BBQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 02 Dec 2025 17:40:00 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?3750541ce39a6fcbf0871ce9b16bdbac",
+      "group": "Qilin",
+      "victim": "Saca Industrie SpA",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Oriental Castle Sdn Bhd",
+      "link": "https://www.ransomware.live/id/T3JpZW50YWwgQ2FzdGxlIFNkbiBCaGRAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 02 Dec 2025 17:39:23 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/qilin?44cc3be5b7283a014c4d8704ca117b27",
+      "group": "Qilin",
+      "victim": "Oriental Castle Sdn Bhd",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Mr Christmas",
+      "link": "https://www.ransomware.live/id/TXIgQ2hyaXN0bWFzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 02 Dec 2025 17:38:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?dec27d4e9702fe2fd3508601f8997760",
+      "group": "Qilin",
+      "victim": "Mr Christmas",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Chaos has just published a new victim : dakkota.com",
+      "link": "https://www.ransomware.live/id/ZGFra290YS5jb21AY2hhb3M=",
+      "summary": "Founded in 2001, Dakkota Integrated Systems is a manufacturing company that provides a variety of build-to-order manufacturing processes including cockpit, overhead, and fascia systems and more.",
+      "pubDate": "Tue, 02 Dec 2025 17:09:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/chaos?5af5144c80c72914e35c6cddb7fdce5e",
+      "group": "Chaos",
+      "victim": "dakkota.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : ASUS",
       "link": "https://www.ransomware.live/id/QVNVU0BldmVyZXN0",
@@ -2124,83 +2201,6 @@
       "group": "Payoutsking",
       "victim": "Klüber Elektroanlagenbau GmbH",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Issaqueena Pediatric Dentistry",
-      "link": "https://www.ransomware.live/id/SXNzYXF1ZWVuYSBQZWRpYXRyaWMgRGVudGlzdHJ5QGludGVybG9jaw==",
-      "summary": "Isaquenna is a medical center where people get dental treatment and leave their confidential data. Due to its low security, Isaquenna suffered a data breach involving its patients&#x27; phone numbers, addresses, SSNs, and personal information such as images, medical histories, and the entire history of the clinic.",
-      "pubDate": "Mon, 24 Nov 2025 17:48:02 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/interlock?78fdf00cdf8145e398fab95d5bafbb0a",
-      "group": "Interlock",
-      "victim": "Issaqueena Pediatric Dentistry",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : omegatoolcorp.com",
-      "link": "https://www.ransomware.live/id/b21lZ2F0b29sY29ycC5jb21AaW5jcmFuc29t",
-      "summary": "Omega Tool Corp. is a global leader in engineering, manufacturing, and production, specializing in advanced plastics tooling solutions for over 40 years. They provide services such as mold making, machining, validation, and production molding, focusing on precision and creative design. Their intended clients include industries such as automotive, heavy truck and agricultural, consumer products, and construction. The company is known for its high-energy culture and commitment to results.\r Employees: 500\r Revenue: $29.2 Million\r Industry: Industrial Machinery &amp; Equipment   \r Phone Number: +52 4421615885",
-      "pubDate": "Mon, 24 Nov 2025 17:45:06 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/incransom?bb44ee1d291dac8f923b98d509340962",
-      "group": "Incransom",
-      "victim": "omegatoolcorp.com",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Talarico",
-      "link": "https://www.ransomware.live/id/VGFsYXJpY29AdGhlZ2VudGxlbWVu",
-      "summary": "www.talaricosrl.it https://www.zoominfo.com/c/talarico-srl/533118720  Talarico SRL has 30 years of experience in thermohydraulics and technological systems. The company boasts a well-stocked retail sales counter and has completed large industrial installations. Its extensive showroom features the best brands for home bathroom furnishings, with specialized consultants using state-of-the-art software for design. Talarico SRL also designs and builds various types of industrial hydraulic systems and offers free information and quotes.",
-      "pubDate": "Mon, 24 Nov 2025 16:46:26 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/thegentlemen?9088397bc407681f7ddb40dd69331c79",
-      "group": "Thegentlemen",
-      "victim": "Talarico",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : Klüber Lubrication",
-      "link": "https://www.ransomware.live/id/S2zDvGJlciBMdWJyaWNhdGlvbkBwYXlvdXRza2luZw==",
-      "summary": "[AI generated] Klüber Lubrication is a German-based company specializing in the development, production, and distribution of high-quality lubricants for a wide array of industries. These range from automotive and rail to wind energy and food &amp; beverages. With a longstanding history, Klüber Lubrication is well-known for its innovative, efficient, and environmentally-friendly specialties that cater to specific customer requirements. Its services also include comprehensive consultation and support.",
-      "pubDate": "Mon, 24 Nov 2025 16:39:12 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/payoutsking?036a2a0d16e64ace6a482eeec326d26f",
-      "group": "Payoutsking",
-      "victim": "Klüber Lubrication",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : Lithographix",
-      "link": "https://www.ransomware.live/id/TGl0aG9ncmFwaGl4QHBheW91dHNraW5n",
-      "summary": "[AI generated] Lithographix is a printing company based in Hawthorne, California, specializing in offering high-quality printing solutions. They provide services including large format printing, direct mail, digital printing, commercial printing, and binding services. They cater to a range of industries such as advertising, publishing, retail, and more. Established in 1975, Lithographix is known for delivering comprehensive, innovative, and eco-friendly printing solutions.",
-      "pubDate": "Mon, 24 Nov 2025 16:38:33 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/payoutsking?0106d906d3f6c2bb7e380463d01c41c9",
-      "group": "Payoutsking",
-      "victim": "Lithographix",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Westrian Group",
-      "link": "https://www.ransomware.live/id/V2VzdHJpYW4gR3JvdXBAaW50ZXJsb2Nr",
-      "summary": "JR Engineering provides services in land management, surveying, land transportation, water resources, and structural design! This company was compromised due to extremely poor security and a weak IT department. Client databases were lost, including confidential contracts with clients and more! All of the company&#x27;s current sketches and models are now publicly available, which could ruin its reputation and financial position!",
-      "pubDate": "Mon, 24 Nov 2025 16:17:03 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/interlock?9d2c008a7ae59542a5f0b043ed48e8a0",
-      "group": "Interlock",
-      "victim": "Westrian Group",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : NovAtel (belongs to Hexagon)",
-      "link": "https://www.ransomware.live/id/Tm92QXRlbCAoYmVsb25ncyB0byBIZXhhZ29uKUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 24 Nov 2025 15:47:40 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?625cc1ab853c9e447f6d164368170782",
-      "group": "Qilin",
-      "victim": "NovAtel (belongs to Hexagon)",
-      "country": "CA"
     }
   ]
 }
