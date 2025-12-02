@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-02T08:17:52.574Z",
+  "updatedAt": "2025-12-02T09:17:34.304Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Cleveland County Sheriff's Office",
+      "link": "https://www.ransomware.live/id/Q2xldmVsYW5kIENvdW50eSBTaGVyaWZmJ3MgT2ZmaWNlQHJoeXNpZGE=",
+      "summary": "Cleveland County Sheriff&#x27;s Office",
+      "pubDate": "Tue, 02 Dec 2025 09:02:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?21b893066d6c705e8b4be23ed4999f88",
+      "group": "Rhysida",
+      "victim": "Cleveland County Sheriff's Office",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Capital Star Oil & Gas Inc.",
+      "link": "https://www.ransomware.live/id/Q2FwaXRhbCBTdGFyIE9pbCAmIEdhcyBJbmMuQGRyYWdvbmZvcmNl",
+      "summary": "Capital Star Oil &amp; Gas, Inc. is a small independent oil &amp; gas company based in Houston, Texas. Most of drilling activities are financed through private placement investments for investors looking for tax benefits, including deductions for intangible drilling costs (IDC). Minimizing risk by using 3-D seismic and expert consultants before selecting prospects. Capital Star Oil &amp; Gas, Inc. was established in 2002.",
+      "pubDate": "Tue, 02 Dec 2025 07:59:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?16f67a410dfa9719b64510903dc95396",
+      "group": "Dragonforce",
+      "victim": "Capital Star Oil & Gas Inc.",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Mobilelink USA",
       "link": "https://www.ransomware.live/id/TW9iaWxlbGluayBVU0FAZHJhZ29uZm9yY2U=",
@@ -2179,28 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "KIM Dental",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Homestead Museum",
-      "link": "https://www.ransomware.live/id/SG9tZXN0ZWFkIE11c2V1bUBzaW5vYmk=",
-      "summary": "The Homestead Museum is a Historic-Cultural Landmark located in the City of Industry, California, showcasing the history of Los Angeles from the 1840s to the 1920s. It offers a range of programs, including workshops and tours, aimed at educating visitors about local history and fostering advocacy for historical preservation. Ideal for families, students, and history enthusiasts, the museum provides engaging experiences such as storytelling sessions, crafts, and genealogy workshops. As a unique cultural resource, it invites visitors to explore its gardens, houses, and historical narratives.",
-      "pubDate": "Mon, 24 Nov 2025 00:20:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?e9020e5c9abb2a0d3ab5da1425b2e182",
-      "group": "Sinobi",
-      "victim": "Homestead Museum",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : ANG BROTHERS (M&E) PTE. LTD. (P2)",
-      "link": "https://www.ransomware.live/id/QU5HIEJST1RIRVJTIChNJkUpIFBURS4gTFRELiAoUDIpQG5vdmE=",
-      "summary": "ANG BROTHERS (M&amp;E) PTE. LTD. (the \"Company\") is a Exempt Private Company Limited by Shares, incorporated on 22 July 2002 (Monday) in Singapore . The address of the Company&#x27;s registered office is in the SHUN LI INDUSTRIAL PARK estate. The Company current operating status is live and has been operating for 23 years. This Company&#x27;s principal activity is plumbing, heating (non-electric) and air-conditioning with steam and air-conditioning supply as the secondary activity",
-      "pubDate": "Mon, 24 Nov 2025 00:15:31 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/nova?5b9155adff2b83d52b582d71474c9e04",
-      "group": "Nova",
-      "victim": "ANG BROTHERS (M&E) PTE. LTD. (P2)",
-      "country": "SG"
     }
   ]
 }
