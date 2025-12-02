@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-02T07:15:00.836Z",
+  "updatedAt": "2025-12-02T08:17:52.574Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Mobilelink USA",
+      "link": "https://www.ransomware.live/id/TW9iaWxlbGluayBVU0FAZHJhZ29uZm9yY2U=",
+      "summary": "Mobilelink USA is a private Cricket Wireless company that deals in providing unlimited 5G LTE services and state of the art devices with an understanding of what keeps the customers loyal to a brand. As the largest Exclusive Retailer of Cricket, we focus on creating a customer experience that distinguishes us from others. We take pride in offering personal and professional services along with products that meet the needs of our valued clients. We operate with a high level of integrity and thrive on innovation that allows our customers to take advantage of a 5G LTE Network with no annual contract through 550+ retail locations across the USA. Mobilelink is becoming revered as the company of choice when purchasing all your wireless needs or when looking for a new venture with your device.",
+      "pubDate": "Tue, 02 Dec 2025 07:20:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?98ab119b5086a2c7ac4f09eccbc83bb5",
+      "group": "Dragonforce",
+      "victim": "Mobilelink USA",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ciphbit has just published a new victim : Clínica Villa Zaita",
       "link": "https://www.ransomware.live/id/Q2zDrW5pY2EgVmlsbGEgWmFpdGFAY2lwaGJpdA==",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "ANG BROTHERS (M&E) PTE. LTD. (P2)",
       "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Pacific Holdings Group JSC.",
-      "link": "https://www.ransomware.live/id/UGFjaWZpYyBIb2xkaW5ncyBHcm91cCBKU0MuQHRoZWdlbnRsZW1lbg==",
-      "summary": "https://vnbis.com/products/companies/pacific-holdings-group-jsc-2675796/ Pacific Holdings Vietnam Joint Stock Company (“Pacific Holdings”) is a diversified healthcare group headquartered in Vietnam, operating a rapidly expanding network of medical and dental clinics across Ho Chi Minh City, Hanoi, and several secondary provinces. The Company manages three primary business lines: Kim Dental, Vietnam’s largest dental clinic chain with 26 locations; Pacific Polyclinic, a multi-specialty outpatient medical center; and Pacific Chiropractic Clinic (PCC), specializing in physiotherapy, chiropractic care, corrective exercise and wellness services.",
-      "pubDate": "Sun, 23 Nov 2025 23:59:05 +0000",
-      "category": "VN",
-      "guid": "https://www.ransomware.live/group/thegentlemen?085822f121f3a9ddc0cdbac4637924e2",
-      "group": "Thegentlemen",
-      "victim": "Pacific Holdings Group JSC.",
-      "country": "VN"
     }
   ]
 }
