@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-02T00:56:04.370Z",
+  "updatedAt": "2025-12-02T02:44:01.064Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ciphbit has just published a new victim : Clínica Villa Zaita",
+      "link": "https://www.ransomware.live/id/Q2zDrW5pY2EgVmlsbGEgWmFpdGFAY2lwaGJpdA==",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Tue, 02 Dec 2025 01:11:16 +0000",
+      "category": "PA",
+      "guid": "https://www.ransomware.live/group/ciphbit?055025ae1e51840621b1289c45c21395",
+      "group": "Ciphbit",
+      "victim": "Clínica Villa Zaita",
+      "country": "PA"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : oxfordshop.com.au",
       "link": "https://www.ransomware.live/id/b3hmb3Jkc2hvcC5jb20uYXVAaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "Pacific Holdings Group JSC.",
       "country": "VN"
-    },
-    {
-      "title": "🏴‍☠️ Chaos has just published a new victim : mToilet",
-      "link": "https://www.ransomware.live/id/bVRvaWxldEBjaGFvcw==",
-      "summary": "mToilet is a company that operates in the Sporting &amp; Recreational Equipment Retail industry.",
-      "pubDate": "Sun, 23 Nov 2025 19:44:57 +0000",
-      "category": "PL",
-      "guid": "https://www.ransomware.live/group/chaos?933255ff7e72929589c47b062227b122",
-      "group": "Chaos",
-      "victim": "mToilet",
-      "country": "PL"
     }
   ]
 }
