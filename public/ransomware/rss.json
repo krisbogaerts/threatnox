@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-01T23:11:17.296Z",
+  "updatedAt": "2025-12-02T00:56:04.370Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : oxfordshop.com.au",
+      "link": "https://www.ransomware.live/id/b3hmb3Jkc2hvcC5jb20uYXVAaW5jcmFuc29t",
+      "summary": "Oxford Shop is an Australian brand specializing in a diverse range of men&#x27;s and women&#x27;s clothing, shoes, and accessories available online. Their product offerings include formal wear, casual attire, and an array of stylish accessories designed for both work and leisure. The company emphasizes quality, ethical trading, and modern fashion, catering to clients seeking stylish and functional wardrobe essentials. With a commitment to customer satisfaction, Oxford Shop also offers free shipping on domestic orders over $75\r Employees: 100\r Revenue: $5 Million\r Industry: Apparel &amp; Accessories Retail\r Phone Number: +61 293182211",
+      "pubDate": "Tue, 02 Dec 2025 00:28:36 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/incransom?42bb6033cc0e94ecd5de841ef64dea19",
+      "group": "Incransom",
+      "victim": "oxfordshop.com.au",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : University Loft",
       "link": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBMb2Z0QHBsYXk=",
@@ -2190,17 +2201,6 @@
       "group": "Chaos",
       "victim": "mToilet",
       "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Maheu&Maheu",
-      "link": "https://www.ransomware.live/id/TWFoZXUmTWFoZXVAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 23 Nov 2025 18:46:41 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?5db86e889374c317d16acc6ffe087d2d",
-      "group": "Qilin",
-      "victim": "Maheu&Maheu",
-      "country": "CA"
     }
   ]
 }
