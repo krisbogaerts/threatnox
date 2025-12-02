@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-02T11:11:55.205Z",
+  "updatedAt": "2025-12-02T12:24:34.815Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : American Pools & Spas",
+      "link": "https://www.ransomware.live/id/QW1lcmljYW4gUG9vbHMgJiBTcGFzQGluY3JhbnNvbQ==",
+      "summary": "American Pools Spas is a premier pool builder based in Orlando, FL, offering a wide range of services including pool construction, renovation, and repair.\r \r We have 500GB of data at our disposal (fiscal data, internal mail,budgets and many other things)",
+      "pubDate": "Tue, 02 Dec 2025 11:20:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?2d7dc0cf16a90454e7f015c14872fce8",
+      "group": "Incransom",
+      "victim": "American Pools & Spas",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Cleveland County Sheriff's Office",
       "link": "https://www.ransomware.live/id/Q2xldmVsYW5kIENvdW50eSBTaGVyaWZmJ3MgT2ZmaWNlQHJoeXNpZGE=",
@@ -2190,17 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "AiHealth",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : KIM Dental",
-      "link": "https://www.ransomware.live/id/S0lNIERlbnRhbEB0aGVnZW50bGVtZW4=",
-      "summary": "https://kimdental.vn/ Kim Dental operates the largest and most reputable dental clinic network in Vietnam, offering nationwide coverage with modern facilities, advanced treatment technologies, and internationally standardized care. With numerous branches across major cities—including Ho Chi Minh City, Hanoi, Dong Nai, Tien Giang, and Vung Tau—the system provides convenient access, high clinical quality, and a comfortable patient experience. Kim Dental continues to expand its presence, maintaining strong expertise, safety standards, and a commitment to making professional oral healthcare affordable and accessible for everyone.",
-      "pubDate": "Mon, 24 Nov 2025 00:23:31 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/thegentlemen?92766c8feb37bc15e085f89b4f3b637a",
-      "group": "Thegentlemen",
-      "victim": "KIM Dental",
-      "country": "DE"
     }
   ]
 }
