@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-02T15:13:41.977Z",
+  "updatedAt": "2025-12-02T16:16:42.226Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Ziglin Signs",
+      "link": "https://www.ransomware.live/id/WmlnbGluIFNpZ25zQGFraXJh",
+      "summary": "Ziglin Signs Inc operates as a full-service custom signage provid er delivering comprehensive visual communication solutions to bus inesses throughout the Midwest. The company specializes in design ing and fabricating signage that establishes strong brand presenc e and professional identity for organizations ranging from indepe ndent local enterprises to multi-location franchise operations. We are ready to upload corporate documents such as: detailed empl oyee information (passports, driver licenses, SSNs, addresses, ph ones, emails, medical information, credit cards details and os on ), a bit of client information, contracts and agreements, confide ntiality agreements, projects and so on.",
+      "pubDate": "Tue, 02 Dec 2025 14:49:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?66f777c600ba4aa2f2b06ddd6edb41c6",
+      "group": "Akira",
+      "victim": "Ziglin Signs",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : www.precipiodx.com",
       "link": "https://www.ransomware.live/id/d3d3LnByZWNpcGlvZHguY29tQGluY3JhbnNvbQ==",
@@ -2190,17 +2201,6 @@
       "group": "Rhysida",
       "victim": "Collge Superieur De Montreal",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Chairmans Foods",
-      "link": "https://www.ransomware.live/id/Q2hhaXJtYW5zIEZvb2RzQGFraXJh",
-      "summary": "Chairmans Foods is a gold-star rated, USDA manufacturing plant an d producer of fresh, frozen and refrigerated food products for mo re than 40 years. They serve delicious home cooked foods to vario us delis, grocers and chain restaurants. We are going to upload company data soon. You will find financial data (audit, payment details, financial reports, invoices), pers onal financial details of employees, accounting files.",
-      "pubDate": "Mon, 24 Nov 2025 10:51:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?2ad6e020a932ec1447c517dee41a5af6",
-      "group": "Akira",
-      "victim": "Chairmans Foods",
-      "country": "US"
     }
   ]
 }
