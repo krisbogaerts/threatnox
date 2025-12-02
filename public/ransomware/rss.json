@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-02T18:19:20.926Z",
+  "updatedAt": "2025-12-02T19:13:19.844Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tridentlocker has just published a new victim : noment",
+      "link": "https://www.ransomware.live/id/bm9tZW50QHRyaWRlbnRsb2NrZXI=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Tue, 02 Dec 2025 18:28:11 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/tridentlocker?dd43d3edc3d96c23bfdb237d614ed02a",
+      "group": "Tridentlocker",
+      "victim": "noment",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Garrett Taylor, Dds",
+      "link": "https://www.ransomware.live/id/R2FycmV0dCBUYXlsb3IsIERkc0BzaW5vYmk=",
+      "summary": "Taylor &amp; Carter Family Dentistry, located in Pine Bluff, AR, provides personalized dental care to patients of all ages. The practice, led by Dr. Garrett Taylor, Dr. Hannah Carter, and Dr. Rontae Graham, offers a range of services including general, cosmetic, and restorative dentistry. They emphasize advanced techniques and patient-centered care, ensuring a comfortable dental experience. Committed to community outreach, the team participates in various service projects both locally and internationally.",
+      "pubDate": "Tue, 02 Dec 2025 18:24:58 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?9bafee9fb33d453300fae3b2c3bc7988",
+      "group": "Sinobi",
+      "victim": "Garrett Taylor, Dds",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : VENZI & PAGANINI AG",
       "link": "https://www.ransomware.live/id/VkVOWkkgJiBQQUdBTklOSSBBR0BxaWxpbg==",
@@ -2179,28 +2201,6 @@
       "group": "Everest",
       "victim": "Air Miles España, S.A",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Swedish Arts Council",
-      "link": "https://www.ransomware.live/id/U3dlZGlzaCBBcnRzIENvdW5jaWxAcmFuc29taG91c2U=",
-      "summary": "Kulturrådet is a government agency that promotes the development of culture, provides information, and grants funding to realize national cultural policy. It focuses on various cultural sectors including music, literature, visual arts, performing arts, and support for children and youth. The agency aims to enhance international collaboration and cultural exchange, particularly through initiatives like Creative Europe.",
-      "pubDate": "Mon, 24 Nov 2025 18:06:16 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/ransomhouse?aff6cfb845b74bd418c61f577c983b0a",
-      "group": "Ransomhouse",
-      "victim": "Swedish Arts Council",
-      "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : Klüber Elektroanlagenbau GmbH",
-      "link": "https://www.ransomware.live/id/S2zDvGJlciBFbGVrdHJvYW5sYWdlbmJhdSBHbWJIQHBheW91dHNraW5n",
-      "summary": "[AI generated] \"Klüber Elektroanlagenbau GmbH\" is a German electrical installation company. They are experts in implementing and maintaining electrical systems for buildings and industrial operations. The company&#x27;s services include planning and installation of electrical systems, creation of digital planning documents, and comprehensive electrical maintenance.",
-      "pubDate": "Mon, 24 Nov 2025 18:04:22 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/payoutsking?ff14d6772d53838f24bd3bf474dc0858",
-      "group": "Payoutsking",
-      "victim": "Klüber Elektroanlagenbau GmbH",
-      "country": "DE"
     }
   ]
 }
