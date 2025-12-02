@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-12-02T16:16:42.226Z",
+  "updatedAt": "2025-12-02T17:15:56.965Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : ASUS",
+      "link": "https://www.ransomware.live/id/QVNVU0BldmVyZXN0",
+      "summary": "[AI generated] ASUS is a Taiwan-based multinational computer hardware and electronics company. Established in 1989, it is well-regarded for producing a wide variety of technology products such as personal computers, laptops, mobile phones, servers, Wi-Fi routers, graphics cards, and monitory. In addition, ASUS is the world&#x27;s 5th largest PC vendor by unit sales. Recognized for its innovative and high-quality products, ASUS has won various international awards.",
+      "pubDate": "Tue, 02 Dec 2025 16:24:02 +0000",
+      "category": "TW",
+      "guid": "https://www.ransomware.live/group/everest?ab5add74b3dc2249225b82d57009a61a",
+      "group": "Everest",
+      "victim": "ASUS",
+      "country": "TW"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Exegy",
+      "link": "https://www.ransomware.live/id/RXhlZ3lAZXZlcmVzdA==",
+      "summary": "[AI generated] Exegy, Inc. is a technology firm providing managed services and real-time market data solutions. The company delivers hardware-accelerated appliances, cloud-based services, and historical market data for applications in trading, risk management, and market surveillance. Exegy serves firms globally in the financial services sector, including traders, market makers, and brokers.",
+      "pubDate": "Tue, 02 Dec 2025 16:23:43 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?ee4d74c7519950f2d18c4e2026621141",
+      "group": "Everest",
+      "victim": "Exegy",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Jewell Engineering",
+      "link": "https://www.ransomware.live/id/SmV3ZWxsIEVuZ2luZWVyaW5nQGFraXJh",
+      "summary": "Jewell Engineering Inc specializes in providing engineering solut ions to all levels of government and the private sector, with a s trong focus on municipal engineering. We are ready to upload 14gb of corporate documents such as: emplo yee information (passports, driver licenses and so on), client in formation, internal confidential files, contracts and agreements, confidentiality agreements, projects and so on.",
+      "pubDate": "Tue, 02 Dec 2025 16:18:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?3de8eeb3546cc489c14f1e3abd5da040",
+      "group": "Akira",
+      "victim": "Jewell Engineering",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Toledo Transducers",
+      "link": "https://www.ransomware.live/id/VG9sZWRvIFRyYW5zZHVjZXJzQGFraXJh",
+      "summary": "Toledo Integrated Systems specializes in designing and manufactur ing press control solutions, tonnage monitors, and load cells. Th eir product offerings include press controls, material handling c ontrol solutions, tonnage monitors, and various calibration servi ces. We are ready to upload corporate documents such as: personal info rmation of all employees (passports, driver licenses, medical tes ts, and other confidential personal files), detailed customer inf ormation (including personal documents), numerous confidential fi les, contracts and agreements, NDA, etc.",
+      "pubDate": "Tue, 02 Dec 2025 16:18:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?aba878ec9241035602cb1a18281bf132",
+      "group": "Akira",
+      "victim": "Toledo Transducers",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Prismier",
+      "link": "https://www.ransomware.live/id/UHJpc21pZXJAYWtpcmE=",
+      "summary": "Prismier is a leading vertically-integrated Mechanical Contract M anufacturer (MCM). Service offerings include Design &amp; Engineering , Rapid Prototype thru Production of Sheet Metal Fabrication &amp; St amping, Plastic Injection Molding, CNC Machining, Die Casting, an d Assembly. We are ready to upload 42gb of corporate documents such as: detai led personal information of employees (passports, driver licenses , addresses, phones, emails and so on), customer information, pro jects, contracts and agreements, numerous NDAs, etc.",
+      "pubDate": "Tue, 02 Dec 2025 16:18:41 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?1e36d3b29060a3930bd5ecd58fa5db53",
+      "group": "Akira",
+      "victim": "Prismier",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Ziglin Signs",
       "link": "https://www.ransomware.live/id/WmlnbGluIFNpZ25zQGFraXJh",
@@ -2145,61 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?625cc1ab853c9e447f6d164368170782",
       "group": "Qilin",
       "victim": "NovAtel (belongs to Hexagon)",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : dynamichomerepair.com",
-      "link": "https://www.ransomware.live/id/ZHluYW1pY2hvbWVyZXBhaXIuY29tQHNhZmVwYXk=",
-      "summary": "Dynamic Home Repair is a U.S.-based company specializing in repair services for manufactured homes. It offers a “lifetime warranty” on …",
-      "pubDate": "Mon, 24 Nov 2025 15:09:21 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?f9dd055d9f3bb9a3238ddf350bed9a22",
-      "group": "Safepay",
-      "victim": "dynamichomerepair.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : rehmann.de",
-      "link": "https://www.ransomware.live/id/cmVobWFubi5kZUBzYWZlcGF5",
-      "summary": "Furniture-retail company in Velbert, Germany, operating a furniture house and a high-end studio for home furnishings. This company is mid-sized, …",
-      "pubDate": "Mon, 24 Nov 2025 15:08:46 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?da87960b83ad0aa18c84ad220de49dc3",
-      "group": "Safepay",
-      "victim": "rehmann.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Akehurst Landscape Service",
-      "link": "https://www.ransomware.live/id/QWtlaHVyc3QgTGFuZHNjYXBlIFNlcnZpY2VAYWtpcmE=",
-      "summary": "Akehurst Landscape Service, Inc., based in Joppa, MD, offers a wi de range of landscaping, snow removal, and grounds maintenance se rvices tailored to meet the needs of commercial, industrial, and  residential clients.  We are going to upload company data soon. You will find financial data (audit, payment details, financial reports, invoices), pers onal financial details of employees, accounting files.",
-      "pubDate": "Mon, 24 Nov 2025 13:47:29 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?0589e2549705a67c9c7d3b975114820f",
-      "group": "Akira",
-      "victim": "Akehurst Landscape Service",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Adept",
-      "link": "https://www.ransomware.live/id/QWRlcHRAc2lub2Jp",
-      "summary": "ADEPT Projects specializes in innovative urban development and design solutions. They focus on creating sustainable and functional spaces that enhance community living. Their intended clients include municipalities, developers, and organizations looking to improve urban environments. The company is involved in various projects, including the Videnbyen Cortex Park.",
-      "pubDate": "Mon, 24 Nov 2025 11:37:56 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?6a81e6d97462dbb6361f4e506e4566d7",
-      "group": "Sinobi",
-      "victim": "Adept",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Collge Superieur De Montreal",
-      "link": "https://www.ransomware.live/id/Q29sbGdlIFN1cGVyaWV1ciBEZSBNb250cmVhbEByaHlzaWRh",
-      "summary": "Collge Superieur De Montreal",
-      "pubDate": "Mon, 24 Nov 2025 11:32:03 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/rhysida?13492b470e5bd8edd417c32e399bd2d6",
-      "group": "Rhysida",
-      "victim": "Collge Superieur De Montreal",
       "country": "CA"
     }
   ]
