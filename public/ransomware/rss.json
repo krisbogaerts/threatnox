@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-12-03T13:30:10.949Z",
+  "updatedAt": "2025-12-03T14:13:49.669Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Bo Beuckman Ford",
+      "link": "https://www.ransomware.live/id/Qm8gQmV1Y2ttYW4gRm9yZEByaHlzaWRh",
+      "summary": "Bo Beuckman Ford",
+      "pubDate": "Wed, 03 Dec 2025 13:53:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?55cf56f03e006005c58c9381c0167672",
+      "group": "Rhysida",
+      "victim": "Bo Beuckman Ford",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : LA Injury Attorneys",
+      "link": "https://www.ransomware.live/id/TEEgSW5qdXJ5IEF0dG9ybmV5c0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 13:51:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c3c1b60dabcbc2ffff02801812732cbe",
+      "group": "Qilin",
+      "victim": "LA Injury Attorneys",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Brodosplit",
+      "link": "https://www.ransomware.live/id/QnJvZG9zcGxpdEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 13:50:23 +0000",
+      "category": "HR",
+      "guid": "https://www.ransomware.live/group/qilin?103130aa0f93f51f955c7eb1a155f2eb",
+      "group": "Qilin",
+      "victim": "Brodosplit",
+      "country": "HR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : City of Urbana",
+      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBVcmJhbmFAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 13:49:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?0603eda47ebe8840933e7173a4370bcf",
+      "group": "Qilin",
+      "victim": "City of Urbana",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : NUMALLIANCE",
+      "link": "https://www.ransomware.live/id/TlVNQUxMSUFOQ0VAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 13:49:26 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?e1e3cc925a174ad6f712e14cb735a24e",
+      "group": "Qilin",
+      "victim": "NUMALLIANCE",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Wynn & Wynn",
+      "link": "https://www.ransomware.live/id/V3lubiAmIFd5bm5AYWtpcmE=",
+      "summary": "Wynn Wynn, P.C. is a general practice law firm based in Southeast ern Massachusetts, offering a wide array of legal services includ ing personal injury, family law, business litigation, criminal la w, and real estate among others. We are ready to upload 12gb of corporate data. Another one law fi rm that doesn&#x27;t case of their clients&#x27; personal information. You  can find detailed clients&#x27; personal information (SSNs, passports, driver licenses, addresses, phones, emails and so on), court cas es files, court hearings, police reports, incident reports, etc.",
+      "pubDate": "Wed, 03 Dec 2025 13:18:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?89c7b33d064a892d1ebbf59351f36ee5",
+      "group": "Akira",
+      "victim": "Wynn & Wynn",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Fuji Vegetable Oil",
+      "link": "https://www.ransomware.live/id/RnVqaSBWZWdldGFibGUgT2lsQGFraXJh",
+      "summary": "Fuji Vegetable Oil Inc. specializes in the development and supply of plant-based fats, oils, and shortening for the bakery, confec tionery, and food processor markets. We are ready to upload 16gb of corporate data. Employee informati on, projects, financials, customer information, etc.",
+      "pubDate": "Wed, 03 Dec 2025 13:18:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?154016e5618c6d7d0d84c20ed00bd444",
+      "group": "Akira",
+      "victim": "Fuji Vegetable Oil",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Armis Group",
       "link": "https://www.ransomware.live/id/QXJtaXMgR3JvdXBAcmFuc29taG91c2U=",
@@ -2124,83 +2201,6 @@
       "group": "Everest",
       "victim": "Iberia",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : amcor",
-      "link": "https://www.ransomware.live/id/YW1jb3JAY29pbmJhc2VjYXJ0ZWw=",
-      "summary": "Amcor is a global leader in developing and producing packaging solutions for a wide range of products, including food, beverage, medical, and perso...",
-      "pubDate": "Tue, 25 Nov 2025 15:22:07 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?9203c43e7a8c30e70766767047525548",
-      "group": "Coinbasecartel",
-      "victim": "amcor",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : cryopur.com",
-      "link": "https://www.ransomware.live/id/Y3J5b3B1ci5jb21AaW5jcmFuc29t",
-      "summary": "CryoPur is a French company specializing in advanced cryogenic technology for biogas purification and liquefaction. Founded in 2015, the company developed a patented process that converts raw biogas into bio-LNG (liquefied biomethane) and liquid CO₂ of very high purity. Their systems are used in agricultural, industrial, wastewater, and landfill biogas facilities. CryoPur was acquired by FDE (La Française de l’Énergie), which now owns 94% of the company. CryoPur is headquartered in Massy, Île-de-France, France.",
-      "pubDate": "Tue, 25 Nov 2025 13:18:36 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/incransom?5b87c06f6c0d1bb869c677a645669967",
-      "group": "Incransom",
-      "victim": "cryopur.com",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Schmidt's",
-      "link": "https://www.ransomware.live/id/U2NobWlkdCdzQGluY3JhbnNvbQ==",
-      "summary": "SCHMIDT&#x27;S is a specialized market that offers a wide array of products and services for house, garden, crafts, and industry, boasting over 130 years of tradition and quality. They cater to both private and business clients, providing expert advice and tailored solutions from their extensive product range. The company&#x27;s services include workshop support, delivery, eBusiness solutions, and a strong focus on customer satisfaction and reliability. SCHMIDT&#x27;S is dedicated to maintaining long-lasting partnerships and fostering a family-oriented company culture.\r \r Over 100GB of data was extracted: contracts, clients, payment data, PII, and bank transfers.",
-      "pubDate": "Tue, 25 Nov 2025 12:26:39 +0000",
-      "category": "AT",
-      "guid": "https://www.ransomware.live/group/incransom?ec9fc3c810d6cbb3ba44abc4fe10ae64",
-      "group": "Incransom",
-      "victim": "Schmidt's",
-      "country": "AT"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : S****e",
-      "link": "https://www.ransomware.live/id/UyoqKiplQHBheW91dHNraW5n",
-      "summary": "",
-      "pubDate": "Tue, 25 Nov 2025 11:38:41 +0000",
-      "category": "BE",
-      "guid": "https://www.ransomware.live/group/payoutsking?ec521d75db2f2abcddc4f9d028cc242f",
-      "group": "Payoutsking",
-      "victim": "S****e",
-      "country": "BE"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : V****l",
-      "link": "https://www.ransomware.live/id/VioqKipsQHBheW91dHNraW5n",
-      "summary": "",
-      "pubDate": "Tue, 25 Nov 2025 11:38:38 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/payoutsking?14c414913ce419d22a81d1d29940cb67",
-      "group": "Payoutsking",
-      "victim": "V****l",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Standing Chapter 13 Trustee",
-      "link": "https://www.ransomware.live/id/U3RhbmRpbmcgQ2hhcHRlciAxMyBUcnVzdGVlQGFraXJh",
-      "summary": "The Standing Chapter 13 Trustee District of Minnesota provides se rvices related to bankruptcy cases under Chapter 13, assisting de btors with payment information and case-related resources. We will upload 44gb of corporate documents soon. Employee and cli ent personal documents (SSNs, passports, DLs and so on), detailed financials, internal confidential docs, contracts and agreements , court documents, etc.",
-      "pubDate": "Tue, 25 Nov 2025 11:09:39 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?9a50606874b85d7bc02db7cc647a0b58",
-      "group": "Akira",
-      "victim": "Standing Chapter 13 Trustee",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Mitchell Silberberg & Knupp",
-      "link": "https://www.ransomware.live/id/TWl0Y2hlbGwgU2lsYmVyYmVyZyAmIEtudXBwQFNpbGVudFJhbnNvbUdyb3Vw",
-      "summary": "Established in 1908, Mitchell Silberberg &amp; Knupp (MSK), is a firm that provides services such as Ventu…",
-      "pubDate": "Tue, 25 Nov 2025 11:07:21 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/SilentRansomGroup?bd63e7a8e52e7f1be3b275d9d0208a37",
-      "group": "Silentransomgroup",
-      "victim": "Mitchell Silberberg & Knupp",
-      "country": "US"
     }
   ]
 }
