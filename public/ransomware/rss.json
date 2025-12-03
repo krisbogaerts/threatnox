@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-03T12:24:05.197Z",
+  "updatedAt": "2025-12-03T13:30:10.949Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Armis Group",
+      "link": "https://www.ransomware.live/id/QXJtaXMgR3JvdXBAcmFuc29taG91c2U=",
+      "summary": "Armis Group creates smart digital tools that make life easier for different industries. They build computer systems that help transportation companies, sports organizations, banks, government offices, and factories work better and faster.",
+      "pubDate": "Wed, 03 Dec 2025 12:51:12 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/ransomhouse?861ef1d3fd942186c23269060e8f2d3e",
+      "group": "Ransomhouse",
+      "victim": "Armis Group",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Rouse Frets White Goss Gentile Rhodes",
+      "link": "https://www.ransomware.live/id/Um91c2UgRnJldHMgV2hpdGUgR29zcyBHZW50aWxlIFJob2Rlc0Bha2lyYQ==",
+      "summary": "On September 30, 2018, the law firms of Rouse Frets Gentile Rhode s, LLC and White Goss, P.C. merged and became Rouse Frets White G oss Gentile Rhodes, P.C. We are ready to upload 87gb of corporate documents such as: detai led personal information clients and employees (SSNs, passports,  driver licenses, addresses, phones, emails and so on), lots of co nfidential legal documents, court hearings, police reports, etc.",
+      "pubDate": "Wed, 03 Dec 2025 12:17:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?85f3372da1463ee699b4b1c908112cbb",
+      "group": "Akira",
+      "victim": "Rouse Frets White Goss Gentile Rhodes",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next Generation Logistics...",
       "link": "https://www.ransomware.live/id/V2lzY29uc2luIEtuaWZlIFdvcmtzLCBUaGUgU21pdGggQ29tcGFuaWVzLCBFbnZpcm90ZWNoIFNlcnZpY2VzLCBOZXh0IEdlbmVyYXRpb24gTG9naXN0aWNzLi4uQGFraXJh",
@@ -2179,28 +2201,6 @@
       "group": "Silentransomgroup",
       "victim": "Mitchell Silberberg & Knupp",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Rempe Construction",
-      "link": "https://www.ransomware.live/id/UmVtcGUgQ29uc3RydWN0aW9uQHNpbm9iaQ==",
-      "summary": "Rempe Construction specializes in construction services, offering expertise to various clients in need of reliable building solutions. With a focus on quality and customer satisfaction, they deliver tailored construction projects. Located in Novato, California, they serve the local community and surrounding areas. Their commitment to excellence positions them as a trusted partner in the construction industry.",
-      "pubDate": "Tue, 25 Nov 2025 10:47:41 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?fceb074c3d36123870f0bc5f87a5a9fb",
-      "group": "Sinobi",
-      "victim": "Rempe Construction",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : MSK",
-      "link": "https://www.ransomware.live/id/TVNLQFNpbGVudFJhbnNvbUdyb3Vw",
-      "summary": "Established in 1908, Mitchell Silberberg &amp; Knupp (MSK), is a firm that provides services such as Ventu…",
-      "pubDate": "Tue, 25 Nov 2025 10:09:41 +0000",
-      "category": "RU",
-      "guid": "https://www.ransomware.live/group/SilentRansomGroup?25fa7538fc85c8d2fbcba4db414bf400",
-      "group": "Silentransomgroup",
-      "victim": "MSK",
-      "country": "RU"
     }
   ]
 }
