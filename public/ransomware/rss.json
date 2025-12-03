@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-02T23:10:54.734Z",
+  "updatedAt": "2025-12-03T00:55:38.314Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Securotrop has just published a new victim : Delta Coast Consultants",
+      "link": "https://www.ransomware.live/id/RGVsdGEgQ29hc3QgQ29uc3VsdGFudHNAc2VjdXJvdHJvcA==",
+      "summary": "Status: AWAITING Size: 3051 GB",
+      "pubDate": "Wed, 03 Dec 2025 00:46:37 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/securotrop?d84d7b9f5ce496aaa0bcba2b915ce1a1",
+      "group": "Securotrop",
+      "victim": "Delta Coast Consultants",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : R* E*",
+      "link": "https://www.ransomware.live/id/UiogRSpAY29pbmJhc2VjYXJ0ZWw=",
+      "summary": "========================================================  WAFER MAP ANALYSIS     ======================================================== ---------...",
+      "pubDate": "Tue, 02 Dec 2025 23:12:12 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?dce9528ca03823392a7d1fa660efc986",
+      "group": "Coinbasecartel",
+      "victim": "R* E*",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Chaos has just published a new victim : lesker.com",
       "link": "https://www.ransomware.live/id/bGVza2VyLmNvbUBjaGFvcw==",
@@ -2179,28 +2201,6 @@
       "group": "Nightspire",
       "victim": "LAMAICA, Egypt",
       "country": "EG"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : StatMedPlus LLC",
-      "link": "https://www.ransomware.live/id/U3RhdE1lZFBsdXMgTExDQHNpbm9iaQ==",
-      "summary": "StatMedPlus LLC is located at 22 Jericho Turnpike in Mineola, New York 11501.",
-      "pubDate": "Tue, 25 Nov 2025 08:47:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?6eefcf426f9c3050fb8a6c7aebefe56c",
-      "group": "Sinobi",
-      "victim": "StatMedPlus LLC",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Nottingham Village",
-      "link": "https://www.ransomware.live/id/Tm90dGluZ2hhbSBWaWxsYWdlQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 05:18:54 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/qilin?115a52b853a178189648f5cc630c7b9c",
-      "group": "Qilin",
-      "victim": "Nottingham Village",
-      "country": "GB"
     }
   ]
 }
