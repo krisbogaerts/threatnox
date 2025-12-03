@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-03T22:12:41.128Z",
+  "updatedAt": "2025-12-03T23:09:54.823Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : IES Synergy",
+      "link": "https://www.ransomware.live/id/SUVTIFN5bmVyZ3lAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 22:08:18 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?798856551ffcbae7719fd52581c31150",
+      "group": "Qilin",
+      "victim": "IES Synergy",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : CCJM",
       "link": "https://www.ransomware.live/id/Q0NKTUBzaW5vYmk=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Disston",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Emond Publishing",
-      "link": "https://www.ransomware.live/id/RW1vbmQgUHVibGlzaGluZ0BkcmFnb25mb3JjZQ==",
-      "summary": "Emond Publishing is a Canadian publisher specializing in legal education materials and resources for law students and professionals. Their product offerings include textbooks, exam preparation materials, and publications focused on various legal subjects such as criminal law and immigration law. They cater primarily to college and university students, law school attendees, and legal practitioners preparing for certification exams. Emond Publishing is committed to providing high-quality resources by Canadians, for Canadians.",
-      "pubDate": "Wed, 26 Nov 2025 10:24:28 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/dragonforce?3a3cfec3eaf834b298f3cbd9831209b6",
-      "group": "Dragonforce",
-      "victim": "Emond Publishing",
-      "country": "CA"
     }
   ]
 }
