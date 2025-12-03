@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-03T05:12:50.341Z",
+  "updatedAt": "2025-12-03T06:19:15.672Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : instyle.com.au",
+      "link": "https://www.ransomware.live/id/aW5zdHlsZS5jb20uYXVAaW5jcmFuc29t",
+      "summary": "INSTYLE is a leading supplier of design-driven, commercial-quality textiles and vinyls for interiors, including office, hospitality, healthcare, public building, transport, public space and high-end residential interiors. Established by Michael Fitzsimons in 1987, INSTYLE is well known today for its stylish, contemporary and sophisticated textile collections, which are designed and developed to high technical standards by its inhouse design studio and produced by leading manufacturers in Australia, New Zealand, USA and Europe. INSTYLE offers an extensive collection: including the benchmark LIFE (Low Impact For the Environment) Textiles® collection and High Performance indoor + outdoor Textiles and Vinyls, which are available across a broad range of price levels for use in upholstery, workstation, screen and wall panelling applications. \r Employees: 50\r Revenue: $6.6 Million\r Industry: Manufacturing-Retail\r Phone Number: +61 293170222",
+      "pubDate": "Wed, 03 Dec 2025 04:46:55 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/incransom?f8987abc0e18b150eca9d0ae4b5c3dad",
+      "group": "Incransom",
+      "victim": "instyle.com.au",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Basra Transports",
+      "link": "https://www.ransomware.live/id/QmFzcmEgVHJhbnNwb3J0c0BkcmFnb25mb3JjZQ==",
+      "summary": "Basra Transports is a transportation and logistics company that handles freight transportation across North America, including the United States and Canada. 514-631-5600 info@basratransport.com",
+      "pubDate": "Wed, 03 Dec 2025 04:44:19 +0000",
+      "category": "IQ",
+      "guid": "https://www.ransomware.live/group/dragonforce?4a03e35041022555642e6acc24a511f4",
+      "group": "Dragonforce",
+      "victim": "Basra Transports",
+      "country": "IQ"
+    },
     {
       "title": "🏴‍☠️ Securotrop has just published a new victim : Delta Coast Consultants",
       "link": "https://www.ransomware.live/id/RGVsdGEgQ29hc3QgQ29uc3VsdGFudHNAc2VjdXJvdHJvcA==",
@@ -2179,28 +2201,6 @@
       "group": "Nightspire",
       "victim": "Balkrishna Paper Mills LTD, India",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : NONC, India",
-      "link": "https://www.ransomware.live/id/Tk9OQywgSW5kaWFAbmlnaHRzcGlyZQ==",
-      "summary": "NONC, India",
-      "pubDate": "Tue, 25 Nov 2025 09:44:35 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/nightspire?d72f5628fb018d5ea6736c6230d134aa",
-      "group": "Nightspire",
-      "victim": "NONC, India",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : LAMAICA, Egypt",
-      "link": "https://www.ransomware.live/id/TEFNQUlDQSwgRWd5cHRAbmlnaHRzcGlyZQ==",
-      "summary": "LAMAICA, Egypt",
-      "pubDate": "Tue, 25 Nov 2025 09:44:10 +0000",
-      "category": "EG",
-      "guid": "https://www.ransomware.live/group/nightspire?aa2f233c83e9f2b464d8a878fa94530f",
-      "group": "Nightspire",
-      "victim": "LAMAICA, Egypt",
-      "country": "EG"
     }
   ]
 }
