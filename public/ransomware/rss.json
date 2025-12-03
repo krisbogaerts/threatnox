@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-03T14:13:49.669Z",
+  "updatedAt": "2025-12-03T15:13:41.749Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Eggelhof",
+      "link": "https://www.ransomware.live/id/RWdnZWxob2ZAYWtpcmE=",
+      "summary": "Eggelhof Inc is a Houston-based company established in 1926, spec ializing in engineering products such as filtration and water tre atment, piping and plant equipment, and steam specialties. We are ready to upload 67gb of corporate data. Projects, employee information (DOB, phones, addresses and so on), agreements and c ontracts, financials, client information, NDAs, etc.",
+      "pubDate": "Wed, 03 Dec 2025 14:06:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?c8ce7d39599ece82cd003e95f07f77a2",
+      "group": "Akira",
+      "victim": "Eggelhof",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Bo Beuckman Ford",
       "link": "https://www.ransomware.live/id/Qm8gQmV1Y2ttYW4gRm9yZEByaHlzaWRh",
@@ -2190,17 +2201,6 @@
       "group": "Payoutsking",
       "victim": "Accord Carton",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Iberia",
-      "link": "https://www.ransomware.live/id/SWJlcmlhQGV2ZXJlc3Q=",
-      "summary": "[AI generated] Iberia, officially known as Iberia Líneas Aéreas de España and owned by International Airlines Group, is the flag carrier airline of Spain. The company was founded in 1927 and its headquarters are located in Madrid, Spain. It operates an international network of services from its main base of Madrid-Barajas Airport. Iberia is a member of the Oneworld airline alliance.",
-      "pubDate": "Tue, 25 Nov 2025 16:14:28 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/everest?38776c1c2764e9ea092deeaf08368040",
-      "group": "Everest",
-      "victim": "Iberia",
-      "country": "ES"
     }
   ]
 }
