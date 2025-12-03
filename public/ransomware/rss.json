@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-12-03T21:11:36.997Z",
+  "updatedAt": "2025-12-03T22:12:41.128Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : CCJM",
+      "link": "https://www.ransomware.live/id/Q0NKTUBzaW5vYmk=",
+      "summary": "CCJM is a multi-disciplined engineering firm that has been providing client-focused engineering solutions since 1979. Their services include buildings and facilities, civil/site work, construction management and inspection, energy solutions, smart technology, surveying, transportation, and water/wastewater management. The company emphasizes a collaborative approach to exceed client expectations through high-quality service and value. CCJM serves a diverse range of clients, including public and private sector projects, with a commitment to delivering innovative engineering solutions.",
+      "pubDate": "Wed, 03 Dec 2025 21:29:39 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?43fb9ecc8dadffee96efa107cdd16def",
+      "group": "Sinobi",
+      "victim": "CCJM",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Clayco Electric",
+      "link": "https://www.ransomware.live/id/Q2xheWNvIEVsZWN0cmljQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 20:15:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?0117ecd40cf5d909f799105f31c4000c",
+      "group": "Qilin",
+      "victim": "Clayco Electric",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Gandía Palace Hotel",
+      "link": "https://www.ransomware.live/id/R2FuZMOtYSBQYWxhY2UgSG90ZWxAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 20:14:38 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?4bbcfa897eb3d530be54b10954a2f558",
+      "group": "Qilin",
+      "victim": "Gandía Palace Hotel",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Valley Eye Associates",
+      "link": "https://www.ransomware.live/id/VmFsbGV5IEV5ZSBBc3NvY2lhdGVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 20:13:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?8e47878d39cc3f0c3222f87f20f8cdbc",
+      "group": "Qilin",
+      "victim": "Valley Eye Associates",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : COTTAGE",
+      "link": "https://www.ransomware.live/id/Q09UVEFHRUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 20:13:20 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?edd1bc724302eda1986b496c5ada3e73",
+      "group": "Qilin",
+      "victim": "COTTAGE",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Providence Academy",
       "link": "https://www.ransomware.live/id/UHJvdmlkZW5jZSBBY2FkZW15QGludGVybG9jaw==",
@@ -2146,61 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Emond Publishing",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Bergeson",
-      "link": "https://www.ransomware.live/id/QmVyZ2Vzb25AYWtpcmE=",
-      "summary": "Bergeson, LLP is a leading litigation law firm based in Silicon V alley, established in 1990. The firm specializes in representing  individuals and companies in high-profile and high-stakes litigat ion across the country, offering innovative strategies tailored t o complex business disputes. We are ready to upload more than 33GB data. There are lots of ess ential corporate documents such as: financial data (audit, paymen t details, invoices), detailed employees and customers informatio n (passports, driver&#x27;s license , Social Security Numbers,death/bi rth certificate) confidential information, NDAs and other documen ts with detailed personal information.",
-      "pubDate": "Wed, 26 Nov 2025 10:19:05 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?24fd2948223d350aea9d59d685597bc1",
-      "group": "Akira",
-      "victim": "Bergeson",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Burnham Brown",
-      "link": "https://www.ransomware.live/id/QnVybmhhbSBCcm93bkBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 08:42:32 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?7ce0aa3f69702695fbdb5bc3131eafb6",
-      "group": "Qilin",
-      "victim": "Burnham Brown",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Eastek International",
-      "link": "https://www.ransomware.live/id/RWFzdGVrIEludGVybmF0aW9uYWxAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 08:41:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?b1b549a8f95354f4771a075a163aec34",
-      "group": "Qilin",
-      "victim": "Eastek International",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Workflow Concepts",
-      "link": "https://www.ransomware.live/id/V29ya2Zsb3cgQ29uY2VwdHNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 08:41:10 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/qilin?0c6e8d8ea35599862d4922fed5c41fb9",
-      "group": "Qilin",
-      "victim": "Workflow Concepts",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : AllerVie Health",
-      "link": "https://www.ransomware.live/id/QWxsZXJWaWUgSGVhbHRoQGFudWJpcw==",
-      "summary": "Major customer database leak.",
-      "pubDate": "Wed, 26 Nov 2025 01:12:38 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?42eefb38d29dd855d8e7ed5f3fc78564",
-      "group": "Anubis",
-      "victim": "AllerVie Health",
-      "country": "US"
     }
   ]
 }
