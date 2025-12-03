@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-03T18:19:00.677Z",
+  "updatedAt": "2025-12-03T19:11:25.776Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : cpasch.com",
+      "link": "https://www.ransomware.live/id/Y3Bhc2NoLmNvbUBkZXZtYW4=",
+      "summary": "Ransom: 200gb 150k",
+      "pubDate": "Wed, 03 Dec 2025 18:18:08 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/devman?8d315b9eb6b051e2f48bd4dff8399ce5",
+      "group": "Devman",
+      "victim": "cpasch.com",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Mainetti UK",
       "link": "https://www.ransomware.live/id/TWFpbmV0dGkgVUtAcWlsaW4=",
@@ -194,11 +205,11 @@
       "link": "https://www.ransomware.live/id/QXJtaXMgR3JvdXBAcmFuc29taG91c2U=",
       "summary": "Armis Group creates smart digital tools that make life easier for different industries. They build computer systems that help transportation companies, sports organizations, banks, government offices, and factories work better and faster.",
       "pubDate": "Wed, 03 Dec 2025 12:51:12 +0000",
-      "category": "FR",
+      "category": "PT",
       "guid": "https://www.ransomware.live/group/ransomhouse?861ef1d3fd942186c23269060e8f2d3e",
       "group": "Ransomhouse",
       "victim": "Armis Group",
-      "country": "FR"
+      "country": "PT"
     },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Rouse Frets White Goss Gentile Rhodes",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?2b578f0422f01fb89fe47c55084f279a",
       "group": "Sinobi",
       "victim": "Kids & Company",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : National Money Mart Company",
-      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgTW9uZXkgTWFydCBDb21wYW55QGV2ZXJlc3Q=",
-      "summary": "[AI generated] National Money Mart Company, commonly known as Money Mart, is a Canadian financial services company which provides payday loans, cheque cashing, tax preparation and money transfer services for underbanked or not-fully-served customers. Headquartered in Victoria, British Columbia, Money Mart operates in multiple locations across Canada. It has facilitated financial solutions for millions of customers since its inception in 1982.",
-      "pubDate": "Tue, 25 Nov 2025 20:44:40 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/everest?8e9a6c3dec22d0111830b92d9006554d",
-      "group": "Everest",
-      "victim": "National Money Mart Company",
       "country": "CA"
     }
   ]
