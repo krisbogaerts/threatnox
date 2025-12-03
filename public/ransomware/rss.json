@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-03T19:11:25.776Z",
+  "updatedAt": "2025-12-03T20:14:01.942Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Providence Academy",
+      "link": "https://www.ransomware.live/id/UHJvdmlkZW5jZSBBY2FkZW15QGludGVybG9jaw==",
+      "summary": "Providence Academy was established as a private Christian school. The institution&#x27;s staff demonstrated a disregard for their own security and that of all their students. As a result, all student databases were accessed, revealing all personal information, including SSNs. The most unsafe and unsafe job was the Chief IT Director! This is simply nonsense! Numerous financial documents and confidential employee data were also leaked.",
+      "pubDate": "Wed, 03 Dec 2025 19:30:35 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/interlock?2878aeb94a9522a4e5a52f90be182589",
+      "group": "Interlock",
+      "victim": "Providence Academy",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : cpasch.com",
       "link": "https://www.ransomware.live/id/Y3Bhc2NoLmNvbUBkZXZtYW4=",
@@ -2190,17 +2201,6 @@
       "group": "Anubis",
       "victim": "AllerVie Health",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Kids & Company",
-      "link": "https://www.ransomware.live/id/S2lkcyAmIENvbXBhbnlAc2lub2Jp",
-      "summary": "Kids &amp; Company is a leading provider of high-quality, flexible child care and early education, operating over 150 locations across North America. They offer a range of programs for children aged 6 weeks to 12 years, including infant, toddler, preschool, kindergarten, and school-age care, as well as summer camps and back-up care services. Their unique curriculum emphasizes emergent learning and fosters independence, confidence, and socialization through play and exploration. The company also partners with employers to provide caregiving benefits, addressing work-life conflicts for families.",
-      "pubDate": "Tue, 25 Nov 2025 21:12:01 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/sinobi?2b578f0422f01fb89fe47c55084f279a",
-      "group": "Sinobi",
-      "victim": "Kids & Company",
-      "country": "CA"
     }
   ]
 }
