@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-03T06:19:15.672Z",
+  "updatedAt": "2025-12-03T07:14:49.294Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : bisonfamilymedical.com",
+      "link": "https://www.ransomware.live/id/Ymlzb25mYW1pbHltZWRpY2FsLmNvbUBpbmNyYW5zb20=",
+      "summary": "Bison Family Medical Clinics provides high-quality medical care through family practice and walk-in services across four locations in Winnipeg. Their team offers a diverse range of medical services, including women&#x27;s health, minor procedures, and low-risk obstetrics. Emphasizing patient convenience, they also provide online booking and secure virtual care options. The clinics prioritize the needs of their patients, ensuring they receive care and respect in a clean and friendly environment.\r Employees: 10\r Revenue: $5 Million\r Industry: Hospitals &amp; Physicians Clinics \r Phone Number: (204) 275-1500",
+      "pubDate": "Wed, 03 Dec 2025 05:55:22 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/incransom?cd7e7e64ead6092c5c5fb78263460f2d",
+      "group": "Incransom",
+      "victim": "bisonfamilymedical.com",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : instyle.com.au",
       "link": "https://www.ransomware.live/id/aW5zdHlsZS5jb20uYXVAaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Rhysida",
       "victim": "Marlex Human Capital",
       "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Balkrishna Paper Mills LTD, India",
-      "link": "https://www.ransomware.live/id/QmFsa3Jpc2huYSBQYXBlciBNaWxscyBMVEQsIEluZGlhQG5pZ2h0c3BpcmU=",
-      "summary": "Balkrishna Paper Mills LTD, India",
-      "pubDate": "Tue, 25 Nov 2025 09:44:59 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/nightspire?e3d980f317addc45d42a5cf8f300761a",
-      "group": "Nightspire",
-      "victim": "Balkrishna Paper Mills LTD, India",
-      "country": "IN"
     }
   ]
 }
