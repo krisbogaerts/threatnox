@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-03T15:13:41.749Z",
+  "updatedAt": "2025-12-03T16:17:21.896Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nitrogen has just published a new victim : Golden Artist Colors",
+      "link": "https://www.ransomware.live/id/R29sZGVuIEFydGlzdCBDb2xvcnNAbml0cm9nZW4=",
+      "summary": "A major manufacturer of art materials for professional artists and designers: acrylic paints, oils, watercolors, pastels and other media/materials.",
+      "pubDate": "Wed, 03 Dec 2025 15:48:03 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nitrogen?22ea45f14ffcd699f7564dcf377c17c1",
+      "group": "Nitrogen",
+      "victim": "Golden Artist Colors",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Benzona has just published a new victim : SUNNYGO.COM.TW",
+      "link": "https://www.ransomware.live/id/U1VOTllHTy5DT00uVFdAYmVuem9uYQ==",
+      "summary": "[AI generated] \"SUNNYGO.COM.TW\" is an online retailer based in Taiwan. The company specializes in the sales and distribution of a broad range of products across various categories. These include electronics, beauty products, home goods, fashion items, and more. It&#x27;s well-renowned for providing quality products at competitive prices. Through its platform, it offers a comprehensive shopping experience to its customers, involving easy payment methods and quick delivery services.",
+      "pubDate": "Wed, 03 Dec 2025 15:13:49 +0000",
+      "category": "TW",
+      "guid": "https://www.ransomware.live/group/benzona?2631e0e3c9871493125d6865d9718882",
+      "group": "Benzona",
+      "victim": "SUNNYGO.COM.TW",
+      "country": "TW"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Custom Engineered Wheels",
+      "link": "https://www.ransomware.live/id/Q3VzdG9tIEVuZ2luZWVyZWQgV2hlZWxzQGFraXJh",
+      "summary": "CEW Inc. specializes in custom injection molding solutions, utili zing advanced technology to produce polyurethane foam products. T hey offer a diverse range of products, including industrial wheel s, medical mobility solutions, and components for bicycles and re creational vehicles. We are ready to upload 65gb of corporate data. Detailed employee  information (DOB, phones, addresses, documents scans and so on),  agreements and contracts, numerous, confidential files, financial s, client information, NDAs, etc.",
+      "pubDate": "Wed, 03 Dec 2025 15:12:41 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?b3c0cd81b61abc91e0bd7c504bd0b9fe",
+      "group": "Akira",
+      "victim": "Custom Engineered Wheels",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Building Controls and Services",
+      "link": "https://www.ransomware.live/id/QnVpbGRpbmcgQ29udHJvbHMgYW5kIFNlcnZpY2VzQGFraXJh",
+      "summary": "Building Controls and Services, Inc. (BCS) provides innovative bu ilding automation, mechanical equipment, and energy management so lutions aimed at creating efficient and comfortable environments  for facility owners and managers. We are ready to upload 12gb of corporate data. Detailed employee  information (DOB, DLs, SSNs, phones, addresses, documents scans a nd other docs of at least 212 employees), agreements and contract s, confidential files, detailed financials, client information, d isclosure agreements, etc.",
+      "pubDate": "Wed, 03 Dec 2025 15:12:37 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?974f6cd1be604856f6a56429e9176137",
+      "group": "Akira",
+      "victim": "Building Controls and Services",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Eggelhof",
       "link": "https://www.ransomware.live/id/RWdnZWxob2ZAYWtpcmE=",
@@ -2157,50 +2201,6 @@
       "group": "Qilin",
       "victim": "Christofle",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Iberia Airlines",
-      "link": "https://www.ransomware.live/id/SWJlcmlhIEFpcmxpbmVzQGV2ZXJlc3Q=",
-      "summary": "[AI generated] Iberia Airlines, officially known as Iberia Líneas Aéreas de España S.A. Operadora, is the largest and national flag carrier airline of Spain. It was founded in June 1927 and operates an international network of services from its main base in Madrid. Iberia is a part of the International Airlines Group (IAG), along with other airlines like British Airways and Aer Lingus. Its fleet includes various Airbus models.",
-      "pubDate": "Tue, 25 Nov 2025 18:23:58 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/everest?a804b8bd28aa2b075cf54c074939b1ac",
-      "group": "Everest",
-      "victim": "Iberia Airlines",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Columbia Medical Practice",
-      "link": "https://www.ransomware.live/id/Q29sdW1iaWEgTWVkaWNhbCBQcmFjdGljZUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 17:34:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?880c3ab639491c2763989e863ef1dd7e",
-      "group": "Qilin",
-      "victim": "Columbia Medical Practice",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Rochester Philharmonic Orchestra",
-      "link": "https://www.ransomware.live/id/Um9jaGVzdGVyIFBoaWxoYXJtb25pYyBPcmNoZXN0cmFAYWtpcmE=",
-      "summary": "The Rochester Philharmonic Orchestra (RPO) is a distinguished ins titution with a 100-year legacy of artistic excellence, offering  a diverse range of concerts and educational programs.  We will upload corporate documents soon. Musicians&#x27; personal info rmation (SSNs, DLs, phones and so on), budget, internal confident ial docs, NDA, etc.",
-      "pubDate": "Tue, 25 Nov 2025 17:07:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?e55e8ba530dc75976b184ab182b4cdcd",
-      "group": "Akira",
-      "victim": "Rochester Philharmonic Orchestra",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Payoutsking has just published a new victim : Accord Carton",
-      "link": "https://www.ransomware.live/id/QWNjb3JkIENhcnRvbkBwYXlvdXRza2luZw==",
-      "summary": "[AI generated] Accord Carton is a family-owned company that specializes in designing and manufacturing high-quality folding cartons. Founded in 1940, the company is based in Alsip, Illinois. Accord Carton utilizes advanced printing and finishing technologies to produce innovative packaging design solutions. Their services are widely used across industries, including food and beverage, healthcare, and beauty products.",
-      "pubDate": "Tue, 25 Nov 2025 16:45:04 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/payoutsking?9731cf10893b73e6b8be2e9980954ace",
-      "group": "Payoutsking",
-      "victim": "Accord Carton",
-      "country": "US"
     }
   ]
 }
