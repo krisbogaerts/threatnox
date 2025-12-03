@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-12-03T16:17:21.896Z",
+  "updatedAt": "2025-12-03T17:15:51.400Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Mainetti UK",
+      "link": "https://www.ransomware.live/id/TWFpbmV0dGkgVUtAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 16:54:51 +0000",
+      "category": "UK",
+      "guid": "https://www.ransomware.live/group/qilin?cf65f520c77c0bf19830bf95c4be5417",
+      "group": "Qilin",
+      "victim": "Mainetti UK",
+      "country": "UK"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : CST Coal",
+      "link": "https://www.ransomware.live/id/Q1NUIENvYWxAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 03 Dec 2025 16:54:31 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?6ff5f81ccff6d5950c6d5f3b64c5125e",
+      "group": "Qilin",
+      "victim": "CST Coal",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Davis Kitchens, United States",
+      "link": "https://www.ransomware.live/id/RGF2aXMgS2l0Y2hlbnMsIFVuaXRlZCBTdGF0ZXNAbmlnaHRzcGlyZQ==",
+      "summary": "Davis Kitchens, United States",
+      "pubDate": "Wed, 03 Dec 2025 16:51:31 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nightspire?2baf3fd41346f686e751eac130675171",
+      "group": "Nightspire",
+      "victim": "Davis Kitchens, United States",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Quality Engineered Homes",
+      "link": "https://www.ransomware.live/id/UXVhbGl0eSBFbmdpbmVlcmVkIEhvbWVzQGFraXJh",
+      "summary": "Quality Homes has been building custom homes and cottages across  Ontario since 1987.  We are ready to upload 35gb of corporate data. Employee informati on (DLs, phones, addresses and so on), agreements and contracts,  detailed financials, client information, projects, disclosure agr eements, etc.",
+      "pubDate": "Wed, 03 Dec 2025 16:19:34 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/akira?391c8608fe948aca31f3ca55c2246a25",
+      "group": "Akira",
+      "victim": "Quality Engineered Homes",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Pan-O-Gold Baking Company",
+      "link": "https://www.ransomware.live/id/UGFuLU8tR29sZCBCYWtpbmcgQ29tcGFueUBha2lyYQ==",
+      "summary": "With a rich history dating back to 1906, Pan-O-Gold Baking Compan y has grown to include three state-of-the-art bakeries, making us one of the top wholesale bakers in the Midwest. We are ready to upload 21gb of corporate data. Employee informati on (DOB, phones, addresses and so on), agreements and contracts,  detailed financials, client information, large amount of internal documents.",
+      "pubDate": "Wed, 03 Dec 2025 16:19:29 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?316d58482b2db7131b154cf63e843d8f",
+      "group": "Akira",
+      "victim": "Pan-O-Gold Baking Company",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nitrogen has just published a new victim : Golden Artist Colors",
       "link": "https://www.ransomware.live/id/R29sZGVuIEFydGlzdCBDb2xvcnNAbml0cm9nZW4=",
@@ -2146,61 +2201,6 @@
       "group": "Everest",
       "victim": "National Money Mart Company",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Lake Superior State University",
-      "link": "https://www.ransomware.live/id/TGFrZSBTdXBlcmlvciBTdGF0ZSBVbml2ZXJzaXR5QHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 18:43:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?3c300786b8ab2fb14329a4697037687d",
-      "group": "Qilin",
-      "victim": "Lake Superior State University",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Paal",
-      "link": "https://www.ransomware.live/id/UGFhbEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 18:43:23 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?d1dd0292a4446271faaa418ae04f0a78",
-      "group": "Qilin",
-      "victim": "Paal",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Inspire Communities",
-      "link": "https://www.ransomware.live/id/SW5zcGlyZSBDb21tdW5pdGllc0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 18:42:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?fef5cecd748fcf27ad9bbcca9b6cd534",
-      "group": "Qilin",
-      "victim": "Inspire Communities",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : New England Tractor Trailer Training School",
-      "link": "https://www.ransomware.live/id/TmV3IEVuZ2xhbmQgVHJhY3RvciBUcmFpbGVyIFRyYWluaW5nIFNjaG9vbEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 18:41:56 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?b8b0416fe49d6542ea515cabba9c2675",
-      "group": "Qilin",
-      "victim": "New England Tractor Trailer Training School",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Christofle",
-      "link": "https://www.ransomware.live/id/Q2hyaXN0b2ZsZUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 25 Nov 2025 18:41:14 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?ead647df27d675a9d156dec0795fda44",
-      "group": "Qilin",
-      "victim": "Christofle",
-      "country": "FR"
     }
   ]
 }
