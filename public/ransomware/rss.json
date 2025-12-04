@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-04T15:14:24.493Z",
+  "updatedAt": "2025-12-04T16:17:10.899Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Scientology",
+      "link": "https://www.ransomware.live/id/U2NpZW50b2xvZ3lAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 04 Dec 2025 15:26:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?e7a6c13828ca692edf1afa31103a64e8",
+      "group": "Qilin",
+      "victim": "Scientology",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Espaço Casa",
+      "link": "https://www.ransomware.live/id/RXNwYcOnbyBDYXNhQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 04 Dec 2025 15:25:45 +0000",
+      "category": "PT",
+      "guid": "https://www.ransomware.live/group/qilin?139c38316946faec898072d71846ccbe",
+      "group": "Qilin",
+      "victim": "Espaço Casa",
+      "country": "PT"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : The Minor Firm",
+      "link": "https://www.ransomware.live/id/VGhlIE1pbm9yIEZpcm1AYWtpcmE=",
+      "summary": "The Minor Firm is a premier law firm located in Northwest Georgia , established for over 40 years. They specialize in complex legal matters, providing superior representation to individual and bus iness clients in areas such as Health Care Law, Human Resources L aw, Municipal &amp; Utility Law, Real Estate Transactions, and Estate Planning. We are ready to upload 63gb of corporate data. Client and employe e personal information (Passports, DLs, phones, addresses and so  on), court confidential documents, police reports with photos and other legal files, financials and so on.",
+      "pubDate": "Thu, 04 Dec 2025 14:48:21 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?0cf41ea3799a4504c2f826c551102b3b",
+      "group": "Akira",
+      "victim": "The Minor Firm",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : McManes Law",
       "link": "https://www.ransomware.live/id/TWNNYW5lcyBMYXdAcWlsaW4=",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/ciphbit?fbe1401275f4a8e8d841284959c5cc51",
       "group": "Ciphbit",
       "victim": "Church of the Ascension Anglican",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Stacey L Tokunaga",
-      "link": "https://www.ransomware.live/id/U3RhY2V5IEwgVG9rdW5hZ2FAYWtpcmE=",
-      "summary": "The Law Offices of Stacey L. Tokunaga specializes in Workers Comp ensation Defense law, offering committed and high-quality legal s ervices to self-insured employers, third party administrators, an d insured clients. We will upload 200gb of corporate documents soon. Detailed person al employee information (DLs, SSNs, passports, addresses, phones  and so on), detailed financials, clients&#x27; credit cards, police re ports, NDAs, etc.",
-      "pubDate": "Wed, 26 Nov 2025 14:09:55 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?33354f5a4e3fb04eab95ac43b4e80f49",
-      "group": "Akira",
-      "victim": "Stacey L Tokunaga",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : ITL Systemhaus",
-      "link": "https://www.ransomware.live/id/SVRMIFN5c3RlbWhhdXNAaW5jcmFuc29t",
-      "summary": "The company ITL Systemhaus für Datentechnik GmbH was founded in 1991.\r \r In the meantime, ITL has over 25 employees at a high level of training and offers a comprehensive range of services as a competent partner \"around IT\". The business policy is based on a long-term, partner-oriented relationship with the end customer. \r \r Milestones in the history of ITL were the move to the new office building in Münchberg with its own training rooms in 2005 and the complete takeover of the dental software DENTIXsoft with over 300 customers nationwide in 2010.",
-      "pubDate": "Wed, 26 Nov 2025 13:18:13 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/incransom?abf3d8f329ffa96a69c451444ea70dcf",
-      "group": "Incransom",
-      "victim": "ITL Systemhaus",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Williams & Sparages",
-      "link": "https://www.ransomware.live/id/V2lsbGlhbXMgJiBTcGFyYWdlc0Bha2lyYQ==",
-      "summary": "Williams &amp; Sparages is a full-service engineering firm specializi ng in civil engineering, planning and development, surveying and  mapping, and construction services. We will upload about 127gb of corporate documents soon. Clients i nformation, employee personal information, financials, credit car d details, projects, contacts and agreements, etc.",
-      "pubDate": "Wed, 26 Nov 2025 13:11:50 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?2cb327f1ce8580cf813cbd1c4abcd8cb",
-      "group": "Akira",
-      "victim": "Williams & Sparages",
       "country": ""
     }
   ]
