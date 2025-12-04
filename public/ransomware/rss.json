@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-04T07:14:14.913Z",
+  "updatedAt": "2025-12-04T08:18:07.415Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Yellow Cab of Columbus",
+      "link": "https://www.ransomware.live/id/WWVsbG93IENhYiBvZiBDb2x1bWJ1c0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 04 Dec 2025 07:15:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?902682f117250ce6a5849aa9b7ef86b9",
+      "group": "Qilin",
+      "victim": "Yellow Cab of Columbus",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : Quasar Inc",
       "link": "https://www.ransomware.live/id/UXVhc2FyIEluY0BzcGFjZWJlYXJz",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?ca8edab31e950a1bb15b24be67d8bb4f",
       "group": "Akira",
       "victim": "Dobco",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Carlton Fields",
-      "link": "https://www.ransomware.live/id/Q2FybHRvbiBGaWVsZHNAU2lsZW50UmFuc29tR3JvdXA=",
-      "summary": "Carlton Fields is a nationally recognized law firm delivering strategic legal counsel to corporations,…",
-      "pubDate": "Wed, 26 Nov 2025 11:13:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/SilentRansomGroup?ffce88fd10fe8f5911a093fdacd14b6f",
-      "group": "Silentransomgroup",
-      "victim": "Carlton Fields",
       "country": "US"
     }
   ]
