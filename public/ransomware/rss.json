@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-04T00:56:10.868Z",
+  "updatedAt": "2025-12-04T02:44:33.143Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : Atenção Primária à Saúde Brazil",
+      "link": "https://www.ransomware.live/id/QXRlbsOnw6NvIFByaW3DoXJpYSDDoCBTYcO6ZGUgQnJhemlsQG5vdmE=",
+      "summary": "Atenção Primária à Saúde is system provided by Ministério da Saúde of brazil, we have exf all sql files (100GB of SQL files) from them systems and clouds, millions of patients records, 50M> records lines, samples will be provided to company when its contact, the goal system https://esusbelacruz.fixtecnologia.com.br/",
+      "pubDate": "Thu, 04 Dec 2025 01:53:41 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/nova?f640e156e8cf73bb2c27a9f678d8b7fa",
+      "group": "Nova",
+      "victim": "Atenção Primária à Saúde Brazil",
+      "country": "BR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : IES Synergy",
       "link": "https://www.ransomware.live/id/SUVTIFN5bmVyZ3lAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "BioPharma Services",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Disston",
-      "link": "https://www.ransomware.live/id/RGlzc3RvbkBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 10:48:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?76363d2a775a29a6290935717fe3ff14",
-      "group": "Qilin",
-      "victim": "Disston",
-      "country": "US"
     }
   ]
 }
