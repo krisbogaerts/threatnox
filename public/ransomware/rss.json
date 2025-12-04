@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-04T20:14:05.231Z",
+  "updatedAt": "2025-12-04T21:11:30.353Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Kana Pipeline Inc",
+      "link": "https://www.ransomware.live/id/S2FuYSBQaXBlbGluZSBJbmNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 04 Dec 2025 20:21:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?1b630c086cbe2716dae0af48bad082d0",
+      "group": "Qilin",
+      "victim": "Kana Pipeline Inc",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Medisend",
       "link": "https://www.ransomware.live/id/TWVkaXNlbmRAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Healthcare Retroactive Audits",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Zoetis",
-      "link": "https://www.ransomware.live/id/Wm9ldGlzQGFraXJh",
-      "summary": "Zoetis discovers, develops, manufactures, and commercializes anim al health medicines, vaccines, and diagnostic products in the Uni ted States and internationally. We will upload 25gb of corporate documents soon. Lots of internal documents, clients&#x27; data, numerous test and other information.",
-      "pubDate": "Wed, 26 Nov 2025 16:09:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?099209aae0076cadcd7d83459af84246",
-      "group": "Akira",
-      "victim": "Zoetis",
-      "country": "US"
     }
   ]
 }
