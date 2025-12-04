@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-04T04:22:35.089Z",
+  "updatedAt": "2025-12-04T05:13:04.733Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Quasar Inc",
+      "link": "https://www.ransomware.live/id/UXVhc2FyIEluY0BzcGFjZWJlYXJz",
+      "summary": "Quasar, Inc. specializes in high-quality design, implementation support, and related services tailored for the telecommunications industry. Since 1997, the company has set a benchmark with efficient and cost-effective network designs implemented across five continents and over 100 cities. Their offerings include plant network system designs, field services for strand work, and consulting to enhance operators&#x27; competitiveness. Additionally, Quasar provides complimentary services such as training and troubleshooting support to adapt to the evolving needs of the industry.Network projects, drawingsDetailed drawings of many cities with communications designsVarious information https://www.quasar.us",
+      "pubDate": "Thu, 04 Dec 2025 04:58:16 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/spacebears?69922ca1ae420ea8724af7874252d0f4",
+      "group": "Spacebears",
+      "victim": "Quasar Inc",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : Atenção Primária à Saúde Brazil",
       "link": "https://www.ransomware.live/id/QXRlbsOnw6NvIFByaW3DoXJpYSDDoCBTYcO6ZGUgQnJhemlsQG5vdmE=",
@@ -2190,17 +2201,6 @@
       "group": "Silentransomgroup",
       "victim": "Carlton Fields",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : BioPharma Services",
-      "link": "https://www.ransomware.live/id/QmlvUGhhcm1hIFNlcnZpY2VzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 10:49:04 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?719263868b15cdc88126bfb0f9b2955c",
-      "group": "Qilin",
-      "victim": "BioPharma Services",
-      "country": "CA"
     }
   ]
 }
