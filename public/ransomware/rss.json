@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-04T12:24:34.122Z",
+  "updatedAt": "2025-12-04T13:31:00.377Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : McManes Law",
+      "link": "https://www.ransomware.live/id/TWNNYW5lcyBMYXdAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 04 Dec 2025 13:19:28 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c345a1603cb38db4cf9423e40cde9c83",
+      "group": "Qilin",
+      "victim": "McManes Law",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Institutional & Supermarket Equipment",
+      "link": "https://www.ransomware.live/id/SW5zdGl0dXRpb25hbCAmIFN1cGVybWFya2V0IEVxdWlwbWVudEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 04 Dec 2025 13:18:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c7332131d92b7853447ef24437c37a06",
+      "group": "Qilin",
+      "victim": "Institutional & Supermarket Equipment",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Peter Meijer Architect",
+      "link": "https://www.ransomware.live/id/UGV0ZXIgTWVpamVyIEFyY2hpdGVjdEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 04 Dec 2025 13:18:14 +0000",
+      "category": "NL",
+      "guid": "https://www.ransomware.live/group/qilin?70a77e2ad46bfe54a3d714bcc9656690",
+      "group": "Qilin",
+      "victim": "Peter Meijer Architect",
+      "country": "NL"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Maset",
+      "link": "https://www.ransomware.live/id/TWFzZXRAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 04 Dec 2025 13:17:37 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?4656172903e06c0dc40daa225526a847",
+      "group": "Qilin",
+      "victim": "Maset",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : sspinnovations.com",
       "link": "https://www.ransomware.live/id/c3NwaW5ub3ZhdGlvbnMuY29tQGx5bng=",
@@ -2157,50 +2201,6 @@
       "group": "Akira",
       "victim": "Williams & Sparages",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Arabia Holding",
-      "link": "https://www.ransomware.live/id/QXJhYmlhIEhvbGRpbmdAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 12:47:33 +0000",
-      "category": "EG",
-      "guid": "https://www.ransomware.live/group/qilin?5666d42f4ee54fd3c946acc143789304",
-      "group": "Qilin",
-      "victim": "Arabia Holding",
-      "country": "EG"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Trolec",
-      "link": "https://www.ransomware.live/id/VHJvbGVjQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 12:46:56 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?f20703d25ac9bd9040fdfb3fbbb1de61",
-      "group": "Qilin",
-      "victim": "Trolec",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Pacific Railway Enterprises",
-      "link": "https://www.ransomware.live/id/UGFjaWZpYyBSYWlsd2F5IEVudGVycHJpc2VzQGFraXJh",
-      "summary": "Pacific Railway Enterprises, Inc. is a woman-owned corporation sp ecializing in Railroad System Design and Consulting. We will upload more than 20gb of corporate documents soon. Employ ee lists containing personal information, NDAs, contacts and agre ements, projects, etc.",
-      "pubDate": "Wed, 26 Nov 2025 12:19:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?81333b85f9e0152597c6d59ca6615d0a",
-      "group": "Akira",
-      "victim": "Pacific Railway Enterprises",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : FloorHeat",
-      "link": "https://www.ransomware.live/id/Rmxvb3JIZWF0QGFraXJh",
-      "summary": "FloorHeat Company specializes in manufacturing and distributing r adiant heat components and complete underfloor heating systems, i ncluding electric film, cable heating mats, and their patented Ea syFloor hydronic heating system. We will upload 25gb of corporate documents soon. Detailed employe e personal information, financial and accounting data, contacts a nd agreements, NDAs, etc.",
-      "pubDate": "Wed, 26 Nov 2025 12:18:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?af8a95ed142439dd244dbadfc44d17ce",
-      "group": "Akira",
-      "victim": "FloorHeat",
-      "country": "US"
     }
   ]
 }
