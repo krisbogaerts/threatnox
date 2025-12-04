@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-04T10:14:48.756Z",
+  "updatedAt": "2025-12-04T11:12:08.679Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Pioneer Ocean Freight Co., Ltd.",
+      "link": "https://www.ransomware.live/id/UGlvbmVlciBPY2VhbiBGcmVpZ2h0IENvLiwgTHRkLkBuaWdodHNwaXJl",
+      "summary": "Pioneer Ocean Freight Co., Ltd.",
+      "pubDate": "Thu, 04 Dec 2025 10:13:41 +0000",
+      "category": "HK",
+      "guid": "https://www.ransomware.live/group/nightspire?5da85dc03a4f1cce3c20cf1f0db2db36",
+      "group": "Nightspire",
+      "victim": "Pioneer Ocean Freight Co., Ltd.",
+      "country": "HK"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Yellow Cab of Columbus",
       "link": "https://www.ransomware.live/id/WWVsbG93IENhYiBvZiBDb2x1bWJ1c0BxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Globatech",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Dobco",
-      "link": "https://www.ransomware.live/id/RG9iY29AYWtpcmE=",
-      "summary": "Dobco founded in 1989 and headquartered in Wayne, New Jersey, is  an established multi-faceted general construction firm. We are going to upload company data soon. You will find financial data (audit, payment details,financial reports, invoices), perso nal financial details of employees, accounting files.",
-      "pubDate": "Wed, 26 Nov 2025 11:14:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?ca8edab31e950a1bb15b24be67d8bb4f",
-      "group": "Akira",
-      "victim": "Dobco",
-      "country": "US"
     }
   ]
 }
