@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2025-12-05T19:09:53.176Z",
+  "updatedAt": "2025-12-05T20:13:43.569Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : juliuskoch.com",
+      "link": "https://www.ransomware.live/id/anVsaXVza29jaC5jb21Ac2FmZXBheQ==",
+      "summary": "Julius Koch GmbH is a historic German company founded in 1895 that specialises in the development and manufacture of high-performance …",
+      "pubDate": "Fri, 05 Dec 2025 20:00:14 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?bbc69723266f2cd828b8bb1555de6de8",
+      "group": "Safepay",
+      "victim": "juliuskoch.com",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : untereisesheim.de",
+      "link": "https://www.ransomware.live/id/dW50ZXJlaXNlc2hlaW0uZGVAc2FmZXBheQ==",
+      "summary": "Untereisesheim is a small municipality in the district of Heilbronn in the federal state of Baden-Württemberg, southwestern Germany. It is …",
+      "pubDate": "Fri, 05 Dec 2025 19:59:39 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?0e52f8af8aaf24a18ba501939b50ab7e",
+      "group": "Safepay",
+      "victim": "untereisesheim.de",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : steuerberater-scheerer.de",
+      "link": "https://www.ransomware.live/id/c3RldWVyYmVyYXRlci1zY2hlZXJlci5kZUBzYWZlcGF5",
+      "summary": "Steuerberater-Scheerer (operating as C. M. Scheerer GmbH) is a German tax-consulting and auditing firm based in Schweinfurt, Bavaria. The practice …",
+      "pubDate": "Fri, 05 Dec 2025 19:59:24 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?14164804928971b9ad9ba4754f5c5dca",
+      "group": "Safepay",
+      "victim": "steuerberater-scheerer.de",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : mactavishco.ca",
+      "link": "https://www.ransomware.live/id/bWFjdGF2aXNoY28uY2FAc2FmZXBheQ==",
+      "summary": "MacTavish &amp; Co. is a small Canadian boutique retailer located in Medicine Hat, Alberta, specializing in curated home décor, gifts, …",
+      "pubDate": "Fri, 05 Dec 2025 19:58:50 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/safepay?1233ffa1d15ef23c47cdc5b5c594be54",
+      "group": "Safepay",
+      "victim": "mactavishco.ca",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : barnet.com.au",
+      "link": "https://www.ransomware.live/id/YmFybmV0LmNvbS5hdUBzYWZlcGF5",
+      "summary": "BarNet is an Australian specialist communications management organisation focused on serving legal professionals, particularly barristers and associated legal chambers. Founded …",
+      "pubDate": "Fri, 05 Dec 2025 19:58:12 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/safepay?b48aa875ccbfa6fdd24b7ba489dbc4b5",
+      "group": "Safepay",
+      "victim": "barnet.com.au",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Beecher Walker Architects",
+      "link": "https://www.ransomware.live/id/QmVlY2hlciBXYWxrZXIgQXJjaGl0ZWN0c0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 05 Dec 2025 19:55:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?831996eaf3eb6c41a1c975971c4f64f6",
+      "group": "Qilin",
+      "victim": "Beecher Walker Architects",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : wachtmann.eu",
       "link": "https://www.ransomware.live/id/d2FjaHRtYW5uLmV1QHNhZmVwYXk=",
@@ -2135,72 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Enerre Pharma Lda",
       "country": "PT"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : WLR Precision Engineering",
-      "link": "https://www.ransomware.live/id/V0xSIFByZWNpc2lvbiBFbmdpbmVlcmluZ0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Thu, 27 Nov 2025 06:04:23 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/qilin?66541b686eb37e0120d7b1e2f08fbe27",
-      "group": "Qilin",
-      "victim": "WLR Precision Engineering",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Killsec has just published a new victim : Rama Judicial",
-      "link": "https://www.ransomware.live/id/UmFtYSBKdWRpY2lhbEBraWxsc2Vj",
-      "summary": "Price ??? Disclosures 0/1",
-      "pubDate": "Thu, 27 Nov 2025 04:22:23 +0000",
-      "category": "CO",
-      "guid": "https://www.ransomware.live/group/killsec?4ded95e592585130286e1229eb34e793",
-      "group": "Killsec",
-      "victim": "Rama Judicial",
-      "country": "CO"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : St Stephens International",
-      "link": "https://www.ransomware.live/id/U3QgU3RlcGhlbnMgSW50ZXJuYXRpb25hbEB0aGVnZW50bGVtZW4=",
-      "summary": "https://www.zoominfo.com/c/st-stephens-international-school/1293733677 www.sis.edu St Stephens International School offers educational programs at its Bangkok and Khao Yai campuses, catering to a diverse student population. The school provides weekend schooling and various camps for groups, aiming to enhance the educational experience. It is associated with several organizations including Ocean Glass, Ocean Property, and Bandara Group. The institution focuses on fostering an international learning environment for its students",
-      "pubDate": "Thu, 27 Nov 2025 01:03:26 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/thegentlemen?4dab2f016e4126294851dcd6dcdeb9aa",
-      "group": "Thegentlemen",
-      "victim": "St Stephens International",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Shelbra International",
-      "link": "https://www.ransomware.live/id/U2hlbGJyYSBJbnRlcm5hdGlvbmFsQGRyYWdvbmZvcmNl",
-      "summary": "Shelbra International is currently under construction, indicating that they are in the process of developing their offerings. Specific details about their products and services are not available at this time. The company may be looking to reach clients who are interested in their future offerings.",
-      "pubDate": "Wed, 26 Nov 2025 20:14:04 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?544ef9c0b812a8dd0e12d9bba4232da1",
-      "group": "Dragonforce",
-      "victim": "Shelbra International",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : The American School Foundation",
-      "link": "https://www.ransomware.live/id/VGhlIEFtZXJpY2FuIFNjaG9vbCBGb3VuZGF0aW9uQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 19:43:32 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/qilin?aed7e5a3ad0d7aae86ed5333295cb1dc",
-      "group": "Qilin",
-      "victim": "The American School Foundation",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Secure Network Solutions",
-      "link": "https://www.ransomware.live/id/U2VjdXJlIE5ldHdvcmsgU29sdXRpb25zQHNpbm9iaQ==",
-      "summary": "Secure Network Solutions specializes in providing top-notch IT consulting and network management services. Their team of experts is dedicated to ensuring businesses operate smoothly and securely in the digital landscape. They offer comprehensive IT solutions, including advanced network security, expert IT consulting, and cloud solutions. Their intended clients are businesses seeking to enhance their IT infrastructure and security.",
-      "pubDate": "Wed, 26 Nov 2025 18:52:39 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?4665a3a8481ed23c5c021a4a30c99168",
-      "group": "Sinobi",
-      "victim": "Secure Network Solutions",
-      "country": ""
     }
   ]
 }
