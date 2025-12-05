@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-05T05:12:40.181Z",
+  "updatedAt": "2025-12-05T06:19:23.052Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Slimsoft",
+      "link": "https://www.ransomware.live/id/U2xpbXNvZnRAc3BhY2ViZWFycw==",
+      "summary": "Software and website developmentOver 25 years of experience in developing software and websites according to customer needs and requirements, while providing existing solutions or building according to customer needs and requirementsSQLOther https://slimsoft.co.il/",
+      "pubDate": "Fri, 05 Dec 2025 05:31:43 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/spacebears?a77854a873cd602ad8afcbf0c60f3163",
+      "group": "Spacebears",
+      "victim": "Slimsoft",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : National Health Insurance Management Authority",
       "link": "https://www.ransomware.live/id/TmF0aW9uYWwgSGVhbHRoIEluc3VyYW5jZSBNYW5hZ2VtZW50IEF1dGhvcml0eUBub3Zh",
@@ -2190,17 +2201,6 @@
       "group": "Direwolf",
       "victim": "Meinhardt Malaysia",
       "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Electricidad Panamericana",
-      "link": "https://www.ransomware.live/id/RWxlY3RyaWNpZGFkIFBhbmFtZXJpY2FuYUBkaXJld29sZg==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Wed, 26 Nov 2025 17:17:09 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/direwolf?25fa3a627f6e28cb90e392293fe05878",
-      "group": "Direwolf",
-      "victim": "Electricidad Panamericana",
-      "country": "AR"
     }
   ]
 }
