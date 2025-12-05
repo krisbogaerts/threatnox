@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-05T16:15:18.889Z",
+  "updatedAt": "2025-12-05T17:12:18.988Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Shumate Mechanical",
+      "link": "https://www.ransomware.live/id/U2h1bWF0ZSBNZWNoYW5pY2FsQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 05 Dec 2025 16:56:06 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?5ecbcc8a6a8952bb9d2276065a0b92c4",
+      "group": "Qilin",
+      "victim": "Shumate Mechanical",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Nitrogen has just published a new victim : AvtechTyee",
+      "link": "https://www.ransomware.live/id/QXZ0ZWNoVHllZUBuaXRyb2dlbg==",
+      "summary": "AvtechTyee is a company operating in the aerospace and defense industries.",
+      "pubDate": "Fri, 05 Dec 2025 16:53:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nitrogen?a5f1c2aec469edfb2f5a60dbf459e0bc",
+      "group": "Nitrogen",
+      "victim": "AvtechTyee",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Sieger design",
+      "link": "https://www.ransomware.live/id/U2llZ2VyIGRlc2lnbkBha2lyYQ==",
+      "summary": "Sieger design specializes in developing comprehensive brand strat egies and distinctive products that are significant and success-o riented.  We are ready to upload corporate data. Internal business files, f inancials and so on.",
+      "pubDate": "Fri, 05 Dec 2025 16:18:31 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/akira?9522a037b405cd2b99ed863dc837bdbd",
+      "group": "Akira",
+      "victim": "Sieger design",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Advanced Power",
       "link": "https://www.ransomware.live/id/QWR2YW5jZWQgUG93ZXJAYWtpcmE=",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/benzona?c160b4cc0dbb594ffb51c645be2d725b",
       "group": "Benzona",
       "victim": "suzuki-ploiesti.ro",
-      "country": "RO"
-    },
-    {
-      "title": "🏴‍☠️ Benzona has just published a new victim : poliserv.ro",
-      "link": "https://www.ransomware.live/id/cG9saXNlcnYucm9AYmVuem9uYQ==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Wed, 26 Nov 2025 17:47:00 +0000",
-      "category": "RO",
-      "guid": "https://www.ransomware.live/group/benzona?efaec301e45ff3b06853029a3761787c",
-      "group": "Benzona",
-      "victim": "poliserv.ro",
-      "country": "RO"
-    },
-    {
-      "title": "🏴‍☠️ Benzona has just published a new victim : mazda-ploiesti.ro",
-      "link": "https://www.ransomware.live/id/bWF6ZGEtcGxvaWVzdGkucm9AYmVuem9uYQ==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Wed, 26 Nov 2025 17:46:35 +0000",
-      "category": "RO",
-      "guid": "https://www.ransomware.live/group/benzona?a5edf2463333838e4789c2bb1c68b6bc",
-      "group": "Benzona",
-      "victim": "mazda-ploiesti.ro",
-      "country": "RO"
-    },
-    {
-      "title": "🏴‍☠️ Benzona has just published a new victim : dacia-ploiesti.ro",
-      "link": "https://www.ransomware.live/id/ZGFjaWEtcGxvaWVzdGkucm9AYmVuem9uYQ==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Wed, 26 Nov 2025 17:46:10 +0000",
-      "category": "RO",
-      "guid": "https://www.ransomware.live/group/benzona?dce96d23df1810803c1862349e5a68e4",
-      "group": "Benzona",
-      "victim": "dacia-ploiesti.ro",
       "country": "RO"
     }
   ]
