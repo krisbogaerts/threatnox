@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-05T13:26:27.031Z",
+  "updatedAt": "2025-12-05T14:12:34.276Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : 3S Software (Secured Smart Systems Overview Metrics)",
+      "link": "https://www.ransomware.live/id/M1MgU29mdHdhcmUgKFNlY3VyZWQgU21hcnQgU3lzdGVtcyBPdmVydmlldyBNZXRyaWNzKUBkcmFnb25mb3JjZQ==",
+      "summary": "3S Group is a world-class provider of diverse technology services, specializing in software development, applications integration, data management, and analytics. They offer scalable and reliable solutions utilizing Microsoft technologies in areas such as e-business and enterprise applications. The company also designs, integrates, installs, and maintains integrated security systems, catering to a wide range of clients. With over 200 experts and 500 projects completed in 17 years, they focus on understanding client needs to provide tailored technology solutions",
+      "pubDate": "Fri, 05 Dec 2025 13:23:55 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?0cfe951be53f672d4e2fd8c2e28d0ffe",
+      "group": "Dragonforce",
+      "victim": "3S Software (Secured Smart Systems Overview Metrics)",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Consolidated Sterilizer Systems",
+      "link": "https://www.ransomware.live/id/Q29uc29saWRhdGVkIFN0ZXJpbGl6ZXIgU3lzdGVtc0Bha2lyYQ==",
+      "summary": "Consolidated Sterilizer Systems has been manufacturing steam ster ilizers and autoclaves in Boston, Massachusetts since 1946, setti ng the industry standard for over 60 years. Their product range i ncludes customizable laboratory autoclaves for various applicatio ns such as animal research, life sciences, food safety, and healt hcare environments. We are ready to upload about 10gb of corporate data. Employee per sonal information (passports, DLs, phones, addresses, medical rep orts and so on), financials, contracts and agreements and so on.",
+      "pubDate": "Fri, 05 Dec 2025 13:18:28 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?fa26812c469f6950c0b1a507271bd178",
+      "group": "Akira",
+      "victim": "Consolidated Sterilizer Systems",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Lockbit3 has just published a new victim : new blog domain lockbit 5.0",
       "link": "https://www.ransomware.live/id/bmV3IGJsb2cgZG9tYWluIGxvY2tiaXQgNS4wQGxvY2tiaXQz",
@@ -2179,28 +2201,6 @@
       "group": "Direwolf",
       "victim": "Kingsford Group",
       "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Transpedrosa",
-      "link": "https://www.ransomware.live/id/VHJhbnNwZWRyb3NhQGRpcmV3b2xm",
-      "summary": "[AI generated] Transpedrosa is a Brazilian company that specializes in the transportation of liquid and gas products. Established in 1969, they handle an array of materials like chemical, petrochemical, and aviation products. They continue to expand their services beyond their initial local focus, becoming a crucial player in the road transport logistic sector within Brazil.",
-      "pubDate": "Wed, 26 Nov 2025 17:18:40 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/direwolf?a3d7eec97f16e7d6f7f4e7ccfec4d083",
-      "group": "Direwolf",
-      "victim": "Transpedrosa",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Clemar Assessoria e Logística em Comércio Internacional",
-      "link": "https://www.ransomware.live/id/Q2xlbWFyIEFzc2Vzc29yaWEgZSBMb2fDrXN0aWNhIGVtIENvbcOpcmNpbyBJbnRlcm5hY2lvbmFsQGRpcmV3b2xm",
-      "summary": "[AI generated] Clemar Assessoria e Logística em Comércio Internacional is a Brazilian company specializing in international trade and logistic services. With extensive experience in the sector, it provides assistance in customs clearance, export and import processes, freight forwarding, and international business consultancy. The company aims to facilitate and simplify foreign trade operations for businesses of all sizes.",
-      "pubDate": "Wed, 26 Nov 2025 17:18:02 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/direwolf?c6a667b7ba7c61bee9ab1455fd2e1bfa",
-      "group": "Direwolf",
-      "victim": "Clemar Assessoria e Logística em Comércio Internacional",
-      "country": "BR"
     }
   ]
 }
