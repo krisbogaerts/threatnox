@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-05T15:13:23.447Z",
+  "updatedAt": "2025-12-05T16:15:18.889Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Advanced Power",
+      "link": "https://www.ransomware.live/id/QWR2YW5jZWQgUG93ZXJAYWtpcmE=",
+      "summary": "Advanced Power is an Electric Power Generation, Energy, Utilities &amp; Waste Treatment General, and Energy Production company located in Boston, Massachusetts with $7.3 million in revenue and 133 em ployees. We are ready to upload 51gb of corporate data. Employee personal  information (DLs, w-9 forms and so on), detailed financials, conf idential files, contract and agreements, NDAs etc.",
+      "pubDate": "Fri, 05 Dec 2025 15:07:27 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/akira?d65a468a60d79e3fe310e14122c4f6f0",
+      "group": "Akira",
+      "victim": "Advanced Power",
+      "country": "CH"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Rosland Capital",
+      "link": "https://www.ransomware.live/id/Um9zbGFuZCBDYXBpdGFsQGFraXJh",
+      "summary": "Rosland Capital is a precious metals asset management firm that s ells gold and other precious metals in physical form. We are ready to upload corporate data. Projects, clients data, a  bit of confidential files and so on.",
+      "pubDate": "Fri, 05 Dec 2025 15:07:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?a4094865fb80c9e9f28a4fcb93e17467",
+      "group": "Akira",
+      "victim": "Rosland Capital",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Fargo Park District",
       "link": "https://www.ransomware.live/id/RmFyZ28gUGFyayBEaXN0cmljdEBpbnRlcmxvY2s=",
@@ -2179,28 +2201,6 @@
       "group": "Benzona",
       "victim": "dacia-ploiesti.ro",
       "country": "RO"
-    },
-    {
-      "title": "🏴‍☠️ Benzona has just published a new victim : sevci.org",
-      "link": "https://www.ransomware.live/id/c2V2Y2kub3JnQGJlbnpvbmE=",
-      "summary": "Santé, Espoir et Vie, dans un système de soin fort",
-      "pubDate": "Wed, 26 Nov 2025 17:45:45 +0000",
-      "category": "CI",
-      "guid": "https://www.ransomware.live/group/benzona?829914dc96a7225c7cbe96d9a5935fcc",
-      "group": "Benzona",
-      "victim": "sevci.org",
-      "country": "CI"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : K.M. Packaging",
-      "link": "https://www.ransomware.live/id/Sy5NLiBQYWNrYWdpbmdAZGlyZXdvbGY=",
-      "summary": "Manufacturing",
-      "pubDate": "Wed, 26 Nov 2025 17:20:43 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/direwolf?abaa518db14626945ab699c52ed7f380",
-      "group": "Direwolf",
-      "victim": "K.M. Packaging",
-      "country": "TH"
     }
   ]
 }
