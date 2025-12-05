@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-05T11:11:47.511Z",
+  "updatedAt": "2025-12-05T12:23:39.629Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lockbit3 has just published a new victim : new blog domain lockbit 5.0",
+      "link": "https://www.ransomware.live/id/bmV3IGJsb2cgZG9tYWluIGxvY2tiaXQgNS4wQGxvY2tiaXQz",
+      "summary": "New secure blog domain, with a multi-layered protection system against all-powerful FBI agents lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
+      "pubDate": "Fri, 05 Dec 2025 11:08:54 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/lockbit3?e0484337e91921c39c3fad5978185350",
+      "group": "Lockbit3",
+      "victim": "new blog domain lockbit 5.0",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : Slimsoft",
       "link": "https://www.ransomware.live/id/U2xpbXNvZnRAc3BhY2ViZWFycw==",
@@ -2190,17 +2201,6 @@
       "group": "Direwolf",
       "victim": "Clemar Assessoria e Logística em Comércio Internacional",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Meinhardt Malaysia",
-      "link": "https://www.ransomware.live/id/TWVpbmhhcmR0IE1hbGF5c2lhQGRpcmV3b2xm",
-      "summary": "[AI generated] Meinhardt Malaysia is an engineering consultancy firm that offers a diverse range of professional engineering and project management services. The company was established in 1973 and it&#x27;s a subsidiary of the Meinhardt Group. Their service spans across multiple industries including Building Engineering, Transportation, Water &amp; Environment, and Urban Development. They have numerous landmark projects in their portfolio including the planning and design of technologically advanced buildings.",
-      "pubDate": "Wed, 26 Nov 2025 17:17:25 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/direwolf?9fd2526096b3193e530338a2be4adbc6",
-      "group": "Direwolf",
-      "victim": "Meinhardt Malaysia",
-      "country": "MY"
     }
   ]
 }
