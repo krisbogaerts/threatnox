@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-05T14:12:34.276Z",
+  "updatedAt": "2025-12-05T15:13:23.447Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Fargo Park District",
+      "link": "https://www.ransomware.live/id/RmFyZ28gUGFyayBEaXN0cmljdEBpbnRlcmxvY2s=",
+      "summary": "https://www.fargoparks.comFargo Park District, with over 2,100 acres of land, is divided into Finance, Enterprise, Events, Operations, Programming and Facilities, Human Resources, Valley Senior Services and Courts, and Community Physical Activity. The Fargo Park District boasts over 150 parks, amenities, and over 170 kilometers of trails and paths.",
+      "pubDate": "Fri, 05 Dec 2025 14:19:37 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/interlock?7552579c6f42499c274e5073955fc633",
+      "group": "Interlock",
+      "victim": "Fargo Park District",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Foster & Eldridge",
+      "link": "https://www.ransomware.live/id/Rm9zdGVyICYgRWxkcmlkZ2VAYWtpcmE=",
+      "summary": "Foster &amp; Eldridge, LLP is a Boston area boutique law firm recogni zed for its excellence in medical malpractice defense. The firm s pecializes in representing health care providers in professional  liability matters and offers consulting and litigation services i n risk management and regulatory compliance. We are ready to upload 60gb of corporate data. Detailed client pe rsonal information (passports, DLs, phones, addresses, medical in formation and so on), financials, hearings, police records, etc.",
+      "pubDate": "Fri, 05 Dec 2025 14:09:45 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?db7a3abe1cfca79c31b7863e4f5972bf",
+      "group": "Akira",
+      "victim": "Foster & Eldridge",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : 3S Software (Secured Smart Systems Overview Metrics)",
       "link": "https://www.ransomware.live/id/M1MgU29mdHdhcmUgKFNlY3VyZWQgU21hcnQgU3lzdGVtcyBPdmVydmlldyBNZXRyaWNzKUBkcmFnb25mb3JjZQ==",
@@ -2179,28 +2201,6 @@
       "group": "Direwolf",
       "victim": "K.M. Packaging",
       "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : MITACHI",
-      "link": "https://www.ransomware.live/id/TUlUQUNISUBkaXJld29sZg==",
-      "summary": "Trade",
-      "pubDate": "Wed, 26 Nov 2025 17:20:07 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/direwolf?c7a79ee68d8381e38eeb6d9993a1d297",
-      "group": "Direwolf",
-      "victim": "MITACHI",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Kingsford Group",
-      "link": "https://www.ransomware.live/id/S2luZ3Nmb3JkIEdyb3VwQGRpcmV3b2xm",
-      "summary": "[AI generated] Kingsford Group is a company that specializes in property development and investment. It operates globally, with notable activities in the Asia Pacific region. The firm is known for its expertise in identifying lucrative opportunities in the residential, commercial, and hospitality sectors. Its services include project management, marketing and sales, as well as construction management.",
-      "pubDate": "Wed, 26 Nov 2025 17:19:02 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/direwolf?d5198f48118b9994eb5cbbe8fc187d7e",
-      "group": "Direwolf",
-      "victim": "Kingsford Group",
-      "country": "SG"
     }
   ]
 }
