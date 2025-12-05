@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-04T23:11:41.827Z",
+  "updatedAt": "2025-12-05T00:56:05.573Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : National Health Insurance Management Authority",
+      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgSGVhbHRoIEluc3VyYW5jZSBNYW5hZ2VtZW50IEF1dGhvcml0eUBub3Zh",
+      "summary": "The National Health Insurance Scheme (NHIS) provides access to quality healthcare services, essential medicines, and state-of-the-art medical equipment. It aims to facilitate equitable contributions and access to healthcare for individuals and families, protecting them against catastrophic healthcare expenditures. NHIS offers a variety of benefit packages and allows companies to register their employees for coverage. The organization serves clients seeking affordable and convenient healthcare solutions - patients data exf, navigate us to deal samples provided",
+      "pubDate": "Fri, 05 Dec 2025 00:24:31 +0000",
+      "category": "KE",
+      "guid": "https://www.ransomware.live/group/nova?0a39a3eb51e3861d0d4c49ce4d4756ad",
+      "group": "Nova",
+      "victim": "National Health Insurance Management Authority",
+      "country": "KE"
+    },
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Smith Fire Systems",
+      "link": "https://www.ransomware.live/id/U21pdGggRmlyZSBTeXN0ZW1zQGFudWJpcw==",
+      "summary": "A company that provides comprehensive fire protection services for buildings.",
+      "pubDate": "Thu, 04 Dec 2025 23:48:41 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/anubis?6e3bb545a4a728d177ec511e3d314e5b",
+      "group": "Anubis",
+      "victim": "Smith Fire Systems",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Kana Pipeline Inc",
       "link": "https://www.ransomware.live/id/S2FuYSBQaXBlbGluZSBJbmNAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Direwolf",
       "victim": "Electricidad Panamericana",
       "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : AGS",
-      "link": "https://www.ransomware.live/id/QUdTQHJoeXNpZGE=",
-      "summary": "AGS",
-      "pubDate": "Wed, 26 Nov 2025 16:36:43 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/rhysida?0a8a6dded6d94dd1de4720b9339ded9c",
-      "group": "Rhysida",
-      "victim": "AGS",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Healthcare Retroactive Audits",
-      "link": "https://www.ransomware.live/id/SGVhbHRoY2FyZSBSZXRyb2FjdGl2ZSBBdWRpdHNAZHJhZ29uZm9yY2U=",
-      "summary": "22 171 128 medical record files, neatly packaged into 11 archives by hospital. The firm Healthcare Retroactive Audits, which was auditing the data for insurers, not only let the leak happen but also took no steps to stop the files from being published. When we approached NIH Information Security Program to discuss the issue, they said they weren’t interested in resolving it. We’re now open to talks with the affected organizations, insurers and the hospitals whose data were lost. These files are only a portion of the total breach, and we’re deciding whether to keep the release at this size or expand it.",
-      "pubDate": "Wed, 26 Nov 2025 16:14:01 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?1a9df71f9f5e43ec6d70b4e9415e5089",
-      "group": "Dragonforce",
-      "victim": "Healthcare Retroactive Audits",
-      "country": ""
     }
   ]
 }
