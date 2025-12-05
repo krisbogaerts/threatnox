@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-05T18:18:27.823Z",
+  "updatedAt": "2025-12-05T19:09:53.176Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : wachtmann.eu",
+      "link": "https://www.ransomware.live/id/d2FjaHRtYW5uLmV1QHNhZmVwYXk=",
+      "summary": "Specializing in consumer goods distributed online via a web store. The business model is typical for small e-commerce firms: sourcing …",
+      "pubDate": "Fri, 05 Dec 2025 18:50:24 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?21e76cfe653c0bf2c27626291a5aa95b",
+      "group": "Safepay",
+      "victim": "wachtmann.eu",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : becksgroup.au",
+      "link": "https://www.ransomware.live/id/YmVja3Nncm91cC5hdUBzYWZlcGF5",
+      "summary": "Family-owned Australian company established in 1976 that operates within the luxury goods and jewellery industry, focusing on precious metals and …",
+      "pubDate": "Fri, 05 Dec 2025 18:49:48 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/safepay?7d16ecdf321d78f98ab2e4f918f3a7df",
+      "group": "Safepay",
+      "victim": "becksgroup.au",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : hyperdomemedicalcentre.com.au",
+      "link": "https://www.ransomware.live/id/aHlwZXJkb21lbWVkaWNhbGNlbnRyZS5jb20uYXVAc2FmZXBheQ==",
+      "summary": "Hyperdome Medical Centre is a general practice clinic located in the South.Point shopping centre in Greenway, Tuggeranong, within the Australian …",
+      "pubDate": "Fri, 05 Dec 2025 18:49:11 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/safepay?9025333640a504b4e8ed28d3e2f3f25a",
+      "group": "Safepay",
+      "victim": "hyperdomemedicalcentre.com.au",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : King City Lumber",
+      "link": "https://www.ransomware.live/id/S2luZyBDaXR5IEx1bWJlckBkcmFnb25mb3JjZQ==",
+      "summary": "King City Lumber is a well-established provider of quality lumber and building materials, specializing in custom metal structures for over 50 years in the Midwest. The company caters to a diverse clientele, offering solutions for commercial, residential, agricultural, and storage needs. By engaging with clients to understand their specific requirements, they assist in selecting the right metal building for projects ranging from garages to horse barns. King City Lumber is committed to providing excellent service and expert advice throughout the building process",
+      "pubDate": "Fri, 05 Dec 2025 18:14:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?de0a612141589755d4315dc669cc3b9a",
+      "group": "Dragonforce",
+      "victim": "King City Lumber",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Shumate Mechanical",
       "link": "https://www.ransomware.live/id/U2h1bWF0ZSBNZWNoYW5pY2FsQHFpbGlu",
@@ -2157,50 +2201,6 @@
       "group": "Sinobi",
       "victim": "Secure Network Solutions",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : St. Johns River Water Management District",
-      "link": "https://www.ransomware.live/id/U3QuIEpvaG5zIFJpdmVyIFdhdGVyIE1hbmFnZW1lbnQgRGlzdHJpY3RAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 26 Nov 2025 18:49:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?c8c1785cd4a1987c8e54c55275da319c",
-      "group": "Qilin",
-      "victim": "St. Johns River Water Management District",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : FIT",
-      "link": "https://www.ransomware.live/id/RklUQGluY3JhbnNvbQ==",
-      "summary": "Foxconn Interconnect Technology Limited (FIT) focuses on the development, manufacturing, and marketing of electronic and optoelectronic connectors, antennas, acoustic components, cables, and modules for applications in computers, communication equipment, consumer electronics, automobiles, industrial and green energy field products. With offices and manufacturing sites located in Asia, the Americas, and Europe, FIT is a global leader in the supply of precision components.",
-      "pubDate": "Wed, 26 Nov 2025 18:25:41 +0000",
-      "category": "TW",
-      "guid": "https://www.ransomware.live/group/incransom?32ee8af80ec510a2b66277df604501c4",
-      "group": "Incransom",
-      "victim": "FIT",
-      "country": "TW"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : ADC Aerospace",
-      "link": "https://www.ransomware.live/id/QURDIEFlcm9zcGFjZUBwbGF5",
-      "summary": "United States",
-      "pubDate": "Wed, 26 Nov 2025 17:58:47 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?cf6f46c59824ec2f4b8e5f7d0c02961f",
-      "group": "Play",
-      "victim": "ADC Aerospace",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Benzona has just published a new victim : suzuki-ploiesti.ro",
-      "link": "https://www.ransomware.live/id/c3V6dWtpLXBsb2llc3RpLnJvQGJlbnpvbmE=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Wed, 26 Nov 2025 17:47:28 +0000",
-      "category": "RO",
-      "guid": "https://www.ransomware.live/group/benzona?c160b4cc0dbb594ffb51c645be2d725b",
-      "group": "Benzona",
-      "victim": "suzuki-ploiesti.ro",
-      "country": "RO"
     }
   ]
 }
