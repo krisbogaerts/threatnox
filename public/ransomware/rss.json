@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T08:14:46.128Z",
+  "updatedAt": "2025-12-06T09:11:34.076Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : SODISE",
+      "link": "https://www.ransomware.live/id/U09ESVNFQHJoeXNpZGE=",
+      "summary": "SODISE",
+      "pubDate": "Sat, 06 Dec 2025 08:51:26 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/rhysida?c17a2d152549c2b57345d5136f163e90",
+      "group": "Rhysida",
+      "victim": "SODISE",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Towerstream",
       "link": "https://www.ransomware.live/id/VG93ZXJzdHJlYW1AcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "Caros co",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : ERR Raumplaner",
-      "link": "https://www.ransomware.live/id/RVJSIFJhdW1wbGFuZXJAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 27 Nov 2025 17:28:52 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/qilin?0fd13057a52d50277bea78778b277230",
-      "group": "Qilin",
-      "victim": "ERR Raumplaner",
-      "country": "DE"
     }
   ]
 }
