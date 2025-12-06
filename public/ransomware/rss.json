@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2025-12-06T04:13:33.814Z",
+  "updatedAt": "2025-12-06T05:11:53.886Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Towerstream",
+      "link": "https://www.ransomware.live/id/VG93ZXJzdHJlYW1AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sat, 06 Dec 2025 04:59:43 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?445d8e63195522d71c075fd0c3534566",
+      "group": "Qilin",
+      "victim": "Towerstream",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Khazzan Logistics",
+      "link": "https://www.ransomware.live/id/S2hhenphbiBMb2dpc3RpY3NAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sat, 06 Dec 2025 04:59:05 +0000",
+      "category": "OM",
+      "guid": "https://www.ransomware.live/group/qilin?e83761ee293ec9e776a1143b8651c6c8",
+      "group": "Qilin",
+      "victim": "Khazzan Logistics",
+      "country": "OM"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Kasapreko",
+      "link": "https://www.ransomware.live/id/S2FzYXByZWtvQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 06 Dec 2025 04:58:28 +0000",
+      "category": "GH",
+      "guid": "https://www.ransomware.live/group/qilin?7d16f60641dbbf83c46d402f38da287e",
+      "group": "Qilin",
+      "victim": "Kasapreko",
+      "country": "GH"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Diesel Electric",
+      "link": "https://www.ransomware.live/id/RGllc2VsIEVsZWN0cmljQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 06 Dec 2025 04:57:52 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?8495a3565269eac3555a5102a70ee28f",
+      "group": "Qilin",
+      "victim": "Diesel Electric",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Canvas Church",
+      "link": "https://www.ransomware.live/id/Q2FudmFzIENodXJjaEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 06 Dec 2025 04:57:13 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?1641996f195bc46091d4f2fb07468eda",
+      "group": "Qilin",
+      "victim": "Canvas Church",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : UniqueTech Engineering",
+      "link": "https://www.ransomware.live/id/VW5pcXVlVGVjaCBFbmdpbmVlcmluZ0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 06 Dec 2025 04:56:35 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?78bae1e9076c9c04689a905d1bda3bda",
+      "group": "Qilin",
+      "victim": "UniqueTech Engineering",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Datacarry has just published a new victim : Camomilla",
       "link": "https://www.ransomware.live/id/Q2Ftb21pbGxhQGRhdGFjYXJyeQ==",
@@ -2135,72 +2201,6 @@
       "group": "Qilin",
       "victim": "ERR Raumplaner",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Bcfpers",
-      "link": "https://www.ransomware.live/id/QmNmcGVyc0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Thu, 27 Nov 2025 17:28:12 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?d6c524000961b56329eca434aa76cd9b",
-      "group": "Qilin",
-      "victim": "Bcfpers",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : United Volleyball Supply",
-      "link": "https://www.ransomware.live/id/VW5pdGVkIFZvbGxleWJhbGwgU3VwcGx5QHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Thu, 27 Nov 2025 17:27:32 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?c7eaebd7551dd61894eddb36de0492b8",
-      "group": "Qilin",
-      "victim": "United Volleyball Supply",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Mechanical Systems",
-      "link": "https://www.ransomware.live/id/TWVjaGFuaWNhbCBTeXN0ZW1zQGFraXJh",
-      "summary": "Mechanical Systems Company offers building automation controls an d services.  We are ready to upload more than 30GB files of essential corporat e documents such as: Employee personal information (SSNs, DLs, pa ssports and so on), confidentiality agreements, financials, clien ts information, NDA, etc.",
-      "pubDate": "Thu, 27 Nov 2025 16:48:40 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?f3121d06904cff44b2bed1089422608e",
-      "group": "Akira",
-      "victim": "Mechanical Systems",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Kelly Wearstler Gallery",
-      "link": "https://www.ransomware.live/id/S2VsbHkgV2VhcnN0bGVyIEdhbGxlcnlAYWtpcmE=",
-      "summary": "Kelly Wearstlers global luxury brand is influenced by spans of re sidential and commercial interior design. Kelly Wearstlers holds  product collections of furniture, lighting, rugs, fabrics and tri ms, wall coverings, luxe bedding, fine china, and decorative home accessories. We are ready to upload more than 14GB files of essential corporat e documents such as: HR files (employee personal information, com plete forms and so on), financials, etc.",
-      "pubDate": "Thu, 27 Nov 2025 14:11:53 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?863372db07ea6e9a4c7124e0a525a8d7",
-      "group": "Akira",
-      "victim": "Kelly Wearstler Gallery",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Hitech",
-      "link": "https://www.ransomware.live/id/SGl0ZWNoQGFraXJh",
-      "summary": "Hitech is a prominent single-seater racing team based in Silverst one, UK, competing in various national and international motorspo rt championships including FIA Formula 2, FIA Formula 3, GB3, and Formula 4. We will upload 85gb of corporate documents soon. Drivers personal documents, race cars information, race reports, teams and staff  information and other interesting files.",
-      "pubDate": "Thu, 27 Nov 2025 13:10:10 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?a41db937e7619a8b0e1f03853c090a62",
-      "group": "Akira",
-      "victim": "Hitech",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Crucible Industries",
-      "link": "https://www.ransomware.live/id/Q3J1Y2libGUgSW5kdXN0cmllc0Bha2lyYQ==",
-      "summary": "Crucible Industries was founded in 1870. This company provides th e manufacturing of steel long products, and other metal building  materials. We will upload 10gb of corporate documents soon. Internal operati onal files, a bit of customer information, scans and so on.",
-      "pubDate": "Thu, 27 Nov 2025 13:10:00 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9330036bce63b7be3ae9ccf44225bfae",
-      "group": "Akira",
-      "victim": "Crucible Industries",
-      "country": "US"
     }
   ]
 }
