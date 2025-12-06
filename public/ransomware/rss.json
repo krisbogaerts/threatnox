@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-05T23:11:56.176Z",
+  "updatedAt": "2025-12-06T00:53:48.928Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Duhabex",
+      "link": "https://www.ransomware.live/id/RHVoYWJleEBhbnViaXM=",
+      "summary": "Data breach at a Polish international transport and logistics company.",
+      "pubDate": "Fri, 05 Dec 2025 23:11:40 +0000",
+      "category": "PL",
+      "guid": "https://www.ransomware.live/group/anubis?80271876fa7ad4b51f45c3c2ad438afa",
+      "group": "Anubis",
+      "victim": "Duhabex",
+      "country": "PL"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : mmc.de",
       "link": "https://www.ransomware.live/id/bW1jLmRlQHNhZmVwYXk=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Santa Paula",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : PFMI",
-      "link": "https://www.ransomware.live/id/UEZNSUBpbmNyYW5zb20=",
-      "summary": "Audit documents, clients, client data, financial transactions, contracts",
-      "pubDate": "Thu, 27 Nov 2025 12:28:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?2f5e28ebdb1bdafdfccdbde5ddfca61a",
-      "group": "Incransom",
-      "victim": "PFMI",
-      "country": "US"
     }
   ]
 }
