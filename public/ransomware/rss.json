@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T09:11:34.076Z",
+  "updatedAt": "2025-12-06T10:11:40.973Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Renesas Electronics",
+      "link": "https://www.ransomware.live/id/UmVuZXNhcyBFbGVjdHJvbmljc0Bjb2luYmFzZWNhcnRlbA==",
+      "summary": "Renesas Electronics Corporation delivers trusted embedded design innovation with complete semiconductor solutions. Renesas provides quality and com...",
+      "pubDate": "Sat, 06 Dec 2025 09:16:11 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?d0a390de3567721d051d52928f99ad93",
+      "group": "Coinbasecartel",
+      "victim": "Renesas Electronics",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : SODISE",
       "link": "https://www.ransomware.live/id/U09ESVNFQHJoeXNpZGE=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/tengu?81ea4be434ce40357053018716db919a",
       "group": "Tengu",
       "victim": "**Rollingertec S.A. - Luxembourg**",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Caros co",
-      "link": "https://www.ransomware.live/id/Q2Fyb3MgY29Abm92YQ==",
-      "summary": "South Korea It was founded in 2009. It is engaged in the production and sale of general-purpose vehicles. Among the products: an ice maker, a water purifier, a water heater and others.",
-      "pubDate": "Thu, 27 Nov 2025 20:20:44 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/nova?c981b1ebf546c3e7b651a74abfbe55f1",
-      "group": "Nova",
-      "victim": "Caros co",
       "country": ""
     }
   ]
