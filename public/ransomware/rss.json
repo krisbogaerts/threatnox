@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T20:12:17.230Z",
+  "updatedAt": "2025-12-06T21:10:08.025Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Benchmark Electronics Inc",
+      "link": "https://www.ransomware.live/id/QmVuY2htYXJrIEVsZWN0cm9uaWNzIEluY0BldmVyZXN0",
+      "summary": "[AI generated] Benchmark Electronics Inc. is a global provider of integrated technology solutions and manufacturing services. Located in Arizona, USA, the company offers its services in various sectors including medical, industrial, aerospace, and defense. They specialize in electronic manufacturing services (EMS) and product design, engineering, technology solutions, advanced manufacturing, and after-market services.",
+      "pubDate": "Sat, 06 Dec 2025 20:15:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?0d21494b863b2eba8b824f5868a82a08",
+      "group": "Everest",
+      "victim": "Benchmark Electronics Inc",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nightspire has just published a new victim : Ermat Grup",
       "link": "https://www.ransomware.live/id/RXJtYXQgR3J1cEBuaWdodHNwaXJl",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?9239cdb231181374908b9f88a0706c2f",
       "group": "Akira",
       "victim": "Panini Kabob Grill",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Morton LTC, Reed Pope Law, American Public Television, Benchmark Connector, Radtke Contrac...",
-      "link": "https://www.ransomware.live/id/TW9ydG9uIExUQywgUmVlZCBQb3BlIExhdywgQW1lcmljYW4gUHVibGljIFRlbGV2aXNpb24sIEJlbmNobWFyayBDb25uZWN0b3IsIFJhZHRrZSBDb250cmFjLi4uQGFraXJh",
-      "summary": "We obtained about 22gb of the following companies:  Morton LTC Home specializes in providing pharmacy solutions tailo red for long term care providers. Reed Pope is a leading business law firm based in Victoria, Briti sh Columbia, specializing in business law, land development, and  real estate law. American Public Television (APT) is a distributor of public telev ision programming that has introduced iconic shows and personalit ies such as Julia Child and Fred Rogers. LBenchmark Connector Corporation specializes in providing high-qu ality connectors for various industries, including military and a erospace applications. Radtke Contractors specializes in pile driving, marine and excava ting contracting, their varied experience in snow removal, bridge , and railroad construction allows us to complete a wide range of projects in commercial, municipal and residential construction m arkets. You will find personal employees and customer information, lots o f projects, agreements and contracts and other sensitive files. S ome cases contain legal confidential files.",
-      "pubDate": "Fri, 28 Nov 2025 14:06:55 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?f866dc31f8f2c59c931078af2526eda0",
-      "group": "Akira",
-      "victim": "Morton LTC, Reed Pope Law, American Public Television, Benchmark Connector, Radtke Contrac...",
       "country": "US"
     }
   ]
