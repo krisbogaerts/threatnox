@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T11:09:11.844Z",
+  "updatedAt": "2025-12-06T12:20:49.182Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : From Shield to Shame",
+      "link": "https://www.ransomware.live/id/RnJvbSBTaGllbGQgdG8gU2hhbWVAaGFuZGFsYQ==",
+      "summary": "The veil has finally been lifted. The main architects behind Israel’s so-called “Iron Dome” have now been exposed to the world. For years, the Zionist regime boasted about this so-called invincible shield, using it as a symbol of their so-called technological edge. But reality always finds its way in. Let it be known: the Iron…",
+      "pubDate": "Sat, 06 Dec 2025 11:20:33 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?167385e693dc7393049f144bea5092a8",
+      "group": "Handala",
+      "victim": "From Shield to Shame",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : Trucash",
       "link": "https://www.ransomware.live/id/VHJ1Y2FzaEBseW54",
@@ -2190,17 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Family Farm and Home",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Comansco",
-      "link": "https://www.ransomware.live/id/Q29tYW5zY29AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 27 Nov 2025 22:11:09 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/qilin?92a149ae240e354094f67d615fb6d0ab",
-      "group": "Qilin",
-      "victim": "Comansco",
-      "country": "GB"
     }
   ]
 }
