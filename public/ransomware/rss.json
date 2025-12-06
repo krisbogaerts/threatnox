@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T15:10:33.898Z",
+  "updatedAt": "2025-12-06T16:13:07.516Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Jack Levine",
+      "link": "https://www.ransomware.live/id/SmFjayBMZXZpbmVAZHJhZ29uZm9yY2U=",
+      "summary": "Jack Levine PA CPAs is a boutique CPA firm based in the Midtown/Wynwood area of Miami, specializing in corporate tax and accounting services for businesses, individuals, estates, and trusts. With over 35 years of experience, the firm focuses on providing personalized service to clients in various industries, including real estate, healthcare, and e-commerce, while also serving not-for-profit organizations. They utilize advanced technology to ensure secure communication and are committed to maximizing tax savings for their clients. The firm primarily serves the South Beach, Miami Beach, and Aventura areas, with a growing presence in the greater South Florida region and beyond",
+      "pubDate": "Sat, 06 Dec 2025 15:15:03 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?050c41c83e58f0785163fc8287e973ca",
+      "group": "Dragonforce",
+      "victim": "Jack Levine",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Benzona has just published a new victim : platinumone.in",
       "link": "https://www.ransomware.live/id/cGxhdGludW1vbmUuaW5AYmVuem9uYQ==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?f92ed775a97ac659762136544e5f7d05",
       "group": "Akira",
       "victim": "Lone Rock Timber",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Mid South Pulmonary & Sleep Specialists",
-      "link": "https://www.ransomware.live/id/TWlkIFNvdXRoIFB1bG1vbmFyeSAmIFNsZWVwIFNwZWNpYWxpc3RzQGFudWJpcw==",
-      "summary": "Patient data breach.",
-      "pubDate": "Fri, 28 Nov 2025 12:19:44 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?71b444730f819e7944ab1c840e73cbaf",
-      "group": "Anubis",
-      "victim": "Mid South Pulmonary & Sleep Specialists",
       "country": "US"
     }
   ]
