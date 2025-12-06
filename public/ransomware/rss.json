@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T17:09:45.966Z",
+  "updatedAt": "2025-12-06T18:15:40.928Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : ANG BROTHERS (M&E) PTE. LTD. (P3)",
+      "link": "https://www.ransomware.live/id/QU5HIEJST1RIRVJTIChNJkUpIFBURS4gTFRELiAoUDMpQG5vdmE=",
+      "summary": "ANG BROTHERS (M&amp;E) PTE. LTD. (the \"Company\") is a Exempt Private Company Limited by Shares, incorporated on 22 July 2002 (Monday) in Singapore . The address of the Company&#x27;s registered office is in the SHUN LI INDUSTRIAL PARK estate. The Company current operating status is live and has been operating for 23 years. This Company&#x27;s principal activity is plumbing, heating (non-electric) and air-conditioning with steam and air-conditioning supply as the secondary activity",
+      "pubDate": "Sat, 06 Dec 2025 17:49:47 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/nova?dc4b9c33d84cfb562d9604c9b51cc4dc",
+      "group": "Nova",
+      "victim": "ANG BROTHERS (M&E) PTE. LTD. (P3)",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : www.toc.co.jp",
       "link": "https://www.ransomware.live/id/d3d3LnRvYy5jby5qcEBseW54",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?c09037067e2dbbaffca9f8718ccc755c",
       "group": "Akira",
       "victim": "Gershow Recycling",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Design Team Sign Company",
-      "link": "https://www.ransomware.live/id/RGVzaWduIFRlYW0gU2lnbiBDb21wYW55QGFraXJh",
-      "summary": "Design Team Sign Company is a manufacturer of custom graphic sign media. We are ready to upload 108GB files of essential corporate documen ts such as: HR files, personal data, detailed financials, databas es, projects, agreements, customer information, NDA, etc.",
-      "pubDate": "Fri, 28 Nov 2025 13:18:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9d82179c2e2bde9c5d2325b42bb69231",
-      "group": "Akira",
-      "victim": "Design Team Sign Company",
       "country": "US"
     }
   ]
