@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T00:53:48.928Z",
+  "updatedAt": "2025-12-06T02:25:25.693Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : bennett.edu",
+      "link": "https://www.ransomware.live/id/YmVubmV0dC5lZHVAaW5jcmFuc29t",
+      "summary": "Bennett College is a liberal arts college located in North Carolina, dedicated to empowering women through education. The institution offers a unique microcollege model that emphasizes personal attention and support for students, including high school, veterans, and first-generation college students. With a focus on equity in various fields such as health, education, and the environment, Bennett College prepares its students for successful careers and global citizenship. The college is recognized for its strong retention rates and innovative academic programs, including a Minimester model that enhances learning accessibility.\r Employees: 200\r Revenue: $20.9 Million\r Industry: Colleges &amp; Universities\r Phone Number: (336) 517-2100",
+      "pubDate": "Sat, 06 Dec 2025 00:17:47 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?df705f33617e7fa54fc5a397dbc2e165",
+      "group": "Incransom",
+      "victim": "bennett.edu",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : Duhabex",
       "link": "https://www.ransomware.live/id/RHVoYWJleEBhbnViaXM=",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Country Club Enterprises",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Santa Paula",
-      "link": "https://www.ransomware.live/id/U2FudGEgUGF1bGFAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 27 Nov 2025 12:58:10 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?e72f4b08230559896e07f2546b2aa898",
-      "group": "Qilin",
-      "victim": "Santa Paula",
-      "country": ""
     }
   ]
 }
