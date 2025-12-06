@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-06T03:38:09.290Z",
+  "updatedAt": "2025-12-06T04:13:33.814Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Datacarry has just published a new victim : Camomilla",
+      "link": "https://www.ransomware.live/id/Q2Ftb21pbGxhQGRhdGFjYXJyeQ==",
+      "summary": "[AI generated] Camomilla is an Italian brand renowned for its elegant accessories and refined clothing. Founded in 1983 by Monica Bianco, the company encapsulates Italian craftsmanship and design aesthetics in their fashion line, which includes bags, clothes, shoes, and jewelry for women. It offers a wide spectrum of on-trend, creative, and stylish accessories for every occasion.",
+      "pubDate": "Sat, 06 Dec 2025 03:18:52 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/datacarry?ded3e46feed29089ac74057ebbe0f1a6",
+      "group": "Datacarry",
+      "victim": "Camomilla",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Trumbull County",
+      "link": "https://www.ransomware.live/id/VHJ1bWJ1bGwgQ291bnR5QGFudWJpcw==",
+      "summary": "The Internal Story of a County in the State of Ohio.",
+      "pubDate": "Sat, 06 Dec 2025 03:15:11 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/anubis?0dd3e10b8bc90bcbfc481fffdd10de20",
+      "group": "Anubis",
+      "victim": "Trumbull County",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : bennett.edu",
       "link": "https://www.ransomware.live/id/YmVubmV0dC5lZHVAaW5jcmFuc29t",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?9330036bce63b7be3ae9ccf44225bfae",
       "group": "Akira",
       "victim": "Crucible Industries",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Asl Consulting, DTG Consulting Solutions, Snyder Cohn, SBLM Architects, Dealer Information...",
-      "link": "https://www.ransomware.live/id/QXNsIENvbnN1bHRpbmcsIERURyBDb25zdWx0aW5nIFNvbHV0aW9ucywgU255ZGVyIENvaG4sIFNCTE0gQXJjaGl0ZWN0cywgRGVhbGVyIEluZm9ybWF0aW9uLi4uQGFraXJh",
-      "summary": "We obtained about 14gb of the following companies: ASL provides Human Resources Software, Professional Services and  Managed Outsourced Solutions for large and medium-sized organizat ions requiring a level of complexity and sophistication in HR bey ond what is available from payroll providers with an HR offering. DTG Consulting Solutions provides recruiting and staff augmentati on for Information Technology and Finance professionals. SBLM Architects specializes in blending design intelligence with  technical excellence across various sectors, including healthcare , education, retail, commercial, mixed-use, and civic projects. Snyder Cohn is a renowned CPA and business advisory firm establis hed in 1927, providing expert services to businesses, executives, and nonprofits primarily in the Washington DC area. They offer a comprehensive range of accounting services including compliance, tax, audit, and specialized client accounting advisory services. Dealer Information Systems (DIS) is a leading business management software provider to ag, construction, truck refrigeration and l ift truck dealers. You will find personal employees and customer information, lots o f projects, agreements and contracts and other sensitive files.",
-      "pubDate": "Thu, 27 Nov 2025 13:09:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?3cc47a5e4bd49d4f94a3fb78c44c0e20",
-      "group": "Akira",
-      "victim": "Asl Consulting, DTG Consulting Solutions, Snyder Cohn, SBLM Architects, Dealer Information...",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Country Club Enterprises",
-      "link": "https://www.ransomware.live/id/Q291bnRyeSBDbHViIEVudGVycHJpc2VzQGFraXJh",
-      "summary": "Country Club Enterprises (CCE) sells and services Club Car golf c ars and other low speed vehicles to Country Clubs, municipalities , and homeowners throughout New England. We are ready to upload more than 14GB files of essential corporat e documents such as: employees and their relatives personal infor mation (DLs, passports and so on), detailed financials, contracts and agreements, NDA, interesting project files and so on.",
-      "pubDate": "Thu, 27 Nov 2025 13:09:53 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?c4cd34efef0947902f3738e35acf0c44",
-      "group": "Akira",
-      "victim": "Country Club Enterprises",
       "country": "US"
     }
   ]
