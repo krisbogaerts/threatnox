@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T13:20:28.109Z",
+  "updatedAt": "2025-12-06T14:10:10.616Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Benzona has just published a new victim : platinumone.in",
+      "link": "https://www.ransomware.live/id/cGxhdGludW1vbmUuaW5AYmVuem9uYQ==",
+      "summary": "[AI generated] PlatinumOne.in is a company based in India that provides outsourced sales force services for various industries such as telecom services, financial services, and consumer goods. They have an integrated sales force solution that covers prospect and database management, sales process outsourcing, and performance management. They are committed to delivering quality sales results for their clients.",
+      "pubDate": "Sat, 06 Dec 2025 13:19:29 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/benzona?16dfd5121cd2511a7f2ad922336a2c04",
+      "group": "Benzona",
+      "victim": "platinumone.in",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : From Shield to Shame",
       "link": "https://www.ransomware.live/id/RnJvbSBTaGllbGQgdG8gU2hhbWVAaGFuZGFsYQ==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/anubis?71b444730f819e7944ab1c840e73cbaf",
       "group": "Anubis",
       "victim": "Mid South Pulmonary & Sleep Specialists",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Family Farm and Home",
-      "link": "https://www.ransomware.live/id/RmFtaWx5IEZhcm0gYW5kIEhvbWVAd29ybGRsZWFrcw==",
-      "summary": "[AI generated] Family Farm and Home is a retail chain specializing in agricultural and home improvement products. Founded in 1959 as a single store in Michigan, it now operates across multiple states. They provide a wide variety of products such as tools, pet supplies, clothing, footwear, and farm equipment. The company aims to meet the needs of rural and suburban communities, offering a tailored selection that fits their specific requirements.",
-      "pubDate": "Fri, 28 Nov 2025 10:06:09 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?a5bcca493dd234ae36bee6f2987ac6dc",
-      "group": "Worldleaks",
-      "victim": "Family Farm and Home",
       "country": "US"
     }
   ]
