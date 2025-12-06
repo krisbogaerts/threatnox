@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-06T16:13:07.516Z",
+  "updatedAt": "2025-12-06T17:09:45.966Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : www.toc.co.jp",
+      "link": "https://www.ransomware.live/id/d3d3LnRvYy5jby5qcEBseW54",
+      "summary": "TOC Building is a commercial facility that provides a comprehensive floor guide, event information, and tenant details for visitors. The building hosts a variety of shops and services, including clothing stores, kitchenware, and cafes. It aims to attract a diverse clientele, including families and individuals looking for shopping and entertainment options. The official website offers updates on new shops and events to keep customers informed.",
+      "pubDate": "Sat, 06 Dec 2025 16:51:03 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/lynx?37f8606b8c7bf7cd9995b678bd319849",
+      "group": "Lynx",
+      "victim": "www.toc.co.jp",
+      "country": "JP"
+    },
+    {
+      "title": "🏴‍☠️ Kazu has just published a new victim : CT Dent Ltd",
+      "link": "https://www.ransomware.live/id/Q1QgRGVudCBMdGRAa2F6dQ==",
+      "summary": "CT Dent Ltd is an independent CBCT imaging centre based in London, UK, specializing in dental CT scanning services that are utilized by over 10,000 UK practices. The company offers a range of imaging services, including CBCT scans, OPG X-rays, and digital impressions, along with advanced technologies like dose reduction to ensure patient safety. Their target clients include dental practitioners in need of reliable and detailed imaging for treatment planning and diagnostics. Established in 2007, CT Dent has become a leading provider in the dental imaging sector",
+      "pubDate": "Sat, 06 Dec 2025 16:27:47 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/kazu?7e69e1bb7bde370ee93d232c330ba5db",
+      "group": "Kazu",
+      "victim": "CT Dent Ltd",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Jack Levine",
       "link": "https://www.ransomware.live/id/SmFjayBMZXZpbmVAZHJhZ29uZm9yY2U=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?9d82179c2e2bde9c5d2325b42bb69231",
       "group": "Akira",
       "victim": "Design Team Sign Company",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : K2d",
-      "link": "https://www.ransomware.live/id/SzJkQGFraXJh",
-      "summary": "K2D Consulting Engineers is a professional Mechanical, Electrical , and Plumbing (MEP) consulting firm based in Los Angeles, recogn ized for its innovative and collaborative design approaches. We are ready to upload 121GB files of essential corporate documen ts such as: personal employee data, detailed financials, agreemen ts, client information, confidentiality agreements, NDA, etc.",
-      "pubDate": "Fri, 28 Nov 2025 13:18:09 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?54bd618c5b35722202845f760ba8a23e",
-      "group": "Akira",
-      "victim": "K2d",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Lone Rock Timber",
-      "link": "https://www.ransomware.live/id/TG9uZSBSb2NrIFRpbWJlckBha2lyYQ==",
-      "summary": "Lone Rock is a timber company. We are ready to upload 25GB files of corporate documents such as: personal employee data, financials, agreements and contracts, et c.",
-      "pubDate": "Fri, 28 Nov 2025 13:18:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?f92ed775a97ac659762136544e5f7d05",
-      "group": "Akira",
-      "victim": "Lone Rock Timber",
       "country": "US"
     }
   ]
