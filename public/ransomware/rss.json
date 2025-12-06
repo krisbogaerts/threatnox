@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-06T10:11:40.973Z",
+  "updatedAt": "2025-12-06T11:09:11.844Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : Trucash",
+      "link": "https://www.ransomware.live/id/VHJ1Y2FzaEBseW54",
+      "summary": "TruCash is a modern platform for fast, secure, and convenient financial transactions.",
+      "pubDate": "Sat, 06 Dec 2025 10:51:08 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/lynx?4cfe7e1a096a4c4b438d8fdcbdeace8a",
+      "group": "Lynx",
+      "victim": "Trucash",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Renesas Electronics",
       "link": "https://www.ransomware.live/id/UmVuZXNhcyBFbGVjdHJvbmljc0Bjb2luYmFzZWNhcnRlbA==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Comansco",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Tengu has just published a new victim : **Rollingertec S.A. - Luxembourg**",
-      "link": "https://www.ransomware.live/id/KipSb2xsaW5nZXJ0ZWMgUy5BLiAtIEx1eGVtYm91cmcqKkB0ZW5ndQ==",
-      "summary": "**Rollingertec S.A. - Luxembourg** Offering integrated solutions in the field of building technology and timber construction, with a special focus on roofs, facades, and metal insulation. Founded as a specialist in the sustainable construction sector, the company is dedicated to combining time-honored craft traditions with modern technology through comprehensive turnkey projects. The company is committed to high standards of quality, environmental sustainability, and customer satisfaction.",
-      "pubDate": "Thu, 27 Nov 2025 20:25:54 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/tengu?81ea4be434ce40357053018716db919a",
-      "group": "Tengu",
-      "victim": "**Rollingertec S.A. - Luxembourg**",
-      "country": ""
     }
   ]
 }
