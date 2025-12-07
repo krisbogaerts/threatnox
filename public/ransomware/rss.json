@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-07T12:20:14.625Z",
+  "updatedAt": "2025-12-07T13:18:51.972Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Kane's Furniture",
+      "link": "https://www.ransomware.live/id/S2FuZSdzIEZ1cm5pdHVyZUByaHlzaWRh",
+      "summary": "Kane&#x27;s Furniture",
+      "pubDate": "Sun, 07 Dec 2025 12:30:39 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?c364f87681143b2a940b6fe51804eb0b",
+      "group": "Rhysida",
+      "victim": "Kane's Furniture",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : YAZAKI Corp",
+      "link": "https://www.ransomware.live/id/WUFaQUtJIENvcnBAaW5jcmFuc29t",
+      "summary": "The Yazaki Group is a global company best known for being\r a leading supplier of automotive wire harnesses, but it also produces other products like environmental systems and instrumentation equipment. The company&#x27;s focus is on providing quality products and services to its customers, with a global presence that allows for responsive, just-in-time delivery. However, the company has also faced legal issues, including a significant fine for its role in an automotive parts price-fixing scheme. \r \r \r The data size is at 350 GB.\r \r \r WE HAS COLLECTED SUCH DATA AS: \r \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Operations\r - Corporate data\r - HR data (including employee medical records)\r - Business Agreements\r - Development \r - Drawings\r - Technological production requirements and all documentation for the production of parts for BMW, NISSAN, SCANIA and many other global brands \r And a lot of other VERY IMPORTANT information!",
+      "pubDate": "Sun, 07 Dec 2025 11:54:55 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/incransom?fe91871f6c50ddaa20e0c1cd72c20724",
+      "group": "Incransom",
+      "victim": "YAZAKI Corp",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Marta Montserrat Areny Guerrero ABOGADO",
       "link": "https://www.ransomware.live/id/TWFydGEgTW9udHNlcnJhdCBBcmVueSBHdWVycmVybyBBQk9HQURPQHFpbGlu",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/genesis?8120a556a7aea013151029b8c32787b9",
       "group": "Genesis",
       "victim": "Rose Displays",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Petro Environmental.",
-      "link": "https://www.ransomware.live/id/UGV0cm8gRW52aXJvbm1lbnRhbC5AZ2VuZXNpcw==",
-      "summary": "A company that offers a range of environmental services",
-      "pubDate": "Mon, 01 Dec 2025 08:52:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?7130d41513ad45e260c55e8673a5f940",
-      "group": "Genesis",
-      "victim": "Petro Environmental.",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Data Enterprises of the Northwest.",
-      "link": "https://www.ransomware.live/id/RGF0YSBFbnRlcnByaXNlcyBvZiB0aGUgTm9ydGh3ZXN0LkBnZW5lc2lz",
-      "summary": "A company that offers the Automated Tool Inventory Control and Tracking System (ATICTS)",
-      "pubDate": "Mon, 01 Dec 2025 08:51:21 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?02f187277ff0edf589e18aafe8a676ce",
-      "group": "Genesis",
-      "victim": "Data Enterprises of the Northwest.",
       "country": "US"
     }
   ]
