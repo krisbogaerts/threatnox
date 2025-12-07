@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-07T14:10:22.846Z",
+  "updatedAt": "2025-12-07T15:10:09.309Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Galesi Group",
+      "link": "https://www.ransomware.live/id/R2FsZXNpIEdyb3VwQHNpbm9iaQ==",
+      "summary": "Galesi Group is a national real estate developer focused on creating dynamic buildings that enhance communities and drive progress. Established in 1969, the company manages a diverse portfolio of over 11 million square feet of industrial, commercial, retail, and residential properties, primarily in New York&#x27;s Capital Region. Their services include construction management, property management, real estate development, and third-party logistics. Galesi Group aims to meet the needs of various clients by providing tailored spaces and fostering economic growth in the communities they serve.",
+      "pubDate": "Sun, 07 Dec 2025 14:42:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?eceb5dfa3683df2064f374f56d99c168",
+      "group": "Sinobi",
+      "victim": "Galesi Group",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Quality Companies",
+      "link": "https://www.ransomware.live/id/UXVhbGl0eSBDb21wYW5pZXNAc2lub2Jp",
+      "summary": "Quality Companies, headquartered in Youngsville, Louisiana, is a company that offers energy-related products and services and provides onshore and offshore construction, fabrication, maintenance, and other oil and gas-related services.",
+      "pubDate": "Sun, 07 Dec 2025 14:42:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?ba4322ac24f3bab6a785f79cf46d4691",
+      "group": "Sinobi",
+      "victim": "Quality Companies",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : La Costa Dental Excellence",
       "link": "https://www.ransomware.live/id/TGEgQ29zdGEgRGVudGFsIEV4Y2VsbGVuY2VAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Akira",
       "victim": "Abhe & Svoboda",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Goldenrod",
-      "link": "https://www.ransomware.live/id/R29sZGVucm9kQGFraXJh",
-      "summary": "Goldenrod has been designing and manufacturing industry-leading d ifferential winding shafts, multiple bladder air shafts, lightwei ght aluminum and carbon fiber shafts, reel spools, chucks, and sa fety chucks for processors in the North American paper, film, foi l, and non-woven converting industries. We are ready to upload 12GB of corporate documents such as: finan cial files, payment details, invoices and so on.",
-      "pubDate": "Mon, 01 Dec 2025 12:48:13 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?67a9475371a5d0241fc375a822103d19",
-      "group": "Akira",
-      "victim": "Goldenrod",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Radar has just published a new victim : TUAN LE Construction Company Limited",
-      "link": "https://www.ransomware.live/id/VFVBTiBMRSBDb25zdHJ1Y3Rpb24gQ29tcGFueSBMaW1pdGVkQHJhZGFy",
-      "summary": "Files Marked Confidential download - https://upload.disroot.org/r/SBnd9KFH#Qjphic5O+R3JHDSY7tW+9iZ/WkjIgplsCqMrx7v29ws=",
-      "pubDate": "Mon, 01 Dec 2025 12:17:24 +0000",
-      "category": "VN",
-      "guid": "https://www.ransomware.live/group/radar?5d7c1b44d080571db9515e209c0db84c",
-      "group": "Radar",
-      "victim": "TUAN LE Construction Company Limited",
-      "country": "VN"
     }
   ]
 }
