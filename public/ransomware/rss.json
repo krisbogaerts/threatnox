@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-07T18:15:51.203Z",
+  "updatedAt": "2025-12-07T19:08:41.271Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Jeffrey W Krol & Associates",
+      "link": "https://www.ransomware.live/id/SmVmZnJleSBXIEtyb2wgJiBBc3NvY2lhdGVzQHNpbm9iaQ==",
+      "summary": "Jeffrey W. Krol &amp; Associates, Ltd. is a full-service certified public accounting firm based in Chicago, Illinois, serving a diverse clientele across the United States. The firm offers a wide range of services including personal financial planning, business accounting, tax preparation, and QuickBooks services. Their dedicated team provides professional and personalized guidance to both individuals and businesses, addressing various financial and business needs. With years of experience, Krol &amp; Associates is committed to assisting clients in navigating their accounting challenges.",
+      "pubDate": "Sun, 07 Dec 2025 18:48:19 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?a784af3a2e4fb4f8a163c5beab04299f",
+      "group": "Sinobi",
+      "victim": "Jeffrey W Krol & Associates",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : pestbusters",
       "link": "https://www.ransomware.live/id/cGVzdGJ1c3RlcnNAZGV2bWFu",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/incransom?2d7dc0cf16a90454e7f015c14872fce8",
       "group": "Incransom",
       "victim": "American Pools & Spas",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Cleveland County Sheriff's Office",
-      "link": "https://www.ransomware.live/id/Q2xldmVsYW5kIENvdW50eSBTaGVyaWZmJ3MgT2ZmaWNlQHJoeXNpZGE=",
-      "summary": "Cleveland County Sheriff&#x27;s Office",
-      "pubDate": "Tue, 02 Dec 2025 09:02:32 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?21b893066d6c705e8b4be23ed4999f88",
-      "group": "Rhysida",
-      "victim": "Cleveland County Sheriff's Office",
       "country": "US"
     }
   ]
