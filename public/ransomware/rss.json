@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-07T13:18:51.972Z",
+  "updatedAt": "2025-12-07T14:10:22.846Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : La Costa Dental Excellence",
+      "link": "https://www.ransomware.live/id/TGEgQ29zdGEgRGVudGFsIEV4Y2VsbGVuY2VAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 07 Dec 2025 13:54:41 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?cd4cfa86cfe87bd0ecd94d19ea7cba6e",
+      "group": "Qilin",
+      "victim": "La Costa Dental Excellence",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Acoustical Control",
+      "link": "https://www.ransomware.live/id/QWNvdXN0aWNhbCBDb250cm9sQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sun, 07 Dec 2025 13:54:02 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/qilin?a20bf81e49d0a13b18b83746f5054afb",
+      "group": "Qilin",
+      "victim": "Acoustical Control",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : AMH Philippines",
+      "link": "https://www.ransomware.live/id/QU1IIFBoaWxpcHBpbmVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sun, 07 Dec 2025 13:53:23 +0000",
+      "category": "PH",
+      "guid": "https://www.ransomware.live/group/qilin?1ee193b3ea2a9b1879784f65a3586931",
+      "group": "Qilin",
+      "victim": "AMH Philippines",
+      "country": "PH"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Kane's Furniture",
       "link": "https://www.ransomware.live/id/S2FuZSdzIEZ1cm5pdHVyZUByaHlzaWRh",
@@ -2168,39 +2201,6 @@
       "group": "Radar",
       "victim": "TUAN LE Construction Company Limited",
       "country": "VN"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Innomotive SolutionsGroup",
-      "link": "https://www.ransomware.live/id/SW5ub21vdGl2ZSBTb2x1dGlvbnNHcm91cEBha2lyYQ==",
-      "summary": "Innomotive Solutions Group is a North American leader specializin g in high-quality roll-up doors, LED lighting, and power lifting  systems for trucks and specialty vehicles. We are ready to upload 10GB files of corporate documents such as: Personal employee information (passport, phones, emails and so o n), financials, client data, projects, agreements and contracts,  NDA, etc.",
-      "pubDate": "Mon, 01 Dec 2025 11:38:30 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?7019be78f2d080215e90fc164faa158c",
-      "group": "Akira",
-      "victim": "Innomotive SolutionsGroup",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Tridentlocker has just published a new victim : bpost",
-      "link": "https://www.ransomware.live/id/YnBvc3RAdHJpZGVudGxvY2tlcg==",
-      "summary": "[AI generated] bpost is a Belgian company that handles the sorting, collection, transportation and delivery of postal services both locally and internationally. Apart from this, they also manage electronic communications, financial transactions, and other related services. bpost operates in the mail sector as well as in the parcel and e-commerce logistics in Europe, North-America and Asia.",
-      "pubDate": "Mon, 01 Dec 2025 10:27:43 +0000",
-      "category": "BE",
-      "guid": "https://www.ransomware.live/group/tridentlocker?0a217d7fc46c556eda7287ebc320a57b",
-      "group": "Tridentlocker",
-      "victim": "bpost",
-      "country": "BE"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Rose Displays",
-      "link": "https://www.ransomware.live/id/Um9zZSBEaXNwbGF5c0BnZW5lc2lz",
-      "summary": "A division of Visual Creations Ink",
-      "pubDate": "Mon, 01 Dec 2025 08:53:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?8120a556a7aea013151029b8c32787b9",
-      "group": "Genesis",
-      "victim": "Rose Displays",
-      "country": "US"
     }
   ]
 }
