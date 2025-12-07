@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-07T16:12:40.756Z",
+  "updatedAt": "2025-12-07T17:09:22.331Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : pestbusters",
+      "link": "https://www.ransomware.live/id/cGVzdGJ1c3RlcnNAZGV2bWFu",
+      "summary": "[AI generated] Pestbusters is a comprehensive pest control service provider, offering solutions for both residential and commercial clients. Their services combat a wide range of pests, including insects, rodents, and birds. Pestbusters utilize environmentally-friendly methods, ensuring safety for both humans and pets. They are recognised for their swift response, efficient service, and expert field staff.",
+      "pubDate": "Sun, 07 Dec 2025 16:23:15 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/devman?586d5b732ca1733030ae4fa6b6b7be73",
+      "group": "Devman",
+      "victim": "pestbusters",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Gopher Industrial",
       "link": "https://www.ransomware.live/id/R29waGVyIEluZHVzdHJpYWxAc2lub2Jp",
@@ -722,11 +733,11 @@
       "link": "https://www.ransomware.live/id/ZmVsaXh2ZXQuY29tQGxvY2tiaXQ1",
       "summary": "Ветеринарен кабинет &amp;quot;Феникс Вет &amp;quot; предоставя достъпни услуги, както и пълна гама ваксини з...",
       "pubDate": "Sun, 07 Dec 2025 10:19:12 +0000",
-      "category": "SG",
+      "category": "BG",
       "guid": "https://www.ransomware.live/group/lockbit5?542f7de1b481046111d521dd51420531",
       "group": "Lockbit5",
       "victim": "felixvet.com",
-      "country": "SG"
+      "country": "BG"
     },
     {
       "title": "🏴‍☠️ Lockbit5 has just published a new victim : pilgrimpackaging.com",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/rhysida?21b893066d6c705e8b4be23ed4999f88",
       "group": "Rhysida",
       "victim": "Cleveland County Sheriff's Office",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Capital Star Oil & Gas Inc.",
-      "link": "https://www.ransomware.live/id/Q2FwaXRhbCBTdGFyIE9pbCAmIEdhcyBJbmMuQGRyYWdvbmZvcmNl",
-      "summary": "Capital Star Oil &amp; Gas, Inc. is a small independent oil &amp; gas company based in Houston, Texas. Most of drilling activities are financed through private placement investments for investors looking for tax benefits, including deductions for intangible drilling costs (IDC). Minimizing risk by using 3-D seismic and expert consultants before selecting prospects. Capital Star Oil &amp; Gas, Inc. was established in 2002.",
-      "pubDate": "Tue, 02 Dec 2025 07:59:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?16f67a410dfa9719b64510903dc95396",
-      "group": "Dragonforce",
-      "victim": "Capital Star Oil & Gas Inc.",
       "country": "US"
     }
   ]
