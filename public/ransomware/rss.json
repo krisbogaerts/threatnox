@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-07T09:11:26.627Z",
+  "updatedAt": "2025-12-07T10:11:05.841Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Mintzer Sarowitz Zeris Ledva & Meyers",
+      "link": "https://www.ransomware.live/id/TWludHplciBTYXJvd2l0eiBaZXJpcyBMZWR2YSAmIE1leWVyc0BTaWxlbnRSYW5zb21Hcm91cA==",
+      "summary": "Mintzer Sarowitz Zeris &amp; Willis PLLC is a civil defense law firm with 14 offices across 6 states, focu…",
+      "pubDate": "Sun, 07 Dec 2025 08:47:06 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/SilentRansomGroup?b8870ab9669680a0e5dc8a3e4ff8b72a",
+      "group": "Silentransomgroup",
+      "victim": "Mintzer Sarowitz Zeris Ledva & Meyers",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Fish & Richardson Overview Metrics",
+      "link": "https://www.ransomware.live/id/RmlzaCAmIFJpY2hhcmRzb24gT3ZlcnZpZXcgTWV0cmljc0BTaWxlbnRSYW5zb21Hcm91cA==",
+      "summary": "Fish &amp; Richardson, founded in 1878 and headquartered in Boston, Massachusetts, is a law firm specializ…",
+      "pubDate": "Sun, 07 Dec 2025 08:47:00 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/SilentRansomGroup?d899f4171b511b271617f8e07ba34783",
+      "group": "Silentransomgroup",
+      "victim": "Fish & Richardson Overview Metrics",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Benchmark Electronics Inc",
       "link": "https://www.ransomware.live/id/QmVuY2htYXJrIEVsZWN0cm9uaWNzIEluY0BldmVyZXN0",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?5904e1433c733a55035af0854839f83e",
       "group": "Qilin",
       "victim": "Williamson County, TX",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Parrish Tire",
-      "link": "https://www.ransomware.live/id/UGFycmlzaCBUaXJlQGFraXJh",
-      "summary": "Parrish Tire Company is one of the largest tire dealers in the So utheast, operating wholesale, retail, and commercial truck tire c enters in NC, SC, VA, GA, and OH. We are ready to upload 10GB files of corporate documents such as: personal employee data, client data (~150 credit cards details,  and other information), financials, agreements and contracts, etc .",
-      "pubDate": "Fri, 28 Nov 2025 15:18:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?46d86d8ed553cea966772f290b96aedc",
-      "group": "Akira",
-      "victim": "Parrish Tire",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Panini Kabob Grill",
-      "link": "https://www.ransomware.live/id/UGFuaW5pIEthYm9iIEdyaWxsQGFraXJh",
-      "summary": "Panini Kabob Grill specializes in preparing fresh and healthier M editerranean food using high-quality ingredients in a scratch kit chen. We are ready to upload 60GB files of corporate documents such as: detailed personal employee information (SSN, DLs, passport, phot o, phone, emails and so on), credit cards, detailed financials, a greements and contracts, etc.",
-      "pubDate": "Fri, 28 Nov 2025 15:18:54 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9239cdb231181374908b9f88a0706c2f",
-      "group": "Akira",
-      "victim": "Panini Kabob Grill",
       "country": "US"
     }
   ]
