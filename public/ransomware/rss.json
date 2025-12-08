@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-12-08T17:13:25.798Z",
+  "updatedAt": "2025-12-08T18:19:03.704Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : The Landreau Group",
+      "link": "https://www.ransomware.live/id/VGhlIExhbmRyZWF1IEdyb3VwQHNpbm9iaQ==",
+      "summary": "The Landreau Group is an independent insurance agency dedicated to serving the Minneapolis/St. Paul community and the greater metro area. They specialize in providing tailored insurance solutions for clients with complex needs, ensuring customers have the appropriate coverage to protect their businesses and homes. Founded in 2003 by Carlos Landreau, the company emphasizes a values-driven approach, prioritizing client relationships and offering integrity-driven service. With over 25 years of industry experience, they are committed to unraveling complexity and delivering knowledge to their clients.",
+      "pubDate": "Mon, 08 Dec 2025 17:46:53 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?17bc24f5d0328a38b761fd22cca430ff",
+      "group": "Sinobi",
+      "victim": "The Landreau Group",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Seipi",
+      "link": "https://www.ransomware.live/id/U2VpcGlAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 08 Dec 2025 17:43:31 +0000",
+      "category": "PH",
+      "guid": "https://www.ransomware.live/group/qilin?2509bf2a70395a04fadebe5ab71de6e8",
+      "group": "Qilin",
+      "victim": "Seipi",
+      "country": "PH"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Poyntell Limited",
+      "link": "https://www.ransomware.live/id/UG95bnRlbGwgTGltaXRlZEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 08 Dec 2025 17:42:53 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?8e7b819540059e60da0d69121132dee8",
+      "group": "Qilin",
+      "victim": "Poyntell Limited",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Redi Carpet",
+      "link": "https://www.ransomware.live/id/UmVkaSBDYXJwZXRAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 08 Dec 2025 17:42:15 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c1868844de583a7f2dc4c036d296df83",
+      "group": "Qilin",
+      "victim": "Redi Carpet",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Canno Design",
+      "link": "https://www.ransomware.live/id/Q2Fubm8gRGVzaWduQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 08 Dec 2025 17:41:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?114b9c78afd4b12f4f292530dc5bc7f1",
+      "group": "Qilin",
+      "victim": "Canno Design",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Transimpex Warenhandelsgesellschaft",
       "link": "https://www.ransomware.live/id/VHJhbnNpbXBleCBXYXJlbmhhbmRlbHNnZXNlbGxzY2hhZnRAYWtpcmE=",
@@ -2146,61 +2201,6 @@
       "group": "Akira",
       "victim": "Toledo Transducers",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Prismier",
-      "link": "https://www.ransomware.live/id/UHJpc21pZXJAYWtpcmE=",
-      "summary": "Prismier is a leading vertically-integrated Mechanical Contract M anufacturer (MCM). Service offerings include Design &amp; Engineering , Rapid Prototype thru Production of Sheet Metal Fabrication &amp; St amping, Plastic Injection Molding, CNC Machining, Die Casting, an d Assembly. We are ready to upload 42gb of corporate documents such as: detai led personal information of employees (passports, driver licenses , addresses, phones, emails and so on), customer information, pro jects, contracts and agreements, numerous NDAs, etc.",
-      "pubDate": "Tue, 02 Dec 2025 16:18:41 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?1e36d3b29060a3930bd5ecd58fa5db53",
-      "group": "Akira",
-      "victim": "Prismier",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Ziglin Signs",
-      "link": "https://www.ransomware.live/id/WmlnbGluIFNpZ25zQGFraXJh",
-      "summary": "Ziglin Signs Inc operates as a full-service custom signage provid er delivering comprehensive visual communication solutions to bus inesses throughout the Midwest. The company specializes in design ing and fabricating signage that establishes strong brand presenc e and professional identity for organizations ranging from indepe ndent local enterprises to multi-location franchise operations. We are ready to upload corporate documents such as: detailed empl oyee information (passports, driver licenses, SSNs, addresses, ph ones, emails, medical information, credit cards details and os on ), a bit of client information, contracts and agreements, confide ntiality agreements, projects and so on.",
-      "pubDate": "Tue, 02 Dec 2025 14:49:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?66f777c600ba4aa2f2b06ddd6edb41c6",
-      "group": "Akira",
-      "victim": "Ziglin Signs",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.precipiodx.com",
-      "link": "https://www.ransomware.live/id/d3d3LnByZWNpcGlvZHguY29tQGluY3JhbnNvbQ==",
-      "summary": "150gb",
-      "pubDate": "Tue, 02 Dec 2025 13:53:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?46e251f93024787f79a323d07938c8b4",
-      "group": "Incransom",
-      "victim": "www.precipiodx.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : [EVIDENCE PACK 3]ASKUL",
-      "link": "https://www.ransomware.live/id/W0VWSURFTkNFIFBBQ0sgM11BU0tVTEByYW5zb21ob3VzZQ==",
-      "summary": "ASKUL Corporation, founded in 1963 and headquartered in Tokyo, is a leading Japanese e-commerce company serving both businesses (B2B) and consumers (B2C). It offers office supplies, daily goods, medical products, and logistics services through platforms such as ASKUL, SOLOEL ARENA, and LOHACO. The company operates its own distribution centers, ensuring fast delivery and efficient supply chain management. ASKUL also provides additional services like printing, office design, and digital business solutions. The company emphasizes sustainability, digital transformation, and recycling initiatives.",
-      "pubDate": "Tue, 02 Dec 2025 13:36:24 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/ransomhouse?e2d76936dedb0180783e5152e4939531",
-      "group": "Ransomhouse",
-      "victim": "[EVIDENCE PACK 3]ASKUL",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Immling Festival DER Festspielort im Chiemgau",
-      "link": "https://www.ransomware.live/id/SW1tbGluZyBGZXN0aXZhbCBERVIgRmVzdHNwaWVsb3J0IGltIENoaWVtZ2F1QGRyYWdvbmZvcmNl",
-      "summary": "DAS FESTIVAL TEAM Umgeben von der schönen Natur des Chiemgau liegt Immling – ein Festspielort, der überrascht. Bereits die Anreise durch den Wald weckt Neugier. Sobald sich die Bäumen lichten, erwartet die Besucher ein einmaliges Zusammenspiel aus Kultur und Natur. Das Gut Immling mit seiner Blumenpracht und seinen Tieren, auf einem idyllischen grünen Hügel gelegen, schafft eine Atmosphäre, die bezaubert.  Intendant und Schöpfer des Immling Festival Ludwig Baumann und die musikalische Leiterin Cornelia von Kerssenbrock heißen Sie mit ihrem Team herzlich willkommen!",
-      "pubDate": "Tue, 02 Dec 2025 13:14:52 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/dragonforce?cb7dde26cc6673c298063f675b33dd26",
-      "group": "Dragonforce",
-      "victim": "Immling Festival DER Festspielort im Chiemgau",
-      "country": "DE"
     }
   ]
 }
