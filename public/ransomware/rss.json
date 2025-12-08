@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2025-12-08T15:14:08.193Z",
+  "updatedAt": "2025-12-08T16:16:04.951Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : SLA.DK",
+      "link": "https://www.ransomware.live/id/U0xBLkRLQHNpbm9iaQ==",
+      "summary": "Our projects solve some of today&#x27;s hardest urban problems while creating genuine amenity values for all. Based in Copenhagen, Aarhus and Oslo we form a multidisciplinary architectural lab that constantly strives to challenge and expand the boundaries of urban space, city planning and landscape architecture. Drawing on our strong Nordic roots we have realized numerous projects in Denmark, Europe, Asia and Africa.",
+      "pubDate": "Mon, 08 Dec 2025 15:26:09 +0000",
+      "category": "DK",
+      "guid": "https://www.ransomware.live/group/sinobi?503a0c286586998d1beb9fd74048ef7e",
+      "group": "Sinobi",
+      "victim": "SLA.DK",
+      "country": "DK"
+    },
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : www.eliteflower.com",
+      "link": "https://www.ransomware.live/id/d3d3LmVsaXRlZmxvd2VyLmNvbUBseW54",
+      "summary": "Founded in 1991 and headquartered in Miami, Florida, Elite Flower specializes in roses, spray roses, alstroemerias, and gerberas.",
+      "pubDate": "Mon, 08 Dec 2025 15:19:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lynx?a12f0ab37ada1cf0f5ed4082f647bd18",
+      "group": "Lynx",
+      "victim": "www.eliteflower.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : PH Molds",
+      "link": "https://www.ransomware.live/id/UEggTW9sZHNAYWtpcmE=",
+      "summary": "PH Molds Limited is a leading provider of custom plastic injectio n mold design and manufacturing in Metro Vancouver, BC. The compa ny offers a wide range of services, including part and product ma nufacturing, assembly, and value-added services, helping clients  to create complex and functional designs. We are ready to upload 35gb of corporate data. Full personal info rmation of employees, their relatives and family friends (passpor t applications contain name, DOB, current address, email, phone,  passport number, passport scan, emergency contacts information, h ealth information), agreements and contracts, financials, credit  card information, NDAs, etc.",
+      "pubDate": "Mon, 08 Dec 2025 14:47:59 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/akira?9f90c614a73453b0d2855fd4f41fb870",
+      "group": "Akira",
+      "victim": "PH Molds",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : AGI Group",
+      "link": "https://www.ransomware.live/id/QUdJIEdyb3VwQGFraXJh",
+      "summary": "AGDisplays is an advanced display solutions specialist offering U SA assembled, custom LCD application design and solutions across  all industries. We are ready to upload 30gb of corporate data. Detailed personal  information of employees (passports and DL scans, emails, phones, medical information), agreements and contracts, financials, cred it card information, NDAs, etc.",
+      "pubDate": "Mon, 08 Dec 2025 14:47:55 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?117b30a447db21a4a0622f5c6cd58351",
+      "group": "Akira",
+      "victim": "AGI Group",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Nadel Architects",
+      "link": "https://www.ransomware.live/id/TmFkZWwgQXJjaGl0ZWN0c0Bha2lyYQ==",
+      "summary": "Nadel Architects has been a leader in comprehensive architecture  design and planning services for over 50 years, known for their c reativity, integrity, and cost-effective solutions. We are ready to upload 472gb of corporate data. Personal informat ion of employees (passports and other information), agreements an d contracts, confidential project files, financials, NDAs, and so on.",
+      "pubDate": "Mon, 08 Dec 2025 14:47:49 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?df798efca542617bfe31c2f14a338090",
+      "group": "Akira",
+      "victim": "Nadel Architects",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : RUEZ",
+      "link": "https://www.ransomware.live/id/UlVFWkBha2lyYQ==",
+      "summary": "RUEZ GmbH, located in Bad Schussenried, specializes in filter and conveyor technology, offering a wide range of products including various types of conveyors, filtration systems, and central supp ly and disposal systems. We are ready to upload 32gb of corporate data. Personal informati on of employees (passports and ID scans), agreements and contract s, projects, client information, drawings and specification of BM W subsidiary in Thailand and other files.",
+      "pubDate": "Mon, 08 Dec 2025 14:47:46 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?a19626f286133083f6d5f319c772bf84",
+      "group": "Akira",
+      "victim": "RUEZ",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Tengu has just published a new victim : https://www.revnomix.com",
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cucmV2bm9taXguY29tQHRlbmd1",
@@ -2135,72 +2201,6 @@
       "group": "Devman",
       "victim": "ravand.com",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Tlusty & Kennedy",
-      "link": "https://www.ransomware.live/id/VGx1c3R5ICYgS2VubmVkeUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 02 Dec 2025 12:55:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?5ed65bc93d401a14ee74a051b517f85d",
-      "group": "Qilin",
-      "victim": "Tlusty & Kennedy",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : American Pools & Spas",
-      "link": "https://www.ransomware.live/id/QW1lcmljYW4gUG9vbHMgJiBTcGFzQGluY3JhbnNvbQ==",
-      "summary": "American Pools Spas is a premier pool builder based in Orlando, FL, offering a wide range of services including pool construction, renovation, and repair.\r \r We have 500GB of data at our disposal (fiscal data, internal mail,budgets and many other things)",
-      "pubDate": "Tue, 02 Dec 2025 11:20:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?2d7dc0cf16a90454e7f015c14872fce8",
-      "group": "Incransom",
-      "victim": "American Pools & Spas",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Cleveland County Sheriff's Office",
-      "link": "https://www.ransomware.live/id/Q2xldmVsYW5kIENvdW50eSBTaGVyaWZmJ3MgT2ZmaWNlQHJoeXNpZGE=",
-      "summary": "Cleveland County Sheriff&#x27;s Office",
-      "pubDate": "Tue, 02 Dec 2025 09:02:32 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?21b893066d6c705e8b4be23ed4999f88",
-      "group": "Rhysida",
-      "victim": "Cleveland County Sheriff's Office",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Capital Star Oil & Gas Inc.",
-      "link": "https://www.ransomware.live/id/Q2FwaXRhbCBTdGFyIE9pbCAmIEdhcyBJbmMuQGRyYWdvbmZvcmNl",
-      "summary": "Capital Star Oil &amp; Gas, Inc. is a small independent oil &amp; gas company based in Houston, Texas. Most of drilling activities are financed through private placement investments for investors looking for tax benefits, including deductions for intangible drilling costs (IDC). Minimizing risk by using 3-D seismic and expert consultants before selecting prospects. Capital Star Oil &amp; Gas, Inc. was established in 2002.",
-      "pubDate": "Tue, 02 Dec 2025 07:59:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?16f67a410dfa9719b64510903dc95396",
-      "group": "Dragonforce",
-      "victim": "Capital Star Oil & Gas Inc.",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Mobilelink USA",
-      "link": "https://www.ransomware.live/id/TW9iaWxlbGluayBVU0FAZHJhZ29uZm9yY2U=",
-      "summary": "Mobilelink USA is a private Cricket Wireless company that deals in providing unlimited 5G LTE services and state of the art devices with an understanding of what keeps the customers loyal to a brand. As the largest Exclusive Retailer of Cricket, we focus on creating a customer experience that distinguishes us from others. We take pride in offering personal and professional services along with products that meet the needs of our valued clients. We operate with a high level of integrity and thrive on innovation that allows our customers to take advantage of a 5G LTE Network with no annual contract through 550+ retail locations across the USA. Mobilelink is becoming revered as the company of choice when purchasing all your wireless needs or when looking for a new venture with your device.",
-      "pubDate": "Tue, 02 Dec 2025 07:20:08 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?98ab119b5086a2c7ac4f09eccbc83bb5",
-      "group": "Dragonforce",
-      "victim": "Mobilelink USA",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ciphbit has just published a new victim : Clínica Villa Zaita",
-      "link": "https://www.ransomware.live/id/Q2zDrW5pY2EgVmlsbGEgWmFpdGFAY2lwaGJpdA==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Tue, 02 Dec 2025 01:11:16 +0000",
-      "category": "PA",
-      "guid": "https://www.ransomware.live/group/ciphbit?055025ae1e51840621b1289c45c21395",
-      "group": "Ciphbit",
-      "victim": "Clínica Villa Zaita",
-      "country": "PA"
     }
   ]
 }
