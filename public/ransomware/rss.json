@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-08T16:16:04.951Z",
+  "updatedAt": "2025-12-08T17:13:25.798Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Transimpex Warenhandelsgesellschaft",
+      "link": "https://www.ransomware.live/id/VHJhbnNpbXBleCBXYXJlbmhhbmRlbHNnZXNlbGxzY2hhZnRAYWtpcmE=",
+      "summary": "Transimpex Warenhandelsgesellschaft mbH is a food &amp; beverages com pany based out of Neustadter Straße 1A, Lambsheim, Germany. We are ready to upload 10gb of corporate data. Personal informati on of employees (passports and IDs and so on), detailed financial s, agreements and contracts, a bit of client information and so o n.",
+      "pubDate": "Mon, 08 Dec 2025 16:18:43 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/akira?5c07f052c9a7de98fd50607068352589",
+      "group": "Akira",
+      "victim": "Transimpex Warenhandelsgesellschaft",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : TCG",
+      "link": "https://www.ransomware.live/id/VENHQHNpbm9iaQ==",
+      "summary": "TCG Inc delivers specialized information technology and management advisory services to federal government agencies, combining technical expertise with deep understanding of public sector operations. The company focuses on four core competencies: Agile development methodologies, federal shared services optimization, budget formulation and execution support, and health science analytics. This multifaceted approach enables TCG to address complex challenges across diverse government missions. The company&#x27;s service offerings reflect extensive experience navigating federal procurement, compliance requirements, and mission-critical operations. TCG&#x27;s Agile development capabilities help agencies modernize legacy systems and accelerate software delivery cycles. In budget management, the firm provides advisory support for formulation processes and execution strategies, helping agencies optimize resource allocation and financial planning.",
+      "pubDate": "Mon, 08 Dec 2025 16:09:49 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?c4d3ae3fbbdb50f02400d6d807fc9332",
+      "group": "Sinobi",
+      "victim": "TCG",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : SLA.DK",
       "link": "https://www.ransomware.live/id/U0xBLkRLQHNpbm9iaQ==",
@@ -2179,28 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Immling Festival DER Festspielort im Chiemgau",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : n*w*****.com",
-      "link": "https://www.ransomware.live/id/bip3KioqKiouY29tQGRldm1hbg==",
-      "summary": "Ransom: 200gb 220k",
-      "pubDate": "Tue, 02 Dec 2025 13:13:20 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/devman?3ffae6cdeadcafff0041957dd06151f8",
-      "group": "Devman",
-      "victim": "n*w*****.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : ravand.com",
-      "link": "https://www.ransomware.live/id/cmF2YW5kLmNvbUBkZXZtYW4=",
-      "summary": "Ransom: 75k 50gb",
-      "pubDate": "Tue, 02 Dec 2025 13:12:41 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/devman?640861683e4ce6e0b5292ba18b1031c9",
-      "group": "Devman",
-      "victim": "ravand.com",
-      "country": "CA"
     }
   ]
 }
