@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-08T06:20:58.280Z",
+  "updatedAt": "2025-12-08T07:17:14.794Z",
   "count": 200,
   "items": [
     {
@@ -56,61 +56,6 @@
       "group": "Devman",
       "victim": "solidere",
       "country": "LB"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : naturmaelk",
-      "link": "https://www.ransomware.live/id/bmF0dXJtYWVsa0BkZXZtYW4=",
-      "summary": "[AI generated] Naturmælk is a Danish organic dairy company that was established in the year 2000. It has its origins in 15 South Jutlandic organic milk producers and has maintained its commitment towards producing organic milk products. Naturmælk leverages traditional methods and innovative technology to provide high-quality butter, milk, cheese, and yoghurt to its customers. The company also prides itself on the welfare of its cows and sustainability of its practices.",
-      "pubDate": "Sun, 07 Dec 2025 15:32:15 +0000",
-      "category": "DK",
-      "guid": "https://www.ransomware.live/group/devman?3b9199ba2735afa7a346f51a6bc6ad12",
-      "group": "Devman",
-      "victim": "naturmaelk",
-      "country": "DK"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : chicagobotanic",
-      "link": "https://www.ransomware.live/id/Y2hpY2Fnb2JvdGFuaWNAZGV2bWFu",
-      "summary": "[AI generated] The Chicago Botanic Garden is a living plant museum spread across 385 acres in Glencoe, Illinois. Founded in 1972, it features 27 diverse gardens and 4 natural landscapes which is home to over 2.7 million plants. This organization conducts scientific studies, provides educational programs, and works to conserve special plant species.",
-      "pubDate": "Sun, 07 Dec 2025 15:31:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?fa28dfab1e9ebe3c865c8be3afb0ddf5",
-      "group": "Devman",
-      "victim": "chicagobotanic",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : pharmaciedesalize.com.fr",
-      "link": "https://www.ransomware.live/id/cGhhcm1hY2llZGVzYWxpemUuY29tLmZyQGRldm1hbg==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Sun, 07 Dec 2025 15:30:24 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/devman?0990d5eec310380ce5ffd7016f37d37c",
-      "group": "Devman",
-      "victim": "pharmaciedesalize.com.fr",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : omniumint",
-      "link": "https://www.ransomware.live/id/b21uaXVtaW50QGRldm1hbg==",
-      "summary": "Projects, and proof of corruption",
-      "pubDate": "Sun, 07 Dec 2025 15:29:13 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/devman?e723a4a8e1c0775ba37eb6c0fdef5fdc",
-      "group": "Devman",
-      "victim": "omniumint",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : MCC",
-      "link": "https://www.ransomware.live/id/TUNDQGRldm1hbg==",
-      "summary": "[AI generated] Multiple companies are named MCC worldwide, so without more specific context, it is challenging to provide detailed information. These companies include MCC Group, a Chinese construction company, and MCC Inc., an American Direct Selling company. Please provide more details.",
-      "pubDate": "Sun, 07 Dec 2025 15:28:25 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/devman?267508c1558234a5c6bbbc5ab944446e",
-      "group": "Devman",
-      "victim": "MCC",
-      "country": ""
     },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : hopital-*********.com",
@@ -2201,6 +2146,61 @@
       "group": "Qilin",
       "victim": "France terre d'asile",
       "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : B dynamic",
+      "link": "https://www.ransomware.live/id/QiBkeW5hbWljQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 18:13:21 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/qilin?08b8375fe81dbb441202965013a2ec8a",
+      "group": "Qilin",
+      "victim": "B dynamic",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Clark & Sullivan Constructors",
+      "link": "https://www.ransomware.live/id/Q2xhcmsgJiBTdWxsaXZhbiBDb25zdHJ1Y3RvcnNAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Mon, 01 Dec 2025 18:12:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?a4f6f90a9ecc6906c03877bcf27ddbbc",
+      "group": "Play",
+      "victim": "Clark & Sullivan Constructors",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Hall Aluminum Products",
+      "link": "https://www.ransomware.live/id/SGFsbCBBbHVtaW51bSBQcm9kdWN0c0BwbGF5",
+      "summary": "United States",
+      "pubDate": "Mon, 01 Dec 2025 18:11:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?5501a9821400e3921dc332ab71ea3e17",
+      "group": "Play",
+      "victim": "Hall Aluminum Products",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Aspen Distribution",
+      "link": "https://www.ransomware.live/id/QXNwZW4gRGlzdHJpYnV0aW9uQHBsYXk=",
+      "summary": "Canada",
+      "pubDate": "Mon, 01 Dec 2025 18:11:05 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?8cebaa8792b3f9740bcfbb35e947644e",
+      "group": "Play",
+      "victim": "Aspen Distribution",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : HASCO Hasenclever",
+      "link": "https://www.ransomware.live/id/SEFTQ08gSGFzZW5jbGV2ZXJAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 17:20:13 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/qilin?8dfb15144ce7a42652bd44bc55607e45",
+      "group": "Qilin",
+      "victim": "HASCO Hasenclever",
+      "country": "DE"
     }
   ]
 }
