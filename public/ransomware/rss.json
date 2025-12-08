@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-08T07:17:14.794Z",
+  "updatedAt": "2025-12-08T08:19:34.117Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Ernest Käslin",
+      "link": "https://www.ransomware.live/id/RXJuZXN0IEvDpHNsaW5Ad29ybGRsZWFrcw==",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 08 Dec 2025 07:17:13 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/worldleaks?cc190a3d22516d9404f7b57406e32407",
+      "group": "Worldleaks",
+      "victim": "Ernest Käslin",
+      "country": "CH"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Big Lar",
+      "link": "https://www.ransomware.live/id/QmlnIExhckB3b3JsZGxlYWtz",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 08 Dec 2025 07:16:30 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/worldleaks?babf474377b1896e78e1f2949391ba4d",
+      "group": "Worldleaks",
+      "victim": "Big Lar",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio",
+      "link": "https://www.ransomware.live/id/R3JhbmphcyA0IElybcOjb3MgU0EgLSBBZ3JvcGVjdcOhcmlhLCBJbmTDunN0cmlhIGUgQ29tw6lyY2lvQHdvcmxkbGVha3M=",
+      "summary": "[AI generated] Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio is a Brazilian company involved in agricultural activities, industry, and trade. It specializes in the production of grains, meats, and other agricultural commodities. The company uses modern farming techniques to raise livestock and cultivate crops, contributing to Brazil&#x27;s agricultural industry. While it has a substantial domestic presence, it also partakes in trade, distributing its produce to various other regions.",
+      "pubDate": "Mon, 08 Dec 2025 07:15:49 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/worldleaks?a1f24aa1cc26d230d32536b85024a48d",
+      "group": "Worldleaks",
+      "victim": "Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio",
+      "country": "BR"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Caldwell & Company Accounting",
       "link": "https://www.ransomware.live/id/Q2FsZHdlbGwgJiBDb21wYW55IEFjY291bnRpbmdAc2lub2Jp",
@@ -2168,39 +2201,6 @@
       "group": "Play",
       "victim": "Clark & Sullivan Constructors",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Hall Aluminum Products",
-      "link": "https://www.ransomware.live/id/SGFsbCBBbHVtaW51bSBQcm9kdWN0c0BwbGF5",
-      "summary": "United States",
-      "pubDate": "Mon, 01 Dec 2025 18:11:44 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?5501a9821400e3921dc332ab71ea3e17",
-      "group": "Play",
-      "victim": "Hall Aluminum Products",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Aspen Distribution",
-      "link": "https://www.ransomware.live/id/QXNwZW4gRGlzdHJpYnV0aW9uQHBsYXk=",
-      "summary": "Canada",
-      "pubDate": "Mon, 01 Dec 2025 18:11:05 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?8cebaa8792b3f9740bcfbb35e947644e",
-      "group": "Play",
-      "victim": "Aspen Distribution",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : HASCO Hasenclever",
-      "link": "https://www.ransomware.live/id/SEFTQ08gSGFzZW5jbGV2ZXJAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 01 Dec 2025 17:20:13 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/qilin?8dfb15144ce7a42652bd44bc55607e45",
-      "group": "Qilin",
-      "victim": "HASCO Hasenclever",
-      "country": "DE"
     }
   ]
 }
