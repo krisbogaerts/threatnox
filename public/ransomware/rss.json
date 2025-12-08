@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-08T08:19:34.117Z",
+  "updatedAt": "2025-12-08T09:19:22.998Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Comcast",
+      "link": "https://www.ransomware.live/id/Q29tY2FzdEBzcGFjZWJlYXJz",
+      "summary": "As a global media and tech company, Comcast reaches hundreds of millions of customers, viewers, and guests with world-class connectivity and platforms and beloved content and experiences.The leak was made possible by Quasar Inc., a company that prepares technical documentation for Comсast and its Genesis project. The files contain design documentation for numerous cities, as well as detailed utility plans. https://corporate.comcast.com/",
+      "pubDate": "Mon, 08 Dec 2025 08:17:54 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/spacebears?f2160d8b87173611f174d6bed116b504",
+      "group": "Spacebears",
+      "victim": "Comcast",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Securotrop has just published a new victim : Cadman Power Equipment",
+      "link": "https://www.ransomware.live/id/Q2FkbWFuIFBvd2VyIEVxdWlwbWVudEBzZWN1cm90cm9w",
+      "summary": "Status: AWAITING Size: 3042 GB",
+      "pubDate": "Mon, 08 Dec 2025 08:14:19 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/securotrop?50b63294bb756fdc5926e8e1300b88e6",
+      "group": "Securotrop",
+      "victim": "Cadman Power Equipment",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : HESCO",
+      "link": "https://www.ransomware.live/id/SEVTQ09AZHJhZ29uZm9yY2U=",
+      "summary": "HESCO Foodservice Ltd., based out of Edmonton and Calgary, specializes in providing a wide range of products, cleaning supplies, commercial equipment, and kitchen design for the foodservice industry. Leaders in Food Service Supply &amp; Design for over 95 years To learn more about the company, please visit www.hesco.ca",
+      "pubDate": "Mon, 08 Dec 2025 07:41:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?708935fd81b4c6fda65bf1856ad30850",
+      "group": "Dragonforce",
+      "victim": "HESCO",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Ernest Käslin",
       "link": "https://www.ransomware.live/id/RXJuZXN0IEvDpHNsaW5Ad29ybGRsZWFrcw==",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "San Miguel",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : France terre d'asile",
-      "link": "https://www.ransomware.live/id/RnJhbmNlIHRlcnJlIGQnYXNpbGVAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 01 Dec 2025 18:13:59 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?cdff508e5b75f02b1126acb8957018e5",
-      "group": "Qilin",
-      "victim": "France terre d'asile",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : B dynamic",
-      "link": "https://www.ransomware.live/id/QiBkeW5hbWljQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Mon, 01 Dec 2025 18:13:21 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/qilin?08b8375fe81dbb441202965013a2ec8a",
-      "group": "Qilin",
-      "victim": "B dynamic",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Clark & Sullivan Constructors",
-      "link": "https://www.ransomware.live/id/Q2xhcmsgJiBTdWxsaXZhbiBDb25zdHJ1Y3RvcnNAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Mon, 01 Dec 2025 18:12:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?a4f6f90a9ecc6906c03877bcf27ddbbc",
-      "group": "Play",
-      "victim": "Clark & Sullivan Constructors",
-      "country": "US"
     }
   ]
 }
