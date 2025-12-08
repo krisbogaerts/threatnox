@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-08T05:14:58.567Z",
+  "updatedAt": "2025-12-08T06:20:58.280Z",
   "count": 200,
   "items": [
     {
@@ -47,72 +47,6 @@
       "country": "US"
     },
     {
-      "title": "🏴‍☠️ Devman has just published a new victim : GMA NETWORK",
-      "link": "https://www.ransomware.live/id/R01BIE5FVFdPUktAZGV2bWFu",
-      "summary": "[AI generated] GMA Network is a major commercial broadcast television and radio network in the Philippines. GMA Network stands for Global Media Arts Network, and it is also referred to as Kapuso Network after the outline of the heart-shaped logo. Founded in 1950, it operates various television and radio stations in the country and internationally. The company produces a wide variety of shows, including news, public affairs, dramas, and entertainment programs.",
-      "pubDate": "Sun, 07 Dec 2025 15:42:02 +0000",
-      "category": "PH",
-      "guid": "https://www.ransomware.live/group/devman?c96c232ef29269c2d368c2798e32af20",
-      "group": "Devman",
-      "victim": "GMA NETWORK",
-      "country": "PH"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : DAILY NEWS THAILAND",
-      "link": "https://www.ransomware.live/id/REFJTFkgTkVXUyBUSEFJTEFOREBkZXZtYW4=",
-      "summary": "[AI generated] Daily News Thailand is a leading print and online publication that is based in Thailand. It provides a broad spectrum of news and content about business, politics, education, entertainment, and lifestyle in both English and Thai languages. The company strives to provide timely, accurate and concise information to its readers, focusing primarily on events and happenings in Thailand.",
-      "pubDate": "Sun, 07 Dec 2025 15:41:57 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/devman?06662d9b08a00225885917f965217618",
-      "group": "Devman",
-      "victim": "DAILY NEWS THAILAND",
-      "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : piriou",
-      "link": "https://www.ransomware.live/id/cGlyaW91QGRldm1hbg==",
-      "summary": "[AI generated] Piriou is a global shipbuilding, repair and engineering firm founded in 1965 and headquartered in France. It specializes in constructing mid-sized vessels for an international clientele. The company operates in three key sectors: Fishing, Offshore Oil &amp; Gas Industries, and Maritime Security. It designs and builds a wide range of vessels, from longliners and trawlers for the fishing industry to crew boats and supply vessels for the offshore industry. Piriou also offers repair and maintenance services.",
-      "pubDate": "Sun, 07 Dec 2025 15:41:08 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/devman?eef5a87c34bbd1b4135e0ac440028c2b",
-      "group": "Devman",
-      "victim": "piriou",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : netstar",
-      "link": "https://www.ransomware.live/id/bmV0c3RhckBkZXZtYW4=",
-      "summary": "[AI generated] Netstar is a UK-based IT Support Company that delivers bespoke technology and IT solutions for businesses of all sizes. Established in 2002, it specializes in providing managed IT services like data backup, cloud services, cybersecurity, network monitoring and 24/7 tech support. It also offers IT consultancy, proactive monitoring and maintenance. The company&#x27;s mission is to aid businesses in using technology to grow and achieve their objectives.",
-      "pubDate": "Sun, 07 Dec 2025 15:40:18 +0000",
-      "category": "ZA",
-      "guid": "https://www.ransomware.live/group/devman?64587986ed1d51b6a3421e8d4f9aabb2",
-      "group": "Devman",
-      "victim": "netstar",
-      "country": "ZA"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : gotec",
-      "link": "https://www.ransomware.live/id/Z290ZWNAZGV2bWFu",
-      "summary": "[AI generated] Gotec is a Swiss company specialized in dosing and high-pressure pumping solutions across various industries. They offer a wide range of products, from precision micro pumps that can handle a variety of fluids to custom-made high-pressure pumps. Gotec&#x27;s solutions are used in industries such as medical technology, printing systems, heating technology, and automotive applications.",
-      "pubDate": "Sun, 07 Dec 2025 15:39:24 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/devman?d0ae8542bbb3defcd275b461953eeae3",
-      "group": "Devman",
-      "victim": "gotec",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : elematec",
-      "link": "https://www.ransomware.live/id/ZWxlbWF0ZWNAZGV2bWFu",
-      "summary": "[AI generated] Elematec Corporation is a Japan-based company engaged in procurement and supply of electronic components, semiconductors, displays, and other industrial materials. It also offers logistic, strategic inventory management, and technical support services. Furthermore, Elematec develops various products like emission components and touchscreen panels, contributing to the manufacturing industry worldwide.",
-      "pubDate": "Sun, 07 Dec 2025 15:38:35 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/devman?909ab89b8c51e4ae0cacf9b292d1cfde",
-      "group": "Devman",
-      "victim": "elematec",
-      "country": "JP"
-    },
-    {
       "title": "🏴‍☠️ Devman has just published a new victim : solidere",
       "link": "https://www.ransomware.live/id/c29saWRlcmVAZGV2bWFu",
       "summary": "[AI generated] Solidere, short for Société Libanaise de Développement et Reconstruction, is a Lebanese joint stock company responsible for the reconstruction, development, and management of Beirut’s Central District. Created in 1994, the firm is entrusted with restoring Beirut&#x27;s historical buildings, attracting investments, and promoting tourism. It effectively serves as a private real estate company, but granted with governmental powers for urban development.",
@@ -122,61 +56,6 @@
       "group": "Devman",
       "victim": "solidere",
       "country": "LB"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : diethelmtravel",
-      "link": "https://www.ransomware.live/id/ZGlldGhlbG10cmF2ZWxAZGV2bWFu",
-      "summary": "[AI generated] Diethelm Travel Group is a leading travel company based in Asia, with over half a century of experience. It offers a comprehensive range of services including tailor-made trips, group tours, and MICE services. With 13 offices across Asia, Diethelm has a deep understanding of tourism in the region, providing expertly curated experiences for its clients. The company is recognized for its commitment to responsible tourism and exceptional customer service.",
-      "pubDate": "Sun, 07 Dec 2025 15:36:16 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/devman?986c8011105cabf1a90a8c3fc854c14f",
-      "group": "Devman",
-      "victim": "diethelmtravel",
-      "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : braswellsvc",
-      "link": "https://www.ransomware.live/id/YnJhc3dlbGxzdmNAZGV2bWFu",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Sun, 07 Dec 2025 15:35:28 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?c4bc2345eefc77124ef181784f8a3f10",
-      "group": "Devman",
-      "victim": "braswellsvc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : busaba",
-      "link": "https://www.ransomware.live/id/YnVzYWJhQGRldm1hbg==",
-      "summary": "[AI generated] Busaba is a contemporary Thai eatery, founded by Alan Yau in London, UK, in 1999. Named after a Thai flower, Busaba&#x27;s philosophy is to create a Thai eating experience that is both authentic and modern. They offer a diverse but simple menu of Thai salads, stir-fries, curries, noodles, wok dishes, and soups. Their approach combines fresh, quality ingredients prepared with Thai cooking techniques.",
-      "pubDate": "Sun, 07 Dec 2025 15:34:41 +0000",
-      "category": "UK",
-      "guid": "https://www.ransomware.live/group/devman?e101c24bf484fd2fd72afa31c17c87b1",
-      "group": "Devman",
-      "victim": "busaba",
-      "country": "UK"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : r3consulting",
-      "link": "https://www.ransomware.live/id/cjNjb25zdWx0aW5nQGRldm1hbg==",
-      "summary": "[AI generated] R3 Consulting Group, Inc. is a professional service firm that specializes in providing solutions to challenges faced by the private and public sector in handling solid waste and recycling materials. The company offers services that include strategy development, operations improvement, procurement, and market development. Their solutions are designed to improve operational efficiencies and maximize resources for clients.",
-      "pubDate": "Sun, 07 Dec 2025 15:33:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?cc42c1f1c8706ee05a758555506fa343",
-      "group": "Devman",
-      "victim": "r3consulting",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : wrapex",
-      "link": "https://www.ransomware.live/id/d3JhcGV4QGRldm1hbg==",
-      "summary": "[AI generated] Wrapex is a UK-based food manufacturing company specializing in creating high-quality, gourmet style wraps, sandwiches, and other convenience foods for distribution to food service businesses. Their range includes vegetarian, vegan, halal, and gluten-free options. With strong commitment to food safety and quality, Wrapex operates from a BRC ‘AA’ grade accredited facility.",
-      "pubDate": "Sun, 07 Dec 2025 15:33:03 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/devman?7246f0c6be07af227b26903d05ca141e",
-      "group": "Devman",
-      "victim": "wrapex",
-      "country": "CA"
     },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : naturmaelk",
@@ -2201,6 +2080,127 @@
       "group": "Incransom",
       "victim": "American Pools & Spas",
       "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Cleveland County Sheriff's Office",
+      "link": "https://www.ransomware.live/id/Q2xldmVsYW5kIENvdW50eSBTaGVyaWZmJ3MgT2ZmaWNlQHJoeXNpZGE=",
+      "summary": "Cleveland County Sheriff&#x27;s Office",
+      "pubDate": "Tue, 02 Dec 2025 09:02:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?21b893066d6c705e8b4be23ed4999f88",
+      "group": "Rhysida",
+      "victim": "Cleveland County Sheriff's Office",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Capital Star Oil & Gas Inc.",
+      "link": "https://www.ransomware.live/id/Q2FwaXRhbCBTdGFyIE9pbCAmIEdhcyBJbmMuQGRyYWdvbmZvcmNl",
+      "summary": "Capital Star Oil &amp; Gas, Inc. is a small independent oil &amp; gas company based in Houston, Texas. Most of drilling activities are financed through private placement investments for investors looking for tax benefits, including deductions for intangible drilling costs (IDC). Minimizing risk by using 3-D seismic and expert consultants before selecting prospects. Capital Star Oil &amp; Gas, Inc. was established in 2002.",
+      "pubDate": "Tue, 02 Dec 2025 07:59:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?16f67a410dfa9719b64510903dc95396",
+      "group": "Dragonforce",
+      "victim": "Capital Star Oil & Gas Inc.",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Mobilelink USA",
+      "link": "https://www.ransomware.live/id/TW9iaWxlbGluayBVU0FAZHJhZ29uZm9yY2U=",
+      "summary": "Mobilelink USA is a private Cricket Wireless company that deals in providing unlimited 5G LTE services and state of the art devices with an understanding of what keeps the customers loyal to a brand. As the largest Exclusive Retailer of Cricket, we focus on creating a customer experience that distinguishes us from others. We take pride in offering personal and professional services along with products that meet the needs of our valued clients. We operate with a high level of integrity and thrive on innovation that allows our customers to take advantage of a 5G LTE Network with no annual contract through 550+ retail locations across the USA. Mobilelink is becoming revered as the company of choice when purchasing all your wireless needs or when looking for a new venture with your device.",
+      "pubDate": "Tue, 02 Dec 2025 07:20:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?98ab119b5086a2c7ac4f09eccbc83bb5",
+      "group": "Dragonforce",
+      "victim": "Mobilelink USA",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Ciphbit has just published a new victim : Clínica Villa Zaita",
+      "link": "https://www.ransomware.live/id/Q2zDrW5pY2EgVmlsbGEgWmFpdGFAY2lwaGJpdA==",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Tue, 02 Dec 2025 01:11:16 +0000",
+      "category": "PA",
+      "guid": "https://www.ransomware.live/group/ciphbit?055025ae1e51840621b1289c45c21395",
+      "group": "Ciphbit",
+      "victim": "Clínica Villa Zaita",
+      "country": "PA"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : oxfordshop.com.au",
+      "link": "https://www.ransomware.live/id/b3hmb3Jkc2hvcC5jb20uYXVAaW5jcmFuc29t",
+      "summary": "Oxford Shop is an Australian brand specializing in a diverse range of men&#x27;s and women&#x27;s clothing, shoes, and accessories available online. Their product offerings include formal wear, casual attire, and an array of stylish accessories designed for both work and leisure. The company emphasizes quality, ethical trading, and modern fashion, catering to clients seeking stylish and functional wardrobe essentials. With a commitment to customer satisfaction, Oxford Shop also offers free shipping on domestic orders over $75\r Employees: 100\r Revenue: $5 Million\r Industry: Apparel &amp; Accessories Retail\r Phone Number: +61 293182211",
+      "pubDate": "Tue, 02 Dec 2025 00:28:36 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/incransom?42bb6033cc0e94ecd5de841ef64dea19",
+      "group": "Incransom",
+      "victim": "oxfordshop.com.au",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : University Loft",
+      "link": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBMb2Z0QHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Mon, 01 Dec 2025 20:08:31 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?e6e26ffbb64082ea7c265363fe9f902e",
+      "group": "Play",
+      "victim": "University Loft",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : PHA Body Systems",
+      "link": "https://www.ransomware.live/id/UEhBIEJvZHkgU3lzdGVtc0BwbGF5",
+      "summary": "South Korea",
+      "pubDate": "Mon, 01 Dec 2025 20:07:52 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/play?5f1e73795233948e05af9e87499e71df",
+      "group": "Play",
+      "victim": "PHA Body Systems",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : South Island Public Service District",
+      "link": "https://www.ransomware.live/id/U291dGggSXNsYW5kIFB1YmxpYyBTZXJ2aWNlIERpc3RyaWN0QHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Mon, 01 Dec 2025 20:07:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?4f2daf91e2117045cf7f4e895f0a936c",
+      "group": "Play",
+      "victim": "South Island Public Service District",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Industrial Steam",
+      "link": "https://www.ransomware.live/id/SW5kdXN0cmlhbCBTdGVhbUByYW5zb21ob3VzZQ==",
+      "summary": "Industrial Steam is a leading manufacturer specializing in pressurized and atmospheric deaerators, providing innovative solutions for the boiler industry since 1952. Their product line includes various types of deaerators, blowdown systems, condensate recovery units, and advanced feedwater systems. With a commitment to unmatched performance and customer satisfaction, they offer unique designs such as dual compartment systems along with established technologies.",
+      "pubDate": "Mon, 01 Dec 2025 18:15:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/ransomhouse?82c5ae0b2d9da6ed9aea3603206820b9",
+      "group": "Ransomhouse",
+      "victim": "Industrial Steam",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : San Miguel",
+      "link": "https://www.ransomware.live/id/U2FuIE1pZ3VlbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 18:14:38 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?352479e6fb646b868322146535328d35",
+      "group": "Qilin",
+      "victim": "San Miguel",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : France terre d'asile",
+      "link": "https://www.ransomware.live/id/RnJhbmNlIHRlcnJlIGQnYXNpbGVAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 01 Dec 2025 18:13:59 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?cdff508e5b75f02b1126acb8957018e5",
+      "group": "Qilin",
+      "victim": "France terre d'asile",
+      "country": "FR"
     }
   ]
 }
