@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-08T19:09:58.522Z",
+  "updatedAt": "2025-12-08T20:13:52.346Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : sandiegowarroom.com",
+      "link": "https://www.ransomware.live/id/c2FuZGllZ293YXJyb29tLmNvbUBpbmNyYW5zb20=",
+      "summary": "The Westin San Diego is a hospitality establishment that offers specialized meeting spaces known as War Rooms. These facilities feature executive-style conference seating, advanced technology, and secure environments designed for legal professionals and businesses. The venue provides state-of-the-art amenities to support strategic planning, operational performance, and collaborative events. With dedicated meeting spaces and personalized service, The Westin San Diego creates an optimal environment for professional gatherings, strategy sessions, and business collaborations in the hospitality sector.\r Employees: 50\r Revenue: $5 Million\r Industry: Hospitality \r Phone Number: (619) 338-3611",
+      "pubDate": "Mon, 08 Dec 2025 19:25:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?89e5fe4ad207d9620ef0a1506bc92c4b",
+      "group": "Incransom",
+      "victim": "sandiegowarroom.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Stormous has just published a new victim : www.goodmanmfg.com",
       "link": "https://www.ransomware.live/id/d3d3Lmdvb2RtYW5tZmcuY29tQHN0b3Jtb3Vz",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Saca Industrie SpA",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Oriental Castle Sdn Bhd",
-      "link": "https://www.ransomware.live/id/T3JpZW50YWwgQ2FzdGxlIFNkbiBCaGRAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Tue, 02 Dec 2025 17:39:23 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/qilin?44cc3be5b7283a014c4d8704ca117b27",
-      "group": "Qilin",
-      "victim": "Oriental Castle Sdn Bhd",
-      "country": "MY"
     }
   ]
 }
