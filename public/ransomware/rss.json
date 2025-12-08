@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-08T11:11:24.958Z",
+  "updatedAt": "2025-12-08T12:24:03.519Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Capo Brothers",
+      "link": "https://www.ransomware.live/id/Q2FwbyBCcm90aGVyc0BkcmFnb25mb3JjZQ==",
+      "summary": "Capo Brothers is a premier commercial truck dealer located in Ronkonkoma and West Babylon, specializing in the sales, service, and parts of Isuzu and Mitsubishi Fuso commercial trucks. They offer a wide selection of new and used medium duty and cabover trucks, as well as various truck bodies from trusted brands. Serving clients in New York, New Jersey, and Connecticut, Capo Brothers also provides truck rentals for both household and business needs. With a commitment to excellence, they have been recognized for exceeding high-quality standards in customer experience.",
+      "pubDate": "Mon, 08 Dec 2025 11:11:38 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?a5fe9b35f9b4dbbf6b19788691c15070",
+      "group": "Dragonforce",
+      "victim": "Capo Brothers",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : Comcast",
       "link": "https://www.ransomware.live/id/Q29tY2FzdEBzcGFjZWJlYXJz",
@@ -2190,17 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "Industrial Steam",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : San Miguel",
-      "link": "https://www.ransomware.live/id/U2FuIE1pZ3VlbEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 01 Dec 2025 18:14:38 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?352479e6fb646b868322146535328d35",
-      "group": "Qilin",
-      "victim": "San Miguel",
-      "country": ""
     }
   ]
 }
