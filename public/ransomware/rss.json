@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-12-08T14:13:01.723Z",
+  "updatedAt": "2025-12-08T15:14:08.193Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tengu has just published a new victim : https://www.revnomix.com",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cucmV2bm9taXguY29tQHRlbmd1",
+      "summary": "Revnomix - India Provides data analytics and revenue management services for hotels. Founded as a hospitality technology specialist, the company is dedicated to improving hotel performance through data-driven analytics solutions. The company is committed to quality, innovation, and customer satisfaction.",
+      "pubDate": "Mon, 08 Dec 2025 14:15:31 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/tengu?6237d088d11d5da951a261d9be59a7c3",
+      "group": "Tengu",
+      "victim": "https://www.revnomix.com",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : City of La Vergne",
+      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBMYSBWZXJnbmVAZHJhZ29uZm9yY2U=",
+      "summary": "The City of La Vergne provides essential services including police and fire departments, public library, and community events aimed at engaging and educating local residents. It focuses on community safety and development through various programs and activities, such as the Rape Aggression Defense training and the annual Fall Festival. The city also emphasizes recreational opportunities and public engagement through events like the Summer Safety Day and Howl at the Moon 5k. La Vergne serves its residents and visitors by fostering a vibrant community atmosphere and ensuring public safety.",
+      "pubDate": "Mon, 08 Dec 2025 13:43:19 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?49414b93a1145876967ae3b89b1916ab",
+      "group": "Dragonforce",
+      "victim": "City of La Vergne",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : VoiceTeam Call",
+      "link": "https://www.ransomware.live/id/Vm9pY2VUZWFtIENhbGxAZHJhZ29uZm9yY2U=",
+      "summary": "VoiceTeam is a leading nearshore provider of sales, customer service and back office support, headquartered in Santiago, Dominican Republic with operations in San Francisco, California. Our experienced workforce provides excellent customer service, high performance sales and detailed business processing support. Unlike outsourcers in India and the Philippines, here at VoiceTeam, we hire agents who previously lived in the US and have a deep knowledge of American culture. Quality, efficiency and execution are our main priorities. Our quality assurance team records 100% of all calls and chats from our sales and customer services teams. For our back office support and digital work, we provide two quality assurance checks on all projects. Our services include: • Customer Acquisition • Customer Service • Back Office Support • Digital Task Support \"VoiceTeam has proven time and again that they can meet the ever changing demands and challenges of clients across multiple industry verticals",
+      "pubDate": "Mon, 08 Dec 2025 13:42:45 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?272655390a85fd06e84aeca7707cd822",
+      "group": "Dragonforce",
+      "victim": "VoiceTeam Call",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Carbon Graphics Group",
+      "link": "https://www.ransomware.live/id/Q2FyYm9uIEdyYXBoaWNzIEdyb3VwQGFraXJh",
+      "summary": "Carbon Graphics Group provides a complete range of advanced visua l communications solutions leveraging the latest technology. We are ready to upload 35gb of corporate data. Detailed financial s, HR files, agreements and contracts, NDAs, etc.",
+      "pubDate": "Mon, 08 Dec 2025 13:37:07 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/akira?02c79a21d3815091141aff239b69d709",
+      "group": "Akira",
+      "victim": "Carbon Graphics Group",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Nickman, DHK Architects, Profondia, Talbot & Associates, Fishbowl Solutions.",
+      "link": "https://www.ransomware.live/id/Tmlja21hbiwgREhLIEFyY2hpdGVjdHMsIFByb2ZvbmRpYSwgVGFsYm90ICYgQXNzb2NpYXRlcywgRmlzaGJvd2wgU29sdXRpb25zLkBha2lyYQ==",
+      "summary": "We obtained about 24gb of data of the following companies: Nickman&#x27;s Drug is a chain of five locally-owned community pharmac ies located in Lemont and surrounding areas, dedicated to providi ng personalized, affordable pharmaceutical care. DHK Architects is an architecture and planning firm based in Bost on, with offices in New York City and San Juan, PR. Profondia provides up-to-date data on the use of ICT in the Swiss market. Talbot &amp; Associates CPA is a bilingual accounting firm based in M anitoba, recognized as one of the top three accounting firms in W innipeg. Fishbowl Solutions specializes in digital experience platforms, d ocument management, and employee engagement services designed for organizations seeking to streamline processes. You will find personal employee personal data, client information , numerous project files, accounting and financials and other int ernal operational files.",
+      "pubDate": "Mon, 08 Dec 2025 13:37:03 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?b5dd19454e038d704166ddbb1dfb2c05",
+      "group": "Akira",
+      "victim": "Nickman, DHK Architects, Profondia, Talbot & Associates, Fishbowl Solutions.",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Capo Brothers",
       "link": "https://www.ransomware.live/id/Q2FwbyBCcm90aGVyc0BkcmFnb25mb3JjZQ==",
@@ -2146,61 +2201,6 @@
       "group": "Ciphbit",
       "victim": "Clínica Villa Zaita",
       "country": "PA"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : oxfordshop.com.au",
-      "link": "https://www.ransomware.live/id/b3hmb3Jkc2hvcC5jb20uYXVAaW5jcmFuc29t",
-      "summary": "Oxford Shop is an Australian brand specializing in a diverse range of men&#x27;s and women&#x27;s clothing, shoes, and accessories available online. Their product offerings include formal wear, casual attire, and an array of stylish accessories designed for both work and leisure. The company emphasizes quality, ethical trading, and modern fashion, catering to clients seeking stylish and functional wardrobe essentials. With a commitment to customer satisfaction, Oxford Shop also offers free shipping on domestic orders over $75\r Employees: 100\r Revenue: $5 Million\r Industry: Apparel &amp; Accessories Retail\r Phone Number: +61 293182211",
-      "pubDate": "Tue, 02 Dec 2025 00:28:36 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/incransom?42bb6033cc0e94ecd5de841ef64dea19",
-      "group": "Incransom",
-      "victim": "oxfordshop.com.au",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : University Loft",
-      "link": "https://www.ransomware.live/id/VW5pdmVyc2l0eSBMb2Z0QHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Mon, 01 Dec 2025 20:08:31 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?e6e26ffbb64082ea7c265363fe9f902e",
-      "group": "Play",
-      "victim": "University Loft",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : PHA Body Systems",
-      "link": "https://www.ransomware.live/id/UEhBIEJvZHkgU3lzdGVtc0BwbGF5",
-      "summary": "South Korea",
-      "pubDate": "Mon, 01 Dec 2025 20:07:52 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/play?5f1e73795233948e05af9e87499e71df",
-      "group": "Play",
-      "victim": "PHA Body Systems",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : South Island Public Service District",
-      "link": "https://www.ransomware.live/id/U291dGggSXNsYW5kIFB1YmxpYyBTZXJ2aWNlIERpc3RyaWN0QHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Mon, 01 Dec 2025 20:07:13 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?4f2daf91e2117045cf7f4e895f0a936c",
-      "group": "Play",
-      "victim": "South Island Public Service District",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Industrial Steam",
-      "link": "https://www.ransomware.live/id/SW5kdXN0cmlhbCBTdGVhbUByYW5zb21ob3VzZQ==",
-      "summary": "Industrial Steam is a leading manufacturer specializing in pressurized and atmospheric deaerators, providing innovative solutions for the boiler industry since 1952. Their product line includes various types of deaerators, blowdown systems, condensate recovery units, and advanced feedwater systems. With a commitment to unmatched performance and customer satisfaction, they offer unique designs such as dual compartment systems along with established technologies.",
-      "pubDate": "Mon, 01 Dec 2025 18:15:38 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/ransomhouse?82c5ae0b2d9da6ed9aea3603206820b9",
-      "group": "Ransomhouse",
-      "victim": "Industrial Steam",
-      "country": "US"
     }
   ]
 }
