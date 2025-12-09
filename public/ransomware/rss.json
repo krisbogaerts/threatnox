@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-09T06:19:25.935Z",
+  "updatedAt": "2025-12-09T07:15:05.064Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Serratelli Hat",
+      "link": "https://www.ransomware.live/id/U2VycmF0ZWxsaSBIYXRAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 09 Dec 2025 06:47:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?5c28731d39375408d92d106378141ae5",
+      "group": "Qilin",
+      "victim": "Serratelli Hat",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cagayan Appliance Center",
+      "link": "https://www.ransomware.live/id/Q2FnYXlhbiBBcHBsaWFuY2UgQ2VudGVyQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 09 Dec 2025 06:47:21 +0000",
+      "category": "PH",
+      "guid": "https://www.ransomware.live/group/qilin?acd502d95d2e6c6853f6393bb7f903f2",
+      "group": "Qilin",
+      "victim": "Cagayan Appliance Center",
+      "country": "PH"
+    },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Acu Trans Solutions",
       "link": "https://www.ransomware.live/id/QWN1IFRyYW5zIFNvbHV0aW9uc0Bjb2luYmFzZWNhcnRlbA==",
@@ -2179,28 +2201,6 @@
       "group": "Benzona",
       "victim": "SUNNYGO.COM.TW",
       "country": "TW"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Custom Engineered Wheels",
-      "link": "https://www.ransomware.live/id/Q3VzdG9tIEVuZ2luZWVyZWQgV2hlZWxzQGFraXJh",
-      "summary": "CEW Inc. specializes in custom injection molding solutions, utili zing advanced technology to produce polyurethane foam products. T hey offer a diverse range of products, including industrial wheel s, medical mobility solutions, and components for bicycles and re creational vehicles. We are ready to upload 65gb of corporate data. Detailed employee  information (DOB, phones, addresses, documents scans and so on),  agreements and contracts, numerous, confidential files, financial s, client information, NDAs, etc.",
-      "pubDate": "Wed, 03 Dec 2025 15:12:41 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?b3c0cd81b61abc91e0bd7c504bd0b9fe",
-      "group": "Akira",
-      "victim": "Custom Engineered Wheels",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Building Controls and Services",
-      "link": "https://www.ransomware.live/id/QnVpbGRpbmcgQ29udHJvbHMgYW5kIFNlcnZpY2VzQGFraXJh",
-      "summary": "Building Controls and Services, Inc. (BCS) provides innovative bu ilding automation, mechanical equipment, and energy management so lutions aimed at creating efficient and comfortable environments  for facility owners and managers. We are ready to upload 12gb of corporate data. Detailed employee  information (DOB, DLs, SSNs, phones, addresses, documents scans a nd other docs of at least 212 employees), agreements and contract s, confidential files, detailed financials, client information, d isclosure agreements, etc.",
-      "pubDate": "Wed, 03 Dec 2025 15:12:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?974f6cd1be604856f6a56429e9176137",
-      "group": "Akira",
-      "victim": "Building Controls and Services",
-      "country": "US"
     }
   ]
 }
