@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-09T15:14:34.259Z",
+  "updatedAt": "2025-12-09T16:16:30.735Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Chastain & Associates",
+      "link": "https://www.ransomware.live/id/Q2hhc3RhaW4gJiBBc3NvY2lhdGVzQGFraXJh",
+      "summary": "Chastain is a professional consulting firm providing land surveyi ng, land planning and development, civil, water/wastewater, const ruction, structural engineering, and urban planning services. We are ready to upload more than 90gb of corporate data. HR files , detailed financials, confidential files, agreements and contrac ts, project, NDAs, etc.",
+      "pubDate": "Tue, 09 Dec 2025 14:48:08 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?58336f768ee536907b1cba5be897a8a9",
+      "group": "Akira",
+      "victim": "Chastain & Associates",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : grupopuma",
       "link": "https://www.ransomware.live/id/Z3J1cG9wdW1hQG5vdmE=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?edd1bc724302eda1986b496c5ada3e73",
       "group": "Qilin",
       "victim": "COTTAGE",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Providence Academy",
-      "link": "https://www.ransomware.live/id/UHJvdmlkZW5jZSBBY2FkZW15QGludGVybG9jaw==",
-      "summary": "Providence Academy was established as a private Christian school. The institution&#x27;s staff demonstrated a disregard for their own security and that of all their students. As a result, all student databases were accessed, revealing all personal information, including SSNs. The most unsafe and unsafe job was the Chief IT Director! This is simply nonsense! Numerous financial documents and confidential employee data were also leaked.",
-      "pubDate": "Wed, 03 Dec 2025 19:30:35 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/interlock?2878aeb94a9522a4e5a52f90be182589",
-      "group": "Interlock",
-      "victim": "Providence Academy",
       "country": ""
     }
   ]
