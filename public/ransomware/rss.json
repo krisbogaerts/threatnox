@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-09T16:16:30.735Z",
+  "updatedAt": "2025-12-09T17:13:29.836Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : GearGrid",
+      "link": "https://www.ransomware.live/id/R2VhckdyaWRAYWtpcmE=",
+      "summary": "GearGrid is a U.S.-based storage system and equipment manufacture r specializing in solutions for the fire and EMS, tactical, athle tic, and public works industries. We will upload 16gb of corporate data soon. HR files, client file s, financials, numerous project files, and so on.",
+      "pubDate": "Tue, 09 Dec 2025 16:18:37 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?8e90910907a5f9e3fd295a4cd760fd1a",
+      "group": "Akira",
+      "victim": "GearGrid",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Rodenburg Law Firm",
+      "link": "https://www.ransomware.live/id/Um9kZW5idXJnIExhdyBGaXJtQGFraXJh",
+      "summary": "The Rodenburg Law Firm represents collection agencies, commercial forwarders, lending institutions, auto and consumer finance comp anies, debt buyers, state colleges, health care organizations, an d other creditors in credit matters including consumer and commer cial collections. We are ready to upload more than 144gb of corporate data. Detaile d employee information (passports, driver licenses and other docs ), confidential legal files, court hearings, client information,  etc.",
+      "pubDate": "Tue, 09 Dec 2025 15:38:00 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?d65b98aa7bb0a3561b799daf91d37cf0",
+      "group": "Akira",
+      "victim": "Rodenburg Law Firm",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Chastain & Associates",
       "link": "https://www.ransomware.live/id/Q2hhc3RhaW4gJiBBc3NvY2lhdGVzQGFraXJh",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Gandía Palace Hotel",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Valley Eye Associates",
-      "link": "https://www.ransomware.live/id/VmFsbGV5IEV5ZSBBc3NvY2lhdGVzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 03 Dec 2025 20:13:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?8e47878d39cc3f0c3222f87f20f8cdbc",
-      "group": "Qilin",
-      "victim": "Valley Eye Associates",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : COTTAGE",
-      "link": "https://www.ransomware.live/id/Q09UVEFHRUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 03 Dec 2025 20:13:20 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?edd1bc724302eda1986b496c5ada3e73",
-      "group": "Qilin",
-      "victim": "COTTAGE",
-      "country": ""
     }
   ]
 }
