@@ -1,7 +1,117 @@
 {
-  "updatedAt": "2025-12-09T18:16:09.704Z",
+  "updatedAt": "2025-12-09T19:09:38.208Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Tupi",
+      "link": "https://www.ransomware.live/id/VHVwaUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 09 Dec 2025 18:40:27 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/qilin?6a8575751ab8a02f0ac552fc514c8533",
+      "group": "Qilin",
+      "victim": "Tupi",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Hexacon Construction",
+      "link": "https://www.ransomware.live/id/SGV4YWNvbiBDb25zdHJ1Y3Rpb25AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 09 Dec 2025 18:39:47 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?0155e3f7209527d6eb5bed8fccf7624e",
+      "group": "Qilin",
+      "victim": "Hexacon Construction",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : West Quay",
+      "link": "https://www.ransomware.live/id/V2VzdCBRdWF5QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 09 Dec 2025 18:39:07 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?d663458f3db86694514cdfda583fbedd",
+      "group": "Qilin",
+      "victim": "West Quay",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : TopDest",
+      "link": "https://www.ransomware.live/id/VG9wRGVzdEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 09 Dec 2025 18:38:26 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?f9564f85eaf06c04ff8f1573aff841a3",
+      "group": "Qilin",
+      "victim": "TopDest",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Dill Dill Carr Stonbraker & Hutchings.",
+      "link": "https://www.ransomware.live/id/RGlsbCBEaWxsIENhcnIgU3RvbmJyYWtlciAmIEh1dGNoaW5ncy5AZ2VuZXNpcw==",
+      "summary": "A lawyer firm from Denver, USA.",
+      "pubDate": "Tue, 09 Dec 2025 18:19:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?345d63f8ef96fbe26034120d27838cf6",
+      "group": "Genesis",
+      "victim": "Dill Dill Carr Stonbraker & Hutchings.",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Sunair Electronics and Circuitronix.",
+      "link": "https://www.ransomware.live/id/U3VuYWlyIEVsZWN0cm9uaWNzIGFuZCBDaXJjdWl0cm9uaXguQGdlbmVzaXM=",
+      "summary": "Companies specialize in the manufacture of high-frequency communication products and printed circuit boards.",
+      "pubDate": "Tue, 09 Dec 2025 18:19:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?6b5ec168f1d838ab2118a8a141596c85",
+      "group": "Genesis",
+      "victim": "Sunair Electronics and Circuitronix.",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Abacus Employment Services.",
+      "link": "https://www.ransomware.live/id/QWJhY3VzIEVtcGxveW1lbnQgU2VydmljZXMuQGdlbmVzaXM=",
+      "summary": "A staffing company from UK.",
+      "pubDate": "Tue, 09 Dec 2025 18:18:37 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/genesis?6b34983ab6462f0002c6f3d2c18697cd",
+      "group": "Genesis",
+      "victim": "Abacus Employment Services.",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : Village Santé Saint Joseph Hospital",
+      "link": "https://www.ransomware.live/id/VmlsbGFnZSBTYW50w6kgU2FpbnQgSm9zZXBoIEhvc3BpdGFsQGRldm1hbg==",
+      "summary": "patient data",
+      "pubDate": "Tue, 09 Dec 2025 18:16:54 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/devman?8bf46552e6392f61f95f5bd24a3c80e5",
+      "group": "Devman",
+      "victim": "Village Santé Saint Joseph Hospital",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : fassic.org",
+      "link": "https://www.ransomware.live/id/ZmFzc2ljLm9yZ0BkZXZtYW4=",
+      "summary": "Financial Records, Med cards, Hr documents",
+      "pubDate": "Tue, 09 Dec 2025 18:16:04 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/devman?e4c861fa77e09984431200f0bd3e5f68",
+      "group": "Devman",
+      "victim": "fassic.org",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : Inter care",
+      "link": "https://www.ransomware.live/id/SW50ZXIgY2FyZUBkZXZtYW4=",
+      "summary": "Full quickbooks dump, patients data, and financial data",
+      "pubDate": "Tue, 09 Dec 2025 18:15:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?9abb6c56c9907a6b3c8a580278b934ab",
+      "group": "Devman",
+      "victim": "Inter care",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : EXPERTISE MOBSIGN",
       "link": "https://www.ransomware.live/id/RVhQRVJUSVNFIE1PQlNJR05Ac3BhY2ViZWFycw==",
@@ -2091,116 +2201,6 @@
       "group": "Qilin",
       "victim": "Espaço Casa",
       "country": "PT"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : The Minor Firm",
-      "link": "https://www.ransomware.live/id/VGhlIE1pbm9yIEZpcm1AYWtpcmE=",
-      "summary": "The Minor Firm is a premier law firm located in Northwest Georgia , established for over 40 years. They specialize in complex legal matters, providing superior representation to individual and bus iness clients in areas such as Health Care Law, Human Resources L aw, Municipal &amp; Utility Law, Real Estate Transactions, and Estate Planning. We are ready to upload 63gb of corporate data. Client and employe e personal information (Passports, DLs, phones, addresses and so  on), court confidential documents, police reports with photos and other legal files, financials and so on.",
-      "pubDate": "Thu, 04 Dec 2025 14:48:21 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?0cf41ea3799a4504c2f826c551102b3b",
-      "group": "Akira",
-      "victim": "The Minor Firm",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : McManes Law",
-      "link": "https://www.ransomware.live/id/TWNNYW5lcyBMYXdAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 13:19:28 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?c345a1603cb38db4cf9423e40cde9c83",
-      "group": "Qilin",
-      "victim": "McManes Law",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Institutional & Supermarket Equipment",
-      "link": "https://www.ransomware.live/id/SW5zdGl0dXRpb25hbCAmIFN1cGVybWFya2V0IEVxdWlwbWVudEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 13:18:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?c7332131d92b7853447ef24437c37a06",
-      "group": "Qilin",
-      "victim": "Institutional & Supermarket Equipment",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Peter Meijer Architect",
-      "link": "https://www.ransomware.live/id/UGV0ZXIgTWVpamVyIEFyY2hpdGVjdEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 13:18:14 +0000",
-      "category": "NL",
-      "guid": "https://www.ransomware.live/group/qilin?70a77e2ad46bfe54a3d714bcc9656690",
-      "group": "Qilin",
-      "victim": "Peter Meijer Architect",
-      "country": "NL"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Maset",
-      "link": "https://www.ransomware.live/id/TWFzZXRAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 13:17:37 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?4656172903e06c0dc40daa225526a847",
-      "group": "Qilin",
-      "victim": "Maset",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : sspinnovations.com",
-      "link": "https://www.ransomware.live/id/c3NwaW5ub3ZhdGlvbnMuY29tQGx5bng=",
-      "summary": "At SSP Innovations, we help utility, pipeline, and telecommunications organizations maximize return on the systems and software theyve already invested in. With over 800 years of collective experience, our team of domain experts listens to the business challenges at hand to understand a projects complexities, and then develops the particular solution that allows each organization to run a safe and secured operation 24 hours a day, seven days a week.",
-      "pubDate": "Thu, 04 Dec 2025 12:01:28 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?98ed9d7a3d60389a3ab559d77bd7ffda",
-      "group": "Lynx",
-      "victim": "sspinnovations.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Pioneer Ocean Freight Co., Ltd.",
-      "link": "https://www.ransomware.live/id/UGlvbmVlciBPY2VhbiBGcmVpZ2h0IENvLiwgTHRkLkBuaWdodHNwaXJl",
-      "summary": "Pioneer Ocean Freight Co., Ltd.",
-      "pubDate": "Thu, 04 Dec 2025 10:13:41 +0000",
-      "category": "HK",
-      "guid": "https://www.ransomware.live/group/nightspire?5da85dc03a4f1cce3c20cf1f0db2db36",
-      "group": "Nightspire",
-      "victim": "Pioneer Ocean Freight Co., Ltd.",
-      "country": "HK"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Yellow Cab of Columbus",
-      "link": "https://www.ransomware.live/id/WWVsbG93IENhYiBvZiBDb2x1bWJ1c0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 07:15:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?902682f117250ce6a5849aa9b7ef86b9",
-      "group": "Qilin",
-      "victim": "Yellow Cab of Columbus",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : Quasar Inc",
-      "link": "https://www.ransomware.live/id/UXVhc2FyIEluY0BzcGFjZWJlYXJz",
-      "summary": "Quasar, Inc. specializes in high-quality design, implementation support, and related services tailored for the telecommunications industry. Since 1997, the company has set a benchmark with efficient and cost-effective network designs implemented across five continents and over 100 cities. Their offerings include plant network system designs, field services for strand work, and consulting to enhance operators&#x27; competitiveness. Additionally, Quasar provides complimentary services such as training and troubleshooting support to adapt to the evolving needs of the industry.Network projects, drawingsDetailed drawings of many cities with communications designsVarious information https://www.quasar.us",
-      "pubDate": "Thu, 04 Dec 2025 04:58:16 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/spacebears?69922ca1ae420ea8724af7874252d0f4",
-      "group": "Spacebears",
-      "victim": "Quasar Inc",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Atenção Primária à Saúde Brazil",
-      "link": "https://www.ransomware.live/id/QXRlbsOnw6NvIFByaW3DoXJpYSDDoCBTYcO6ZGUgQnJhemlsQG5vdmE=",
-      "summary": "Atenção Primária à Saúde is system provided by Ministério da Saúde of brazil, we have exf all sql files (100GB of SQL files) from them systems and clouds, millions of patients records, 50M> records lines, samples will be provided to company when its contact, the goal system https://esusbelacruz.fixtecnologia.com.br/",
-      "pubDate": "Thu, 04 Dec 2025 01:53:41 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/nova?f640e156e8cf73bb2c27a9f678d8b7fa",
-      "group": "Nova",
-      "victim": "Atenção Primária à Saúde Brazil",
-      "country": "BR"
     }
   ]
 }
