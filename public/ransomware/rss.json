@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-09T21:10:24.132Z",
+  "updatedAt": "2025-12-09T22:12:52.812Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : CPS",
+      "link": "https://www.ransomware.live/id/Q1BTQHNpbm9iaQ==",
+      "summary": "CPS, Ltd. is a full-service engineering firm based in Grand Forks, ND, specializing in municipal engineering, transportation, water resources, solid waste management, and construction engineering. Established in 1979, the company aims to provide innovative, technically sound designs tailored to meet the unique needs of clients in communities, companies, and governmental agencies across North Dakota and northwest Minnesota. Their services also include land planning and surveying, ensuring accurate data and documentation for a variety of projects. CPS, Ltd. is committed to leveraging its experience and expertise to support clients in achieving successful project outcomes.",
+      "pubDate": "Tue, 09 Dec 2025 21:49:33 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?4da1d530768b1472b36b86e6665e70fe",
+      "group": "Sinobi",
+      "victim": "CPS",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : James Free Jewelers",
       "link": "https://www.ransomware.live/id/SmFtZXMgRnJlZSBKZXdlbGVyc0BzaW5vYmk=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?7437cd5fc14c6e9bfba67af455ff3184",
       "group": "Qilin",
       "victim": "Medisend",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : ABC Home & Commercial Services",
-      "link": "https://www.ransomware.live/id/QUJDIEhvbWUgJiBDb21tZXJjaWFsIFNlcnZpY2VzQGFraXJh",
-      "summary": "ABC Home &amp; Commercial Services is a provider of home and commerci al pest control, air conditioning, heating, lawn care and more. We are ready to upload 24gb of corporate data. Employee personal  information (passports, DLs, phones, addresses, medical informati on and so on), financials, contracts and agreements, confidential files and so on.",
-      "pubDate": "Thu, 04 Dec 2025 15:39:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9f31830491bad25707864d3bc06ecc69",
-      "group": "Akira",
-      "victim": "ABC Home & Commercial Services",
       "country": "US"
     }
   ]
