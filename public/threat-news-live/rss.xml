@@ -22,13 +22,592 @@ DeepChat is an open-source AI chat platform that supports cloud models and LLMs.
  9.6 | CRITICAL
 
 Visit the link for more details, such as CVSS details, affected products, timeline, and more...
-]]></content:encoded></item><item><title>Learning cloud exploits for redteam, alternative to SANS588 GCPN</title><link>https://www.sans.org/cyber-security-courses/cloud-penetration-testing</link><author>/u/EnoughAd1957</author><category>netsec</category><pubDate>Tue, 9 Dec 2025 01:11:39 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[SEC588 is a specialized course that focuses on penetration testing in Cloud environments. The course itself is part of both the Offensive Operations and Cloud Curricula. It equips Penetration Testers, Red Team Operators, Cloud Practitioners, Cloud Architects, and those involved in incident response with the tools to assess and operate in various cloud environments. The course features AWS, Azure, Microsoft 365, and Kubernetes to provide students with hands-on experience across the broadest range of environments, ensuring comprehensive coverage. Apply offense and defense capabilities in the cloud immediately.]]></content:encoded></item><item><title>CVE-2025-65964 - n8n Vulnerable to Remote Code Execution via Git Node Custom Pre-Commit Hook</title><link>https://cvefeed.io/vuln/detail/CVE-2025-65964</link><author></author><category>vulns</category><pubDate>Tue, 9 Dec 2025 00:15:48 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-65964
+]]></content:encoded></item><item><title>Learning cloud exploits for redteam, alternative to SANS588 GCPN</title><link>https://www.sans.org/cyber-security-courses/cloud-penetration-testing</link><author>/u/EnoughAd1957</author><category>netsec</category><pubDate>Tue, 9 Dec 2025 01:11:39 +0000</pubDate><source url="https://www.reddit.com/r/netsec/top/?t=week">Reddit - NetSec</source><content:encoded><![CDATA[SEC588 is a specialized course that focuses on penetration testing in Cloud environments. The course itself is part of both the Offensive Operations and Cloud Curricula. It equips Penetration Testers, Red Team Operators, Cloud Practitioners, Cloud Architects, and those involved in incident response with the tools to assess and operate in various cloud environments. The course features AWS, Azure, Microsoft 365, and Kubernetes to provide students with hands-on experience across the broadest range of environments, ensuring comprehensive coverage. Apply offense and defense capabilities in the cloud immediately.]]></content:encoded></item><item><title>CISA Adds Array Networks and D-Link Vulnerabilities to KEV Catalog</title><link>https://thecyberthrone.in/2025/12/09/cisa-adds-array-networks-and-d-link-vulnerabilities-to-kev-catalog/</link><author></author><category>security</category><pubDate>Tue, 9 Dec 2025 00:59:55 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
+            December 9, 2025CISA has recently added critical vulnerabilities from Array Networks ArrayOS AG VPN devices and D-Link routers to its Known Exploited Vulnerabilities (KEV) catalog, signaling active re ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>CVE-2025-65964 - n8n Vulnerable to Remote Code Execution via Git Node Custom Pre-Commit Hook</title><link>https://cvefeed.io/vuln/detail/CVE-2025-65964</link><author></author><category>vulns</category><pubDate>Tue, 9 Dec 2025 00:15:48 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-65964
  Dec. 9, 2025, 12:15 a.m. | 2 hours, 32 minutes ago
 n8n is an open source workflow automation platform. Versions 0.123.1 through 1.119.1 do not have adequate protections to prevent RCE through the project's pre-commit hooks. The Add Config operation allows workflows to set arbitrary Git configuration values, including core.hooksPath, which can point to a malicious Git hook that executes arbitrary commands on the n8n host during subsequent Git operations. Exploitation requires the ability to create or modify an n8n workflow using the Git node. This issue is fixed in version 1.119.2. Workarounds include excluding the Git Node (Docs) and avoiding cloning or interacting with untrusted repositories using the Git Node.
  9.4 | CRITICAL
 
 Visit the link for more details, such as CVSS details, affected products, timeline, and more...
-]]></content:encoded></item><item><title>Ransomware gangs turn to Shanya EXE packer to hide EDR killers</title><link>https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/</link><author>Bill Toulas</author><category>security</category><pubDate>Tue, 9 Dec 2025 00:00:05 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Several ransomware groups have been spotted using a packer-as-a-service (PaaS) platform named Shanya to assist in EDR (endpoint detection and response) killing operations. [...]]]></content:encoded></item><item><title>Malicious VSCode extensions on Microsoft&apos;s registry drop infostealers</title><link>https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/</link><author>Bill Toulas</author><category>security</category><pubDate>Mon, 8 Dec 2025 22:30:19 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Two malicious extensions on Microsoft's Visual Studio Code Marketplace infect developers' machines with information-stealing malware that can take screenshots, steal credentials, and hijack browser sessions. [...]]]></content:encoded></item><item><title>FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024</title><link>https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/</link><author>Lawrence Abrams</author><category>security</category><pubDate>Mon, 8 Dec 2025 21:07:30 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[A new report by the Financial Crimes Enforcement Network (FinCEN) shows that ransomware activity peaked in 2023 before falling in 2024, following a series of law enforcement actions targeting the ALPHV/BlackCat and LockBit ransomware gangs. [...]]]></content:encoded></item><item><title>Inmate Hacks Prison: Watches P***, Prints Money, Reduces Sentence</title><link>https://www.youtube.com/watch?v=-xCp7nag3GM</link><author>Seytonic</author><category>security</category><enclosure url="https://www.youtube.com/v/-xCp7nag3GM?version=3" length="" type=""/><pubDate>Mon, 8 Dec 2025 20:39:30 +0000</pubDate><source url="https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA">Seytonic</source><content:encoded><![CDATA[0:00 Intro
+]]></content:encoded></item><item><title>Ransomware gangs turn to Shanya EXE packer to hide EDR killers</title><link>https://www.bleepingcomputer.com/news/security/ransomware-gangs-turn-to-shanya-exe-packer-to-hide-edr-killers/</link><author>Bill Toulas</author><category>security</category><pubDate>Tue, 9 Dec 2025 00:00:05 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Several ransomware groups have been spotted using a packer-as-a-service (PaaS) platform named Shanya to assist in EDR (endpoint detection and response) killing operations. [...]]]></content:encoded></item><item><title>GrayBravo’s CastleLoader Activity Clusters Target Multiple Industries</title><link>https://www.recordedfuture.com/research/graybravos-castleloader-activity-clusters-target-multiple-industries</link><author></author><category>threatintel</category><enclosure url="https://www.recordedfuture.com/research/media_171fa690104f0a5274fe66bfe605332a13a3fc906.gif?width=1200&amp;format=pjpg&amp;optimize=medium" length="" type=""/><pubDate>Tue, 9 Dec 2025 00:00:00 +0000</pubDate><source url="https://www.recordedfuture.com/">Recorded Future</source><content:encoded><![CDATA[Note: The analysis cut-off date for this report was November 10, 2025Insikt Group continues to monitor GrayBravo (formerly tracked as TAG-150), a technically sophisticated and rapidly evolving threat actor first identified in September 2025. GrayBravo demonstrates strong adaptability, responsiveness to public exposure, and operates a large-scale, multi-layered infrastructure. Recent analysis of GrayBravo’s ecosystem uncovered four distinct activity clusters leveraging the group’s CastleLoader malware, each defined by unique tactics, techniques, and victim profiles. These findings reinforce the assessment that GrayBravo operates a malware-as-a-service (MaaS) model.For example, one cluster, tracked as TAG-160, impersonates global logistics firms, using phishing lures and the ClickFix technique to distribute CastleLoader while spoofing legitimate emails and exploiting freight-matching platforms to target victims. Another cluster, tracked as TAG-161, impersonates Booking.com, also employing ClickFix to deliver CastleLoader and Matanbuchus and novel phishing email management tools. Further investigation through historical panel analysis linked the online persona “Sparja”, a user active on Exploit Forums, to potential GrayBravo-associated activities, based on the alias’s distinctiveness and related discussion topics.To protect against GrayBravo, security defenders should block IP addresses and domains tied to associated loaders, infostealers, and remote access trojans (RATs), flag and potentially block connections to unusual legitimate internet services (LISs) such as Pastebin, and deploy updated detection rules (YARA, Snort, Sigma) for current and historical infections. Other controls include implementing email filtering and data exfiltration monitoring. See the  section for implementation guidance and  for a complete list of indicators of compromise (IoCs).Insikt Group uncovered four distinct activity clusters leveraging GrayBravo’s CastleLoader, each exhibiting unique tactics, techniques, and procedures (TTPs) and victim profiles, reinforcing the assessment that GrayBravo operates a malware-as-a-service (MaaS) ecosystem, as previously hypothesized.One cluster, tracked as TAG-160, impersonates logistics firms and deploys phishing lures combined with the ClickFix technique to distribute CastleLoader, while spoofing legitimate emails and abusing freight-matching platforms to engage targets.Cluster 2, tracked as TAG-161, impersonates Booking.com and uses ClickFix techniques to deliver CastleLoader and Matanbuchus, relying on threat actor-controlled infrastructure and employing previously unseen phishing email management tooling.In September 2025, Insikt Group reported on a newly identified threat actor, TAG-150, assessed to have been active since at least March 2025. Since our previous reporting, we have decided to classify TAG-150 as GrayBravo. It is believed to be responsible for developing multiple custom malware families, beginning with CastleLoader and CastleBot, and most recently, CastleRAT. It is characterized by rapid development cycles, technical sophistication, responsiveness to public reporting, and an expansive, evolving infrastructure. Alongside the discovery of the previously undocumented remote access trojan CastleRAT, Insikt Group identified GrayBravo’s multi-tiered infrastructure and its use of various supporting services, including file-sharing platforms and anti-detection tools.Although public reporting has suggested that GrayBravo operates under a malware-as-a-service (MaaS) model, supported by its delivery of diverse second-stage payloads, the proliferation of CastleLoader administration panels, and features typical of MaaS platforms, Insikt Group has not identified any advertisements or discussions of this service on underground forums. Recorded Future® Network Intelligence indicates that GrayBravo predominantly interacts with its own infrastructure, with only a limited number of external IP addresses, possibly representing customers or affiliates, observed communicating with it. Many of these connections are routed through Tor nodes, complicating attribution and classification.Through continued monitoring, Insikt Group has identified multiple clusters of activity linked to GrayBravo, reinforcing the assessment that the threat actor is operating a MaaS ecosystem (see ). This report details the tactics, techniques, and procedures (TTPs) associated with these clusters, believed to represent potential GrayBravo customers or affiliates. More specifically, Insikt Group identified four clusters linked to GrayBravo’s CastleLoader activity: one targeting the logistics sector (TAG-160), another using Booking.com-themed lures across a wider range of victims (TAG-161), a third also impersonating Booking.com but independent from the previous group, and a fourth distributing CastleLoader through malvertising and fake software updates.: Overview of GrayBravo and associated clusters (Source: Recorded Future)Higher Tier InfrastructureInsikt Group previously identified an extensive, multi-tiered infrastructure tied to GrayBravo. The infrastructure consists of Tier 1 victim-facing C2 servers associated with malware families such as CastleLoader, SecTopRAT, WarmCookie, and the newly discovered CastleRAT, as well as Tier 2, Tier 3, and Tier 4 servers, the latter of which are likely used for backup purposes.  provides an overview of the infrastructure used by GrayBravo.: Multi-tiered infrastructure linked to GrayBravo (Source: Recorded Future)CastleRAT is a remote access trojan (RAT) observed in both C and Python variants that share several core characteristics. Each variant communicates through a custom binary protocol secured with RC4 encryption and hard-coded sixteen-byte keys. Upon execution, CastleRAT queries a geolocation application programming interface (API) using  to obtain victim geographic location and network details. Both variants support remote command execution, file download and execution, and establish an interactive remote shell. The C variant exhibits additional capabilities, including browser credential theft, keylogging, and screen capture functionality.Analysis of CastleRAT C-variant command-and-control (C2) infrastructure reveals notable operational overlap across multiple nodes sharing the RC4 key “NanuchkaUpyachka.” As illustrated in , Insikt Group observed two CastleRAT C2 servers,  and , maintain concurrent communications with at least three US-based victims, suggesting coordinated or redundant control channels. The overlapping traffic patterns, observed within the same daily collection windows, indicate that compromised hosts reached out to multiple C2s nearly simultaneously rather than migrating between them over time. This behavior implies a deliberate redundancy strategy employed by the threat actor. Additionally, direct communications between two CastleRAT C variants,  and , further point to an interconnected infrastructure ecosystem rather than isolated C2 instances. Such internal connectivity could facilitate automated data synchronization, lateral control distribution, or key exchange mechanisms within the threat actor’s tooling, underscoring a more mature coordinated operational model than previously documented.: Victim communication with multiple CastleRAT C2 servers simultaneously (Source: Recorded Future)Notably, some CastleRAT samples exhibit behavior distinct from other observed variants by incorporating an elaborate handshake sequence and redundancy in their C2 communications. In these cases, the client’s initial request to the C2 server (for example, ) ends with the bytes  instead of the usual , and the server responds with trailing bytes  before closing the connection. A similar exchange occurs with , after which the client reconnects to the first C2, transmitting only an encrypted sixteen-byte RC4 key and receiving trailing bytes  in response. The client then repeats this process with the second C2, sending  and receiving only the encrypted sixteen-byte RC4 key in return. This pattern suggests the use of additional handshake stages and dual-C2 redundancy mechanisms not seen in all CastleRAT samples.Analysis of CastleRAT infrastructure identified multiple clusters of IP addresses grouped by hard-coded RC4 encryption keys (see ). While each RC4 key forms a distinct cluster, all clusters exhibit some degree of overlap through shared keys, suggesting a deliberate or coordinated relationship rather than a coincidental overlap. This interconnected structure suggests a shared tooling or deployment framework underpinning both CastleRAT and CastleLoader operations. Although this does not conclusively establish single-threat actor control, the degree overlap implies a common developer or operator ecosystem rather than independent, uncoordinated usage of the malware.Insikt Group identified additional C2 infrastructure associated with CastleLoader. The related domains and IP addresses are listed in . Notably, several domains share the same WHOIS start of authority (SOA) email address, indicating they were likely registered by the same threat actor.Notably, the domain  is linked to several other domains listed in , which are likely used for malicious activity, including impersonation of legitimate brands such as DocuSign, Norton, and TradingView. Additionally, at least one of these domains, , has been identified as a LummaC2 C2 server.Insikt Group identified four distinct clusters of activity associated with the deployment of CastleLoader (see ). The first cluster, tracked as TAG-160, appears to be highly targeted toward the logistics sector, employing techniques specifically tailored to this industry. In contrast, the second cluster, tracked as TAG-161, exhibits a broader targeting scope and leverages Booking.com-themed lures. The third cluster likewise impersonates Booking.com but shows no overlap with TAG-161. The fourth cluster relies on malvertising campaigns and fake software update mechanisms.Based on Insikt Group’s assessment, these clusters are associated with distinct users deploying CastleLoader, as no overlap in infrastructure or tactics was observed between them. At this stage, the exact nature of the relationship between these users and GrayBravo (formerly tracked as TAG-150) remains unclear. Insikt Group further assesses that additional CastleLoader users are likely active, supported by proprietary Recorded Future intelligence and the large number of identified panels, which collectively suggest a broader user base.Cluster 1: Logistics Sector-Focused Activity Tracked as TAG-160Cluster 1, tracked as TAG-160, has been active since at least March 2025 and remains operational at the time of analysis. TAG-160 employs infrastructure that impersonates logistics companies and leverages logistics-themed phishing lures, among other tactics. It uses ClickFix techniques to deliver CastleLoader, among additional payloads. Evidence suggests the cluster operates a mix of threat actor-controlled and -compromised infrastructure. Additionally, it has been observed exploiting vulnerabilities in target organizations’ systems, such as spoofing legitimate email senders from logistics companies to enhance the credibility of its phishing campaigns. In addition, Cluster 1 uses access to the legitimate freight-matching platforms DAT Freight & Analytics and Loadlink Technologies for multiple purposes.Cluster 1 employs spearphishing campaigns in combination with ClickFix techniques to compromise victims.  illustrates a high-level overview of the phishing attack flow.: ClickFix attack flow used by TAG-160 (Source: Recorded Future)The attack chain typically begins with either a spoofed legitimate email address (for example, no-reply[@]englandlogistics[.]com) or a threat actor-controlled address associated with a typosquatted domain (for example, ), impersonating companies such as England Logistics. Historically, such emails have been sent to US-based carriers, presenting fraudulent freight quotes that appear to originate from England Logistics. However, other organizations likely to be influenced by logistics-themed lures cannot be ruled out as potential targets.The emails prompt recipients to click a link to view a supposed rate confirmation for a shipment, instructing them to copy and paste the link into a browser if it does not open directly. The threat actors often add a sense of urgency, warning that the link will soon expire. Clicking the link leads victims to a landing page designed to harvest information (see ). Insikt Group has observed multiple variations of these landing pages.: “dpeforms” lure used by TAG-160 (Source: Recorded Future)Notably, although Insikt Group was unable to retrieve the landing page associated with another Cluster 1–linked domain, , indexed Google search results indicate that the domain likely hosted the same or a similar page as observed in . DPE likely stands for “Direct Port Entry,” which is a system designed for exporters, allowing goods to be directly moved from their premises to the port and loaded onto the vessel for export without being transferred to a container freight station.: “dpeforms” page found in Google Search (Source: Recorded Future)After submitting their information, the victim is presented with ClickFix-style instructions, guiding them through a series of steps purportedly required to complete a document signing process (see ). By incorporating the DocuSign logo, the threat actors likely aim to enhance the perceived legitimacy of the page and further deceive the victim.: DocuSign-themed ClickFix used by TAG-160 (Source: Recorded Future)By following the instructions shown in , the victim unknowingly executes the command illustrated in . This command runs silently in the background, downloads and extracts a payload archive from a remote IP address, executes a Python-based malware using , and displays a decoy message to appear legitimate. Observed payloads delivered through this method include CastleLoader, HijackLoader, Rhadamanthys, and zgRAT.: ClickFix command (Source: Recorded Future)Use of Compromised InfrastructureAs part of TAG-160’s phishing infrastructure, the threat actors appear to rely not only on spoofed email addresses, as previously described, but also on compromised systems. Insikt Group has observed indications that the threat actors likely leveraged compromised infrastructure to send phishing emails. For example, at least one domain used to distribute phishing messages contained malware logs from infostealers such as LummaC2, including stolen credentials for a Namecheap account.Insikt Group identified a large number of domains and IP addresses associated with Cluster 1, all of which either impersonate logistics companies or align with logistics-themed phishing lures (see ). Notably, the majority of these domains include the subdomain  (for example, apps[.]englandlogistics[.]rateconfirmations[.]com), suggesting they were likely designed to impersonate England Logistics, as outlined in the previous section. One domain, , instead featured the subdomain , following a similar naming pattern.Insikt Group identified the subdomain files[.]loadstracking[.]com, hosted on the IP address  between July 6 and September 26, 2025, which was serving the file  (SHA256: d87ccd5a2911e46a1efbc0ef0cfe095f136de98df055eacd1c82de76ae6fecec). The ZIP folder contained a legitimate WinGup executable for Notepad++ that sideloaded a malicious libcurl.dll identified as DonutLoader. This loader subsequently retrieved three intermediate payloads from the legitimate subdomain files-accl[.]zohoexternal[.]com.Domain Re-Registration TacticSimilarly, Insikt Group assesses that to further enhance the perceived legitimacy of their infrastructure, the threat actor deliberately re-registered domains previously associated with legitimate logistics companies, in addition to using typosquatted domains.  provides two examples of this activity.: Re-registration of logistics-themed domains (Source: Recorded Future)Notably, the domain cdlfreightlogistics[.]com appears to have previously hosted a website associated with the legitimate company CDL Freight Logistics, Inc. in 2023. Similarly, the domain hometownlogisticsllc[.]com hosted a website for Hometown Logistics LLC in 2021 (see ).: Registration of domains previously owned by legitimate logistics companies (Source: Recorded Future)Public Complaints and Suspected Access to DAT and LoadlinkSome of the domains listed in the  section have been publicly referenced in connection with suspicious or fraudulent activity. For example, the email address david[@]cdlfreightlogistics[.]com, associated with the domain cdlfreightlogistics[.]com, first appeared on August 26, 2025, in a public Telegram channel named “current_hot_loads”, a forum used by individuals and companies in the logistics industry to share information such as market rates. In that instance, a user asked other members whether an email was legitimate (see ). Several respondents indicated they did not believe it to be legitimate.Example phishing email sent by TAG-160 (Source: Recorded Future)While Insikt Group was unable to obtain additional details about the email exchange linked to the email posted in the channel, the available text suggests that the threat actor initially contacted potential victims without including malicious content, likely aiming to establish rapport before sending follow-up messages containing malicious links.In another instance, Insikt Group identified a post from an employee of a legitimate logistics company based in Rhode Island, USA, describing an incident in which a threat actor created accounts impersonating their company on DAT Freight & Analytics () and Loadlink Technologies (), both platforms operating in the freight matching industry (see ). The fraudulent registrations used fake company information, including the email address , which is associated with Cluster 1–linked infrastructure. Notably, in line with Cluster 1’s typical patterns, the email addresses used in these operations often consist of only a first name (for example, Paul). The employee reported having contacted both DAT and Loadlink to alert them to the fraudulent activity.: Complaint on Facebook written by an individual targeted by TAG-160 (Source: Recorded Future)Based on a confirmation email from one of the platforms’ abuse reporting teams, which the employee shared on Facebook as well, it appears that the threat actor was also using a Gmail address impersonating their company, maritza[.]rmlogisticsol[@]gmail[.]com (see ).: Email shared by an individual targeted by TAG-160 (Source: Recorded Future)Threat actors associated with Cluster 1 appear to have access to fraudulent DAT and Loadlink accounts, as evidenced by a user report of fraudulent activity on Facebook (see ) and further supported by additional profiles identified by Insikt Group (see ). Furthermore, Insikt Group assesses that the threat actors may also have access to compromised legitimate accounts, given the substantial volume of stolen credentials associated with the domains  and  observed in Recorded Future Identity Intelligence.: Account information linked to TAG-160 (Source: Recorded Future)Access to platforms like DAT Freight & Analytics and Loadlink Technologies not only enables the threat actors to enhance the appearance of legitimacy, allowing them to maintain plausible profiles should potential victims attempt verification, but also provides opportunities to gather contact information for prospective targets and obtain additional contextual data, such as details on specific loads, dates and times, documents, or related materials, which can then be repurposed as spearphishing lures. In addition, although not verified in this specific case, the threat actors may also post fraudulent load listings containing malicious content, potentially resulting in malware infections.Possible Overlap with September 2024 CampaignIn September 2024, Proofpoint reported on an unattributed activity cluster observed since at least May 2024. The threat actors targeted transportation and logistics companies in North America to distribute various malware families, including LummaC2, StealC, and NetSupport RAT, as well as remote monitoring and management (RMM) tools such as SimpleHelp, PDQ Connect, Fleetdeck, and ScreenConnect. The campaigns employed several techniques: The threat actors compromised legitimate email accounts belonging to transportation and shipping companies, injecting malicious content into existing email threads to enhance credibility. They also used compromised accounts on DAT Freight & Analytics and Loadlink platforms to post fraudulent load listings containing malicious URLs leading to RMM downloads. Lastly, they launched broader phishing waves that directed recipients to staging web pages hosting RMM installers. Most campaigns involved Google Drive URLs or attached .URL shortcut files that, when executed, used SMB to retrieve an executable from a remote share, leading to malware installation.While Insikt Group has not identified direct technical overlaps (for example, shared infrastructure), the similar targeting and partially overlapping tactics, particularly the use of DAT Freight & Analytics and Loadlink, suggest a possible connection between this activity cluster and Cluster 1 (this is a low-confidence assessment).Notably, in November 2025, Proofpoint reported again on a possibly related activity where cybercriminals targeted trucking and logistics companies using RMM tools to hijack shipments. The attackers lured victims through fake load postings or compromised email threads, delivering malware or RMM software to gain access. This campaign highlights the growing convergence of cyber and physical cargo theft as criminals exploit digital logistics systems.Cluster 2: Matanbuchus and Mailer Tool Activity Tracked as TAG-161Cluster 2, tracked as TAG-161, has been active since at least June 2025 and remains operational at the time of analysis. The cluster leverages infrastructure impersonating Booking.com and employs ClickFix techniques. It primarily delivers CastleLoader and other payloads, including Matanbuchus. Notably, Insikt Group observed this cluster using Matanbuchus. Evidence indicates that the cluster relies mainly on threat actor-controlled infrastructure. Furthermore, Insikt Group identified a previously unreported phishing email management tooling, which appears to be used by threat actors linked to Cluster 2.Matanbuchus Activity and Booking.com-Themed InfrastructureAlongside CastleLoader, several Matanbuchus samples were distributed through Booking.com-themed ClickFix campaigns associated with Cluster 2. Notably, Insikt Group had previously reported Matanbuchus activity linked to CastleRAT in an earlier publication, where the Matanbuchus C2 panel was hosted on the adjacent IP address,  (see ).: Matanbuchus panel on 185[.]39[.]19[.]164 (Source: Recorded Future)Matanbuchus is a C-based downloader MaaS available since 2021. One of its primary objectives is secrecy, which is in part fostered by limiting sales to a select number of customers. Currently at version three, it is continually maintained and improved by its creator BelialDemon. BelialDemon offers Matanbuchus 3.0 as a monthly rental service with two pricing tiers based on the communication protocol: $10,000 per month for the HTTPS-based version and $15,000 per month for the DNS-based version.Recorded Future Malware Intelligence’s most recent Matanbuchus sample at the time of writing communicated with its C2 server at , a domain behind Cloudflare but linked to the IP address  (TRIBEKA-AS, PA; AS211059). This IP address was also associated with the domain , previously reported by Morphisec. Historical analysis of the same IP revealed several additional Matanbuchus C2 domains, including  and .Additional Booking.com-Themed InfrastructureBy analyzing the same /24 CIDR range that hosted the Matanbuchus infrastructure during the period of observed activity, Insikt Group identified additional IP addresses and domains linked to Booking.com-themed ClickFix operations. These network indicators, detailed in , are tracked by Insikt Group as part of Cluster 2.Phishing Email Management ToolingBy analyzing the IP addresses hosting the domains listed in , Insikt Group identified three that stood out for each hosting three previously unreported websites or management panels operating on high ports. The panels featured the following HTML titles: “Менеджер Email”, “Менеджер Редиректов и рассылок”, and “Менеджер Редиректов и Email” (translated as “Redirect and Email Manager”). Based on their visual appearance, technical implementation, and thematic focus, Insikt Group assesses that these websites are used in tandem as part of campaigns specifically targeting Booking.com.Website 1: Redirect and Email Manager (“Менеджер Редиректов и Email”)The first website, hosted on port 56723, serves as a web-based interface for managing bulk redirections and email campaigns (see ). It integrates redirect generation, SMTP configuration, and email distribution capabilities within a single dashboard. The design, terminology, and functionality closely align with those typically observed in malspam or phishing infrastructure management panels.Within the document object model (DOM) of the website, Insikt Group identified two email addresses, with one of them being likely a compromised account used to send phishing emails. At the time of discovery, the rambler email address, likely a burner account, appeared within the page’s SMTP configuration with associated credentials, indicating its use as the primary sender account for automated bulk email delivery, consistent with the panel’s design for coordinated phishing or spam distribution. The DOM also contained an AWS access key.Additionally, the DOM referenced a set of domains, some of which are listed in , while others were newly identified and are listed in . By searching for the phrase “Сервис редиректов работает для [domain]” (translated as “The redirect service works for [domain]”), Insikt Group discovered further related domains, likewise shown in .Website 2: Email Manager (“Менеджер Email”)The second website, hosted on port 56724, closely resembles the first “Redirect and Mailing Manager” panel but exhibits several notable configuration differences (see ). These include a distinct AWS username, an SMTP sender address, bred[@]booking-porta[.]com, as well as different logging settings and a few additional indicators of compromise. Furthermore, the website specified  as its proxy server.Website 3: Booking-Mailer V2.2 (“Менеджер Редиректов и рассылок”)The third website, hosted on port 56725, features a substantially larger DOM and functions as a combined redirect generator and mass-mailing platform (see ). The user interface exposes key capabilities, including domain selection, subdomain base-name configuration, HTML email templating (supporting URL placeholders for generated redirects), target file uploads, worker/thread management, SMTP pool configuration and validation, proxy editing, and real-time logging and statistics. Redirects are constructed using a domain and base name to generate unique subdomain links following the format: [identifier].[base_name].[main_domain].The domains , , , , and  are all referenced within the DOM.Notably, within the “debug logs” in the DOM of the website, Insikt Group found a range of proxy servers with varying high ports. The IP addresses are listed in .11599, 12305, 13267, 1327510324, 10616, 14195, 1419611264, 11860, 14100, 14122: Proxy IP addresses found in DOM of “Booking-Mailer V2.2” tool (Source: Recorded Future)Insikt Group identified additional instances of the Phishing Email Management Tooling, all hosted on IP addresses announced by the same set of Autonomous Systems (ASes). The identified IP addresses are listed in . The domains hosted on these IP addresses are listed in .Certificate subject common name: CastleRAT and Matanbuchus C2 servers identified within the same /24 range ( and , respectively)Hosts hotel-themed domainsCertificate subject common name: Suspected testing server due to the number of domains including the keywords “test” and “demo”: Additional infrastructure instances of the Phishing Email Management Tooling (Source: Recorded Future)ASN Cluster Possibly Linked to BearhostInsikt Group observed significant infrastructure activity associated with AS216341 (STIMUL-AS) and AS216341 (OPTIMA-AS) throughout this research. Both ASes were established on March 11, 2025, and have demonstrated consistent malicious activity since their inception. According to researchers at DeepCode, these providers maintain strong links to the BEARHOST bulletproof hosting network, a known enabler of malicious cyber operations. BEARHOST and associated providers have reportedly serviced ransomware operations, including LockBit, Conti, MedusaLocker, as well as sanctioned entities such as Garantex, Lazarus Group, Zservers, and Nobitex. That same research further identified malicious activity and customer bases linked to both AS211659 and AS216341, consistent with Insikt Group’s own observations of Lumma, Rhadamanthys, and Matanbuchus within these autonomous systems. This overlap in observed threats reinforces the assessment that both autonomous systems are part of a broader BEARHOST-aligned infrastructure ecosystem supporting financially motivated cyber operations.Infrastructure Similarities with TAG-157 (RefBroker)Insikt Group has previously reported on threat actors impersonating Booking.com, including TAG-157, also known as RefBroker. Notably, domains associated with TAG-157 have been observed hosted on IP address , adjacent to , with the latter being part of TAG-161’s infrastructure. More broadly, both TAG-157 and TAG-161 appear to favor the same set of ASNs discussed in the section ASN Cluster Possibly Linked to Bearhost. At present, however, the exact relationship between TAG-157 and TAG-161 remains unclear.Cluster 3: Booking.com Impersonation ActivityCluster 3 has been active since at least March 2025 and remains operational at the time of analysis. The cluster leverages infrastructure impersonating Booking.com, ClickFix techniques, and uses Steam Community pages as a dead drop resolver to deliver CastleRAT via CastleLoader. Although the techniques appear similar to those described in Cluster 2, Insikt Group has not identified any technical overlaps between Clusters 2 and 3 at this time.Insikt Group noted a CastleRAT sample that leveraged a Booking.com phishing domain,  (see ) The phishing domain tricks users into running a malicious PowerShell command (via ClickFix techniques) that downloads a second-stage script from . This script retrieves and executes a .NET loader that repeatedly spawns new PowerShell processes to add Windows Defender exclusions for the eventual payload () using a User Account Control (UAC) prompt flooding loop to bypass analysis sandboxes and security controls. Once exclusions are applied, the loader decrypts and launches the CastleLoader payload, which then reaches out to its C2 domain, , resolved through a Steam Community profile. The use of Steam Community profiles allows attackers to update infrastructure dynamically without redeploying malware (see ). CastleRAT samples that use Steam for deaddrops may sometimes contain a hard-coded backup C2 in the event the deaddrop C2 retrieval fails. A list of all observed Steam Community profiles and the various C2 domains observed on each is found in : GrayBravo’s CastleRAT using Steam Community for dead drop resolving (Source: Steam)At the time of analysis,  and  were both hosted on , while the Steam-resolved C2 domain, , was hosted on an adjacent IP, . This close placement within the same /24 subnet suggests that the operators likely acquired these IP addresses around the same time. It also suggests that they were assigned sequentially by the hosting provider, Global Connectivity Solutions (AS215540). A similar pattern was later observed across the  range, where Booking.com-themed phishing domains were hosted on  and the Steam-resolved C2 domains,  and , were hosted on .: Booking.com-themed ClickFix linked to Cluster 3 (Source: Recorded Future)When scanned, the Booking.com-themed domains typically return either a Cloudflare-themed turnstile page or a “turnstile token missing” error message (1, 2). Further pivoting from the domain  uncovered a broader cluster of activity encompassing multiple additional domains and IP addresses, most of which appear to be used to impersonate Booking.com. The domains and associated IP addresses are detailed in . Notably, while the domains commonly use Cloudflare name servers, many of the domains ultimately resolve to threat actor–controlled IP addresses.Cluster 4: Malvertising and Fake SoftwareCluster 4 has been active since at least April 2025 and remains operational at the time of analysis. This cluster employs malvertising and fake software installers, impersonating legitimate tools such as Zabbix and RVTools, to distribute CastleLoader and NetSupport RAT.Based on Insik Group observations, the cluster has used CastleLoader C2 infrastructure hosted on domains including . It has also deployed NetSupport RAT samples that communicate with C2 servers at IP addresses such as  and . Notably, the domain  resolved to these NetSupport-associated IP addresses during the period of activity.The CastleLoader payloads are distributed through fake GitHub repositories and delivered as electronically signed MSI installers, often bearing Extended Validation (EV) certificates, similar to those observed in previous Bumblebee campaigns. These signed builds have been attributed to organizations including LLC KHD GROUP (issued by GlobalSign) and INTYNA EXIM PRIVATE LIMITED (issued by SSL.com), among others. Notably, “Sparja”, an Exploit Forum user discussed below and potentially linked to CastleLoader, has been active in discussions regarding EV certificates earlier this year.Possible Connection to Exploit Forum User SparjaAnalysis of historical CastleLoader infrastructure identified one anomalous instance that may indicate a link to a threat actor named “Sparja”. A panel hosted on  and exposed on port 5050 diverged from established CastleLoader panel characteristics. While known CastleLoader administrative interfaces typically display the HTML title “Castle,” this instance returned the title “Sparja.” Review of the panel’s DOM file revealed that it referenced a CSS file with a filename identical to one observed in verified CastleLoader panels. While the overlap does not constitute a conclusive stylistic correlation, it can suggest potential code reuse or reliance on a shared panel template between CastleLoader and the “Sparja” interface. Insikt Group identified one other Sparja panel with the same HTML title on the IP address  (see )Sparja panel (top) and CastleLoader panel (bottom) (Source: Recorded Future)Activity associated with the alias “Sparja” on the underground Exploit Forum provides additional context for possible connections. Obtained via proprietary means, Insikt Group assesses that Sparja is also active on the top-tier Russian-language forum XSS. Insikt Group bases this assessment on the user’s XSS activity, in which the user viewed similar topics related to malware loaders, EV certificates, and bypass software.On December 22, 2024, Sparja authored a thread on Exploit Forum, looking to buy or rent a dropper (see ). In a documented dispute spanning from January to February 2025, Sparja engaged a user known as “ppro” to develop a “private solution, a dropper or loader for an executable file.” The dispute concluded with ppro’s ban from the forum, following a history of earlier account suspensions and reinstatements. Given the timeline of the events, Insikt Group assesses it is unlikely ppr0 had involvement in CastleLoader’s development; however, Sparja’s expressed interest in acquiring a custom loader prior to CastleLoader’s appearance supports the assessment that Sparja was actively pursuing a dropper or loader functionality consistent with CastleLoader’s purpose.Sparja in search of a dropper or loader on Exploit Forum (Source: Recorded Future)Forum discussions in October 2025 indicate continued interest in Sparja’s apparent tooling (see ). A subsequent post sought contact with “the coder who wrote the Sparja dropper,” implying that a distinct dropper associated with Sparja had circulated within the underground market. This activity’s timeline aligns with CastleLoader operations and suggests that Sparja’s development or procurement of loader-type malware was known among peers during the same operational period.A related CastleLoader sample, distributed as an MSI installer, was identified in Bazaar Abuse data as originating from the GitHub account github[.]com/legend123451111. The same account appears in a Cisco Talos report describing a malware-as-a-service (MaaS) ecosystem leveraging GitHub for payload distribution, including malware families such as Amadey and Emmenhtal. Talos noted consistent naming conventions, repository structures, and file types across multiple associated GitHub accounts, with the earliest activity dated to January 2025. The report concluded that the operators of these accounts likely facilitated multi-tenant malware distribution rather than single-threat actor campaigns.The available evidence does not confirm that Sparja directly participated in the MaaS network described by Talos; however, the CastleLoader sample that originated from github[.]com/legend1234561111, which contained the MSI installer, is linked to the Sparja-named CastleLoader panel, indicating a potential overlap between the GitHub-based distribution channel and infrastructure associated with Sparja. This connection suggests that Sparja may have either used an existing MaaS framework to distribute CastleLoader payloads or operated within the same delivery ecosystem.On October 27, 2025, Sparja posted a comment on Exploit Forum within a thread advertising eDragon_x’s dropper service, stating that they had been using the service for several months and considered the dropper reliable. This post is notable as it reinforces Sparja’s continued interest in droppers and loaders, a recurring theme in their activity. The post also situates Sparja in proximity to eDragon_x, a threat actor operating within overlapping underground circles that include “tramp”, a known threat actor reportedly identified as Oleg Nefedov. Tramp is associated with a spamming network responsible for distributing Qbot (aka Qakbot) and is identified as the founder of the BlackBasta ransomware group. Tramp was also an affiliate for several ransomware operations, such as REvil and Conti; he also maintained close ties with Rhysida and Cactus.While there is no direct evidence of collaboration between Sparja and tramp, the shared participation across related forums and service providers like eDragon_x suggests that Sparja operates within a network of threat actors closely associated with major ransomware distribution and loader development ecosystems.Insikt Group identified numerous suspected victim IP addresses communicating with the Tier 1 C2 infrastructure associated with CastleRAT. While the majority of these IP addresses appear to be geolocated in the United States, only a limited number of actual victims could be positively identified. Most victims remain unidentified and cannot be confirmed; however, Insikt Group assesses it is likely that at least some of them represent private individuals who became infected. It is important to note that of the entities Insikt Group identified, the infection might have occurred on individual machines within the network of the victim organization or by using the victim’s WiFi rather than on the organization's network directly. For instance, within the university context, it is likely that some victims are individual machines, such as those used by students, connected to the university's network.Leverage the IoCs in  to investigate potential past or ongoing infections, both successful and attempted, and use the Recorded Future Intelligence Cloud to monitor for future IoCs associated with GrayBravo (formerly tracked as TAG-150), TAG-160, TAG-161, and other threat actors.Monitor for validated infrastructure associated with the malware families discussed in this report, including CastleLoader, CastleRAT, Matanbuchus, and numerous others identified and validated by Insikt Group, and integrate these indicators into relevant detection and monitoring systems.Leverage Sigma, YARA, and Snort rules provided in , , , , , , and  in your SIEM or endpoint detection and response (EDR) tools to detect the presence or execution of CastleLoader, CastleRAT, and Matanbuchus. Additionally, use other detection rules available in the Recorded Future Intelligence Cloud.Use Recorded Future Network Intelligence to detect instances of data exfiltration from your corporate infrastructure to known malicious infrastructure. This can be achieved by employing specific queries and filtering the results based on your assets.Use the Recorded Future Intelligence Cloud to monitor GrayBravo, TAG-160, TAG-161, other threat actors, and the broader cybercriminal ecosystem, ensuring visibility into the latest tactics, techniques, and procedures (TTPs), preferred tools and services (for example, specific threat activity enablers [TAEs] used by threat actors), and emerging developments.Use Recorded Future AI’s reporting feature to generate tailored reports on topics that matter to you. For example, if you want to stay informed about activities related to specific personas such as Sparja, you can receive regular AI-generated updates on this threat actor’s activity on Exploit Forum.As anticipated in earlier assessments, GrayBravo has significantly expanded its user base, evidenced by the growing number of threat actors and operational clusters leveraging its CastleLoader malware. This trend highlights how technically advanced and adaptive tooling, particularly from a threat actor with GrayBravo’s reputation, can rapidly proliferate within the cybercriminal ecosystem once proven effective. Given GrayBravo’s established history of developing and deploying custom malware families, it is highly likely the group will continue to release new tools and capabilities in the near term, further strengthening its position within the MaaS market.Among observed activity clusters, TAG-160 stands out for its highly targeted campaigns against the logistics sector. The cluster demonstrates a deep understanding of industry operations, impersonating legitimate logistics firms, exploiting freight-matching platforms, and mirroring authentic communications to enhance its deception and impact. This indicates an increasing sophistication among niche, sector-specific threat actors who maintain a low profile through minimal footprints and precise targeting.Insikt Group will continue to closely monitor GrayBravo along with related threat actors, such as TAG-160 and TAG-161, to detect emerging threats and evaluate the group’s strategic direction within the broader cybercriminal ecosystem.Appendix A: CastleLoader C2 Serversdonttouchthisisuseless[.]icu(Source: Recorded Future)Appendix B: Additional Infrastructure Likely Linked to CastleLoadertradlngview-desktop[.]biztradlngvlewdesktop[.]shop(Source: Recorded Future)Appendix C: Logistics-Themed Infrastructure Used by TAG-160cdlfreightlogistics[.]comhometownlogisticsllc[.]comredlightninglogistics[.]comredlightninglogisticsinc[.]comstarshiplogisticsgroupllc[.]com(Source: Recorded Future)Appendix D: Booking.com-Themed Domains Linked to TAG-161(Source: Recorded Future)Appendix E: Additional Infrastructure Linked to “Redirect and Email Manager” ToolDomain used in “Completed processing task” log, per the DOM(Source: Recorded Future)Appendix F: Steam Community Profiles and their Corresponding C2 Domains, alongside the IP Addresses that Hosted the C2 domainsSteam Community Profile Linkhxxps://steamcommunity[.]com/id/tfy5d6gohu8tgy687r745[.]134[.]26[.]4191[.]202[.]233[.]132hxxps://steamcommunity[.]com/id/desdsfds34324y3g46[.]28[.]67[.]22195[.]211[.]97[.]51hxxps://steamcommunity[.]com/id/fio34h8dsh3iufshxxps://steamcommunity[.]com/id/jeg238r7staf378shxxps://steamcommunity[.]com/id/krouvhsin34287f7h3justnewdmain[.]com(Source: Recorded Future)Appendix G: Booking.com-Themed Infrastructure Linked to Cluster 3bookingnewprice109034[.]icubookingnewprice204167[.]icuguest-request44565494[.]comguest-request666543[.]comguest-request677653[.]comguest-update666532345[.]comhotelroomprice1039375[.]icurequest-info4433345[.]comupdate-guest4398317809[.]comupdate-reques898665[.]com(Source: Recorded Future)Appendix H: Indicators of Compromise (IoCs)CastleRAT C2 IP Addresses:
+5[.]35[.]44[.]176
+34[.]72[.]90[.]40
+45[.]11[.]180[.]174
+45[.]11[.]180[.]198
+45[.]11[.]181[.]59
+45[.]32[.]69[.]11
+45[.]61[.]136[.]81
+45[.]134[.]26[.]41
+45[.]135[.]232[.]149
+45[.]144[.]53[.]62
+46[.]28[.]67[.]22
+64[.]52[.]80[.]121
+66[.]63[.]187[.]224
+67[.]217[.]228[.]198
+77[.]90[.]153[.]43
+77[.]238[.]241[.]203
+79[.]132[.]130[.]148
+79[.]132[.]131[.]200
+85[.]192[.]49[.]6
+85[.]208[.]84[.]115
+87[.]120[.]93[.]167
+91[.]202[.]233[.]132
+91[.]202[.]233[.]250
+94[.]141[.]122[.]164
+102[.]135[.]95[.]102
+104[.]225[.]129[.]171
+144[.]208[.]126[.]50
+168[.]100[.]8[.]84
+178[.]17[.]57[.]102
+178[.]17[.]57[.]153
+185[.]125[.]50[.]125
+185[.]149[.]146[.]118
+185[.]156[.]248[.]24
+185[.]196[.]9[.]80
+185[.]196[.]9[.]222
+185[.]196[.]10[.]8
+185[.]196[.]11[.]171
+185[.]208[.]158[.]250
+192[.]109[.]138[.]102
+192[.]153[.]57[.]125
+194[.]76[.]227[.]242
+195[.]85[.]115[.]44
+195[.]149[.]146[.]118
+195[.]201[.]108[.]189
+195[.]211[.]97[.]51
+
+CastleRAT C2 Domains:
+autryjones[.]com
+gabesworld[.]com
+justnewdmain[.]com
+kakapupuneww[.]com
+miteamss[.]com
+programsbookss[.]com
+tdbfvgwe456yt[.]com
+treetankists[.]com
+
+Steam Community URLs:
+hxxps[://]steamcommunity[.]com/id/desdsfds34324y3g
+hxxps[://]steamcommunity[.]com/id/fio34h8dsh3iufs
+hxxps[://]steamcommunity[.]com/id/jeg238r7staf378s
+hxxps[://]steamcommunity[.]com/id/krouvhsin34287f7h3
+hxxps[://]steamcommunity[.]com/id/tfy5d6gohu8tgy687r7
+
+CastleLoader C2 IP Addresses:
+31[.]58[.]50[.]160
+31[.]58[.]87[.]132
+45[.]11[.]183[.]19
+45[.]11[.]183[.]45
+45[.]11[.]183[.]165
+45[.]155[.]249[.]121
+80[.]77[.]25[.]88
+80[.]77[.]25[.]114
+80[.]77[.]25[.]239
+107[.]158[.]128[.]26
+147[.]45[.]177[.]127
+170[.]130[.]165[.]201
+172[.]86[.]90[.]58
+173[.]44[.]141[.]52
+185[.]121[.]234[.]141
+
+CastleLoader C2 Domains:
+alafair[.]net
+anotherproject[.]icu
+bethschwier[.]com
+campanyasoft[.]com
+castlppwnd[.]com
+donttouchme[.]life
+donttouchthisisuseless[.]icu
+doyoureallyseeme[.]icu
+dpeformse[.]com
+icantseeyou[.]icu
+oldspicenotsogood[.]shop
+rcpeformse[.]com
+roject0[.]com
+speatly[.]com
+touchmeplease[.]icu
+wereatwar[.]com
+
+Additional Domains:
+albafood[.]shop
+albalk[.]lol
+bdeskthebest[.]shop
+bestproxysale[.]shop
+bestvpninfo[.]shop
+chessinthenight[.]lol
+clgenetics[.]shop
+docusign[.]homes
+dubaialbafood[.]shop
+easyadvicesforyou[.]shop
+easyprintscreen[.]shop
+funjobcollins[.]shop
+nort-secure[.]shop
+norton-secure[.]shop
+notstablecoin[.]xyz
+notusdt[.]lol
+nvidblog[.]shop
+nvldlainfoblog[.]shop
+oldspicenotsogood[.]shop
+starkforeveryone[.]lol
+sweetdevices[.]lol
+testdomain123123[.]shop
+tradeviewdesktop[.]shop
+tradlngview-desktop[.]biz
+tradlngvlewdesktop[.]shop
+tradview-desktop[.]shop
+vipcinemade[.]shop
+vipcinemadubai[.]shop
+vipdubaicinema[.]shop
+
+Cluster 1 (TAG-160) Logistics-Themed Domains:
+cdlfreightlogistics[.]com
+dperforms[.]info
+englandloglstics[.]com
+englanglogistlcs[.]com
+hometownlogisticsllc[.]com
+leemanlogisticsinc[.]com
+loadplannig[.]com
+loads[.]icu
+loadsplanning[.]com
+loadsschedule[.]com
+loadstracking[.]com
+loadstrucking[.]com
+mcentireinc[.]com
+mcloads[.]com
+mlxfreightinc[.]com
+mrlogsol[.]ca
+pinaccletruckllc[.]com
+rateconfirmations[.]com
+redlightninglogistics[.]com
+redlightninglogisticsinc[.]com
+starshiplogisticsgroupllc[.]com
+tenderloads[.]com
+trucksscheduling[.]com
+
+Cluster 1 (TAG-160) IP Addresses Hosting Logistics-Themed Domains:
+74[.]119[.]239[.]234
+78[.]153[.]155[.]131
+162[.]215[.]230[.]96
+162[.]215[.]230[.]150
+162[.]215[.]241[.]46
+162[.]215[.]241[.]215
+162[.]251[.]80[.]108
+185[.]236[.]20[.]154
+192[.]124[.]178[.]74
+199[.]79[.]62[.]141
+204[.]11[.]58[.]80
+207[.]174[.]212[.]141
+
+Matanbuchus C2 IP Addresses:
+185[.]39[.]19[.]164
+
+Matanbuchus C2 Domains:
+galaxioflow[.]com
+mechiraz[.]com
+nicewk[.]com
+nimbusvaults[.]com
+
+Cluster 2 (TAG-161) Booking.com-Themed Domains:
+checkinastayverify[.]com
+checkinistayverify[.]com
+checkinstayverify[.]com
+checkistayverify[.]com
+checksstayverify[.]com
+checkystayverify[.]com
+confirmahotelastay[.]com
+confirmahotelstay[.]com
+confirmhotelestay[.]com
+confirmhotelistay[.]com
+confirmhotelystay[.]com
+confirmstayon[.]com
+confirmstayonline[.]com
+confirmyhotelstay[.]com
+guestaformahub[.]com
+guestaformhub[.]com
+guestaformsafe[.]com
+guestaportalverify[.]com
+guestaverifyportal[.]com
+guestformahub[.]com
+guestformasafe[.]com
+guestformhub[.]com
+guestformsafe[.]com
+guestistayhotel[.]com
+guestportalverify[.]com
+gueststayhotel[.]com
+guestverifyhub[.]com
+guestverifylink[.]com
+guestverifyportal[.]com
+guestystayhotel[.]com
+guesutastayhotel[.]com
+guesytastayhotel[.]com
+hoteliguestverify[.]com
+hotelistayverify[.]com
+hotelyguestverify[.]com
+hotelystayverify[.]com
+nedpihotel[.]com
+pilolhotel[.]com
+roomiverifaccess[.]com
+roomverifaccess[.]com
+roomverifiaccess[.]com
+servicehotelonline[.]com
+verifihubguest[.]com
+verifyhubguest[.]com
+
+Cluster 2 (TAG-161) IP Addresses Hosting Booking.com-Themed Domains:
+77[.]83[.]207[.]55
+185[.]39[.]19[.]180
+185[.]39[.]19[.]181
+
+Other Domains Linked to Cluster 2 (TAG-161):
+cik-ed[.]com
+cut-gv[.]com
+dip-bo[.]com
+dok-ol[.]com
+dut-cd[.]com
+eta-cd[.]com
+eto-sa[.]com
+fir-vp[.]com
+for-es[.]com
+gir-vc[.]com
+gut-bk[.]com
+her-op[.]com
+ipk-sa[.]com
+itp-ce[.]com
+kil-it[.]com
+kip-er[.]com
+mac-ig[.]com
+map-nv[.]com
+ned-uj[.]com
+otr-gl[.]com
+pit-kp[.]com
+rol-vd[.]com
+site-bila[.]com
+site-here[.]com
+site-reto[.]com
+site-tilo[.]com
+site-wila[.]com
+spu-cr[.]com
+tam-cg[.]com
+uke-sd[.]com
+uki-fa[.]com
+wal-ik[.]com
+xut-uv[.]com
+xyt-ko[.]com
+ykl-vh[.]com
+yt-ko[.]com
+zit-fl[.]com
+
+Proxy IP Addresses Linked to Cluster 2 (TAG-161):
+109[.]104[.]153[.]29
+109[.]104[.]153[.]100
+109[.]104[.]153[.]193
+109[.]104[.]154[.]67
+
+Additional IP Addresses Linked to Phishing Email Management Tooling:
+80[.]64[.]18[.]245
+85[.]208[.]84[.]65
+88[.]214[.]50[.]83
+185[.]39[.]19[.]94
+
+Cluster 3 Booking.com-Themed Domains:
+bioskbd[.]com
+blkiesf[.]com
+boikfrs[.]com
+boiksal[.]com
+bookingnewprice109034[.]icu
+bookingnewprice204167[.]icu
+guest-request16433[.]com
+guest-request44565494[.]com
+guest-request64533[.]com
+guest-request666543[.]com
+guest-request677653[.]com
+guest-update666532345[.]com
+hotelroomprice1039375[.]icu
+info-guest44567645[.]com
+info676345677[.]com
+justnewdmain[.]com
+newmessage10294[.]com
+programsbookss[.]com
+request-info3444[.]com
+request-info4433345[.]com
+request345553[.]com
+request44456776[.]com
+update-gues3429[.]com
+update-guest4398317809[.]com
+update-info14546[.]com
+update-info3458421[.]com
+update-info4467[.]com
+update-info4468765[.]com
+update-info539156[.]com
+update-info71556[.]com
+update-reques898665[.]com
+
+Cluster 3 IP Addresses Hosting Booking.com-Themed Domains:
+178[.]17[.]57[.]103
+192[.]109[.]138[.]102
+Appendix I: Snort Rules for CastleLoaderalert http $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleLoader Malware Outbound Checkin"; flow:established,to_server; content:"GET"; http_method; urilen:82,norm; content:"|2F|service|2F|settings|2F|"; http_uri; fast_pattern; content:"Cache-Control|3A 20|no-cache|0D 0A|Connection|3A 20|Keep-Alive|0D 0A|Pragma|3A 20|no-cache|0D 0A|User-Agent|3A 20|"; http_header; depth:79; content:"Host|3A 20|"; http_header; distance:0;  content:!"Accept"; http_header; pcre:"/User\x2dAgent[^\x0d]+\x0d\x0aHost\x3a\x20[^\x0d]+\x0d\x0a\x0d\x0a/"; reference:url,https://catalyst.prodaft.com/public/report/understanding-current-castleloader-campaigns/overview; classtype:trojan-activity; sid:52460302; rev:1; metadata:author MGUT, created_at 2025-07-24, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control, triage_family castleloader, deployment triage;)
+
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleLoader Malware Outbound Payload Request"; flow:established,to_server; content:"GET"; http_method; content:"|2F|service|2F|download|2F|"; http_uri; fast_pattern; content:"Cache-Control|3A 20|no-cache|0D 0A|Connection|3A 20|Keep-Alive|0D 0A|Pragma|3A 20|no-cache|0D 0A|User-Agent|3A 20|"; http_header; depth:79; content:"Host|3A 20|"; http_header; distance:0;  content:!"Accept"; http_header; pcre:"/User\x2dAgent[^\x0d]+\x0d\x0aHost\x3a\x20[^\x0d]+\x0d\x0a\x0d\x0a/"; reference:url,https://catalyst.prodaft.com/public/report/understanding-current-castleloader-campaigns/overview; classtype:trojan-activity; sid:52460303; rev:1; metadata:author MGUT, created_at 2025-07-24, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control, triage_family castleloader, deployment triage;)
+
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleLoader Malware Stager Outbound Payload Request"; flow:established,to_server; content:"GET"; http_method; content:"|2F|service|2F|download|2F|"; http_uri; depth:18; fast_pattern; content:".bin"; http_uri; content:"GoogeBot"; http_user_agent; depth:8; isdataat:0,relative; reference:url,https://catalyst.prodaft.com/public/report/understanding-current-castleloader-campaigns/overview; classtype:trojan-activity; sid:52460304; rev:1; metadata:author MGUT, created_at 2025-08-12, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control, triage_family castleloader, deployment triage;)
+
+alert tcp $EXTERNAL_NET 79 -> $HOME_NET any (msg:"CastleLoader Malware Inbound Command Retrieval via Finger Service"; flow:established,to_client; content:"Login|3A 20|"; depth:7; content:"Plan|3A|"; distance:0; content:"%random%"; fast_pattern; distance:0; content:"|20|--tlsv1.2|20|-L|20|-o|20|"; distance:0; content:"|0D 0A|mkdir|20|"; distance:0; content:"|0D 0A|tar|20|"; distance:0; reference:url,https://tria.ge/251110-zcgvkstpck; classtype:trojan-activity; sid:52460334; rev:2; metadata:author MGUT, created_at 2025-10-29, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+Appendix J: Snort Rules for CastleRATalert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|02 56 77 8E A5 83 D7 05 02 C2 1E D9 70 5A 47 E5 11 92 B5 5A|"; fast_pattern; depth:20; reference:url,https://tria.ge/250808-w4hpeaxtcw; classtype:trojan-activity; sid:52460307; rev:1; metadata:author MGUT, created_at 2025-08-18, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|BF CF 04 82 45 DF 4F 09 55 5E 0B 15 9F E2 91 A0 68 51 1E 87|"; fast_pattern; depth:20; reference:url,https://tria.ge/250814-wyqstsyjx3; classtype:trojan-activity; sid:52460308; rev:1; metadata:author MGUT, created_at 2025-08-18, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|6B 13 5C 08 BD 49 59 75 79 62 4E EA 2F DE 57 F4 6E 08 8B 6B|"; fast_pattern; depth:20; reference:url,https://tria.ge/250219-nsbsqazpep; classtype:trojan-activity; sid:52460309; rev:1; metadata:author MGUT, created_at 2025-08-18, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|56 EA 59 DB 6B DD 36 81 42 01 C6 84 DF 5A 6B E8 38 14 8D 07|"; fast_pattern; depth:20; reference:url,https://tria.ge/250505-wmbvjabk3t; classtype:trojan-activity; sid:52460310; rev:1; metadata:author MGUT, created_at 2025-08-18, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|A8 CF 1E 1D BA 27 49 FB 63 38 F4 52 A7 9C 39 CF 4A 85 E5 5B|"; fast_pattern; depth:20; reference:url,https://tria.ge/250822-vwt7ssxly9; classtype:trojan-activity; sid:52460311; rev:1; metadata:author MGUT, created_at 2025-08-22, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|0F 0D F7 66 4C B2 D5 12 BA 55 CC BB 2E 1B F4 AD C0 E0 7C A2|"; fast_pattern; depth:20; reference:url,https://tria.ge/250822-rt355svtfs; classtype:trojan-activity; sid:52460312; rev:1; metadata:author MGUT, created_at 2025-08-22, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|74 6F D9 7F B5 48 F6 91 26 E0 16 5A 81 29 4F 35 21 6C 61 82|"; fast_pattern; depth:20; reference:url,https://tria.ge/250813-a7c3fadl7z; classtype:trojan-activity; sid:52460313; rev:1; metadata:author MGUT, created_at 2025-08-22, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|61 57 7C E8 EE BE 56 71 B3 98 F4 A6 87 E3 0C 39 50 0C 29 41|"; fast_pattern; depth:20; reference:url,https://tria.ge/250822-vwt7ssxly9; classtype:trojan-activity; sid:52460314; rev:1; metadata:author MGUT, created_at 2025-08-22, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"CastleRAT Malware Outbound Handshake"; flow:established,to_server; dsize:20; stream_size:server,=,1; content:"|4D 58 29 58 84 15 1B 1D 2A D9 80 90 5C 36 1C A0 43 05 80 48|"; fast_pattern; depth:20; reference:url,https://tria.ge/250701-v6911aykv9; classtype:trojan-activity; sid:52460335; rev:1; metadata:author MGUT, created_at 2025-10-30, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"Possible CastleRAT Python Malware Outbound Request To IP Geo Location Service ip-api"; flow:established,to_server;  content:"GET"; http_method; urilen:19,norm; content:"|2F|line|2F 3F|fields|3D|16385"; http_uri; depth:19; fast_pattern; content:"Connection|3A 20|Keep-Alive|0D 0A|Host|3A 20|www.ip-api.com|0D 0A 0D 0A|"; http_raw_header; depth:48; reference:url,https://tria.ge/250808-w4hpeaxtcw; classtype:trojan-activity; sid:52460315; rev:1; metadata:author MGUT, created_at 2025-08-24, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"Possible CastleRAT C Variant Malware Outbound Request To IP Geo Location Service ip-api"; flow:established,to_server;  content:"GET"; http_method; urilen:20,norm; content:"|2F|line|2F 3F|fields|3D|147457"; http_uri; depth:20; fast_pattern; content:"Connection|3A 20|Keep-Alive|0D 0A|Host|3A 20|www.ip-api.com|0D 0A 0D 0A|"; http_raw_header; depth:48; reference:url,https://tria.ge/250822-vwt7ssxly9; classtype:trojan-activity; sid:52460316; rev:1; metadata:author MGUT, created_at 2025-08-24, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"Possible CastleRAT C Variant Malware Outbound Request To IP Geo Location Service ip-api"; flow:established,to_server;  content:"GET"; http_method; urilen:20,norm; content:"|2F|line|2F 3F|fields|3D|147505"; http_uri; depth:20; fast_pattern; content:"Connection|3A 20|Keep-Alive|0D 0A|Host|3A 20|www.ip-api.com|0D 0A 0D 0A|"; http_raw_header; depth:48; reference:url,https://tria.ge/250814-wyqstsyjx3; classtype:trojan-activity; sid:52460317; rev:1; metadata:author MGUT, created_at 2025-08-24, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert http $HOME_NET any -> $EXTERNAL_NET any (msg:"Possible CastleRAT C Variant Malware Outbound Request To IP Geo Location Service ip-api"; flow:established,to_server; content:"GET"; http_method; urilen:20,norm; content:"|2F|line|2F 3F|fields|3D|147489"; http_uri; depth:20; fast_pattern; content:"Connection|3A 20|Keep-Alive|0D 0A|Host|3A 20|www.ip-api.com|0D 0A 0D 0A|"; http_header; depth:48; reference:url,https://tria.ge/251028-27bcds1nbk; classtype:trojan-activity; sid:52460333; rev:1; metadata:author MGUT, created_at 2025-10-29, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+Appendix K: Snort Rules for Matanbuchusalert udp $EXTERNAL_NET any -> $HOME_NET any (msg:"Matanbuchus Loader Inbound DNS Tunneled Data ACK"; content:"|AA AA 85 80 00 01 00 01 00 00 00 00 01 30 14|"; fast_pattern; depth:15; content:"|10|"; distance:20; within:1; content:"|00 10 00 01 00 00 00 3C 00 03 02|ok"; distance:0; isdataat:!1,relative; reference:url,https://www.morphisec.com/blog/ransomware-threat-matanbuchus-3-0-maas-levels-up; reference:url,https://tria.ge/250716-b5sksa1wgt; sid:52460327; rev:1; metadata:author MGUT, created_at 2025-09-30, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+
+alert tcp $HOME_NET any -> $EXTERNAL_NET any (msg:"Matanbuchus Loader Malware Outbound C2 Communication"; flow:established,to_server; content:"POST|20|"; depth:5; content:"|2E|php"; distance:0; content:"1|0D 0A|User-Agent|3A 20|"; distance:0; content:"Host|3A 20|"; distance:0; content:"Content-Length|3A 20|"; distance:0; content:"Content-Type|3A 20|application|2F|x-www-form-urlencoded|0D 0A|Accept-Language|3A 20|"; distance:0; content:"|0D 0A 0D 0A|"; content:!"|26|"; distance:0; content:"|3D|ey"; fast_pattern; distance:0; pcre:"/User\x2dAgent[^\x0d]+\x0d\x0aHost[^\x0d]+\x0d\x0aContent\x2dLength[^\x0d]+\x0d\x0aContent\x2dType[^\x0d]+\x0d\x0aAccept\x2dLanguage[^\x0d]+\x0d\x0a\x0d\x0a/"; reference:url,https://tria.ge/240328-t4ge8sbf65; classtype:bad-unknown; sid:52460167; rev:1; metadata:author MGUT, created_at 2024-03-29, mitre_tactic_id TA0011, mitre_tactic_name Command-And-Control;)
+Appendix L: Yara Rule for CastleLoaderrule MAL_CastleLoader {
+    meta:
+        author = "Insikt Group, Recorded Future"
+        date = "2025-08-06"
+        description = "Detection of the CastleLoader malware executable"
+        version = "1.0"
+        reference = "https://www.ibm.com/think/x-force/dissecting-castlebot-maas-operation"
+        hash = "1b6befc65b19a63b4131ce5bcc6e8c0552fe1e1d136ab94bc7d81b3924056156"
+        hash = "202f6b6631ade2c41e4762e5877ce0063a3beabce0c3f8564b6499a1164c1e04"
+        hash = "25e0008aba82690e0f58c9d9fcfbc5d49820aa78d2f7bfcd0b85fb969180fc04"
+        hash = "b45cce4ede6ffb7b6f28f75a0cbb60e65592840d98dcb63155b9fa0324a88be2"
+        hash = "fb9de7448e9e30f717c171f1d1c90ac72828803a16ad385757aeecc853479d3c"
+        hash = "6444f0e3f78254aef663837562d258a2236a77f810ee8d832de7d83e0fdd5783"
+        malware = "CastleLoader"
+        malware_id = "8RF9P9"
+        category = "MALWARE"
+    strings:
+        $vmware_check = { 3D 56 4D 77 61 75 ?? 81 7D F8 72 65 56 4D 0F 85 ?? ?? ?? ?? 81 7D F4 77 61 72 65 }
+        $api_hashing = { 0F BE 0C 1E 8B C2 F6 C3 01 75 0F C1 E8 03 0F AF C1 8B CA C1 E1 07 33 C1 }
+        $stack_str_url = { C7 ?5 [1-4] 74 00 74 00 C7 ?5 [1-4] 69 00 6E 00 C7 ?5 [1-4] 67 00 73 00 }
+        $mov_edx_apihash1 = { BA 44 A0 2D 39 } // CreateMutexW
+        $mov_edx_apihash2 = { BA 2B C2 86 58 } // GetLastError
+        $mov_edx_apihash3 = { BA 94 F9 86 F8 } // RtlAllocateHeap
+        $mov_edx_apihash4 = { BA B2 48 70 60 } // ExitProcess
+    condition:
+        uint16(0) == 0x5A4D and all of them
+}
+Appendix M: Yara Rules for CastleRATrule MAL_CastleRAT_Python {
+    meta:
+        author = "Insikt Group, Recorded Future"
+        date = "2025-08-18"
+        description = "Detection of the python variant of CastleRAT malware"
+        version = "1.0"
+        reference = "https://www.recordedfuture.com/research/from-castleloader-to-castlerat-tag-150-advances-operations"
+        reference = "https://www.ibm.com/think/x-force/dissecting-castlebot-maas-operation"
+        reference = "https://catalyst.prodaft.com/public/report/understanding-current-castleloader-campaigns/overview"
+        hash = "94dc0f696a46f3c225b0aa741fbd3b8997a92126d66d7bc7c9dd8097af0de52a"
+        hash = "53775af67e9df206ed3f9c0a3756dbbc4968a77b1df164e9baddb51e61ac82df"
+        malware = "CastleRAT"
+        malware_id = "9WCga-"
+        category = "MALWARE"
+        actor = "TAG-150"
+        actor_id = "9nk6DO"
+    strings:
+        $cmd1 = "S_CONNECT" fullword
+        $cmd2 = "S_COMMAND" fullword
+        $cmd3 = "S_PING" fullword
+        $cmd4 = "S_CMD" fullword
+        $cmd5 = "S_DELETE" fullword
+        $cmd6 = "S_POWERSHELL" fullword
+        $cmd7 = "S_START_TERMINAL" fullword
+        $cmd8 = "S_SESSION_MESSAGE" fullword
+        $cmd9 = "S_UPLOAD" fullword
+        $fun1 = "CheckElevation():" fullword
+        $fun2 = "GetHWID("
+        $fun3 = "GetOS("
+        $fun4 = "GetIpGeo("
+        $fun5 = "rc4createkeyA("
+        $fun6 = "EncryptDecryptBufA("
+        $fun7 = "RecvTimeout("
+        $fun8 = "Send("
+        $fun9 = "Connect("
+        $fun10 = "ThreadPing("
+        $fun11 = "ThreadRecvTerminal("
+        $fun12 = "ThreadTerminalSession("
+        $fun13 = "ThreadUploadFile("
+        $fun14 = "SelfDelete()" fullword
+    condition:
+        filesize < 50KB and
+        7 of ($cmd*) and
+        10 of ($fun*)
+}
+
+rule MAL_CastleRAT_C {
+    meta:
+        author = "Insikt Group, Recorded Future"
+        date = "2025-08-18"
+        description = "Detection of the C variant of CastleRAT malware"
+        version = "2.0"
+        reference = "https://www.recordedfuture.com/research/from-castleloader-to-castlerat-tag-150-advances-operations"
+        reference = "https://www.ibm.com/think/x-force/dissecting-castlebot-maas-operation"
+        reference = "https://catalyst.prodaft.com/public/report/understanding-current-castleloader-campaigns/overview"
+        hash = "1ff6ee23b4cd9ac90ee569067b9e649c76dafac234761706724ae0c1943e4a75"
+        hash = "e6bcdf375649a7cbf092fcab65a24d832d8725d833e422e28dfa634498b00928"
+        hash = "67cf6d5332078ff021865d5fef6dc61e90b89bc411d8344754247ccd194ff65b"
+        hash = "963c012d56c62093d105ab5044517fdcce4ab826f7782b3e377932da1df6896d"
+        hash = "60125159523c356d711ffa1076211359906e6283e25f75f4cf0f9dc8da6bf7b0"
+        hash = "cf202498b85e6f0ae4dffae1a65acbfec78cc39fce71f831d45f916c7dedfa0c"
+        malware = "CastleRAT"
+        malware_id = "9WCga-"
+        category = "MALWARE"
+        actor = "TAG-150"
+        actor_id = "9nk6DO"
+    strings:
+        $log_tag1 = "clipboardlog.txt" fullword wide
+        $log_tag2 = "keylog.txt" fullword wide
+        $wnd_class1 = "IsabellaWine" fullword wide
+        $wnd_class2 = "camera!" fullword wide
+        $log_fmt1 = "[%02d:%02d %02d.%02d.%02d] %ws" fullword wide
+        $log_fmt2 = "[%02d:%02d %02d.%02d.%02d] " fullword wide
+        $log_fmt3 = "[%02d.%02d.%02d %02d:%02d] " fullword wide
+        $s1 = "(VPN)" wide ascii
+        $s2 = "rundll32 \"C:\\Windows\\System32\\shell32.dll\" #61"  wide
+        $s3 = "\"%ws\" -no-deelevate" fullword wide
+        $s4 = "IsWindowVisible" fullword ascii
+        $s5  = "UAC_InputIndicatorOverlayWnd" fullword wide
+        $s6 = "www.ip-api.com" fullword wide
+        $s7 = "MachineGuid" fullword wide
+        $s8 = "line/?fields=" wide
+        $s9 = "C:\\Windows\\System32\\cmd.exe" wide
+        $s10  = "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe" fullword wide
+
+     condition:
+       uint16(0) == 0x5a4d and
+       any of ($log_tag*) and
+       any of ($wnd_class*) and
+       any of ($log_fmt*) and
+       all of ($s*)
+}
+
+rule MAL_CastleRAT_Shellcode_Loader {
+    meta:
+        author = "Insikt Group, Recorded Future"
+        date = "2025-10-20"
+        description = "Detection of a python based shellcode loader that runs CastleRAT malware"
+        version = "1.0"
+        reference = "https://www.recordedfuture.com/research/from-castleloader-to-castlerat-tag-150-advances-operations"
+        hash = "058d83fd8834246d6d2a2771e6e0aeb4d4ef8a6984cbe1133f3a569029a4b1f7"
+        hash = "190e673787bfc6e8eeebccd64c8da61747d5be06f87d3aea879118ef1a9f4836"
+        malware = "CastleRAT"
+        actor = "TAG-150"
+        actor_id = "9nk6DO"
+        category = "MALWARE"
+        malware_id = "9WCga-"
+    strings:
+        $s1 = "SHELL64_OFFSET = "
+        $s2 = "SHELL32_OFFSET = "
+        $s3 = "SHELLFUNC = WINFUNCTYPE"
+        $s4 = "LoadPE_Shell"
+        $s5 = "crt = WinDLL(\"msvcrt.dll\");"
+        $s6 = "OPEN_EXISTING" fullword
+        $s7 = ".VirtualProtect("
+        $s8 = "offset"
+        $s9 = "from ctypes"
+    condition:
+        filesize < 50KB and $s9 at 0 and all of them
+}
+Appendix N: CastleRAT Sigma Rulestitle: CastleRAT C Variant Malware Log File Creation
+id: 4d785ac8-17fe-4765-b427-9a31073ad1a7
+status: stable
+description: Detects CastleRAT C variant malware log file creation events. The log file is used to store output from the keylogger and clipboard stealer.
+references:
+  - https://tria.ge/250701-v6911aykv9
+  - https://tria.ge/251101-r8f9xstjap
+author: Insikt Group, Recorded Future
+date: 2025-08-29
+level: high
+tags:
+  - attack.t1608 # Stage Capabilities
+  - attack.t1074.001 # Local Data Staging
+  - attack.t1115 # Clipboard Data
+  - attack.t1056.001 # Keylogging
+logsource:
+  product: windows
+  category: file_event
+detection:
+  castlerat_logs:
+    TargetFilename|endswith:
+      - '\AppData\Local\Temp\MuuuuuhGer3'
+      - '\AppData\Local\Temp\PluhhSuk3'
+      - '\AppData\Local\Temp\AsdDsaHaha3'
+      - '\AppData\Local\Temp\ChuChuka'
+      - '\AppData\Local\Temp\GagikMaraguiSS'
+      - '\AppData\Local\Temp\LowUshrSudujes'
+      - '\AppData\Local\Temp\RarnuiKarta'
+      - '\AppData\Local\Temp\GrazGraznii'
+      - '\AppData\Local\Temp\GiveGvein3'
+      - '\AppData\Local\Temp\BeruiowdgsouiHTR'
+      - '\AppData\Local\Temp\GDSongdsgndohSDU'
+      - '\AppData\Local\JohniiDepp'
+      - '\AppData\Local\LuchiiSvet'
+      - '\AppData\Local\HmmMaybe'
+  condition: castlerat_logs
+falsepositives:
+  - Unlikely
+
+title: CastleRAT Python Malware Self Deletion
+id: 1050a0c4-1110-4b55-938c-0d27259ddd1e
+status: stable
+description: Detects the execution of powershell by the Python variant of CastleRAT malware to delete itself.
+references:
+  - https://tria.ge/250822-r3a6qaak2t
+author: Insikt Group, Recorded Future
+date: 2025-08-28
+tags:
+  - attack.t1070.004   # Indicator Removal: File Deletion
+logsource:
+    product: windows
+    category: process_creation
+detection:
+    self_delete:
+        CommandLine|endswith: 'powershell Start-Sleep -Seconds 4; Remove-Item -Path * -Force; exit'
+    condition: self_delete
+level: high
+falsepositives:
+  - Potential benign installer activity
+
+title: CastleRAT C Malware Self Deletion
+id: 79268bc8-3220-447d-bc7a-02199bed58e9
+status: stable
+description: Detects the execution of powershell by the C variant of CastleRAT malware to delete itself.
+references:
+  - https://tria.ge/251101-lh19hstqft/behavioral2
+author: Insikt Group, Recorded Future
+date: 2025-11-06
+tags:
+  - attack.t1070.004   # Indicator Removal: File Deletion
+logsource:
+    product: windows
+    category: process_creation
+detection:
+    self_delete:
+        CommandLine|endswith: 'powershell Start-Sleep -Seconds 3; Remove-Item -Path * -Force'
+    condition: self_delete
+level: high
+falsepositives:
+  - Potential benign installer activity
+Appendix O: MITRE ATT&CK Techniques Drive-by Compromise User Execution: Malicious File User Execution: Malicious Copy and Paste Command and Scripting Interpreter: PowerShell Command and Scripting Interpreter: AutoHotKey & AutoIT Acquire Infrastructure: Domains Acquire Infrastructure: Virtual Private Server Acquire Infrastructure: Server Acquire Access Obtain Capabilities: Tool Compromise Accounts: Email Accounts Masquerading Proxy: External Proxy Application Layer Protocol: Web Protocols Ingress Tool Transfer Data from Local System]]></content:encoded></item><item><title>Malicious VSCode extensions on Microsoft&apos;s registry drop infostealers</title><link>https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-on-microsofts-registry-drop-infostealers/</link><author>Bill Toulas</author><category>security</category><pubDate>Mon, 8 Dec 2025 22:30:19 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[Two malicious extensions on Microsoft's Visual Studio Code Marketplace infect developers' machines with information-stealing malware that can take screenshots, steal credentials, and hijack browser sessions. [...]]]></content:encoded></item><item><title>FinCEN says ransomware gangs extorted over $2.1B from 2022 to 2024</title><link>https://www.bleepingcomputer.com/news/security/fincen-says-ransomware-gangs-extorted-over-21b-from-2022-to-2024/</link><author>Lawrence Abrams</author><category>security</category><pubDate>Mon, 8 Dec 2025 21:07:30 +0000</pubDate><source url="https://www.bleepingcomputer.com/">BleepingComputer</source><content:encoded><![CDATA[A new report by the Financial Crimes Enforcement Network (FinCEN) shows that ransomware activity peaked in 2023 before falling in 2024, following a series of law enforcement actions targeting the ALPHV/BlackCat and LockBit ransomware gangs. [...]]]></content:encoded></item><item><title>Inmate Hacks Prison: Watches P***, Prints Money, Reduces Sentence</title><link>https://www.youtube.com/watch?v=-xCp7nag3GM</link><author>Seytonic</author><category>security</category><enclosure url="https://www.youtube.com/v/-xCp7nag3GM?version=3" length="" type=""/><pubDate>Mon, 8 Dec 2025 20:39:30 +0000</pubDate><source url="https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA">Seytonic</source><content:encoded><![CDATA[0:00 Intro
 0:18 Prisoner HACKS Jail: Watches P***, Prints Money, Reduces Sentence
 3:38 India Doesn't Want You To Delete This App
 6:19 Hacking a Radio Station
@@ -221,8 +800,8 @@ Collaborating across the community
 We have a long-standing commitment to working with the broader security research community to advance security together, and this includes agentic safety. We’ve updated our Vulnerability Rewards Program (VRP) guidelines to clarify how external researchers can focus on agentic capabilities in Chrome. We want to hear about any serious vulnerabilities in this system, and will pay up to $20,000 for those that demonstrate breaches in the security boundaries. The full details are available in VRP rules.
 
 The upcoming introduction of agentic capabilities in Chrome brings new demands for browser security, and we've approached this challenge with the same rigor that has defined Chrome's security model from its inception. By extending some core principles like origin-isolation and layered defenses, and introducing a trusted-model architecture, we're building a secure foundation for Gemini’s agentic experiences in Chrome. This is an evolving space, and while we're proud of the initial protections we've implemented, we recognize that security for web agents is still an emerging domain. We remain committed to continuous innovation and collaboration with the security community to ensure Chrome users can explore this new era of the web safely.
-]]></content:encoded></item><item><title>⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs &amp; More</title><link>https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw9wcOYBGPYdrtvxTGveUK8K-q57nUkvAE5iG75-i-guZK-dU8V0pX8R8Eq3cyNjmLfffsTjYjV-0-F58wtiD0fzXLGuDIsBm-y0uze879-yzNrTBLaLWnDFx9pFuNVka7MdcdBnov6-ake3ddnw595pXmgmOFDouAPbhxzTHqhPSkxKxb7P229h8XwnR2/s1600/recap-main.jpg" length="" type=""/><pubDate>Mon, 8 Dec 2025 12:44:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[It’s been a week of chaos in code and calm in headlines. A bug that broke the internet’s favorite framework, hackers chasing AI tools, fake apps stealing cash, and record-breaking cyberattacks — all within days. If you blink, you’ll miss how fast the threat map is changing.
-New flaws are being found, published, and exploited in hours instead of weeks. AI-powered tools meant to help developers]]></content:encoded></item><item><title>CVE-2025-42620 - CSRF vulnerability in CIRCL Vulnerability-Lookup</title><link>https://cvefeed.io/vuln/detail/CVE-2025-42620</link><author></author><category>vulns</category><pubDate>Mon, 8 Dec 2025 12:15:15 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-42620
+]]></content:encoded></item><item><title>⚡ Weekly Recap: USB Malware, React2Shell, WhatsApp Worms, AI IDE Bugs &amp; More</title><link>https://thehackernews.com/2025/12/weekly-recap-usb-malware-react2shell.html</link><author></author><category>security</category><pubDate>Mon, 8 Dec 2025 12:44:00 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
+            It's been a week of chaos in code and calm in headlines. A bug that broke the internet's favorite framework, hackers chasing AI tools, fake apps stealing cash, and record-breaking cyberattacks — all w ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>CVE-2025-42620 - CSRF vulnerability in CIRCL Vulnerability-Lookup</title><link>https://cvefeed.io/vuln/detail/CVE-2025-42620</link><author></author><category>vulns</category><pubDate>Mon, 8 Dec 2025 12:15:15 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-42620
  Dec. 8, 2025, 1:15 p.m. | 13 hours, 32 minutes ago
 In affected versions, vulnerability-lookup handled user-controlled 
 content in comments and bundles in an unsafe way, which could lead to 
@@ -326,8 +905,9 @@ FULLBACK Manager Pro provided by GS Yuasa International Ltd. registers  two Wind
  8.4 | HIGH
 
 Visit the link for more details, such as CVSS details, affected products, timeline, and more...
-]]></content:encoded></item><item><title>Twelve Days of Shell</title><link>https://12days.cmdchallenge.com/</link><author>zoidb</author><category>dev</category><pubDate>Mon, 8 Dec 2025 10:13:07 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks</title><link>https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html</link><author>The Hacker News</author><category>security</category><enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW436xusfcObfG2LGJplqSv9pCE0mKE4E6ztdzCE5vP2Va7mLqTYxGSyjEZGdw0klXx-7D6kprLyKKumknqgC34zuVXl9tcWzG3ocoK18XcOwDF9hBaX7nqDxTMy8GwsslXMsqd456TEX2JU2LTeP0lVpiMFF7c61b9v2cUpzA4DI2hos7MH9j3E6B6lvk/s1600/wordpresss.jpg" length="" type=""/><pubDate>Mon, 8 Dec 2025 09:15:00 +0000</pubDate><source url="https://thehackernews.com/">The Hacker News</source><content:encoded><![CDATA[A critical security flaw in the Sneeit Framework plugin for WordPress is being actively exploited in the wild, per data from Wordfence.
-The remote code execution vulnerability in question is CVE-2025-6389 (CVSS score: 9.8), which affects all versions of the plugin prior to and including 8.3. It has been patched in version 8.4, released on August 5, 2025. The plugin has more than 1,700 active]]></content:encoded></item><item><title>&apos;Tienduizenden ip-adressen kwetsbaar door React2Shell-lek&apos;</title><link>https://www.security.nl/posting/916265/%27Tienduizenden+ip-adressen+kwetsbaar+door+React2Shell-lek%27?channel=rss</link><author></author><category>security</category><pubDate>Mon, 8 Dec 2025 09:10:00 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
+]]></content:encoded></item><item><title>Twelve Days of Shell</title><link>https://12days.cmdchallenge.com/</link><author>zoidb</author><category>dev</category><pubDate>Mon, 8 Dec 2025 10:13:07 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[]]></content:encoded></item><item><title>Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks</title><link>https://thehackernews.com/2025/12/sneeit-wordpress-rce-exploited-in-wild.html</link><author></author><category>security</category><pubDate>Mon, 8 Dec 2025 09:15:00 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[Sneeit WordPress RCE Exploited in the Wild While ICTBroadcast Bug Fuels Frost Botnet Attacks
+            A critical security flaw in the Sneeit Framework plugin for WordPress is being actively exploited in the wild, per data from Wordfence.
+The remote code execution vulnerability in question is CVE-2025- ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>&apos;Tienduizenden ip-adressen kwetsbaar door React2Shell-lek&apos;</title><link>https://www.security.nl/posting/916265/%27Tienduizenden+ip-adressen+kwetsbaar+door+React2Shell-lek%27?channel=rss</link><author></author><category>security</category><pubDate>Mon, 8 Dec 2025 09:10:00 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
             Tienduizenden ip-adressen wereldwijd zijn kwetsbaar voor een kritiek beveiligingslek in React Server Components, ook wel bekend als CVE-2025-55182 en React2Shell, zo meldt The Shadowserver Foundation  ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>The fuck off contact page</title><link>https://www.nicchan.me/blog/the-f-off-contact-page/</link><author>OuterVale</author><category>dev</category><pubDate>Mon, 8 Dec 2025 08:57:19 +0000</pubDate><source url="https://news.ycombinator.com/best">Best of HackerNews</source><content:encoded><![CDATA[Many years ago, I had a client that sold a service. They weren’t a design agency, but for the sake of anonymity, we’ll just call them a design agency. Let us say that their core offering was a full-service design package, but they also made a substantial part of their income from doing smaller tasks related to their primary offering. These kind of services included smaller tasks like one-off campaigns or newsletter designs; tasks that their customers may very well be able to do on their own, but the prospect of freeing up some time by by offloading it to an expert was a tempting offer for many of their customers, and made up a significant chunk of their revenue.We were hired to do a complete redesign of their site from the ground up. The process went smoothly at first, all the wireframes were approved without issue, but when it came to the design phase, we began to hit walls. For example, they would stumble across sites that they liked and wanted to depart from the agreed-upon wireframes in order to implement a similar design.The problem was, they were thinking about their inspiration sites from an aesthetic point of view, not from a user experience perspective. Their decisions were coming from a place of ‘we like the balance of imagery and text  in this page’ and not ‘we think this design will achieve the intended goal of the page.’ Now, you know me, I love a good singular gilded lily, but the client had unwittingly stumbled across a trap, they had fallen in love with what I call a “Fuck off contact page.”What the fuck is a ‘fuck off contact page?’A “fuck off contact page” is what a company throws together when they actually don’t want anyone to contact them at all. They are usually found on the websites of million or billion dollar companies, likely Software-as-a-service (SaaS) companies that are trying to reduce the amount of money they spend on support by carefully hiding the real support channels behind login walls. These companies tend to offer multiple tiers of support, with enterprise customers having a customer success manager who they can call on this ancient device we call phones, whereas the lower-paying customers may have to wrangle various in-app ticket mechanisms. If you solve your own problem by reading the knowledge base, then this is a win for the company. They don’t want to hear from you, they want you to fuck off.In other words, this is entirely inappropriate for the kind of service-based agency that our client was. The billion dollar SaaS company wants to reduce the number of incoming inquiries, and is hoping to weed out anyone who is not determined to contact them by giving them unsatisfying options. The service company wants to show how helpful they are and cultivate leads. These are fundamentally opposing goals.Let me explain further. I’m not sure about you, but as a user, when I see a button that says ‘talk to our sales team’, I treat the entire region of the page with the same trepidation as nuclear waste. The page is now a no-go zone, and I try to exit as quickly as possible, knowing that whatever my original query was, I’m going to have to solve it unassisted. Seeing as this is a company who makes money off of convincing people to let them handle the easy stuff, adding friction to this key part of their sales funnel just doesn’t feel like a winning strategy.How the fuck did you convince them to change their minds?Try as we might, we couldn’t. In all honesty, we probably could have done more in order to talk them out of it, but the project had gone in such a way where we were focused on trying to talk the client out of changing other things that would drastically increase design or development time beyond the initial scope. In other words, we were too busy putting out other fires. This re-designed contact page, as certain as we were of how bad of an idea it was, wasn’t a fire, so we let it through.The project finished on time, everyone got paid, and the client was happy with the end result, but I still felt very disappointed in the whole thing. While I personally believe in the value of good design, I also believe there are a lot of smoke-and-mirrors in the industry, and I hated the thought that I might have inadvertently contributed to it. Even if the client is happy, it didn’t meet my internal bar for a quality product worth sticking my name on, and I feel like I’ve let down both the client and the end-users.How the fuck do I avoid being in a position where I’m asked to implement a ‘fuck off contact page’?I think our problems started from before we even began to touch a single design tool. As a favor to one of the folks involved, we had discounted our rates for this client, and I think that set us off on the wrong foot. Instead of seeing us as people who brought valuable knowledge and expertise to the project, they saw us as the hands that would execute their vision.Especially for those not familiar with the process of design, it can be tempting to see things like discovery and wireframing as obstacles to be cleared before you get to the fun part, designing the visual identity. Unfortunately, many designers are also guilty of this!As service providers, I believe we need to do a better job on educating clients on the design process and why each step is so important. This is radical idea in some circles, but knowing why you’re building something is a necessary part of doing a good job at it! That’s why we do things like determining the architecture before we start thinking about the brand. Flow charts and diagrams are not as fun as interactive prototypes, but they’re much more important to get right.Also, the discounted pricing probably didn’t help — instead of signaling that we were doing a favor out of respect for them, it just signaled that we were easily exploitable. There was a lack of trust throughout the process, on both sides. While I really want to believe that I can have the kind of relationships with clients where constructive disagreement is welcomed and valued, how I get there is still something I’m figuring out, even many years later.I think that’s part of the reason why I blog. By blogging, I’m putting a body of work out there that communicates my values and ethos. While much of the details of my client work has to remain private, these posts can be public, and hopefully they can help me find people who resonate with what I have to offer. Or you know, just be bold enough to communicate ‘Fuck off’ to those who don’t!(Feel free to reach out if you’re interested in working with folks who care, maybe a little too much, about doing right by your users.)]]></content:encoded></item><item><title>CVE-2025-26487 - Server Side Request Forgery (SSRF) in the web server of Infinera MTC-9</title><link>https://cvefeed.io/vuln/detail/CVE-2025-26487</link><author></author><category>vulns</category><pubDate>Mon, 8 Dec 2025 08:44:34 +0000</pubDate><source url="https://cvefeed.io/vuln/latest/">CVE Feed High</source><content:encoded><![CDATA[CVE-2025-26487
  Dec. 8, 2025, 9:15 a.m. | 17 hours, 32 minutes ago
 Server-Side Request Forgery (SSRF) vulnerability in Infinera MTC-9 version allows 
@@ -1876,11 +2456,7 @@ fi
 aws sagemaker update-notebook-instance \
 aws sagemaker wait notebook-instance-stopped \
 aws sagemaker start-notebook-instance \
-Generalized privilege escalation pattern with execution rolesCan we generalize further and elsewhere? Probably. (I think it works for SageMaker Studios too, hehe).Typically, you can’t pass around different privileges like this in AWS unless you have been authorized to do so. That is what the PassRole permission was designed to control. This type of privilege escalation works for two reasons:The PassRole check happens at configuration time. That is, when you call an API that sets the execution role for a particular resource, that’s the moment the check is performed. Then and only then.There are sometimes paths to modify what actions will be taken, most notably in the form of custom code, after execution role configuration time. This disentangles the two permission checks from the privileged actions.If you want to be a clever little hacker, you can probably scour all the API models in AWS, look for where execution roles are used, and then methodically review them for the second reason above. You’d quickly come across lambda:UpdateFunctionCode to change function code after initial setup and lambda:UpdateFunctionConfiguration to add layers that will auto execute when the function runs. Lucian Patian recently (re)discovered (and Erik Steringer and Marco Slaviero before) this pattern applies to cloudformation:CreateChangeSet plus cloudformation:ExecuteChangeSet combination.If you’re wondering how to spot this happening in the wild, the indicators are fairly straightforward. In both EC2 and SageMaker versions, the attacker isn’t stealing credentials out of thin air, they’re modifying something that shouldn’t normally change: userData on EC2 or the lifecycle config on a Notebook. In CloudTrail, look for unusual patterns of  →  →  on EC2, or  →  →  on SageMaker, especially when done by identities that don’t normally manage that specific compute.From a prevention perspective, the fix is equally boring: reduce who can modify the boot-time configuration and enforce a tight boundary around ec2:ModifyInstanceAttribute, sagemaker:UpdateNotebookInstance, and lifecycle config management. And if you really want to be fancy, require approvals or out-of-band review on any config-change-then-start pattern. The TL;DR: treat any ability to change startup code as equivalent to “run arbitrary code as the execution role,” because that’s exactly what it is.Isn’t it beautiful outside today?30°C (86°F) in Sydney today. A perfect day. So I used this opportunity to email the AWS Vulnerability Disclosure Program (VDP) to let them know of the great tragedy of this privilege escalation. Here’s what they had to say:[Edit coming soon, I can feel it]I don’t know if I would classify this as a vulnerability. Would you? This feels more like an unfortunate side effect of the design choices of the platform. Some slightly older friends might call it an architecture flaw. Regardless, there’s no panic required. Just look out for these privilege combinations when you are building your castle in the clouds.By the way, there’s been an immense amount of work over the years on AWS privesc. Much, not all, has been collated or linked on HackingTheCloud, so go check that out if you are interested in the topic.]]></content:encoded></item><item><title>China-Nexus Hackers Actively Exploiting React2Shell Vulnerability in The Wild</title><link>https://cybersecuritynews.com/china-nexus-hackers-exploiting-react2shell-flaw/</link><author></author><category>security</category><pubDate>Fri, 5 Dec 2025 04:16:35 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
-            China-nexus threat groups are racing to weaponize the new React2Shell bug, tracked as CVE-2025-55182, only hours after its public disclosure.
-The flaw sits in React Server Components and lets an attac ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>PoC Exploit Released for Critical React, Next.js RCE Vulnerability (CVE-2025-55182)</title><link>https://cybersecuritynews.com/poc-exploit-react-next-js/</link><author></author><category>security</category><pubDate>Fri, 5 Dec 2025 03:39:21 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
-            A proof-of-concept (PoC) exploit for CVE-2025-55182, a maximum-severity remote code execution (RCE) flaw in React Server Components, surfaced publicly this week, heightening alarms for developers worl ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>Russia Imposes Network-Level Blockade on Apple’s End-to-End Encrypted FaceTime</title><link>https://securityonline.info/russia-imposes-network-level-blockade-on-apples-end-to-end-encrypted-facetime/</link><author></author><category>security</category><pubDate>Fri, 5 Dec 2025 03:19:39 +0000</pubDate><source url="https://cvefeed.io/rssfeed/newsroom.xml">Latest Newsroom</source><content:encoded><![CDATA[
-            Russia has recently imposed a network-level blockade on Apple’s video-calling service FaceTime, which is developed and operated entirely by Apple and provides users with end-to-end encrypted audio and ... Vulnerabilities has been mentioned in this article.]]></content:encoded></item><item><title>The Normalization of Deviance in AI</title><link>https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/</link><author>(Dayzerosec.com)</author><category>vulns</category><pubDate>Fri, 5 Dec 2025 02:42:47 +0000</pubDate><source url="https://0dayfans.com/feed.rss">0dayFans</source><content:encoded><![CDATA[# The Normalization of Deviance in AI
+Generalized privilege escalation pattern with execution rolesCan we generalize further and elsewhere? Probably. (I think it works for SageMaker Studios too, hehe).Typically, you can’t pass around different privileges like this in AWS unless you have been authorized to do so. That is what the PassRole permission was designed to control. This type of privilege escalation works for two reasons:The PassRole check happens at configuration time. That is, when you call an API that sets the execution role for a particular resource, that’s the moment the check is performed. Then and only then.There are sometimes paths to modify what actions will be taken, most notably in the form of custom code, after execution role configuration time. This disentangles the two permission checks from the privileged actions.If you want to be a clever little hacker, you can probably scour all the API models in AWS, look for where execution roles are used, and then methodically review them for the second reason above. You’d quickly come across lambda:UpdateFunctionCode to change function code after initial setup and lambda:UpdateFunctionConfiguration to add layers that will auto execute when the function runs. Lucian Patian recently (re)discovered (and Erik Steringer and Marco Slaviero before) this pattern applies to cloudformation:CreateChangeSet plus cloudformation:ExecuteChangeSet combination.If you’re wondering how to spot this happening in the wild, the indicators are fairly straightforward. In both EC2 and SageMaker versions, the attacker isn’t stealing credentials out of thin air, they’re modifying something that shouldn’t normally change: userData on EC2 or the lifecycle config on a Notebook. In CloudTrail, look for unusual patterns of  →  →  on EC2, or  →  →  on SageMaker, especially when done by identities that don’t normally manage that specific compute.From a prevention perspective, the fix is equally boring: reduce who can modify the boot-time configuration and enforce a tight boundary around ec2:ModifyInstanceAttribute, sagemaker:UpdateNotebookInstance, and lifecycle config management. And if you really want to be fancy, require approvals or out-of-band review on any config-change-then-start pattern. The TL;DR: treat any ability to change startup code as equivalent to “run arbitrary code as the execution role,” because that’s exactly what it is.Isn’t it beautiful outside today?30°C (86°F) in Sydney today. A perfect day. So I used this opportunity to email the AWS Vulnerability Disclosure Program (VDP) to let them know of the great tragedy of this privilege escalation. Here’s what they had to say:[Edit coming soon, I can feel it]I don’t know if I would classify this as a vulnerability. Would you? This feels more like an unfortunate side effect of the design choices of the platform. Some slightly older friends might call it an architecture flaw. Regardless, there’s no panic required. Just look out for these privilege combinations when you are building your castle in the clouds.By the way, there’s been an immense amount of work over the years on AWS privesc. Much, not all, has been collated or linked on HackingTheCloud, so go check that out if you are interested in the topic.]]></content:encoded></item><item><title>The Normalization of Deviance in AI</title><link>https://embracethered.com/blog/posts/2025/the-normalization-of-deviance-in-ai/</link><author>(Dayzerosec.com)</author><category>vulns</category><pubDate>Fri, 5 Dec 2025 02:42:47 +0000</pubDate><source url="https://0dayfans.com/feed.rss">0dayFans</source><content:encoded><![CDATA[# The Normalization of Deviance in AI
 
 The AI industry risks repeating the same cultural failures that contributed to the Space Shuttle Challenger disaster: Quietly normalizing warning signs while progress marches forward.
 
