@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-09T08:18:17.693Z",
+  "updatedAt": "2025-12-09T09:16:05.385Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : The Wardlaw-Hartridge School",
+      "link": "https://www.ransomware.live/id/VGhlIFdhcmRsYXctSGFydHJpZGdlIFNjaG9vbEB3b3JsZGxlYWtz",
+      "summary": "[AI generated] The Wardlaw-Hartridge School is a private, nonsectarian, coeducational day school located in Edison, New Jersey. Open from PreK-3 through 12th Grade, it provides college preparatory education. It focuses on academic excellence, global awareness and character development, in order to ensure students become responsible, adaptable, and confident world citizens. The school offers a growing selection of arts, athletics, and other extracurricular activities.",
+      "pubDate": "Tue, 09 Dec 2025 08:56:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?8a174a63160ed2e2938d845e6e56008e",
+      "group": "Worldleaks",
+      "victim": "The Wardlaw-Hartridge School",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Empresas Maggi",
+      "link": "https://www.ransomware.live/id/RW1wcmVzYXMgTWFnZ2lAd29ybGRsZWFrcw==",
+      "summary": "[AI generated] Empresas Maggi is a leading Bolivian company intimately involved in the cultivation and production of organic and natural foods. Founded in 1985, the company specializes in a broad range of products such as grains, oils, honey, and other organic food items. Empresas Maggi&#x27;s operation extends from cultivation and production to marketing and distribution, focusing on providing its customers with top-quality natural and organic food products.",
+      "pubDate": "Tue, 09 Dec 2025 08:55:06 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/worldleaks?eb9858599d98b228e6bb7eea1ab00ada",
+      "group": "Worldleaks",
+      "victim": "Empresas Maggi",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Municipality of North Perth (Canada)",
+      "link": "https://www.ransomware.live/id/TXVuaWNpcGFsaXR5IG9mIE5vcnRoIFBlcnRoIChDYW5hZGEpQHdvcmxkbGVha3M=",
+      "summary": "[AI generated] The Municipality of North Perth is a town in Ontario, Canada. It is located in Perth County, and consists of several smaller communities, including Listowel, Atwood, Gowanstown, and Monkton. The local government provides services such as waste management, parks and recreation, and community planning. In terms of industry, North Perth has agricultural roots, with modern growth in manufacturing and technology sectors.",
+      "pubDate": "Tue, 09 Dec 2025 08:54:20 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/worldleaks?ffb36bf8dc435a614c50e4096fee6fe0",
+      "group": "Worldleaks",
+      "victim": "Municipality of North Perth (Canada)",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : chemstress.com",
+      "link": "https://www.ransomware.live/id/Y2hlbXN0cmVzcy5jb21Ac2FmZXBheQ==",
+      "summary": "Since its founding in 1965, the company has combined in-house disciplines — process, mechanical, piping, structural, instrumentation, electrical, and architectural …",
+      "pubDate": "Tue, 09 Dec 2025 08:49:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?ba96ee67af279ad4ed7861d6908d365a",
+      "group": "Safepay",
+      "victim": "chemstress.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Serratelli Hat",
       "link": "https://www.ransomware.live/id/U2VycmF0ZWxsaSBIYXRAcWlsaW4=",
@@ -2157,50 +2201,6 @@
       "group": "Nightspire",
       "victim": "Davis Kitchens, United States",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Quality Engineered Homes",
-      "link": "https://www.ransomware.live/id/UXVhbGl0eSBFbmdpbmVlcmVkIEhvbWVzQGFraXJh",
-      "summary": "Quality Homes has been building custom homes and cottages across  Ontario since 1987.  We are ready to upload 35gb of corporate data. Employee informati on (DLs, phones, addresses and so on), agreements and contracts,  detailed financials, client information, projects, disclosure agr eements, etc.",
-      "pubDate": "Wed, 03 Dec 2025 16:19:34 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/akira?391c8608fe948aca31f3ca55c2246a25",
-      "group": "Akira",
-      "victim": "Quality Engineered Homes",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Pan-O-Gold Baking Company",
-      "link": "https://www.ransomware.live/id/UGFuLU8tR29sZCBCYWtpbmcgQ29tcGFueUBha2lyYQ==",
-      "summary": "With a rich history dating back to 1906, Pan-O-Gold Baking Compan y has grown to include three state-of-the-art bakeries, making us one of the top wholesale bakers in the Midwest. We are ready to upload 21gb of corporate data. Employee informati on (DOB, phones, addresses and so on), agreements and contracts,  detailed financials, client information, large amount of internal documents.",
-      "pubDate": "Wed, 03 Dec 2025 16:19:29 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?316d58482b2db7131b154cf63e843d8f",
-      "group": "Akira",
-      "victim": "Pan-O-Gold Baking Company",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nitrogen has just published a new victim : Golden Artist Colors",
-      "link": "https://www.ransomware.live/id/R29sZGVuIEFydGlzdCBDb2xvcnNAbml0cm9nZW4=",
-      "summary": "A major manufacturer of art materials for professional artists and designers: acrylic paints, oils, watercolors, pastels and other media/materials.",
-      "pubDate": "Wed, 03 Dec 2025 15:48:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nitrogen?22ea45f14ffcd699f7564dcf377c17c1",
-      "group": "Nitrogen",
-      "victim": "Golden Artist Colors",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Benzona has just published a new victim : SUNNYGO.COM.TW",
-      "link": "https://www.ransomware.live/id/U1VOTllHTy5DT00uVFdAYmVuem9uYQ==",
-      "summary": "[AI generated] \"SUNNYGO.COM.TW\" is an online retailer based in Taiwan. The company specializes in the sales and distribution of a broad range of products across various categories. These include electronics, beauty products, home goods, fashion items, and more. It&#x27;s well-renowned for providing quality products at competitive prices. Through its platform, it offers a comprehensive shopping experience to its customers, involving easy payment methods and quick delivery services.",
-      "pubDate": "Wed, 03 Dec 2025 15:13:49 +0000",
-      "category": "TW",
-      "guid": "https://www.ransomware.live/group/benzona?2631e0e3c9871493125d6865d9718882",
-      "group": "Benzona",
-      "victim": "SUNNYGO.COM.TW",
-      "country": "TW"
     }
   ]
 }
