@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-09T19:09:38.208Z",
+  "updatedAt": "2025-12-09T20:12:32.848Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : James Free Jewelers",
+      "link": "https://www.ransomware.live/id/SmFtZXMgRnJlZSBKZXdlbGVyc0BzaW5vYmk=",
+      "summary": "James Free Jewelers specializes in fine jewelry and diamonds, offering a selection of engagement rings, Swiss timepieces, and luxury jewelry from renowned designers such as Mikimoto and Roberto Coin. Their extensive collection includes rings, bracelets, necklaces, and watches from prestigious brands like Rolex and Tudor. The company also provides custom jewelry design, repair services, and financing options tailored for clients seeking high-quality pieces. With locations in Dayton and Cincinnati, they cater to both local and online customers looking for exquisite jewelry and timepieces.",
+      "pubDate": "Tue, 09 Dec 2025 19:56:56 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?18cf7bf3e52863677641b0386a30be1c",
+      "group": "Sinobi",
+      "victim": "James Free Jewelers",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Clean Air",
+      "link": "https://www.ransomware.live/id/Q2xlYW4gQWlyQHNpbm9iaQ==",
+      "summary": "Baker Co. specializes in the engineering, testing, and manufacturing of made-to-order laboratory safety equipment, boasting over 100 years of industry experience. Their product offerings include biological safety cabinets, clean benches, pharmaceutical isolators, and fume hoods, among others. The company serves various sectors including biotechnology, pharmaceuticals, microbiology, and life sciences. With a commitment to biosafety and contamination control, Baker Co. collaborates with scientific partners to provide tailored solutions for laboratory automation and precision cell culture.",
+      "pubDate": "Tue, 09 Dec 2025 19:56:36 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?8909f4473792c5ec24ea47bc77f0fc0d",
+      "group": "Sinobi",
+      "victim": "Clean Air",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Tupi",
       "link": "https://www.ransomware.live/id/VHVwaUBxaWxpbg==",
@@ -2179,28 +2201,6 @@
       "group": "Akira",
       "victim": "ABC Home & Commercial Services",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Scientology",
-      "link": "https://www.ransomware.live/id/U2NpZW50b2xvZ3lAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 15:26:25 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?e7a6c13828ca692edf1afa31103a64e8",
-      "group": "Qilin",
-      "victim": "Scientology",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Espaço Casa",
-      "link": "https://www.ransomware.live/id/RXNwYcOnbyBDYXNhQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 15:25:45 +0000",
-      "category": "PT",
-      "guid": "https://www.ransomware.live/group/qilin?139c38316946faec898072d71846ccbe",
-      "group": "Qilin",
-      "victim": "Espaço Casa",
-      "country": "PT"
     }
   ]
 }
