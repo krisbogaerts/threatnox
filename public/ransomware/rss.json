@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-10T02:49:38.833Z",
+  "updatedAt": "2025-12-10T03:51:43.849Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cisneros",
+      "link": "https://www.ransomware.live/id/Q2lzbmVyb3NAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 02:45:00 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?761b9182d5e5cd417dd4cabd4bd69c64",
+      "group": "Qilin",
+      "victim": "Cisneros",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : rainbowtel.net",
       "link": "https://www.ransomware.live/id/cmFpbmJvd3RlbC5uZXRAaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "National Health Insurance Management Authority",
       "country": "KE"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Smith Fire Systems",
-      "link": "https://www.ransomware.live/id/U21pdGggRmlyZSBTeXN0ZW1zQGFudWJpcw==",
-      "summary": "A company that provides comprehensive fire protection services for buildings.",
-      "pubDate": "Thu, 04 Dec 2025 23:48:41 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/anubis?6e3bb545a4a728d177ec511e3d314e5b",
-      "group": "Anubis",
-      "victim": "Smith Fire Systems",
-      "country": ""
     }
   ]
 }
