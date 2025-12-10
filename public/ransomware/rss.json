@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-09T23:12:31.920Z",
+  "updatedAt": "2025-12-10T00:57:40.690Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Teruya Brothers Ltd",
+      "link": "https://www.ransomware.live/id/VGVydXlhIEJyb3RoZXJzIEx0ZEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 09 Dec 2025 23:50:01 +0000",
+      "category": "UY",
+      "guid": "https://www.ransomware.live/group/qilin?1796bcfad70948139022af0fa8763954",
+      "group": "Qilin",
+      "victim": "Teruya Brothers Ltd",
+      "country": "UY"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : CPS",
       "link": "https://www.ransomware.live/id/Q1BTQHNpbm9iaQ==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?1b630c086cbe2716dae0af48bad082d0",
       "group": "Qilin",
       "victim": "Kana Pipeline Inc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Medisend",
-      "link": "https://www.ransomware.live/id/TWVkaXNlbmRAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 18:26:52 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?7437cd5fc14c6e9bfba67af455ff3184",
-      "group": "Qilin",
-      "victim": "Medisend",
       "country": "US"
     }
   ]
