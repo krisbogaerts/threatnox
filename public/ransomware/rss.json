@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-10T17:15:27.789Z",
+  "updatedAt": "2025-12-10T18:19:28.248Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Lonich Patton Ehrlich Policastri",
+      "link": "https://www.ransomware.live/id/TG9uaWNoIFBhdHRvbiBFaHJsaWNoIFBvbGljYXN0cmlAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 17:48:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?636636df5250848d167a98f7bef74d3b",
+      "group": "Qilin",
+      "victim": "Lonich Patton Ehrlich Policastri",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Kirby Agri",
       "link": "https://www.ransomware.live/id/S2lyYnkgQWdyaUBha2lyYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "hyperdomemedicalcentre.com.au",
       "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : King City Lumber",
-      "link": "https://www.ransomware.live/id/S2luZyBDaXR5IEx1bWJlckBkcmFnb25mb3JjZQ==",
-      "summary": "King City Lumber is a well-established provider of quality lumber and building materials, specializing in custom metal structures for over 50 years in the Midwest. The company caters to a diverse clientele, offering solutions for commercial, residential, agricultural, and storage needs. By engaging with clients to understand their specific requirements, they assist in selecting the right metal building for projects ranging from garages to horse barns. King City Lumber is committed to providing excellent service and expert advice throughout the building process",
-      "pubDate": "Fri, 05 Dec 2025 18:14:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?de0a612141589755d4315dc669cc3b9a",
-      "group": "Dragonforce",
-      "victim": "King City Lumber",
-      "country": "US"
     }
   ]
 }
