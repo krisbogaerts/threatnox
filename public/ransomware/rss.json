@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-12-10T05:14:14.071Z",
+  "updatedAt": "2025-12-10T06:19:42.218Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : CIDEF Argentina S.A.",
+      "link": "https://www.ransomware.live/id/Q0lERUYgQXJnZW50aW5hIFMuQS5AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 05:49:10 +0000",
+      "category": "AR",
+      "guid": "https://www.ransomware.live/group/qilin?be2318dfb39fbe6ae746e1b1df893a1c",
+      "group": "Qilin",
+      "victim": "CIDEF Argentina S.A.",
+      "country": "AR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sem Val de Bourgogne",
+      "link": "https://www.ransomware.live/id/U2VtIFZhbCBkZSBCb3VyZ29nbmVAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 05:48:35 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?1a528470790a49eeb58c0eb4f1768edb",
+      "group": "Qilin",
+      "victim": "Sem Val de Bourgogne",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Urban Remedy",
+      "link": "https://www.ransomware.live/id/VXJiYW4gUmVtZWR5QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 05:47:58 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?6cee5f6a6298ee32002cd79b1b8f8038",
+      "group": "Qilin",
+      "victim": "Urban Remedy",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Don Ricardo",
+      "link": "https://www.ransomware.live/id/RG9uIFJpY2FyZG9AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 05:47:21 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?97bcc7756e12c695639bf26e5ea2ad45",
+      "group": "Qilin",
+      "victim": "Don Ricardo",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Vestil Manufacturing",
+      "link": "https://www.ransomware.live/id/VmVzdGlsIE1hbnVmYWN0dXJpbmdAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 05:46:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?54a1a18142273504c53b2810a4de03e1",
+      "group": "Qilin",
+      "victim": "Vestil Manufacturing",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cdf",
+      "link": "https://www.ransomware.live/id/Q2RmQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 05:46:07 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?ec4daf8ed2744d1fc766f5388614d561",
+      "group": "Qilin",
+      "victim": "Cdf",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : Novabio (france laboratories)",
+      "link": "https://www.ransomware.live/id/Tm92YWJpbyAoZnJhbmNlIGxhYm9yYXRvcmllcylAbm92YQ==",
+      "summary": "Novabio is a medical biology laboratory that helps people across southwestern France get accurate health tests. Located in several regions including Dordogne and Gironde, the team runs complete medical examinations to support local communities&#x27; health needs. Their skilled professionals use modern equipment to deliver precise and reliable medical analysis for doctors and patients - the whole data of kalilab and france laboratories Data, Patients full informations, doctors informations, partners, finance, screening results, 500GB of data (millions of files) include PDFs, DOCs, XLSx, SQLs, SSH keys and lot more, network has encrypted, we are Ready to provide decryptor and delete full data, we will provide sample, reach us asap",
+      "pubDate": "Wed, 10 Dec 2025 05:44:00 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/nova?c3d8a3c6e7d33f2f69d2b627a329a321",
+      "group": "Nova",
+      "victim": "Novabio (france laboratories)",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Cisneros",
       "link": "https://www.ransomware.live/id/Q2lzbmVyb3NAcWlsaW4=",
@@ -2124,83 +2201,6 @@
       "group": "Akira",
       "victim": "Rosland Capital",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Fargo Park District",
-      "link": "https://www.ransomware.live/id/RmFyZ28gUGFyayBEaXN0cmljdEBpbnRlcmxvY2s=",
-      "summary": "https://www.fargoparks.comFargo Park District, with over 2,100 acres of land, is divided into Finance, Enterprise, Events, Operations, Programming and Facilities, Human Resources, Valley Senior Services and Courts, and Community Physical Activity. The Fargo Park District boasts over 150 parks, amenities, and over 170 kilometers of trails and paths.",
-      "pubDate": "Fri, 05 Dec 2025 14:19:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/interlock?7552579c6f42499c274e5073955fc633",
-      "group": "Interlock",
-      "victim": "Fargo Park District",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Foster & Eldridge",
-      "link": "https://www.ransomware.live/id/Rm9zdGVyICYgRWxkcmlkZ2VAYWtpcmE=",
-      "summary": "Foster &amp; Eldridge, LLP is a Boston area boutique law firm recogni zed for its excellence in medical malpractice defense. The firm s pecializes in representing health care providers in professional  liability matters and offers consulting and litigation services i n risk management and regulatory compliance. We are ready to upload 60gb of corporate data. Detailed client pe rsonal information (passports, DLs, phones, addresses, medical in formation and so on), financials, hearings, police records, etc.",
-      "pubDate": "Fri, 05 Dec 2025 14:09:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?db7a3abe1cfca79c31b7863e4f5972bf",
-      "group": "Akira",
-      "victim": "Foster & Eldridge",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : 3S Software (Secured Smart Systems Overview Metrics)",
-      "link": "https://www.ransomware.live/id/M1MgU29mdHdhcmUgKFNlY3VyZWQgU21hcnQgU3lzdGVtcyBPdmVydmlldyBNZXRyaWNzKUBkcmFnb25mb3JjZQ==",
-      "summary": "3S Group is a world-class provider of diverse technology services, specializing in software development, applications integration, data management, and analytics. They offer scalable and reliable solutions utilizing Microsoft technologies in areas such as e-business and enterprise applications. The company also designs, integrates, installs, and maintains integrated security systems, catering to a wide range of clients. With over 200 experts and 500 projects completed in 17 years, they focus on understanding client needs to provide tailored technology solutions",
-      "pubDate": "Fri, 05 Dec 2025 13:23:55 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?0cfe951be53f672d4e2fd8c2e28d0ffe",
-      "group": "Dragonforce",
-      "victim": "3S Software (Secured Smart Systems Overview Metrics)",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Consolidated Sterilizer Systems",
-      "link": "https://www.ransomware.live/id/Q29uc29saWRhdGVkIFN0ZXJpbGl6ZXIgU3lzdGVtc0Bha2lyYQ==",
-      "summary": "Consolidated Sterilizer Systems has been manufacturing steam ster ilizers and autoclaves in Boston, Massachusetts since 1946, setti ng the industry standard for over 60 years. Their product range i ncludes customizable laboratory autoclaves for various applicatio ns such as animal research, life sciences, food safety, and healt hcare environments. We are ready to upload about 10gb of corporate data. Employee per sonal information (passports, DLs, phones, addresses, medical rep orts and so on), financials, contracts and agreements and so on.",
-      "pubDate": "Fri, 05 Dec 2025 13:18:28 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?fa26812c469f6950c0b1a507271bd178",
-      "group": "Akira",
-      "victim": "Consolidated Sterilizer Systems",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit3 has just published a new victim : new blog domain lockbit 5.0",
-      "link": "https://www.ransomware.live/id/bmV3IGJsb2cgZG9tYWluIGxvY2tiaXQgNS4wQGxvY2tiaXQz",
-      "summary": "New secure blog domain, with a multi-layered protection system against all-powerful FBI agents lockbitapt67g6rwzjbcxnww5efpg4qok6vpfeth7wx3okj52ks4wtad.onion",
-      "pubDate": "Fri, 05 Dec 2025 11:08:54 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/lockbit3?e0484337e91921c39c3fad5978185350",
-      "group": "Lockbit3",
-      "victim": "new blog domain lockbit 5.0",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : Slimsoft",
-      "link": "https://www.ransomware.live/id/U2xpbXNvZnRAc3BhY2ViZWFycw==",
-      "summary": "Software and website developmentOver 25 years of experience in developing software and websites according to customer needs and requirements, while providing existing solutions or building according to customer needs and requirementsSQLOther https://slimsoft.co.il/",
-      "pubDate": "Fri, 05 Dec 2025 05:31:43 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/spacebears?a77854a873cd602ad8afcbf0c60f3163",
-      "group": "Spacebears",
-      "victim": "Slimsoft",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : National Health Insurance Management Authority",
-      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgSGVhbHRoIEluc3VyYW5jZSBNYW5hZ2VtZW50IEF1dGhvcml0eUBub3Zh",
-      "summary": "The National Health Insurance Scheme (NHIS) provides access to quality healthcare services, essential medicines, and state-of-the-art medical equipment. It aims to facilitate equitable contributions and access to healthcare for individuals and families, protecting them against catastrophic healthcare expenditures. NHIS offers a variety of benefit packages and allows companies to register their employees for coverage. The organization serves clients seeking affordable and convenient healthcare solutions - patients data exf, navigate us to deal samples provided",
-      "pubDate": "Fri, 05 Dec 2025 00:24:31 +0000",
-      "category": "KE",
-      "guid": "https://www.ransomware.live/group/nova?0a39a3eb51e3861d0d4c49ce4d4756ad",
-      "group": "Nova",
-      "victim": "National Health Insurance Management Authority",
-      "country": "KE"
     }
   ]
 }
