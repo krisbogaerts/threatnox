@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-10T10:14:47.243Z",
+  "updatedAt": "2025-12-10T11:11:45.188Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Brotherhood has just published a new victim : häussermann stauden gehölze gmbh",
+      "link": "https://www.ransomware.live/id/aMOkdXNzZXJtYW5uIHN0YXVkZW4gZ2Vow7ZsemUgZ21iaEBicm90aGVyaG9vZA==",
+      "summary": "Contains: 1 Gb Compressed Free Files, 26 Gb Compressed Paid Files",
+      "pubDate": "Wed, 10 Dec 2025 10:20:25 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/brotherhood?77b313acb93b5a6509843d32f9440a87",
+      "group": "Brotherhood",
+      "victim": "häussermann stauden gehölze gmbh",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Abyss has just published a new victim : dillonyarn.com",
+      "link": "https://www.ransomware.live/id/ZGlsbG9ueWFybi5jb21AYWJ5c3M=",
+      "summary": "Dillon Yarn is a distributor of spun, flat and industrial yarn, as well as other incidental textile items for use in textile and related industries.",
+      "pubDate": "Wed, 10 Dec 2025 10:17:58 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/abyss?e4c3460d849c8bf0160f72599f3d2c96",
+      "group": "Abyss",
+      "victim": "dillonyarn.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : ***.*** LAST TIMER UPDATE",
       "link": "https://www.ransomware.live/id/KioqLioqKiBMQVNUIFRJTUVSIFVQREFURUB0aGVnZW50bGVtZW4=",
@@ -2179,28 +2201,6 @@
       "group": "Nitrogen",
       "victim": "AvtechTyee",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Sieger design",
-      "link": "https://www.ransomware.live/id/U2llZ2VyIGRlc2lnbkBha2lyYQ==",
-      "summary": "Sieger design specializes in developing comprehensive brand strat egies and distinctive products that are significant and success-o riented.  We are ready to upload corporate data. Internal business files, f inancials and so on.",
-      "pubDate": "Fri, 05 Dec 2025 16:18:31 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/akira?9522a037b405cd2b99ed863dc837bdbd",
-      "group": "Akira",
-      "victim": "Sieger design",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Advanced Power",
-      "link": "https://www.ransomware.live/id/QWR2YW5jZWQgUG93ZXJAYWtpcmE=",
-      "summary": "Advanced Power is an Electric Power Generation, Energy, Utilities &amp; Waste Treatment General, and Energy Production company located in Boston, Massachusetts with $7.3 million in revenue and 133 em ployees. We are ready to upload 51gb of corporate data. Employee personal  information (DLs, w-9 forms and so on), detailed financials, conf idential files, contract and agreements, NDAs etc.",
-      "pubDate": "Fri, 05 Dec 2025 15:07:27 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/akira?d65a468a60d79e3fe310e14122c4f6f0",
-      "group": "Akira",
-      "victim": "Advanced Power",
-      "country": "CH"
     }
   ]
 }
