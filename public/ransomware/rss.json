@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-10T21:13:30.328Z",
+  "updatedAt": "2025-12-10T22:13:02.861Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : GROUPE ETMB",
+      "link": "https://www.ransomware.live/id/R1JPVVBFIEVUTUJAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 10 Dec 2025 21:46:14 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?06b6fb60a329ff2af48cc301818466b3",
+      "group": "Qilin",
+      "victim": "GROUPE ETMB",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Lonich Patton Ehrlich Policastri",
       "link": "https://www.ransomware.live/id/TG9uaWNoIFBhdHRvbiBFaHJsaWNoIFBvbGljYXN0cmlAcWlsaW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/safepay?7d16ecdf321d78f98ab2e4f918f3a7df",
       "group": "Safepay",
       "victim": "becksgroup.au",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : hyperdomemedicalcentre.com.au",
-      "link": "https://www.ransomware.live/id/aHlwZXJkb21lbWVkaWNhbGNlbnRyZS5jb20uYXVAc2FmZXBheQ==",
-      "summary": "Hyperdome Medical Centre is a general practice clinic located in the South.Point shopping centre in Greenway, Tuggeranong, within the Australian …",
-      "pubDate": "Fri, 05 Dec 2025 18:49:11 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/safepay?9025333640a504b4e8ed28d3e2f3f25a",
-      "group": "Safepay",
-      "victim": "hyperdomemedicalcentre.com.au",
       "country": "AU"
     }
   ]
