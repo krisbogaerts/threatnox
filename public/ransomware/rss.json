@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-10T16:18:11.475Z",
+  "updatedAt": "2025-12-10T17:15:27.789Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Kirby Agri",
+      "link": "https://www.ransomware.live/id/S2lyYnkgQWdyaUBha2lyYQ==",
+      "summary": "Kirby Agri Inc. serves agricultural, landscape, and turf wholesal ers with a complete line of fertilizer and plant nutrients. We will upload 15gb of corporate data soon. Employee information  (name, DOB, address, email and so on), financials, customer infor mation, and so on.",
+      "pubDate": "Wed, 10 Dec 2025 16:18:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?267911bfd9915ffdfd5f3a3c0c1c2b84",
+      "group": "Akira",
+      "victim": "Kirby Agri",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : LINEMASTER Switch",
+      "link": "https://www.ransomware.live/id/TElORU1BU1RFUiBTd2l0Y2hAYWtpcmE=",
+      "summary": "Linemaster Switch Corporation is a trusted manufacturer of medica l and industrial footswitches, offering both custom and stock sol utions with over 70 years of experience and ISO 13485 certificati on. We will upload about 25gb of corporate data soon. Employee inform ation (passports, DLs and so on), detailed financials, customer i nformation, projects, NDAs, etc.",
+      "pubDate": "Wed, 10 Dec 2025 16:18:45 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?288b09bd8597839b4a7a5a23b83a4874",
+      "group": "Akira",
+      "victim": "LINEMASTER Switch",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Brotherhood has just published a new victim : häussermann stauden gehölze gmbh",
       "link": "https://www.ransomware.live/id/aMOkdXNzZXJtYW5uIHN0YXVkZW4gZ2Vow7ZsemUgZ21iaEBicm90aGVyaG9vZA==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/dragonforce?de0a612141589755d4315dc669cc3b9a",
       "group": "Dragonforce",
       "victim": "King City Lumber",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Shumate Mechanical",
-      "link": "https://www.ransomware.live/id/U2h1bWF0ZSBNZWNoYW5pY2FsQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Fri, 05 Dec 2025 16:56:06 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?5ecbcc8a6a8952bb9d2276065a0b92c4",
-      "group": "Qilin",
-      "victim": "Shumate Mechanical",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nitrogen has just published a new victim : AvtechTyee",
-      "link": "https://www.ransomware.live/id/QXZ0ZWNoVHllZUBuaXRyb2dlbg==",
-      "summary": "AvtechTyee is a company operating in the aerospace and defense industries.",
-      "pubDate": "Fri, 05 Dec 2025 16:53:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nitrogen?a5f1c2aec469edfb2f5a60dbf459e0bc",
-      "group": "Nitrogen",
-      "victim": "AvtechTyee",
       "country": "US"
     }
   ]
