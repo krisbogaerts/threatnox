@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-10T00:57:40.690Z",
+  "updatedAt": "2025-12-10T02:49:38.833Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : rainbowtel.net",
+      "link": "https://www.ransomware.live/id/cmFpbmJvd3RlbC5uZXRAaW5jcmFuc29t",
+      "summary": "Rainbow Communications offers reliable high-speed internet and phone services primarily in Northeast Kansas. \r They cater to both residential and business clients, providing essential connectivity solutions.\r \r We downloaded 200GB of selected information (accounting, HR, customer data, as well as confidential information).",
+      "pubDate": "Wed, 10 Dec 2025 01:27:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?578e26c676353b8bac3a9d9b03eeb686",
+      "group": "Incransom",
+      "victim": "rainbowtel.net",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Teruya Brothers Ltd",
       "link": "https://www.ransomware.live/id/VGVydXlhIEJyb3RoZXJzIEx0ZEBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Anubis",
       "victim": "Smith Fire Systems",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Kana Pipeline Inc",
-      "link": "https://www.ransomware.live/id/S2FuYSBQaXBlbGluZSBJbmNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 04 Dec 2025 20:21:13 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?1b630c086cbe2716dae0af48bad082d0",
-      "group": "Qilin",
-      "victim": "Kana Pipeline Inc",
-      "country": "US"
     }
   ]
 }
