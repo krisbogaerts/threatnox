@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-11T09:17:48.449Z",
+  "updatedAt": "2025-12-11T10:14:43.482Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : Hopital ** *****",
+      "link": "https://www.ransomware.live/id/SG9waXRhbCAqKiAqKioqKkBkZXZtYW4=",
+      "summary": "",
+      "pubDate": "Thu, 11 Dec 2025 09:19:50 +0000",
+      "category": "TN",
+      "guid": "https://www.ransomware.live/group/devman?43f5115eb82c8aeef8fc5c682a0f3290",
+      "group": "Devman",
+      "victim": "Hopital ** *****",
+      "country": "TN"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : C*NC*R",
+      "link": "https://www.ransomware.live/id/QypOQypSQGRldm1hbg==",
+      "summary": "Financial data, clients data",
+      "pubDate": "Thu, 11 Dec 2025 09:18:38 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/devman?39d4686eac319f2b6a8667aefa49e56b",
+      "group": "Devman",
+      "victim": "C*NC*R",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : www.digital****.com",
+      "link": "https://www.ransomware.live/id/d3d3LmRpZ2l0YWwqKioqLmNvbUBkZXZtYW4=",
+      "summary": "Data theft 80gb",
+      "pubDate": "Thu, 11 Dec 2025 09:17:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?8033671bb411261b19dc9100a526bae8",
+      "group": "Devman",
+      "victim": "www.digital****.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Plonter",
       "link": "https://www.ransomware.live/id/UGxvbnRlckBoYW5kYWxh",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/safepay?d481fcbc5e5835c832d579b9797b5161",
       "group": "Safepay",
       "victim": "mmc.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : juliuskoch.com",
-      "link": "https://www.ransomware.live/id/anVsaXVza29jaC5jb21Ac2FmZXBheQ==",
-      "summary": "Julius Koch GmbH is a historic German company founded in 1895 that specialises in the development and manufacture of high-performance …",
-      "pubDate": "Fri, 05 Dec 2025 20:00:14 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?bbc69723266f2cd828b8bb1555de6de8",
-      "group": "Safepay",
-      "victim": "juliuskoch.com",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : untereisesheim.de",
-      "link": "https://www.ransomware.live/id/dW50ZXJlaXNlc2hlaW0uZGVAc2FmZXBheQ==",
-      "summary": "Untereisesheim is a small municipality in the district of Heilbronn in the federal state of Baden-Württemberg, southwestern Germany. It is …",
-      "pubDate": "Fri, 05 Dec 2025 19:59:39 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?0e52f8af8aaf24a18ba501939b50ab7e",
-      "group": "Safepay",
-      "victim": "untereisesheim.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : steuerberater-scheerer.de",
-      "link": "https://www.ransomware.live/id/c3RldWVyYmVyYXRlci1zY2hlZXJlci5kZUBzYWZlcGF5",
-      "summary": "Steuerberater-Scheerer (operating as C. M. Scheerer GmbH) is a German tax-consulting and auditing firm based in Schweinfurt, Bavaria. The practice …",
-      "pubDate": "Fri, 05 Dec 2025 19:59:24 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?14164804928971b9ad9ba4754f5c5dca",
-      "group": "Safepay",
-      "victim": "steuerberater-scheerer.de",
       "country": "DE"
     }
   ]
