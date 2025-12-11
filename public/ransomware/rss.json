@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-10T23:10:30.689Z",
+  "updatedAt": "2025-12-11T00:58:11.324Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Erie Molded Plastics",
+      "link": "https://www.ransomware.live/id/RXJpZSBNb2xkZWQgUGxhc3RpY3NAc2lub2Jp",
+      "summary": "Quality You Can Count On... Integral to our Rapid Response program is an extremely competitive pricing structure designed to save you money. We offer flexible order quantities and stocking programs to help integrate our closures into your production schedule. In addition, our products are manufactured within the highest quality standards. Our GMP facility is temperature controlled and has earned an ISO 9001:2008 certification. EMP Closures is the proprietary stock cap and closure business for Erie Molded Plastics. For more than 35 years, Erie Molded Plastics has been providing OEM and distribution customers custom injection molded parts and integrated packaging solutions. All of our custom and stock products are manufactured in our state-of-the-art molding facility conveniently located in Erie, PA. This temperature and humidity controlled plant features more than 20 molding presses, ranging from 85 to 725 tons.",
+      "pubDate": "Thu, 11 Dec 2025 00:30:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?eee0e67fe8f64425305ffae13adbec30",
+      "group": "Sinobi",
+      "victim": "Erie Molded Plastics",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sunshine Group",
+      "link": "https://www.ransomware.live/id/U3Vuc2hpbmUgR3JvdXBAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 11 Dec 2025 00:26:43 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?357b7ded65ff1152b8f0a97b49bc9b03",
+      "group": "Qilin",
+      "victim": "Sunshine Group",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : GROUPE ETMB",
       "link": "https://www.ransomware.live/id/R1JPVVBFIEVUTUJAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Beecher Walker Architects",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : wachtmann.eu",
-      "link": "https://www.ransomware.live/id/d2FjaHRtYW5uLmV1QHNhZmVwYXk=",
-      "summary": "Specializing in consumer goods distributed online via a web store. The business model is typical for small e-commerce firms: sourcing …",
-      "pubDate": "Fri, 05 Dec 2025 18:50:24 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?21e76cfe653c0bf2c27626291a5aa95b",
-      "group": "Safepay",
-      "victim": "wachtmann.eu",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : becksgroup.au",
-      "link": "https://www.ransomware.live/id/YmVja3Nncm91cC5hdUBzYWZlcGF5",
-      "summary": "Family-owned Australian company established in 1976 that operates within the luxury goods and jewellery industry, focusing on precious metals and …",
-      "pubDate": "Fri, 05 Dec 2025 18:49:48 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/safepay?7d16ecdf321d78f98ab2e4f918f3a7df",
-      "group": "Safepay",
-      "victim": "becksgroup.au",
-      "country": "AU"
     }
   ]
 }
