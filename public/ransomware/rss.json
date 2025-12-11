@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-11T15:14:44.018Z",
+  "updatedAt": "2025-12-11T16:18:05.584Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Northern Air Systems(2)",
+      "link": "https://www.ransomware.live/id/Tm9ydGhlcm4gQWlyIFN5c3RlbXMoMilAYWtpcmE=",
+      "summary": "Northern Air Systems has been a leading manufacturer of high-qual ity HVAC systems for commercial and industrial applications for n early three decades. As you could have noticed, we&#x27;ve made it 2nd time to penetrate to their systems and locked almost 90 vms. At this time we&#x27;ve taken five times more data (150gb) and we will upload the files soon.  Detailed employee information (i-9 forms, passports, DLs, medical information, pictures and so on), client data (DLs, addresses, e mails), detailed financials, lots of projects information, contra cts and agreements, numerous NDAs, etc.",
+      "pubDate": "Thu, 11 Dec 2025 15:08:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?10d79a3ea27d7d7712e95ae0d514299f",
+      "group": "Akira",
+      "victim": "Northern Air Systems(2)",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Woodard, Emhardt, Henry, Reeves & Wagner, LLP",
       "link": "https://www.ransomware.live/id/V29vZGFyZCwgRW1oYXJkdCwgSGVucnksIFJlZXZlcyAmIFdhZ25lciwgTExQQHJoeXNpZGE=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Towerstream",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Khazzan Logistics",
-      "link": "https://www.ransomware.live/id/S2hhenphbiBMb2dpc3RpY3NAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sat, 06 Dec 2025 04:59:05 +0000",
-      "category": "OM",
-      "guid": "https://www.ransomware.live/group/qilin?e83761ee293ec9e776a1143b8651c6c8",
-      "group": "Qilin",
-      "victim": "Khazzan Logistics",
-      "country": "OM"
     }
   ]
 }
