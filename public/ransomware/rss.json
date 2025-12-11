@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-11T02:51:55.137Z",
+  "updatedAt": "2025-12-11T03:53:45.678Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Red Star Studio Ltd",
+      "link": "https://www.ransomware.live/id/UmVkIFN0YXIgU3R1ZGlvIEx0ZEBuaWdodHNwaXJl",
+      "summary": "Red Star Studio Ltd",
+      "pubDate": "Thu, 11 Dec 2025 02:38:47 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/nightspire?dc8f17fe300b558688cfa3f404f84350",
+      "group": "Nightspire",
+      "victim": "Red Star Studio Ltd",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Chaos has just published a new victim : NSE Insurance Agencies",
+      "link": "https://www.ransomware.live/id/TlNFIEluc3VyYW5jZSBBZ2VuY2llc0BjaGFvcw==",
+      "summary": "NSE Insurance Agencies, Inc. is an independent insurance agency established in 1912, providing a comprehensive range of insurance services to individuals and business owners in Tulare, Kings, and Kern counties.",
+      "pubDate": "Thu, 11 Dec 2025 02:09:48 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/chaos?3916dc9d396ba8f5a06390ca99136747",
+      "group": "Chaos",
+      "victim": "NSE Insurance Agencies",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Erie Molded Plastics",
       "link": "https://www.ransomware.live/id/RXJpZSBNb2xkZWQgUGxhc3RpY3NAc2lub2Jp",
@@ -2179,28 +2201,6 @@
       "group": "Safepay",
       "victim": "mactavishco.ca",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : barnet.com.au",
-      "link": "https://www.ransomware.live/id/YmFybmV0LmNvbS5hdUBzYWZlcGF5",
-      "summary": "BarNet is an Australian specialist communications management organisation focused on serving legal professionals, particularly barristers and associated legal chambers. Founded …",
-      "pubDate": "Fri, 05 Dec 2025 19:58:12 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/safepay?b48aa875ccbfa6fdd24b7ba489dbc4b5",
-      "group": "Safepay",
-      "victim": "barnet.com.au",
-      "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Beecher Walker Architects",
-      "link": "https://www.ransomware.live/id/QmVlY2hlciBXYWxrZXIgQXJjaGl0ZWN0c0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Fri, 05 Dec 2025 19:55:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?831996eaf3eb6c41a1c975971c4f64f6",
-      "group": "Qilin",
-      "victim": "Beecher Walker Architects",
-      "country": "US"
     }
   ]
 }
