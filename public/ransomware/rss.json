@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-11T21:14:00.087Z",
+  "updatedAt": "2025-12-11T22:12:31.241Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Iroquois Memorial Hospital",
+      "link": "https://www.ransomware.live/id/SXJvcXVvaXMgTWVtb3JpYWwgSG9zcGl0YWxAcGVhcg==",
+      "summary": "Cost-efficient, high quality, consumer-responsive health care services",
+      "pubDate": "Thu, 11 Dec 2025 21:44:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?64f5633ac4343033a13f013a094fe72c",
+      "group": "Pear",
+      "victim": "Iroquois Memorial Hospital",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Dan Technologies Group",
       "link": "https://www.ransomware.live/id/RGFuIFRlY2hub2xvZ2llcyBHcm91cEBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Coinbasecartel",
       "victim": "Renesas Electronics",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : SODISE",
-      "link": "https://www.ransomware.live/id/U09ESVNFQHJoeXNpZGE=",
-      "summary": "SODISE",
-      "pubDate": "Sat, 06 Dec 2025 08:51:26 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/rhysida?c17a2d152549c2b57345d5136f163e90",
-      "group": "Rhysida",
-      "victim": "SODISE",
-      "country": "FR"
     }
   ]
 }
