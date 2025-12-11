@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-11T17:19:12.764Z",
+  "updatedAt": "2025-12-11T18:17:36.959Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Dan Technologies Group",
+      "link": "https://www.ransomware.live/id/RGFuIFRlY2hub2xvZ2llcyBHcm91cEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 11 Dec 2025 17:40:55 +0000",
+      "category": "DK",
+      "guid": "https://www.ransomware.live/group/qilin?1f5421222c27320058536d5e3a9283ed",
+      "group": "Qilin",
+      "victim": "Dan Technologies Group",
+      "country": "DK"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Northern Air Systems(2)",
       "link": "https://www.ransomware.live/id/Tm9ydGhlcm4gQWlyIFN5c3RlbXMoMilAYWtpcmE=",
@@ -2190,17 +2201,6 @@
       "group": "Rhysida",
       "victim": "SODISE",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Towerstream",
-      "link": "https://www.ransomware.live/id/VG93ZXJzdHJlYW1AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sat, 06 Dec 2025 04:59:43 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?445d8e63195522d71c075fd0c3534566",
-      "group": "Qilin",
-      "victim": "Towerstream",
-      "country": "US"
     }
   ]
 }
