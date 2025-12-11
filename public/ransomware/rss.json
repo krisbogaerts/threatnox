@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-11T13:32:45.843Z",
+  "updatedAt": "2025-12-11T14:15:58.545Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : ABECO Zumtech Drucklufttechnik AG Müliweg",
+      "link": "https://www.ransomware.live/id/QUJFQ08gWnVtdGVjaCBEcnVja2x1ZnR0ZWNobmlrIEFHIE3DvGxpd2VnQGFraXJh",
+      "summary": "ABECO   Zumtech Drucklufttechnik AG designs and implements cost-e ffective compressed air systems in Switzerland.   We will upload  corporate data soon. Employee information (German IDs, DLs, passp orts, phones, address and so on), financials, client and customer information, contracts and agreements, etc.",
+      "pubDate": "Thu, 11 Dec 2025 13:18:16 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/akira?86660f2946e7cf707618917816b652f9",
+      "group": "Akira",
+      "victim": "ABECO Zumtech Drucklufttechnik AG Müliweg",
+      "country": "CH"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : A.S.A.P. Restoration",
       "link": "https://www.ransomware.live/id/QS5TLkEuUC4gUmVzdG9yYXRpb25AZHJhZ29uZm9yY2U=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "UniqueTech Engineering",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Datacarry has just published a new victim : Camomilla",
-      "link": "https://www.ransomware.live/id/Q2Ftb21pbGxhQGRhdGFjYXJyeQ==",
-      "summary": "[AI generated] Camomilla is an Italian brand renowned for its elegant accessories and refined clothing. Founded in 1983 by Monica Bianco, the company encapsulates Italian craftsmanship and design aesthetics in their fashion line, which includes bags, clothes, shoes, and jewelry for women. It offers a wide spectrum of on-trend, creative, and stylish accessories for every occasion.",
-      "pubDate": "Sat, 06 Dec 2025 03:18:52 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/datacarry?ded3e46feed29089ac74057ebbe0f1a6",
-      "group": "Datacarry",
-      "victim": "Camomilla",
-      "country": "IT"
     }
   ]
 }
