@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-11T14:15:58.545Z",
+  "updatedAt": "2025-12-11T15:14:44.018Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Woodard, Emhardt, Henry, Reeves & Wagner, LLP",
+      "link": "https://www.ransomware.live/id/V29vZGFyZCwgRW1oYXJkdCwgSGVucnksIFJlZXZlcyAmIFdhZ25lciwgTExQQHJoeXNpZGE=",
+      "summary": "Woodard, Emhardt, Henry, Reeves &amp; Wagner, LLP",
+      "pubDate": "Thu, 11 Dec 2025 14:49:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?796474ce59ad0e73aaba04f2aaf5bed9",
+      "group": "Rhysida",
+      "victim": "Woodard, Emhardt, Henry, Reeves & Wagner, LLP",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : WJ Professional",
+      "link": "https://www.ransomware.live/id/V0ogUHJvZmVzc2lvbmFsQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 11 Dec 2025 14:47:09 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?0d1c7c79438cd3d13ab08b433a241652",
+      "group": "Qilin",
+      "victim": "WJ Professional",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Nepes",
+      "link": "https://www.ransomware.live/id/TmVwZXNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 11 Dec 2025 14:46:29 +0000",
+      "category": "KR",
+      "guid": "https://www.ransomware.live/group/qilin?b433989aef196a8dc48d0d65848c8555",
+      "group": "Qilin",
+      "victim": "Nepes",
+      "country": "KR"
+    },
+    {
+      "title": "🏴‍☠️ Kazu has just published a new victim : Leadway Assurance",
+      "link": "https://www.ransomware.live/id/TGVhZHdheSBBc3N1cmFuY2VAa2F6dQ==",
+      "summary": "Leadway Assurance Company Limited is the leading insurance provider in Nigeria, offering a comprehensive range of products including life, education, auto, travel, health, and property insurance. The company caters to both individual and business clients, providing solutions such as wealth management and prompt claims processing. With a commitment to customer satisfaction, Leadway ensures financial security for customers and their assets through tailored insurance plans. Established in 1970, Leadway is recognized for its reliability and proactive service in the insurance sector.",
+      "pubDate": "Thu, 11 Dec 2025 14:19:00 +0000",
+      "category": "NG",
+      "guid": "https://www.ransomware.live/group/kazu?169959ad550e0cbea4336a6875585381",
+      "group": "Kazu",
+      "victim": "Leadway Assurance",
+      "country": "NG"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : ABECO Zumtech Drucklufttechnik AG Müliweg",
       "link": "https://www.ransomware.live/id/QUJFQ08gWnVtdGVjaCBEcnVja2x1ZnR0ZWNobmlrIEFHIE3DvGxpd2VnQGFraXJh",
@@ -2157,50 +2201,6 @@
       "group": "Qilin",
       "victim": "Khazzan Logistics",
       "country": "OM"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Kasapreko",
-      "link": "https://www.ransomware.live/id/S2FzYXByZWtvQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sat, 06 Dec 2025 04:58:28 +0000",
-      "category": "GH",
-      "guid": "https://www.ransomware.live/group/qilin?7d16f60641dbbf83c46d402f38da287e",
-      "group": "Qilin",
-      "victim": "Kasapreko",
-      "country": "GH"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Diesel Electric",
-      "link": "https://www.ransomware.live/id/RGllc2VsIEVsZWN0cmljQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sat, 06 Dec 2025 04:57:52 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?8495a3565269eac3555a5102a70ee28f",
-      "group": "Qilin",
-      "victim": "Diesel Electric",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Canvas Church",
-      "link": "https://www.ransomware.live/id/Q2FudmFzIENodXJjaEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sat, 06 Dec 2025 04:57:13 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?1641996f195bc46091d4f2fb07468eda",
-      "group": "Qilin",
-      "victim": "Canvas Church",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : UniqueTech Engineering",
-      "link": "https://www.ransomware.live/id/VW5pcXVlVGVjaCBFbmdpbmVlcmluZ0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sat, 06 Dec 2025 04:56:35 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?78bae1e9076c9c04689a905d1bda3bda",
-      "group": "Qilin",
-      "victim": "UniqueTech Engineering",
-      "country": ""
     }
   ]
 }
