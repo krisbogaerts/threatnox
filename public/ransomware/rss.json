@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-11T07:17:31.003Z",
+  "updatedAt": "2025-12-11T08:18:28.839Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Plonter",
+      "link": "https://www.ransomware.live/id/UGxvbnRlckBoYW5kYWxh",
+      "summary": "Today, we announce the successful breach of yet another node in the network of silence and normalization. Plonter.co.il, an Israeli tech and gaming equipment supplier, has been hacked. Their systems, once hidden behind firewalls and false confidence, now lay bare , exposing databases, internal records, and digital infrastructure that fuel the daily normalcy of an…",
+      "pubDate": "Thu, 11 Dec 2025 07:24:19 +0000",
+      "category": "IL",
+      "guid": "https://www.ransomware.live/group/handala?6ecb40a1c6457aa8758b0e02ec38f052",
+      "group": "Handala",
+      "victim": "Plonter",
+      "country": "IL"
+    },
     {
       "title": "🏴‍☠️ Nightspire has just published a new victim : Red Star Studio Ltd",
       "link": "https://www.ransomware.live/id/UmVkIFN0YXIgU3R1ZGlvIEx0ZEBuaWdodHNwaXJl",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "steuerberater-scheerer.de",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : mactavishco.ca",
-      "link": "https://www.ransomware.live/id/bWFjdGF2aXNoY28uY2FAc2FmZXBheQ==",
-      "summary": "MacTavish &amp; Co. is a small Canadian boutique retailer located in Medicine Hat, Alberta, specializing in curated home décor, gifts, …",
-      "pubDate": "Fri, 05 Dec 2025 19:58:50 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/safepay?1233ffa1d15ef23c47cdc5b5c594be54",
-      "group": "Safepay",
-      "victim": "mactavishco.ca",
-      "country": "CA"
     }
   ]
 }
