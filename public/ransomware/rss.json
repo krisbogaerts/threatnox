@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-11T11:11:59.088Z",
+  "updatedAt": "2025-12-11T12:25:21.395Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Harbour Town Doctors",
+      "link": "https://www.ransomware.live/id/SGFyYm91ciBUb3duIERvY3RvcnNAcmh5c2lkYQ==",
+      "summary": "Harbour Town Doctors",
+      "pubDate": "Thu, 11 Dec 2025 11:47:45 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/rhysida?87132d05624e527f328a3bc809caa7a2",
+      "group": "Rhysida",
+      "victim": "Harbour Town Doctors",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : Hopital ** *****",
       "link": "https://www.ransomware.live/id/SG9waXRhbCAqKiAqKioqKkBkZXZtYW4=",
@@ -2190,17 +2201,6 @@
       "group": "Anubis",
       "victim": "Duhabex",
       "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : mmc.de",
-      "link": "https://www.ransomware.live/id/bW1jLmRlQHNhZmVwYXk=",
-      "summary": "MMC Studios is a major German media-production and facility company headquartered in Cologne. The firm operates one of Germany’s leading …",
-      "pubDate": "Fri, 05 Dec 2025 21:47:03 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?d481fcbc5e5835c832d579b9797b5161",
-      "group": "Safepay",
-      "victim": "mmc.de",
-      "country": "DE"
     }
   ]
 }
