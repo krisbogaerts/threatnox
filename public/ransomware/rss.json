@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2025-12-12T18:19:08.340Z",
+  "updatedAt": "2025-12-12T19:11:17.672Z",
   "count": 200,
   "items": [
-    {
-      "title": "🏴‍☠️ Tengu has just published a new victim : Unknown",
-      "link": "https://www.ransomware.live/id/VW5rbm93bkB0ZW5ndQ==",
-      "summary": "Unknown",
-      "pubDate": "Fri, 12 Dec 2025 16:59:15 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/tengu?a49c755df8747ecb213b43761bf7b1b3",
-      "group": "Tengu",
-      "victim": "Unknown",
-      "country": ""
-    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : United Keetoowah Band of Cherokee Indians in Oklahoma",
       "link": "https://www.ransomware.live/id/VW5pdGVkIEtlZXRvb3dhaCBCYW5kIG9mIENoZXJva2VlIEluZGlhbnMgaW4gT2tsYWhvbWFAcmh5c2lkYQ==",
@@ -205,11 +194,11 @@
       "link": "https://www.ransomware.live/id/U0NJUElPTklAbW9ycGhldXM=",
       "summary": "**Website**: scipioni.be **Revenue**: $5 Million Scipioni is a company specializing in the distribution of petroleum products since 1974. Located in the Charleroi region.Scipioni is a company that s",
       "pubDate": "Fri, 12 Dec 2025 07:53:27 +0000",
-      "category": "N/A",
+      "category": "BE",
       "guid": "https://www.ransomware.live/group/morpheus?cb609c0741501f20cdf7213c70f59125",
       "group": "Morpheus",
       "victim": "SCIPIONI",
-      "country": ""
+      "country": "BE"
     },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Personal Injury",
@@ -2201,6 +2190,17 @@
       "group": "Lockbit5",
       "victim": "tracsa.com.mx",
       "country": "MX"
+    },
+    {
+      "title": "🏴‍☠️ Lockbit5 has just published a new victim : chmsbc.org.br",
+      "link": "https://www.ransomware.live/id/Y2htc2JjLm9yZy5ickBsb2NrYml0NQ==",
+      "summary": "Complexo Hospitalar O Complexo Hospitalar de São Bernardo do Campo é formado pelo Hospital de Clínic...",
+      "pubDate": "Sun, 07 Dec 2025 10:20:54 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/lockbit5?af5ceec683d4d120ae4508cfd3e40f7f",
+      "group": "Lockbit5",
+      "victim": "chmsbc.org.br",
+      "country": "BR"
     }
   ]
 }
