@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-12T15:13:57.284Z",
+  "updatedAt": "2025-12-12T16:14:10.120Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : HKR Architects",
+      "link": "https://www.ransomware.live/id/SEtSIEFyY2hpdGVjdHNAZHJhZ29uZm9yY2U=",
+      "summary": "HKR Architects is a prominent international architecture and urban design practice founded in 1992, with offices located in London, Dublin, Dubai, and Abu Dhabi. The firm specializes in various sectors including living, working, staying, masterplanning, modular, and learning environments. Their services cater to a diverse range of clients seeking innovative architectural solutions. HKR Architects is committed to delivering high-quality design and planning services across multiple regions.",
+      "pubDate": "Fri, 12 Dec 2025 15:13:02 +0000",
+      "category": "IE",
+      "guid": "https://www.ransomware.live/group/dragonforce?171b3675262eead7b3dcc3dd5c9f8343",
+      "group": "Dragonforce",
+      "victim": "HKR Architects",
+      "country": "IE"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : RJS Logistics",
+      "link": "https://www.ransomware.live/id/UkpTIExvZ2lzdGljc0Bha2lyYQ==",
+      "summary": "RJS Logistics is a freight and logistics company specializing in  transporting produce and refrigerated freight. RJS Logistics also provides van freight and flatbed freight services. We will upload corporate data soon. Employee information (DLs, w- 9, phones, address and so on), detailed financials, a lot of cust omers files, contracts, NDAs, confidentiality agreements, etc.",
+      "pubDate": "Fri, 12 Dec 2025 15:07:40 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?2968ca3b1a3068fadf3a1401b8f5e820",
+      "group": "Akira",
+      "victim": "RJS Logistics",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Twinsoft",
       "link": "https://www.ransomware.live/id/VHdpbnNvZnRAY29pbmJhc2VjYXJ0ZWw=",
@@ -2179,28 +2201,6 @@
       "group": "Lockbit5",
       "victim": "elundini.gov.za",
       "country": "ZA"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : comune.balmuccia.vc.it",
-      "link": "https://www.ransomware.live/id/Y29tdW5lLmJhbG11Y2NpYS52Yy5pdEBsb2NrYml0NQ==",
-      "summary": "Comune di Balmuccia - Sito ufficialeSi pubblica il calendario di chiusura per ferie, aperture straor...",
-      "pubDate": "Sun, 07 Dec 2025 10:19:46 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/lockbit5?6d37309e6ae362e4b5229d45451ff826",
-      "group": "Lockbit5",
-      "victim": "comune.balmuccia.vc.it",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : felixvet.com",
-      "link": "https://www.ransomware.live/id/ZmVsaXh2ZXQuY29tQGxvY2tiaXQ1",
-      "summary": "Ветеринарен кабинет &amp;quot;Феникс Вет &amp;quot; предоставя достъпни услуги, както и пълна гама ваксини з...",
-      "pubDate": "Sun, 07 Dec 2025 10:19:12 +0000",
-      "category": "BG",
-      "guid": "https://www.ransomware.live/group/lockbit5?542f7de1b481046111d521dd51420531",
-      "group": "Lockbit5",
-      "victim": "felixvet.com",
-      "country": "BG"
     }
   ]
 }
