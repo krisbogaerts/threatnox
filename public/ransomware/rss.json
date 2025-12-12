@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-12T11:12:22.284Z",
+  "updatedAt": "2025-12-12T12:23:49.218Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : *****.com",
+      "link": "https://www.ransomware.live/id/KioqKiouY29tQHRoZWdlbnRsZW1lbg==",
+      "summary": "The entire infrastructure of a major regional retail grocery network—comprising approximately 80 grocery stores, about 40 liquor outlets, and roughly 50 pharmacies, along with its franchise operations—has been compromised, with all data stolen and encrypted. The targeted company reports an annual revenue of $1.4 to $1.8 billion (according to various 2025 estimates). The exfiltrated data includes all insurance payouts (even detailed records of payouts to families of deceased employees, listing cause of death and amounts paid), complete personnel records for all employees and executives (containing SSN, date of birth, full name, address, passport details, and W-9 forms), every financial document, records of active deals and income/expenses, as well as all documentation and insurance records for the company&#x27;s movable and immovable property. http://i2ohjeeqe37jre4f2u7pyq73cbm6lecumdxapkvrlryna6rc3it4zsid.onion (your key in Tox Chat)",
+      "pubDate": "Fri, 12 Dec 2025 11:56:03 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/thegentlemen?2a14256a7605bf1bede4f42df4a5d42d",
+      "group": "Thegentlemen",
+      "victim": "*****.com",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : Quezon Power",
       "link": "https://www.ransomware.live/id/UXVlem9uIFBvd2VyQGRldm1hbg==",
@@ -2190,17 +2201,6 @@
       "group": "Nightspire",
       "victim": "Ermat Grup",
       "country": "TR"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : www.mylawcompany.com",
-      "link": "https://www.ransomware.live/id/d3d3Lm15bGF3Y29tcGFueS5jb21AaW5jcmFuc29t",
-      "summary": "700gb 4,500 cases, personal data, passports, driver&#x27;s licenses, medical data, medical card",
-      "pubDate": "Sat, 06 Dec 2025 18:18:55 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?99325c6cfee721dc469e65def184ce96",
-      "group": "Incransom",
-      "victim": "www.mylawcompany.com",
-      "country": "US"
     }
   ]
 }
