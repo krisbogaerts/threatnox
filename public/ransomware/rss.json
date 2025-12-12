@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-12-12T14:13:14.669Z",
+  "updatedAt": "2025-12-12T15:13:57.284Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Twinsoft",
+      "link": "https://www.ransomware.live/id/VHdpbnNvZnRAY29pbmJhc2VjYXJ0ZWw=",
+      "summary": "Twinsoft is a leading provider of software solutions tailored for the hospitality market, focusing on enhancing business operations through their f...",
+      "pubDate": "Fri, 12 Dec 2025 14:18:28 +0000",
+      "category": "GR",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?13a9f63aa075912b976c3995f08fcd9c",
+      "group": "Coinbasecartel",
+      "victim": "Twinsoft",
+      "country": "GR"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Solarpro Holding",
+      "link": "https://www.ransomware.live/id/U29sYXJwcm8gSG9sZGluZ0Bjb2luYmFzZWNhcnRlbA==",
+      "summary": "Solarpro Holding is a leading EPC contractor specializing in the design, construction, and integration of photovoltaic (PV) plants with over 7 GW o...",
+      "pubDate": "Fri, 12 Dec 2025 14:17:54 +0000",
+      "category": "BG",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?fd7039294c01e1e62a17c018bb62710e",
+      "group": "Coinbasecartel",
+      "victim": "Solarpro Holding",
+      "country": "BG"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Maven Solutions",
+      "link": "https://www.ransomware.live/id/TWF2ZW4gU29sdXRpb25zQGNvaW5iYXNlY2FydGVs",
+      "summary": "We offer one of the best solutions in the market. We have solutions to target every vertical segment of the market be it a small shop, a small busi...",
+      "pubDate": "Fri, 12 Dec 2025 14:17:21 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?fa2186ad0bc03bffe7e137d0822da0f9",
+      "group": "Coinbasecartel",
+      "victim": "Maven Solutions",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Arcom Digital",
+      "link": "https://www.ransomware.live/id/QXJjb20gRGlnaXRhbEBjb2luYmFzZWNhcnRlbA==",
+      "summary": "Arcom Digital specializes in advanced digital technologies aimed at enhancing network performance through products like PNM+, Hunter, and QAM Snare...",
+      "pubDate": "Fri, 12 Dec 2025 14:16:43 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?943db89cb1534aaaa4049b21a147f320",
+      "group": "Coinbasecartel",
+      "victim": "Arcom Digital",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : ATG",
+      "link": "https://www.ransomware.live/id/QVRHQGNvaW5iYXNlY2FydGVs",
+      "summary": "ATG has since 1974 delivered excitement and entertainment with quality to the Swedish people. The vision is to deliver the world&#x27;s best gaming expe...",
+      "pubDate": "Fri, 12 Dec 2025 14:16:08 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?3379c8803f0797d31fa2dde165b685f1",
+      "group": "Coinbasecartel",
+      "victim": "ATG",
+      "country": "SE"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : GDEV",
+      "link": "https://www.ransomware.live/id/R0RFVkBjb2luYmFzZWNhcnRlbA==",
+      "summary": "GDEV (Nasdaq: GDEV) is a gaming and entertainment powerhouse, focused on growing and enhancing its portfolio of studios. With a diverse range of su...",
+      "pubDate": "Fri, 12 Dec 2025 14:15:54 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?e94599cdc94a670daa7832d0737f9354",
+      "group": "Coinbasecartel",
+      "victim": "GDEV",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : C*** | A******** - Contact us by monday",
+      "link": "https://www.ransomware.live/id/QyoqKiB8IEEqKioqKioqKiAtIENvbnRhY3QgdXMgYnkgbW9uZGF5QGNvaW5iYXNlY2FydGVs",
+      "summary": "We have 2TB of your files. Proof in chat, Contact us by Monday.",
+      "pubDate": "Fri, 12 Dec 2025 14:15:21 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?8806d95f30141da6de739e12c87e9f30",
+      "group": "Coinbasecartel",
+      "victim": "C*** | A******** - Contact us by monday",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : Anderson Engineering",
       "link": "https://www.ransomware.live/id/QW5kZXJzb24gRW5naW5lZXJpbmdAc3BhY2ViZWFycw==",
@@ -2124,83 +2201,6 @@
       "group": "Lockbit5",
       "victim": "felixvet.com",
       "country": "BG"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : pilgrimpackaging.com",
-      "link": "https://www.ransomware.live/id/cGlsZ3JpbXBhY2thZ2luZy5jb21AbG9ja2JpdDU=",
-      "summary": "10633 WOLF DR HUNTLEY, IL 60142 1-888-269-9727 inforequest@pilgrimpackaging.com",
-      "pubDate": "Sun, 07 Dec 2025 10:18:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?3025ed57da39e03c4ac7f487aceefdaa",
-      "group": "Lockbit5",
-      "victim": "pilgrimpackaging.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : physiciansmedicalbilling.net",
-      "link": "https://www.ransomware.live/id/cGh5c2ljaWFuc21lZGljYWxiaWxsaW5nLm5ldEBsb2NrYml0NQ==",
-      "summary": "Company Description: Physicians Medical Billing (PMB) is a full-service medical billing and accounts...",
-      "pubDate": "Sun, 07 Dec 2025 10:18:04 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?2f7478f1235c6e167a7cf7f8ea7cd8a5",
-      "group": "Lockbit5",
-      "victim": "physiciansmedicalbilling.net",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : ende.bo",
-      "link": "https://www.ransomware.live/id/ZW5kZS5ib0Bsb2NrYml0NQ==",
-      "summary": "Company Description: The National Electricity Company (ENDE) is a corporation of the Plurinational S...",
-      "pubDate": "Sun, 07 Dec 2025 10:17:49 +0000",
-      "category": "BO",
-      "guid": "https://www.ransomware.live/group/lockbit5?4cb729d9c713cc1ed68a07405d7d6642",
-      "group": "Lockbit5",
-      "victim": "ende.bo",
-      "country": "BO"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : aeamg.org.br",
-      "link": "https://www.ransomware.live/id/YWVhbWcub3JnLmJyQGxvY2tiaXQ1",
-      "summary": "Company Description: AEA-MG (Association of Electricians and Employees of CEMIG and its Subsidiaries...",
-      "pubDate": "Sun, 07 Dec 2025 10:17:32 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/lockbit5?23e3fec8e9f4632ba875901b35fbd3c5",
-      "group": "Lockbit5",
-      "victim": "aeamg.org.br",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : incolease.com",
-      "link": "https://www.ransomware.live/id/aW5jb2xlYXNlLmNvbUBsb2NrYml0NQ==",
-      "summary": "International Company for Leasing S.A.E. &amp;quot;Incolease&amp;#039;&amp;#039; | 4,972 followers on LinkedIn....",
-      "pubDate": "Sun, 07 Dec 2025 10:17:17 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?79799ece8074c60248c1742772e774b2",
-      "group": "Lockbit5",
-      "victim": "incolease.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Mintzer Sarowitz Zeris Ledva & Meyers",
-      "link": "https://www.ransomware.live/id/TWludHplciBTYXJvd2l0eiBaZXJpcyBMZWR2YSAmIE1leWVyc0BTaWxlbnRSYW5zb21Hcm91cA==",
-      "summary": "Mintzer Sarowitz Zeris &amp; Willis PLLC is a civil defense law firm with 14 offices across 6 states, focu…",
-      "pubDate": "Sun, 07 Dec 2025 08:47:06 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/SilentRansomGroup?b8870ab9669680a0e5dc8a3e4ff8b72a",
-      "group": "Silentransomgroup",
-      "victim": "Mintzer Sarowitz Zeris Ledva & Meyers",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Silentransomgroup has just published a new victim : Fish & Richardson Overview Metrics",
-      "link": "https://www.ransomware.live/id/RmlzaCAmIFJpY2hhcmRzb24gT3ZlcnZpZXcgTWV0cmljc0BTaWxlbnRSYW5zb21Hcm91cA==",
-      "summary": "Fish &amp; Richardson, founded in 1878 and headquartered in Boston, Massachusetts, is a law firm specializ…",
-      "pubDate": "Sun, 07 Dec 2025 08:47:00 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/SilentRansomGroup?d899f4171b511b271617f8e07ba34783",
-      "group": "Silentransomgroup",
-      "victim": "Fish & Richardson Overview Metrics",
-      "country": ""
     }
   ]
 }
