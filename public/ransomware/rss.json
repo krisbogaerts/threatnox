@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-12T07:16:24.918Z",
+  "updatedAt": "2025-12-12T08:18:09.883Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Right Power Technology Sdn Bhd",
+      "link": "https://www.ransomware.live/id/UmlnaHQgUG93ZXIgVGVjaG5vbG9neSBTZG4gQmhkQHNwYWNlYmVhcnM=",
+      "summary": "Established in 2000, Right Power Technology Sdn Bhd stands as a leading producer and distributor of reliable, affordable, and efficient UPS systems. With over 20 years of experience, Right Power excels in delivering power protection solutions and maintenance services for critical mission facilities across the business, education, and commercial sectors. Right Power offers a comprehensive range of products, including Line Interactive Simulated Sinewave, True Online Sinewave, and Smart Pure Sinewave UPS systems. Additionally, we provide a full suite of heavy-duty and high-performance Industrial Automatic Voltage Regulators (AVRs), with capacities ranging from 800VA to 10,000KVA. Our extensive portfolio ensures total data center power protection, featuring VRLA AGM and Lithium-ion batteries, Battery Monitoring Systems (BMS), reliable Frequency Converters, and scalable Modular Data Center solutions. Personal information of employees and clientsFinancial documents https://www.rightpowerups.com.my/",
+      "pubDate": "Fri, 12 Dec 2025 08:02:25 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/spacebears?eb3bbd4cc283726ab1042585def3fd76",
+      "group": "Spacebears",
+      "victim": "Right Power Technology Sdn Bhd",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Morpheus has just published a new victim : SCIPIONI",
+      "link": "https://www.ransomware.live/id/U0NJUElPTklAbW9ycGhldXM=",
+      "summary": "**Website**: scipioni.be **Revenue**: $5 Million Scipioni is a company specializing in the distribution of petroleum products since 1974. Located in the Charleroi region.Scipioni is a company that s",
+      "pubDate": "Fri, 12 Dec 2025 07:53:27 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/morpheus?cb609c0741501f20cdf7213c70f59125",
+      "group": "Morpheus",
+      "victim": "SCIPIONI",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Personal Injury",
       "link": "https://www.ransomware.live/id/UGVyc29uYWwgSW5qdXJ5QHFpbGlu",
@@ -2179,28 +2201,6 @@
       "group": "Nova",
       "victim": "ANG BROTHERS (M&E) PTE. LTD. (P3)",
       "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : www.toc.co.jp",
-      "link": "https://www.ransomware.live/id/d3d3LnRvYy5jby5qcEBseW54",
-      "summary": "TOC Building is a commercial facility that provides a comprehensive floor guide, event information, and tenant details for visitors. The building hosts a variety of shops and services, including clothing stores, kitchenware, and cafes. It aims to attract a diverse clientele, including families and individuals looking for shopping and entertainment options. The official website offers updates on new shops and events to keep customers informed.",
-      "pubDate": "Sat, 06 Dec 2025 16:51:03 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/lynx?37f8606b8c7bf7cd9995b678bd319849",
-      "group": "Lynx",
-      "victim": "www.toc.co.jp",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Kazu has just published a new victim : CT Dent Ltd",
-      "link": "https://www.ransomware.live/id/Q1QgRGVudCBMdGRAa2F6dQ==",
-      "summary": "CT Dent Ltd is an independent CBCT imaging centre based in London, UK, specializing in dental CT scanning services that are utilized by over 10,000 UK practices. The company offers a range of imaging services, including CBCT scans, OPG X-rays, and digital impressions, along with advanced technologies like dose reduction to ensure patient safety. Their target clients include dental practitioners in need of reliable and detailed imaging for treatment planning and diagnostics. Established in 2007, CT Dent has become a leading provider in the dental imaging sector",
-      "pubDate": "Sat, 06 Dec 2025 16:27:47 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/kazu?7e69e1bb7bde370ee93d232c330ba5db",
-      "group": "Kazu",
-      "victim": "CT Dent Ltd",
-      "country": "GB"
     }
   ]
 }
