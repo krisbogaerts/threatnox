@@ -1,7 +1,106 @@
 {
-  "updatedAt": "2025-12-12T22:12:15.421Z",
+  "updatedAt": "2025-12-12T23:12:21.070Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Minteye has just published a new victim : Keylogistics Chile SA",
+      "link": "https://www.ransomware.live/id/S2V5bG9naXN0aWNzIENoaWxlIFNBQG1pbnRleWU=",
+      "summary": "Size: 1.4 TB",
+      "pubDate": "Fri, 12 Dec 2025 22:49:04 +0000",
+      "category": "CL",
+      "guid": "https://www.ransomware.live/group/minteye?b9ede3ebb101042f519ff3a07286de64",
+      "group": "Minteye",
+      "victim": "Keylogistics Chile SA",
+      "country": "CL"
+    },
+    {
+      "title": "🏴‍☠️ Minteye has just published a new victim : Inter-American Tropical Tuna Commission (IATTC)",
+      "link": "https://www.ransomware.live/id/SW50ZXItQW1lcmljYW4gVHJvcGljYWwgVHVuYSBDb21taXNzaW9uIChJQVRUQylAbWludGV5ZQ==",
+      "summary": "Size: 2.3 TB",
+      "pubDate": "Fri, 12 Dec 2025 22:48:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/minteye?233279f882b201e627cebb8e35283b92",
+      "group": "Minteye",
+      "victim": "Inter-American Tropical Tuna Commission (IATTC)",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Minteye has just published a new victim : Sponseller Group, Inc.",
+      "link": "https://www.ransomware.live/id/U3BvbnNlbGxlciBHcm91cCwgSW5jLkBtaW50ZXll",
+      "summary": "Size: 300 GB",
+      "pubDate": "Fri, 12 Dec 2025 22:48:15 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/minteye?8294e43f61d0182920d429e1753713b7",
+      "group": "Minteye",
+      "victim": "Sponseller Group, Inc.",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Minteye has just published a new victim : Cranford, Buckley, Schultze, Tomchin, Allen & Buie, P.A.",
+      "link": "https://www.ransomware.live/id/Q3JhbmZvcmQsIEJ1Y2tsZXksIFNjaHVsdHplLCBUb21jaGluLCBBbGxlbiAmIEJ1aWUsIFAuQS5AbWludGV5ZQ==",
+      "summary": "Size: 350 GB",
+      "pubDate": "Fri, 12 Dec 2025 22:47:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/minteye?4c80fa7e1d97a56f818a305862a36240",
+      "group": "Minteye",
+      "victim": "Cranford, Buckley, Schultze, Tomchin, Allen & Buie, P.A.",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Minteye has just published a new victim : David M. Schwarz Architects",
+      "link": "https://www.ransomware.live/id/RGF2aWQgTS4gU2Nod2FyeiBBcmNoaXRlY3RzQG1pbnRleWU=",
+      "summary": "Size: 1.9 TB",
+      "pubDate": "Fri, 12 Dec 2025 22:47:27 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/minteye?b10a9508e429d6289590bb159ea3411c",
+      "group": "Minteye",
+      "victim": "David M. Schwarz Architects",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : ACE Forwarding",
+      "link": "https://www.ransomware.live/id/QUNFIEZvcndhcmRpbmdAb2JzY3VyYQ==",
+      "summary": "Ace Forwarding offers several methods of protecting your freight. Full-service crating and repackaging are available in a variety of materials. Our full time staff of carpenters will custom-tailor crating and packaging to fit your specific needs.",
+      "pubDate": "Fri, 12 Dec 2025 22:11:48 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/obscura?e02c64775df45a1ef2394e015944f419",
+      "group": "Obscura",
+      "victim": "ACE Forwarding",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : Startek Engineering Inc.",
+      "link": "https://www.ransomware.live/id/U3RhcnRlayBFbmdpbmVlcmluZyBJbmMuQG9ic2N1cmE=",
+      "summary": "STARTEK is a worldwide leading company in the fingerprint identification industry, dedicated to developing and providing consumer-ready fingerprint identification products, biometric fingerprint sensors and modules. Established in 1989 at Hsinchu Science Industrial Park, Taiwan, the company has a long history and rich experience in the Biometric fingerprinting field, and continues to be a strong player in the evolution of fingerprint technology development and applications. Startek’s patented proprietary fingerprint algorithm technology follows the ISO/IEC 19794-2 standard and provides maximum accuracy, performance, and reliability.",
+      "pubDate": "Fri, 12 Dec 2025 22:11:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/obscura?03c51c328070193ffa0199be881486b3",
+      "group": "Obscura",
+      "victim": "Startek Engineering Inc.",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : StanleyCo Malaysia",
+      "link": "https://www.ransomware.live/id/U3RhbmxleUNvIE1hbGF5c2lhQG9ic2N1cmE=",
+      "summary": "StanleyCo Malaysia provides expert accounting, tax advisory, company incorporation, and compliance services for local and foreign businesses in Malaysia.",
+      "pubDate": "Fri, 12 Dec 2025 22:11:00 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/obscura?8a9b69a3fa0bba8ce3122b57a871ee0d",
+      "group": "Obscura",
+      "victim": "StanleyCo Malaysia",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : New Obscura 2.0!",
+      "link": "https://www.ransomware.live/id/TmV3IE9ic2N1cmEgMi4wIUBvYnNjdXJh",
+      "summary": "We present the new version of Obscura 2.0. Faster encryption mechanisms, bugs fixed in the first version, more covert operation, and more upset companies. Now you can rent our software. You can write to us on Tox, where we will tell you about the terms and conditions.",
+      "pubDate": "Fri, 12 Dec 2025 22:10:36 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/obscura?1202a544c94eb1f4ea03d0a5303fb105",
+      "group": "Obscura",
+      "victim": "New Obscura 2.0!",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : United Keetoowah Band of Cherokee Indians in Oklahoma",
       "link": "https://www.ransomware.live/id/VW5pdGVkIEtlZXRvb3dhaCBCYW5kIG9mIENoZXJva2VlIEluZGlhbnMgaW4gT2tsYWhvbWFAcmh5c2lkYQ==",
@@ -2102,105 +2201,6 @@
       "group": "Lockbit5",
       "victim": "berjaya-air.com",
       "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : montaury.com.br",
-      "link": "https://www.ransomware.live/id/bW9udGF1cnkuY29tLmJyQGxvY2tiaXQ1",
-      "summary": "Montaury Pimenta, Machado &amp;amp; Vieira de Mello is a leading Brazilian Intellectual Property (IP) la...",
-      "pubDate": "Sun, 07 Dec 2025 10:25:06 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/lockbit5?28db7d0aff7fc47c8522138f9b757344",
-      "group": "Lockbit5",
-      "victim": "montaury.com.br",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : milanoristorazione.it",
-      "link": "https://www.ransomware.live/id/bWlsYW5vcmlzdG9yYXppb25lLml0QGxvY2tiaXQ1",
-      "summary": "La Food Policy è la politica alimentare della città. Rappresenta uno strumento di supporto al govern...",
-      "pubDate": "Sun, 07 Dec 2025 10:24:33 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/lockbit5?4041c80b88a3e7bc96538793f543c91d",
-      "group": "Lockbit5",
-      "victim": "milanoristorazione.it",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : kap.co.th",
-      "link": "https://www.ransomware.live/id/a2FwLmNvLnRoQGxvY2tiaXQ1",
-      "summary": "The Kudun and Partners story Kudun and Partners law firm in Thailand was established in 2015 from a...",
-      "pubDate": "Sun, 07 Dec 2025 10:24:19 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/lockbit5?692489704b0dbd821c20eeee90bc6b7c",
-      "group": "Lockbit5",
-      "victim": "kap.co.th",
-      "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : cadopt.com",
-      "link": "https://www.ransomware.live/id/Y2Fkb3B0LmNvbUBsb2NrYml0NQ==",
-      "summary": "CADOpt Technologies is the exclusive partner of iSEEK Corporation in India, delivering high-speed, s...",
-      "pubDate": "Sun, 07 Dec 2025 10:23:46 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/lockbit5?84eb1ddcefec1090f9b4f0ee47266f4c",
-      "group": "Lockbit5",
-      "victim": "cadopt.com",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : marriott.com",
-      "link": "https://www.ransomware.live/id/bWFycmlvdHQuY29tQGxvY2tiaXQ1",
-      "summary": "Book Directly &amp;amp; Save at any of our 9000+ Marriott Bonvoy Hotels. Choose from Luxury Hotels, Reso...",
-      "pubDate": "Sun, 07 Dec 2025 10:23:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?6f65a587305cd778a96eb231e5f0b3ce",
-      "group": "Lockbit5",
-      "victim": "marriott.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : four-points.marriott.com",
-      "link": "https://www.ransomware.live/id/Zm91ci1wb2ludHMubWFycmlvdHQuY29tQGxvY2tiaXQ1",
-      "summary": "Marriott Bonvoy™, an award-winning travel program, offers a brand for every type of journey. Earn an...",
-      "pubDate": "Sun, 07 Dec 2025 10:22:38 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?27a956a52ec2de7942155bb6505ef95f",
-      "group": "Lockbit5",
-      "victim": "four-points.marriott.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : iscot.it",
-      "link": "https://www.ransomware.live/id/aXNjb3QuaXRAbG9ja2JpdDU=",
-      "summary": "Chi siamo passato, presentee futuro Siamo una società che offre Servizi Tecnici per le imprese. Le n...",
-      "pubDate": "Sun, 07 Dec 2025 10:22:04 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/lockbit5?977fb64ea32fbcb35f5efcf1d10bed74",
-      "group": "Lockbit5",
-      "victim": "iscot.it",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : tracsa.com.mx",
-      "link": "https://www.ransomware.live/id/dHJhY3NhLmNvbS5teEBsb2NrYml0NQ==",
-      "summary": "Distribuidor autorizado de soluciones industriales para venta y renta de maquinaria pesada, industri...",
-      "pubDate": "Sun, 07 Dec 2025 10:21:30 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/lockbit5?c6d6deffecc983de8f745911465650e0",
-      "group": "Lockbit5",
-      "victim": "tracsa.com.mx",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : chmsbc.org.br",
-      "link": "https://www.ransomware.live/id/Y2htc2JjLm9yZy5ickBsb2NrYml0NQ==",
-      "summary": "Complexo Hospitalar O Complexo Hospitalar de São Bernardo do Campo é formado pelo Hospital de Clínic...",
-      "pubDate": "Sun, 07 Dec 2025 10:20:54 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/lockbit5?af5ceec683d4d120ae4508cfd3e40f7f",
-      "group": "Lockbit5",
-      "victim": "chmsbc.org.br",
-      "country": "BR"
     }
   ]
 }
