@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-12T13:28:57.519Z",
+  "updatedAt": "2025-12-12T14:13:14.669Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Anderson Engineering",
+      "link": "https://www.ransomware.live/id/QW5kZXJzb24gRW5naW5lZXJpbmdAc3BhY2ViZWFycw==",
+      "summary": "We specialize in navigating complex regulatory requirements, engineering precise designs, and ensuring seamless permitting to get you building faster. With over 35 years of experience, we solve your most demanding engineering, permitting, and compliance challenges, letting you move to construction with precision and expertise.Personal information of employees and clientsFinancial documentsProjects, drawings https://www.andersoneng.com/",
+      "pubDate": "Fri, 12 Dec 2025 14:02:53 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/spacebears?ce902307b7a0453df022454bd7aa29ed",
+      "group": "Spacebears",
+      "victim": "Anderson Engineering",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Warrior Crane Service",
+      "link": "https://www.ransomware.live/id/V2FycmlvciBDcmFuZSBTZXJ2aWNlQGFraXJh",
+      "summary": "Warrior Crane is a leading provider of specialized crane lifting  services, delivering customized solutions to diverse industries.  We will upload 22gb of corporate data soon. Employee information  (DLs, passports, phones, address and so on), financials, client i nformation, contracts and agreements, confidentiality agreements, etc.",
+      "pubDate": "Fri, 12 Dec 2025 13:20:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?af9537ded450cb1b1dfc6f296cb0f9ed",
+      "group": "Akira",
+      "victim": "Warrior Crane Service",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : *****.com",
       "link": "https://www.ransomware.live/id/KioqKiouY29tQHRoZWdlbnRsZW1lbg==",
@@ -2179,28 +2201,6 @@
       "group": "Silentransomgroup",
       "victim": "Fish & Richardson Overview Metrics",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Benchmark Electronics Inc",
-      "link": "https://www.ransomware.live/id/QmVuY2htYXJrIEVsZWN0cm9uaWNzIEluY0BldmVyZXN0",
-      "summary": "[AI generated] Benchmark Electronics Inc. is a global provider of integrated technology solutions and manufacturing services. Located in Arizona, USA, the company offers its services in various sectors including medical, industrial, aerospace, and defense. They specialize in electronic manufacturing services (EMS) and product design, engineering, technology solutions, advanced manufacturing, and after-market services.",
-      "pubDate": "Sat, 06 Dec 2025 20:15:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/everest?0d21494b863b2eba8b824f5868a82a08",
-      "group": "Everest",
-      "victim": "Benchmark Electronics Inc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : Ermat Grup",
-      "link": "https://www.ransomware.live/id/RXJtYXQgR3J1cEBuaWdodHNwaXJl",
-      "summary": "Ermat Grup",
-      "pubDate": "Sat, 06 Dec 2025 18:43:27 +0000",
-      "category": "TR",
-      "guid": "https://www.ransomware.live/group/nightspire?cbff485b4a6dc55623f24d3b4fe9ca1d",
-      "group": "Nightspire",
-      "victim": "Ermat Grup",
-      "country": "TR"
     }
   ]
 }
