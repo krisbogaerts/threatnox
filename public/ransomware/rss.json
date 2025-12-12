@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-12T16:14:10.120Z",
+  "updatedAt": "2025-12-12T17:11:58.027Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tengu has just published a new victim : Unknown",
+      "link": "https://www.ransomware.live/id/VW5rbm93bkB0ZW5ndQ==",
+      "summary": "Unknown",
+      "pubDate": "Fri, 12 Dec 2025 16:59:15 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/tengu?a49c755df8747ecb213b43761bf7b1b3",
+      "group": "Tengu",
+      "victim": "Unknown",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : United Keetoowah Band of Cherokee Indians in Oklahoma",
+      "link": "https://www.ransomware.live/id/VW5pdGVkIEtlZXRvb3dhaCBCYW5kIG9mIENoZXJva2VlIEluZGlhbnMgaW4gT2tsYWhvbWFAcmh5c2lkYQ==",
+      "summary": "United Keetoowah Band of Cherokee Indians in Oklahoma",
+      "pubDate": "Fri, 12 Dec 2025 16:56:19 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?691474e2594c046d8b067a4cc5cc1d8f",
+      "group": "Rhysida",
+      "victim": "United Keetoowah Band of Cherokee Indians in Oklahoma",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : HKR Architects",
       "link": "https://www.ransomware.live/id/SEtSIEFyY2hpdGVjdHNAZHJhZ29uZm9yY2U=",
@@ -2179,28 +2201,6 @@
       "group": "Lockbit5",
       "victim": "tracsa.com.mx",
       "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : chmsbc.org.br",
-      "link": "https://www.ransomware.live/id/Y2htc2JjLm9yZy5ickBsb2NrYml0NQ==",
-      "summary": "Complexo Hospitalar O Complexo Hospitalar de São Bernardo do Campo é formado pelo Hospital de Clínic...",
-      "pubDate": "Sun, 07 Dec 2025 10:20:54 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/lockbit5?af5ceec683d4d120ae4508cfd3e40f7f",
-      "group": "Lockbit5",
-      "victim": "chmsbc.org.br",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : elundini.gov.za",
-      "link": "https://www.ransomware.live/id/ZWx1bmRpbmkuZ292LnphQGxvY2tiaXQ1",
-      "summary": "Elundini Local Municipality is an administrative area in the Joe Gqabi District Municipality of the...",
-      "pubDate": "Sun, 07 Dec 2025 10:20:20 +0000",
-      "category": "ZA",
-      "guid": "https://www.ransomware.live/group/lockbit5?ca058a90ef41a9b82b2410940c5257c7",
-      "group": "Lockbit5",
-      "victim": "elundini.gov.za",
-      "country": "ZA"
     }
   ]
 }
