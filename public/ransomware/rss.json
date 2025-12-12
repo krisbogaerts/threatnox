@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-12T09:17:04.159Z",
+  "updatedAt": "2025-12-12T10:13:58.760Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : Quezon Power",
+      "link": "https://www.ransomware.live/id/UXVlem9uIFBvd2VyQGRldm1hbg==",
+      "summary": "Employee data, hr info, projects, Work logs of the power plants, Scada SRC",
+      "pubDate": "Fri, 12 Dec 2025 09:20:28 +0000",
+      "category": "PH",
+      "guid": "https://www.ransomware.live/group/devman?ed94c12037cef21a056cded7e595381d",
+      "group": "Devman",
+      "victim": "Quezon Power",
+      "country": "PH"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : Hopital La Rabta",
+      "link": "https://www.ransomware.live/id/SG9waXRhbCBMYSBSYWJ0YUBkZXZtYW4=",
+      "summary": "[AI generated] Hopital La Rabta is a major hospital located in Tunis, Tunisia. It provides a wide array of medical services to the Tunisian population. The hospital prides itself on its team of highly skilled and dedicated medical professionals who utilize advanced medical equipment to effectively diagnose and treat diseases. It offers surgical services, specialty medicine, emergency care, and outpatient services.",
+      "pubDate": "Fri, 12 Dec 2025 09:19:17 +0000",
+      "category": "TN",
+      "guid": "https://www.ransomware.live/group/devman?8aab23497b22b955148ac6f9a1791fb5",
+      "group": "Devman",
+      "victim": "Hopital La Rabta",
+      "country": "TN"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Greene Metal Products",
       "link": "https://www.ransomware.live/id/R3JlZW5lIE1ldGFsIFByb2R1Y3RzQHFpbGlu",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/incransom?99325c6cfee721dc469e65def184ce96",
       "group": "Incransom",
       "victim": "www.mylawcompany.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Embargo has just published a new victim : lso.com",
-      "link": "https://www.ransomware.live/id/bHNvLmNvbUBlbWJhcmdv",
-      "summary": "Lone Star Overnight (LSO) is headquartered in Austin, Texas, and, over the last 30 years, has become a leading regional parcel delivery company. LSO has a netwo... - LSO does not understand encryption so we demonstrated for them how encryption works. We have ~500 GB data total includin...",
-      "pubDate": "Sat, 06 Dec 2025 18:16:40 +0000",
-      "category": "LS",
-      "guid": "https://www.ransomware.live/group/embargo?3e7c2a8ef305a299c0d7cd0e62353858",
-      "group": "Embargo",
-      "victim": "lso.com",
-      "country": "LS"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Precision Compounding",
-      "link": "https://www.ransomware.live/id/UHJlY2lzaW9uIENvbXBvdW5kaW5nQGRyYWdvbmZvcmNl",
-      "summary": "Precision Compounding Pharmacy, located in Omaha, NE, specializes in creating customized medications that fit the unique needs of each patient. They collaborate with healthcare providers and patients to develop unique formulations, ensuring that all compounded medications are safe, effective, and accurately made. Their services include general compounding, men&#x27;s and women&#x27;s health, dermatology, low dose naltrexone, veterinary care, and nutritionals. With a commitment to quality and personalized care, they aim to achieve the best therapeutic outcomes for their clients.",
-      "pubDate": "Sat, 06 Dec 2025 18:15:48 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?5de113ffa827e7f2c83c281d60df9488",
-      "group": "Dragonforce",
-      "victim": "Precision Compounding",
       "country": "US"
     }
   ]
