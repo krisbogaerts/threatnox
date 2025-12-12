@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-12T08:18:09.883Z",
+  "updatedAt": "2025-12-12T09:17:04.159Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Greene Metal Products",
+      "link": "https://www.ransomware.live/id/R3JlZW5lIE1ldGFsIFByb2R1Y3RzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 12 Dec 2025 08:48:27 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?f35271b3a456519ff1847c47c367e374",
+      "group": "Qilin",
+      "victim": "Greene Metal Products",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : Right Power Technology Sdn Bhd",
       "link": "https://www.ransomware.live/id/UmlnaHQgUG93ZXIgVGVjaG5vbG9neSBTZG4gQmhkQHNwYWNlYmVhcnM=",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Precision Compounding",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : ANG BROTHERS (M&E) PTE. LTD. (P3)",
-      "link": "https://www.ransomware.live/id/QU5HIEJST1RIRVJTIChNJkUpIFBURS4gTFRELiAoUDMpQG5vdmE=",
-      "summary": "ANG BROTHERS (M&amp;E) PTE. LTD. (the \"Company\") is a Exempt Private Company Limited by Shares, incorporated on 22 July 2002 (Monday) in Singapore . The address of the Company&#x27;s registered office is in the SHUN LI INDUSTRIAL PARK estate. The Company current operating status is live and has been operating for 23 years. This Company&#x27;s principal activity is plumbing, heating (non-electric) and air-conditioning with steam and air-conditioning supply as the secondary activity",
-      "pubDate": "Sat, 06 Dec 2025 17:49:47 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/nova?dc4b9c33d84cfb562d9604c9b51cc4dc",
-      "group": "Nova",
-      "victim": "ANG BROTHERS (M&E) PTE. LTD. (P3)",
-      "country": "SG"
     }
   ]
 }
