@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-13T15:10:44.121Z",
+  "updatedAt": "2025-12-13T16:13:44.327Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cinvestav",
+      "link": "https://www.ransomware.live/id/Q2ludmVzdGF2QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 13 Dec 2025 15:44:14 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/qilin?895b0d135de8596251c3db46ebd7505c",
+      "group": "Qilin",
+      "victim": "Cinvestav",
+      "country": "MX"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : ***** ***********",
       "link": "https://www.ransomware.live/id/KioqKiogKioqKioqKioqKipAcmh5c2lkYQ==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/lockbit5?0a06e596348112f965bd12f8dd31b32b",
       "group": "Lockbit5",
       "victim": "graphiquedefrance.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : arc-com.com",
-      "link": "https://www.ransomware.live/id/YXJjLWNvbS5jb21AbG9ja2JpdDU=",
-      "summary": "The Arc-Com Design Team creates, develops and introduces innovative and high performance textile pro...",
-      "pubDate": "Sun, 07 Dec 2025 10:27:07 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?3c326797a68fe277a1e2fff97f14ecba",
-      "group": "Lockbit5",
-      "victim": "arc-com.com",
       "country": "US"
     }
   ]
