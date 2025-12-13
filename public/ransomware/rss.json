@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-13T11:09:35.363Z",
+  "updatedAt": "2025-12-13T12:21:01.660Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Chema Ballester",
+      "link": "https://www.ransomware.live/id/Q2hlbWEgQmFsbGVzdGVyQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 13 Dec 2025 11:55:05 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?34015fded4a675a2980e1b1f100d8b0b",
+      "group": "Qilin",
+      "victim": "Chema Ballester",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Watermark Beach Resort",
+      "link": "https://www.ransomware.live/id/V2F0ZXJtYXJrIEJlYWNoIFJlc29ydEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 13 Dec 2025 11:54:28 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?23a8929b577c16b16b53013b594c0562",
+      "group": "Qilin",
+      "victim": "Watermark Beach Resort",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Temple Shalom",
+      "link": "https://www.ransomware.live/id/VGVtcGxlIFNoYWxvbUBkcmFnb25mb3JjZQ==",
+      "summary": "Temple Shalom is a Reform Jewish community of approximately 400 families who celebrate the diversity of modern Judaism in the Washington, D.C. area by welcoming members as part of one congregational family, accepting them as they are, and encouraging personal growth through programs and activities. Temple Shalom places Torah at the center, where serious learning is for everyone, where prayer and music is meaningful, participatory, and powerful, and where people feel a strong sense of belonging",
+      "pubDate": "Sat, 13 Dec 2025 11:26:56 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?6e837581cd27d2df5fc625e7662edf28",
+      "group": "Dragonforce",
+      "victim": "Temple Shalom",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Minteye has just published a new victim : Keylogistics Chile SA",
       "link": "https://www.ransomware.live/id/S2V5bG9naXN0aWNzIENoaWxlIFNBQG1pbnRleWU=",
@@ -2168,39 +2201,6 @@
       "group": "Lockbit5",
       "victim": "fepasa.com.ar",
       "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : grupotersa.com.mx",
-      "link": "https://www.ransomware.live/id/Z3J1cG90ZXJzYS5jb20ubXhAbG9ja2JpdDU=",
-      "summary": "Company Description: Grupo TERSA was born from the dream of our Chairman and Founder Rodrigo Valle H...",
-      "pubDate": "Sun, 07 Dec 2025 10:26:09 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/lockbit5?dd220a609cf44248ac140191da633889",
-      "group": "Lockbit5",
-      "victim": "grupotersa.com.mx",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : bioclimaservice.it",
-      "link": "https://www.ransomware.live/id/YmlvY2xpbWFzZXJ2aWNlLml0QGxvY2tiaXQ1",
-      "summary": "Company Description: Bio-Clima Service SRL is a company founded in 2002 and specialized in technical...",
-      "pubDate": "Sun, 07 Dec 2025 10:25:54 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/lockbit5?f4dc6ec6db9e76564167cabfc832127b",
-      "group": "Lockbit5",
-      "victim": "bioclimaservice.it",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : berjaya-air.com",
-      "link": "https://www.ransomware.live/id/YmVyamF5YS1haXIuY29tQGxvY2tiaXQ1",
-      "summary": "About Us BERJAYA AIR Established in 1989 as part of the dynamic Berjaya Group, Berjaya Air offers ex...",
-      "pubDate": "Sun, 07 Dec 2025 10:25:40 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/lockbit5?56e697a2d3882748f76610da49cc2da7",
-      "group": "Lockbit5",
-      "victim": "berjaya-air.com",
-      "country": "MY"
     }
   ]
 }
