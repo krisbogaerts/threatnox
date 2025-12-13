@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-13T12:21:01.660Z",
+  "updatedAt": "2025-12-13T13:21:18.394Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : ***** ***********",
+      "link": "https://www.ransomware.live/id/KioqKiogKioqKioqKioqKipAcmh5c2lkYQ==",
+      "summary": "***** ***********",
+      "pubDate": "Sat, 13 Dec 2025 12:54:32 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/rhysida?d1e3286d7423425e0ff16622b564b512",
+      "group": "Rhysida",
+      "victim": "***** ***********",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : beycelik",
+      "link": "https://www.ransomware.live/id/YmV5Y2VsaWtAaW5jcmFuc29t",
+      "summary": "Beyçelik Gestamp Otomotiv Sanayi A.Ş. is an international company that designs, develops, and produces metal parts for the automotive supply industry. They focus on creating innovative products to support safer and lighter automotive designs, thereby enhancing human safety, reducing energy consumption, and contributing to environmental protection. The company serves clients in the automotive sector, emphasizing quality and advanced technological solutions. Their commitment to sustainability and ethical practices reflects in their operational policies and community contributions.",
+      "pubDate": "Sat, 13 Dec 2025 12:23:42 +0000",
+      "category": "TR",
+      "guid": "https://www.ransomware.live/group/incransom?ae8d8e5c09f6a3f749d516ad9cadaf29",
+      "group": "Incransom",
+      "victim": "beycelik",
+      "country": "TR"
+    },
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Targets Locked: The Minds Behind Arrow and David’s Sling Are Revealed",
+      "link": "https://www.ransomware.live/id/VGFyZ2V0cyBMb2NrZWQ6IFRoZSBNaW5kcyBCZWhpbmQgQXJyb3cgYW5kIERhdmlk4oCZcyBTbGluZyBBcmUgUmV2ZWFsZWRAaGFuZGFsYQ==",
+      "summary": "Once again, Handala RedWanted has shattered the illusion of security within the Zionist regime. This week, we have unveiled the names of 13 principal architects behind the ‘Arrow’ and ‘David’s Sling’ defense systems, individuals once believed to be shadows, now fully exposed to the world. A reward of $30,000 awaits anyone who provides valuable information…",
+      "pubDate": "Sat, 13 Dec 2025 12:23:19 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?8ac859eacace902f92d1ae8af4fc415f",
+      "group": "Handala",
+      "victim": "Targets Locked: The Minds Behind Arrow and David’s Sling Are Revealed",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Chema Ballester",
       "link": "https://www.ransomware.live/id/Q2hlbWEgQmFsbGVzdGVyQHFpbGlu",
@@ -2168,39 +2201,6 @@
       "group": "Lockbit5",
       "victim": "arc-com.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : intellioan.com",
-      "link": "https://www.ransomware.live/id/aW50ZWxsaW9hbi5jb21AbG9ja2JpdDU=",
-      "summary": "Experience the Intelliloan difference! Get expert guidance on home loans, refinancing, and mortgage...",
-      "pubDate": "Sun, 07 Dec 2025 10:26:52 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/lockbit5?05b285309055be5eaefaf542fe3f1c97",
-      "group": "Lockbit5",
-      "victim": "intellioan.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : aqhch.com.cn",
-      "link": "https://www.ransomware.live/id/YXFoY2guY29tLmNuQGxvY2tiaXQ1",
-      "summary": "Heng Chang Machinery Co., Ltd (HCH), founded in 1988, is a leading world-class professional manufact...",
-      "pubDate": "Sun, 07 Dec 2025 10:26:38 +0000",
-      "category": "CN",
-      "guid": "https://www.ransomware.live/group/lockbit5?a8307ad59266393a245e8aa44bb9c232",
-      "group": "Lockbit5",
-      "victim": "aqhch.com.cn",
-      "country": "CN"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : fepasa.com.ar",
-      "link": "https://www.ransomware.live/id/ZmVwYXNhLmNvbS5hckBsb2NrYml0NQ==",
-      "summary": "Company Description: FEPASA — Argentine poultry company operating in the field of high-quality meat...",
-      "pubDate": "Sun, 07 Dec 2025 10:26:24 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/lockbit5?ccebc3e3e083de13825ff842420016af",
-      "group": "Lockbit5",
-      "victim": "fepasa.com.ar",
-      "country": "AR"
     }
   ]
 }
