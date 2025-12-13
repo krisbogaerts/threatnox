@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-13T18:15:42.537Z",
+  "updatedAt": "2025-12-13T19:08:53.967Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Vishnick McGovern Milizio",
+      "link": "https://www.ransomware.live/id/VmlzaG5pY2sgTWNHb3Zlcm4gTWlsaXppb0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 13 Dec 2025 18:22:33 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?974b17d674bfe8162b7edbde6b07c8af",
+      "group": "Qilin",
+      "victim": "Vishnick McGovern Milizio",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Wright Architectural Millwork",
+      "link": "https://www.ransomware.live/id/V3JpZ2h0IEFyY2hpdGVjdHVyYWwgTWlsbHdvcmtAYWtpcmE=",
+      "summary": "Wright Architectural Millwork specializes in high-quali ty architectural woodwork and has been in the industry  for 50 years. Here is the access to upload company data. Employee per sonal information (passport numbers, driver licenses, p hones, emails), financials, a bit of client data, contr acts and agreements, NDA, etc. We have made the process of downloading company data as simple as possible for our users. All you need is any  torrent client (like Vuze, Utorrent, qBittorrent or Tra nsmission to use magnet links). You will find the torre nt file above. Open uTorrent, or any another torrent client. Add torrent file or paste the magnet URL to upload the  data safely. Password wrightmw.com MAGNET URL: magnet:?xt=urn:btih:1A3C9D3A54290E0C5A17EE1784ADFA34899 C0D93&amp;dn=wrightmw&amp;tr=udp://tracker.openbittorrent.com:8 0/announce&amp;tr=udp://tracker.opentrackr.org:1337/announc e",
+      "pubDate": "Sat, 13 Dec 2025 17:46:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?e64fcad3993311d3a9156adb6427c253",
+      "group": "Akira",
+      "victim": "Wright Architectural Millwork",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Jabezco Industrial Group",
       "link": "https://www.ransomware.live/id/SmFiZXpjbyBJbmR1c3RyaWFsIEdyb3VwQHBsYXk=",
@@ -2179,28 +2201,6 @@
       "group": "Lockbit5",
       "victim": "brumfieldconstructioninc.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : asiapacificex.com",
-      "link": "https://www.ransomware.live/id/YXNpYXBhY2lmaWNleC5jb21AbG9ja2JpdDU=",
-      "summary": "DISCLAIMER: It has come to our attention that there are individuals or organisations misrepresenting...",
-      "pubDate": "Sun, 07 Dec 2025 10:28:45 +0000",
-      "category": "HK",
-      "guid": "https://www.ransomware.live/group/lockbit5?847d25152da77c2878fbf7e0598eed67",
-      "group": "Lockbit5",
-      "victim": "asiapacificex.com",
-      "country": "HK"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : crystal-d.com",
-      "link": "https://www.ransomware.live/id/Y3J5c3RhbC1kLmNvbUBsb2NrYml0NQ==",
-      "summary": "Crystal D is the premier corporate crystal awards, trophy, and promotional products manufacturer. Ou...",
-      "pubDate": "Sun, 07 Dec 2025 10:28:32 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/lockbit5?98564816e81e1e2d10ce05aad9977af8",
-      "group": "Lockbit5",
-      "victim": "crystal-d.com",
-      "country": "DE"
     }
   ]
 }
