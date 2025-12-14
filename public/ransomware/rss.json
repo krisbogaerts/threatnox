@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-14T13:21:31.026Z",
+  "updatedAt": "2025-12-14T14:10:57.592Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Smith Roberts Baldischwiler, LLC | OKC Engineering Firm",
+      "link": "https://www.ransomware.live/id/U21pdGggUm9iZXJ0cyBCYWxkaXNjaHdpbGVyLCBMTEMgfCBPS0MgRW5naW5lZXJpbmcgRmlybUBkcmFnb25mb3JjZQ==",
+      "summary": "Many projects of large companies are now available to public. Customer information, confidential data, and much more.  Successful engineering projects begin with careful collaboration between all stakeholders involved in the projects. SRB&#x27;s greatest strength lies in its commitment to open communication at all stages of the project between citizens, government, utilities, and other design professionals.",
+      "pubDate": "Sun, 14 Dec 2025 12:54:36 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?8eedb898e9fc69e4f2aeaea97220bcc3",
+      "group": "Dragonforce",
+      "victim": "Smith Roberts Baldischwiler, LLC | OKC Engineering Firm",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : The Youngfor",
       "link": "https://www.ransomware.live/id/VGhlIFlvdW5nZm9yQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Lockbit5",
       "victim": "jobberswarehouse.com",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : rjwalker.com",
-      "link": "https://www.ransomware.live/id/cmp3YWxrZXIuY29tQGxvY2tiaXQ1",
-      "summary": "R J Walker Plumbing , Heating, Electrical and Cooling.Our family owned and operated business, with s...",
-      "pubDate": "Sun, 07 Dec 2025 10:30:52 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?7259813036aedcf31b0c8f05be549732",
-      "group": "Lockbit5",
-      "victim": "rjwalker.com",
-      "country": "US"
     }
   ]
 }
