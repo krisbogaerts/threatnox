@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-14T14:10:57.592Z",
+  "updatedAt": "2025-12-14T15:10:46.956Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Wavenet",
+      "link": "https://www.ransomware.live/id/V2F2ZW5ldEB3b3JsZGxlYWtz",
+      "summary": "[AI generated] Wavenet is a UK-based telecommunications company that offers a wide range of services including broadband internet, landline telephone connections, and mobile network services. They provide advanced technology solutions to businesses, focusing on AI, customer engagement, cloud &amp; managed services. Their solutions are designed to enhance productivity and customer satisfaction, while lowering costs.",
+      "pubDate": "Sun, 14 Dec 2025 14:25:18 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/worldleaks?3b40093da605ee9d661326cfc80e62e9",
+      "group": "Worldleaks",
+      "victim": "Wavenet",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Smith Roberts Baldischwiler, LLC | OKC Engineering Firm",
       "link": "https://www.ransomware.live/id/U21pdGggUm9iZXJ0cyBCYWxkaXNjaHdpbGVyLCBMTEMgfCBPS0MgRW5naW5lZXJpbmcgRmlybUBkcmFnb25mb3JjZQ==",
@@ -2190,17 +2201,6 @@
       "group": "Lockbit5",
       "victim": "insightchicago.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : jobberswarehouse.com",
-      "link": "https://www.ransomware.live/id/am9iYmVyc3dhcmVob3VzZS5jb21AbG9ja2JpdDU=",
-      "summary": "You cant help but make the right move with Jobbers Moving Storage and Allied Van Lines. Because we k...",
-      "pubDate": "Sun, 07 Dec 2025 10:31:27 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/lockbit5?d1b603ec802ada89cc00487d3e49cada",
-      "group": "Lockbit5",
-      "victim": "jobberswarehouse.com",
-      "country": ""
     }
   ]
 }
