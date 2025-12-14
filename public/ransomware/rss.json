@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-14T07:12:10.071Z",
+  "updatedAt": "2025-12-14T08:15:14.180Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : The Youngfor",
+      "link": "https://www.ransomware.live/id/VGhlIFlvdW5nZm9yQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sun, 14 Dec 2025 07:17:42 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/qilin?e25685678a09df85060c8fa318a9fa6d",
+      "group": "Qilin",
+      "victim": "The Youngfor",
+      "country": "JP"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Vlp Hellas",
+      "link": "https://www.ransomware.live/id/VmxwIEhlbGxhc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sun, 14 Dec 2025 07:17:04 +0000",
+      "category": "GR",
+      "guid": "https://www.ransomware.live/group/qilin?aafe059d7916256fea0abc521abb96bd",
+      "group": "Qilin",
+      "victim": "Vlp Hellas",
+      "country": "GR"
+    },
     {
       "title": "🏴‍☠️ Killsec has just published a new victim : dabafinance.com",
       "link": "https://www.ransomware.live/id/ZGFiYWZpbmFuY2UuY29tQGtpbGxzZWM=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/lockbit5?7259813036aedcf31b0c8f05be549732",
       "group": "Lockbit5",
       "victim": "rjwalker.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : topackt.com",
-      "link": "https://www.ransomware.live/id/dG9wYWNrdC5jb21AbG9ja2JpdDU=",
-      "summary": "Topackt IT Solutions GmbH is an IT service provider in Germany. One of its products is DNSX &amp;#039;D...",
-      "pubDate": "Sun, 07 Dec 2025 10:30:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?2bd17b8e8bbf71acf20b37f470f65d81",
-      "group": "Lockbit5",
-      "victim": "topackt.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : aerworldwide.com",
-      "link": "https://www.ransomware.live/id/YWVyd29ybGR3aWRlLmNvbUBsb2NrYml0NQ==",
-      "summary": "O cassino online https://mgjogowin.com mantém o jogo simples, seguro e emocionante. Jogadores amam a...",
-      "pubDate": "Sun, 07 Dec 2025 10:29:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?844209169a9ec340dd7f6cd3345b5baa",
-      "group": "Lockbit5",
-      "victim": "aerworldwide.com",
       "country": "US"
     }
   ]
