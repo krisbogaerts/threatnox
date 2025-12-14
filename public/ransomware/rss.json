@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-14T01:01:52.422Z",
+  "updatedAt": "2025-12-14T03:21:55.683Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Killsec has just published a new victim : dabafinance.com",
+      "link": "https://www.ransomware.live/id/ZGFiYWZpbmFuY2UuY29tQGtpbGxzZWM=",
+      "summary": "Price ??? Disclosures 0/1",
+      "pubDate": "Sun, 14 Dec 2025 01:53:00 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/killsec?c9d8c8b4913ed3e02b88b2d3da489a2a",
+      "group": "Killsec",
+      "victim": "dabafinance.com",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : CANCER",
+      "link": "https://www.ransomware.live/id/Q0FOQ0VSQGRldm1hbg==",
+      "summary": "Financial data, clients data",
+      "pubDate": "Sun, 14 Dec 2025 01:48:35 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/devman?d9bd83c30e44b2f3e94c6c902a0e4afe",
+      "group": "Devman",
+      "victim": "CANCER",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : ***-***tems.***",
+      "link": "https://www.ransomware.live/id/KioqLSoqKnRlbXMuKioqQGRldm1hbg==",
+      "summary": "",
+      "pubDate": "Sun, 14 Dec 2025 01:47:20 +0000",
+      "category": "UK",
+      "guid": "https://www.ransomware.live/group/devman?2b15eb9190890f596832e7c4a7d3c2b0",
+      "group": "Devman",
+      "victim": "***-***tems.***",
+      "country": "UK"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Vishnick McGovern Milizio",
       "link": "https://www.ransomware.live/id/VmlzaG5pY2sgTWNHb3Zlcm4gTWlsaXppb0BxaWxpbg==",
@@ -2167,39 +2200,6 @@
       "guid": "https://www.ransomware.live/group/lockbit5?844209169a9ec340dd7f6cd3345b5baa",
       "group": "Lockbit5",
       "victim": "aerworldwide.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : 51talk.com",
-      "link": "https://www.ransomware.live/id/NTF0YWxrLmNvbUBsb2NrYml0NQ==",
-      "summary": "Sign in to your 51Talk account and continue your English learning journey with our expert teachers....",
-      "pubDate": "Sun, 07 Dec 2025 10:29:45 +0000",
-      "category": "PH",
-      "guid": "https://www.ransomware.live/group/lockbit5?894953c88fdf9b66013a8f3368e06c22",
-      "group": "Lockbit5",
-      "victim": "51talk.com",
-      "country": "PH"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : terracaribbean.com",
-      "link": "https://www.ransomware.live/id/dGVycmFjYXJpYmJlYW4uY29tQGxvY2tiaXQ1",
-      "summary": "Terra Caribbean is your expert in Caribbean real estate, we&amp;#039;re well equipped to help find you y...",
-      "pubDate": "Sun, 07 Dec 2025 10:29:31 +0000",
-      "category": "BB",
-      "guid": "https://www.ransomware.live/group/lockbit5?86aff164fcd6c854e44914bccf7dec3b",
-      "group": "Lockbit5",
-      "victim": "terracaribbean.com",
-      "country": "BB"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : brumfieldconstructioninc.com",
-      "link": "https://www.ransomware.live/id/YnJ1bWZpZWxkY29uc3RydWN0aW9uaW5jLmNvbUBsb2NrYml0NQ==",
-      "summary": "Brumfield Construction, Inc. is a professional commercial and residential construction company locat...",
-      "pubDate": "Sun, 07 Dec 2025 10:29:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?6db36ba1e4f2b2483d08c9c3e8d1dca1",
-      "group": "Lockbit5",
-      "victim": "brumfieldconstructioninc.com",
       "country": "US"
     }
   ]
