@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-12-14T20:12:30.896Z",
+  "updatedAt": "2025-12-14T21:10:34.226Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : teccart.qc.ca",
+      "link": "https://www.ransomware.live/id/dGVjY2FydC5xYy5jYUBzYWZlcGF5",
+      "summary": "Founded in 1945, the institution has a long history of delivering practical, career-focused education in technology, design, business, management, arts, …",
+      "pubDate": "Sun, 14 Dec 2025 20:41:22 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/safepay?1cf728f250bf14000cad749f3780a249",
+      "group": "Safepay",
+      "victim": "teccart.qc.ca",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : sbws.org.sg",
+      "link": "https://www.ransomware.live/id/c2J3cy5vcmcuc2dAc2FmZXBheQ==",
+      "summary": "Singapore Buddhist Welfare Services (SBWS) is a well-established voluntary welfare organisation (VWO) in Singapore that focuses on holistic, community-based support …",
+      "pubDate": "Sun, 14 Dec 2025 20:40:46 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/safepay?0daabde57a29cfd34aaabb0234e3a620",
+      "group": "Safepay",
+      "victim": "sbws.org.sg",
+      "country": "SG"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : fest-group.de",
+      "link": "https://www.ransomware.live/id/ZmVzdC1ncm91cC5kZUBzYWZlcGF5",
+      "summary": "FEST Group is a German engineering and industrial technology company headquartered in Goslar. It specialises in advanced automation, electrification and …",
+      "pubDate": "Sun, 14 Dec 2025 20:40:12 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?f79633d307277488e506e94ca326c02c",
+      "group": "Safepay",
+      "victim": "fest-group.de",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : lampus.com",
+      "link": "https://www.ransomware.live/id/bGFtcHVzLmNvbUBzYWZlcGF5",
+      "summary": "R.I. Lampus Company, operating the domain Lampus.com, is a long-established American manufacturer and distributor in the building materials industry. Founded …",
+      "pubDate": "Sun, 14 Dec 2025 20:39:37 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?27bab3f0a7070fd72c393bebc8700906",
+      "group": "Safepay",
+      "victim": "lampus.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : inttrust.gr",
+      "link": "https://www.ransomware.live/id/aW50dHJ1c3QuZ3JAc2FmZXBheQ==",
+      "summary": "InTTrust S.A. is a Greek information technology and consulting firm headquartered in Agia Paraskevi, Athens. Founded in 2006, the company …",
+      "pubDate": "Sun, 14 Dec 2025 20:39:02 +0000",
+      "category": "GR",
+      "guid": "https://www.ransomware.live/group/safepay?0b347b6471b682c9d58ddbf9759a8668",
+      "group": "Safepay",
+      "victim": "inttrust.gr",
+      "country": "GR"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : aysa.com.ar",
+      "link": "https://www.ransomware.live/id/YXlzYS5jb20uYXJAc2FmZXBheQ==",
+      "summary": "AYSA, formally known as Agua y Saneamientos Argentinos Sociedad Anónima, is Argentina’s largest state-owned water and sanitation utility, responsible for …",
+      "pubDate": "Sun, 14 Dec 2025 20:38:26 +0000",
+      "category": "AR",
+      "guid": "https://www.ransomware.live/group/safepay?3b59c59b45456a4471e92fe430b32eae",
+      "group": "Safepay",
+      "victim": "aysa.com.ar",
+      "country": "AR"
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : VFM Systems & Services (P) Ltd",
+      "link": "https://www.ransomware.live/id/VkZNIFN5c3RlbXMgJiBTZXJ2aWNlcyAoUCkgTHRkQGJsYWNrc2hyYW50YWM=",
+      "summary": "[AI generated] VFM Systems &amp; Services (P) Ltd is an India-based company that specializes in Facilities Management Services. They offer a diverse range of services including property management, security, cleaning, maintenance, and compliance. The company is known for its comprehensive and cost-effective solutions that cater to the specific needs of various industries. They are dedicated to providing high-quality service using advanced technology and experienced professionals.",
+      "pubDate": "Sun, 14 Dec 2025 20:08:14 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/blackshrantac?5fac29491c9fbb21bde91a92a98645bb",
+      "group": "Blackshrantac",
+      "victim": "VFM Systems & Services (P) Ltd",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Wavenet",
       "link": "https://www.ransomware.live/id/V2F2ZW5ldEB3b3JsZGxlYWtz",
@@ -2123,83 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?cd4cfa86cfe87bd0ecd94d19ea7cba6e",
       "group": "Qilin",
       "victim": "La Costa Dental Excellence",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Acoustical Control",
-      "link": "https://www.ransomware.live/id/QWNvdXN0aWNhbCBDb250cm9sQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sun, 07 Dec 2025 13:54:02 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/qilin?a20bf81e49d0a13b18b83746f5054afb",
-      "group": "Qilin",
-      "victim": "Acoustical Control",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : AMH Philippines",
-      "link": "https://www.ransomware.live/id/QU1IIFBoaWxpcHBpbmVzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sun, 07 Dec 2025 13:53:23 +0000",
-      "category": "PH",
-      "guid": "https://www.ransomware.live/group/qilin?1ee193b3ea2a9b1879784f65a3586931",
-      "group": "Qilin",
-      "victim": "AMH Philippines",
-      "country": "PH"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Kane's Furniture",
-      "link": "https://www.ransomware.live/id/S2FuZSdzIEZ1cm5pdHVyZUByaHlzaWRh",
-      "summary": "Kane&#x27;s Furniture",
-      "pubDate": "Sun, 07 Dec 2025 12:30:39 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?c364f87681143b2a940b6fe51804eb0b",
-      "group": "Rhysida",
-      "victim": "Kane's Furniture",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : YAZAKI Corp",
-      "link": "https://www.ransomware.live/id/WUFaQUtJIENvcnBAaW5jcmFuc29t",
-      "summary": "The Yazaki Group is a global company best known for being\r a leading supplier of automotive wire harnesses, but it also produces other products like environmental systems and instrumentation equipment. The company&#x27;s focus is on providing quality products and services to its customers, with a global presence that allows for responsive, just-in-time delivery. However, the company has also faced legal issues, including a significant fine for its role in an automotive parts price-fixing scheme. \r \r \r The data size is at 350 GB.\r \r \r WE HAS COLLECTED SUCH DATA AS: \r \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Operations\r - Corporate data\r - HR data (including employee medical records)\r - Business Agreements\r - Development \r - Drawings\r - Technological production requirements and all documentation for the production of parts for BMW, NISSAN, SCANIA and many other global brands \r And a lot of other VERY IMPORTANT information!",
-      "pubDate": "Sun, 07 Dec 2025 11:54:55 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/incransom?fe91871f6c50ddaa20e0c1cd72c20724",
-      "group": "Incransom",
-      "victim": "YAZAKI Corp",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Marta Montserrat Areny Guerrero ABOGADO",
-      "link": "https://www.ransomware.live/id/TWFydGEgTW9udHNlcnJhdCBBcmVueSBHdWVycmVybyBBQk9HQURPQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sun, 07 Dec 2025 11:24:00 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?b6d7e6fa620e44405a34126f2b7b26f9",
-      "group": "Qilin",
-      "victim": "Marta Montserrat Areny Guerrero ABOGADO",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Sanko Air Conditioning Co., Ltd.",
-      "link": "https://www.ransomware.live/id/U2Fua28gQWlyIENvbmRpdGlvbmluZyBDby4sIEx0ZC5AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 07 Dec 2025 11:23:17 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/qilin?12259dd33556c0ae76a0bd7a7510f32c",
-      "group": "Qilin",
-      "victim": "Sanko Air Conditioning Co., Ltd.",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : insightchicago.com",
-      "link": "https://www.ransomware.live/id/aW5zaWdodGNoaWNhZ28uY29tQGxvY2tiaXQ1",
-      "summary": "Welcome to Insight Hospital and Medical Center in Chicago. Our state-of-the-art facility offers comp...",
-      "pubDate": "Sun, 07 Dec 2025 10:32:00 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?3688bd49f4e40f49353b1f7373b41139",
-      "group": "Lockbit5",
-      "victim": "insightchicago.com",
       "country": "US"
     }
   ]
