@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-15T05:18:11.927Z",
+  "updatedAt": "2025-12-15T06:21:30.589Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Hodgins Law Group",
+      "link": "https://www.ransomware.live/id/SG9kZ2lucyBMYXcgR3JvdXBAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 15 Dec 2025 05:48:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?e5032778dd0c9aa6d3061e8ab6db5d32",
+      "group": "Qilin",
+      "victim": "Hodgins Law Group",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : k*m**w.com",
+      "link": "https://www.ransomware.live/id/ayptKip3LmNvbUBvYnNjdXJh",
+      "summary": "Transportation &amp; Warehousing",
+      "pubDate": "Mon, 15 Dec 2025 05:46:46 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/obscura?9c3d8dd768b64c4addb410ea65019c1c",
+      "group": "Obscura",
+      "victim": "k*m**w.com",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Killsec has just published a new victim : republica federative do brasil",
       "link": "https://www.ransomware.live/id/cmVwdWJsaWNhIGZlZGVyYXRpdmUgZG8gYnJhc2lsQGtpbGxzZWM=",
@@ -2179,28 +2201,6 @@
       "group": "Devman",
       "victim": "hopital-*********.com",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : f***i*.o*g",
-      "link": "https://www.ransomware.live/id/ZioqKmkqLm8qZ0BkZXZtYW4=",
-      "summary": "Financial Records, Med cards, Hr documents",
-      "pubDate": "Sun, 07 Dec 2025 15:26:26 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/devman?d2e77f2abb292b1d27838910c87de36c",
-      "group": "Devman",
-      "victim": "f***i*.o*g",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : arko.no",
-      "link": "https://www.ransomware.live/id/YXJrby5ub0BkZXZtYW4=",
-      "summary": "Datatheft Client DB",
-      "pubDate": "Sun, 07 Dec 2025 15:25:40 +0000",
-      "category": "NO",
-      "guid": "https://www.ransomware.live/group/devman?d8724e17e702c610b26da263f1efd4d2",
-      "group": "Devman",
-      "victim": "arko.no",
-      "country": "NO"
     }
   ]
 }
