@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2025-12-15T18:19:11.131Z",
+  "updatedAt": "2025-12-15T19:13:42.016Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Logistics",
+      "link": "https://www.ransomware.live/id/R3J1cG8gTG9naXN0aWNzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 15 Dec 2025 18:43:07 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/qilin?d96ca6e6cb6b098d380e400384dfe584",
+      "group": "Qilin",
+      "victim": "Grupo Logistics",
+      "country": "MX"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Merko Ehitus",
+      "link": "https://www.ransomware.live/id/TWVya28gRWhpdHVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 15 Dec 2025 18:42:30 +0000",
+      "category": "EE",
+      "guid": "https://www.ransomware.live/group/qilin?f432579bed3683c8fda49d2a03337163",
+      "group": "Qilin",
+      "victim": "Merko Ehitus",
+      "country": "EE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Dacon Networks",
+      "link": "https://www.ransomware.live/id/RGFjb24gTmV0d29ya3NAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 15 Dec 2025 18:41:52 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/qilin?e0872b29ed6c9e808b1d737a439d3029",
+      "group": "Qilin",
+      "victim": "Dacon Networks",
+      "country": "SG"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Region of Istria",
+      "link": "https://www.ransomware.live/id/UmVnaW9uIG9mIElzdHJpYUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 15 Dec 2025 18:41:16 +0000",
+      "category": "HR",
+      "guid": "https://www.ransomware.live/group/qilin?e13225e346d735f9a299733d41c2a4a5",
+      "group": "Qilin",
+      "victim": "Region of Istria",
+      "country": "HR"
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : cle**rp**er.eu",
+      "link": "https://www.ransomware.live/id/Y2xlKipycCoqZXIuZXVAb2JzY3VyYQ==",
+      "summary": "Technology leader for modern energy infrastructure",
+      "pubDate": "Mon, 15 Dec 2025 18:39:47 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/obscura?c7a79564d158bf7a91338e7964a5aad0",
+      "group": "Obscura",
+      "victim": "cle**rp**er.eu",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Kairos has just published a new victim : Melland High",
+      "link": "https://www.ransomware.live/id/TWVsbGFuZCBIaWdoQGthaXJvcw==",
+      "summary": "Melland High is a Bright Futures Educational Trust school, helping us to raise aspirations and drive up standards to ensure our students have real choices open to them when they leave school.",
+      "pubDate": "Mon, 15 Dec 2025 18:18:09 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/kairos?51277881cd1c3f359a30d1b12be8f9c1",
+      "group": "Kairos",
+      "victim": "Melland High",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : strtn.org",
       "link": "https://www.ransomware.live/id/c3RydG4ub3JnQG5vdmE=",
@@ -2134,72 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?a19626f286133083f6d5f319c772bf84",
       "group": "Akira",
       "victim": "RUEZ",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Tengu has just published a new victim : https://www.revnomix.com",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cucmV2bm9taXguY29tQHRlbmd1",
-      "summary": "Revnomix - India Provides data analytics and revenue management services for hotels. Founded as a hospitality technology specialist, the company is dedicated to improving hotel performance through data-driven analytics solutions. The company is committed to quality, innovation, and customer satisfaction.",
-      "pubDate": "Mon, 08 Dec 2025 14:15:31 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/tengu?6237d088d11d5da951a261d9be59a7c3",
-      "group": "Tengu",
-      "victim": "https://www.revnomix.com",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : City of La Vergne",
-      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBMYSBWZXJnbmVAZHJhZ29uZm9yY2U=",
-      "summary": "The City of La Vergne provides essential services including police and fire departments, public library, and community events aimed at engaging and educating local residents. It focuses on community safety and development through various programs and activities, such as the Rape Aggression Defense training and the annual Fall Festival. The city also emphasizes recreational opportunities and public engagement through events like the Summer Safety Day and Howl at the Moon 5k. La Vergne serves its residents and visitors by fostering a vibrant community atmosphere and ensuring public safety.",
-      "pubDate": "Mon, 08 Dec 2025 13:43:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?49414b93a1145876967ae3b89b1916ab",
-      "group": "Dragonforce",
-      "victim": "City of La Vergne",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : VoiceTeam Call",
-      "link": "https://www.ransomware.live/id/Vm9pY2VUZWFtIENhbGxAZHJhZ29uZm9yY2U=",
-      "summary": "VoiceTeam is a leading nearshore provider of sales, customer service and back office support, headquartered in Santiago, Dominican Republic with operations in San Francisco, California. Our experienced workforce provides excellent customer service, high performance sales and detailed business processing support. Unlike outsourcers in India and the Philippines, here at VoiceTeam, we hire agents who previously lived in the US and have a deep knowledge of American culture. Quality, efficiency and execution are our main priorities. Our quality assurance team records 100% of all calls and chats from our sales and customer services teams. For our back office support and digital work, we provide two quality assurance checks on all projects. Our services include: • Customer Acquisition • Customer Service • Back Office Support • Digital Task Support \"VoiceTeam has proven time and again that they can meet the ever changing demands and challenges of clients across multiple industry verticals",
-      "pubDate": "Mon, 08 Dec 2025 13:42:45 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?272655390a85fd06e84aeca7707cd822",
-      "group": "Dragonforce",
-      "victim": "VoiceTeam Call",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Carbon Graphics Group",
-      "link": "https://www.ransomware.live/id/Q2FyYm9uIEdyYXBoaWNzIEdyb3VwQGFraXJh",
-      "summary": "Carbon Graphics Group provides a complete range of advanced visua l communications solutions leveraging the latest technology. We are ready to upload 35gb of corporate data. Detailed financial s, HR files, agreements and contracts, NDAs, etc.",
-      "pubDate": "Mon, 08 Dec 2025 13:37:07 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/akira?02c79a21d3815091141aff239b69d709",
-      "group": "Akira",
-      "victim": "Carbon Graphics Group",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Nickman, DHK Architects, Profondia, Talbot & Associates, Fishbowl Solutions.",
-      "link": "https://www.ransomware.live/id/Tmlja21hbiwgREhLIEFyY2hpdGVjdHMsIFByb2ZvbmRpYSwgVGFsYm90ICYgQXNzb2NpYXRlcywgRmlzaGJvd2wgU29sdXRpb25zLkBha2lyYQ==",
-      "summary": "We obtained about 24gb of data of the following companies: Nickman&#x27;s Drug is a chain of five locally-owned community pharmac ies located in Lemont and surrounding areas, dedicated to providi ng personalized, affordable pharmaceutical care. DHK Architects is an architecture and planning firm based in Bost on, with offices in New York City and San Juan, PR. Profondia provides up-to-date data on the use of ICT in the Swiss market. Talbot &amp; Associates CPA is a bilingual accounting firm based in M anitoba, recognized as one of the top three accounting firms in W innipeg. Fishbowl Solutions specializes in digital experience platforms, d ocument management, and employee engagement services designed for organizations seeking to streamline processes. You will find personal employee personal data, client information , numerous project files, accounting and financials and other int ernal operational files.",
-      "pubDate": "Mon, 08 Dec 2025 13:37:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?b5dd19454e038d704166ddbb1dfb2c05",
-      "group": "Akira",
-      "victim": "Nickman, DHK Architects, Profondia, Talbot & Associates, Fishbowl Solutions.",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Capo Brothers",
-      "link": "https://www.ransomware.live/id/Q2FwbyBCcm90aGVyc0BkcmFnb25mb3JjZQ==",
-      "summary": "Capo Brothers is a premier commercial truck dealer located in Ronkonkoma and West Babylon, specializing in the sales, service, and parts of Isuzu and Mitsubishi Fuso commercial trucks. They offer a wide selection of new and used medium duty and cabover trucks, as well as various truck bodies from trusted brands. Serving clients in New York, New Jersey, and Connecticut, Capo Brothers also provides truck rentals for both household and business needs. With a commitment to excellence, they have been recognized for exceeding high-quality standards in customer experience.",
-      "pubDate": "Mon, 08 Dec 2025 11:11:38 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?a5fe9b35f9b4dbbf6b19788691c15070",
-      "group": "Dragonforce",
-      "victim": "Capo Brothers",
       "country": ""
     }
   ]
