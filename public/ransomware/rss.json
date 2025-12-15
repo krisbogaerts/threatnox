@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-15T02:59:15.304Z",
+  "updatedAt": "2025-12-15T04:04:27.088Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Killsec has just published a new victim : republica federative do brasil",
+      "link": "https://www.ransomware.live/id/cmVwdWJsaWNhIGZlZGVyYXRpdmUgZG8gYnJhc2lsQGtpbGxzZWM=",
+      "summary": "Price ??? Disclosures 0/1",
+      "pubDate": "Mon, 15 Dec 2025 03:19:33 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/killsec?bbb787a5883ee89a17bc919d2ffa866b",
+      "group": "Killsec",
+      "victim": "republica federative do brasil",
+      "country": "BR"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : cityofsignalhill.org",
       "link": "https://www.ransomware.live/id/Y2l0eW9mc2lnbmFsaGlsbC5vcmdAaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Devman",
       "victim": "arko.no",
       "country": "NO"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : S**** Saint ******",
-      "link": "https://www.ransomware.live/id/UyoqKiogU2FpbnQgKioqKioqQGRldm1hbg==",
-      "summary": "Financial data, medical cards",
-      "pubDate": "Sun, 07 Dec 2025 15:24:53 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/devman?75a428426f7261a0608650fd911e9805",
-      "group": "Devman",
-      "victim": "S**** Saint ******",
-      "country": "FR"
     }
   ]
 }
