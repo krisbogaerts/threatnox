@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-15T11:12:14.964Z",
+  "updatedAt": "2025-12-15T12:26:02.676Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Gordon Clifford Properties Inc.",
+      "link": "https://www.ransomware.live/id/R29yZG9uIENsaWZmb3JkIFByb3BlcnRpZXMgSW5jLkBwZWFy",
+      "summary": "Property management and serving san francisco property owners",
+      "pubDate": "Mon, 15 Dec 2025 11:44:15 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?e06f1fd51cb6f59d199f1b783691bfff",
+      "group": "Pear",
+      "victim": "Gordon Clifford Properties Inc.",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Pear has just published a new victim : Angstrom Automotive Group",
+      "link": "https://www.ransomware.live/id/QW5nc3Ryb20gQXV0b21vdGl2ZSBHcm91cEBwZWFy",
+      "summary": "Leading tier 1 full-service supplier for Automotive and Industrial OEMs",
+      "pubDate": "Mon, 15 Dec 2025 11:43:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/pear?0e18780c0ab99255fe3f9c4ef4cc4ae9",
+      "group": "Pear",
+      "victim": "Angstrom Automotive Group",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Thrings Solicitors and Lawyers",
       "link": "https://www.ransomware.live/id/VGhyaW5ncyBTb2xpY2l0b3JzIGFuZCBMYXd5ZXJzQHdvcmxkbGVha3M=",
@@ -2179,28 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Big Lar",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio",
-      "link": "https://www.ransomware.live/id/R3JhbmphcyA0IElybcOjb3MgU0EgLSBBZ3JvcGVjdcOhcmlhLCBJbmTDunN0cmlhIGUgQ29tw6lyY2lvQHdvcmxkbGVha3M=",
-      "summary": "[AI generated] Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio is a Brazilian company involved in agricultural activities, industry, and trade. It specializes in the production of grains, meats, and other agricultural commodities. The company uses modern farming techniques to raise livestock and cultivate crops, contributing to Brazil&#x27;s agricultural industry. While it has a substantial domestic presence, it also partakes in trade, distributing its produce to various other regions.",
-      "pubDate": "Mon, 08 Dec 2025 07:15:49 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/worldleaks?a1f24aa1cc26d230d32536b85024a48d",
-      "group": "Worldleaks",
-      "victim": "Granjas 4 Irmãos SA - Agropecuária, Indústria e Comércio",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Caldwell & Company Accounting",
-      "link": "https://www.ransomware.live/id/Q2FsZHdlbGwgJiBDb21wYW55IEFjY291bnRpbmdAc2lub2Jp",
-      "summary": "Caldwell Company Accounting is a well-respected CPA firm located in Plantation, FL, specializing in comprehensive accounting, tax, and financial services for both individuals and businesses in Broward County. With over a decade of experience, they offer services including IRS problem resolution, tax planning, QuickBooks support, and personalized financial consulting. Their commitment to delivering timely answers and professional advice ensures clients can navigate their financial journeys with confidence. The firm aims to provide permanent solutions to tax issues and help clients save on taxes and avoid costly mistakes.",
-      "pubDate": "Mon, 08 Dec 2025 00:28:18 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?7867180712d445d0a0582cc4f0a45bd1",
-      "group": "Sinobi",
-      "victim": "Caldwell & Company Accounting",
-      "country": ""
     }
   ]
 }
