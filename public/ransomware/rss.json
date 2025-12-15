@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-15T06:21:30.589Z",
+  "updatedAt": "2025-12-15T07:17:58.626Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Diaz Gill Medicina Laboratorial S.A.",
+      "link": "https://www.ransomware.live/id/RGlheiBHaWxsIE1lZGljaW5hIExhYm9yYXRvcmlhbCBTLkEuQHJhbnNvbWhvdXNl",
+      "summary": "Diaz Gill Medicina Laboratorial S.A. is a leading private clinical laboratory in Paraguay, founded in 1992 with roots dating back further.",
+      "pubDate": "Mon, 15 Dec 2025 06:45:59 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/ransomhouse?4f01ad4e3025ea5975b5767b29aa3b85",
+      "group": "Ransomhouse",
+      "victim": "Diaz Gill Medicina Laboratorial S.A.",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Hopper Developments",
+      "link": "https://www.ransomware.live/id/SG9wcGVyIERldmVsb3BtZW50c0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 15 Dec 2025 06:45:01 +0000",
+      "category": "NZ",
+      "guid": "https://www.ransomware.live/group/qilin?de508f28989f10e945c680341991d8a8",
+      "group": "Qilin",
+      "victim": "Hopper Developments",
+      "country": "NZ"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : STIC",
+      "link": "https://www.ransomware.live/id/U1RJQ0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 15 Dec 2025 06:44:22 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?30cefaefa1831e53db6b64775d134866",
+      "group": "Qilin",
+      "victim": "STIC",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Hodgins Law Group",
       "link": "https://www.ransomware.live/id/SG9kZ2lucyBMYXcgR3JvdXBAcWlsaW4=",
@@ -2168,39 +2201,6 @@
       "group": "Sinobi",
       "victim": "Gopher Industrial",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : David M. Schwarz Architects",
-      "link": "https://www.ransomware.live/id/RGF2aWQgTS4gU2Nod2FyeiBBcmNoaXRlY3RzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sun, 07 Dec 2025 15:42:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?8052089804b9f32c6d92cec9d23a170e",
-      "group": "Qilin",
-      "victim": "David M. Schwarz Architects",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : solidere",
-      "link": "https://www.ransomware.live/id/c29saWRlcmVAZGV2bWFu",
-      "summary": "[AI generated] Solidere, short for Société Libanaise de Développement et Reconstruction, is a Lebanese joint stock company responsible for the reconstruction, development, and management of Beirut’s Central District. Created in 1994, the firm is entrusted with restoring Beirut&#x27;s historical buildings, attracting investments, and promoting tourism. It effectively serves as a private real estate company, but granted with governmental powers for urban development.",
-      "pubDate": "Sun, 07 Dec 2025 15:37:27 +0000",
-      "category": "LB",
-      "guid": "https://www.ransomware.live/group/devman?9b6b478bb3a1e9cabf0efa534b7dd682",
-      "group": "Devman",
-      "victim": "solidere",
-      "country": "LB"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : hopital-*********.com",
-      "link": "https://www.ransomware.live/id/aG9waXRhbC0qKioqKioqKiouY29tQGRldm1hbg==",
-      "summary": "Financial data, medical records",
-      "pubDate": "Sun, 07 Dec 2025 15:27:33 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/devman?839923a974b8976b886d6146be21f97f",
-      "group": "Devman",
-      "victim": "hopital-*********.com",
-      "country": "FR"
     }
   ]
 }
