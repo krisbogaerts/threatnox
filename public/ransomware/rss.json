@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-15T16:18:16.674Z",
+  "updatedAt": "2025-12-15T17:18:10.904Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : strtn.org",
+      "link": "https://www.ransomware.live/id/c3RydG4ub3JnQG5vdmE=",
+      "summary": "The Tunisian Society of Radiology (STR)  was created in 1952 by the late Doctor Ali Fourati under the name of the Tunisian Association of Electro-Radiology.",
+      "pubDate": "Mon, 15 Dec 2025 16:52:31 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nova?be68665777d11a57e022279fd0e7cb2f",
+      "group": "Nova",
+      "victim": "strtn.org",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : demilac, Inc",
+      "link": "https://www.ransomware.live/id/ZGVtaWxhYywgSW5jQGJsYWNrc2hyYW50YWM=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 15 Dec 2025 16:19:10 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/blackshrantac?36374a166e920e52ef9c97652814d7b5",
+      "group": "Blackshrantac",
+      "victim": "demilac, Inc",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Denk & Roche Builders",
+      "link": "https://www.ransomware.live/id/RGVuayAmIFJvY2hlIEJ1aWxkZXJzQGFraXJh",
+      "summary": "Denk &amp; Roche Builders specializes in the construction of wood-fra med and metal structures, providing services from early design co ncepts to final finishes, including solar applications and mass t imber.  We will upload 54gb of corporate data soon. Employee information, detailed financials, projects, contracts and agreements, client  files, confidential files, etc.",
+      "pubDate": "Mon, 15 Dec 2025 16:16:55 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?9ef12e7c17ae2c22144180b04ae02d9a",
+      "group": "Akira",
+      "victim": "Denk & Roche Builders",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : International Standard Valve",
+      "link": "https://www.ransomware.live/id/SW50ZXJuYXRpb25hbCBTdGFuZGFyZCBWYWx2ZUBha2lyYQ==",
+      "summary": "International Standard Valve, Inc. specializes in providing a ran ge of ball valves, gate, globe, and check valves tailored for the oil and gas, oil refining, natural gas, power generation, chemic al, petrochemical, pulp and paper, and mining industries. We will upload corporate data soon. Employee information (name, D OB and other information), detailed financials, customer informat ion, contracts and agreements, projects, specifications and so on .",
+      "pubDate": "Mon, 15 Dec 2025 16:16:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?d97cce54665d709a023c1c0afd90088a",
+      "group": "Akira",
+      "victim": "International Standard Valve",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Print-O-Tape",
       "link": "https://www.ransomware.live/id/UHJpbnQtTy1UYXBlQGludGVybG9jaw==",
@@ -2157,50 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Capo Brothers",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : Comcast",
-      "link": "https://www.ransomware.live/id/Q29tY2FzdEBzcGFjZWJlYXJz",
-      "summary": "As a global media and tech company, Comcast reaches hundreds of millions of customers, viewers, and guests with world-class connectivity and platforms and beloved content and experiences.The leak was made possible by Quasar Inc., a company that prepares technical documentation for Comсast and its Genesis project. The files contain design documentation for numerous cities, as well as detailed utility plans. https://corporate.comcast.com/",
-      "pubDate": "Mon, 08 Dec 2025 08:17:54 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/spacebears?f2160d8b87173611f174d6bed116b504",
-      "group": "Spacebears",
-      "victim": "Comcast",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Securotrop has just published a new victim : Cadman Power Equipment",
-      "link": "https://www.ransomware.live/id/Q2FkbWFuIFBvd2VyIEVxdWlwbWVudEBzZWN1cm90cm9w",
-      "summary": "Status: AWAITING Size: 3042 GB",
-      "pubDate": "Mon, 08 Dec 2025 08:14:19 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/securotrop?50b63294bb756fdc5926e8e1300b88e6",
-      "group": "Securotrop",
-      "victim": "Cadman Power Equipment",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : HESCO",
-      "link": "https://www.ransomware.live/id/SEVTQ09AZHJhZ29uZm9yY2U=",
-      "summary": "HESCO Foodservice Ltd., based out of Edmonton and Calgary, specializes in providing a wide range of products, cleaning supplies, commercial equipment, and kitchen design for the foodservice industry. Leaders in Food Service Supply &amp; Design for over 95 years To learn more about the company, please visit www.hesco.ca",
-      "pubDate": "Mon, 08 Dec 2025 07:41:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?708935fd81b4c6fda65bf1856ad30850",
-      "group": "Dragonforce",
-      "victim": "HESCO",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Ernest Käslin",
-      "link": "https://www.ransomware.live/id/RXJuZXN0IEvDpHNsaW5Ad29ybGRsZWFrcw==",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Mon, 08 Dec 2025 07:17:13 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/worldleaks?cc190a3d22516d9404f7b57406e32407",
-      "group": "Worldleaks",
-      "victim": "Ernest Käslin",
-      "country": "CH"
     }
   ]
 }
