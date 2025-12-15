@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-15T01:00:07.363Z",
+  "updatedAt": "2025-12-15T02:59:15.304Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : cityofsignalhill.org",
+      "link": "https://www.ransomware.live/id/Y2l0eW9mc2lnbmFsaGlsbC5vcmdAaW5jcmFuc29t",
+      "summary": "Signal Hill, CA offers a range of services and resources to its residents, including city hall renovation updates, a shop local campaign called Open Rewards, and information on upcoming city events. The city also provides resources for job seekers, safe clean water initiatives, and community assistance programs. Residents can access the city&#x27;s cable channel online, nominate pets for Pet of the Month, and download the Signal Hill Now mobile app for convenient access to city information.\r Employees: 50\r Revenue: $7.1 Million\r Industry: Government \r Phone Number: (562) 989-7300",
+      "pubDate": "Mon, 15 Dec 2025 02:14:49 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?edbc1015b82d5d4a88e6fbce298a2850",
+      "group": "Incransom",
+      "victim": "cityofsignalhill.org",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : steelworksinc.ca",
+      "link": "https://www.ransomware.live/id/c3RlZWx3b3Jrc2luYy5jYUBpbmNyYW5zb20=",
+      "summary": "Steel Works Inc. specializes in structural steel fabrication and installation, providing precision-cut and custom-built steel components for industrial and commercial projects. They offer a range of services including overhead crane design and installation, specialized fabrication, and blast and paint services. Their intended clients include startups, product designers, mid-sized manufacturers, and industrial facilities, particularly in the mining sector. With over 30 years of experience, Steel Works Inc. is known for its commitment to quality, safety, and on-time delivery.\r Employees: 50\r Revenue: $8.1 Million\r Industry: Commercial &amp; Residential Construction \r Phone Number: (705) 264-4031",
+      "pubDate": "Mon, 15 Dec 2025 02:14:16 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/incransom?c8b72ee31a7b09594243703339d31174",
+      "group": "Incransom",
+      "victim": "steelworksinc.ca",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Kier & Wright",
       "link": "https://www.ransomware.live/id/S2llciAmIFdyaWdodEBxaWxpbg==",
@@ -2179,28 +2201,6 @@
       "group": "Devman",
       "victim": "S**** Saint ******",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Galesi Group",
-      "link": "https://www.ransomware.live/id/R2FsZXNpIEdyb3VwQHNpbm9iaQ==",
-      "summary": "Galesi Group is a national real estate developer focused on creating dynamic buildings that enhance communities and drive progress. Established in 1969, the company manages a diverse portfolio of over 11 million square feet of industrial, commercial, retail, and residential properties, primarily in New York&#x27;s Capital Region. Their services include construction management, property management, real estate development, and third-party logistics. Galesi Group aims to meet the needs of various clients by providing tailored spaces and fostering economic growth in the communities they serve.",
-      "pubDate": "Sun, 07 Dec 2025 14:42:44 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?eceb5dfa3683df2064f374f56d99c168",
-      "group": "Sinobi",
-      "victim": "Galesi Group",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Quality Companies",
-      "link": "https://www.ransomware.live/id/UXVhbGl0eSBDb21wYW5pZXNAc2lub2Jp",
-      "summary": "Quality Companies, headquartered in Youngsville, Louisiana, is a company that offers energy-related products and services and provides onshore and offshore construction, fabrication, maintenance, and other oil and gas-related services.",
-      "pubDate": "Sun, 07 Dec 2025 14:42:25 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?ba4322ac24f3bab6a785f79cf46d4691",
-      "group": "Sinobi",
-      "victim": "Quality Companies",
-      "country": "US"
     }
   ]
 }
