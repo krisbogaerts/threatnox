@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-15T09:22:47.644Z",
+  "updatedAt": "2025-12-15T10:16:31.849Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Thrings Solicitors and Lawyers",
+      "link": "https://www.ransomware.live/id/VGhyaW5ncyBTb2xpY2l0b3JzIGFuZCBMYXd5ZXJzQHdvcmxkbGVha3M=",
+      "summary": "[AI generated] Thrings Solicitors and Lawyers is an esteemed UK-based law firm with offices in London, Bristol, Hampshire, and Wiltshire. They offer comprehensive legal services to both individuals and businesses, covering areas such as family law, personal injury claims, commercial law, agriculture, and real estate law. Known for their professional approach and esteemed legal experts, they have a strong reputation in delivering reliable legal solutions.",
+      "pubDate": "Mon, 15 Dec 2025 09:40:00 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/worldleaks?fa3d3d1dca019f5be16a8b5e31e914a4",
+      "group": "Worldleaks",
+      "victim": "Thrings Solicitors and Lawyers",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : DXS SYSTEMS",
+      "link": "https://www.ransomware.live/id/RFhTIFNZU1RFTVNAZGV2bWFu",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 15 Dec 2025 09:11:37 +0000",
+      "category": "UK",
+      "guid": "https://www.ransomware.live/group/devman?2249d09dc5e3e8f8b6a7641884fb54ef",
+      "group": "Devman",
+      "victim": "DXS SYSTEMS",
+      "country": "UK"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Diaz Gill Medicina Laboratorial S.A.",
       "link": "https://www.ransomware.live/id/RGlheiBHaWxsIE1lZGljaW5hIExhYm9yYXRvcmlhbCBTLkEuQHJhbnNvbWhvdXNl",
@@ -2179,28 +2201,6 @@
       "group": "Sinobi",
       "victim": "Caldwell & Company Accounting",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Jeffrey W Krol & Associates",
-      "link": "https://www.ransomware.live/id/SmVmZnJleSBXIEtyb2wgJiBBc3NvY2lhdGVzQHNpbm9iaQ==",
-      "summary": "Jeffrey W. Krol &amp; Associates, Ltd. is a full-service certified public accounting firm based in Chicago, Illinois, serving a diverse clientele across the United States. The firm offers a wide range of services including personal financial planning, business accounting, tax preparation, and QuickBooks services. Their dedicated team provides professional and personalized guidance to both individuals and businesses, addressing various financial and business needs. With years of experience, Krol &amp; Associates is committed to assisting clients in navigating their accounting challenges.",
-      "pubDate": "Sun, 07 Dec 2025 18:48:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?a784af3a2e4fb4f8a163c5beab04299f",
-      "group": "Sinobi",
-      "victim": "Jeffrey W Krol & Associates",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Gopher Industrial",
-      "link": "https://www.ransomware.live/id/R29waGVyIEluZHVzdHJpYWxAc2lub2Jp",
-      "summary": "Gopher Industrial is a premier industrial distributor specializing in hoses, welding products, safety solutions, and supply chain integration. They offer custom hose assemblies, inventory management through their GOcrib system, and a wide range of industrial supplies including safety products and welding equipment. The company focuses on delivering high-quality products and exceptional customer service to a diverse clientele. Their mission is to leverage technology to provide comprehensive solutions to customers around the globe.",
-      "pubDate": "Sun, 07 Dec 2025 15:46:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?d8f37bd6f3760a021a9ff478cd4b58eb",
-      "group": "Sinobi",
-      "victim": "Gopher Industrial",
-      "country": "US"
     }
   ]
 }
