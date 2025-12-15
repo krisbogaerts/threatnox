@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-15T20:14:07.159Z",
+  "updatedAt": "2025-12-15T21:12:08.615Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : YOKOSUKA GAKUIN",
+      "link": "https://www.ransomware.live/id/WU9LT1NVS0EgR0FLVUlOQHJoeXNpZGE=",
+      "summary": "YOKOSUKA GAKUIN",
+      "pubDate": "Mon, 15 Dec 2025 20:46:02 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/rhysida?6eb7710011cc29f5991624696e67edbc",
+      "group": "Rhysida",
+      "victim": "YOKOSUKA GAKUIN",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Logistics",
       "link": "https://www.ransomware.live/id/R3J1cG8gTG9naXN0aWNzQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Nadel Architects",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : RUEZ",
-      "link": "https://www.ransomware.live/id/UlVFWkBha2lyYQ==",
-      "summary": "RUEZ GmbH, located in Bad Schussenried, specializes in filter and conveyor technology, offering a wide range of products including various types of conveyors, filtration systems, and central supp ly and disposal systems. We are ready to upload 32gb of corporate data. Personal informati on of employees (passports and ID scans), agreements and contract s, projects, client information, drawings and specification of BM W subsidiary in Thailand and other files.",
-      "pubDate": "Mon, 08 Dec 2025 14:47:46 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?a19626f286133083f6d5f319c772bf84",
-      "group": "Akira",
-      "victim": "RUEZ",
-      "country": ""
     }
   ]
 }
