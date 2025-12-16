@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-16T14:16:05.495Z",
+  "updatedAt": "2025-12-16T15:15:19.406Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nitrogen has just published a new victim : Walters Group Inc",
+      "link": "https://www.ransomware.live/id/V2FsdGVycyBHcm91cCBJbmNAbml0cm9nZW4=",
+      "summary": "Specializing in the production of structural steel and construction.",
+      "pubDate": "Tue, 16 Dec 2025 14:22:26 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nitrogen?9d14037d78a90bb0df2f0302b1bf020f",
+      "group": "Nitrogen",
+      "victim": "Walters Group Inc",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : LiftPRO",
       "link": "https://www.ransomware.live/id/TGlmdFBST0BkcmFnb25mb3JjZQ==",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "The Landreau Group",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Seipi",
-      "link": "https://www.ransomware.live/id/U2VpcGlAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 08 Dec 2025 17:43:31 +0000",
-      "category": "PH",
-      "guid": "https://www.ransomware.live/group/qilin?2509bf2a70395a04fadebe5ab71de6e8",
-      "group": "Qilin",
-      "victim": "Seipi",
-      "country": "PH"
     }
   ]
 }
