@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-15T23:12:32.633Z",
+  "updatedAt": "2025-12-16T00:58:21.726Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Markham Stouffville Hospital",
+      "link": "https://www.ransomware.live/id/TWFya2hhbSBTdG91ZmZ2aWxsZSBIb3NwaXRhbEBhbnViaXM=",
+      "summary": "Personal data.",
+      "pubDate": "Tue, 16 Dec 2025 00:14:22 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/anubis?c159617fe36b7a3fe13ac787432e4440",
+      "group": "Anubis",
+      "victim": "Markham Stouffville Hospital",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Beyer Law Group",
+      "link": "https://www.ransomware.live/id/QmV5ZXIgTGF3IEdyb3VwQGFudWJpcw==",
+      "summary": "Data breach from Silicon Valley lawyers.",
+      "pubDate": "Tue, 16 Dec 2025 00:13:17 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?ca4614758b053b78179622b5a2503be9",
+      "group": "Anubis",
+      "victim": "Beyer Law Group",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : YOKOSUKA GAKUIN",
       "link": "https://www.ransomware.live/id/WU9LT1NVS0EgR0FLVUlOQHJoeXNpZGE=",
@@ -2179,28 +2201,6 @@
       "group": "Akira",
       "victim": "PH Molds",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : AGI Group",
-      "link": "https://www.ransomware.live/id/QUdJIEdyb3VwQGFraXJh",
-      "summary": "AGDisplays is an advanced display solutions specialist offering U SA assembled, custom LCD application design and solutions across  all industries. We are ready to upload 30gb of corporate data. Detailed personal  information of employees (passports and DL scans, emails, phones, medical information), agreements and contracts, financials, cred it card information, NDAs, etc.",
-      "pubDate": "Mon, 08 Dec 2025 14:47:55 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?117b30a447db21a4a0622f5c6cd58351",
-      "group": "Akira",
-      "victim": "AGI Group",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Nadel Architects",
-      "link": "https://www.ransomware.live/id/TmFkZWwgQXJjaGl0ZWN0c0Bha2lyYQ==",
-      "summary": "Nadel Architects has been a leader in comprehensive architecture  design and planning services for over 50 years, known for their c reativity, integrity, and cost-effective solutions. We are ready to upload 472gb of corporate data. Personal informat ion of employees (passports and other information), agreements an d contracts, confidential project files, financials, NDAs, and so on.",
-      "pubDate": "Mon, 08 Dec 2025 14:47:49 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?df798efca542617bfe31c2f14a338090",
-      "group": "Akira",
-      "victim": "Nadel Architects",
-      "country": "US"
     }
   ]
 }
