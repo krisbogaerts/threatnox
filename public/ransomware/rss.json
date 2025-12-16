@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-16T17:17:18.334Z",
+  "updatedAt": "2025-12-16T18:19:11.911Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : www.advancedentdenver.com",
+      "link": "https://www.ransomware.live/id/d3d3LmFkdmFuY2VkZW50ZGVudmVyLmNvbUBseW54",
+      "summary": "Advanced ENT &amp; Allergy Center is a leading provider in Denver specializing in allergy and sinus treatments, offering both in-person and online appointments. With over 20 years of experience, they provide long-term solutions for sinus pain, congestion, and allergy symptoms. Their services include allergy testing, allergy drops, and various sinus treatments tailored to individual needs. The center is committed to community service, offering free medical care for underserved individuals once a month.",
+      "pubDate": "Tue, 16 Dec 2025 17:22:09 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lynx?f4a8eceddb01e0b852690f1ed843f547",
+      "group": "Lynx",
+      "victim": "www.advancedentdenver.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nitrogen has just published a new victim : Walters Group Inc",
       "link": "https://www.ransomware.live/id/V2FsdGVycyBHcm91cCBJbmNAbml0cm9nZW4=",
@@ -2190,17 +2201,6 @@
       "group": "Incransom",
       "victim": "hohmartin.org",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : The Landreau Group",
-      "link": "https://www.ransomware.live/id/VGhlIExhbmRyZWF1IEdyb3VwQHNpbm9iaQ==",
-      "summary": "The Landreau Group is an independent insurance agency dedicated to serving the Minneapolis/St. Paul community and the greater metro area. They specialize in providing tailored insurance solutions for clients with complex needs, ensuring customers have the appropriate coverage to protect their businesses and homes. Founded in 2003 by Carlos Landreau, the company emphasizes a values-driven approach, prioritizing client relationships and offering integrity-driven service. With over 25 years of industry experience, they are committed to unraveling complexity and delivering knowledge to their clients.",
-      "pubDate": "Mon, 08 Dec 2025 17:46:53 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?17bc24f5d0328a38b761fd22cca430ff",
-      "group": "Sinobi",
-      "victim": "The Landreau Group",
-      "country": ""
     }
   ]
 }
