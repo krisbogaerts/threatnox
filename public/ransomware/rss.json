@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-16T22:12:30.411Z",
+  "updatedAt": "2025-12-16T23:11:53.996Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Holiday Tours",
+      "link": "https://www.ransomware.live/id/SG9saWRheSBUb3Vyc0BzaW5vYmk=",
+      "summary": "Holiday Companies, established in 1978, is a family-owned business based in North Carolina that specializes in providing motorcoach services, group travel, and a range of travel packages including cruises and air travel. They offer charter bus rentals and preplanned tours throughout North America and beyond, ensuring a safe and enjoyable travel experience for their clients. Their commitment to safety and high DOT ratings underscores their focus on providing top-notch services. With a diverse fleet of coaches, they cater to various organizations in need of group transportation solutions.",
+      "pubDate": "Tue, 16 Dec 2025 22:22:14 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?d5507d61e90e2ece3f6924a96aad810a",
+      "group": "Sinobi",
+      "victim": "Holiday Tours",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : ELC Electroconsult SpA",
+      "link": "https://www.ransomware.live/id/RUxDIEVsZWN0cm9jb25zdWx0IFNwQUBldmVyZXN0",
+      "summary": "[AI generated] ELC Electroconsult SpA is an Italy-based engineering firm operating globally. It specializes in developing large infrastructure and engineering projects, including design and consultancy for hydroelectric power, renewable energy, and dams. Over years, it has gained extensive project development experience in various environments, combining technological innovation with sustainable development.",
+      "pubDate": "Tue, 16 Dec 2025 21:46:02 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/everest?5166af963d766bb2eed36b3513c6dd0f",
+      "group": "Everest",
+      "victim": "ELC Electroconsult SpA",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Lanmark Group",
       "link": "https://www.ransomware.live/id/TGFubWFyayBHcm91cEBzaW5vYmk=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/coinbasecartel?415713eb00098894b925dfdef27a0333",
       "group": "Coinbasecartel",
       "victim": "Elysian Real Estate",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Harbor Real Estate",
-      "link": "https://www.ransomware.live/id/SGFyYm9yIFJlYWwgRXN0YXRlQGNvaW5iYXNlY2FydGVs",
-      "summary": "No description available.",
-      "pubDate": "Tue, 09 Dec 2025 05:15:51 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?9aef0b68d3ebcd4cbb9e2d205eb3ddef",
-      "group": "Coinbasecartel",
-      "victim": "Harbor Real Estate",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Savills Middle East/Cluttons",
-      "link": "https://www.ransomware.live/id/U2F2aWxscyBNaWRkbGUgRWFzdC9DbHV0dG9uc0Bjb2luYmFzZWNhcnRlbA==",
-      "summary": "No description available.",
-      "pubDate": "Tue, 09 Dec 2025 05:15:18 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?f171fce1035ef73ce42d81bad269748f",
-      "group": "Coinbasecartel",
-      "victim": "Savills Middle East/Cluttons",
       "country": "AE"
     }
   ]
