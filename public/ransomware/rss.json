@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-16T10:14:43.949Z",
+  "updatedAt": "2025-12-16T11:12:07.605Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Comcast REUP FOR SALE",
+      "link": "https://www.ransomware.live/id/Q29tY2FzdCBSRVVQIEZPUiBTQUxFQHNwYWNlYmVhcnM=",
+      "summary": "REUP FOR SALE The archive contains samples of the Comcast leak. The total file size is approximately 2 TB. It includes numerous DWG drawings, PDF plans of various cities with infrastructure, and other files related to the Genesis project. The entire lot is being sold as a single lot. Please submit your contact information and suggestions via the feedback form.  https://corporate.comcast.com/",
+      "pubDate": "Tue, 16 Dec 2025 10:33:59 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/spacebears?d2925b85aca6cc19578a4c11df965307",
+      "group": "Spacebears",
+      "victim": "Comcast REUP FOR SALE",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : Markham Stouffville Hospital",
       "link": "https://www.ransomware.live/id/TWFya2hhbSBTdG91ZmZ2aWxsZSBIb3NwaXRhbEBhbnViaXM=",
@@ -2190,17 +2201,6 @@
       "group": "Lynx",
       "victim": "www.eliteflower.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : PH Molds",
-      "link": "https://www.ransomware.live/id/UEggTW9sZHNAYWtpcmE=",
-      "summary": "PH Molds Limited is a leading provider of custom plastic injectio n mold design and manufacturing in Metro Vancouver, BC. The compa ny offers a wide range of services, including part and product ma nufacturing, assembly, and value-added services, helping clients  to create complex and functional designs. We are ready to upload 35gb of corporate data. Full personal info rmation of employees, their relatives and family friends (passpor t applications contain name, DOB, current address, email, phone,  passport number, passport scan, emergency contacts information, h ealth information), agreements and contracts, financials, credit  card information, NDAs, etc.",
-      "pubDate": "Mon, 08 Dec 2025 14:47:59 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/akira?9f90c614a73453b0d2855fd4f41fb870",
-      "group": "Akira",
-      "victim": "PH Molds",
-      "country": "CA"
     }
   ]
 }
