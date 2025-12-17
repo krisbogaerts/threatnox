@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-17T17:16:38.402Z",
+  "updatedAt": "2025-12-17T18:20:43.892Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : PODOVIA",
+      "link": "https://www.ransomware.live/id/UE9ET1ZJQUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 17 Dec 2025 17:07:59 +0000",
+      "category": "PL",
+      "guid": "https://www.ransomware.live/group/qilin?4d6e3c0a7c3a5a195b017f41b4c2aa8e",
+      "group": "Qilin",
+      "victim": "PODOVIA",
+      "country": "PL"
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : Netstar Australia PTY Ltd",
+      "link": "https://www.ransomware.live/id/TmV0c3RhciBBdXN0cmFsaWEgUFRZIEx0ZEBibGFja3NocmFudGFj",
+      "summary": "[AI generated] Netstar Australia Pty Ltd is a technology-focused company specializing in the field of fleet and asset management. It offers customized fleet management solutions including GPS vehicle tracking and advanced reporting. With a strong commitment to innovation and customer service, Netstar aims to improve efficiency, productivity, and profitability for businesses. Based in Melbourne, the company serves a diverse range of sectors across Australia.",
+      "pubDate": "Wed, 17 Dec 2025 16:49:04 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/blackshrantac?e15a76fc1e18516571533e1184c7bfb7",
+      "group": "Blackshrantac",
+      "victim": "Netstar Australia PTY Ltd",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Adelman & Gettleman",
       "link": "https://www.ransomware.live/id/QWRlbG1hbiAmIEdldHRsZW1hbkBha2lyYQ==",
@@ -2179,28 +2201,6 @@
       "group": "Devman",
       "victim": "Inter care",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : EXPERTISE MOBSIGN",
-      "link": "https://www.ransomware.live/id/RVhQRVJUSVNFIE1PQlNJR05Ac3BhY2ViZWFycw==",
-      "summary": "We excel in developing visual communication and furniture projects for corporate environments. We combine aesthetic concerns with functional solutions in every aspect of product execution. Personal information of employees and clientsFinancial documentsProjects https://exms.com.br/",
-      "pubDate": "Tue, 09 Dec 2025 17:48:46 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/spacebears?7fd3eeaea6cad2ca045be336ddeae5c4",
-      "group": "Spacebears",
-      "victim": "EXPERTISE MOBSIGN",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Leandri & Associes",
-      "link": "https://www.ransomware.live/id/TGVhbmRyaSAmIEFzc29jaWVzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Tue, 09 Dec 2025 17:43:26 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?5c6993f8c7420aff27de04c71a4c1413",
-      "group": "Qilin",
-      "victim": "Leandri & Associes",
-      "country": "FR"
     }
   ]
 }
