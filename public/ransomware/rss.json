@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-17T16:16:49.456Z",
+  "updatedAt": "2025-12-17T17:16:38.402Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Adelman & Gettleman",
+      "link": "https://www.ransomware.live/id/QWRlbG1hbiAmIEdldHRsZW1hbkBha2lyYQ==",
+      "summary": "Adelman &amp; Gettleman is a boutique law firm based in Chicago that  specializes in commercial insolvency, bankruptcy, and related lit igation. With over 40 years of experience, the firm is known for  efficiently resolving financial difficulties for its clients thro ugh creative and consensus-driven approaches. We will upload 31gb of corporate data soon. Clients and employees information (passports, DLs, SSNs), financials, court files, pol ice reports and other confidential files.",
+      "pubDate": "Wed, 17 Dec 2025 15:43:54 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?a862bf47aa3edf07d851b3552bc64bce",
+      "group": "Akira",
+      "victim": "Adelman & Gettleman",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : ACME Industrial",
+      "link": "https://www.ransomware.live/id/QUNNRSBJbmR1c3RyaWFsQGFraXJh",
+      "summary": "ACME Industrial, Inc. offers a wide range of industrial, commerci al, and marine repair and mechanical services from their 10,000 s quare foot facility in Staten Island, New York. We will upload 256gb of corporate data soon. Employees informatio n (passports, DLs, SSNs, birth and death certs, medical informati on), financials, payment details, client files, NDAs, etc.",
+      "pubDate": "Wed, 17 Dec 2025 15:43:51 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?2e3d5b305a21e0837b282c8f26ca21f8",
+      "group": "Akira",
+      "victim": "ACME Industrial",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Latitude 33 Planning& Engineering",
+      "link": "https://www.ransomware.live/id/TGF0aXR1ZGUgMzMgUGxhbm5pbmcmIEVuZ2luZWVyaW5nQGFraXJh",
+      "summary": "Latitude 33 is a certified Small Business Enterprise that provide s planning, engineering, and surveying services across various lo cations, including San Diego, Los Angeles, Sacramento, and Salt L ake City. We will upload 53gb of corporate data soon. Employees information (passports, DLs, and numerous forms with personal information),  detailed financials, payment details, client files, projects, etc .",
+      "pubDate": "Wed, 17 Dec 2025 15:43:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?a48931158cc7d53f474125207e673332",
+      "group": "Akira",
+      "victim": "Latitude 33 Planning& Engineering",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : Axion50plus",
       "link": "https://www.ransomware.live/id/QXhpb241MHBsdXNAZGV2bWFu",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Leandri & Associes",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : The Center of Association Management",
-      "link": "https://www.ransomware.live/id/VGhlIENlbnRlciBvZiBBc3NvY2lhdGlvbiBNYW5hZ2VtZW50QG5pZ2h0c3BpcmU=",
-      "summary": "The Center of Association Management",
-      "pubDate": "Tue, 09 Dec 2025 17:40:09 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/nightspire?5527e58a5f6b3117bf7b38cb5b1054a6",
-      "group": "Nightspire",
-      "victim": "The Center of Association Management",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : Computing Dynamics",
-      "link": "https://www.ransomware.live/id/Q29tcHV0aW5nIER5bmFtaWNzQGludGVybG9jaw==",
-      "summary": "Computing Dynamics Inc is a company that develops custom software and provides IT services. In other words, this company operates in the IT sector and yet manages to make stupid mistakes in its work. As a result, it fell victim to an attack and a large amount of confidential data was compromised! This included data about clients, employees, and the company itself. Names, phone numbers, addresses, and a lot of personal information were compromised!",
-      "pubDate": "Tue, 09 Dec 2025 17:17:38 +0000",
-      "category": "UK",
-      "guid": "https://www.ransomware.live/group/interlock?6de2bd9c763d36d01053d4eeeb3b333a",
-      "group": "Interlock",
-      "victim": "Computing Dynamics",
-      "country": "UK"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : GearGrid",
-      "link": "https://www.ransomware.live/id/R2VhckdyaWRAYWtpcmE=",
-      "summary": "GearGrid is a U.S.-based storage system and equipment manufacture r specializing in solutions for the fire and EMS, tactical, athle tic, and public works industries. We will upload 16gb of corporate data soon. HR files, client file s, financials, numerous project files, and so on.",
-      "pubDate": "Tue, 09 Dec 2025 16:18:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?8e90910907a5f9e3fd295a4cd760fd1a",
-      "group": "Akira",
-      "victim": "GearGrid",
-      "country": "US"
     }
   ]
 }
