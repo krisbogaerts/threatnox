@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-17T19:13:48.584Z",
+  "updatedAt": "2025-12-17T20:14:22.092Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Naftali Bennett Chats",
+      "link": "https://www.ransomware.live/id/TmFmdGFsaSBCZW5uZXR0IENoYXRzQGhhbmRhbGE=",
+      "summary": "Naftali Bennett has publicly denied any breach and insists that his phone was never hacked. However, the truth speaks for itself. As Handala Hack, we are exposing 1,900 chats directly from his device to prove beyond any doubt that his claims are false. The evidence is clear and undeniable, Bennett’s attempt to mislead the public…",
+      "pubDate": "Wed, 17 Dec 2025 18:46:09 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?8cb5eeb2319ab5bad7ad9f91cff1cde0",
+      "group": "Handala",
+      "victim": "Naftali Bennett Chats",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : PODOVIA",
       "link": "https://www.ransomware.live/id/UE9ET1ZJQUBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Devman",
       "victim": "fassic.org",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : Inter care",
-      "link": "https://www.ransomware.live/id/SW50ZXIgY2FyZUBkZXZtYW4=",
-      "summary": "Full quickbooks dump, patients data, and financial data",
-      "pubDate": "Tue, 09 Dec 2025 18:15:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?9abb6c56c9907a6b3c8a580278b934ab",
-      "group": "Devman",
-      "victim": "Inter care",
-      "country": "US"
     }
   ]
 }
