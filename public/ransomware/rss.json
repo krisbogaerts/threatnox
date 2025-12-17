@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-17T09:19:10.555Z",
+  "updatedAt": "2025-12-17T10:14:43.217Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Amla Commerce",
+      "link": "https://www.ransomware.live/id/QW1sYSBDb21tZXJjZUBkcmFnb25mb3JjZQ==",
+      "summary": "Amla Commerce develops ecommerce software platforms. Architected with a focus on long-term sustainability, the platforms offer unmatched flexibility and scalability, as well as premium feature sets and deep functionality proven to enable growth and support even the most complex operational needs for mid-market and enterprise-level companies. Amla Commerce is the parent company of Artifi Labs, an enterprise product customization platform, and Znode, a .NET ecommerce platform with headless architecture and multi-store capabilities. Artifi and Znode power the ecommerce experiences of hundreds of companies across dozens of industries including apparel and soft goods, promotional products, uniforms, CPG and retail. Amla Commerce is a privately-held company, headquartered in Milwaukee, WI.",
+      "pubDate": "Wed, 17 Dec 2025 08:52:17 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?b0ffd9986c8d6f536971c94013296111",
+      "group": "Dragonforce",
+      "victim": "Amla Commerce",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Crypto24 has just published a new victim : SASP SNCC AUTOMATISME SOLUTIONS PROCESS",
       "link": "https://www.ransomware.live/id/U0FTUCBTTkNDIEFVVE9NQVRJU01FIFNPTFVUSU9OUyBQUk9DRVNTQGNyeXB0bzI0",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "grupopuma",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Tele-Fonika Cable Americas",
-      "link": "https://www.ransomware.live/id/VGVsZS1Gb25pa2EgQ2FibGUgQW1lcmljYXNAbm92YQ==",
-      "summary": "TFKable Group is a global leader in the production of high and extra-high voltage cables, primarily serving the energy sector. The company specializes in supplying land cables and accessories for offshore wind farms in the Baltic Sea, contributing to renewable energy projects. With a strong focus on quality and innovation, TFKable conducts advanced research and testing to ensure the reliability of its products. The company is actively expanding its operations and investing in modern technologies to strengthen the domestic supply chain for the energy sector - 10GB exf sales data , finance, partners, costumers infos + workers, IDs, invoices etc, sample provided",
-      "pubDate": "Tue, 09 Dec 2025 13:54:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nova?c5a14f2efa45638c05a4da72f5a69a34",
-      "group": "Nova",
-      "victim": "Tele-Fonika Cable Americas",
-      "country": "US"
     }
   ]
 }
