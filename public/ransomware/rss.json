@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-17T06:19:25.880Z",
+  "updatedAt": "2025-12-17T07:16:06.423Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Caught by the Octopus: Bennett’s Darkest Hour",
+      "link": "https://www.ransomware.live/id/Q2F1Z2h0IGJ5IHRoZSBPY3RvcHVzOiBCZW5uZXR04oCZcyBEYXJrZXN0IEhvdXJAaGFuZGFsYQ==",
+      "summary": "Hello Naftali, Today is not just another day in your calendar of illusions. Today, we celebrate the second birthday of Handala in this digital battlefield, a spirit twenty years old, dwelling in the body of a two-year-old phenomenon. For two years, Handala has moved silently beside the most guarded politicians and the so-called untouchable architects…",
+      "pubDate": "Wed, 17 Dec 2025 05:51:51 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?a5a1c1fbfc01ce1ccf00221b0ecd6bd3",
+      "group": "Handala",
+      "victim": "Caught by the Octopus: Bennett’s Darkest Hour",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : ANG BROTHERS (M&E) PTE. LTD.",
       "link": "https://www.ransomware.live/id/QU5HIEJST1RIRVJTIChNJkUpIFBURS4gTFRELkBub3Zh",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Serratelli Hat",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Cagayan Appliance Center",
-      "link": "https://www.ransomware.live/id/Q2FnYXlhbiBBcHBsaWFuY2UgQ2VudGVyQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Tue, 09 Dec 2025 06:47:21 +0000",
-      "category": "PH",
-      "guid": "https://www.ransomware.live/group/qilin?acd502d95d2e6c6853f6393bb7f903f2",
-      "group": "Qilin",
-      "victim": "Cagayan Appliance Center",
-      "country": "PH"
     }
   ]
 }
