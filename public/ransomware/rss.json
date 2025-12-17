@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-17T05:14:56.953Z",
+  "updatedAt": "2025-12-17T06:19:25.880Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : ANG BROTHERS (M&E) PTE. LTD.",
+      "link": "https://www.ransomware.live/id/QU5HIEJST1RIRVJTIChNJkUpIFBURS4gTFRELkBub3Zh",
+      "summary": "Encrypted 13/11/2025 | SOLD 16/12/2025",
+      "pubDate": "Wed, 17 Dec 2025 05:21:30 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/nova?98ea3e9b4c47090060267fc1f376f009",
+      "group": "Nova",
+      "victim": "ANG BROTHERS (M&E) PTE. LTD.",
+      "country": "SG"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : https://avenira.com/",
       "link": "https://www.ransomware.live/id/aHR0cHM6Ly9hdmVuaXJhLmNvbS9AaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Cagayan Appliance Center",
       "country": "PH"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Acu Trans Solutions",
-      "link": "https://www.ransomware.live/id/QWN1IFRyYW5zIFNvbHV0aW9uc0Bjb2luYmFzZWNhcnRlbA==",
-      "summary": "300 GB Medical files",
-      "pubDate": "Tue, 09 Dec 2025 05:18:03 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?100341ef2dd1eb2d2bd4093ce4c013c1",
-      "group": "Coinbasecartel",
-      "victim": "Acu Trans Solutions",
-      "country": "US"
     }
   ]
 }
