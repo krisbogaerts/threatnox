@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-17T11:12:38.838Z",
+  "updatedAt": "2025-12-17T12:24:45.376Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Operation Octopus: Naftali Bennett",
+      "link": "https://www.ransomware.live/id/T3BlcmF0aW9uIE9jdG9wdXM6IE5hZnRhbGkgQmVubmV0dEBoYW5kYWxh",
+      "summary": "Dear Naftali Bennett, You once prided yourself on being a beacon of cybersecurity, parading your expertise before the world. Yet, how ironic that your own iPhone 13 has fallen so easily to the hands of Handala. For all your boasts and bravado, your digital fortress was nothing more than a paper wall waiting to be…",
+      "pubDate": "Wed, 17 Dec 2025 11:43:07 +0000",
+      "category": "IL",
+      "guid": "https://www.ransomware.live/group/handala?f85ebf237b79a4903a8e349b4ea3ba95",
+      "group": "Handala",
+      "victim": "Operation Octopus: Naftali Bennett",
+      "country": "IL"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Amla Commerce",
       "link": "https://www.ransomware.live/id/QW1sYSBDb21tZXJjZUBkcmFnb25mb3JjZQ==",
@@ -172,11 +183,11 @@
       "link": "https://www.ransomware.live/id/TGFubWFyayBHcm91cEBzaW5vYmk=",
       "summary": "Lanmark Group, Inc. is a full-service general contracting firm based in Brooklyn, NY, founded in 2005. The company specializes in handling complex construction projects for both public and private sector clients, demonstrating a commitment to quality, safety, and client satisfaction. With a focus on meticulous planning and execution, Lanmark has established a strong reputation through their extensive portfolio of successful projects. Their expertise is showcased in multi-million dollar constructions, making them a trusted partner for state and municipal agencies.",
       "pubDate": "Tue, 16 Dec 2025 21:32:26 +0000",
-      "category": "AE",
+      "category": "US",
       "guid": "https://www.ransomware.live/group/sinobi?3964fb3abe9931ef56ccad4fd0c2956f",
       "group": "Sinobi",
       "victim": "Lanmark Group",
-      "country": "AE"
+      "country": "US"
     },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Milhench Supply Company",
@@ -1008,11 +1019,11 @@
       "link": "https://www.ransomware.live/id/TGl0ZWNvbm4gR3JvdXBAcWlsaW4=",
       "summary": "N/A",
       "pubDate": "Sun, 14 Dec 2025 07:17:42 +0000",
-      "category": "JP",
+      "category": "TW",
       "guid": "https://www.ransomware.live/group/qilin?b5dcccf001f362ce128d3a98b35a729f",
       "group": "Qilin",
       "victim": "Liteconn Group",
-      "country": "JP"
+      "country": "TW"
     },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Vlp Hellas",
@@ -1283,11 +1294,11 @@
       "link": "https://www.ransomware.live/id/U3RhcnRlayBFbmdpbmVlcmluZyBJbmMuQG9ic2N1cmE=",
       "summary": "STARTEK is a worldwide leading company in the fingerprint identification industry, dedicated to developing and providing consumer-ready fingerprint identification products, biometric fingerprint sensors and modules. Established in 1989 at Hsinchu Science Industrial Park, Taiwan, the company has a long history and rich experience in the Biometric fingerprinting field, and continues to be a strong player in the evolution of fingerprint technology development and applications. Startek’s patented proprietary fingerprint algorithm technology follows the ISO/IEC 19794-2 standard and provides maximum accuracy, performance, and reliability.",
       "pubDate": "Fri, 12 Dec 2025 22:11:24 +0000",
-      "category": "US",
+      "category": "TW",
       "guid": "https://www.ransomware.live/group/obscura?03c51c328070193ffa0199be881486b3",
       "group": "Obscura",
       "victim": "Startek Engineering Inc.",
-      "country": "US"
+      "country": "TW"
     },
     {
       "title": "🏴‍☠️ Obscura has just published a new victim : StanleyCo Malaysia",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Chastain & Associates",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : grupopuma",
-      "link": "https://www.ransomware.live/id/Z3J1cG9wdW1hQG5vdmE=",
-      "summary": "Grupo Puma specializes in the construction industry, offering a range of products and services tailored to meet the needs of various clients. The company operates across multiple continents, providing solutions for construction projects in diverse geographical locations. Their expertise encompasses various aspects of construction, ensuring quality and efficiency in their offerings. Grupo Puma aims to serve clients in both the public and private sectors, contributing to the development of infrastructure worldwide - Local folders exf + therefore program creds and databases and more, contact us for tree",
-      "pubDate": "Tue, 09 Dec 2025 13:55:37 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/nova?ccced62a3e066fbba4853f11b53876db",
-      "group": "Nova",
-      "victim": "grupopuma",
-      "country": "ES"
     }
   ]
 }
