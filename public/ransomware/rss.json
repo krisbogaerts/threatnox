@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2025-12-17T20:14:22.092Z",
+  "updatedAt": "2025-12-17T21:12:18.225Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : seguriamericas.com",
+      "link": "https://www.ransomware.live/id/c2VndXJpYW1lcmljYXMuY29tQHNhZmVwYXk=",
+      "summary": "SeguriAmericas, formally known as Seguridad Las Americas Ltda, is a Colombian company specialising in private security and investigation services. Founded …",
+      "pubDate": "Wed, 17 Dec 2025 20:27:13 +0000",
+      "category": "CO",
+      "guid": "https://www.ransomware.live/group/safepay?8f4187cd1e7240682b733ecdda1c9cd9",
+      "group": "Safepay",
+      "victim": "seguriamericas.com",
+      "country": "CO"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : smilecenterutah.com",
+      "link": "https://www.ransomware.live/id/c21pbGVjZW50ZXJ1dGFoLmNvbUBzYWZlcGF5",
+      "summary": "Smile Center Utah is a private dental practice located in Provo, Utah, providing comprehensive oral healthcare services to patients of …",
+      "pubDate": "Wed, 17 Dec 2025 20:26:39 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?bac11e455c17af77143f14e334b99e56",
+      "group": "Safepay",
+      "victim": "smilecenterutah.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : silverlinegroupinc.com",
+      "link": "https://www.ransomware.live/id/c2lsdmVybGluZWdyb3VwaW5jLmNvbUBzYWZlcGF5",
+      "summary": "Silverline Group Inc. is a Canadian construction and civil contracting firm based in St. Catharines, Ontario. It operates in the …",
+      "pubDate": "Wed, 17 Dec 2025 20:26:04 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/safepay?1e1ddd2db019c302e92294f3be69186c",
+      "group": "Safepay",
+      "victim": "silverlinegroupinc.com",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : notar-gerresheim.de",
+      "link": "https://www.ransomware.live/id/bm90YXItZ2VycmVzaGVpbS5kZUBzYWZlcGF5",
+      "summary": "Notare Dr. Heinrich &amp; Dr. Berg is a private notary office located in the Gerresheim district of Düsseldorf, Germany. The …",
+      "pubDate": "Wed, 17 Dec 2025 20:25:27 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?28cabced189e7f39e1e175210c404e86",
+      "group": "Safepay",
+      "victim": "notar-gerresheim.de",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : artcitydental.com",
+      "link": "https://www.ransomware.live/id/YXJ0Y2l0eWRlbnRhbC5jb21Ac2FmZXBheQ==",
+      "summary": "Art City Dental is a family-oriented dental clinic located in Springville, Utah, within the United States. The practice provides a …",
+      "pubDate": "Wed, 17 Dec 2025 20:24:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?8abbf67c2ec9c503083a729fb0e24681",
+      "group": "Safepay",
+      "victim": "artcitydental.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : gandlmechanical.com",
+      "link": "https://www.ransomware.live/id/Z2FuZGxtZWNoYW5pY2FsLmNvbUBzYWZlcGF5",
+      "summary": "G &amp; L Mechanical Contractor, L.P. is a regional mechanical contracting firm based in Grapevine, Texas, and has been operating …",
+      "pubDate": "Wed, 17 Dec 2025 20:24:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?aa22933f4d3de670f309aae6f2a8c4c7",
+      "group": "Safepay",
+      "victim": "gandlmechanical.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : zimeda.eu",
+      "link": "https://www.ransomware.live/id/emltZWRhLmV1QHNhZmVwYXk=",
+      "summary": "Zimeda GmbH &amp; Co. KG is a German medical technology and healthcare supplier headquartered in Passau, Bavaria. The firm operates …",
+      "pubDate": "Wed, 17 Dec 2025 20:23:43 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/safepay?1c6cf92a0ea07a4be912e711e85e246d",
+      "group": "Safepay",
+      "victim": "zimeda.eu",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Naftali Bennett Chats",
       "link": "https://www.ransomware.live/id/TmFmdGFsaSBCZW5uZXR0IENoYXRzQGhhbmRhbGE=",
@@ -2124,83 +2201,6 @@
       "group": "Qilin",
       "victim": "Hexacon Construction",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : West Quay",
-      "link": "https://www.ransomware.live/id/V2VzdCBRdWF5QHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Tue, 09 Dec 2025 18:39:07 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?d663458f3db86694514cdfda583fbedd",
-      "group": "Qilin",
-      "victim": "West Quay",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : TopDest",
-      "link": "https://www.ransomware.live/id/VG9wRGVzdEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 09 Dec 2025 18:38:26 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?f9564f85eaf06c04ff8f1573aff841a3",
-      "group": "Qilin",
-      "victim": "TopDest",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Dill Dill Carr Stonbraker & Hutchings.",
-      "link": "https://www.ransomware.live/id/RGlsbCBEaWxsIENhcnIgU3RvbmJyYWtlciAmIEh1dGNoaW5ncy5AZ2VuZXNpcw==",
-      "summary": "A lawyer firm from Denver, USA.",
-      "pubDate": "Tue, 09 Dec 2025 18:19:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?345d63f8ef96fbe26034120d27838cf6",
-      "group": "Genesis",
-      "victim": "Dill Dill Carr Stonbraker & Hutchings.",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Sunair Electronics and Circuitronix.",
-      "link": "https://www.ransomware.live/id/U3VuYWlyIEVsZWN0cm9uaWNzIGFuZCBDaXJjdWl0cm9uaXguQGdlbmVzaXM=",
-      "summary": "Companies specialize in the manufacture of high-frequency communication products and printed circuit boards.",
-      "pubDate": "Tue, 09 Dec 2025 18:19:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/genesis?6b5ec168f1d838ab2118a8a141596c85",
-      "group": "Genesis",
-      "victim": "Sunair Electronics and Circuitronix.",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Genesis has just published a new victim : Abacus Employment Services.",
-      "link": "https://www.ransomware.live/id/QWJhY3VzIEVtcGxveW1lbnQgU2VydmljZXMuQGdlbmVzaXM=",
-      "summary": "A staffing company from UK.",
-      "pubDate": "Tue, 09 Dec 2025 18:18:37 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/genesis?6b34983ab6462f0002c6f3d2c18697cd",
-      "group": "Genesis",
-      "victim": "Abacus Employment Services.",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : Village Santé Saint Joseph Hospital",
-      "link": "https://www.ransomware.live/id/VmlsbGFnZSBTYW50w6kgU2FpbnQgSm9zZXBoIEhvc3BpdGFsQGRldm1hbg==",
-      "summary": "patient data",
-      "pubDate": "Tue, 09 Dec 2025 18:16:54 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/devman?8bf46552e6392f61f95f5bd24a3c80e5",
-      "group": "Devman",
-      "victim": "Village Santé Saint Joseph Hospital",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : fassic.org",
-      "link": "https://www.ransomware.live/id/ZmFzc2ljLm9yZ0BkZXZtYW4=",
-      "summary": "Financial Records, Med cards, Hr documents",
-      "pubDate": "Tue, 09 Dec 2025 18:16:04 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/devman?e4c861fa77e09984431200f0bd3e5f68",
-      "group": "Devman",
-      "victim": "fassic.org",
-      "country": "FR"
     }
   ]
 }
