@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-17T08:18:41.653Z",
+  "updatedAt": "2025-12-17T09:19:10.555Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Crypto24 has just published a new victim : SASP SNCC AUTOMATISME SOLUTIONS PROCESS",
+      "link": "https://www.ransomware.live/id/U0FTUCBTTkNDIEFVVE9NQVRJU01FIFNPTFVUSU9OUyBQUk9DRVNTQGNyeXB0bzI0",
+      "summary": "***",
+      "pubDate": "Wed, 17 Dec 2025 07:50:25 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/crypto24?9b6864c76ccc5b21ae6135f0d8b4b0c1",
+      "group": "Crypto24",
+      "victim": "SASP SNCC AUTOMATISME SOLUTIONS PROCESS",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Ferreteria Scopazzo",
       "link": "https://www.ransomware.live/id/RmVycmV0ZXJpYSBTY29wYXp6b0BxaWxpbg==",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/nova?c5a14f2efa45638c05a4da72f5a69a34",
       "group": "Nova",
       "victim": "Tele-Fonika Cable Americas",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Hardesty & Hanover",
-      "link": "https://www.ransomware.live/id/SGFyZGVzdHkgJiBIYW5vdmVyQGFraXJh",
-      "summary": "H&amp;H is an expert firm specializing in infrastructure engineering  and kinetic systems structures, providing a broad range of servic es including architectural design, construction engineering, and  geotechnical engineering. We are ready to upload 323gb of corporate data. Detailed personal information of employees (passports, DLs, headshots, visas, and  a lot of forms containing personal information), detailed financi als, confidential docs, agreements and contracts, project, drawin gs, NDAs, etc.",
-      "pubDate": "Tue, 09 Dec 2025 13:18:26 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?de9aad1ac23653e49898430d7a3009f1",
-      "group": "Akira",
-      "victim": "Hardesty & Hanover",
       "country": "US"
     }
   ]
