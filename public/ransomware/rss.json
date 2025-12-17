@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-17T22:12:14.543Z",
+  "updatedAt": "2025-12-17T23:12:16.344Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Termite has just published a new victim : MedHelp",
+      "link": "https://www.ransomware.live/id/TWVkSGVscEB0ZXJtaXRl",
+      "summary": "MedHelp Birmingham provides urgent and primary care services in the Birmingham area, welcoming walk-in patients. Their offerings include a Long COVID clinic, wellness therapies, and specialized services such as Lyme Disease treatment and gynecology care.",
+      "pubDate": "Wed, 17 Dec 2025 22:20:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/termite?009084aafb8899053c9fe98d0dc17714",
+      "group": "Termite",
+      "victim": "MedHelp",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : CVK Hotels & Resorts_Turkey",
+      "link": "https://www.ransomware.live/id/Q1ZLIEhvdGVscyAmIFJlc29ydHNfVHVya2V5QGluY3JhbnNvbQ==",
+      "summary": "We would like to draw your attention to the fact that even after being notified of the leak, the management of this organization treated it with complete indifference. If you are one of this organization&#x27;s customers, rest assured that they couldn&#x27;t care less about your personal data and who will use it and how.\r ----------------\r CVK Hotels &amp; Resorts offers luxury accommodations in the heart of Istanbul, providing guests with a blend of traditional Turkish hospitality and modern comfort. The company operates several hotels, including the CVK Park Bosphorus Hotel, CVK Park Bosphorus Residences, and CVK Taksim Hotel, catering to both leisure and business travelers. Their services include fine dining, spa and fitness facilities, and event spaces, ensuring a comprehensive experience for their clients. With a focus on creating memorable stays, CVK Hotels &amp; Resorts also features a rewards program for guests to earn benefits during their visits.",
+      "pubDate": "Wed, 17 Dec 2025 21:49:22 +0000",
+      "category": "TR",
+      "guid": "https://www.ransomware.live/group/incransom?135a41dc896e95c24c565dc76c132291",
+      "group": "Incransom",
+      "victim": "CVK Hotels & Resorts_Turkey",
+      "country": "TR"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : seguriamericas.com",
       "link": "https://www.ransomware.live/id/c2VndXJpYW1lcmljYXMuY29tQHNhZmVwYXk=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?8909f4473792c5ec24ea47bc77f0fc0d",
       "group": "Sinobi",
       "victim": "Clean Air",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Tupi",
-      "link": "https://www.ransomware.live/id/VHVwaUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 09 Dec 2025 18:40:27 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/qilin?6a8575751ab8a02f0ac552fc514c8533",
-      "group": "Qilin",
-      "victim": "Tupi",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Hexacon Construction",
-      "link": "https://www.ransomware.live/id/SGV4YWNvbiBDb25zdHJ1Y3Rpb25AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Tue, 09 Dec 2025 18:39:47 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?0155e3f7209527d6eb5bed8fccf7624e",
-      "group": "Qilin",
-      "victim": "Hexacon Construction",
       "country": ""
     }
   ]
