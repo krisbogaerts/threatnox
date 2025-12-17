@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-16T23:11:53.996Z",
+  "updatedAt": "2025-12-17T00:53:40.529Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : https://avenira.com/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9hdmVuaXJhLmNvbS9AaW5jcmFuc29t",
+      "summary": "1tb data    and nda data",
+      "pubDate": "Tue, 16 Dec 2025 23:51:35 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/incransom?feb2bcf2a21cea26a1ad0841bb72871c",
+      "group": "Incransom",
+      "victim": "https://avenira.com/",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Roose Ressler & Green Co",
+      "link": "https://www.ransomware.live/id/Um9vc2UgUmVzc2xlciAmIEdyZWVuIENvQHdvcmxkbGVha3M=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Tue, 16 Dec 2025 23:32:47 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?c30a98c5c747c3b5a03aea233ed17503",
+      "group": "Worldleaks",
+      "victim": "Roose Ressler & Green Co",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Smith Hawks",
+      "link": "https://www.ransomware.live/id/U21pdGggSGF3a3NAd29ybGRsZWFrcw==",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Tue, 16 Dec 2025 23:32:03 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?8bf300b649f0b4c2293c828e39398f20",
+      "group": "Worldleaks",
+      "victim": "Smith Hawks",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Holiday Tours",
       "link": "https://www.ransomware.live/id/SG9saWRheSBUb3Vyc0BzaW5vYmk=",
@@ -2168,39 +2201,6 @@
       "group": "Coinbasecartel",
       "victim": "Acu Trans Solutions",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Arabian Escapes",
-      "link": "https://www.ransomware.live/id/QXJhYmlhbiBFc2NhcGVzQGNvaW5iYXNlY2FydGVs",
-      "summary": "No description available.",
-      "pubDate": "Tue, 09 Dec 2025 05:17:30 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?ca71e011db721c9a9186d18b7b1affac",
-      "group": "Coinbasecartel",
-      "victim": "Arabian Escapes",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Homes 4 Life",
-      "link": "https://www.ransomware.live/id/SG9tZXMgNCBMaWZlQGNvaW5iYXNlY2FydGVs",
-      "summary": "No description available.",
-      "pubDate": "Tue, 09 Dec 2025 05:16:57 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?8db86cc9f3c5cb404c6c5b450207935b",
-      "group": "Coinbasecartel",
-      "victim": "Homes 4 Life",
-      "country": "AE"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Elysian Real Estate",
-      "link": "https://www.ransomware.live/id/RWx5c2lhbiBSZWFsIEVzdGF0ZUBjb2luYmFzZWNhcnRlbA==",
-      "summary": "No description available.",
-      "pubDate": "Tue, 09 Dec 2025 05:16:24 +0000",
-      "category": "AE",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?415713eb00098894b925dfdef27a0333",
-      "group": "Coinbasecartel",
-      "victim": "Elysian Real Estate",
-      "country": "AE"
     }
   ]
 }
