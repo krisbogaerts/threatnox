@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-17T14:13:54.844Z",
+  "updatedAt": "2025-12-17T15:14:17.962Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : Axion50plus",
+      "link": "https://www.ransomware.live/id/QXhpb241MHBsdXNAZGV2bWFu",
+      "summary": "Financial, HR data, Client data",
+      "pubDate": "Wed, 17 Dec 2025 14:16:36 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/devman?e7cf66151f56e3ac4e88dae9ca3f1096",
+      "group": "Devman",
+      "victim": "Axion50plus",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : Jet ********",
+      "link": "https://www.ransomware.live/id/SmV0ICoqKioqKioqQGRldm1hbg==",
+      "summary": "",
+      "pubDate": "Wed, 17 Dec 2025 14:15:20 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/devman?46eb7b52ebf0f6e9b4069076a826707e",
+      "group": "Devman",
+      "victim": "Jet ********",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Operation Octopus: Naftali Bennett",
       "link": "https://www.ransomware.live/id/T3BlcmF0aW9uIE9jdG9wdXM6IE5hZnRhbGkgQmVubmV0dEBoYW5kYWxh",
@@ -2179,28 +2201,6 @@
       "group": "Akira",
       "victim": "GearGrid",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Rodenburg Law Firm",
-      "link": "https://www.ransomware.live/id/Um9kZW5idXJnIExhdyBGaXJtQGFraXJh",
-      "summary": "The Rodenburg Law Firm represents collection agencies, commercial forwarders, lending institutions, auto and consumer finance comp anies, debt buyers, state colleges, health care organizations, an d other creditors in credit matters including consumer and commer cial collections. We are ready to upload more than 144gb of corporate data. Detaile d employee information (passports, driver licenses and other docs ), confidential legal files, court hearings, client information,  etc.",
-      "pubDate": "Tue, 09 Dec 2025 15:38:00 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?d65b98aa7bb0a3561b799daf91d37cf0",
-      "group": "Akira",
-      "victim": "Rodenburg Law Firm",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Chastain & Associates",
-      "link": "https://www.ransomware.live/id/Q2hhc3RhaW4gJiBBc3NvY2lhdGVzQGFraXJh",
-      "summary": "Chastain is a professional consulting firm providing land surveyi ng, land planning and development, civil, water/wastewater, const ruction, structural engineering, and urban planning services. We are ready to upload more than 90gb of corporate data. HR files , detailed financials, confidential files, agreements and contrac ts, project, NDAs, etc.",
-      "pubDate": "Tue, 09 Dec 2025 14:48:08 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?58336f768ee536907b1cba5be897a8a9",
-      "group": "Akira",
-      "victim": "Chastain & Associates",
-      "country": ""
     }
   ]
 }
