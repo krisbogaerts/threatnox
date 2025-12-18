@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-18T19:12:37.503Z",
+  "updatedAt": "2025-12-18T20:13:26.731Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Clop has just published a new victim : KOEL.CO.IN",
+      "link": "https://www.ransomware.live/id/S09FTC5DTy5JTkBjbG9w",
+      "summary": "[AI generated] KOEL.CO.IN, also known as Kirloskar Oil Engines Ltd., is a leading Indian manufacturer of diesel engines, agricultural pumps, and generator sets. It&#x27;s a flagship company of the century-old Kirloskar Group. KOEL is renowned globally for manufacturing durable and reliable products that cater to sectors including agriculture, industries, and domestic usage. Their products have varied applications, ensuring complete power solutions.",
+      "pubDate": "Thu, 18 Dec 2025 18:10:28 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/clop?dd3aab541d5e43e3cf76ffb1c0d7f9ee",
+      "group": "Clop",
+      "victim": "KOEL.CO.IN",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Tlechaim",
       "link": "https://www.ransomware.live/id/VGxlY2hhaW1AcWlsaW4=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?636636df5250848d167a98f7bef74d3b",
       "group": "Qilin",
       "victim": "Lonich Patton Ehrlich Policastri",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Kirby Agri",
-      "link": "https://www.ransomware.live/id/S2lyYnkgQWdyaUBha2lyYQ==",
-      "summary": "Kirby Agri Inc. serves agricultural, landscape, and turf wholesal ers with a complete line of fertilizer and plant nutrients. We will upload 15gb of corporate data soon. Employee information  (name, DOB, address, email and so on), financials, customer infor mation, and so on.",
-      "pubDate": "Wed, 10 Dec 2025 16:18:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?267911bfd9915ffdfd5f3a3c0c1c2b84",
-      "group": "Akira",
-      "victim": "Kirby Agri",
       "country": "US"
     }
   ]
