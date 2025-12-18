@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-12-18T10:13:51.261Z",
+  "updatedAt": "2025-12-18T11:12:18.609Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : beausejourco-op.crs",
+      "link": "https://www.ransomware.live/id/YmVhdXNlam91cmNvLW9wLmNyc0BkZXZtYW4=",
+      "summary": "Financial, HR",
+      "pubDate": "Thu, 18 Dec 2025 10:24:28 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/devman?6fc0c78e725bf730369cad54c73f0a66",
+      "group": "Devman",
+      "victim": "beausejourco-op.crs",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : d*v***.cl",
+      "link": "https://www.ransomware.live/id/ZCp2KioqLmNsQGRldm1hbg==",
+      "summary": "Patients full records, HIV tests results, ID&#x27;s",
+      "pubDate": "Thu, 18 Dec 2025 10:23:12 +0000",
+      "category": "CL",
+      "guid": "https://www.ransomware.live/group/devman?839c7734087e5000be90e8509f35fc71",
+      "group": "Devman",
+      "victim": "d*v***.cl",
+      "country": "CL"
+    },
+    {
+      "title": "🏴‍☠️ Ms13089 has just published a new victim : dgpcommercialisti.it",
+      "link": "https://www.ransomware.live/id/ZGdwY29tbWVyY2lhbGlzdGkuaXRAbXMxMzA4OQ==",
+      "summary": "Aree di specializzazione: contabilità, bilanci, dichiarazioni fiscali, incarichi di sindaco e revisore legale, consulente tecnico d’ufficio, ristrutturazioni e operazioni straordinarie. Consulenza Societaria, ordinaria e straordinaria, ivi...",
+      "pubDate": "Thu, 18 Dec 2025 09:55:42 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/ms13089?a65c0df42fd24d26d83b27f2572be318",
+      "group": "Ms13089",
+      "victim": "dgpcommercialisti.it",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Ms13089 has just published a new victim : uro.com",
+      "link": "https://www.ransomware.live/id/dXJvLmNvbUBtczEzMDg5",
+      "summary": "Virginia Urology (VU) has a long history of providing quality care to the Greater Richmond metro area since 1929. This practice prides itself on its strong commitment to the community’s urological needs by recruiting highly...",
+      "pubDate": "Thu, 18 Dec 2025 09:54:49 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/ms13089?e067d35f3cb821a65552bb818141f7e7",
+      "group": "Ms13089",
+      "victim": "uro.com",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Osiris has just published a new victim : The Araneta Group",
+      "link": "https://www.ransomware.live/id/VGhlIEFyYW5ldGEgR3JvdXBAb3Npcmlz",
+      "summary": "The Araneta Group is a private, diversified conglomerate in the Philippines — active in property development, food service, leisure &amp; entertainment, and hospitality — and is composed of five main business units including ACI, Inc., PPI Holdings Inc., Uniprom Inc., Araneta Hotels Inc. and Progressive Development Corporation.  aranetacity.com, aranetagroup.com The group employs around 12,000 people.  While publicly available consolidated revenue figures for the entire group are not clearly disclosed, one of its listed related entities (separate from the core private group) — Araneta Properties, Inc. (PSE: ARA) — reported gross revenue of ₱706.7 million in 2024",
+      "pubDate": "Thu, 18 Dec 2025 09:29:57 +0000",
+      "category": "PH",
+      "guid": "https://www.ransomware.live/group/osiris?603c20528621956bb30d7ad8eb5856b5",
+      "group": "Osiris",
+      "victim": "The Araneta Group",
+      "country": "PH"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : deerfield.com (singulargenomics.com)",
       "link": "https://www.ransomware.live/id/ZGVlcmZpZWxkLmNvbSAoc2luZ3VsYXJnZW5vbWljcy5jb20pQGluY3JhbnNvbQ==",
@@ -2146,61 +2201,6 @@
       "group": "Nova",
       "victim": "Novabio (france laboratories)",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Cisneros",
-      "link": "https://www.ransomware.live/id/Q2lzbmVyb3NAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 10 Dec 2025 02:45:00 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?761b9182d5e5cd417dd4cabd4bd69c64",
-      "group": "Qilin",
-      "victim": "Cisneros",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : rainbowtel.net",
-      "link": "https://www.ransomware.live/id/cmFpbmJvd3RlbC5uZXRAaW5jcmFuc29t",
-      "summary": "Rainbow Communications offers reliable high-speed internet and phone services primarily in Northeast Kansas. \r They cater to both residential and business clients, providing essential connectivity solutions.\r \r We downloaded 200GB of selected information (accounting, HR, customer data, as well as confidential information).",
-      "pubDate": "Wed, 10 Dec 2025 01:27:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?578e26c676353b8bac3a9d9b03eeb686",
-      "group": "Incransom",
-      "victim": "rainbowtel.net",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Teruya Brothers Ltd",
-      "link": "https://www.ransomware.live/id/VGVydXlhIEJyb3RoZXJzIEx0ZEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Tue, 09 Dec 2025 23:50:01 +0000",
-      "category": "UY",
-      "guid": "https://www.ransomware.live/group/qilin?1796bcfad70948139022af0fa8763954",
-      "group": "Qilin",
-      "victim": "Teruya Brothers Ltd",
-      "country": "UY"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : CPS",
-      "link": "https://www.ransomware.live/id/Q1BTQHNpbm9iaQ==",
-      "summary": "CPS, Ltd. is a full-service engineering firm based in Grand Forks, ND, specializing in municipal engineering, transportation, water resources, solid waste management, and construction engineering. Established in 1979, the company aims to provide innovative, technically sound designs tailored to meet the unique needs of clients in communities, companies, and governmental agencies across North Dakota and northwest Minnesota. Their services also include land planning and surveying, ensuring accurate data and documentation for a variety of projects. CPS, Ltd. is committed to leveraging its experience and expertise to support clients in achieving successful project outcomes.",
-      "pubDate": "Tue, 09 Dec 2025 21:49:33 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?4da1d530768b1472b36b86e6665e70fe",
-      "group": "Sinobi",
-      "victim": "CPS",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : James Free Jewelers",
-      "link": "https://www.ransomware.live/id/SmFtZXMgRnJlZSBKZXdlbGVyc0BzaW5vYmk=",
-      "summary": "James Free Jewelers specializes in fine jewelry and diamonds, offering a selection of engagement rings, Swiss timepieces, and luxury jewelry from renowned designers such as Mikimoto and Roberto Coin. Their extensive collection includes rings, bracelets, necklaces, and watches from prestigious brands like Rolex and Tudor. The company also provides custom jewelry design, repair services, and financing options tailored for clients seeking high-quality pieces. With locations in Dayton and Cincinnati, they cater to both local and online customers looking for exquisite jewelry and timepieces.",
-      "pubDate": "Tue, 09 Dec 2025 19:56:56 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?18cf7bf3e52863677641b0386a30be1c",
-      "group": "Sinobi",
-      "victim": "James Free Jewelers",
-      "country": "US"
     }
   ]
 }
