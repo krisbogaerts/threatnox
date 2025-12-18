@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-18T13:30:38.744Z",
+  "updatedAt": "2025-12-18T14:14:56.216Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Farwest Fabrication",
+      "link": "https://www.ransomware.live/id/RmFyd2VzdCBGYWJyaWNhdGlvbkBha2lyYQ==",
+      "summary": "Farwest Fabrication specializes in steel fabrication, offering pr oducts such as pipe piling, structural and architectural steel. We will upload 45gb of corporate data soon. Employees information , financials, payment details, client files, NDAs, etc.",
+      "pubDate": "Thu, 18 Dec 2025 13:18:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?9404179b5c5622553e3c37a3f4cc9209",
+      "group": "Akira",
+      "victim": "Farwest Fabrication",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Telechaim",
       "link": "https://www.ransomware.live/id/VGVsZWNoYWltQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Urban Remedy",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Don Ricardo",
-      "link": "https://www.ransomware.live/id/RG9uIFJpY2FyZG9AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 10 Dec 2025 05:47:21 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?97bcc7756e12c695639bf26e5ea2ad45",
-      "group": "Qilin",
-      "victim": "Don Ricardo",
-      "country": ""
     }
   ]
 }
