@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-18T14:14:56.216Z",
+  "updatedAt": "2025-12-18T16:17:17.587Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Grandes Vinos",
+      "link": "https://www.ransomware.live/id/R3JhbmRlcyBWaW5vc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 18 Dec 2025 14:47:43 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?b246cff54fb6d17c44265d4a047b3e37",
+      "group": "Qilin",
+      "victim": "Grandes Vinos",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Morningstar Properties",
+      "link": "https://www.ransomware.live/id/TW9ybmluZ3N0YXIgUHJvcGVydGllc0Bha2lyYQ==",
+      "summary": "Morningstar Properties is a vertically integrated real estate dev eloper, owner, and operator specializing in self-storage and mari nas.  We will upload 44gb of corporate data soon. Employees personal do cuments (passports, DLs and other information), financials, clien t information, projects, confidential files, NDAs, etc.",
+      "pubDate": "Thu, 18 Dec 2025 14:09:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?9d5487090294c868256ec89c25cd3cd3",
+      "group": "Akira",
+      "victim": "Morningstar Properties",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Household & Commercial Products Association",
+      "link": "https://www.ransomware.live/id/SG91c2Vob2xkICYgQ29tbWVyY2lhbCBQcm9kdWN0cyBBc3NvY2lhdGlvbkBha2lyYQ==",
+      "summary": "HCPA, or the Household and Commercial Products Association, repre sents companies that manufacture and sell household and commercia l products, advocating for a sound business environment that prom otes safety and innovation. We will upload 23gb of corporate data soon. Employees, clients, p artners personal documents, financial information, a lot of proje cts files (many of them are confidential), production information , NDAs, etc.",
+      "pubDate": "Thu, 18 Dec 2025 14:09:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?c2142250e6579824ded19e954b7fcb30",
+      "group": "Akira",
+      "victim": "Household & Commercial Products Association",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Farwest Fabrication",
       "link": "https://www.ransomware.live/id/RmFyd2VzdCBGYWJyaWNhdGlvbkBha2lyYQ==",
@@ -2168,39 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "***.*** LAST TIMER UPDATE",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : CIDEF Argentina S.A.",
-      "link": "https://www.ransomware.live/id/Q0lERUYgQXJnZW50aW5hIFMuQS5AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 10 Dec 2025 05:49:10 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/qilin?be2318dfb39fbe6ae746e1b1df893a1c",
-      "group": "Qilin",
-      "victim": "CIDEF Argentina S.A.",
-      "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Sem Val de Bourgogne",
-      "link": "https://www.ransomware.live/id/U2VtIFZhbCBkZSBCb3VyZ29nbmVAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 10 Dec 2025 05:48:35 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/qilin?1a528470790a49eeb58c0eb4f1768edb",
-      "group": "Qilin",
-      "victim": "Sem Val de Bourgogne",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Urban Remedy",
-      "link": "https://www.ransomware.live/id/VXJiYW4gUmVtZWR5QHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 10 Dec 2025 05:47:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?6cee5f6a6298ee32002cd79b1b8f8038",
-      "group": "Qilin",
-      "victim": "Urban Remedy",
-      "country": "US"
     }
   ]
 }
