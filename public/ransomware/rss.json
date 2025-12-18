@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-18T08:17:37.960Z",
+  "updatedAt": "2025-12-18T09:18:19.880Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : deerfield.com (singulargenomics.com)",
+      "link": "https://www.ransomware.live/id/ZGVlcmZpZWxkLmNvbSAoc2luZ3VsYXJnZW5vbWljcy5jb20pQGluY3JhbnNvbQ==",
+      "summary": "Singular Genomics\r https://www.singulargenomics.com/\r \r \r The company, known for its next-generation sequencing technologies such as the G4® Sequencing Platform and the upcoming G4X™ Spatial Sequencer, is now focused on further innovation in genomic and spatial multiomics research.\r \r Singular Genomics Systems, Inc. is a life science technology company founded in 2016 that develops next-generation sequencing (NGS) and multiomics technologies to empower researchers and clinicians in advancing science and medicine.\r The company&#x27;s mission centers on leveraging its proprietary Sequencing Engine platform, which underpins its core product tenets of accuracy, speed, flexibility, and scale.\r Its commercially available G4 Sequencing Platform is a benchtop genomic sequencer designed for fast and accurate results, while the G4X Spatial Sequencer, an upgrade to the G4 platform, enables high-throughput in situ direct sequencing of RNA, targeted transcriptomics, and proteomics profiling from formalin-fixed, paraffin-embedded (FFPE) tissues.\r The company is also developing the PX Integrated Solution, a multiomics platform that combines single-cell analysis, spatial analysis, genomics, and proteomics in one instrument.\r As of February 21, 2025, Singular Genomics was taken private following the closing of an acquisition by Deerfield Management.\r The company is headquartered in San Diego, California, with additional operations in La Jolla.\r \r Target CEO:\r \r Drew Spaventa\r https://www.linkedin.com/in/drew-spaventa-98087213/\r \r Josh Stahl\r https://www.linkedin.com/in/joshua-stahl-77238627/\r \r Target Owner:\r \r James E. Flynn\r https://www.linkedin.com/in/james-flynn-99304a72/\r Deerfield Management Company, L.P.\r \r Singular Genomics is currently owned by Deerfield Management Company, L.P., following the completion of its acquisition on February 21, 2025.\r The transaction involved an affiliate of Deerfield acquiring all outstanding shares of Singular Genomics common stock not already owned by Deerfield for $20.00 per share in cash.\r As a result, Singular Genomics transitioned from a publicly traded company to a private entity, with the goal of providing greater strategic flexibility.\r The company&#x27;s new leadership includes Josh Stahl as Chief Executive Officer and Drew Spaventa, the co-founder, continuing on the board as a special advisor to the CEO.\r \r \r The data affected by this breach includes:\r \r Source Codes\r Biological Data\r Experemental Data\r Client Data\r Personal Data (PII)\r Staff Data\r Financial Data\r Proposal Contracts\r NDA&#x27;s\r Internal Documents\r Service Agreements\r \r Breach size:\r \r 20TB\r \r Breach review:\r \r Singular Genomics Systems, Inc., a U.S.-based life-science technology company developing high-throughput spatial multiomics and next-generation sequencing platforms, experienced a data breach discovered on September 11, 2025.\r The threat actor involved was identified as INC_RANSOM.\r The breach is currently under investigation, and the leak size remains unknown.\r The incident highlights growing concerns about cybersecurity in the genomics sector, where biological data is increasingly processed through digital pipelines vulnerable to cyber threats.\r https://www.breachsense.com/breaches/singular-genomics-systems-data-breach/\r \r \r Research Genomes:\r \r Bacillus_cereus\r bcereus\r clost\r danio_rerio\r ecoli\r epr\r grch38\r metaphlan4_databases\r mm10\r Mycobacterium_tuberculosis\r phep\r phix\r phixil\r plasmodium_falciparum\r pse\r rhodo\r Rhodobacter_sphaeroides\r roche\r ruber\r sal\r spc\r staph\r synthetic_allen\r synthetic_allen_hp1\r synthetic_allen_hp2\r tb\r \r \r \r \r \r This company does not show any interest in solving its problem. She doesn&#x27;t care about the security of her data and the research of her customers.",
+      "pubDate": "Thu, 18 Dec 2025 07:54:29 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?71229850401e089b7aca8f85366a0507",
+      "group": "Incransom",
+      "victim": "deerfield.com (singulargenomics.com)",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Termite has just published a new victim : MedHelp",
       "link": "https://www.ransomware.live/id/TWVkSGVscEB0ZXJtaXRl",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "James Free Jewelers",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Clean Air",
-      "link": "https://www.ransomware.live/id/Q2xlYW4gQWlyQHNpbm9iaQ==",
-      "summary": "Baker Co. specializes in the engineering, testing, and manufacturing of made-to-order laboratory safety equipment, boasting over 100 years of industry experience. Their product offerings include biological safety cabinets, clean benches, pharmaceutical isolators, and fume hoods, among others. The company serves various sectors including biotechnology, pharmaceuticals, microbiology, and life sciences. With a commitment to biosafety and contamination control, Baker Co. collaborates with scientific partners to provide tailored solutions for laboratory automation and precision cell culture.",
-      "pubDate": "Tue, 09 Dec 2025 19:56:36 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?8909f4473792c5ec24ea47bc77f0fc0d",
-      "group": "Sinobi",
-      "victim": "Clean Air",
-      "country": ""
     }
   ]
 }
