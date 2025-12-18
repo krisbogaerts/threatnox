@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-18T16:17:17.587Z",
+  "updatedAt": "2025-12-18T17:16:24.031Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Tlechaim",
+      "link": "https://www.ransomware.live/id/VGxlY2hhaW1AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 18 Dec 2025 16:43:31 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?4915806fb8fe3f54870806127d8c82b7",
+      "group": "Qilin",
+      "victim": "Tlechaim",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : L.O. Trading",
+      "link": "https://www.ransomware.live/id/TC5PLiBUcmFkaW5nQGx5bng=",
+      "summary": "L.O. Trading is a leading Technical Trading and Logistics Company that specializes in raw materials, industrial purchases, logistics operations, and inland freight services. They cater to clients across North America, Europe, South America, Central America, and Asia, providing solutions for sourcing, buying, and transporting goods. The company emphasizes personalized customer service and competitive pricing, ensuring the best logistic solutions and discounts on freights. With a trusted history since 1993, L.O. Trading focuses on building long-lasting commercial relationships",
+      "pubDate": "Thu, 18 Dec 2025 16:39:07 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lynx?f50e049f0ff6733a74153efa5061b12d",
+      "group": "Lynx",
+      "victim": "L.O. Trading",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Phillips Scales",
+      "link": "https://www.ransomware.live/id/UGhpbGxpcHMgU2NhbGVzQGFraXJh",
+      "summary": "Phillips Scales Alaska is the largest distributor of commercial a nd industrial scales in the state, offering a wide range of produ cts including airport, bench, crane, floor, retail, and truck sca les. We will upload 10gb of corporate data soon. Employees personal do cuments (passports, DLs, SSNs and other information), detailed fi nancial information, client information, projects, NDAs, etc.",
+      "pubDate": "Thu, 18 Dec 2025 16:18:42 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?927983079e84bb194c64bf04acd37b84",
+      "group": "Akira",
+      "victim": "Phillips Scales",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Associated Thermoforming",
+      "link": "https://www.ransomware.live/id/QXNzb2NpYXRlZCBUaGVybW9mb3JtaW5nQGFraXJh",
+      "summary": "Associated Thermoforming offers a full range of services. ATI spe cializes in technically challenging custom thermoforming solution s, including vacuum forming, pressure forming, and twin sheet for ming. We will upload 582gb of corporate data soon. Employees personal d ocuments (passports, DLs and so on), financial information, clien t information, numerous projects, NDAs, confidential files, etc.",
+      "pubDate": "Thu, 18 Dec 2025 16:18:36 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?d89e06db81aa2e24b810a2d74fc2416b",
+      "group": "Akira",
+      "victim": "Associated Thermoforming",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Grandes Vinos",
       "link": "https://www.ransomware.live/id/R3JhbmRlcyBWaW5vc0BxaWxpbg==",
@@ -2157,50 +2201,6 @@
       "group": "Akira",
       "victim": "Kirby Agri",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : LINEMASTER Switch",
-      "link": "https://www.ransomware.live/id/TElORU1BU1RFUiBTd2l0Y2hAYWtpcmE=",
-      "summary": "Linemaster Switch Corporation is a trusted manufacturer of medica l and industrial footswitches, offering both custom and stock sol utions with over 70 years of experience and ISO 13485 certificati on. We will upload about 25gb of corporate data soon. Employee inform ation (passports, DLs and so on), detailed financials, customer i nformation, projects, NDAs, etc.",
-      "pubDate": "Wed, 10 Dec 2025 16:18:45 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?288b09bd8597839b4a7a5a23b83a4874",
-      "group": "Akira",
-      "victim": "LINEMASTER Switch",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Brotherhood has just published a new victim : häussermann stauden gehölze gmbh",
-      "link": "https://www.ransomware.live/id/aMOkdXNzZXJtYW5uIHN0YXVkZW4gZ2Vow7ZsemUgZ21iaEBicm90aGVyaG9vZA==",
-      "summary": "Contains: 1 Gb Compressed Free Files, 26 Gb Compressed Paid Files",
-      "pubDate": "Wed, 10 Dec 2025 10:20:25 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/brotherhood?77b313acb93b5a6509843d32f9440a87",
-      "group": "Brotherhood",
-      "victim": "häussermann stauden gehölze gmbh",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Abyss has just published a new victim : dillonyarn.com",
-      "link": "https://www.ransomware.live/id/ZGlsbG9ueWFybi5jb21AYWJ5c3M=",
-      "summary": "Dillon Yarn is a distributor of spun, flat and industrial yarn, as well as other incidental textile items for use in textile and related industries.",
-      "pubDate": "Wed, 10 Dec 2025 10:17:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/abyss?e4c3460d849c8bf0160f72599f3d2c96",
-      "group": "Abyss",
-      "victim": "dillonyarn.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : ***.*** LAST TIMER UPDATE",
-      "link": "https://www.ransomware.live/id/KioqLioqKiBMQVNUIFRJTUVSIFVQREFURUB0aGVnZW50bGVtZW4=",
-      "summary": "1.5 terabytes of data stolen from one of Asia&#x27;s largest investment companies, with more than 10 billion USD under management. The stolen data includes: 1. Investment documentation: private placement memorandums, investment memos (Pre-IC/Final-IC), financial models and project budgets 2. Investor database (LP): complete limited partner information, investment terms, contacts, non-disclosure agreements 3. Portfolio companies: financial statements, strategic plans and operating metrics for 30+ companies under management 4. Active M&amp;A deals: documentation on 9+ projects, including due diligence and asset valuations 5. Corporate finances: salaries and bonuses for all employees (150+ people), department budgets, financial results 2022-2025 6. Strategic documents: Management Committee materials, top management biographies, corporate strategy, ESG policies 7. Legal documents: counterparty contracts, partner NDAs, regulatory documentation 8. Email correspondence: 500+ email files with deal approvals, negotiations and confidential management communications 9. CEO Office documents: leadership personal files and critical corporate secrets",
-      "pubDate": "Wed, 10 Dec 2025 07:59:07 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/thegentlemen?ac445e96868521b36d76e5d1390eff75",
-      "group": "Thegentlemen",
-      "victim": "***.*** LAST TIMER UPDATE",
-      "country": ""
     }
   ]
 }
