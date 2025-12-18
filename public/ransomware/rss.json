@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-18T12:24:22.500Z",
+  "updatedAt": "2025-12-18T13:30:38.744Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Telechaim",
+      "link": "https://www.ransomware.live/id/VGVsZWNoYWltQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 18 Dec 2025 13:03:13 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?7328789e4f5606b65d5504657989dc43",
+      "group": "Qilin",
+      "victim": "Telechaim",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Best Hotels Spain",
+      "link": "https://www.ransomware.live/id/QmVzdCBIb3RlbHMgU3BhaW5AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 18 Dec 2025 13:02:35 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?14ba7bb553c1335db9f13856643b76f2",
+      "group": "Qilin",
+      "victim": "Best Hotels Spain",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : The 200,000 Message Bombshell: Bennett’s Game is Over",
+      "link": "https://www.ransomware.live/id/VGhlIDIwMCwwMDAgTWVzc2FnZSBCb21ic2hlbGw6IEJlbm5ldHTigJlzIEdhbWUgaXMgT3ZlckBoYW5kYWxh",
+      "summary": "To Naftali Bennett, We watched your video with great amusement as you tried to brush off the truth, insisting that your phone was never hacked and all reports are fake. How desperate you must be, thinking that repeating a lie makes it any less false. It’s almost entertaining to see how confident you are in…",
+      "pubDate": "Thu, 18 Dec 2025 11:54:19 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?1fbde7eb7f31e86606ea32c686aec63f",
+      "group": "Handala",
+      "victim": "The 200,000 Message Bombshell: Bennett’s Game is Over",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : beausejourco-op.crs",
       "link": "https://www.ransomware.live/id/YmVhdXNlam91cmNvLW9wLmNyc0BkZXZtYW4=",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Don Ricardo",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Vestil Manufacturing",
-      "link": "https://www.ransomware.live/id/VmVzdGlsIE1hbnVmYWN0dXJpbmdAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 10 Dec 2025 05:46:44 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?54a1a18142273504c53b2810a4de03e1",
-      "group": "Qilin",
-      "victim": "Vestil Manufacturing",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Cdf",
-      "link": "https://www.ransomware.live/id/Q2RmQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 10 Dec 2025 05:46:07 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?ec4daf8ed2744d1fc766f5388614d561",
-      "group": "Qilin",
-      "victim": "Cdf",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Novabio (france laboratories)",
-      "link": "https://www.ransomware.live/id/Tm92YWJpbyAoZnJhbmNlIGxhYm9yYXRvcmllcylAbm92YQ==",
-      "summary": "Novabio is a medical biology laboratory that helps people across southwestern France get accurate health tests. Located in several regions including Dordogne and Gironde, the team runs complete medical examinations to support local communities&#x27; health needs. Their skilled professionals use modern equipment to deliver precise and reliable medical analysis for doctors and patients - the whole data of kalilab and france laboratories Data, Patients full informations, doctors informations, partners, finance, screening results, 500GB of data (millions of files) include PDFs, DOCs, XLSx, SQLs, SSH keys and lot more, network has encrypted, we are Ready to provide decryptor and delete full data, we will provide sample, reach us asap",
-      "pubDate": "Wed, 10 Dec 2025 05:44:00 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/nova?c3d8a3c6e7d33f2f69d2b627a329a321",
-      "group": "Nova",
-      "victim": "Novabio (france laboratories)",
-      "country": "FR"
     }
   ]
 }
