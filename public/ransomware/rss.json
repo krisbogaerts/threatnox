@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-19T22:12:36.253Z",
+  "updatedAt": "2025-12-19T23:12:13.300Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : RM Medics",
+      "link": "https://www.ransomware.live/id/Uk0gTWVkaWNzQHNpbm9iaQ==",
+      "summary": "RM Medics is a medical recruitment agency specializing in placing healthcare professionals, particularly locum doctors, in NHS hospitals throughout the UK. The company prides itself on its exceptional recruitment consultants and a commitment to providing quality assurance and compliance with NHS standards. With over 30 years of experience, RM Medics offers an out-of-hours service, ensuring quick and efficient solutions for hospitals in urgent need. Their client base primarily includes NHS hospitals requiring both temporary and permanent locum placements.",
+      "pubDate": "Fri, 19 Dec 2025 22:26:38 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/sinobi?91f28548b0fb500ab8c4898ed8662021",
+      "group": "Sinobi",
+      "victim": "RM Medics",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Turnamics",
+      "link": "https://www.ransomware.live/id/VHVybmFtaWNzQHNpbm9iaQ==",
+      "summary": "Turnamics, Inc. is a contract manufacturer based in Asheville, NC, specializing in short to medium production runs of machined parts since 1969. The company has evolved from a small turning shop into a world-class manufacturing operation, employing nearly 75 skilled individuals. Turnamics is committed to quality and utilizes advanced machining techniques to meet diverse manufacturing needs. Their services cater to clients seeking reliable and precise machining solutions.",
+      "pubDate": "Fri, 19 Dec 2025 22:26:21 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?7f41ce4f70c6ff387227af4d13ca1fe0",
+      "group": "Sinobi",
+      "victim": "Turnamics",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : North Star Asset Management",
       "link": "https://www.ransomware.live/id/Tm9ydGggU3RhciBBc3NldCBNYW5hZ2VtZW50QHNpbm9iaQ==",
@@ -2179,28 +2201,6 @@
       "group": "Devman",
       "victim": "***-***tems.***",
       "country": "UK"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Vishnick McGovern Milizio",
-      "link": "https://www.ransomware.live/id/VmlzaG5pY2sgTWNHb3Zlcm4gTWlsaXppb0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sat, 13 Dec 2025 18:22:33 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?974b17d674bfe8162b7edbde6b07c8af",
-      "group": "Qilin",
-      "victim": "Vishnick McGovern Milizio",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Wright Architectural Millwork",
-      "link": "https://www.ransomware.live/id/V3JpZ2h0IEFyY2hpdGVjdHVyYWwgTWlsbHdvcmtAYWtpcmE=",
-      "summary": "Wright Architectural Millwork specializes in high-quali ty architectural woodwork and has been in the industry  for 50 years. Here is the access to upload company data. Employee per sonal information (passport numbers, driver licenses, p hones, emails), financials, a bit of client data, contr acts and agreements, NDA, etc. We have made the process of downloading company data as simple as possible for our users. All you need is any  torrent client (like Vuze, Utorrent, qBittorrent or Tra nsmission to use magnet links). You will find the torre nt file above. Open uTorrent, or any another torrent client. Add torrent file or paste the magnet URL to upload the  data safely. Password wrightmw.com MAGNET URL: magnet:?xt=urn:btih:1A3C9D3A54290E0C5A17EE1784ADFA34899 C0D93&amp;dn=wrightmw&amp;tr=udp://tracker.openbittorrent.com:8 0/announce&amp;tr=udp://tracker.opentrackr.org:1337/announc e",
-      "pubDate": "Sat, 13 Dec 2025 17:46:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?e64fcad3993311d3a9156adb6427c253",
-      "group": "Akira",
-      "victim": "Wright Architectural Millwork",
-      "country": "US"
     }
   ]
 }
