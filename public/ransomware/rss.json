@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-19T09:16:05.981Z",
+  "updatedAt": "2025-12-19T10:13:47.285Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tridentlocker has just published a new victim : allenprinting",
+      "link": "https://www.ransomware.live/id/YWxsZW5wcmludGluZ0B0cmlkZW50bG9ja2Vy",
+      "summary": "[AI generated] Allen Printing is a Nashville-based company that offers commercial printing and direct mail services. They have been in business for over 80 years, providing a variety of services including digital printing, offset printing, bindery, and graphic design. Their clientele ranges from local businesses to renowned corporations. They pride themselves on their quality, service, and timely delivery.",
+      "pubDate": "Fri, 19 Dec 2025 09:40:01 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/tridentlocker?a95053ec10ea614e95ba295f3ae30cea",
+      "group": "Tridentlocker",
+      "victim": "allenprinting",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Josh Steel",
+      "link": "https://www.ransomware.live/id/Sm9zaCBTdGVlbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 19 Dec 2025 09:35:18 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?cd0d580de34fa8d921222da868e38a94",
+      "group": "Qilin",
+      "victim": "Josh Steel",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Shah Law Office",
+      "link": "https://www.ransomware.live/id/U2hhaCBMYXcgT2ZmaWNlQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 19 Dec 2025 09:34:41 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?8534d6bc45b945fdd9c63e191fc6bb3d",
+      "group": "Qilin",
+      "victim": "Shah Law Office",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : MG Chartered Professional Accountant",
+      "link": "https://www.ransomware.live/id/TUcgQ2hhcnRlcmVkIFByb2Zlc3Npb25hbCBBY2NvdW50YW50QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 19 Dec 2025 09:34:02 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?8b6ac068f5026db4374add2f7bd0279c",
+      "group": "Qilin",
+      "victim": "MG Chartered Professional Accountant",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : The Day of Reckoning Awaits the Child-Killers",
       "link": "https://www.ransomware.live/id/VGhlIERheSBvZiBSZWNrb25pbmcgQXdhaXRzIHRoZSBDaGlsZC1LaWxsZXJzQGhhbmRhbGE=",
@@ -2157,50 +2201,6 @@
       "group": "Rhysida",
       "victim": "Woodard, Emhardt, Henry, Reeves & Wagner, LLP",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : WJ Professional",
-      "link": "https://www.ransomware.live/id/V0ogUHJvZmVzc2lvbmFsQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Thu, 11 Dec 2025 14:47:09 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?0d1c7c79438cd3d13ab08b433a241652",
-      "group": "Qilin",
-      "victim": "WJ Professional",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Nepes",
-      "link": "https://www.ransomware.live/id/TmVwZXNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 11 Dec 2025 14:46:29 +0000",
-      "category": "KR",
-      "guid": "https://www.ransomware.live/group/qilin?b433989aef196a8dc48d0d65848c8555",
-      "group": "Qilin",
-      "victim": "Nepes",
-      "country": "KR"
-    },
-    {
-      "title": "🏴‍☠️ Kazu has just published a new victim : Leadway Assurance",
-      "link": "https://www.ransomware.live/id/TGVhZHdheSBBc3N1cmFuY2VAa2F6dQ==",
-      "summary": "Leadway Assurance Company Limited is the leading insurance provider in Nigeria, offering a comprehensive range of products including life, education, auto, travel, health, and property insurance. The company caters to both individual and business clients, providing solutions such as wealth management and prompt claims processing. With a commitment to customer satisfaction, Leadway ensures financial security for customers and their assets through tailored insurance plans. Established in 1970, Leadway is recognized for its reliability and proactive service in the insurance sector.",
-      "pubDate": "Thu, 11 Dec 2025 14:19:00 +0000",
-      "category": "NG",
-      "guid": "https://www.ransomware.live/group/kazu?169959ad550e0cbea4336a6875585381",
-      "group": "Kazu",
-      "victim": "Leadway Assurance",
-      "country": "NG"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : ABECO Zumtech Drucklufttechnik AG Müliweg",
-      "link": "https://www.ransomware.live/id/QUJFQ08gWnVtdGVjaCBEcnVja2x1ZnR0ZWNobmlrIEFHIE3DvGxpd2VnQGFraXJh",
-      "summary": "ABECO   Zumtech Drucklufttechnik AG designs and implements cost-e ffective compressed air systems in Switzerland.   We will upload  corporate data soon. Employee information (German IDs, DLs, passp orts, phones, address and so on), financials, client and customer information, contracts and agreements, etc.",
-      "pubDate": "Thu, 11 Dec 2025 13:18:16 +0000",
-      "category": "CH",
-      "guid": "https://www.ransomware.live/group/akira?86660f2946e7cf707618917816b652f9",
-      "group": "Akira",
-      "victim": "ABECO Zumtech Drucklufttechnik AG Müliweg",
-      "country": "CH"
     }
   ]
 }
