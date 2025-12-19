@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-12-19T14:13:09.325Z",
+  "updatedAt": "2025-12-19T15:13:24.637Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Melsing",
+      "link": "https://www.ransomware.live/id/TWVsc2luZ0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 19 Dec 2025 14:46:32 +0000",
+      "category": "DK",
+      "guid": "https://www.ransomware.live/group/qilin?31de8e3cb91629071d21995791ca303c",
+      "group": "Qilin",
+      "victim": "Melsing",
+      "country": "DK"
+    },
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : OGI Groupe",
+      "link": "https://www.ransomware.live/id/T0dJIEdyb3VwZUB3b3JsZGxlYWtz",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Fri, 19 Dec 2025 14:25:43 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/worldleaks?24ccca745453c198a7d80c3080922252",
+      "group": "Worldleaks",
+      "victim": "OGI Groupe",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Colonial Metals",
+      "link": "https://www.ransomware.live/id/Q29sb25pYWwgTWV0YWxzQGRyYWdvbmZvcmNl",
+      "summary": "Colonial Metals, Inc. is a full-service global supplier specializing in over 600 precious metal-based chemicals and services. The company is dedicated to providing personal and reliable customer service, fostering trust and comfort among its clients. Committed to sustainability, Colonial Metals aims to reduce greenhouse gas emissions by 25% by 2030 through various environmental initiatives. Their product offerings include refining services, analytical capabilities, and custom synthesis for various industrial markets",
+      "pubDate": "Fri, 19 Dec 2025 14:15:36 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?99653d3668363bf93d8b15c56c6e8485",
+      "group": "Dragonforce",
+      "victim": "Colonial Metals",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Cloak has just published a new victim : ****patr**h**s.com",
+      "link": "https://www.ransomware.live/id/KioqKnBhdHIqKmgqKnMuY29tQGNsb2Fr",
+      "summary": "",
+      "pubDate": "Fri, 19 Dec 2025 14:13:24 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/cloak?9a143bdff3ab302346fa1a8c21b5b4fe",
+      "group": "Cloak",
+      "victim": "****patr**h**s.com",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Cloak has just published a new victim : *****l*****.us",
+      "link": "https://www.ransomware.live/id/KioqKipsKioqKioudXNAY2xvYWs=",
+      "summary": "",
+      "pubDate": "Fri, 19 Dec 2025 14:13:21 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/cloak?149f195359df5b1c71a67075eb416eab",
+      "group": "Cloak",
+      "victim": "*****l*****.us",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Flavor Producers",
       "link": "https://www.ransomware.live/id/Rmxhdm9yIFByb2R1Y2Vyc0B0aGVnZW50bGVtZW4=",
@@ -2146,61 +2201,6 @@
       "group": "Spacebears",
       "victim": "Anderson Engineering",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Warrior Crane Service",
-      "link": "https://www.ransomware.live/id/V2FycmlvciBDcmFuZSBTZXJ2aWNlQGFraXJh",
-      "summary": "Warrior Crane is a leading provider of specialized crane lifting  services, delivering customized solutions to diverse industries.  We will upload 22gb of corporate data soon. Employee information  (DLs, passports, phones, address and so on), financials, client i nformation, contracts and agreements, confidentiality agreements, etc.",
-      "pubDate": "Fri, 12 Dec 2025 13:20:11 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?af9537ded450cb1b1dfc6f296cb0f9ed",
-      "group": "Akira",
-      "victim": "Warrior Crane Service",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : *****.com",
-      "link": "https://www.ransomware.live/id/KioqKiouY29tQHRoZWdlbnRsZW1lbg==",
-      "summary": "The entire infrastructure of a major regional retail grocery network—comprising approximately 80 grocery stores, about 40 liquor outlets, and roughly 50 pharmacies, along with its franchise operations—has been compromised, with all data stolen and encrypted. The targeted company reports an annual revenue of $1.4 to $1.8 billion (according to various 2025 estimates). The exfiltrated data includes all insurance payouts (even detailed records of payouts to families of deceased employees, listing cause of death and amounts paid), complete personnel records for all employees and executives (containing SSN, date of birth, full name, address, passport details, and W-9 forms), every financial document, records of active deals and income/expenses, as well as all documentation and insurance records for the company&#x27;s movable and immovable property. http://i2ohjeeqe37jre4f2u7pyq73cbm6lecumdxapkvrlryna6rc3it4zsid.onion (your key in Tox Chat)",
-      "pubDate": "Fri, 12 Dec 2025 11:56:03 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/thegentlemen?2a14256a7605bf1bede4f42df4a5d42d",
-      "group": "Thegentlemen",
-      "victim": "*****.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : Quezon Power",
-      "link": "https://www.ransomware.live/id/UXVlem9uIFBvd2VyQGRldm1hbg==",
-      "summary": "Employee data, hr info, projects, Work logs of the power plants, Scada SRC",
-      "pubDate": "Fri, 12 Dec 2025 09:20:28 +0000",
-      "category": "PH",
-      "guid": "https://www.ransomware.live/group/devman?ed94c12037cef21a056cded7e595381d",
-      "group": "Devman",
-      "victim": "Quezon Power",
-      "country": "PH"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : Hopital La Rabta",
-      "link": "https://www.ransomware.live/id/SG9waXRhbCBMYSBSYWJ0YUBkZXZtYW4=",
-      "summary": "[AI generated] Hopital La Rabta is a major hospital located in Tunis, Tunisia. It provides a wide array of medical services to the Tunisian population. The hospital prides itself on its team of highly skilled and dedicated medical professionals who utilize advanced medical equipment to effectively diagnose and treat diseases. It offers surgical services, specialty medicine, emergency care, and outpatient services.",
-      "pubDate": "Fri, 12 Dec 2025 09:19:17 +0000",
-      "category": "TN",
-      "guid": "https://www.ransomware.live/group/devman?8aab23497b22b955148ac6f9a1791fb5",
-      "group": "Devman",
-      "victim": "Hopital La Rabta",
-      "country": "TN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Greene Metal Products",
-      "link": "https://www.ransomware.live/id/R3JlZW5lIE1ldGFsIFByb2R1Y3RzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Fri, 12 Dec 2025 08:48:27 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?f35271b3a456519ff1847c47c367e374",
-      "group": "Qilin",
-      "victim": "Greene Metal Products",
-      "country": "US"
     }
   ]
 }
