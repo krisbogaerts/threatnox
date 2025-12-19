@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-19T11:11:33.777Z",
+  "updatedAt": "2025-12-19T12:22:54.981Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Larry Pitt & Associates",
+      "link": "https://www.ransomware.live/id/TGFycnkgUGl0dCAmIEFzc29jaWF0ZXNAcmh5c2lkYQ==",
+      "summary": "Larry Pitt &amp; Associates",
+      "pubDate": "Fri, 19 Dec 2025 11:31:44 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?32e7539468bbe7312d6e8a49d512c705",
+      "group": "Rhysida",
+      "victim": "Larry Pitt & Associates",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Club Atlético River Plate",
+      "link": "https://www.ransomware.live/id/Q2x1YiBBdGzDqXRpY28gUml2ZXIgUGxhdGVAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 19 Dec 2025 11:29:37 +0000",
+      "category": "AR",
+      "guid": "https://www.ransomware.live/group/qilin?54b33a377d4c5b0fa084116552e897c1",
+      "group": "Qilin",
+      "victim": "Club Atlético River Plate",
+      "country": "AR"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Solumek",
       "link": "https://www.ransomware.live/id/U29sdW1la0B0aGVnZW50bGVtZW4=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "The Parkes Companies",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Pear has just published a new victim : Iroquois Memorial Hospital",
-      "link": "https://www.ransomware.live/id/SXJvcXVvaXMgTWVtb3JpYWwgSG9zcGl0YWxAcGVhcg==",
-      "summary": "Cost-efficient, high quality, consumer-responsive health care services",
-      "pubDate": "Thu, 11 Dec 2025 21:44:02 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/pear?64f5633ac4343033a13f013a094fe72c",
-      "group": "Pear",
-      "victim": "Iroquois Memorial Hospital",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Dan Technologies Group",
-      "link": "https://www.ransomware.live/id/RGFuIFRlY2hub2xvZ2llcyBHcm91cEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Thu, 11 Dec 2025 17:40:55 +0000",
-      "category": "DK",
-      "guid": "https://www.ransomware.live/group/qilin?1f5421222c27320058536d5e3a9283ed",
-      "group": "Qilin",
-      "victim": "Dan Technologies Group",
-      "country": "DK"
     }
   ]
 }
