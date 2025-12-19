@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-19T16:15:18.346Z",
+  "updatedAt": "2025-12-19T17:12:11.211Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : MAT 4Site Engineers",
+      "link": "https://www.ransomware.live/id/TUFUIDRTaXRlIEVuZ2luZWVyc0Bha2lyYQ==",
+      "summary": "MAT 4Site specializes in creating optimal building systems tailor ed to clients&#x27; unique needs. They offer a range of services inclu ding consulting, project planning, engineering, and project manag ement to support various stages of construction projects. We will upload 90gb of corporate data soon. Personal documents (d river licenses and other docs), financials, customer information, confidential files, numerous project files, etc.",
+      "pubDate": "Fri, 19 Dec 2025 15:48:03 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/akira?88b8c3da122af20f5ec1f0d9d74e2513",
+      "group": "Akira",
+      "victim": "MAT 4Site Engineers",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Lockbit5 has just published a new victim : keystoliteracy.com",
       "link": "https://www.ransomware.live/id/a2V5c3RvbGl0ZXJhY3kuY29tQGxvY2tiaXQ1",
@@ -2190,17 +2201,6 @@
       "group": "Rhysida",
       "victim": "United Keetoowah Band of Cherokee Indians in Oklahoma",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : HKR Architects",
-      "link": "https://www.ransomware.live/id/SEtSIEFyY2hpdGVjdHNAZHJhZ29uZm9yY2U=",
-      "summary": "HKR Architects is a prominent international architecture and urban design practice founded in 1992, with offices located in London, Dublin, Dubai, and Abu Dhabi. The firm specializes in various sectors including living, working, staying, masterplanning, modular, and learning environments. Their services cater to a diverse range of clients seeking innovative architectural solutions. HKR Architects is committed to delivering high-quality design and planning services across multiple regions.",
-      "pubDate": "Fri, 12 Dec 2025 15:13:02 +0000",
-      "category": "IE",
-      "guid": "https://www.ransomware.live/group/dragonforce?171b3675262eead7b3dcc3dd5c9f8343",
-      "group": "Dragonforce",
-      "victim": "HKR Architects",
-      "country": "IE"
     }
   ]
 }
