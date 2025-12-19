@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-19T17:12:11.211Z",
+  "updatedAt": "2025-12-19T18:17:55.029Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : ********.com",
+      "link": "https://www.ransomware.live/id/KioqKioqKiouY29tQHRoZWdlbnRsZW1lbg==",
+      "summary": "Leading provider of tools and expert advice sports betting. They offer a comprehensive suite of simulation tools, projections, and data for various sports including NFL, NBA, MLB, and more.",
+      "pubDate": "Fri, 19 Dec 2025 17:58:13 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/thegentlemen?fa35cde75999566dae3d45f3a299f82f",
+      "group": "Thegentlemen",
+      "victim": "********.com",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Publicidad Sarmiento",
+      "link": "https://www.ransomware.live/id/UHVibGljaWRhZCBTYXJtaWVudG9AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 19 Dec 2025 17:54:21 +0000",
+      "category": "AR",
+      "guid": "https://www.ransomware.live/group/qilin?abb785820b9edf3633d2907d035970ad",
+      "group": "Qilin",
+      "victim": "Publicidad Sarmiento",
+      "country": "AR"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : Culinary Jet Concierge",
+      "link": "https://www.ransomware.live/id/Q3VsaW5hcnkgSmV0IENvbmNpZXJnZUBkZXZtYW4=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Fri, 19 Dec 2025 17:24:04 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/devman?a0c8b5a13ec9a408ba29c7a20b257a0a",
+      "group": "Devman",
+      "victim": "Culinary Jet Concierge",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : MAT 4Site Engineers",
       "link": "https://www.ransomware.live/id/TUFUIDRTaXRlIEVuZ2luZWVyc0Bha2lyYQ==",
@@ -2168,39 +2201,6 @@
       "group": "Obscura",
       "victim": "Startek Engineering Inc.",
       "country": "TW"
-    },
-    {
-      "title": "🏴‍☠️ Obscura has just published a new victim : StanleyCo Malaysia",
-      "link": "https://www.ransomware.live/id/U3RhbmxleUNvIE1hbGF5c2lhQG9ic2N1cmE=",
-      "summary": "StanleyCo Malaysia provides expert accounting, tax advisory, company incorporation, and compliance services for local and foreign businesses in Malaysia.",
-      "pubDate": "Fri, 12 Dec 2025 22:11:00 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/obscura?8a9b69a3fa0bba8ce3122b57a871ee0d",
-      "group": "Obscura",
-      "victim": "StanleyCo Malaysia",
-      "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Obscura has just published a new victim : New Obscura 2.0!",
-      "link": "https://www.ransomware.live/id/TmV3IE9ic2N1cmEgMi4wIUBvYnNjdXJh",
-      "summary": "We present the new version of Obscura 2.0. Faster encryption mechanisms, bugs fixed in the first version, more covert operation, and more upset companies. Now you can rent our software. You can write to us on Tox, where we will tell you about the terms and conditions.",
-      "pubDate": "Fri, 12 Dec 2025 22:10:36 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/obscura?1202a544c94eb1f4ea03d0a5303fb105",
-      "group": "Obscura",
-      "victim": "New Obscura 2.0!",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : United Keetoowah Band of Cherokee Indians in Oklahoma",
-      "link": "https://www.ransomware.live/id/VW5pdGVkIEtlZXRvb3dhaCBCYW5kIG9mIENoZXJva2VlIEluZGlhbnMgaW4gT2tsYWhvbWFAcmh5c2lkYQ==",
-      "summary": "United Keetoowah Band of Cherokee Indians in Oklahoma",
-      "pubDate": "Fri, 12 Dec 2025 16:56:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?691474e2594c046d8b067a4cc5cc1d8f",
-      "group": "Rhysida",
-      "victim": "United Keetoowah Band of Cherokee Indians in Oklahoma",
-      "country": "US"
     }
   ]
 }
