@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-19T12:22:54.981Z",
+  "updatedAt": "2025-12-19T13:27:39.995Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : The Genesis Group",
+      "link": "https://www.ransomware.live/id/VGhlIEdlbmVzaXMgR3JvdXBAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 19 Dec 2025 12:38:02 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?4634aacd1ec0f9eced2cf10d6b497a36",
+      "group": "Qilin",
+      "victim": "The Genesis Group",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Maison Law",
+      "link": "https://www.ransomware.live/id/TWFpc29uIExhd0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 19 Dec 2025 12:37:22 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?54d219d4695a3e3039d42ae4a386ad27",
+      "group": "Qilin",
+      "victim": "Maison Law",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Larry Pitt & Associates",
       "link": "https://www.ransomware.live/id/TGFycnkgUGl0dCAmIEFzc29jaWF0ZXNAcmh5c2lkYQ==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?def1b4839710ceafd45e0653bd02ec76",
       "group": "Qilin",
       "victim": "Spitzer Auto Group",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Oxford Rehabilitation Center",
-      "link": "https://www.ransomware.live/id/T3hmb3JkIFJlaGFiaWxpdGF0aW9uIENlbnRlckBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Fri, 12 Dec 2025 06:50:53 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?226a46b1cf5e5e2939d77a0e9202cb14",
-      "group": "Qilin",
-      "victim": "Oxford Rehabilitation Center",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : The Parkes Companies",
-      "link": "https://www.ransomware.live/id/VGhlIFBhcmtlcyBDb21wYW5pZXNAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Fri, 12 Dec 2025 06:50:16 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?8fdf4dfc2f54e721d468a2d8630d94db",
-      "group": "Qilin",
-      "victim": "The Parkes Companies",
       "country": "US"
     }
   ]
