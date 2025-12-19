@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-19T20:13:54.638Z",
+  "updatedAt": "2025-12-19T21:11:24.464Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : eagrealtyinternational.com",
+      "link": "https://www.ransomware.live/id/ZWFncmVhbHR5aW50ZXJuYXRpb25hbC5jb21AaW5jcmFuc29t",
+      "summary": "COMPOSITION OF FIRMS:\r \r >svlawus.com\r Sanchez Vadillo LLP is a full-service boutique law firm established in 1999, dedicated to providing strategic and efficient legal counsel to individuals, businesses, and financial institutions. The firm specializes in various practice areas including business closings, civil litigation, corporate counsel, family law, immigration, and real estate transactions. With a team of 10 attorneys and 30 staff members, they prioritize professionalism and exceptional client solutions. Their commitment to excellence is reflected in numerous awards, including multiple Top Producer recognitions from Old Republic Title Insurance.\r Employees: 50\r Revenue: $6.3 Million\r Industry: Law Firms &amp; Legal Services  \r Phone Number: (305) 436-1410\r \r >eagrealtyinternational.com \r EAG Realty International specializes in assisting clients with buying, selling, and leasing real estate properties, including residential and commercial options in the South Florida area and internationally. The company is committed to providing a high degree of service and professionalism, ensuring a smooth and pleasurable experience for its clients. With a team of licensed real estate agents, EAG Realty offers expert guidance in property valuation and market insights. Their clientele includes individual buyers and sellers, as well as international investors seeking property opportunities.\r Employees: 200\r Revenue: $17.7 Million\r Industry: Real Estate\r Phone Number: (305) 477-4413\r \r >torresvadillollp.com \r Employees: 50\r Revenue: $5 Million\r Industry: Law Firms &amp; Legal Services  \r Phone Number: (214) 295-8473\r \r >mytitlelogic.com\r Employees: 50\r Revenue: $5 Million\r Industry: Consumer Services\r Phone Number: (727) 823-7778",
+      "pubDate": "Fri, 19 Dec 2025 19:54:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?a3639ecb9b20b8c82d95865c60be791f",
+      "group": "Incransom",
+      "victim": "eagrealtyinternational.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : consult*****.c**",
       "link": "https://www.ransomware.live/id/Y29uc3VsdCoqKioqLmMqKkBkZXZtYW4=",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Jabezco Industrial Group",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Choates HVAC",
-      "link": "https://www.ransomware.live/id/Q2hvYXRlcyBIVkFDQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Sat, 13 Dec 2025 16:59:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?d7e65c941dcd6cda9cf7a4a08d24724d",
-      "group": "Play",
-      "victim": "Choates HVAC",
-      "country": "US"
     }
   ]
 }
