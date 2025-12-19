@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-19T10:13:47.285Z",
+  "updatedAt": "2025-12-19T11:11:33.777Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Solumek",
+      "link": "https://www.ransomware.live/id/U29sdW1la0B0aGVnZW50bGVtZW4=",
+      "summary": "www.solumeksa.com https://www.zoominfo.com/c/solumek-sa/426355528 Solumek SAS specializes in providing comprehensive solutions that range from photovoltaic solar energy to roadway management and innovative technology. Their services include environmental management, road safety strategies, energy solutions, and the design and construction of Construction Development Areas (CDAs) while ensuring compliance and quality. They are focused on enhancing mobility and safety through strategic partnerships, such as their work with the National Road Safety Agency and regional transport authorities. Solumek is committed to sustainability and improving the quality of life in communities by implementing solar energy solutions in rural areas and measuring emissions from mobile sources.",
+      "pubDate": "Fri, 19 Dec 2025 10:32:55 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/thegentlemen?280197fb3899583c61495bb9432dbe06",
+      "group": "Thegentlemen",
+      "victim": "Solumek",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Lawsoft",
+      "link": "https://www.ransomware.live/id/TGF3c29mdEByYW5zb21ob3VzZQ==",
+      "summary": "LawSoft, Inc. specializes in providing scalable and customizable software solutions for law enforcement agencies, including Computer-Aided Dispatch (CAD), Records Management Systems (RMS), and Fire EMS systems. Their products aim to streamline reporting and data integration, boasting a user-friendly design and incorporating legacy system data for a cohesive experience.",
+      "pubDate": "Fri, 19 Dec 2025 10:27:21 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/ransomhouse?81b228f425f57d7aeb7da7fb00aba86d",
+      "group": "Ransomhouse",
+      "victim": "Lawsoft",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Tridentlocker has just published a new victim : allenprinting",
       "link": "https://www.ransomware.live/id/YWxsZW5wcmludGluZ0B0cmlkZW50bG9ja2Vy",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Dan Technologies Group",
       "country": "DK"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Northern Air Systems(2)",
-      "link": "https://www.ransomware.live/id/Tm9ydGhlcm4gQWlyIFN5c3RlbXMoMilAYWtpcmE=",
-      "summary": "Northern Air Systems has been a leading manufacturer of high-qual ity HVAC systems for commercial and industrial applications for n early three decades. As you could have noticed, we&#x27;ve made it 2nd time to penetrate to their systems and locked almost 90 vms. At this time we&#x27;ve taken five times more data (150gb) and we will upload the files soon.  Detailed employee information (i-9 forms, passports, DLs, medical information, pictures and so on), client data (DLs, addresses, e mails), detailed financials, lots of projects information, contra cts and agreements, numerous NDAs, etc.",
-      "pubDate": "Thu, 11 Dec 2025 15:08:53 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?10d79a3ea27d7d7712e95ae0d514299f",
-      "group": "Akira",
-      "victim": "Northern Air Systems(2)",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : Woodard, Emhardt, Henry, Reeves & Wagner, LLP",
-      "link": "https://www.ransomware.live/id/V29vZGFyZCwgRW1oYXJkdCwgSGVucnksIFJlZXZlcyAmIFdhZ25lciwgTExQQHJoeXNpZGE=",
-      "summary": "Woodard, Emhardt, Henry, Reeves &amp; Wagner, LLP",
-      "pubDate": "Thu, 11 Dec 2025 14:49:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/rhysida?796474ce59ad0e73aaba04f2aaf5bed9",
-      "group": "Rhysida",
-      "victim": "Woodard, Emhardt, Henry, Reeves & Wagner, LLP",
-      "country": "US"
     }
   ]
 }
