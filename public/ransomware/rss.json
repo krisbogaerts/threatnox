@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-19T19:10:24.695Z",
+  "updatedAt": "2025-12-19T20:13:54.638Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : consult*****.c**",
+      "link": "https://www.ransomware.live/id/Y29uc3VsdCoqKioqLmMqKkBkZXZtYW4=",
+      "summary": "Financial, HR data",
+      "pubDate": "Fri, 19 Dec 2025 19:47:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?c6ae9197ba3f621ba4ae979cc07475ac",
+      "group": "Devman",
+      "victim": "consult*****.c**",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : *n**e-ai",
+      "link": "https://www.ransomware.live/id/Km4qKmUtYWlAZGV2bWFu",
+      "summary": "SRC, Client data",
+      "pubDate": "Fri, 19 Dec 2025 19:46:07 +0000",
+      "category": "CN",
+      "guid": "https://www.ransomware.live/group/devman?06279ef375abb27bd76b6320d86f9991",
+      "group": "Devman",
+      "victim": "*n**e-ai",
+      "country": "CN"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : ****s*oc****.com",
+      "link": "https://www.ransomware.live/id/KioqKnMqb2MqKioqLmNvbUBkZXZtYW4=",
+      "summary": "Financial, Client IDS",
+      "pubDate": "Fri, 19 Dec 2025 19:44:49 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/devman?a1c847024e650a5d21bf0ae5fecdc0de",
+      "group": "Devman",
+      "victim": "****s*oc****.com",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : rogitz.com",
       "link": "https://www.ransomware.live/id/cm9naXR6LmNvbUBzYWZlcGF5",
@@ -2168,39 +2201,6 @@
       "group": "Play",
       "victim": "Choates HVAC",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Viga Eatery",
-      "link": "https://www.ransomware.live/id/VmlnYSBFYXRlcnlAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Sat, 13 Dec 2025 16:58:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?50d4e4174c0a20df0fc79a9e15679492",
-      "group": "Play",
-      "victim": "Viga Eatery",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Eastman Cooke",
-      "link": "https://www.ransomware.live/id/RWFzdG1hbiBDb29rZUBwbGF5",
-      "summary": "United States",
-      "pubDate": "Sat, 13 Dec 2025 16:57:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?2ed7815feba430337bbc8a2872cb0a34",
-      "group": "Play",
-      "victim": "Eastman Cooke",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : ANG BROTHERS (M&E) PTE. LTD. (P4)",
-      "link": "https://www.ransomware.live/id/QU5HIEJST1RIRVJTIChNJkUpIFBURS4gTFRELiAoUDQpQG5vdmE=",
-      "summary": "ANG BROTHERS (M&amp;E) PTE. LTD. (the \"Company\") is a Exempt Private Company Limited by Shares, incorporated on 22 July 2002 (Monday) in Singapore . The address of the Company&#x27;s registered office is in the SHUN LI INDUSTRIAL PARK estate. The Company current operating status is live and has been operating for 23 years. This Company&#x27;s principal activity is plumbing, heating (non-electric) and air-conditioning with steam and air-conditioning supply as the secondary activity - Rest (full 2.5TB) Data opened for sell, contact us via our contacts to buy",
-      "pubDate": "Sat, 13 Dec 2025 16:56:21 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/nova?62b646bfb4c4824968df035ae9662281",
-      "group": "Nova",
-      "victim": "ANG BROTHERS (M&E) PTE. LTD. (P4)",
-      "country": "SG"
     }
   ]
 }
