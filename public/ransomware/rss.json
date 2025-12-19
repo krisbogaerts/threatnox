@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-19T21:11:24.464Z",
+  "updatedAt": "2025-12-19T22:12:36.253Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : North Star Asset Management",
+      "link": "https://www.ransomware.live/id/Tm9ydGggU3RhciBBc3NldCBNYW5hZ2VtZW50QHNpbm9iaQ==",
+      "summary": "North Star Asset Management, Inc. is a prominent independent SEC Registered Investment Advisory firm based in Wisconsin, managing nearly $3 billion in assets. They offer tailored investment management and retirement planning services for families, corporations, and endowments, always prioritizing client interests as fiduciaries. Their team consists of 11 investment professionals, including 9 CFA Charterholders and 2 CFP professionals, boasting over 200 years of combined investment experience. North Star is recognized for its personalized and independent financial advice, charging a fee of 0.6% of managed assets.",
+      "pubDate": "Fri, 19 Dec 2025 21:46:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?d2a89f8b0ef1d153e6a665f5907410d8",
+      "group": "Sinobi",
+      "victim": "North Star Asset Management",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : eagrealtyinternational.com",
       "link": "https://www.ransomware.live/id/ZWFncmVhbHR5aW50ZXJuYXRpb25hbC5jb21AaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Wright Architectural Millwork",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Jabezco Industrial Group",
-      "link": "https://www.ransomware.live/id/SmFiZXpjbyBJbmR1c3RyaWFsIEdyb3VwQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Sat, 13 Dec 2025 16:59:51 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?06bc3e7ebc33a245020d4eb3c42e4af3",
-      "group": "Play",
-      "victim": "Jabezco Industrial Group",
-      "country": ""
     }
   ]
 }
