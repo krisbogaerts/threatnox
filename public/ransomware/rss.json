@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-20T09:11:58.712Z",
+  "updatedAt": "2025-12-20T10:11:49.158Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Fujitsu Component (Malaysia) SDN. BHD",
+      "link": "https://www.ransomware.live/id/RnVqaXRzdSBDb21wb25lbnQgKE1hbGF5c2lhKSBTRE4uIEJIREBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 09:16:13 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/qilin?57fd134e025e48acb82f281225098453",
+      "group": "Qilin",
+      "victim": "Fujitsu Component (Malaysia) SDN. BHD",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Rio supermarket",
+      "link": "https://www.ransomware.live/id/UmlvIHN1cGVybWFya2V0QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 09:15:35 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?0205139ba13e24607c66e5d9930c1b5c",
+      "group": "Qilin",
+      "victim": "Rio supermarket",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : Deibel Laboratories",
       "link": "https://www.ransomware.live/id/RGVpYmVsIExhYm9yYXRvcmllc0BhbnViaXM=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Vlp Hellas",
       "country": "GR"
-    },
-    {
-      "title": "🏴‍☠️ Killsec has just published a new victim : dabafinance.com",
-      "link": "https://www.ransomware.live/id/ZGFiYWZpbmFuY2UuY29tQGtpbGxzZWM=",
-      "summary": "Price ??? Disclosures 0/1",
-      "pubDate": "Sun, 14 Dec 2025 01:53:00 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/killsec?c9d8c8b4913ed3e02b88b2d3da489a2a",
-      "group": "Killsec",
-      "victim": "dabafinance.com",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : CANCER",
-      "link": "https://www.ransomware.live/id/Q0FOQ0VSQGRldm1hbg==",
-      "summary": "Financial data, clients data",
-      "pubDate": "Sun, 14 Dec 2025 01:48:35 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/devman?d9bd83c30e44b2f3e94c6c902a0e4afe",
-      "group": "Devman",
-      "victim": "CANCER",
-      "country": "BR"
     }
   ]
 }
