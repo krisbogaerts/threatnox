@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2025-12-20T16:13:43.324Z",
+  "updatedAt": "2025-12-20T17:09:49.375Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Busbusbus",
+      "link": "https://www.ransomware.live/id/QnVzYnVzYnVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 16:56:47 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?d004bd39e8ed0a5fdf547e0105f326b9",
+      "group": "Qilin",
+      "victim": "Busbusbus",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Titan Motor Group",
+      "link": "https://www.ransomware.live/id/VGl0YW4gTW90b3IgR3JvdXBAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 16:56:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?9e6161307d67390e05860ce612351c50",
+      "group": "Qilin",
+      "victim": "Titan Motor Group",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Dolan Construction",
+      "link": "https://www.ransomware.live/id/RG9sYW4gQ29uc3RydWN0aW9uQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 16:55:33 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?8642ac056976b0a5b33c6ead043fcc7e",
+      "group": "Qilin",
+      "victim": "Dolan Construction",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Egp Comunicaciones Sac",
+      "link": "https://www.ransomware.live/id/RWdwIENvbXVuaWNhY2lvbmVzIFNhY0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 16:54:55 +0000",
+      "category": "PE",
+      "guid": "https://www.ransomware.live/group/qilin?2c930073fddd11a01b80fda780fcf9a6",
+      "group": "Qilin",
+      "victim": "Egp Comunicaciones Sac",
+      "country": "PE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Victoria Benelux",
+      "link": "https://www.ransomware.live/id/VmljdG9yaWEgQmVuZWx1eEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 16:54:18 +0000",
+      "category": "BE",
+      "guid": "https://www.ransomware.live/group/qilin?0945bc26f4efa1ffced76d02d6e23a31",
+      "group": "Qilin",
+      "victim": "Victoria Benelux",
+      "country": "BE"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : IAPMO",
       "link": "https://www.ransomware.live/id/SUFQTU9AcWlsaW4=",
@@ -2146,61 +2201,6 @@
       "group": "Qilin",
       "victim": "Kier & Wright",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : teccart.qc.ca",
-      "link": "https://www.ransomware.live/id/dGVjY2FydC5xYy5jYUBzYWZlcGF5",
-      "summary": "Founded in 1945, the institution has a long history of delivering practical, career-focused education in technology, design, business, management, arts, …",
-      "pubDate": "Sun, 14 Dec 2025 20:41:22 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/safepay?1cf728f250bf14000cad749f3780a249",
-      "group": "Safepay",
-      "victim": "teccart.qc.ca",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : sbws.org.sg",
-      "link": "https://www.ransomware.live/id/c2J3cy5vcmcuc2dAc2FmZXBheQ==",
-      "summary": "Singapore Buddhist Welfare Services (SBWS) is a well-established voluntary welfare organisation (VWO) in Singapore that focuses on holistic, community-based support …",
-      "pubDate": "Sun, 14 Dec 2025 20:40:46 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/safepay?0daabde57a29cfd34aaabb0234e3a620",
-      "group": "Safepay",
-      "victim": "sbws.org.sg",
-      "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : fest-group.de",
-      "link": "https://www.ransomware.live/id/ZmVzdC1ncm91cC5kZUBzYWZlcGF5",
-      "summary": "FEST Group is a German engineering and industrial technology company headquartered in Goslar. It specialises in advanced automation, electrification and …",
-      "pubDate": "Sun, 14 Dec 2025 20:40:12 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?f79633d307277488e506e94ca326c02c",
-      "group": "Safepay",
-      "victim": "fest-group.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : lampus.com",
-      "link": "https://www.ransomware.live/id/bGFtcHVzLmNvbUBzYWZlcGF5",
-      "summary": "R.I. Lampus Company, operating the domain Lampus.com, is a long-established American manufacturer and distributor in the building materials industry. Founded …",
-      "pubDate": "Sun, 14 Dec 2025 20:39:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?27bab3f0a7070fd72c393bebc8700906",
-      "group": "Safepay",
-      "victim": "lampus.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : inttrust.gr",
-      "link": "https://www.ransomware.live/id/aW50dHJ1c3QuZ3JAc2FmZXBheQ==",
-      "summary": "InTTrust S.A. is a Greek information technology and consulting firm headquartered in Agia Paraskevi, Athens. Founded in 2006, the company …",
-      "pubDate": "Sun, 14 Dec 2025 20:39:02 +0000",
-      "category": "GR",
-      "guid": "https://www.ransomware.live/group/safepay?0b347b6471b682c9d58ddbf9759a8668",
-      "group": "Safepay",
-      "victim": "inttrust.gr",
-      "country": "GR"
     }
   ]
 }
