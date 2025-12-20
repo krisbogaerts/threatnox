@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-20T15:11:28.902Z",
+  "updatedAt": "2025-12-20T16:13:43.324Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : IAPMO",
+      "link": "https://www.ransomware.live/id/SUFQTU9AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 15:26:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?3f00fa996534db554d727f63704a33cc",
+      "group": "Qilin",
+      "victim": "IAPMO",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Integrated Technology Group",
+      "link": "https://www.ransomware.live/id/SW50ZWdyYXRlZCBUZWNobm9sb2d5IEdyb3VwQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 20 Dec 2025 15:25:25 +0000",
+      "category": "JO",
+      "guid": "https://www.ransomware.live/group/qilin?b0b3c2ff02e7ea79b1aa76fbbcbcc925",
+      "group": "Qilin",
+      "victim": "Integrated Technology Group",
+      "country": "JO"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Unipres Alabama Inc.",
+      "link": "https://www.ransomware.live/id/VW5pcHJlcyBBbGFiYW1hIEluYy5AZHJhZ29uZm9yY2U=",
+      "summary": "Unipres is a leading manufacturer of press-formed automotive components in the world. It designs, develops and offers car body structural parts, including upper and lower car body parts, bumper parts, front side members, steering members , fuel tanks and transmission products.It started working in United Kingdom in 1987 and is headquartered in Sunderland. The company is a wholly owned subsidiary of Unipres Corporation",
+      "pubDate": "Sat, 20 Dec 2025 14:51:20 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?09fe54a547d1274d477454e154e7017b",
+      "group": "Dragonforce",
+      "victim": "Unipres Alabama Inc.",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Homestead Electrical Contracting",
       "link": "https://www.ransomware.live/id/SG9tZXN0ZWFkIEVsZWN0cmljYWwgQ29udHJhY3RpbmdAc2lub2Jp",
@@ -2168,39 +2201,6 @@
       "group": "Safepay",
       "victim": "inttrust.gr",
       "country": "GR"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : aysa.com.ar",
-      "link": "https://www.ransomware.live/id/YXlzYS5jb20uYXJAc2FmZXBheQ==",
-      "summary": "AYSA, formally known as Agua y Saneamientos Argentinos Sociedad Anónima, is Argentina’s largest state-owned water and sanitation utility, responsible for …",
-      "pubDate": "Sun, 14 Dec 2025 20:38:26 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/safepay?3b59c59b45456a4471e92fe430b32eae",
-      "group": "Safepay",
-      "victim": "aysa.com.ar",
-      "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : VFM Systems & Services (P) Ltd",
-      "link": "https://www.ransomware.live/id/VkZNIFN5c3RlbXMgJiBTZXJ2aWNlcyAoUCkgTHRkQGJsYWNrc2hyYW50YWM=",
-      "summary": "[AI generated] VFM Systems &amp; Services (P) Ltd is an India-based company that specializes in Facilities Management Services. They offer a diverse range of services including property management, security, cleaning, maintenance, and compliance. The company is known for its comprehensive and cost-effective solutions that cater to the specific needs of various industries. They are dedicated to providing high-quality service using advanced technology and experienced professionals.",
-      "pubDate": "Sun, 14 Dec 2025 20:08:14 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/blackshrantac?5fac29491c9fbb21bde91a92a98645bb",
-      "group": "Blackshrantac",
-      "victim": "VFM Systems & Services (P) Ltd",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Wavenet",
-      "link": "https://www.ransomware.live/id/V2F2ZW5ldEB3b3JsZGxlYWtz",
-      "summary": "[AI generated] Wavenet is a UK-based telecommunications company that offers a wide range of services including broadband internet, landline telephone connections, and mobile network services. They provide advanced technology solutions to businesses, focusing on AI, customer engagement, cloud &amp; managed services. Their solutions are designed to enhance productivity and customer satisfaction, while lowering costs.",
-      "pubDate": "Sun, 14 Dec 2025 14:25:18 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/worldleaks?3b40093da605ee9d661326cfc80e62e9",
-      "group": "Worldleaks",
-      "victim": "Wavenet",
-      "country": "GB"
     }
   ]
 }
