@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-20T19:08:59.286Z",
+  "updatedAt": "2025-12-20T20:12:10.194Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Security ONE Alarm Systems",
+      "link": "https://www.ransomware.live/id/U2VjdXJpdHkgT05FIEFsYXJtIFN5c3RlbXNAcGxheQ==",
+      "summary": "Canada",
+      "pubDate": "Sat, 20 Dec 2025 19:08:17 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/play?9077cb89fcb2aba4734f0e9e2e7e4ede",
+      "group": "Play",
+      "victim": "Security ONE Alarm Systems",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Kucera International",
+      "link": "https://www.ransomware.live/id/S3VjZXJhIEludGVybmF0aW9uYWxAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Sat, 20 Dec 2025 19:07:39 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?9a5ae4215ca53c3e98ecd51d499c2d67",
+      "group": "Play",
+      "victim": "Kucera International",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Busbusbus",
       "link": "https://www.ransomware.live/id/QnVzYnVzYnVzQHFpbGlu",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/incransom?edbc1015b82d5d4a88e6fbce298a2850",
       "group": "Incransom",
       "victim": "cityofsignalhill.org",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : steelworksinc.ca",
-      "link": "https://www.ransomware.live/id/c3RlZWx3b3Jrc2luYy5jYUBpbmNyYW5zb20=",
-      "summary": "Steel Works Inc. specializes in structural steel fabrication and installation, providing precision-cut and custom-built steel components for industrial and commercial projects. They offer a range of services including overhead crane design and installation, specialized fabrication, and blast and paint services. Their intended clients include startups, product designers, mid-sized manufacturers, and industrial facilities, particularly in the mining sector. With over 30 years of experience, Steel Works Inc. is known for its commitment to quality, safety, and on-time delivery.\r Employees: 50\r Revenue: $8.1 Million\r Industry: Commercial &amp; Residential Construction \r Phone Number: (705) 264-4031",
-      "pubDate": "Mon, 15 Dec 2025 02:14:16 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/incransom?c8b72ee31a7b09594243703339d31174",
-      "group": "Incransom",
-      "victim": "steelworksinc.ca",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Kier & Wright",
-      "link": "https://www.ransomware.live/id/S2llciAmIFdyaWdodEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sun, 14 Dec 2025 23:44:30 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?fcfdf860f61dae3a4e6265047ecc5e22",
-      "group": "Qilin",
-      "victim": "Kier & Wright",
       "country": "US"
     }
   ]
