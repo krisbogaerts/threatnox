@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-19T23:12:13.300Z",
+  "updatedAt": "2025-12-20T00:54:23.148Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Deibel Laboratories",
+      "link": "https://www.ransomware.live/id/RGVpYmVsIExhYm9yYXRvcmllc0BhbnViaXM=",
+      "summary": "Data breach at a U.S. food safety and quality testing laboratory.",
+      "pubDate": "Fri, 19 Dec 2025 23:19:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?23fa5009dd21687b8262ec122581dade",
+      "group": "Anubis",
+      "victim": "Deibel Laboratories",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : RM Medics",
       "link": "https://www.ransomware.live/id/Uk0gTWVkaWNzQHNpbm9iaQ==",
@@ -2190,17 +2201,6 @@
       "group": "Devman",
       "victim": "CANCER",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : ***-***tems.***",
-      "link": "https://www.ransomware.live/id/KioqLSoqKnRlbXMuKioqQGRldm1hbg==",
-      "summary": "",
-      "pubDate": "Sun, 14 Dec 2025 01:47:20 +0000",
-      "category": "UK",
-      "guid": "https://www.ransomware.live/group/devman?2b15eb9190890f596832e7c4a7d3c2b0",
-      "group": "Devman",
-      "victim": "***-***tems.***",
-      "country": "UK"
     }
   ]
 }
