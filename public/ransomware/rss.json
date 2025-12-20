@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-20T12:20:52.375Z",
+  "updatedAt": "2025-12-20T13:21:35.382Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Homestead Electrical Contracting",
+      "link": "https://www.ransomware.live/id/SG9tZXN0ZWFkIEVsZWN0cmljYWwgQ29udHJhY3RpbmdAc2lub2Jp",
+      "summary": "Homestead Electrical Contracting, LLC has been providing a range of electrical services since 1981, focusing on core values such as honesty, integrity, and teamwork. Their offerings include electrical design and build, high voltage wiring, fire alarm system installation, and maintenance agreements available 24/7. The company caters to a diverse client base, including notable names like Walgreens Corporation and Lake County Water Reclamation District. They strive to maintain strong relationships with their clients while ensuring high-quality service and client satisfaction.",
+      "pubDate": "Sat, 20 Dec 2025 12:54:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?b51042fbb095c9164cc6a2fb73db226f",
+      "group": "Sinobi",
+      "victim": "Homestead Electrical Contracting",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : Insight",
+      "link": "https://www.ransomware.live/id/SW5zaWdodEBjb2luYmFzZWNhcnRlbA==",
+      "summary": "Insight is a leading solutions and systems integrator — providing computer hardware, software, cloud solutions and IT services to business, gover...",
+      "pubDate": "Sat, 20 Dec 2025 12:21:23 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/coinbasecartel?f0c6623a1300fd58e4dc999a8c3635ca",
+      "group": "Coinbasecartel",
+      "victim": "Insight",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : No Place to Hide: Unmasking the Masterminds Behind War Drones",
       "link": "https://www.ransomware.live/id/Tm8gUGxhY2UgdG8gSGlkZTogVW5tYXNraW5nIHRoZSBNYXN0ZXJtaW5kcyBCZWhpbmQgV2FyIERyb25lc0BoYW5kYWxh",
@@ -2179,28 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Wavenet",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Smith Roberts Baldischwiler, LLC | OKC Engineering Firm",
-      "link": "https://www.ransomware.live/id/U21pdGggUm9iZXJ0cyBCYWxkaXNjaHdpbGVyLCBMTEMgfCBPS0MgRW5naW5lZXJpbmcgRmlybUBkcmFnb25mb3JjZQ==",
-      "summary": "Many projects of large companies are now available to public. Customer information, confidential data, and much more.  Successful engineering projects begin with careful collaboration between all stakeholders involved in the projects. SRB&#x27;s greatest strength lies in its commitment to open communication at all stages of the project between citizens, government, utilities, and other design professionals.",
-      "pubDate": "Sun, 14 Dec 2025 12:54:36 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?8eedb898e9fc69e4f2aeaea97220bcc3",
-      "group": "Dragonforce",
-      "victim": "Smith Roberts Baldischwiler, LLC | OKC Engineering Firm",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Liteconn Group",
-      "link": "https://www.ransomware.live/id/TGl0ZWNvbm4gR3JvdXBAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 14 Dec 2025 07:17:42 +0000",
-      "category": "TW",
-      "guid": "https://www.ransomware.live/group/qilin?b5dcccf001f362ce128d3a98b35a729f",
-      "group": "Qilin",
-      "victim": "Liteconn Group",
-      "country": "TW"
     }
   ]
 }
