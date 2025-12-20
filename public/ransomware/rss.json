@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-20T11:09:47.141Z",
+  "updatedAt": "2025-12-20T12:20:52.375Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : No Place to Hide: Unmasking the Masterminds Behind War Drones",
+      "link": "https://www.ransomware.live/id/Tm8gUGxhY2UgdG8gSGlkZTogVW5tYXNraW5nIHRoZSBNYXN0ZXJtaW5kcyBCZWhpbmQgV2FyIERyb25lc0BoYW5kYWxh",
+      "summary": "As part of our ongoing commitment and in accordance with our tradition every Saturday, today Handala RedWanted is releasing the names and full profiles of 14 principal designers behind the Israeli regime’s drone programs. These individuals play a central role in developing and advancing drone technologies that have been used extensively in military operations, resulting…",
+      "pubDate": "Sat, 20 Dec 2025 10:55:04 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?4464ccc3d16d67264caed75259a01650",
+      "group": "Handala",
+      "victim": "No Place to Hide: Unmasking the Masterminds Behind War Drones",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Fujitsu Component (Malaysia) SDN. BHD",
       "link": "https://www.ransomware.live/id/RnVqaXRzdSBDb21wb25lbnQgKE1hbGF5c2lhKSBTRE4uIEJIREBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Liteconn Group",
       "country": "TW"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Vlp Hellas",
-      "link": "https://www.ransomware.live/id/VmxwIEhlbGxhc0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sun, 14 Dec 2025 07:17:04 +0000",
-      "category": "GR",
-      "guid": "https://www.ransomware.live/group/qilin?aafe059d7916256fea0abc521abb96bd",
-      "group": "Qilin",
-      "victim": "Vlp Hellas",
-      "country": "GR"
     }
   ]
 }
