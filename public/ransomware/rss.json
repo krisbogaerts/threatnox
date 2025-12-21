@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-21T21:10:30.219Z",
+  "updatedAt": "2025-12-21T22:11:50.878Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Váhostav",
+      "link": "https://www.ransomware.live/id/VsOhaG9zdGF2QGRyYWdvbmZvcmNl",
+      "summary": "VÁHOSTAV is one of the leading construction companies in Slovakia, specializing in complex and technically demanding projects across various sectors including transportation, engineering, and industrial construction. The company operates both domestically and internationally, utilizing advanced technologies through its own production facilities and subsidiaries. VÁHOSTAV is committed to sustainable development principles, integrating quality, safety, and environmental management systems certified under ISO standards. Their current projects include modernization of railway corridors and infrastructure improvements, reflecting their dedication to minimizing waste and maximizing resource efficiency.",
+      "pubDate": "Sun, 21 Dec 2025 20:49:38 +0000",
+      "category": "SK",
+      "guid": "https://www.ransomware.live/group/dragonforce?884c431d0d877cb44cee606ed472faa2",
+      "group": "Dragonforce",
+      "victim": "Váhostav",
+      "country": "SK"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Talarico",
       "link": "https://www.ransomware.live/id/VGFsYXJpY29AaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Hopper Developments",
       "country": "NZ"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : STIC",
-      "link": "https://www.ransomware.live/id/U1RJQ0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 15 Dec 2025 06:44:22 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?30cefaefa1831e53db6b64775d134866",
-      "group": "Qilin",
-      "victim": "STIC",
-      "country": ""
     }
   ]
 }
