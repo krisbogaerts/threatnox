@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-21T12:21:32.213Z",
+  "updatedAt": "2025-12-21T13:22:05.685Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : svlawus.com",
+      "link": "https://www.ransomware.live/id/c3ZsYXd1cy5jb21AaW5jcmFuc29t",
+      "summary": "COMPOSITION OF FIRMS:\r \r >svlawus.com\r Sanchez Vadillo LLP is a full-service boutique law firm established in 1999, dedicated to providing strategic and efficient legal counsel to individuals, businesses, and financial institutions. The firm specializes in various practice areas including business closings, civil litigation, corporate counsel, family law, immigration, and real estate transactions. With a team of 10 attorneys and 30 staff members, they prioritize professionalism and exceptional client solutions. Their commitment to excellence is reflected in numerous awards, including multiple Top Producer recognitions from Old Republic Title Insurance.\r Employees: 50\r Revenue: $6.3 Million\r Industry: Law Firms &amp; Legal Services  \r Phone Number: (305) 436-1410\r \r >eagrealtyinternational.com \r EAG Realty International specializes in assisting clients with buying, selling, and leasing real estate properties, including residential and commercial options in the South Florida area and internationally. The company is committed to providing a high degree of service and professionalism, ensuring a smooth and pleasurable experience for its clients. With a team of licensed real estate agents, EAG Realty offers expert guidance in property valuation and market insights. Their clientele includes individual buyers and sellers, as well as international investors seeking property opportunities.\r Employees: 200\r Revenue: $17.7 Million\r Industry: Real Estate\r Phone Number: (305) 477-4413\r \r >torresvadillollp.com \r Employees: 50\r Revenue: $5 Million\r Industry: Law Firms &amp; Legal Services  \r Phone Number: (214) 295-8473\r \r >mytitlelogic.com\r Employees: 50\r Revenue: $5 Million\r Industry: Consumer Services\r Phone Number: (727) 823-7778",
+      "pubDate": "Sun, 21 Dec 2025 12:10:34 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?3e01a21d08c6d03274f6c7ea5bcf79ec",
+      "group": "Incransom",
+      "victim": "svlawus.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : terport.com.py",
       "link": "https://www.ransomware.live/id/dGVycG9ydC5jb20ucHlAbHlueA==",
@@ -2190,17 +2201,6 @@
       "group": "Obscura",
       "victim": "k*m**w.com",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Killsec has just published a new victim : republica federative do brasil",
-      "link": "https://www.ransomware.live/id/cmVwdWJsaWNhIGZlZGVyYXRpdmUgZG8gYnJhc2lsQGtpbGxzZWM=",
-      "summary": "Price ??? Disclosures 0/1",
-      "pubDate": "Mon, 15 Dec 2025 03:19:33 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/killsec?bbb787a5883ee89a17bc919d2ffa866b",
-      "group": "Killsec",
-      "victim": "republica federative do brasil",
-      "country": "BR"
     }
   ]
 }
