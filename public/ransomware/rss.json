@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-21T15:10:54.604Z",
+  "updatedAt": "2025-12-21T16:13:21.217Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Talarico",
+      "link": "https://www.ransomware.live/id/VGFsYXJpY29AaW5jcmFuc29t",
+      "summary": "Talarico SRL has 30 years of experience in thermohydraulics and technological systems. The company boasts a well-stocked retail sales counter and has completed large industrial installations. Its extensive showroom features the best brands for home bathroom furnishings, with specialized consultants using state-of-the-art software for design. Talarico SRL also designs and builds various types of industrial hydraulic systems and offers free information and quotes.",
+      "pubDate": "Sun, 21 Dec 2025 15:13:29 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/incransom?9234aa2adee340d998ad883a6aa1b17a",
+      "group": "Incransom",
+      "victim": "Talarico",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Evercover",
       "link": "https://www.ransomware.live/id/RXZlcmNvdmVyQGluY3JhbnNvbQ==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "STIC",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Hodgins Law Group",
-      "link": "https://www.ransomware.live/id/SG9kZ2lucyBMYXcgR3JvdXBAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 15 Dec 2025 05:48:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?e5032778dd0c9aa6d3061e8ab6db5d32",
-      "group": "Qilin",
-      "victim": "Hodgins Law Group",
-      "country": "US"
     }
   ]
 }
