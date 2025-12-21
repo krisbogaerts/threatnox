@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-21T07:12:18.192Z",
+  "updatedAt": "2025-12-21T08:15:20.153Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : terport.com.py",
+      "link": "https://www.ransomware.live/id/dGVycG9ydC5jb20ucHlAbHlueA==",
+      "summary": "We are the leading river container, general cargo, and RORO terminal operator in the Parana-Paraguay Waterway. We operate our TERPORT-VILLETA terminal, which is the most sophisticated container terminal in the region, and TERPORT-SAN ANTONIO focused on General Cargo, RORO, Warehousing and Bonded Warehousing services. Our main activities include port services, container depot, warehousing, container freight services, and special cargo projects.",
+      "pubDate": "Sun, 21 Dec 2025 07:49:31 +0000",
+      "category": "PY",
+      "guid": "https://www.ransomware.live/group/lynx?1a8867676506cba745c299e2da180d46",
+      "group": "Lynx",
+      "victim": "terport.com.py",
+      "country": "PY"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Security ONE Alarm Systems",
       "link": "https://www.ransomware.live/id/U2VjdXJpdHkgT05FIEFsYXJtIFN5c3RlbXNAcGxheQ==",
@@ -2190,17 +2201,6 @@
       "group": "Killsec",
       "victim": "republica federative do brasil",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : cityofsignalhill.org",
-      "link": "https://www.ransomware.live/id/Y2l0eW9mc2lnbmFsaGlsbC5vcmdAaW5jcmFuc29t",
-      "summary": "Signal Hill, CA offers a range of services and resources to its residents, including city hall renovation updates, a shop local campaign called Open Rewards, and information on upcoming city events. The city also provides resources for job seekers, safe clean water initiatives, and community assistance programs. Residents can access the city&#x27;s cable channel online, nominate pets for Pet of the Month, and download the Signal Hill Now mobile app for convenient access to city information.\r Employees: 50\r Revenue: $7.1 Million\r Industry: Government \r Phone Number: (562) 989-7300",
-      "pubDate": "Mon, 15 Dec 2025 02:14:49 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?edbc1015b82d5d4a88e6fbce298a2850",
-      "group": "Incransom",
-      "victim": "cityofsignalhill.org",
-      "country": "US"
     }
   ]
 }
