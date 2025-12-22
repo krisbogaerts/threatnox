@@ -1,7 +1,183 @@
 {
-  "updatedAt": "2025-12-22T15:13:26.557Z",
+  "updatedAt": "2025-12-22T16:15:03.859Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Swartz Campbell",
+      "link": "https://www.ransomware.live/id/U3dhcnR6IENhbXBiZWxsQGludGVybG9jaw==",
+      "summary": "Swartz Campbell LLC is a law firm with multiple locations across the East Coast specializing in areas including class action, employment, medical malpractice, and divorce. The law firm was founded in 1921 and is headquartered in Philadelphia, Pennsylvania.",
+      "pubDate": "Mon, 22 Dec 2025 15:53:07 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/interlock?140e90b94e4d5237001431056d145a50",
+      "group": "Interlock",
+      "victim": "Swartz Campbell",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : k*v*.fi",
+      "link": "https://www.ransomware.live/id/ayp2Ki5maUBkZXZtYW4=",
+      "summary": "HR data",
+      "pubDate": "Mon, 22 Dec 2025 15:48:44 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/devman?55028eb197155331ea817159809f93d9",
+      "group": "Devman",
+      "victim": "k*v*.fi",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : cc-estuaire",
+      "link": "https://www.ransomware.live/id/Y2MtZXN0dWFpcmVAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 15:17:37 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?3b2d99fd9f2cf2a45b5effcc6cc8810c",
+      "group": "Qilin",
+      "victim": "cc-estuaire",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : GIV SRL",
+      "link": "https://www.ransomware.live/id/R0lWIFNSTEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 15:16:39 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?8c2e6ed12c5c73d387e2fbeaa635a256",
+      "group": "Qilin",
+      "victim": "GIV SRL",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : GOOD+ Foundation",
+      "link": "https://www.ransomware.live/id/R09PRCsgRm91bmRhdGlvbkBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 15:15:29 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?d14e100078581efbf51b50cc83bcf481",
+      "group": "Qilin",
+      "victim": "GOOD+ Foundation",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Hongfa America",
+      "link": "https://www.ransomware.live/id/SG9uZ2ZhIEFtZXJpY2FAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 15:14:04 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?8e02735502a829bf983a7dabb5de2ac1",
+      "group": "Qilin",
+      "victim": "Hongfa America",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Eanes ISD schools",
+      "link": "https://www.ransomware.live/id/RWFuZXMgSVNEIHNjaG9vbHNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 15:12:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?3037547533241bc0e5e78145c7e82fa2",
+      "group": "Qilin",
+      "victim": "Eanes ISD schools",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : La Papelera",
+      "link": "https://www.ransomware.live/id/TGEgUGFwZWxlcmFAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 15:11:16 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?9d02a7c01293c94fb23f75b6ecf23174",
+      "group": "Qilin",
+      "victim": "La Papelera",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Lugiano Medical",
+      "link": "https://www.ransomware.live/id/THVnaWFubyBNZWRpY2FsQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 15:10:14 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?6f7d51a2eeeffac7e107272b12530b3b",
+      "group": "Qilin",
+      "victim": "Lugiano Medical",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Fürth",
+      "link": "https://www.ransomware.live/id/RsO8cnRoQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 15:08:50 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/qilin?65f1c93be6b4023c336a8ee4950e3143",
+      "group": "Qilin",
+      "victim": "Fürth",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Polaris Parks",
+      "link": "https://www.ransomware.live/id/UG9sYXJpcyBQYXJrc0BkaXJld29sZg==",
+      "summary": "Real Estate",
+      "pubDate": "Mon, 22 Dec 2025 14:48:37 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/direwolf?0dbd9f3bbf2e5347c045b25000079f42",
+      "group": "Direwolf",
+      "victim": "Polaris Parks",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Ranger Investigation Guard",
+      "link": "https://www.ransomware.live/id/UmFuZ2VyIEludmVzdGlnYXRpb24gR3VhcmRAZGlyZXdvbGY=",
+      "summary": "Business Services",
+      "pubDate": "Mon, 22 Dec 2025 14:48:03 +0000",
+      "category": "SG",
+      "guid": "https://www.ransomware.live/group/direwolf?c9e5fc9df8854a76962c3ff9e5edfcd1",
+      "group": "Direwolf",
+      "victim": "Ranger Investigation Guard",
+      "country": "SG"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Office of Public Sector Anti-Corruption Commission",
+      "link": "https://www.ransomware.live/id/T2ZmaWNlIG9mIFB1YmxpYyBTZWN0b3IgQW50aS1Db3JydXB0aW9uIENvbW1pc3Npb25AZGlyZXdvbGY=",
+      "summary": "Government",
+      "pubDate": "Mon, 22 Dec 2025 14:47:30 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/direwolf?493bb3fd69a70954e0d635ef05c78bc2",
+      "group": "Direwolf",
+      "victim": "Office of Public Sector Anti-Corruption Commission",
+      "country": "TH"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Guan Chong Berhad",
+      "link": "https://www.ransomware.live/id/R3VhbiBDaG9uZyBCZXJoYWRAZGlyZXdvbGY=",
+      "summary": "Food &amp; Beverage",
+      "pubDate": "Mon, 22 Dec 2025 14:46:56 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/direwolf?fb54b9618b9c698592d1343890e48f5d",
+      "group": "Direwolf",
+      "victim": "Guan Chong Berhad",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Sanyang Motor",
+      "link": "https://www.ransomware.live/id/U2FueWFuZyBNb3RvckBkaXJld29sZg==",
+      "summary": "Manufacturing",
+      "pubDate": "Mon, 22 Dec 2025 14:46:23 +0000",
+      "category": "TW",
+      "guid": "https://www.ransomware.live/group/direwolf?6b312802d9d5b50fa4eadd1a3586a6d1",
+      "group": "Direwolf",
+      "victim": "Sanyang Motor",
+      "country": "TW"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Adnan Sundra & Low",
+      "link": "https://www.ransomware.live/id/QWRuYW4gU3VuZHJhICYgTG93QGRpcmV3b2xm",
+      "summary": "Law Firms, Legal Services",
+      "pubDate": "Mon, 22 Dec 2025 14:45:48 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/direwolf?57561895d9d78f528eba738a4ee0a103",
+      "group": "Direwolf",
+      "victim": "Adnan Sundra & Low",
+      "country": "MY"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Assolim",
       "link": "https://www.ransomware.live/id/QXNzb2xpbUByYW5zb21ob3VzZQ==",
@@ -2025,182 +2201,6 @@
       "group": "Devman",
       "victim": "Productos Lácteos Flor de Aragua CA",
       "country": "VZ"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : a**o*50*****.org",
-      "link": "https://www.ransomware.live/id/YSoqbyo1MCoqKioqLm9yZ0BkZXZtYW4=",
-      "summary": "Financial, HR data, Client data",
-      "pubDate": "Tue, 16 Dec 2025 12:47:58 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/devman?0a6905a4ff5e3ad3e644cf1ba303ba59",
-      "group": "Devman",
-      "victim": "a**o*50*****.org",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : b**u**jou***-**.crs",
-      "link": "https://www.ransomware.live/id/YioqdSoqam91KioqLSoqLmNyc0BkZXZtYW4=",
-      "summary": "Financial, HR",
-      "pubDate": "Tue, 16 Dec 2025 12:46:42 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/devman?150f2a676d2ac478d251b388b3ba4262",
-      "group": "Devman",
-      "victim": "b**u**jou***-**.crs",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : Precise Benefits Group LLC",
-      "link": "https://www.ransomware.live/id/UHJlY2lzZSBCZW5lZml0cyBHcm91cCBMTENAaW5jcmFuc29t",
-      "summary": "Precise Benefits Group LLC operates as an\r employee benefits consulting and HR solutions provider. The company offers strategic employee benefits programs and services designed to help businesses manage healthcare costs, ensure regulatory compliance, and improve administrative efficiency.",
-      "pubDate": "Tue, 16 Dec 2025 11:58:56 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/incransom?65fb1df6b80a63d2957d7dda5137de0f",
-      "group": "Incransom",
-      "victim": "Precise Benefits Group LLC",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : McKee-Pownall Equine Services",
-      "link": "https://www.ransomware.live/id/TWNLZWUtUG93bmFsbCBFcXVpbmUgU2VydmljZXNAZHJhZ29uZm9yY2U=",
-      "summary": "McKee-Pownall Equine Services specializes in equine veterinary care, focusing on lameness, sport horse medicine, pre-purchase exams, dentistry, and overall wellness. They provide both in-clinic and on-farm diagnostic services utilizing advanced technology. The company operates multiple locations, including Campbellville, Caledon, and Uxbridge, and employs a team of 17 veterinarians and over 35 support staff. Their Equine Performance Centre is dedicated to assessing and treating performance issues in horses, addressing root causes beyond just lameness.",
-      "pubDate": "Tue, 16 Dec 2025 11:57:03 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/dragonforce?df1987b492e90a38c128198db4919b0c",
-      "group": "Dragonforce",
-      "victim": "McKee-Pownall Equine Services",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : Comcast REUP FOR SALE",
-      "link": "https://www.ransomware.live/id/Q29tY2FzdCBSRVVQIEZPUiBTQUxFQHNwYWNlYmVhcnM=",
-      "summary": "REUP FOR SALE The archive contains samples of the Comcast leak. The total file size is approximately 2 TB. It includes numerous DWG drawings, PDF plans of various cities with infrastructure, and other files related to the Genesis project. The entire lot is being sold as a single lot. Please submit your contact information and suggestions via the feedback form.  https://corporate.comcast.com/",
-      "pubDate": "Tue, 16 Dec 2025 10:33:59 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/spacebears?d2925b85aca6cc19578a4c11df965307",
-      "group": "Spacebears",
-      "victim": "Comcast REUP FOR SALE",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Markham Stouffville Hospital",
-      "link": "https://www.ransomware.live/id/TWFya2hhbSBTdG91ZmZ2aWxsZSBIb3NwaXRhbEBhbnViaXM=",
-      "summary": "Personal data.",
-      "pubDate": "Tue, 16 Dec 2025 00:14:22 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/anubis?c159617fe36b7a3fe13ac787432e4440",
-      "group": "Anubis",
-      "victim": "Markham Stouffville Hospital",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Beyer Law Group",
-      "link": "https://www.ransomware.live/id/QmV5ZXIgTGF3IEdyb3VwQGFudWJpcw==",
-      "summary": "Data breach from Silicon Valley lawyers.",
-      "pubDate": "Tue, 16 Dec 2025 00:13:17 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?ca4614758b053b78179622b5a2503be9",
-      "group": "Anubis",
-      "victim": "Beyer Law Group",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Rhysida has just published a new victim : YOKOSUKA GAKUIN",
-      "link": "https://www.ransomware.live/id/WU9LT1NVS0EgR0FLVUlOQHJoeXNpZGE=",
-      "summary": "YOKOSUKA GAKUIN",
-      "pubDate": "Mon, 15 Dec 2025 20:46:02 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/rhysida?6eb7710011cc29f5991624696e67edbc",
-      "group": "Rhysida",
-      "victim": "YOKOSUKA GAKUIN",
-      "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Logistics",
-      "link": "https://www.ransomware.live/id/R3J1cG8gTG9naXN0aWNzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Mon, 15 Dec 2025 18:43:07 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/qilin?d96ca6e6cb6b098d380e400384dfe584",
-      "group": "Qilin",
-      "victim": "Grupo Logistics",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Merko Ehitus",
-      "link": "https://www.ransomware.live/id/TWVya28gRWhpdHVzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Mon, 15 Dec 2025 18:42:30 +0000",
-      "category": "EE",
-      "guid": "https://www.ransomware.live/group/qilin?f432579bed3683c8fda49d2a03337163",
-      "group": "Qilin",
-      "victim": "Merko Ehitus",
-      "country": "EE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Dacon Networks",
-      "link": "https://www.ransomware.live/id/RGFjb24gTmV0d29ya3NAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 15 Dec 2025 18:41:52 +0000",
-      "category": "SG",
-      "guid": "https://www.ransomware.live/group/qilin?e0872b29ed6c9e808b1d737a439d3029",
-      "group": "Qilin",
-      "victim": "Dacon Networks",
-      "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Region of Istria",
-      "link": "https://www.ransomware.live/id/UmVnaW9uIG9mIElzdHJpYUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 15 Dec 2025 18:41:16 +0000",
-      "category": "HR",
-      "guid": "https://www.ransomware.live/group/qilin?e13225e346d735f9a299733d41c2a4a5",
-      "group": "Qilin",
-      "victim": "Region of Istria",
-      "country": "HR"
-    },
-    {
-      "title": "🏴‍☠️ Obscura has just published a new victim : cle**rp**er.eu",
-      "link": "https://www.ransomware.live/id/Y2xlKipycCoqZXIuZXVAb2JzY3VyYQ==",
-      "summary": "Technology leader for modern energy infrastructure",
-      "pubDate": "Mon, 15 Dec 2025 18:39:47 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/obscura?c7a79564d158bf7a91338e7964a5aad0",
-      "group": "Obscura",
-      "victim": "cle**rp**er.eu",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Kairos has just published a new victim : Melland High",
-      "link": "https://www.ransomware.live/id/TWVsbGFuZCBIaWdoQGthaXJvcw==",
-      "summary": "Melland High is a Bright Futures Educational Trust school, helping us to raise aspirations and drive up standards to ensure our students have real choices open to them when they leave school.",
-      "pubDate": "Mon, 15 Dec 2025 18:18:09 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/kairos?51277881cd1c3f359a30d1b12be8f9c1",
-      "group": "Kairos",
-      "victim": "Melland High",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : strtn.org",
-      "link": "https://www.ransomware.live/id/c3RydG4ub3JnQG5vdmE=",
-      "summary": "The Tunisian Society of Radiology (STR)  was created in 1952 by the late Doctor Ali Fourati under the name of the Tunisian Association of Electro-Radiology.",
-      "pubDate": "Mon, 15 Dec 2025 16:52:31 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nova?be68665777d11a57e022279fd0e7cb2f",
-      "group": "Nova",
-      "victim": "strtn.org",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : demilac, Inc",
-      "link": "https://www.ransomware.live/id/ZGVtaWxhYywgSW5jQGJsYWNrc2hyYW50YWM=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Mon, 15 Dec 2025 16:19:10 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/blackshrantac?36374a166e920e52ef9c97652814d7b5",
-      "group": "Blackshrantac",
-      "victim": "demilac, Inc",
-      "country": ""
     }
   ]
 }
