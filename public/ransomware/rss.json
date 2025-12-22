@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-22T11:11:44.251Z",
+  "updatedAt": "2025-12-22T12:24:39.355Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Olé",
+      "link": "https://www.ransomware.live/id/R3J1cG8gT2zDqUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 11:17:54 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?d2bd0730a22edcca9fe8950d6f334649",
+      "group": "Qilin",
+      "victim": "Grupo Olé",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Benzona has just published a new victim : taminsho.com",
       "link": "https://www.ransomware.live/id/dGFtaW5zaG8uY29tQGJlbnpvbmE=",
@@ -2190,17 +2201,6 @@
       "group": "Pear",
       "victim": "Angstrom Automotive Group",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Thrings Solicitors and Lawyers",
-      "link": "https://www.ransomware.live/id/VGhyaW5ncyBTb2xpY2l0b3JzIGFuZCBMYXd5ZXJzQHdvcmxkbGVha3M=",
-      "summary": "[AI generated] Thrings Solicitors and Lawyers is an esteemed UK-based law firm with offices in London, Bristol, Hampshire, and Wiltshire. They offer comprehensive legal services to both individuals and businesses, covering areas such as family law, personal injury claims, commercial law, agriculture, and real estate law. Known for their professional approach and esteemed legal experts, they have a strong reputation in delivering reliable legal solutions.",
-      "pubDate": "Mon, 15 Dec 2025 09:40:00 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/worldleaks?fa3d3d1dca019f5be16a8b5e31e914a4",
-      "group": "Worldleaks",
-      "victim": "Thrings Solicitors and Lawyers",
-      "country": "GB"
     }
   ]
 }
