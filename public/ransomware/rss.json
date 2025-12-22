@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-21T23:11:05.446Z",
+  "updatedAt": "2025-12-22T01:00:41.973Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Empire Screen Printing",
+      "link": "https://www.ransomware.live/id/RW1waXJlIFNjcmVlbiBQcmludGluZ0BzaW5vYmk=",
+      "summary": "Empire Screen Printing, Inc. provides screen printing. The Company flexography, digital printing, and doming. Empire Screen Printing services customers in the United States.",
+      "pubDate": "Mon, 22 Dec 2025 00:26:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?c3a6a85f4da3be2071c51fbd10a5789a",
+      "group": "Sinobi",
+      "victim": "Empire Screen Printing",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cedar Valley Services",
+      "link": "https://www.ransomware.live/id/Q2VkYXIgVmFsbGV5IFNlcnZpY2VzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sun, 21 Dec 2025 23:14:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?ff47f124f4db04e7d002461d0be8e8ce",
+      "group": "Qilin",
+      "victim": "Cedar Valley Services",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Váhostav",
       "link": "https://www.ransomware.live/id/VsOhaG9zdGF2QGRyYWdvbmZvcmNl",
@@ -2179,28 +2201,6 @@
       "group": "Devman",
       "victim": "DXS SYSTEMS",
       "country": "UK"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Diaz Gill Medicina Laboratorial S.A.",
-      "link": "https://www.ransomware.live/id/RGlheiBHaWxsIE1lZGljaW5hIExhYm9yYXRvcmlhbCBTLkEuQHJhbnNvbWhvdXNl",
-      "summary": "Diaz Gill Medicina Laboratorial S.A. is a leading private clinical laboratory in Paraguay, founded in 1992 with roots dating back further.",
-      "pubDate": "Mon, 15 Dec 2025 06:45:59 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/ransomhouse?4f01ad4e3025ea5975b5767b29aa3b85",
-      "group": "Ransomhouse",
-      "victim": "Diaz Gill Medicina Laboratorial S.A.",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Hopper Developments",
-      "link": "https://www.ransomware.live/id/SG9wcGVyIERldmVsb3BtZW50c0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 15 Dec 2025 06:45:01 +0000",
-      "category": "NZ",
-      "guid": "https://www.ransomware.live/group/qilin?de508f28989f10e945c680341991d8a8",
-      "group": "Qilin",
-      "victim": "Hopper Developments",
-      "country": "NZ"
     }
   ]
 }
