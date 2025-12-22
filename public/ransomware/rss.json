@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-22T22:12:21.997Z",
+  "updatedAt": "2025-12-22T23:12:15.164Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Hanlon Electric",
+      "link": "https://www.ransomware.live/id/SGFubG9uIEVsZWN0cmljQHNpbm9iaQ==",
+      "summary": "Hanlon Electric Company is a full-service electrical contractor based in Pittsburgh, specializing in minimizing downtime and maximizing electrical efficiencies. They offer a wide range of services including electrical construction, building maintenance, telecommunications, and eco-friendly energy solutions. The company serves various sectors, including commercial, industrial, educational, and medical facilities, and is committed to safety and quality. Established in 1930, Hanlon Electric is dedicated to providing cost-effective solutions tailored to the needs of its clients.",
+      "pubDate": "Mon, 22 Dec 2025 22:09:30 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?8963b6e831970c0d977f0d15d7c32cb0",
+      "group": "Sinobi",
+      "victim": "Hanlon Electric",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Securotrop has just published a new victim : Spartan Carbide",
       "link": "https://www.ransomware.live/id/U3BhcnRhbiBDYXJiaWRlQHNlY3Vyb3Ryb3A=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?272e5834264713b2c36a6026b2ea03a2",
       "group": "Play",
       "victim": "Fairgrove Oil",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Maypay Farms Inc",
-      "link": "https://www.ransomware.live/id/TWF5cGF5IEZhcm1zIEluY0BwbGF5",
-      "summary": "United States",
-      "pubDate": "Tue, 16 Dec 2025 18:23:16 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?072bb06e90fbdbb28127e9bb38686529",
-      "group": "Play",
-      "victim": "Maypay Farms Inc",
       "country": ""
     }
   ]
