@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-22T08:19:14.147Z",
+  "updatedAt": "2025-12-22T09:19:25.475Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Benzona has just published a new victim : taminsho.com",
+      "link": "https://www.ransomware.live/id/dGFtaW5zaG8uY29tQGJlbnpvbmE=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Mon, 22 Dec 2025 07:41:54 +0000",
+      "category": "IR",
+      "guid": "https://www.ransomware.live/group/benzona?653abeec56f37757b27a98275c446cb1",
+      "group": "Benzona",
+      "victim": "taminsho.com",
+      "country": "IR"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Empire Screen Printing",
       "link": "https://www.ransomware.live/id/RW1waXJlIFNjcmVlbiBQcmludGluZ0BzaW5vYmk=",
@@ -2190,17 +2201,6 @@
       "group": "Worldleaks",
       "victim": "Thrings Solicitors and Lawyers",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : DXS SYSTEMS",
-      "link": "https://www.ransomware.live/id/RFhTIFNZU1RFTVNAZGV2bWFu",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Mon, 15 Dec 2025 09:11:37 +0000",
-      "category": "UK",
-      "guid": "https://www.ransomware.live/group/devman?2249d09dc5e3e8f8b6a7641884fb54ef",
-      "group": "Devman",
-      "victim": "DXS SYSTEMS",
-      "country": "UK"
     }
   ]
 }
