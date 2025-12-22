@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-22T14:13:24.274Z",
+  "updatedAt": "2025-12-22T15:13:26.557Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Assolim",
+      "link": "https://www.ransomware.live/id/QXNzb2xpbUByYW5zb21ob3VzZQ==",
+      "summary": "Assolim is a food distribution company that serves restaurants and hotels across Catalonia. Founded in 2014 from two family businesses with 60 years of history, we offer over 4,000 food products including frozen, fresh, and dry goods.",
+      "pubDate": "Mon, 22 Dec 2025 14:20:00 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/ransomhouse?3fa55f43c1c68af59c9e8638e2fa8dc5",
+      "group": "Ransomhouse",
+      "victim": "Assolim",
+      "country": "BR"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : transrocamar.com",
       "link": "https://www.ransomware.live/id/dHJhbnNyb2NhbWFyLmNvbUBkZXZtYW4=",
@@ -2190,17 +2201,6 @@
       "group": "Blackshrantac",
       "victim": "demilac, Inc",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Denk & Roche Builders",
-      "link": "https://www.ransomware.live/id/RGVuayAmIFJvY2hlIEJ1aWxkZXJzQGFraXJh",
-      "summary": "Denk &amp; Roche Builders specializes in the construction of wood-fra med and metal structures, providing services from early design co ncepts to final finishes, including solar applications and mass t imber.  We will upload 54gb of corporate data soon. Employee information, detailed financials, projects, contracts and agreements, client  files, confidential files, etc.",
-      "pubDate": "Mon, 15 Dec 2025 16:16:55 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9ef12e7c17ae2c22144180b04ae02d9a",
-      "group": "Akira",
-      "victim": "Denk & Roche Builders",
-      "country": "US"
     }
   ]
 }
