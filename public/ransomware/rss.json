@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2025-12-22T17:11:59.745Z",
+  "updatedAt": "2025-12-22T18:18:29.511Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Securotrop has just published a new victim : Spartan Carbide",
+      "link": "https://www.ransomware.live/id/U3BhcnRhbiBDYXJiaWRlQHNlY3Vyb3Ryb3A=",
+      "summary": "Status: AWAITING Size: 149 GB",
+      "pubDate": "Mon, 22 Dec 2025 18:04:52 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/securotrop?df3f2a5ff4b94d1a4e96d08213a59120",
+      "group": "Securotrop",
+      "victim": "Spartan Carbide",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Amanus",
+      "link": "https://www.ransomware.live/id/R3J1cG8gQW1hbnVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 17:59:27 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/qilin?577188087f335ce1b4f0b090a5d0aa03",
+      "group": "Qilin",
+      "victim": "Grupo Amanus",
+      "country": "MX"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Acme Electric",
+      "link": "https://www.ransomware.live/id/QWNtZSBFbGVjdHJpY0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 17:58:16 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?c9a0d3df20830244c34489a14f707f83",
+      "group": "Qilin",
+      "victim": "Acme Electric",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Scenic Solutions",
+      "link": "https://www.ransomware.live/id/U2NlbmljIFNvbHV0aW9uc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 17:57:05 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?4f7dece6716bd07b5b6078d5945732a8",
+      "group": "Qilin",
+      "victim": "Scenic Solutions",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Besco Electrical",
+      "link": "https://www.ransomware.live/id/QmVzY28gRWxlY3RyaWNhbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 17:55:59 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?1f5657215305d4b126e8bf953f379a78",
+      "group": "Qilin",
+      "victim": "Besco Electrical",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : National Biscuit Industries",
+      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgQmlzY3VpdCBJbmR1c3RyaWVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 17:54:45 +0000",
+      "category": "OM",
+      "guid": "https://www.ransomware.live/group/qilin?7100bce99fb37ced4fa239b8de0eb0ec",
+      "group": "Qilin",
+      "victim": "National Biscuit Industries",
+      "country": "OM"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Callipo Group",
+      "link": "https://www.ransomware.live/id/Q2FsbGlwbyBHcm91cEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 17:53:20 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?a3d838765007404f32f99357189951b2",
+      "group": "Qilin",
+      "victim": "Callipo Group",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Lasercomb",
+      "link": "https://www.ransomware.live/id/TGFzZXJjb21iQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 22 Dec 2025 17:51:54 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/qilin?bddd19d78c59134f6386e906576b9b43",
+      "group": "Qilin",
+      "victim": "Lasercomb",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Swartz Campbell",
       "link": "https://www.ransomware.live/id/U3dhcnR6IENhbXBiZWxsQGludGVybG9jaw==",
@@ -2113,94 +2201,6 @@
       "group": "Play",
       "victim": "Maypay Farms Inc",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Southern Specialty & Supply",
-      "link": "https://www.ransomware.live/id/U291dGhlcm4gU3BlY2lhbHR5ICYgU3VwcGx5QHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Tue, 16 Dec 2025 18:22:37 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?2a096fd3e9d8b43b5747492a1415b5e0",
-      "group": "Play",
-      "victim": "Southern Specialty & Supply",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : www.ktlgroup.com",
-      "link": "https://www.ransomware.live/id/d3d3Lmt0bGdyb3VwLmNvbUBseW54",
-      "summary": "KTL Offshore is a company with a global vision: to extend our footprint internationally and to build upon our ability to be one of the world&#x27;s premium solution providers for lifting, mooring and subsea rigging equipment and services. As we implement the strategy required to attain our vision, KTL Offshore is changing to become a global company with a significant presence in the major Oil &amp; Gas hubs around the developing markets of the world. We are proud to present a short summary of our world class products and services as well as a brief look at our major facilities located in Sing apore and the U.A.E. Over the next few years KTL Offshore will expand into new geographical territory as well as continue to be at the forefront of the latest technological developments in the lifting industry. We are committed to providing the safest and most economically viable lifting solutions and to supporting our customers inter nationally.",
-      "pubDate": "Tue, 16 Dec 2025 18:19:05 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/lynx?f6992f57981054344a89d5374ffb80da",
-      "group": "Lynx",
-      "victim": "www.ktlgroup.com",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Coinbasecartel has just published a new victim : ILLUMINA",
-      "link": "https://www.ransomware.live/id/SUxMVU1JTkFAY29pbmJhc2VjYXJ0ZWw=",
-      "summary": "Illumina, Inc. offers sequencing- and array-based solutions for genetic and genomic analysis in the United States, Singapore, the United Kingdom, a...",
-      "pubDate": "Tue, 16 Dec 2025 17:47:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/coinbasecartel?e5e10d6befc8ef1cc9c273b8130f79a2",
-      "group": "Coinbasecartel",
-      "victim": "ILLUMINA",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : www.advancedentdenver.com",
-      "link": "https://www.ransomware.live/id/d3d3LmFkdmFuY2VkZW50ZGVudmVyLmNvbUBseW54",
-      "summary": "Advanced ENT &amp; Allergy Center is a leading provider in Denver specializing in allergy and sinus treatments, offering both in-person and online appointments. With over 20 years of experience, they provide long-term solutions for sinus pain, congestion, and allergy symptoms. Their services include allergy testing, allergy drops, and various sinus treatments tailored to individual needs. The center is committed to community service, offering free medical care for underserved individuals once a month.",
-      "pubDate": "Tue, 16 Dec 2025 17:22:09 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?f4a8eceddb01e0b852690f1ed843f547",
-      "group": "Lynx",
-      "victim": "www.advancedentdenver.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nitrogen has just published a new victim : Walters Group Inc",
-      "link": "https://www.ransomware.live/id/V2FsdGVycyBHcm91cCBJbmNAbml0cm9nZW4=",
-      "summary": "Specializing in the production of structural steel and construction.",
-      "pubDate": "Tue, 16 Dec 2025 14:22:26 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nitrogen?9d14037d78a90bb0df2f0302b1bf020f",
-      "group": "Nitrogen",
-      "victim": "Walters Group Inc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : LiftPRO",
-      "link": "https://www.ransomware.live/id/TGlmdFBST0BkcmFnb25mb3JjZQ==",
-      "summary": "LiftPRO has over 40 years of experience providing lifting, rigging, and weighing solutions for various industries, including transportation and military applications, internationally. They offer a comprehensive range of lifting products such as slings, rigging hardware, and custom fabrication services, tailored to handle unique lifting challenges. LiftPRO also provides professional training on-site, ensuring clients safely and effectively utilize their products. With a strong emphasis on quality and safety, their products are rigorously tested and certified to meet industry standards.",
-      "pubDate": "Tue, 16 Dec 2025 12:51:43 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?df2f20f60f85dc251a3e3189753d7c85",
-      "group": "Dragonforce",
-      "victim": "LiftPRO",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : GPC Industries",
-      "link": "https://www.ransomware.live/id/R1BDIEluZHVzdHJpZXNAZHJhZ29uZm9yY2U=",
-      "summary": "GPC Industries Ltd is a leading trade supplier of high-quality access, handling, and storage products in the UK. With over 40 years of experience, they offer a wide range of equipment including ladders, trucks, trolleys, and various storage solutions, emphasizing UK-manufactured items as well as imported goods. Their intended clients include businesses in need of materials handling and safety equipment. GPC Industries is dedicated to providing exceptional products that meet high specifications and industry standards.",
-      "pubDate": "Tue, 16 Dec 2025 12:50:40 +0000",
-      "category": "HK",
-      "guid": "https://www.ransomware.live/group/dragonforce?6c2b50c1858ad12278a13d1d4481ff31",
-      "group": "Dragonforce",
-      "victim": "GPC Industries",
-      "country": "HK"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : Productos Lácteos Flor de Aragua CA",
-      "link": "https://www.ransomware.live/id/UHJvZHVjdG9zIEzDoWN0ZW9zIEZsb3IgZGUgQXJhZ3VhIENBQGRldm1hbg==",
-      "summary": "HR data, clients data, Financial data",
-      "pubDate": "Tue, 16 Dec 2025 12:49:15 +0000",
-      "category": "VZ",
-      "guid": "https://www.ransomware.live/group/devman?99dc094a2e0102dd5fa674379635c55f",
-      "group": "Devman",
-      "victim": "Productos Lácteos Flor de Aragua CA",
-      "country": "VZ"
     }
   ]
 }
