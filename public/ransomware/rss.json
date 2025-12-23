@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-23T14:13:05.896Z",
+  "updatedAt": "2025-12-23T15:13:16.009Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : ruskcountywi.us",
+      "link": "https://www.ransomware.live/id/cnVza2NvdW50eXdpLnVzQGx5bng=",
+      "summary": "Rusk County, Wisconsin is a community that provides services such as an Airport, Ambulance Services, Court Systems and other departments that service the community of Rusk County. Headquartered in Ladysmith, Wisconsin.",
+      "pubDate": "Tue, 23 Dec 2025 14:13:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lynx?9dee4ea12e0ed1b50b4f3c1bc2dfb0e9",
+      "group": "Lynx",
+      "victim": "ruskcountywi.us",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : https://www.omnibusjp.com",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cub21uaWJ1c2pwLmNvbUBseW54",
+      "summary": "OMNIBUS JAPAN INC. is a creative group that aims to extract the thoughts of many people involved in video production and create new value in video through technology and innovation. They focus on enhancing the emotional impact of visual content. Their services cater to a diverse range of clients in the video industry. The company is dedicated to pushing the boundaries of video technology.",
+      "pubDate": "Tue, 23 Dec 2025 14:12:48 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/lynx?1ea37aaa8e39f08e9b73ed8654486ab5",
+      "group": "Lynx",
+      "victim": "https://www.omnibusjp.com",
+      "country": "JP"
+    },
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : ccedarvalleyservices.org",
+      "link": "https://www.ransomware.live/id/Y2NlZGFydmFsbGV5c2VydmljZXMub3JnQGx5bng=",
+      "summary": "Cedar Valley Services Inc is an employment agency based in Southern Minnesota, operating for over 60 years with a focus on assisting individuals with disabilities in finding suitable job opportunities. Their services include employment counseling, rehabilitation, and training, aimed at helping clients assess their potential and succeed in the workforce. The agency offers free consultations and estimates and operates multiple locations in Austin, Albert Lea, and Owatonna, MN. They are dedicated to linking people with jobs and enhancing community living for their clients.",
+      "pubDate": "Tue, 23 Dec 2025 14:12:28 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/lynx?f9e3eeee8ae819db53c8bf09841839d5",
+      "group": "Lynx",
+      "victim": "ccedarvalleyservices.org",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : www.fecrwy.com",
+      "link": "https://www.ransomware.live/id/d3d3LmZlY3J3eS5jb21AbHlueA==",
+      "summary": "The Florida East Coast Railway freight rail system located along the east coast of Florida. It is a rail provider for PortMiami, Port Everglades, and Port of Palm Beach. FECR connects to the national railway system in Jacksonville, Florida, to move cargo originating or terminating there. Based in Jacksonville, Florida, FECR provides end-to-end intermodal and carload solutions to customers.",
+      "pubDate": "Tue, 23 Dec 2025 14:11:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lynx?afc024a876d619e05868f5868b0546cc",
+      "group": "Lynx",
+      "victim": "www.fecrwy.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Worldleaks has just published a new victim : Chatham Asset Management",
       "link": "https://www.ransomware.live/id/Q2hhdGhhbSBBc3NldCBNYW5hZ2VtZW50QHdvcmxkbGVha3M=",
@@ -2157,50 +2201,6 @@
       "group": "Safepay",
       "victim": "seeberger-appel.de",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : stadtwerke-clausthal.de",
-      "link": "https://www.ransomware.live/id/c3RhZHR3ZXJrZS1jbGF1c3RoYWwuZGVAc2FmZXBheQ==",
-      "summary": "Stadtwerke Clausthal-Zellerfeld is a municipal utility company (Stadtwerk) serving the town of Clausthal-Zellerfeld in Lower Saxony, Germany. As a publicly …",
-      "pubDate": "Tue, 16 Dec 2025 21:25:33 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?45fd2b5cd7a928e12c4b601615d773ab",
-      "group": "Safepay",
-      "victim": "stadtwerke-clausthal.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : autohaus-paschke.de",
-      "link": "https://www.ransomware.live/id/YXV0b2hhdXMtcGFzY2hrZS5kZUBzYWZlcGF5",
-      "summary": "Autohaus Paschke is a German automobile dealership and automotive service provider that operates primarily in the regional car retail and …",
-      "pubDate": "Tue, 16 Dec 2025 21:25:18 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?d9f17106e596daf674e563d64a8bc362",
-      "group": "Safepay",
-      "victim": "autohaus-paschke.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : ernst-auto.de",
-      "link": "https://www.ransomware.live/id/ZXJuc3QtYXV0by5kZUBzYWZlcGF5",
-      "summary": "Ernst Autohaus is a German automotive dealership and service company operating in the regional vehicle retail market. The business is …",
-      "pubDate": "Tue, 16 Dec 2025 21:24:43 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?30f816a28145f35d7afc5855525770bb",
-      "group": "Safepay",
-      "victim": "ernst-auto.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Trine Access Technology",
-      "link": "https://www.ransomware.live/id/VHJpbmUgQWNjZXNzIFRlY2hub2xvZ3lAc2lub2Jp",
-      "summary": "In 1999, a new company, Trine Access Technology was formed under new ownership. Our principle remains the same while our goals are greater than ever. Trine offers the largest selection of electric strikes in the industry, including the 3000 Series SMALLEST ELECTRIC STRIKES IN THE WORLD and the EN series ONLY UL® outdoor rated strike.",
-      "pubDate": "Tue, 16 Dec 2025 20:26:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?6cda01e54b7f8da5cf3ccc146e79a6c4",
-      "group": "Sinobi",
-      "victim": "Trine Access Technology",
-      "country": "US"
     }
   ]
 }
