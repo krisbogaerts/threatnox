@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-23T16:15:44.620Z",
+  "updatedAt": "2025-12-23T17:13:28.609Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Laidley Family Doctors",
+      "link": "https://www.ransomware.live/id/TGFpZGxleSBGYW1pbHkgRG9jdG9yc0BhbnViaXM=",
+      "summary": "Data breach at a clinic.",
+      "pubDate": "Tue, 23 Dec 2025 15:49:39 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/anubis?d4f5696582d5954deb386c74dde132a3",
+      "group": "Anubis",
+      "victim": "Laidley Family Doctors",
+      "country": "AU"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : Sense Eletronica",
       "link": "https://www.ransomware.live/id/U2Vuc2UgRWxldHJvbmljYUBub3Zh",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "AIRCOND S.R.L.",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : aspenviewacademy.org",
-      "link": "https://www.ransomware.live/id/YXNwZW52aWV3YWNhZGVteS5vcmdAc2FmZXBheQ==",
-      "summary": "Aspen View Academy is a charter school located in Castle Rock, Colorado, serving students from pre-kindergarten through 8th grade. Founded …",
-      "pubDate": "Tue, 16 Dec 2025 21:27:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?b0d4b886163d6f543f1f090ca4b9e985",
-      "group": "Safepay",
-      "victim": "aspenviewacademy.org",
-      "country": "US"
     }
   ]
 }
