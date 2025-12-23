@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-23T15:13:16.009Z",
+  "updatedAt": "2025-12-23T16:15:44.620Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : Sense Eletronica",
+      "link": "https://www.ransomware.live/id/U2Vuc2UgRWxldHJvbmljYUBub3Zh",
+      "summary": "Brazil Sense Sensores e Instrumentos specializes in automation of production processes and electrical engineering solutions. They offer a wide range of automation services and products aimed at improving operational efficiency.",
+      "pubDate": "Tue, 23 Dec 2025 15:17:32 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/nova?26a61dc3b31d3c1fb33694de2e06e478",
+      "group": "Nova",
+      "victim": "Sense Eletronica",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : https://www.ckm-montagen.de/en/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cuY2ttLW1vbnRhZ2VuLmRlL2VuL0BseW54",
+      "summary": "CKM Kondring Montagen GmbH &amp; Co. KG is a leading assembly company specializing in exclusive shop fitting and yacht interior construction, delivering top-notch results on a global scale. The company focuses on high-quality and precise assembly of furniture and interiors, catering to individual client needs with a team of qualified carpenters and experienced installers. They handle both national and international projects, ensuring that every unique request is met with the highest standards of quality. With a commitment to customer satisfaction, they complete projects only when clients are fully satisfied with the results.",
+      "pubDate": "Tue, 23 Dec 2025 15:14:02 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/lynx?fa5a2c3d32e6e4ef252a7b7705312085",
+      "group": "Lynx",
+      "victim": "https://www.ckm-montagen.de/en/",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Crypto24 has just published a new victim : Unified Assessment Platform ExamRoom.AI",
+      "link": "https://www.ransomware.live/id/VW5pZmllZCBBc3Nlc3NtZW50IFBsYXRmb3JtIEV4YW1Sb29tLkFJQGNyeXB0bzI0",
+      "summary": "***",
+      "pubDate": "Tue, 23 Dec 2025 14:42:08 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/crypto24?28a29dd18cc79b60e7c31632c7ac6637",
+      "group": "Crypto24",
+      "victim": "Unified Assessment Platform ExamRoom.AI",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : ruskcountywi.us",
       "link": "https://www.ransomware.live/id/cnVza2NvdW50eXdpLnVzQGx5bng=",
@@ -2168,39 +2201,6 @@
       "group": "Safepay",
       "victim": "aspenviewacademy.org",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : feldmanandlopez.com",
-      "link": "https://www.ransomware.live/id/ZmVsZG1hbmFuZGxvcGV6LmNvbUBzYWZlcGF5",
-      "summary": "Feldman &amp; Lopez, P.A. is a law firm based in Miami, Florida, that specialises in property insurance law and related …",
-      "pubDate": "Tue, 16 Dec 2025 21:27:21 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?11dac927a39489f74dddfe3f247c7c7d",
-      "group": "Safepay",
-      "victim": "feldmanandlopez.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : hoodriverdentist.com",
-      "link": "https://www.ransomware.live/id/aG9vZHJpdmVyZGVudGlzdC5jb21Ac2FmZXBheQ==",
-      "summary": "Hood River Dental is a private dental practice located in Hood River, Oregon, providing comprehensive oral healthcare services to individuals …",
-      "pubDate": "Tue, 16 Dec 2025 21:26:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?247d92f6befd1b61f7ffa162cbbb4c48",
-      "group": "Safepay",
-      "victim": "hoodriverdentist.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : seeberger-appel.de",
-      "link": "https://www.ransomware.live/id/c2VlYmVyZ2VyLWFwcGVsLmRlQHNhZmVwYXk=",
-      "summary": "Seeberger Appel is a German law firm specialising in commercial law, corporate law, employment law, and civil litigation, with a …",
-      "pubDate": "Tue, 16 Dec 2025 21:26:08 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?a91193b385901b97a87fda21b7dc7d86",
-      "group": "Safepay",
-      "victim": "seeberger-appel.de",
-      "country": "DE"
     }
   ]
 }
