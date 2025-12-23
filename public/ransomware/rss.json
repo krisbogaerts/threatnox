@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-23T18:18:35.327Z",
+  "updatedAt": "2025-12-23T19:11:49.388Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Notin",
+      "link": "https://www.ransomware.live/id/Tm90aW5AZXZlcmVzdA==",
+      "summary": "Proveedor tecnológico integral líder para notarías en España. Ofrecemos software de gestión (ERP), hardware, mantenimiento, ciberseguridad e Inteligencia Artificial.",
+      "pubDate": "Tue, 23 Dec 2025 17:46:11 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/everest?e4c2ac3fd4f2ebc9961a18b32a48893c",
+      "group": "Everest",
+      "victim": "Notin",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Accela",
+      "link": "https://www.ransomware.live/id/QWNjZWxhQGV2ZXJlc3Q=",
+      "summary": "[AI generated] Accela is a leading provider of cloud-based productivity and civic engagement applications for government agencies. Their solutions, including permitting, licensing, code enforcement, and public health solutions, are designed to streamline workflow, automate processes, and provide citizen access to various government services. Accela&#x27;s software platform powers over 2000 governments worldwide.",
+      "pubDate": "Tue, 23 Dec 2025 17:45:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?316f6f45c97b509fb70d90381cf714fa",
+      "group": "Everest",
+      "victim": "Accela",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : Agrícola Cerro Prieto",
+      "link": "https://www.ransomware.live/id/QWdyw61jb2xhIENlcnJvIFByaWV0b0BibGFja3NocmFudGFj",
+      "summary": "[AI generated] Agrícola Cerro Prieto is a Peruvian agricultural company, focused on the cultivation and exporting of a wide assortment of crops. Located in Chao, La Libertad, Peru, the enterprise is known for its cultivation of grapes, avocados, and asparagus among other products. Agrícola Cerro Prieto utilizes sophisticated irrigation systems and other technology to produce high-quality yields.",
+      "pubDate": "Tue, 23 Dec 2025 17:41:33 +0000",
+      "category": "PE",
+      "guid": "https://www.ransomware.live/group/blackshrantac?198337e7186e52533ccf80bb108bcb41",
+      "group": "Blackshrantac",
+      "victim": "Agrícola Cerro Prieto",
+      "country": "PE"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : Laidley Family Doctors",
       "link": "https://www.ransomware.live/id/TGFpZGxleSBGYW1pbHkgRG9jdG9yc0BhbnViaXM=",
@@ -2168,39 +2201,6 @@
       "group": "Sinobi",
       "victim": "TACK Electronics",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Mercury Wire Products",
-      "link": "https://www.ransomware.live/id/TWVyY3VyeSBXaXJlIFByb2R1Y3RzQHNpbm9iaQ==",
-      "summary": "Mercury Wire is a manufacturer specializing in innovative custom wire, cable, and engineered assemblies since 1967. They provide tailored solutions by understanding client needs and employing lean processes, focusing on collaboration and high-value outputs. Their products serve a wide range of industries, including industrial, medical, military, and defense, as well as specific applications like underwater cable. The company is committed to building lasting relationships with clients through dedicated problem-solving and extensive material resources.",
-      "pubDate": "Tue, 16 Dec 2025 21:29:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?c3ebfec00870e22c6f823c4f2a01597a",
-      "group": "Sinobi",
-      "victim": "Mercury Wire Products",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Cinema Concepts",
-      "link": "https://www.ransomware.live/id/Q2luZW1hIENvbmNlcHRzQHNpbm9iaQ==",
-      "summary": "Cinema Concepts is a creative studio and production company specializing in content creation, digital mastering, and duplication/distribution for cinematic exhibition. With extensive experience and cutting-edge technology, they produce quality cinema-ready files for theatrical projection and optimize media for various platforms. Since 1977, they have collaborated with agencies, corporations, broadcasters, studios, independent filmmakers, and film festivals, redefining the media production experience. Their scalable and flexible studio enables them to effectively create, edit, and prepare content that resonates with audiences.",
-      "pubDate": "Tue, 16 Dec 2025 21:29:03 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?15901c7d1a048642a666849810616160",
-      "group": "Sinobi",
-      "victim": "Cinema Concepts",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : AIRCOND S.R.L.",
-      "link": "https://www.ransomware.live/id/QUlSQ09ORCBTLlIuTC5Ac2lub2Jp",
-      "summary": "AIRCOND S.R.L. is based at PZA LORENZO LOTTO, 11, Italy and is a Private limited company (Ltd.) company. The company is listed as Active and employs 1 people. AIRCOND S.R.L. has the registration number RM1409319. The company began trading on 6 June 2014, and their principal business enterprise is Installation of hydraulic, heating and airconditioning systems (including maintenance and repair) in buildings or other constructions.",
-      "pubDate": "Tue, 16 Dec 2025 21:28:42 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/sinobi?17b2f662221b16acd2cb1d876cce5210",
-      "group": "Sinobi",
-      "victim": "AIRCOND S.R.L.",
-      "country": "IT"
     }
   ]
 }
