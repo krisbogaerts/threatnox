@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-23T21:11:49.732Z",
+  "updatedAt": "2025-12-23T22:12:14.250Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : pellcityschools.net",
+      "link": "https://www.ransomware.live/id/cGVsbGNpdHlzY2hvb2xzLm5ldEBzYWZlcGF5",
+      "summary": "Pell City Schools is a public K-12 school district based in Pell City, Alabama, serving students from pre-kindergarten through 12th …",
+      "pubDate": "Tue, 23 Dec 2025 21:50:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?e6bb8ee508f60b069acf0558ea1bb843",
+      "group": "Safepay",
+      "victim": "pellcityschools.net",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Notin",
       "link": "https://www.ransomware.live/id/Tm90aW5AZXZlcmVzdA==",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "A Uzzo",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : TACK Electronics",
-      "link": "https://www.ransomware.live/id/VEFDSyBFbGVjdHJvbmljc0BzaW5vYmk=",
-      "summary": "TACK Electronics specializes in producing high-quality custom wire harnesses and cable assemblies tailored for a variety of electronic applications across multiple industries. With over 25 years of experience, the company offers services including kitting, inventory management, and strategic sourcing to enhance efficiency for its clients. They are committed to quality production, ensuring that all products are 100% tested and meet customer expectations. Their clientele includes leading companies in sectors such as entertainment, transportation, aerospace, and medical.",
-      "pubDate": "Tue, 16 Dec 2025 21:29:41 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?143e01ef3c0ac430b046007160a68eaa",
-      "group": "Sinobi",
-      "victim": "TACK Electronics",
-      "country": ""
     }
   ]
 }
