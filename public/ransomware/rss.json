@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-23T12:24:33.542Z",
+  "updatedAt": "2025-12-23T13:30:27.968Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Worldleaks has just published a new victim : Chatham Asset Management",
+      "link": "https://www.ransomware.live/id/Q2hhdGhhbSBBc3NldCBNYW5hZ2VtZW50QHdvcmxkbGVha3M=",
+      "summary": "[AI generated] Chatham Asset Management is a private investment firm specializing in various sectors like media, real estate, and more. They primarily focus on improving operations, promoting growth, reducing costs, and increasing profits. They also aim at managing companies that are undervalued or facing financial difficulties. Established in 2002, it is headquartered in Chatham, New Jersey, USA.",
+      "pubDate": "Tue, 23 Dec 2025 13:24:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/worldleaks?9121e119d863076dd7c5ab8f465bdfba",
+      "group": "Worldleaks",
+      "victim": "Chatham Asset Management",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : Woodglen Medical Group",
       "link": "https://www.ransomware.live/id/V29vZGdsZW4gTWVkaWNhbCBHcm91cEBhbnViaXM=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?6cda01e54b7f8da5cf3ccc146e79a6c4",
       "group": "Sinobi",
       "victim": "Trine Access Technology",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Power Curbers",
-      "link": "https://www.ransomware.live/id/UG93ZXIgQ3VyYmVyc0BzaW5vYmk=",
-      "summary": "Established in 1953 in Salisbury, NC, Power Curbers manufactured the worlds first automatic curb machine. The original machines, extruders used in forming small curbs, are still manufactured as the Power Curber 150 extruder.",
-      "pubDate": "Tue, 16 Dec 2025 20:25:56 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?7858e5a53c41d309fd56451d6cf1fd50",
-      "group": "Sinobi",
-      "victim": "Power Curbers",
       "country": "US"
     }
   ]
