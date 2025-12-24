@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-23T23:11:41.539Z",
+  "updatedAt": "2025-12-24T00:57:42.985Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : Carbis Loadtec",
+      "link": "https://www.ransomware.live/id/Q2FyYmlzIExvYWR0ZWNAYW51Ymlz",
+      "summary": "Contracts, drawings, and client contacts.",
+      "pubDate": "Tue, 23 Dec 2025 23:20:06 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/anubis?05174bc4abc9dccc904161a48a1a4613",
+      "group": "Anubis",
+      "victim": "Carbis Loadtec",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : pellcityschools.net",
       "link": "https://www.ransomware.live/id/cGVsbGNpdHlzY2hvb2xzLm5ldEBzYWZlcGF5",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "Keycodes Inspection Agency",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : A Uzzo",
-      "link": "https://www.ransomware.live/id/QSBVenpvQHNpbm9iaQ==",
-      "summary": "A. Uzzo &amp; Company is a certified public accounting firm based in Purchase, NY, specializing in personalized accounting, tax planning, and advisory services. They cater to a diverse clientele, including small business owners, individuals seeking financial planning, and corporations requiring complex accounting solutions. With decades of experience, the firm emphasizes tailored strategies, innovative solutions, and long-term client relationships. Their comprehensive services include tax planning and preparation, estate and wealth advisory, and accounting consulting.",
-      "pubDate": "Tue, 16 Dec 2025 21:29:59 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/sinobi?baf08029de7937c825dccf0cdfa3bbd1",
-      "group": "Sinobi",
-      "victim": "A Uzzo",
-      "country": "IT"
     }
   ]
 }
