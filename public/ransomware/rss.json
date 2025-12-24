@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-24T20:13:26.103Z",
+  "updatedAt": "2025-12-24T21:10:49.764Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : National Credit Regulator (NCR)",
+      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgQ3JlZGl0IFJlZ3VsYXRvciAoTkNSKUBkcmFnb25mb3JjZQ==",
+      "summary": "The National Credit Regulator (NCR) is the statutory body established under the National Credit Act 34 of 2005 to regulate the South African credit industry. The NCR is responsible for the registration of credit providers, credit bureaus, debt counsellors, payment distribution agents, and alternative dispute resolution agents. It monitors compliance with the Act, enforces regulations, and promotes consumer education to ensure a fair, transparent, and accessible credit market.",
+      "pubDate": "Wed, 24 Dec 2025 19:44:44 +0000",
+      "category": "ZA",
+      "guid": "https://www.ransomware.live/group/dragonforce?5d77d48c4fcbfea1760fecbf1052671c",
+      "group": "Dragonforce",
+      "victim": "National Credit Regulator (NCR)",
+      "country": "ZA"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : cmac-llc.com",
       "link": "https://www.ransomware.live/id/Y21hYy1sbGMuY29tQHNhZmVwYXk=",
@@ -2190,17 +2201,6 @@
       "group": "Termite",
       "victim": "MedHelp",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : CVK Hotels & Resorts_Turkey",
-      "link": "https://www.ransomware.live/id/Q1ZLIEhvdGVscyAmIFJlc29ydHNfVHVya2V5QGluY3JhbnNvbQ==",
-      "summary": "We would like to draw your attention to the fact that even after being notified of the leak, the management of this organization treated it with complete indifference. If you are one of this organization&#x27;s customers, rest assured that they couldn&#x27;t care less about your personal data and who will use it and how.\r ----------------\r CVK Hotels &amp; Resorts offers luxury accommodations in the heart of Istanbul, providing guests with a blend of traditional Turkish hospitality and modern comfort. The company operates several hotels, including the CVK Park Bosphorus Hotel, CVK Park Bosphorus Residences, and CVK Taksim Hotel, catering to both leisure and business travelers. Their services include fine dining, spa and fitness facilities, and event spaces, ensuring a comprehensive experience for their clients. With a focus on creating memorable stays, CVK Hotels &amp; Resorts also features a rewards program for guests to earn benefits during their visits.",
-      "pubDate": "Wed, 17 Dec 2025 21:49:22 +0000",
-      "category": "TR",
-      "guid": "https://www.ransomware.live/group/incransom?135a41dc896e95c24c565dc76c132291",
-      "group": "Incransom",
-      "victim": "CVK Hotels & Resorts_Turkey",
-      "country": "TR"
     }
   ]
 }
