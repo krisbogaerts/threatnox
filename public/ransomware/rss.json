@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-24T22:12:28.397Z",
+  "updatedAt": "2025-12-24T23:12:04.265Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : The Salvation Army",
+      "link": "https://www.ransomware.live/id/VGhlIFNhbHZhdGlvbiBBcm15QGludGVybG9jaw==",
+      "summary": "The Salvation Army, established in 1865, has been offering an array of social services that range from providing food for the hungry, relief for disaster victims, assistance for the disabled, outreach to the elderly and ill, clothing and shelter to the homeless and opportunities for underprivileged children.",
+      "pubDate": "Wed, 24 Dec 2025 21:56:20 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/interlock?7f18dce738f40276a60598c5116cfe95",
+      "group": "Interlock",
+      "victim": "The Salvation Army",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : polhun.pl",
       "link": "https://www.ransomware.live/id/cG9saHVuLnBsQHNhZmVwYXk=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Best Hotels Spain",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Handala has just published a new victim : The 200,000 Message Bombshell: Bennett’s Game is Over",
-      "link": "https://www.ransomware.live/id/VGhlIDIwMCwwMDAgTWVzc2FnZSBCb21ic2hlbGw6IEJlbm5ldHTigJlzIEdhbWUgaXMgT3ZlckBoYW5kYWxh",
-      "summary": "To Naftali Bennett, We watched your video with great amusement as you tried to brush off the truth, insisting that your phone was never hacked and all reports are fake. How desperate you must be, thinking that repeating a lie makes it any less false. It’s almost entertaining to see how confident you are in…",
-      "pubDate": "Thu, 18 Dec 2025 11:54:19 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/handala?1fbde7eb7f31e86606ea32c686aec63f",
-      "group": "Handala",
-      "victim": "The 200,000 Message Bombshell: Bennett’s Game is Over",
-      "country": ""
     }
   ]
 }
