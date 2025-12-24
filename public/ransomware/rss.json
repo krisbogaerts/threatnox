@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-24T07:17:08.394Z",
+  "updatedAt": "2025-12-24T08:18:20.506Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Prime Label",
+      "link": "https://www.ransomware.live/id/UHJpbWUgTGFiZWxAZHJhZ29uZm9yY2U=",
+      "summary": "Prime Label Consultants (PLC) specializes in consulting services for food label compliance with USDA and FDA regulations. Their offerings include label expediting, consulting, training, software solutions, auditing, and outsourcing tailored for the food industry. PLC serves a diverse clientele, including manufacturers, retailers, and brand marketers, providing comprehensive support from label development to regulatory approval. With a strong track record and daily interactions with government regulators, PLC is a trusted partner for over half of the top 100 food companies in the U.S.",
+      "pubDate": "Wed, 24 Dec 2025 07:21:20 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/dragonforce?62947e2d732eddf6272ac983ae96c06c",
+      "group": "Dragonforce",
+      "victim": "Prime Label",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Niradia Enterprises",
       "link": "https://www.ransomware.live/id/TmlyYWRpYSBFbnRlcnByaXNlc0BxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "ANG BROTHERS (M&E) PTE. LTD.",
       "country": "SG"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : https://avenira.com/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9hdmVuaXJhLmNvbS9AaW5jcmFuc29t",
-      "summary": "1tb data    and nda data",
-      "pubDate": "Tue, 16 Dec 2025 23:51:35 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/incransom?feb2bcf2a21cea26a1ad0841bb72871c",
-      "group": "Incransom",
-      "victim": "https://avenira.com/",
-      "country": "AU"
     }
   ]
 }
