@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-24T19:09:31.318Z",
+  "updatedAt": "2025-12-24T20:13:26.103Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : cmac-llc.com",
+      "link": "https://www.ransomware.live/id/Y21hYy1sbGMuY29tQHNhZmVwYXk=",
+      "summary": "cMAC LLC is a small, privately-held construction and general contracting firm based in Renton, Washington, serving residential and commercial clients …",
+      "pubDate": "Wed, 24 Dec 2025 19:26:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/safepay?f46d361f800c0e89b6d3a8be7936184e",
+      "group": "Safepay",
+      "victim": "cmac-llc.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : envases-group.com",
+      "link": "https://www.ransomware.live/id/ZW52YXNlcy1ncm91cC5jb21Ac2FmZXBheQ==",
+      "summary": "Envases Group is a privately held multinational packaging manufacturer and solutions provider with deep roots in the global containers and …",
+      "pubDate": "Wed, 24 Dec 2025 19:26:24 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/safepay?9e3bb63bba01f63e88698c9ea67bc8d0",
+      "group": "Safepay",
+      "victim": "envases-group.com",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Agralite Electric Cooperative",
       "link": "https://www.ransomware.live/id/QWdyYWxpdGUgRWxlY3RyaWMgQ29vcGVyYXRpdmVAYWtpcmE=",
@@ -2179,28 +2201,6 @@
       "group": "Incransom",
       "victim": "CVK Hotels & Resorts_Turkey",
       "country": "TR"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : seguriamericas.com",
-      "link": "https://www.ransomware.live/id/c2VndXJpYW1lcmljYXMuY29tQHNhZmVwYXk=",
-      "summary": "SeguriAmericas, formally known as Seguridad Las Americas Ltda, is a Colombian company specialising in private security and investigation services. Founded …",
-      "pubDate": "Wed, 17 Dec 2025 20:27:13 +0000",
-      "category": "CO",
-      "guid": "https://www.ransomware.live/group/safepay?8f4187cd1e7240682b733ecdda1c9cd9",
-      "group": "Safepay",
-      "victim": "seguriamericas.com",
-      "country": "CO"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : smilecenterutah.com",
-      "link": "https://www.ransomware.live/id/c21pbGVjZW50ZXJ1dGFoLmNvbUBzYWZlcGF5",
-      "summary": "Smile Center Utah is a private dental practice located in Provo, Utah, providing comprehensive oral healthcare services to patients of …",
-      "pubDate": "Wed, 17 Dec 2025 20:26:39 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?bac11e455c17af77143f14e334b99e56",
-      "group": "Safepay",
-      "victim": "smilecenterutah.com",
-      "country": "US"
     }
   ]
 }
