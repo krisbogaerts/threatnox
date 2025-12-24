@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-24T12:23:29.856Z",
+  "updatedAt": "2025-12-24T13:26:27.506Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Steel Dynamics",
+      "link": "https://www.ransomware.live/id/U3RlZWwgRHluYW1pY3NAYWtpcmE=",
+      "summary": "Steel Dynamics is a leading manufacturer of steel products and pr ovider of metals recycling services operating in the United State s and internationally since 1993. The company produces a comprehe nsive range of steel products including sheet steel, structural b eams, rail products, engineered bars, and specialty steel section s. Steel Dynamics also offers metals recycling services, processi ng both ferrous and nonferrous scrap metals into reusable forms. We are going to upload their corporate data soon. You will find t ons of Accounting files, documents, and audits. Upon obtaining th is data, you could gain invaluable insights into their company&#x27;s  financial health and strategic direction making.",
+      "pubDate": "Wed, 24 Dec 2025 12:12:16 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?a4acfa555e782121626c36dbd6b712e5",
+      "group": "Akira",
+      "victim": "Steel Dynamics",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Tri-State Metal Roofing Supply",
       "link": "https://www.ransomware.live/id/VHJpLVN0YXRlIE1ldGFsIFJvb2ZpbmcgU3VwcGx5QGRyYWdvbmZvcmNl",
@@ -2190,17 +2201,6 @@
       "group": "Devman",
       "victim": "Jet ********",
       "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Handala has just published a new victim : Operation Octopus: Naftali Bennett",
-      "link": "https://www.ransomware.live/id/T3BlcmF0aW9uIE9jdG9wdXM6IE5hZnRhbGkgQmVubmV0dEBoYW5kYWxh",
-      "summary": "Dear Naftali Bennett, You once prided yourself on being a beacon of cybersecurity, parading your expertise before the world. Yet, how ironic that your own iPhone 13 has fallen so easily to the hands of Handala. For all your boasts and bravado, your digital fortress was nothing more than a paper wall waiting to be…",
-      "pubDate": "Wed, 17 Dec 2025 11:43:07 +0000",
-      "category": "IL",
-      "guid": "https://www.ransomware.live/group/handala?f85ebf237b79a4903a8e349b4ea3ba95",
-      "group": "Handala",
-      "victim": "Operation Octopus: Naftali Bennett",
-      "country": "IL"
     }
   ]
 }
