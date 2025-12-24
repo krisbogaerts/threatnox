@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-24T02:50:10.384Z",
+  "updatedAt": "2025-12-24T03:53:56.674Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Autohaus Elstermann",
+      "link": "https://www.ransomware.live/id/QXV0b2hhdXMgRWxzdGVybWFubkBzcGFjZWJlYXJz",
+      "summary": "Performance, reliability, safety – what distinguishes Renault / Dacia / Kia vehicles also applies to us. We offer you excellent service, good prices, expert advice, and a friendly team.Comprehensive service for carefree driving pleasure. You can rely on it, because nobody knows your Renault better than we do.DatabaseFinancial documentsPersonal information of employees and clients https://www.autohaus-elstermann.de/",
+      "pubDate": "Wed, 24 Dec 2025 03:02:15 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/spacebears?5b5c63334d8517ee2db4c89755fe5023",
+      "group": "Spacebears",
+      "victim": "Autohaus Elstermann",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : Carbis Loadtec",
       "link": "https://www.ransomware.live/id/Q2FyYmlzIExvYWR0ZWNAYW51Ymlz",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "Centurion Security & Investigations",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Keycodes Inspection Agency",
-      "link": "https://www.ransomware.live/id/S2V5Y29kZXMgSW5zcGVjdGlvbiBBZ2VuY3lAc2lub2Jp",
-      "summary": "Keycodes Inspection Agency is a Pennsylvania State certified third-party inspection agency specializing in residential and commercial building inspections, including plumbing, mechanical, electrical, energy, and accessibility inspections. The agency is dedicated to public safety and customer service, ensuring timely and professional building code inspections. Their inspectors maintain current knowledge of building codes through required continuing education courses. Keycodes Inspection Agency is recognized as Lehigh Valley&#x27;s premier inspection agency.",
-      "pubDate": "Tue, 16 Dec 2025 21:30:17 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/sinobi?c9af1df43fbe28afe3e5290baf90fbd6",
-      "group": "Sinobi",
-      "victim": "Keycodes Inspection Agency",
-      "country": "IN"
     }
   ]
 }
