@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-24T11:11:36.714Z",
+  "updatedAt": "2025-12-24T12:23:29.856Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Tri-State Metal Roofing Supply",
+      "link": "https://www.ransomware.live/id/VHJpLVN0YXRlIE1ldGFsIFJvb2ZpbmcgU3VwcGx5QGRyYWdvbmZvcmNl",
+      "summary": "Tri-State Metal Roofing Supply is Utah&#x27;s top metal roof supplier offering a variety of roofing and siding materials factory-direct, including standing seam and corrugated panels. They provide quality American-made materials at manufacturer-direct pricing and offer delivery services and fast, free estimates. With excellent customer service and lead times, they serve clients through their three locations in Riverdale, Payson, and St. George.",
+      "pubDate": "Wed, 24 Dec 2025 11:23:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?f69bee8252089b49f4207806cdc377e3",
+      "group": "Dragonforce",
+      "victim": "Tri-State Metal Roofing Supply",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Chaos has just published a new victim : amsino.com",
       "link": "https://www.ransomware.live/id/YW1zaW5vLmNvbUBjaGFvcw==",
@@ -2190,17 +2201,6 @@
       "group": "Handala",
       "victim": "Operation Octopus: Naftali Bennett",
       "country": "IL"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Amla Commerce",
-      "link": "https://www.ransomware.live/id/QW1sYSBDb21tZXJjZUBkcmFnb25mb3JjZQ==",
-      "summary": "Amla Commerce develops ecommerce software platforms. Architected with a focus on long-term sustainability, the platforms offer unmatched flexibility and scalability, as well as premium feature sets and deep functionality proven to enable growth and support even the most complex operational needs for mid-market and enterprise-level companies. Amla Commerce is the parent company of Artifi Labs, an enterprise product customization platform, and Znode, a .NET ecommerce platform with headless architecture and multi-store capabilities. Artifi and Znode power the ecommerce experiences of hundreds of companies across dozens of industries including apparel and soft goods, promotional products, uniforms, CPG and retail. Amla Commerce is a privately-held company, headquartered in Milwaukee, WI.",
-      "pubDate": "Wed, 17 Dec 2025 08:52:17 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?b0ffd9986c8d6f536971c94013296111",
-      "group": "Dragonforce",
-      "victim": "Amla Commerce",
-      "country": "US"
     }
   ]
 }
