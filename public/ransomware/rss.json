@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-25T08:17:21.748Z",
+  "updatedAt": "2025-12-25T09:15:10.791Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Lynn Electrical",
+      "link": "https://www.ransomware.live/id/THlubiBFbGVjdHJpY2FsQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 25 Dec 2025 08:33:25 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?0b7e766ea6504c09b587663c3b99c412",
+      "group": "Qilin",
+      "victim": "Lynn Electrical",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : SEIMITSU THAI COMPANY LIMITED",
+      "link": "https://www.ransomware.live/id/U0VJTUlUU1UgVEhBSSBDT01QQU5ZIExJTUlURURAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 25 Dec 2025 08:32:00 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/qilin?716b3cb3c3403d26b603a97295f755dd",
+      "group": "Qilin",
+      "victim": "SEIMITSU THAI COMPANY LIMITED",
+      "country": "TH"
+    },
     {
       "title": "🏴‍☠️ Termite has just published a new victim : Hermes Medical Solutions",
       "link": "https://www.ransomware.live/id/SGVybWVzIE1lZGljYWwgU29sdXRpb25zQHRlcm1pdGU=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/akira?9d5487090294c868256ec89c25cd3cd3",
       "group": "Akira",
       "victim": "Morningstar Properties",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Household & Commercial Products Association",
-      "link": "https://www.ransomware.live/id/SG91c2Vob2xkICYgQ29tbWVyY2lhbCBQcm9kdWN0cyBBc3NvY2lhdGlvbkBha2lyYQ==",
-      "summary": "HCPA, or the Household and Commercial Products Association, repre sents companies that manufacture and sell household and commercia l products, advocating for a sound business environment that prom otes safety and innovation. We will upload 23gb of corporate data soon. Employees, clients, p artners personal documents, financial information, a lot of proje cts files (many of them are confidential), production information , NDAs, etc.",
-      "pubDate": "Thu, 18 Dec 2025 14:09:13 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?c2142250e6579824ded19e954b7fcb30",
-      "group": "Akira",
-      "victim": "Household & Commercial Products Association",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Farwest Fabrication",
-      "link": "https://www.ransomware.live/id/RmFyd2VzdCBGYWJyaWNhdGlvbkBha2lyYQ==",
-      "summary": "Farwest Fabrication specializes in steel fabrication, offering pr oducts such as pipe piling, structural and architectural steel. We will upload 45gb of corporate data soon. Employees information , financials, payment details, client files, NDAs, etc.",
-      "pubDate": "Thu, 18 Dec 2025 13:18:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9404179b5c5622553e3c37a3f4cc9209",
-      "group": "Akira",
-      "victim": "Farwest Fabrication",
       "country": "US"
     }
   ]
