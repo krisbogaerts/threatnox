@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-25T19:09:52.635Z",
+  "updatedAt": "2025-12-25T20:14:01.680Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : kavi.fi",
+      "link": "https://www.ransomware.live/id/a2F2aS5maUBkZXZtYW4=",
+      "summary": "HR data",
+      "pubDate": "Thu, 25 Dec 2025 18:52:17 +0000",
+      "category": "FI",
+      "guid": "https://www.ransomware.live/group/devman?c1e24d0270b11572899cc37758a02a0b",
+      "group": "Devman",
+      "victim": "kavi.fi",
+      "country": "FI"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : i**o**.us",
+      "link": "https://www.ransomware.live/id/aSoqbyoqLnVzQGRldm1hbg==",
+      "summary": "Financial, Hr documents, claims",
+      "pubDate": "Thu, 25 Dec 2025 18:50:54 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?cb6ede58c1d94e08ea68bd48b28d1214",
+      "group": "Devman",
+      "victim": "i**o**.us",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Devman has just published a new victim : ***ind***es.com",
+      "link": "https://www.ransomware.live/id/KioqaW5kKioqZXMuY29tQGRldm1hbg==",
+      "summary": "Hr data, client data",
+      "pubDate": "Thu, 25 Dec 2025 18:49:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/devman?722ae6cc1080a07a6400f898eb5b1cfe",
+      "group": "Devman",
+      "victim": "***ind***es.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Madera County Superintendent of Schools",
       "link": "https://www.ransomware.live/id/TWFkZXJhIENvdW50eSBTdXBlcmludGVuZGVudCBvZiBTY2hvb2xzQHFpbGlu",
@@ -2168,39 +2201,6 @@
       "group": "Clop",
       "victim": "KOEL.CO.IN",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Tlechaim",
-      "link": "https://www.ransomware.live/id/VGxlY2hhaW1AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 18 Dec 2025 16:43:31 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?4915806fb8fe3f54870806127d8c82b7",
-      "group": "Qilin",
-      "victim": "Tlechaim",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : L.O. Trading",
-      "link": "https://www.ransomware.live/id/TC5PLiBUcmFkaW5nQGx5bng=",
-      "summary": "L.O. Trading is a leading Technical Trading and Logistics Company that specializes in raw materials, industrial purchases, logistics operations, and inland freight services. They cater to clients across North America, Europe, South America, Central America, and Asia, providing solutions for sourcing, buying, and transporting goods. The company emphasizes personalized customer service and competitive pricing, ensuring the best logistic solutions and discounts on freights. With a trusted history since 1993, L.O. Trading focuses on building long-lasting commercial relationships",
-      "pubDate": "Thu, 18 Dec 2025 16:39:07 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?f50e049f0ff6733a74153efa5061b12d",
-      "group": "Lynx",
-      "victim": "L.O. Trading",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Phillips Scales",
-      "link": "https://www.ransomware.live/id/UGhpbGxpcHMgU2NhbGVzQGFraXJh",
-      "summary": "Phillips Scales Alaska is the largest distributor of commercial a nd industrial scales in the state, offering a wide range of produ cts including airport, bench, crane, floor, retail, and truck sca les. We will upload 10gb of corporate data soon. Employees personal do cuments (passports, DLs, SSNs and other information), detailed fi nancial information, client information, projects, NDAs, etc.",
-      "pubDate": "Thu, 18 Dec 2025 16:18:42 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/akira?927983079e84bb194c64bf04acd37b84",
-      "group": "Akira",
-      "victim": "Phillips Scales",
-      "country": ""
     }
   ]
 }
