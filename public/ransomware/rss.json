@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-25T00:57:56.300Z",
+  "updatedAt": "2025-12-25T02:53:15.075Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Termite has just published a new victim : Hermes Medical Solutions",
+      "link": "https://www.ransomware.live/id/SGVybWVzIE1lZGljYWwgU29sdXRpb25zQHRlcm1pdGU=",
+      "summary": "Hermes Medical Solutions is a leader in molecular imaging software, offering an innovative suite designed for faster and more personalized diagnostics and therapies in the fields of nuclear medicine and molecular imaging. Their all-in-one software, Hermia, integrates various medical imaging modalities and advanced dosimetry tools, making it suitable for diverse clinical specialties.",
+      "pubDate": "Thu, 25 Dec 2025 01:40:47 +0000",
+      "category": "SE",
+      "guid": "https://www.ransomware.live/group/termite?142a7313a4207161076af2a2caa8af74",
+      "group": "Termite",
+      "victim": "Hermes Medical Solutions",
+      "country": "SE"
+    },
     {
       "title": "🏴‍☠️ Killsec has just published a new victim : grade results",
       "link": "https://www.ransomware.live/id/Z3JhZGUgcmVzdWx0c0BraWxsc2Vj",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Farwest Fabrication",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Telechaim",
-      "link": "https://www.ransomware.live/id/VGVsZWNoYWltQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Thu, 18 Dec 2025 13:03:13 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?7328789e4f5606b65d5504657989dc43",
-      "group": "Qilin",
-      "victim": "Telechaim",
-      "country": ""
     }
   ]
 }
