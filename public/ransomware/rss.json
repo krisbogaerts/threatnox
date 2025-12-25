@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-25T22:11:50.556Z",
+  "updatedAt": "2025-12-25T23:12:05.460Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Bangchak Corporation",
+      "link": "https://www.ransomware.live/id/QmFuZ2NoYWsgQ29ycG9yYXRpb25AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 25 Dec 2025 22:49:14 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/qilin?383d423a87a0f82e0915eb6ebdd10dc1",
+      "group": "Qilin",
+      "victim": "Bangchak Corporation",
+      "country": "TH"
+    },
     {
       "title": "🏴‍☠️ Devman has just published a new victim : kavi.fi",
       "link": "https://www.ransomware.live/id/a2F2aS5maUBkZXZtYW4=",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "Behr Enterprises",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Clop has just published a new victim : KOEL.CO.IN",
-      "link": "https://www.ransomware.live/id/S09FTC5DTy5JTkBjbG9w",
-      "summary": "[AI generated] KOEL.CO.IN, also known as Kirloskar Oil Engines Ltd., is a leading Indian manufacturer of diesel engines, agricultural pumps, and generator sets. It&#x27;s a flagship company of the century-old Kirloskar Group. KOEL is renowned globally for manufacturing durable and reliable products that cater to sectors including agriculture, industries, and domestic usage. Their products have varied applications, ensuring complete power solutions.",
-      "pubDate": "Thu, 18 Dec 2025 18:10:28 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/clop?dd3aab541d5e43e3cf76ffb1c0d7f9ee",
-      "group": "Clop",
-      "victim": "KOEL.CO.IN",
-      "country": "IN"
     }
   ]
 }
