@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-24T23:12:04.265Z",
+  "updatedAt": "2025-12-25T00:57:56.300Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Killsec has just published a new victim : grade results",
+      "link": "https://www.ransomware.live/id/Z3JhZGUgcmVzdWx0c0BraWxsc2Vj",
+      "summary": "Price ??? Disclosures 0/1",
+      "pubDate": "Wed, 24 Dec 2025 23:55:01 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/killsec?b01e5b9e0a4daa496a35f53c5346047f",
+      "group": "Killsec",
+      "victim": "grade results",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : The Salvation Army",
       "link": "https://www.ransomware.live/id/VGhlIFNhbHZhdGlvbiBBcm15QGludGVybG9jaw==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Telechaim",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Best Hotels Spain",
-      "link": "https://www.ransomware.live/id/QmVzdCBIb3RlbHMgU3BhaW5AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 18 Dec 2025 13:02:35 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?14ba7bb553c1335db9f13856643b76f2",
-      "group": "Qilin",
-      "victim": "Best Hotels Spain",
-      "country": "ES"
     }
   ]
 }
