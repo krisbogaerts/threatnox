@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-25T18:17:57.788Z",
+  "updatedAt": "2025-12-25T19:09:52.635Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Madera County Superintendent of Schools",
+      "link": "https://www.ransomware.live/id/TWFkZXJhIENvdW50eSBTdXBlcmludGVuZGVudCBvZiBTY2hvb2xzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 25 Dec 2025 18:20:22 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?1b50522a80221b3da4837c334bd99f91",
+      "group": "Qilin",
+      "victim": "Madera County Superintendent of Schools",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Chrysler",
+      "link": "https://www.ransomware.live/id/Q2hyeXNsZXJAZXZlcmVzdA==",
+      "summary": "[AI generated] Chrysler is an American automobile manufacturer that was first established in 1925. Known for their range of reliable family cars, luxury sedans, and sporty convertibles, the company has a significant role in the global automotive industry. It was founded by Walter Chrysler, and is currently a subsidiary of Stellantis, resulting from the merger of Fiat Chrysler and Groupe PSA.",
+      "pubDate": "Thu, 25 Dec 2025 17:53:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?076b4011cfac542594ffdb87bba4d92d",
+      "group": "Everest",
+      "victim": "Chrysler",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : CYMA SYSTEMS",
       "link": "https://www.ransomware.live/id/Q1lNQSBTWVNURU1TQG5vdmE=",
@@ -2179,28 +2201,6 @@
       "group": "Akira",
       "victim": "Phillips Scales",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Associated Thermoforming",
-      "link": "https://www.ransomware.live/id/QXNzb2NpYXRlZCBUaGVybW9mb3JtaW5nQGFraXJh",
-      "summary": "Associated Thermoforming offers a full range of services. ATI spe cializes in technically challenging custom thermoforming solution s, including vacuum forming, pressure forming, and twin sheet for ming. We will upload 582gb of corporate data soon. Employees personal d ocuments (passports, DLs and so on), financial information, clien t information, numerous projects, NDAs, confidential files, etc.",
-      "pubDate": "Thu, 18 Dec 2025 16:18:36 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?d89e06db81aa2e24b810a2d74fc2416b",
-      "group": "Akira",
-      "victim": "Associated Thermoforming",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Grandes Vinos",
-      "link": "https://www.ransomware.live/id/R3JhbmRlcyBWaW5vc0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Thu, 18 Dec 2025 14:47:43 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?b246cff54fb6d17c44265d4a047b3e37",
-      "group": "Qilin",
-      "victim": "Grandes Vinos",
-      "country": "ES"
     }
   ]
 }
