@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-25T15:12:25.150Z",
+  "updatedAt": "2025-12-25T16:15:08.955Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : CYMA SYSTEMS",
+      "link": "https://www.ransomware.live/id/Q1lNQSBTWVNURU1TQG5vdmE=",
+      "summary": "CYMA Payroll and Accounting Software is designed for volume payroll processing and unique markets that process complex payroll. Through Employee Self-Service, the CYMA payroll software extends to the web allowing maximum flexibility. At its core, CYMA has been producing Accounting Software solutions since 1980 - ready to decrypt and return data + stop leak operation, reach us",
+      "pubDate": "Thu, 25 Dec 2025 15:24:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nova?68dd63dcac29744ba763658cd59be00f",
+      "group": "Nova",
+      "victim": "CYMA SYSTEMS",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Lynn Electrical",
       "link": "https://www.ransomware.live/id/THlubiBFbGVjdHJpY2FsQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Grandes Vinos",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Morningstar Properties",
-      "link": "https://www.ransomware.live/id/TW9ybmluZ3N0YXIgUHJvcGVydGllc0Bha2lyYQ==",
-      "summary": "Morningstar Properties is a vertically integrated real estate dev eloper, owner, and operator specializing in self-storage and mari nas.  We will upload 44gb of corporate data soon. Employees personal do cuments (passports, DLs and other information), financials, clien t information, projects, confidential files, NDAs, etc.",
-      "pubDate": "Thu, 18 Dec 2025 14:09:18 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?9d5487090294c868256ec89c25cd3cd3",
-      "group": "Akira",
-      "victim": "Morningstar Properties",
-      "country": "US"
     }
   ]
 }
