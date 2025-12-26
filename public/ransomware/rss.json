@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-26T14:12:38.948Z",
+  "updatedAt": "2025-12-26T15:12:30.904Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Progressive Laboratories",
+      "link": "https://www.ransomware.live/id/UHJvZ3Jlc3NpdmUgTGFib3JhdG9yaWVzQGFraXJh",
+      "summary": "Progressive Laboratories, Inc. specializes in producing targeted  nutritional supplements specifically for healthcare professionals . We will upload corporate data soon. Financials, employees files,  projects, contracts and agreements, NDAs and so on.",
+      "pubDate": "Fri, 26 Dec 2025 13:40:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?4a45dc393d1631621cd5e9591c5bb4f8",
+      "group": "Akira",
+      "victim": "Progressive Laboratories",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Ruhrpumpen",
+      "link": "https://www.ransomware.live/id/UnVocnB1bXBlbkBha2lyYQ==",
+      "summary": "Founded in 2000 and headquartered in Tulsa, Oklahoma, Ruhrpumpen  Group designs manufactures, and supplies pump and pumping equipme nt. The Company produces overhung pumps, vertical pumps, hydrauli c decoking systems, fire pumps, and other products. We will upload 142gb corporate data soon. SSNs of almost 600 empl oyees and other personal information, detailed financials, projec ts, contracts and agreements, NDA, numerous project files and so  on.",
+      "pubDate": "Fri, 26 Dec 2025 13:40:31 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/akira?a57749465d327a599d8d9265bbaa3f02",
+      "group": "Akira",
+      "victim": "Ruhrpumpen",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : Hintenberger GmbH",
       "link": "https://www.ransomware.live/id/SGludGVuYmVyZ2VyIEdtYkhAYWtpcmE=",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?d7f4efd9fe6eda8586aa4a45d2b91929",
       "group": "Sinobi",
       "victim": "South Shore Tool & Die",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Lawrence Family Jewish Community Center",
-      "link": "https://www.ransomware.live/id/TGF3cmVuY2UgRmFtaWx5IEpld2lzaCBDb21tdW5pdHkgQ2VudGVyQHNpbm9iaQ==",
-      "summary": "The Lawrence Family Jewish Community Center (LFJCC) offers a diverse range of programs and services aimed at fostering community among San Diego&#x27;s Jewish population as well as the general public. Their offerings include sports, fitness, aquatics, early childhood education, and various cultural events that cater to all age groups. The center emphasizes inclusivity and welcomes individuals from any background or faith to participate in their programs. Key initiatives include youth camps, educational classes, and cultural events that celebrate Jewish heritage and community engagement.",
-      "pubDate": "Thu, 18 Dec 2025 21:29:58 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?651ee7070b27614983137cbb4d40a29d",
-      "group": "Sinobi",
-      "victim": "Lawrence Family Jewish Community Center",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Optimum Window Manufacturing",
-      "link": "https://www.ransomware.live/id/T3B0aW11bSBXaW5kb3cgTWFudWZhY3R1cmluZ0BzaW5vYmk=",
-      "summary": "Optimum Window Mfg is the largest and most diversified manufacturer of steel windows and doors in the United States, offering custom high-tech metal systems for commercial and high-end residential applications since 1985. The company specializes in a wide range of products including fire-rated and non-rated steel windows and doors, aluminum windows and doors, as well as bronze and stainless steel options. Optimum collaborates closely with architects to create custom designs that merge performance, structural integrity, and aesthetic appeal. Their mission emphasizes the importance of precision craftsmanship and technology to deliver unique, high-quality products tailored to their clients&#x27; specifications.",
-      "pubDate": "Thu, 18 Dec 2025 21:29:40 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?bd7f07176f599b1c2a3806a836d138fd",
-      "group": "Sinobi",
-      "victim": "Optimum Window Manufacturing",
       "country": "US"
     }
   ]
