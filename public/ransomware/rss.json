@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-26T12:23:13.278Z",
+  "updatedAt": "2025-12-26T13:27:12.453Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : CSA Tax & Advisory",
+      "link": "https://www.ransomware.live/id/Q1NBIFRheCAmIEFkdmlzb3J5QGx5bng=",
+      "summary": "CSA Tax &amp; Advisory is a licensed accounting firm based in Haverhill, MA, specializing in a wide range of services including personal financial planning, estate planning, and tax services. They cater to business owners, executives, and independent professionals, providing solutions for accounting, payroll, and tax problems. The firm is known for its professional and responsive service, ensuring each client receives personalized attention. With over 75 years of experience, CSA Tax &amp; Advisory aims to help clients navigate complex tax laws and improve their financial well-being",
+      "pubDate": "Fri, 26 Dec 2025 12:22:14 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/lynx?26f2d45b351ec6e9c798d8c5d2da31a1",
+      "group": "Lynx",
+      "victim": "CSA Tax & Advisory",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Chaos has just published a new victim : VEPLASTIC",
+      "link": "https://www.ransomware.live/id/VkVQTEFTVElDQGNoYW9z",
+      "summary": "Veplastic makes high-quality plastic compounds for manufacturers across Italy and Europe.",
+      "pubDate": "Fri, 26 Dec 2025 11:48:53 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/chaos?42e90dcd7c4c0d171373c11200b55e58",
+      "group": "Chaos",
+      "victim": "VEPLASTIC",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Nightspire has just published a new victim : THT Bio-Science, France",
       "link": "https://www.ransomware.live/id/VEhUIEJpby1TY2llbmNlLCBGcmFuY2VAbmlnaHRzcGlyZQ==",
@@ -2179,28 +2201,6 @@
       "group": "Sinobi",
       "victim": "The Salarpuria Sattva Group",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : NBS Canada",
-      "link": "https://www.ransomware.live/id/TkJTIENhbmFkYUBzaW5vYmk=",
-      "summary": "The Network of Biblical Storytellers Canada is a nationwide association of Canadian Christians dedicated to mastering and sharing the art of telling the Bible by heart. They offer workshops, festivals, and resources focused on biblical storytelling for both beginners and experienced tellers. Their events, such as the Festival of Biblical Telling, bring together storytellers from Canada and beyond to develop their skills and performances. Intended clients include individuals interested in biblical storytelling as well as organizations seeking to enhance their ministry through this unique form of expression.",
-      "pubDate": "Thu, 18 Dec 2025 21:29:01 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/sinobi?c9c097ad366a492c369efa28ced54cab",
-      "group": "Sinobi",
-      "victim": "NBS Canada",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : FHIABA",
-      "link": "https://www.ransomware.live/id/RkhJQUJBQHNpbm9iaQ==",
-      "summary": "Fhiaba S.r.l. specializes in high-end refrigeration solutions, offering a diverse range of products including refrigerators, wine cellars, and undercounter units designed for both domestic and professional use. Their products are characterized by exceptional performance, refined elegance, and versatility, catering to various storage needs such as cheese, cured meats, and wines. The company targets clients who seek premium quality and style in their kitchen and storage solutions. Fhiaba&#x27;s commitment to excellence is evident in their innovative designs and customizable options, making them a preferred choice for enhancing exclusive spaces.",
-      "pubDate": "Thu, 18 Dec 2025 21:28:43 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/sinobi?cc47d4812316e311019ec301dcbb68da",
-      "group": "Sinobi",
-      "victim": "FHIABA",
-      "country": "IT"
     }
   ]
 }
