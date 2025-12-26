@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-26T05:14:59.197Z",
+  "updatedAt": "2025-12-26T06:19:38.961Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : THT Bio-Science, France",
+      "link": "https://www.ransomware.live/id/VEhUIEJpby1TY2llbmNlLCBGcmFuY2VAbmlnaHRzcGlyZQ==",
+      "summary": "THT Bio-Science, France",
+      "pubDate": "Fri, 26 Dec 2025 05:47:19 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/nightspire?a383ba2b93590a73d788139b69cb73cd",
+      "group": "Nightspire",
+      "victim": "THT Bio-Science, France",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Bangchak Corporation",
       "link": "https://www.ransomware.live/id/QmFuZ2NoYWsgQ29ycG9yYXRpb25AcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "FHIABA",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Behr Enterprises",
-      "link": "https://www.ransomware.live/id/QmVociBFbnRlcnByaXNlc0BzaW5vYmk=",
-      "summary": "Behr Enterprises is a Wisconsin-based metal fabrication company specializing in a wide range of services including laser cutting, welding, machining, and assembly. They cater to industrial, commercial, and residential clients, offering both high volume manufacturing capabilities and custom specialty designs. The company prides itself on providing &#x27;drop everything&#x27; service, ensuring projects are completed on time with the highest quality craftsmanship. With a team of skilled fabricators and state-of-the-art machinery, Behr Enterprises is committed to delivering precision and reliability in metal fabrication.",
-      "pubDate": "Thu, 18 Dec 2025 21:28:23 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?90db282f1f538835c2cfcec055198639",
-      "group": "Sinobi",
-      "victim": "Behr Enterprises",
-      "country": ""
     }
   ]
 }
