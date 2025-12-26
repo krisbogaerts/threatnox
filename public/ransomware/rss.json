@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-26T13:27:12.453Z",
+  "updatedAt": "2025-12-26T14:12:38.948Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Hintenberger GmbH",
+      "link": "https://www.ransomware.live/id/SGludGVuYmVyZ2VyIEdtYkhAYWtpcmE=",
+      "summary": "Hintenberger GmbH is a traditional master craftsman&#x27;s business. T heir well-coordinated team consists of experienced professionals, from master carpenters, roofers, and plumbers to certified build ing envelope technicians and certified specialists for flat roof  and building waterproofing. We will upload 15gb of corporate data soon. Employees information , detailed accounting, lots of projects, NDA, specifications, and so on.",
+      "pubDate": "Fri, 26 Dec 2025 12:46:11 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/akira?f3106200b93929a46ff40ae4be817b5a",
+      "group": "Akira",
+      "victim": "Hintenberger GmbH",
+      "country": "AT"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : CSA Tax & Advisory",
       "link": "https://www.ransomware.live/id/Q1NBIFRheCAmIEFkdmlzb3J5QGx5bng=",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "Optimum Window Manufacturing",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : The Salarpuria Sattva Group",
-      "link": "https://www.ransomware.live/id/VGhlIFNhbGFycHVyaWEgU2F0dHZhIEdyb3VwQHNpbm9iaQ==",
-      "summary": "Founded in 1986, The Salarpuria Sattva Group is a commercial and residential Property development Consultancy specializing in real estate development of new and used homes. The Salarpuria Sattva Group is located in India.",
-      "pubDate": "Thu, 18 Dec 2025 21:29:23 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/sinobi?ab8eb220b23cb2a7d790ea9cd43695bd",
-      "group": "Sinobi",
-      "victim": "The Salarpuria Sattva Group",
-      "country": "IN"
     }
   ]
 }
