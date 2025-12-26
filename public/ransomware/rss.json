@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2025-12-26T17:10:46.672Z",
+  "updatedAt": "2025-12-26T18:18:06.864Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Hometech Window",
+      "link": "https://www.ransomware.live/id/SG9tZXRlY2ggV2luZG93QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 26 Dec 2025 17:55:37 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?2172c6f471d16a08151fe128b280a6c7",
+      "group": "Qilin",
+      "victim": "Hometech Window",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Georgia Dermatology & Skin Cancer Center",
+      "link": "https://www.ransomware.live/id/R2VvcmdpYSBEZXJtYXRvbG9neSAmIFNraW4gQ2FuY2VyIENlbnRlckBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 26 Dec 2025 17:54:59 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?a5641d83f4248e4e8ede380d7cab0a5e",
+      "group": "Qilin",
+      "victim": "Georgia Dermatology & Skin Cancer Center",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Ortho Mattress",
+      "link": "https://www.ransomware.live/id/T3J0aG8gTWF0dHJlc3NAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 26 Dec 2025 17:54:21 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c93433d1e8268370ea4ee3b15cde55f1",
+      "group": "Qilin",
+      "victim": "Ortho Mattress",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Hopital La Rabta",
+      "link": "https://www.ransomware.live/id/SG9waXRhbCBMYSBSYWJ0YUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 26 Dec 2025 17:53:44 +0000",
+      "category": "TN",
+      "guid": "https://www.ransomware.live/group/qilin?74feb95f552ebb25be9ccdb243dc16bb",
+      "group": "Qilin",
+      "victim": "Hopital La Rabta",
+      "country": "TN"
+    },
     {
       "title": "🏴‍☠️ Lockbit5 has just published a new victim : drako.com.mx",
       "link": "https://www.ransomware.live/id/ZHJha28uY29tLm14QGxvY2tiaXQ1",
@@ -2157,50 +2201,6 @@
       "group": "Devman",
       "victim": "consult*****.c**",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : *n**e-ai",
-      "link": "https://www.ransomware.live/id/Km4qKmUtYWlAZGV2bWFu",
-      "summary": "SRC, Client data",
-      "pubDate": "Fri, 19 Dec 2025 19:46:07 +0000",
-      "category": "CN",
-      "guid": "https://www.ransomware.live/group/devman?06279ef375abb27bd76b6320d86f9991",
-      "group": "Devman",
-      "victim": "*n**e-ai",
-      "country": "CN"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : ****s*oc****.com",
-      "link": "https://www.ransomware.live/id/KioqKnMqb2MqKioqLmNvbUBkZXZtYW4=",
-      "summary": "Financial, Client IDS",
-      "pubDate": "Fri, 19 Dec 2025 19:44:49 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/devman?a1c847024e650a5d21bf0ae5fecdc0de",
-      "group": "Devman",
-      "victim": "****s*oc****.com",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : rogitz.com",
-      "link": "https://www.ransomware.live/id/cm9naXR6LmNvbUBzYWZlcGF5",
-      "summary": "Rogitz &amp; Associates was a small intellectual property law firm based in San Diego, California, specialising in patent prosecution, patent …",
-      "pubDate": "Fri, 19 Dec 2025 18:48:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?3c6b733e36b4341de8f94ab8d286a68b",
-      "group": "Safepay",
-      "victim": "rogitz.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : reger-zahntechnik.de",
-      "link": "https://www.ransomware.live/id/cmVnZXItemFobnRlY2huaWsuZGVAc2FmZXBheQ==",
-      "summary": "Reger Zahntechnik, formally registered in Nuremberg (Nürnberg), Germany as Walter Reger Zahntechnisches Labor GmbH, is a traditional dental laboratory specialising …",
-      "pubDate": "Fri, 19 Dec 2025 18:48:17 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?24055a5f46aa21f4aa64f5a1e5ff3157",
-      "group": "Safepay",
-      "victim": "reger-zahntechnik.de",
-      "country": "DE"
     }
   ]
 }
