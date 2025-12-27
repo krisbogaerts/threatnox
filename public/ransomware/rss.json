@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-27T10:12:08.822Z",
+  "updatedAt": "2025-12-27T11:10:09.277Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Morpheus has just published a new victim : VALLEREDONDO",
+      "link": "https://www.ransomware.live/id/VkFMTEVSRURPTkRPQG1vcnBoZXVz",
+      "summary": "**Website**: valleredondo.com.mx **Revenue**: $50 Million Family owned, founded in 1964 by Don Luis Ferruccio Cetto, right in the center of México, in Aguascalientes. With more than 60 years special",
+      "pubDate": "Sat, 27 Dec 2025 10:48:26 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/morpheus?b31d8d86bd6fbdf41afd817e238caf7a",
+      "group": "Morpheus",
+      "victim": "VALLEREDONDO",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Hometech Window",
       "link": "https://www.ransomware.live/id/SG9tZXRlY2ggV2luZG93QHFpbGlu",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/incransom?a3639ecb9b20b8c82d95865c60be791f",
       "group": "Incransom",
       "victim": "eagrealtyinternational.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : consult*****.c**",
-      "link": "https://www.ransomware.live/id/Y29uc3VsdCoqKioqLmMqKkBkZXZtYW4=",
-      "summary": "Financial, HR data",
-      "pubDate": "Fri, 19 Dec 2025 19:47:25 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?c6ae9197ba3f621ba4ae979cc07475ac",
-      "group": "Devman",
-      "victim": "consult*****.c**",
       "country": "US"
     }
   ]
