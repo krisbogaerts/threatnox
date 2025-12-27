@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-27T18:16:56.244Z",
+  "updatedAt": "2025-12-27T19:09:02.788Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Typhoo Tea",
+      "link": "https://www.ransomware.live/id/VHlwaG9vIFRlYUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 27 Dec 2025 18:23:25 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?7e239f92dead9d6063d86ff51e6542a5",
+      "group": "Qilin",
+      "victim": "Typhoo Tea",
+      "country": "GB"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Dom Development",
+      "link": "https://www.ransomware.live/id/RG9tIERldmVsb3BtZW50QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sat, 27 Dec 2025 18:22:46 +0000",
+      "category": "PL",
+      "guid": "https://www.ransomware.live/group/qilin?155d411817c522ff4224a32f03b5b45c",
+      "group": "Qilin",
+      "victim": "Dom Development",
+      "country": "PL"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : BMW Guatemala",
       "link": "https://www.ransomware.live/id/Qk1XIEd1YXRlbWFsYUBkcmFnb25mb3JjZQ==",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Rio supermarket",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Deibel Laboratories",
-      "link": "https://www.ransomware.live/id/RGVpYmVsIExhYm9yYXRvcmllc0BhbnViaXM=",
-      "summary": "Data breach at a U.S. food safety and quality testing laboratory.",
-      "pubDate": "Fri, 19 Dec 2025 23:19:08 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?23fa5009dd21687b8262ec122581dade",
-      "group": "Anubis",
-      "victim": "Deibel Laboratories",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : RM Medics",
-      "link": "https://www.ransomware.live/id/Uk0gTWVkaWNzQHNpbm9iaQ==",
-      "summary": "RM Medics is a medical recruitment agency specializing in placing healthcare professionals, particularly locum doctors, in NHS hospitals throughout the UK. The company prides itself on its exceptional recruitment consultants and a commitment to providing quality assurance and compliance with NHS standards. With over 30 years of experience, RM Medics offers an out-of-hours service, ensuring quick and efficient solutions for hospitals in urgent need. Their client base primarily includes NHS hospitals requiring both temporary and permanent locum placements.",
-      "pubDate": "Fri, 19 Dec 2025 22:26:38 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/sinobi?91f28548b0fb500ab8c4898ed8662021",
-      "group": "Sinobi",
-      "victim": "RM Medics",
-      "country": "GB"
     }
   ]
 }
