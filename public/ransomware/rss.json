@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-28T11:10:52.816Z",
+  "updatedAt": "2025-12-28T12:22:01.474Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Braverman Files Unleashed: Every Secret Now Exposed",
+      "link": "https://www.ransomware.live/id/QnJhdmVybWFuIEZpbGVzIFVubGVhc2hlZDogRXZlcnkgU2VjcmV0IE5vdyBFeHBvc2VkQGhhbmRhbGE=",
+      "summary": "Handala Hack | Bibi Gate: The Truth Denied, The Evidence Unfolds Once again, as expected, the Prime Minister’s Office of the Zionist regime rushes to deny what can no longer be hidden. They claim, as always, that the hack of Tzachi Braverman, Netanyahu’s Chief of Staff, the gatekeeper, the vault of secrets, is nothing but…",
+      "pubDate": "Sun, 28 Dec 2025 11:21:47 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?0ac44a39c1ea3903fc1f7013d9a0a418",
+      "group": "Handala",
+      "victim": "Braverman Files Unleashed: Every Secret Now Exposed",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Atalian",
       "link": "https://www.ransomware.live/id/QXRhbGlhbkBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Security ONE Alarm Systems",
       "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Kucera International",
-      "link": "https://www.ransomware.live/id/S3VjZXJhIEludGVybmF0aW9uYWxAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Sat, 20 Dec 2025 19:07:39 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?9a5ae4215ca53c3e98ecd51d499c2d67",
-      "group": "Play",
-      "victim": "Kucera International",
-      "country": "US"
     }
   ]
 }
