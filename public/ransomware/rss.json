@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-28T10:12:12.585Z",
+  "updatedAt": "2025-12-28T11:10:52.816Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Atalian",
+      "link": "https://www.ransomware.live/id/QXRhbGlhbkBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sun, 28 Dec 2025 10:43:11 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?27ecff485ff5b82ed845630511a8fd7a",
+      "group": "Qilin",
+      "victim": "Atalian",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Medusa has just published a new victim : JBS",
       "link": "https://www.ransomware.live/id/SkJTQG1lZHVzYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Play",
       "victim": "Kucera International",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Busbusbus",
-      "link": "https://www.ransomware.live/id/QnVzYnVzYnVzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sat, 20 Dec 2025 16:56:47 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?d004bd39e8ed0a5fdf547e0105f326b9",
-      "group": "Qilin",
-      "victim": "Busbusbus",
-      "country": ""
     }
   ]
 }
