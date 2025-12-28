@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-28T22:12:05.495Z",
+  "updatedAt": "2025-12-28T23:11:45.172Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : klingele",
+      "link": "https://www.ransomware.live/id/a2xpbmdlbGVAaW5jcmFuc29t",
+      "summary": "Klingele Paper &amp; Packaging\r Website: www.klingele.com\r \r WE HAS COLLECTED SUCH DATA AS: \r \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Operations\r - Corporate data\r - Business Agreements\r - Technology\r \r - Total: 450GB\r   \r And a lot of other VERY IMPORTANT information!",
+      "pubDate": "Sun, 28 Dec 2025 21:47:04 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/incransom?faebc9f89737dead541568e472bb51ac",
+      "group": "Incransom",
+      "victim": "klingele",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Questica",
       "link": "https://www.ransomware.live/id/UXVlc3RpY2FAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Grupo Olé",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Benzona has just published a new victim : taminsho.com",
-      "link": "https://www.ransomware.live/id/dGFtaW5zaG8uY29tQGJlbnpvbmE=",
-      "summary": "[AI generated] N/A",
-      "pubDate": "Mon, 22 Dec 2025 07:41:54 +0000",
-      "category": "IR",
-      "guid": "https://www.ransomware.live/group/benzona?653abeec56f37757b27a98275c446cb1",
-      "group": "Benzona",
-      "victim": "taminsho.com",
-      "country": "IR"
     }
   ]
 }
