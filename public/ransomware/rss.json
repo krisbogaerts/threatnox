@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-28T07:13:36.821Z",
+  "updatedAt": "2025-12-28T08:15:58.687Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Medusa has just published a new victim : JBS",
+      "link": "https://www.ransomware.live/id/SkJTQG1lZHVzYQ==",
+      "summary": "JBS is a regional, public, nonprofit corporation established under Act 310 of the 1967 Alabama Legislature. The region served by the Authority is designated in the State Mental Health Plan as Region M-5, and comprises Jefferson, Blount and St. Clair counties, with a total of more than 800,000 residents. There are three mental health centers which serve the region. It is the responsibility of the Authority to plan, coordinate and develop the system of mental health services for the entire region. The Authority provides consultation regarding program development and funding; coordination of regional programs; delivery of region-wide services; and a consolidated budgeting process to simplify the funding of programs at the local and state level. company is headquartered in 940 Montclair Rd., Birmingham, AL 35213, USA. 201-500 Employees, The total amount of data leakage is 168.6 GB.",
+      "pubDate": "Sun, 28 Dec 2025 08:00:45 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/medusa?98978a29c5e91810b540cc18d2225c4e",
+      "group": "Medusa",
+      "victim": "JBS",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Bibi Gate: The Gatekeeper’s Fall | Tzachi Braverman",
       "link": "https://www.ransomware.live/id/QmliaSBHYXRlOiBUaGUgR2F0ZWtlZXBlcuKAmXMgRmFsbCB8IFR6YWNoaSBCcmF2ZXJtYW5AaGFuZGFsYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Busbusbus",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Titan Motor Group",
-      "link": "https://www.ransomware.live/id/VGl0YW4gTW90b3IgR3JvdXBAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sat, 20 Dec 2025 16:56:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?9e6161307d67390e05860ce612351c50",
-      "group": "Qilin",
-      "victim": "Titan Motor Group",
-      "country": "US"
     }
   ]
 }
