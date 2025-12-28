@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-28T06:18:37.120Z",
+  "updatedAt": "2025-12-28T07:13:36.821Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Bibi Gate: The Gatekeeper’s Fall | Tzachi Braverman",
+      "link": "https://www.ransomware.live/id/QmliaSBHYXRlOiBUaGUgR2F0ZWtlZXBlcuKAmXMgRmFsbCB8IFR6YWNoaSBCcmF2ZXJtYW5AaGFuZGFsYQ==",
+      "summary": "Bibi Gate Operation: The Gatekeeper’s Fall To Netanyahu’s inner circle, To every official still clutching the illusion of secrecy You feel it now: the tightening chest, the cold sweat, the gnawing dread. That’s not just fear, it’s the knowledge that every layer of your security, every secret entrusted to Tzachi Braverman, Netanyahu’s Chief of Staff,…",
+      "pubDate": "Sun, 28 Dec 2025 06:28:23 +0000",
+      "category": "IL",
+      "guid": "https://www.ransomware.live/group/handala?50582ae35c0ca3e00c3ad2ab8b754720",
+      "group": "Handala",
+      "victim": "Bibi Gate: The Gatekeeper’s Fall | Tzachi Braverman",
+      "country": "IL"
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Netanyahu’s Cabinet Awaits Handala’s Next Move",
       "link": "https://www.ransomware.live/id/TmV0YW55YWh14oCZcyBDYWJpbmV0IEF3YWl0cyBIYW5kYWxh4oCZcyBOZXh0IE1vdmVAaGFuZGFsYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Titan Motor Group",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Dolan Construction",
-      "link": "https://www.ransomware.live/id/RG9sYW4gQ29uc3RydWN0aW9uQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sat, 20 Dec 2025 16:55:33 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?8642ac056976b0a5b33c6ead043fcc7e",
-      "group": "Qilin",
-      "victim": "Dolan Construction",
-      "country": ""
     }
   ]
 }
