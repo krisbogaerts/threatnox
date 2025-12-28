@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-28T19:09:40.283Z",
+  "updatedAt": "2025-12-28T20:13:42.023Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Questica",
+      "link": "https://www.ransomware.live/id/UXVlc3RpY2FAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 28 Dec 2025 19:20:12 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/qilin?065323df29d0e7fc16852f90e41bbe05",
+      "group": "Qilin",
+      "victim": "Questica",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Seac",
+      "link": "https://www.ransomware.live/id/U2VhY0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sun, 28 Dec 2025 19:19:33 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?94cd3aaf8967d49cc0682cb9f58a2d63",
+      "group": "Qilin",
+      "victim": "Seac",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Goodwin College",
+      "link": "https://www.ransomware.live/id/R29vZHdpbiBDb2xsZWdlQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sun, 28 Dec 2025 19:18:52 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?37517677c2c43d3e46a6d6551b91c114",
+      "group": "Qilin",
+      "victim": "Goodwin College",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Neurological Associates",
       "link": "https://www.ransomware.live/id/TmV1cm9sb2dpY2FsIEFzc29jaWF0ZXNAZHJhZ29uZm9yY2U=",
@@ -2168,39 +2201,6 @@
       "group": "Benzona",
       "victim": "taminsho.com",
       "country": "IR"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Empire Screen Printing",
-      "link": "https://www.ransomware.live/id/RW1waXJlIFNjcmVlbiBQcmludGluZ0BzaW5vYmk=",
-      "summary": "Empire Screen Printing, Inc. provides screen printing. The Company flexography, digital printing, and doming. Empire Screen Printing services customers in the United States.",
-      "pubDate": "Mon, 22 Dec 2025 00:26:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?c3a6a85f4da3be2071c51fbd10a5789a",
-      "group": "Sinobi",
-      "victim": "Empire Screen Printing",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Cedar Valley Services",
-      "link": "https://www.ransomware.live/id/Q2VkYXIgVmFsbGV5IFNlcnZpY2VzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sun, 21 Dec 2025 23:14:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?ff47f124f4db04e7d002461d0be8e8ce",
-      "group": "Qilin",
-      "victim": "Cedar Valley Services",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Váhostav",
-      "link": "https://www.ransomware.live/id/VsOhaG9zdGF2QGRyYWdvbmZvcmNl",
-      "summary": "VÁHOSTAV is one of the leading construction companies in Slovakia, specializing in complex and technically demanding projects across various sectors including transportation, engineering, and industrial construction. The company operates both domestically and internationally, utilizing advanced technologies through its own production facilities and subsidiaries. VÁHOSTAV is committed to sustainable development principles, integrating quality, safety, and environmental management systems certified under ISO standards. Their current projects include modernization of railway corridors and infrastructure improvements, reflecting their dedication to minimizing waste and maximizing resource efficiency.",
-      "pubDate": "Sun, 21 Dec 2025 20:49:38 +0000",
-      "category": "SK",
-      "guid": "https://www.ransomware.live/group/dragonforce?884c431d0d877cb44cee606ed472faa2",
-      "group": "Dragonforce",
-      "victim": "Váhostav",
-      "country": "SK"
     }
   ]
 }
