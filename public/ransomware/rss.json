@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-27T23:11:58.140Z",
+  "updatedAt": "2025-12-28T01:05:01.494Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Netanyahu’s Cabinet Awaits Handala’s Next Move",
+      "link": "https://www.ransomware.live/id/TmV0YW55YWh14oCZcyBDYWJpbmV0IEF3YWl0cyBIYW5kYWxh4oCZcyBOZXh0IE1vdmVAaGFuZGFsYQ==",
+      "summary": "Handala Command acknowledges with gratitude the messages from Jews who oppose the killing of children. We remain steadfast in our commitment to liberate both Palestinians and Jews from the grip of the extremist Kahani sect leaders. While Handala Command previously invited feedback regarding four specific individuals for data release, the overwhelming volume of messages requesting…",
+      "pubDate": "Sat, 27 Dec 2025 23:16:14 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?a162ed4768123412a4c6535e05e260ee",
+      "group": "Handala",
+      "victim": "Netanyahu’s Cabinet Awaits Handala’s Next Move",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : heatcel.co.uk",
       "link": "https://www.ransomware.live/id/aGVhdGNlbC5jby51a0BzYWZlcGF5",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Dolan Construction",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Egp Comunicaciones Sac",
-      "link": "https://www.ransomware.live/id/RWdwIENvbXVuaWNhY2lvbmVzIFNhY0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sat, 20 Dec 2025 16:54:55 +0000",
-      "category": "PE",
-      "guid": "https://www.ransomware.live/group/qilin?2c930073fddd11a01b80fda780fcf9a6",
-      "group": "Qilin",
-      "victim": "Egp Comunicaciones Sac",
-      "country": "PE"
     }
   ]
 }
