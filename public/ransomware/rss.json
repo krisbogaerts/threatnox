@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-29T11:11:55.048Z",
+  "updatedAt": "2025-12-29T12:25:30.582Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : ESSPL",
+      "link": "https://www.ransomware.live/id/RVNTUExAcmFuc29taG91c2U=",
+      "summary": "ESSPL is a leading software solutions provider specializing in supply chain management and logistics, with over 27 years of experience. The company offers a comprehensive range of services including custom software development, consulting, business intelligence, and managed application services. ESSPL focuses on delivering innovative solutions that enhance operational efficiency and customer satisfaction for logistics and supply chain companies globally.",
+      "pubDate": "Mon, 29 Dec 2025 11:01:07 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/ransomhouse?2327a2fceafcb5e36460c4d5da160a67",
+      "group": "Ransomhouse",
+      "victim": "ESSPL",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Willowdale Steeplechase",
       "link": "https://www.ransomware.live/id/V2lsbG93ZGFsZSBTdGVlcGxlY2hhc2VAcWlsaW4=",
@@ -2152,11 +2163,11 @@
       "link": "https://www.ransomware.live/id/UmFuZ2VyIEludmVzdGlnYXRpb24gR3VhcmRAZGlyZXdvbGY=",
       "summary": "Business Services",
       "pubDate": "Mon, 22 Dec 2025 14:48:03 +0000",
-      "category": "SG",
+      "category": "TH",
       "guid": "https://www.ransomware.live/group/direwolf?c9e5fc9df8854a76962c3ff9e5edfcd1",
       "group": "Direwolf",
       "victim": "Ranger Investigation Guard",
-      "country": "SG"
+      "country": "TH"
     },
     {
       "title": "🏴‍☠️ Direwolf has just published a new victim : Office of Public Sector Anti-Corruption Commission",
@@ -2190,17 +2201,6 @@
       "group": "Direwolf",
       "victim": "Sanyang Motor",
       "country": "TW"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Adnan Sundra & Low",
-      "link": "https://www.ransomware.live/id/QWRuYW4gU3VuZHJhICYgTG93QGRpcmV3b2xm",
-      "summary": "Law Firms, Legal Services",
-      "pubDate": "Mon, 22 Dec 2025 14:45:48 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/direwolf?57561895d9d78f528eba738a4ee0a103",
-      "group": "Direwolf",
-      "victim": "Adnan Sundra & Low",
-      "country": "MY"
     }
   ]
 }
