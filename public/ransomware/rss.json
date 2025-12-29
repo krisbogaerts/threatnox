@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-29T16:15:07.340Z",
+  "updatedAt": "2025-12-29T17:11:45.920Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Kazu has just published a new victim : Saudi Icon",
+      "link": "https://www.ransomware.live/id/U2F1ZGkgSWNvbkBrYXp1",
+      "summary": "Saudi Icon specializes in design and build solutions, offering a holistic approach to construction and turn-key services. The company caters to a diverse clientele, including hotels, workspaces, restaurants, gyms, and healthcare facilities across Saudi Arabia. With a focus on creativity, functionality, and quality construction, Saudi Icon aims to redefine modern living through thoughtful design and tailored services. Their extensive portfolio showcases significant projects, along with a reputation for delivering high-end fit-out solutions and innovative constructions",
+      "pubDate": "Mon, 29 Dec 2025 16:26:33 +0000",
+      "category": "SA",
+      "guid": "https://www.ransomware.live/group/kazu?a88e2f7b706e258634576aae91bcc031",
+      "group": "Kazu",
+      "victim": "Saudi Icon",
+      "country": "SA"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : selp",
+      "link": "https://www.ransomware.live/id/c2VscEBpbmNyYW5zb20=",
+      "summary": "selp.fr\r Clients: apple, loreal, google, ikea...\r WE HAS COLLECTED SUCH DATA AS: \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Operations\r - Corporate data\r - Business Agreements\r - Source Code\r And a lot of other VERY IMPORTANT information!",
+      "pubDate": "Mon, 29 Dec 2025 16:23:18 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/incransom?8ef8ec0d7241e47fccff0235b94f7d33",
+      "group": "Incransom",
+      "victim": "selp",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Hafesa",
       "link": "https://www.ransomware.live/id/R3J1cG8gSGFmZXNhQHFpbGlu",
@@ -2179,28 +2201,6 @@
       "group": "Direwolf",
       "victim": "Polaris Parks",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Ranger Investigation Guard",
-      "link": "https://www.ransomware.live/id/UmFuZ2VyIEludmVzdGlnYXRpb24gR3VhcmRAZGlyZXdvbGY=",
-      "summary": "Business Services",
-      "pubDate": "Mon, 22 Dec 2025 14:48:03 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/direwolf?c9e5fc9df8854a76962c3ff9e5edfcd1",
-      "group": "Direwolf",
-      "victim": "Ranger Investigation Guard",
-      "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Office of Public Sector Anti-Corruption Commission",
-      "link": "https://www.ransomware.live/id/T2ZmaWNlIG9mIFB1YmxpYyBTZWN0b3IgQW50aS1Db3JydXB0aW9uIENvbW1pc3Npb25AZGlyZXdvbGY=",
-      "summary": "Government",
-      "pubDate": "Mon, 22 Dec 2025 14:47:30 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/direwolf?493bb3fd69a70954e0d635ef05c78bc2",
-      "group": "Direwolf",
-      "victim": "Office of Public Sector Anti-Corruption Commission",
-      "country": "TH"
     }
   ]
 }
