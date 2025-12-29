@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-29T06:22:01.274Z",
+  "updatedAt": "2025-12-29T07:19:13.573Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : APC Home Health Service",
+      "link": "https://www.ransomware.live/id/QVBDIEhvbWUgSGVhbHRoIFNlcnZpY2VAbm92YQ==",
+      "summary": "Founded in 1982, APC Home Health Services is a home care provider, servicing Harlingen, Texas. Their services allows the elderly to stay in their home and receive medical care for health conditions, receiving assistance with daily tasks or homecare during day or night depending on their need.",
+      "pubDate": "Mon, 29 Dec 2025 06:17:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nova?645dc2b2df0814a99b321c8847701c39",
+      "group": "Nova",
+      "victim": "APC Home Health Service",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : omrania",
       "link": "https://www.ransomware.live/id/b21yYW5pYUBpbmNyYW5zb20=",
@@ -2190,17 +2201,6 @@
       "group": "Akira",
       "victim": "Friis & Moltke",
       "country": "DK"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : uniplaclages.edu.br",
-      "link": "https://www.ransomware.live/id/dW5pcGxhY2xhZ2VzLmVkdS5ickBsb2NrYml0NQ==",
-      "summary": "UNIPLAC offers various educational services including student and employee portals, distance learnin...",
-      "pubDate": "Mon, 22 Dec 2025 12:29:30 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/lockbit5?6f1945251e6888e797155dcd07c0932e",
-      "group": "Lockbit5",
-      "victim": "uniplaclages.edu.br",
-      "country": "BR"
     }
   ]
 }
