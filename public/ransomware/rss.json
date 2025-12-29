@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-29T17:11:45.920Z",
+  "updatedAt": "2025-12-29T18:19:00.240Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Burnex",
+      "link": "https://www.ransomware.live/id/QnVybmV4QGRyYWdvbmZvcmNl",
+      "summary": "Burnex Corporation is a leading manufacturer of precision metal stampings and wire forms, offering both custom and standard metal parts for various industries since 1972. The company utilizes innovative technology and unique manufacturing capabilities, including Planetary Geared stamping and bending technology, to provide a wide range of forming possibilities. With a focus on design flexibility and short lead times, Burnex serves clients globally across sectors such as aeronautics, automotive, medical, and electrical. Their experienced team, with an average tenure of 18 years, ensures a high level of expertise and continuity in meeting diverse customer needs",
+      "pubDate": "Mon, 29 Dec 2025 17:16:24 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?1123065ed7b867b4447bc2365139eed0",
+      "group": "Dragonforce",
+      "victim": "Burnex",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : NK Technologies",
+      "link": "https://www.ransomware.live/id/TksgVGVjaG5vbG9naWVzQGRyYWdvbmZvcmNl",
+      "summary": "Founded in 1982, NK Technologies is a current sensing technology manufacturer and distributor headquartered in San Jose, California. Products include sensing switches, AC transducers, fault sensors, and more. As a leader in the industry, NK Technologies takes its commitment to customers seriously and considers customer satisfaction a top priority. Timely response to customer inquiries; knowledgeable technical support; a willingness to develop custom solutions to meet specific customer needs; and an organizational commitment to delivering reliable, quality product on time are the hallmarks of excellence which our customers have come to rely on and expect from NK Technologies, a company built upon a history of innovation",
+      "pubDate": "Mon, 29 Dec 2025 17:15:26 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?2f2fdd99157fc0c26d92c0ef0da5812e",
+      "group": "Dragonforce",
+      "victim": "NK Technologies",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Kazu has just published a new victim : Saudi Icon",
       "link": "https://www.ransomware.live/id/U2F1ZGkgSWNvbkBrYXp1",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?6f7d51a2eeeffac7e107272b12530b3b",
       "group": "Qilin",
       "victim": "Lugiano Medical",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Fürth",
-      "link": "https://www.ransomware.live/id/RsO8cnRoQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Mon, 22 Dec 2025 15:08:50 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/qilin?65f1c93be6b4023c336a8ee4950e3143",
-      "group": "Qilin",
-      "victim": "Fürth",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Polaris Parks",
-      "link": "https://www.ransomware.live/id/UG9sYXJpcyBQYXJrc0BkaXJld29sZg==",
-      "summary": "Real Estate",
-      "pubDate": "Mon, 22 Dec 2025 14:48:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/direwolf?0dbd9f3bbf2e5347c045b25000079f42",
-      "group": "Direwolf",
-      "victim": "Polaris Parks",
       "country": "US"
     }
   ]
