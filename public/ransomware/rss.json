@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-29T18:19:00.240Z",
+  "updatedAt": "2025-12-29T19:10:07.699Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : SEACSUB S.p.a.",
+      "link": "https://www.ransomware.live/id/U0VBQ1NVQiBTLnAuYS5AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 29 Dec 2025 18:27:13 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?fd05068bd7954f6561271a5d56e632d4",
+      "group": "Qilin",
+      "victim": "SEACSUB S.p.a.",
+      "country": "IT"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Burnex",
       "link": "https://www.ransomware.live/id/QnVybmV4QGRyYWdvbmZvcmNl",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "La Papelera",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Lugiano Medical",
-      "link": "https://www.ransomware.live/id/THVnaWFubyBNZWRpY2FsQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Mon, 22 Dec 2025 15:10:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?6f7d51a2eeeffac7e107272b12530b3b",
-      "group": "Qilin",
-      "victim": "Lugiano Medical",
-      "country": "US"
     }
   ]
 }
