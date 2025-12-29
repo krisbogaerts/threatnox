@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-29T10:14:44.132Z",
+  "updatedAt": "2025-12-29T11:11:55.048Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Willowdale Steeplechase",
+      "link": "https://www.ransomware.live/id/V2lsbG93ZGFsZSBTdGVlcGxlY2hhc2VAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Mon, 29 Dec 2025 10:13:10 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?6c5c684d9f711d1057262847a76aa01f",
+      "group": "Qilin",
+      "victim": "Willowdale Steeplechase",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Gunra has just published a new victim : INHA University",
+      "link": "https://www.ransomware.live/id/SU5IQSBVbml2ZXJzaXR5QGd1bnJh",
+      "summary": "[AI generated] INHA University is a private research university located in Incheon, South Korea. It was established in 1954 and is currently known for its programs in engineering, technology, and management. The university is named after the acronym of the Independence and Nationalism sought in developing Highly skilled Authorities, highlighting its commitment to fostering leaders.",
+      "pubDate": "Mon, 29 Dec 2025 10:02:27 +0000",
+      "category": "KR",
+      "guid": "https://www.ransomware.live/group/gunra?156cca7da5ed00239dfaddc7f09c50e5",
+      "group": "Gunra",
+      "victim": "INHA University",
+      "country": "KR"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Arkan",
       "link": "https://www.ransomware.live/id/QXJrYW5AcmFuc29taG91c2U=",
@@ -2179,28 +2201,6 @@
       "group": "Direwolf",
       "victim": "Adnan Sundra & Low",
       "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Assolim",
-      "link": "https://www.ransomware.live/id/QXNzb2xpbUByYW5zb21ob3VzZQ==",
-      "summary": "Assolim is a food distribution company that serves restaurants and hotels across Catalonia. Founded in 2014 from two family businesses with 60 years of history, we offer over 4,000 food products including frozen, fresh, and dry goods.",
-      "pubDate": "Mon, 22 Dec 2025 14:20:00 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/ransomhouse?3fa55f43c1c68af59c9e8638e2fa8dc5",
-      "group": "Ransomhouse",
-      "victim": "Assolim",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : transrocamar.com",
-      "link": "https://www.ransomware.live/id/dHJhbnNyb2NhbWFyLmNvbUBkZXZtYW4=",
-      "summary": "Financial, Client IDS",
-      "pubDate": "Mon, 22 Dec 2025 12:54:42 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/devman?21268e4a9d4857763a93e76f96620a16",
-      "group": "Devman",
-      "victim": "transrocamar.com",
-      "country": "ES"
     }
   ]
 }
