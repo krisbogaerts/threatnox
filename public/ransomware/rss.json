@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-29T08:19:39.207Z",
+  "updatedAt": "2025-12-29T09:21:38.888Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Safepay has just published a new victim : pau.at",
+      "link": "https://www.ransomware.live/id/cGF1LmF0QHNhZmVwYXk=",
+      "summary": "PAUAT Architekten is a regional architectural practice based in Wels, Austria, founded in 1999 and led by architect Heinz Plöderl. …",
+      "pubDate": "Mon, 29 Dec 2025 08:24:13 +0000",
+      "category": "AT",
+      "guid": "https://www.ransomware.live/group/safepay?2cb471b5be1c1d753466e0c69779d1be",
+      "group": "Safepay",
+      "victim": "pau.at",
+      "country": "AT"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : APC Home Health Service",
       "link": "https://www.ransomware.live/id/QVBDIEhvbWUgSGVhbHRoIFNlcnZpY2VAbm92YQ==",
@@ -2190,17 +2201,6 @@
       "group": "Devman",
       "victim": "British Holiday & Home Parks Association Ltd",
       "country": "UK"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Friis & Moltke",
-      "link": "https://www.ransomware.live/id/RnJpaXMgJiBNb2x0a2VAYWtpcmE=",
-      "summary": "Friis &amp; Moltke delivers architecture that serves a diverse client base, ensuring their designs meet both the needs of their client s and the community.  We will upload 12gb of corporate data soon. Personal documents (c pr numbers (danish SSNs), passports and other docs), financials,  projects, specification and drawings, etc.",
-      "pubDate": "Mon, 22 Dec 2025 12:48:24 +0000",
-      "category": "DK",
-      "guid": "https://www.ransomware.live/group/akira?f1b5855b9260edcbf7cfb7312ff8e8d6",
-      "group": "Akira",
-      "victim": "Friis & Moltke",
-      "country": "DK"
     }
   ]
 }
