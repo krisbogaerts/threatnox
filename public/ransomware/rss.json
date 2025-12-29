@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-29T14:13:55.342Z",
+  "updatedAt": "2025-12-29T15:14:07.125Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Hafesa",
+      "link": "https://www.ransomware.live/id/R3J1cG8gSGFmZXNhQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Mon, 29 Dec 2025 14:45:34 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?60e006c220bb4440c345c07fe0fec47e",
+      "group": "Qilin",
+      "victim": "Grupo Hafesa",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sintac Recycling",
+      "link": "https://www.ransomware.live/id/U2ludGFjIFJlY3ljbGluZ0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Mon, 29 Dec 2025 14:44:56 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/qilin?8d3e57118be20c4aaba8afe6cf7eabe4",
+      "group": "Qilin",
+      "victim": "Sintac Recycling",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : ESSPL",
       "link": "https://www.ransomware.live/id/RVNTUExAcmFuc29taG91c2U=",
@@ -2179,28 +2201,6 @@
       "group": "Direwolf",
       "victim": "Office of Public Sector Anti-Corruption Commission",
       "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Guan Chong Berhad",
-      "link": "https://www.ransomware.live/id/R3VhbiBDaG9uZyBCZXJoYWRAZGlyZXdvbGY=",
-      "summary": "Food &amp; Beverage",
-      "pubDate": "Mon, 22 Dec 2025 14:46:56 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/direwolf?fb54b9618b9c698592d1343890e48f5d",
-      "group": "Direwolf",
-      "victim": "Guan Chong Berhad",
-      "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Direwolf has just published a new victim : Sanyang Motor",
-      "link": "https://www.ransomware.live/id/U2FueWFuZyBNb3RvckBkaXJld29sZg==",
-      "summary": "Manufacturing",
-      "pubDate": "Mon, 22 Dec 2025 14:46:23 +0000",
-      "category": "TW",
-      "guid": "https://www.ransomware.live/group/direwolf?6b312802d9d5b50fa4eadd1a3586a6d1",
-      "group": "Direwolf",
-      "victim": "Sanyang Motor",
-      "country": "TW"
     }
   ]
 }
