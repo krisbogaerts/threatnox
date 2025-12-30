@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-30T16:15:59.672Z",
+  "updatedAt": "2025-12-30T17:13:27.619Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Auforum AG",
+      "link": "https://www.ransomware.live/id/QXVmb3J1bSBBR0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Tue, 30 Dec 2025 16:40:49 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/qilin?f2d6890afceb0ebd50c728fb0517dfd0",
+      "group": "Qilin",
+      "victim": "Auforum AG",
+      "country": "CH"
+    },
+    {
+      "title": "🏴‍☠️ Nightspire has just published a new victim : Midkiff, Muncie & Ross, P.C",
+      "link": "https://www.ransomware.live/id/TWlka2lmZiwgTXVuY2llICYgUm9zcywgUC5DQG5pZ2h0c3BpcmU=",
+      "summary": "Midkiff, Muncie &amp; Ross, P.C",
+      "pubDate": "Tue, 30 Dec 2025 16:37:20 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/nightspire?6f026b94702e1daf33eb323362c04c52",
+      "group": "Nightspire",
+      "victim": "Midkiff, Muncie & Ross, P.C",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Rhysida has just published a new victim : Falk, Waas, Hernandez, Cortina, Solomon & Bonner Overview Metrics",
       "link": "https://www.ransomware.live/id/RmFsaywgV2FhcywgSGVybmFuZGV6LCBDb3J0aW5hLCBTb2xvbW9uICYgQm9ubmVyIE92ZXJ2aWV3IE1ldHJpY3NAcmh5c2lkYQ==",
@@ -2179,28 +2201,6 @@
       "group": "Lynx",
       "victim": "https://www.omnibusjp.com",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : ccedarvalleyservices.org",
-      "link": "https://www.ransomware.live/id/Y2NlZGFydmFsbGV5c2VydmljZXMub3JnQGx5bng=",
-      "summary": "Cedar Valley Services Inc is an employment agency based in Southern Minnesota, operating for over 60 years with a focus on assisting individuals with disabilities in finding suitable job opportunities. Their services include employment counseling, rehabilitation, and training, aimed at helping clients assess their potential and succeed in the workforce. The agency offers free consultations and estimates and operates multiple locations in Austin, Albert Lea, and Owatonna, MN. They are dedicated to linking people with jobs and enhancing community living for their clients.",
-      "pubDate": "Tue, 23 Dec 2025 14:12:28 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/lynx?f9e3eeee8ae819db53c8bf09841839d5",
-      "group": "Lynx",
-      "victim": "ccedarvalleyservices.org",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : www.fecrwy.com",
-      "link": "https://www.ransomware.live/id/d3d3LmZlY3J3eS5jb21AbHlueA==",
-      "summary": "The Florida East Coast Railway freight rail system located along the east coast of Florida. It is a rail provider for PortMiami, Port Everglades, and Port of Palm Beach. FECR connects to the national railway system in Jacksonville, Florida, to move cargo originating or terminating there. Based in Jacksonville, Florida, FECR provides end-to-end intermodal and carload solutions to customers.",
-      "pubDate": "Tue, 23 Dec 2025 14:11:53 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?afc024a876d619e05868f5868b0546cc",
-      "group": "Lynx",
-      "victim": "www.fecrwy.com",
-      "country": "US"
     }
   ]
 }
