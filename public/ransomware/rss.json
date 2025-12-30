@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-30T07:16:06.262Z",
+  "updatedAt": "2025-12-30T08:18:17.294Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : BioNet-Asia",
+      "link": "https://www.ransomware.live/id/QmlvTmV0LUFzaWFAdGhlZ2VudGxlbWVu",
+      "summary": "https://bionet-asia.com/ https://www.zoominfo.com/c/bionet-asia-co-ltd/346273011 BioNet is a vaccine manufacturer focused on developing recombinant and mRNA vaccines to combat respiratory diseases and other public health challenges globally. With over 25 years of experience, BioNet has successfully advanced multiple proprietary recombinant pertussis vaccines to licensure and is currently expanding its commercial operations worldwide. The company follows stringent manufacturing practices and is committed to continuous quality improvement in its vaccine production processes. BioNet aims to address critical immunization needs in regions like Southeast Asia through strategic partnerships and innovative vaccine technologies.",
+      "pubDate": "Tue, 30 Dec 2025 08:07:46 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/thegentlemen?23a2c74a8c4720724721011735b8d630",
+      "group": "Thegentlemen",
+      "victim": "BioNet-Asia",
+      "country": "TH"
+    },
     {
       "title": "🏴‍☠️ Kazu has just published a new victim : ManageMyHealth - New Zealand",
       "link": "https://www.ransomware.live/id/TWFuYWdlTXlIZWFsdGggLSBOZXcgWmVhbGFuZEBrYXp1",
@@ -2190,17 +2201,6 @@
       "group": "Anubis",
       "victim": "Woodglen Medical Group",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Center for Life Resources ECI",
-      "link": "https://www.ransomware.live/id/Q2VudGVyIGZvciBMaWZlIFJlc291cmNlcyBFQ0lAc2lub2Jp",
-      "summary": "Center for Life Resources is dedicated to enhancing the quality of life for individuals in Central Texas by providing a range of services including adult and children&#x27;s mental health support, substance use services, and assistance for individuals with Intellectual and Developmental Disabilities. The organization operates a 24-hour crisis intervention hotline and collaborates with local law enforcement and hospitals to ensure comprehensive care. Their intended clients include individuals facing mental health challenges, families in need of support, and those requiring crisis intervention. With multiple locations across several counties, they aim to serve the diverse needs of their community.",
-      "pubDate": "Mon, 22 Dec 2025 23:10:23 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/sinobi?85e9d3b85a6d680ce8f2bfe057190b2c",
-      "group": "Sinobi",
-      "victim": "Center for Life Resources ECI",
-      "country": ""
     }
   ]
 }
