@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-30T04:36:30.303Z",
+  "updatedAt": "2025-12-30T05:16:54.379Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Kazu has just published a new victim : ManageMyHealth - New Zealand",
+      "link": "https://www.ransomware.live/id/TWFuYWdlTXlIZWFsdGggLSBOZXcgWmVhbGFuZEBrYXp1",
+      "summary": "ManageMyHealth is a New Zealand-based online platform that enables individuals to conveniently manage their health and well-being by providing secure access to their medical records and communication with healthcare providers. The platform allows users to view test results, manage prescriptions, schedule appointments, and track their health history from any device. It aims to improve healthcare accessibility, streamline communication between patients and medical professionals, and enhance overall health management, all while ensuring data privacy and security. Through this service, patients can stay informed about their health, make more proactive decisions, and access necessary care with greater ease.",
+      "pubDate": "Tue, 30 Dec 2025 04:07:35 +0000",
+      "category": "NZ",
+      "guid": "https://www.ransomware.live/group/kazu?dd18eb9f8833ad2c595b45ef4d07adcb",
+      "group": "Kazu",
+      "victim": "ManageMyHealth - New Zealand",
+      "country": "NZ"
+    },
     {
       "title": "🏴‍☠️ Spacebears has just published a new victim : Firmengruppe Hoffmann",
       "link": "https://www.ransomware.live/id/RmlybWVuZ3J1cHBlIEhvZmZtYW5uQHNwYWNlYmVhcnM=",
@@ -2190,17 +2201,6 @@
       "group": "Sinobi",
       "victim": "Center for Life Resources ECI",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Geometrics",
-      "link": "https://www.ransomware.live/id/R2VvbWV0cmljc0BzaW5vYmk=",
-      "summary": "Geometrics is a division of OYO Corporation and headquartered in San Jose, CA. The company is a designer and manufacturer of land, marine and airborne geophysical hardware, sensors and software, covering seismic, magnetic, and electromagnetic technologies. Founded in 1969, Geometrics began operations developing magnetometers.",
-      "pubDate": "Mon, 22 Dec 2025 23:10:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?2106a31f703433a8e2ea8b31ccaae5bf",
-      "group": "Sinobi",
-      "victim": "Geometrics",
-      "country": "US"
     }
   ]
 }
