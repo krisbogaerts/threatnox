@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-30T18:19:08.115Z",
+  "updatedAt": "2025-12-30T19:11:38.476Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Stewart Engenharia",
+      "link": "https://www.ransomware.live/id/U3Rld2FydCBFbmdlbmhhcmlhQHRoZWdlbnRsZW1lbg==",
+      "summary": "www.stewartengenharia.com.br https://www.zoominfo.com/c/stewart-engenharia/546688997 Stewart Engenharia specializes in high-standard constructions and renovations, providing exceptional project development and execution services since 1995. The company is committed to making clients&#x27; visions a reality with a focus on sophistication, style, technology, and innovative solutions. With a highly trained team, they cater to the specific demands of discerning clients, offering personalized service. Their portfolio includes the development of refined projects for houses, apartments, offices, and commercial spaces.",
+      "pubDate": "Tue, 30 Dec 2025 18:51:44 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/thegentlemen?b7b508e0dfbdee6ef8a1a15cf40bd3a5",
+      "group": "Thegentlemen",
+      "victim": "Stewart Engenharia",
+      "country": "BR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Auforum AG",
       "link": "https://www.ransomware.live/id/QXVmb3J1bSBBR0BxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Lynx",
       "victim": "ruskcountywi.us",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : https://www.omnibusjp.com",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cub21uaWJ1c2pwLmNvbUBseW54",
-      "summary": "OMNIBUS JAPAN INC. is a creative group that aims to extract the thoughts of many people involved in video production and create new value in video through technology and innovation. They focus on enhancing the emotional impact of visual content. Their services cater to a diverse range of clients in the video industry. The company is dedicated to pushing the boundaries of video technology.",
-      "pubDate": "Tue, 23 Dec 2025 14:12:48 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/lynx?1ea37aaa8e39f08e9b73ed8654486ab5",
-      "group": "Lynx",
-      "victim": "https://www.omnibusjp.com",
-      "country": "JP"
     }
   ]
 }
