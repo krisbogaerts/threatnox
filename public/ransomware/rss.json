@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2025-12-30T22:11:57.207Z",
+  "updatedAt": "2025-12-30T23:11:39.912Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tridentlocker has just published a new victim : Sedgwick Government Solutions",
+      "link": "https://www.ransomware.live/id/U2VkZ3dpY2sgR292ZXJubWVudCBTb2x1dGlvbnNAdHJpZGVudGxvY2tlcg==",
+      "summary": "[AI generated] Sedgwick Government Solutions is part of Sedgwick, a leading global company specializing in risk and benefits solutions. The company offers expertise in different sectors including, health, property, casualty, disability and productivity. It is recognized for its technology and innovation-driven approach to provide comprehensive risk and benefits solutions.",
+      "pubDate": "Tue, 30 Dec 2025 22:40:48 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/tridentlocker?08dd71fc45777adf102e822259dc284e",
+      "group": "Tridentlocker",
+      "victim": "Sedgwick Government Solutions",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : OSI Systems, Inc.",
+      "link": "https://www.ransomware.live/id/T1NJIFN5c3RlbXMsIEluYy5AaW5jcmFuc29t",
+      "summary": "OSI Systems, Inc.\r \r Total data in the leak: 250GB\r \r Leaked data:\r - Clients: US Government, US Secret Service, IDSS, GLOBAL AEROSPACE INC, Governments of many countries, Casco Automotive Singapore Pte Ltd, Medtronic, Opengear Inc,  Sick Sdn Bhd,\r ST JOSEPH HOSPITAL, SSM HEALTH CARE CORPORATION, UPMC HEALTH SYSTEM and many other large clients all over the world!\r - Data Classification: Secret\r - Projects: Raven, Canopy, SPARK, Lighthouse and many other projects. All project information: development, laboratory testing, drawings, subcontractors, suppliers.\r - Financial data: Company structure. Company income and expenses, shareholders information, such as BlackRock, Inc. and many other investors. Nasdaq data. Contracts with customers and suppliers, NDA contracts.\r And a lot of other VERY IMPORTANT information!",
+      "pubDate": "Tue, 30 Dec 2025 22:23:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?7825ea0b5756737f5c8de7ba92054eed",
+      "group": "Incransom",
+      "victim": "OSI Systems, Inc.",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Stewart Engenharia",
       "link": "https://www.ransomware.live/id/U3Rld2FydCBFbmdlbmhhcmlhQHRoZWdlbnRsZW1lbg==",
@@ -2179,28 +2201,6 @@
       "group": "Lynx",
       "victim": "https://www.ckm-montagen.de/en/",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Crypto24 has just published a new victim : Unified Assessment Platform ExamRoom.AI",
-      "link": "https://www.ransomware.live/id/VW5pZmllZCBBc3Nlc3NtZW50IFBsYXRmb3JtIEV4YW1Sb29tLkFJQGNyeXB0bzI0",
-      "summary": "***",
-      "pubDate": "Tue, 23 Dec 2025 14:42:08 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/crypto24?28a29dd18cc79b60e7c31632c7ac6637",
-      "group": "Crypto24",
-      "victim": "Unified Assessment Platform ExamRoom.AI",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : ruskcountywi.us",
-      "link": "https://www.ransomware.live/id/cnVza2NvdW50eXdpLnVzQGx5bng=",
-      "summary": "Rusk County, Wisconsin is a community that provides services such as an Airport, Ambulance Services, Court Systems and other departments that service the community of Rusk County. Headquartered in Ladysmith, Wisconsin.",
-      "pubDate": "Tue, 23 Dec 2025 14:13:23 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lynx?9dee4ea12e0ed1b50b4f3c1bc2dfb0e9",
-      "group": "Lynx",
-      "victim": "ruskcountywi.us",
-      "country": "US"
     }
   ]
 }
