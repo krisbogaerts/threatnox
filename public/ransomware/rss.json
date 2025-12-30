@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-30T15:13:16.548Z",
+  "updatedAt": "2025-12-30T16:15:59.672Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Falk, Waas, Hernandez, Cortina, Solomon & Bonner Overview Metrics",
+      "link": "https://www.ransomware.live/id/RmFsaywgV2FhcywgSGVybmFuZGV6LCBDb3J0aW5hLCBTb2xvbW9uICYgQm9ubmVyIE92ZXJ2aWV3IE1ldHJpY3NAcmh5c2lkYQ==",
+      "summary": "Falk, Waas, Hernandez, Cortina, Solomon &amp; Bonner Overview Metrics",
+      "pubDate": "Tue, 30 Dec 2025 15:07:15 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/rhysida?4155ff8750d47b03e871a6a564a020e4",
+      "group": "Rhysida",
+      "victim": "Falk, Waas, Hernandez, Cortina, Solomon & Bonner Overview Metrics",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Cloak has just published a new victim : Fitzpatrickhotels.com",
       "link": "https://www.ransomware.live/id/Rml0enBhdHJpY2tob3RlbHMuY29tQGNsb2Fr",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/lynx?afc024a876d619e05868f5868b0546cc",
       "group": "Lynx",
       "victim": "www.fecrwy.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Chatham Asset Management",
-      "link": "https://www.ransomware.live/id/Q2hhdGhhbSBBc3NldCBNYW5hZ2VtZW50QHdvcmxkbGVha3M=",
-      "summary": "[AI generated] Chatham Asset Management is a private investment firm specializing in various sectors like media, real estate, and more. They primarily focus on improving operations, promoting growth, reducing costs, and increasing profits. They also aim at managing companies that are undervalued or facing financial difficulties. Established in 2002, it is headquartered in Chatham, New Jersey, USA.",
-      "pubDate": "Tue, 23 Dec 2025 13:24:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?9121e119d863076dd7c5ab8f465bdfba",
-      "group": "Worldleaks",
-      "victim": "Chatham Asset Management",
       "country": "US"
     }
   ]
