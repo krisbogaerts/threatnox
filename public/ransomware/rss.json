@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-30T11:11:52.627Z",
+  "updatedAt": "2025-12-30T12:24:46.285Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Cloak has just published a new victim : Fitzpatrickhotels.com",
+      "link": "https://www.ransomware.live/id/Rml0enBhdHJpY2tob3RlbHMuY29tQGNsb2Fr",
+      "summary": "[AI generated] Fitzpatrick Hotels operates two boutique hotels in New York City, providing Irish-style hospitality to guests. Established in the late 20th century, the family-owned business primarily caters to those who value warmth, charm, and a touch of old-world elegance. Their hotels, Fitzpatrick Manhattan and Fitzpatrick Grand Central, boast a strategic location, iconic Irish pub-style restaurants, sophisticated amenities, and rooms.",
+      "pubDate": "Tue, 30 Dec 2025 11:17:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/cloak?7c679c5e1bff10438a16c6d17e11683e",
+      "group": "Cloak",
+      "victim": "Fitzpatrickhotels.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : BioNet-Asia",
       "link": "https://www.ransomware.live/id/QmlvTmV0LUFzaWFAdGhlZ2VudGxlbWVu",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/worldleaks?9121e119d863076dd7c5ab8f465bdfba",
       "group": "Worldleaks",
       "victim": "Chatham Asset Management",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Woodglen Medical Group",
-      "link": "https://www.ransomware.live/id/V29vZGdsZW4gTWVkaWNhbCBHcm91cEBhbnViaXM=",
-      "summary": "The biggest leak of boobies!",
-      "pubDate": "Tue, 23 Dec 2025 00:17:15 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/anubis?6e08bb5227ac1aeeb8ad7bec2a67781f",
-      "group": "Anubis",
-      "victim": "Woodglen Medical Group",
       "country": "US"
     }
   ]
