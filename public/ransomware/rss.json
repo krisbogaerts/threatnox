@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-30T00:58:10.168Z",
+  "updatedAt": "2025-12-30T02:54:37.546Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Spacebears has just published a new victim : Firmengruppe Hoffmann",
+      "link": "https://www.ransomware.live/id/RmlybWVuZ3J1cHBlIEhvZmZtYW5uQHNwYWNlYmVhcnM=",
+      "summary": "Since 2003, the Hoffmann Group from Bernau has been a reliable partner in the areas of transport and recycling, earthworks and demolition, as well as ready-mix concrete and waste wood processing, enabling its customers to obtain all services related to a construction project from a single source. In addition to maintenance and repair, the company also serves as a competent contact for the sale of construction machineryDatabaseFinancial documentsPersonal information of employees and clients https://www.firmengruppe-hoffmann.de/",
+      "pubDate": "Tue, 30 Dec 2025 02:04:33 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/spacebears?7792a49f6f4360e989240dfdb91d8476",
+      "group": "Spacebears",
+      "victim": "Firmengruppe Hoffmann",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Safepay has just published a new victim : setex-textil.de",
       "link": "https://www.ransomware.live/id/c2V0ZXgtdGV4dGlsLmRlQHNhZmVwYXk=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/sinobi?2106a31f703433a8e2ea8b31ccaae5bf",
       "group": "Sinobi",
       "victim": "Geometrics",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Sinobi has just published a new victim : Total Air Solutions",
-      "link": "https://www.ransomware.live/id/VG90YWwgQWlyIFNvbHV0aW9uc0BzaW5vYmk=",
-      "summary": "Total Air Solutions has been keeping customers cool, comfortable, and happy since 2003. We provide a full range of residential and commercial HVAC services in the Gulf Coast communities from Longboat Key to Punta Gorda Isles, including new installation, seasonal maintenance, repair, and air filtration. Contact us at 1-888-426-1770 for convenient scheduling, free estimates on new systems, and our \"No Lemon Warranty. At Total Air Solutions, we are dedicated to serving your best interests.",
-      "pubDate": "Mon, 22 Dec 2025 23:09:41 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/sinobi?e85591902eba4817afd6c5c578941a16",
-      "group": "Sinobi",
-      "victim": "Total Air Solutions",
       "country": "US"
     }
   ]
