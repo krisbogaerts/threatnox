@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2025-12-31T17:10:50.244Z",
+  "updatedAt": "2025-12-31T18:18:17.548Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : KOPA Kozmetik A",
+      "link": "https://www.ransomware.live/id/S09QQSBLb3ptZXRpayBBQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 31 Dec 2025 17:46:16 +0000",
+      "category": "TR",
+      "guid": "https://www.ransomware.live/group/qilin?21b5d314af88f3efcf1b1b1068ea82d1",
+      "group": "Qilin",
+      "victim": "KOPA Kozmetik A",
+      "country": "TR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Luminex Software",
+      "link": "https://www.ransomware.live/id/THVtaW5leCBTb2Z0d2FyZUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 31 Dec 2025 17:45:39 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?03133da3f9d4a2da3098ed2e8b29fb6f",
+      "group": "Qilin",
+      "victim": "Luminex Software",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Lockbit5 has just published a new victim : collinscomputing.com",
+      "link": "https://www.ransomware.live/id/Y29sbGluc2NvbXB1dGluZy5jb21AbG9ja2JpdDU=",
+      "summary": "Collins Computing specializes in providing accounting software solutions, focusing on  Acumatica Cl...",
+      "pubDate": "Wed, 31 Dec 2025 17:18:00 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lockbit5?5cc1150cb9ae5938ba3c29cadea15bac",
+      "group": "Lockbit5",
+      "victim": "collinscomputing.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Lockbit5 has just published a new victim : drogales.com.br",
+      "link": "https://www.ransomware.live/id/ZHJvZ2FsZXMuY29tLmJyQGxvY2tiaXQ1",
+      "summary": "Drogaria Drogales Incio is a pharmacy and perfumery that offers a wide range of  personal care prod...",
+      "pubDate": "Wed, 31 Dec 2025 17:17:27 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/lockbit5?d1bf50dd94dd44b1a7beb716da6726b5",
+      "group": "Lockbit5",
+      "victim": "drogales.com.br",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Lockbit5 has just published a new victim : eroselevators.com",
+      "link": "https://www.ransomware.live/id/ZXJvc2VsZXZhdG9ycy5jb21AbG9ja2JpdDU=",
+      "summary": "Eros Elevators, established in 1947, is a pioneer in the Indian elevator industry,  offering a comp...",
+      "pubDate": "Wed, 31 Dec 2025 17:17:14 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/lockbit5?1b2c2b156958ac7078109e24913876ef",
+      "group": "Lockbit5",
+      "victim": "eroselevators.com",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Lockbit5 has just published a new victim : esopdirect.com",
+      "link": "https://www.ransomware.live/id/ZXNvcGRpcmVjdC5jb21AbG9ja2JpdDU=",
+      "summary": "ESOP Direct: ESOP Direct, focussed on the Equity compensation domain, is engaged in Plan Design, Le...",
+      "pubDate": "Wed, 31 Dec 2025 17:16:41 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/lockbit5?93b13e97ef97299a86918fce7628df92",
+      "group": "Lockbit5",
+      "victim": "esopdirect.com",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Lockbit5 has just published a new victim : fortishealthcare.com",
+      "link": "https://www.ransomware.live/id/Zm9ydGlzaGVhbHRoY2FyZS5jb21AbG9ja2JpdDU=",
+      "summary": "Fortis Hospital, Bannerghatta Road, Bengaluru, is a 284-bed hospital, well equipped with  state-of-...",
+      "pubDate": "Wed, 31 Dec 2025 17:16:14 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/lockbit5?9241de08680f89025389b3bd660871b0",
+      "group": "Lockbit5",
+      "victim": "fortishealthcare.com",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Infinite Computing Systems",
+      "link": "https://www.ransomware.live/id/SW5maW5pdGUgQ29tcHV0aW5nIFN5c3RlbXNAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Wed, 31 Dec 2025 17:01:53 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?d76618fbdf77654e50f3ab385e704ba5",
+      "group": "Play",
+      "victim": "Infinite Computing Systems",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : BNZ Materials",
       "link": "https://www.ransomware.live/id/Qk5aIE1hdGVyaWFsc0BxaWxpbg==",
@@ -2113,94 +2201,6 @@
       "group": "Qilin",
       "victim": "CoreHQ",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Shore Gardens Rehabilitation & Nursing Center",
-      "link": "https://www.ransomware.live/id/U2hvcmUgR2FyZGVucyBSZWhhYmlsaXRhdGlvbiAmIE51cnNpbmcgQ2VudGVyQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 05:02:00 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?f30648a561f8981fb9ee7b4b68f79e6d",
-      "group": "Qilin",
-      "victim": "Shore Gardens Rehabilitation & Nursing Center",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : The Sonnenschein Groupe",
-      "link": "https://www.ransomware.live/id/VGhlIFNvbm5lbnNjaGVpbiBHcm91cGVAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 05:00:34 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?b62f6996fe9d2acec7cee4e2299190ec",
-      "group": "Qilin",
-      "victim": "The Sonnenschein Groupe",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Jaf Gifts",
-      "link": "https://www.ransomware.live/id/SmFmIEdpZnRzQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 04:59:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?d23150af728150582730a80bdd1adaca",
-      "group": "Qilin",
-      "victim": "Jaf Gifts",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Eastern Townships School Board",
-      "link": "https://www.ransomware.live/id/RWFzdGVybiBUb3duc2hpcHMgU2Nob29sIEJvYXJkQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 04:57:46 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?f897a4e38e4868d0ff3e1b7bd3b2a2d0",
-      "group": "Qilin",
-      "victim": "Eastern Townships School Board",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Universiti Sains Islam Malaysia",
-      "link": "https://www.ransomware.live/id/VW5pdmVyc2l0aSBTYWlucyBJc2xhbSBNYWxheXNpYUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 04:57:09 +0000",
-      "category": "MY",
-      "guid": "https://www.ransomware.live/group/qilin?44f66407ea8b115b41935c4cfae942f8",
-      "group": "Qilin",
-      "victim": "Universiti Sains Islam Malaysia",
-      "country": "MY"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : loginport",
-      "link": "https://www.ransomware.live/id/bG9naW5wb3J0QHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 04:55:45 +0000",
-      "category": "NL",
-      "guid": "https://www.ransomware.live/group/qilin?77558b6c8d59d15f30d4798e2c7d35b1",
-      "group": "Qilin",
-      "victim": "loginport",
-      "country": "NL"
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : Autohaus Elstermann",
-      "link": "https://www.ransomware.live/id/QXV0b2hhdXMgRWxzdGVybWFubkBzcGFjZWJlYXJz",
-      "summary": "Performance, reliability, safety – what distinguishes Renault / Dacia / Kia vehicles also applies to us. We offer you excellent service, good prices, expert advice, and a friendly team.Comprehensive service for carefree driving pleasure. You can rely on it, because nobody knows your Renault better than we do.DatabaseFinancial documentsPersonal information of employees and clients https://www.autohaus-elstermann.de/",
-      "pubDate": "Wed, 24 Dec 2025 03:02:15 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/spacebears?5b5c63334d8517ee2db4c89755fe5023",
-      "group": "Spacebears",
-      "victim": "Autohaus Elstermann",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Carbis Loadtec",
-      "link": "https://www.ransomware.live/id/Q2FyYmlzIExvYWR0ZWNAYW51Ymlz",
-      "summary": "Contracts, drawings, and client contacts.",
-      "pubDate": "Tue, 23 Dec 2025 23:20:06 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/anubis?05174bc4abc9dccc904161a48a1a4613",
-      "group": "Anubis",
-      "victim": "Carbis Loadtec",
-      "country": "GB"
     }
   ]
 }
