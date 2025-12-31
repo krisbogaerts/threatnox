@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-31T16:15:26.714Z",
+  "updatedAt": "2025-12-31T17:10:50.244Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : BNZ Materials",
+      "link": "https://www.ransomware.live/id/Qk5aIE1hdGVyaWFsc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Wed, 31 Dec 2025 16:20:22 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?1709ef541d0219a5fae158148f6e3ee0",
+      "group": "Qilin",
+      "victim": "BNZ Materials",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Hunneman",
       "link": "https://www.ransomware.live/id/SHVubmVtYW5AaW50ZXJsb2Nr",
@@ -2190,17 +2201,6 @@
       "group": "Anubis",
       "victim": "Carbis Loadtec",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : pellcityschools.net",
-      "link": "https://www.ransomware.live/id/cGVsbGNpdHlzY2hvb2xzLm5ldEBzYWZlcGF5",
-      "summary": "Pell City Schools is a public K-12 school district based in Pell City, Alabama, serving students from pre-kindergarten through 12th …",
-      "pubDate": "Tue, 23 Dec 2025 21:50:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?e6bb8ee508f60b069acf0558ea1bb843",
-      "group": "Safepay",
-      "victim": "pellcityschools.net",
-      "country": "US"
     }
   ]
 }
