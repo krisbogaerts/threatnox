@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2025-12-31T11:12:15.197Z",
+  "updatedAt": "2025-12-31T12:23:48.403Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Z-Tronix",
+      "link": "https://www.ransomware.live/id/Wi1Ucm9uaXhAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 31 Dec 2025 11:43:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?b910e06c4c5fd93fe2d7c07cc768a582",
+      "group": "Qilin",
+      "victim": "Z-Tronix",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Quasar",
+      "link": "https://www.ransomware.live/id/UXVhc2FyQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 31 Dec 2025 11:43:03 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?3d12de00cf809c954a950f9596be6e66",
+      "group": "Qilin",
+      "victim": "Quasar",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : TaLachaim",
+      "link": "https://www.ransomware.live/id/VGFMYWNoYWltQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Wed, 31 Dec 2025 11:42:26 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?28807d8b43948d0895d1ba7de28a4f7a",
+      "group": "Qilin",
+      "victim": "TaLachaim",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Burnham Brown",
       "link": "https://www.ransomware.live/id/QnVybmhhbSBCcm93bkBpbmNyYW5zb20=",
@@ -2168,39 +2201,6 @@
       "group": "Everest",
       "victim": "Notin",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Accela",
-      "link": "https://www.ransomware.live/id/QWNjZWxhQGV2ZXJlc3Q=",
-      "summary": "[AI generated] Accela is a leading provider of cloud-based productivity and civic engagement applications for government agencies. Their solutions, including permitting, licensing, code enforcement, and public health solutions, are designed to streamline workflow, automate processes, and provide citizen access to various government services. Accela&#x27;s software platform powers over 2000 governments worldwide.",
-      "pubDate": "Tue, 23 Dec 2025 17:45:50 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/everest?316f6f45c97b509fb70d90381cf714fa",
-      "group": "Everest",
-      "victim": "Accela",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Blackshrantac has just published a new victim : Agrícola Cerro Prieto",
-      "link": "https://www.ransomware.live/id/QWdyw61jb2xhIENlcnJvIFByaWV0b0BibGFja3NocmFudGFj",
-      "summary": "[AI generated] Agrícola Cerro Prieto is a Peruvian agricultural company, focused on the cultivation and exporting of a wide assortment of crops. Located in Chao, La Libertad, Peru, the enterprise is known for its cultivation of grapes, avocados, and asparagus among other products. Agrícola Cerro Prieto utilizes sophisticated irrigation systems and other technology to produce high-quality yields.",
-      "pubDate": "Tue, 23 Dec 2025 17:41:33 +0000",
-      "category": "PE",
-      "guid": "https://www.ransomware.live/group/blackshrantac?198337e7186e52533ccf80bb108bcb41",
-      "group": "Blackshrantac",
-      "victim": "Agrícola Cerro Prieto",
-      "country": "PE"
-    },
-    {
-      "title": "🏴‍☠️ Anubis has just published a new victim : Laidley Family Doctors",
-      "link": "https://www.ransomware.live/id/TGFpZGxleSBGYW1pbHkgRG9jdG9yc0BhbnViaXM=",
-      "summary": "Data breach at a clinic.",
-      "pubDate": "Tue, 23 Dec 2025 15:49:39 +0000",
-      "category": "AU",
-      "guid": "https://www.ransomware.live/group/anubis?d4f5696582d5954deb386c74dde132a3",
-      "group": "Anubis",
-      "victim": "Laidley Family Doctors",
-      "country": "AU"
     }
   ]
 }
