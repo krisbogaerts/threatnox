@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-31T07:17:10.267Z",
+  "updatedAt": "2025-12-31T08:18:27.887Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : 3GH Informatica Integral",
+      "link": "https://www.ransomware.live/id/M0dIIEluZm9ybWF0aWNhIEludGVncmFsQGluY3JhbnNvbQ==",
+      "summary": "3GH specializes in providing technological infrastructure management and data security services to medium and large enterprises. Their offerings include digital signage solutions, logistical technology support, and resident technicians, ensuring optimized processes for their clients. With over 29 years of experience, they have a diverse portfolio of clients across various sectors and maintain a national coverage in Spain. The company is committed to innovation and creating value through a dedicated team of over 100 qualified technicians and a comprehensive management system.",
+      "pubDate": "Wed, 31 Dec 2025 07:26:19 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/incransom?43d6c2d6e5515aee00b9063e0339379b",
+      "group": "Incransom",
+      "victim": "3GH Informatica Integral",
+      "country": "ES"
+    },
     {
       "title": "🏴‍☠️ Tridentlocker has just published a new victim : Sedgwick Government Solutions",
       "link": "https://www.ransomware.live/id/U2VkZ3dpY2sgR292ZXJubWVudCBTb2x1dGlvbnNAdHJpZGVudGxvY2tlcg==",
@@ -2190,17 +2201,6 @@
       "group": "Nova",
       "victim": "Sense Eletronica",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Lynx has just published a new victim : https://www.ckm-montagen.de/en/",
-      "link": "https://www.ransomware.live/id/aHR0cHM6Ly93d3cuY2ttLW1vbnRhZ2VuLmRlL2VuL0BseW54",
-      "summary": "CKM Kondring Montagen GmbH &amp; Co. KG is a leading assembly company specializing in exclusive shop fitting and yacht interior construction, delivering top-notch results on a global scale. The company focuses on high-quality and precise assembly of furniture and interiors, catering to individual client needs with a team of qualified carpenters and experienced installers. They handle both national and international projects, ensuring that every unique request is met with the highest standards of quality. With a commitment to customer satisfaction, they complete projects only when clients are fully satisfied with the results.",
-      "pubDate": "Tue, 23 Dec 2025 15:14:02 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/lynx?fa5a2c3d32e6e4ef252a7b7705312085",
-      "group": "Lynx",
-      "victim": "https://www.ckm-montagen.de/en/",
-      "country": "DE"
     }
   ]
 }
