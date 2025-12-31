@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-31T15:12:46.572Z",
+  "updatedAt": "2025-12-31T16:15:26.714Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Hunneman",
+      "link": "https://www.ransomware.live/id/SHVubmVtYW5AaW50ZXJsb2Nr",
+      "summary": "Hunneman, founded in Boston in 1929, is a real estate firm that offers a full range of real estate brokerage, leasing investment sales, and management services.",
+      "pubDate": "Wed, 31 Dec 2025 14:57:00 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/interlock?fec1922f7a4232fc8485ecf5cc57bd15",
+      "group": "Interlock",
+      "victim": "Hunneman",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Z-Tronix",
       "link": "https://www.ransomware.live/id/Wi1Ucm9uaXhAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "pellcityschools.net",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Notin",
-      "link": "https://www.ransomware.live/id/Tm90aW5AZXZlcmVzdA==",
-      "summary": "Proveedor tecnológico integral líder para notarías en España. Ofrecemos software de gestión (ERP), hardware, mantenimiento, ciberseguridad e Inteligencia Artificial.",
-      "pubDate": "Tue, 23 Dec 2025 17:46:11 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/everest?e4c2ac3fd4f2ebc9961a18b32a48893c",
-      "group": "Everest",
-      "victim": "Notin",
-      "country": "ES"
     }
   ]
 }
