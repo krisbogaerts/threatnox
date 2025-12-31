@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2025-12-31T10:13:15.856Z",
+  "updatedAt": "2025-12-31T11:12:15.197Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Burnham Brown",
+      "link": "https://www.ransomware.live/id/QnVybmhhbSBCcm93bkBpbmNyYW5zb20=",
+      "summary": "Burnham Brown is a law firm based in Oakland, California that provides legal services in various practice areas including retail and hospitality, real estate, business and commercial, as well as employment law. The firm caters to clients across industries such as transportation, logistics, and manufacturing, helping them navigate legal risks and compliance issues. They offer updates and resources on changes in law and industry-related news to inform their clients. Additionally, Burnham Brown conducts events and discussions to engage with the community and provide insights on evolving legal matters.",
+      "pubDate": "Wed, 31 Dec 2025 10:26:43 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?9fab489821e0e39185bc6ff2f4428ea1",
+      "group": "Incransom",
+      "victim": "Burnham Brown",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : 3GH Informatica Integral",
       "link": "https://www.ransomware.live/id/M0dIIEluZm9ybWF0aWNhIEludGVncmFsQGluY3JhbnNvbQ==",
@@ -2190,17 +2201,6 @@
       "group": "Anubis",
       "victim": "Laidley Family Doctors",
       "country": "AU"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : Sense Eletronica",
-      "link": "https://www.ransomware.live/id/U2Vuc2UgRWxldHJvbmljYUBub3Zh",
-      "summary": "Brazil Sense Sensores e Instrumentos specializes in automation of production processes and electrical engineering solutions. They offer a wide range of automation services and products aimed at improving operational efficiency.",
-      "pubDate": "Tue, 23 Dec 2025 15:17:32 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/nova?26a61dc3b31d3c1fb33694de2e06e478",
-      "group": "Nova",
-      "victim": "Sense Eletronica",
-      "country": "BR"
     }
   ]
 }
