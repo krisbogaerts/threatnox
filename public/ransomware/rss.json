@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-01T16:15:30.910Z",
+  "updatedAt": "2026-01-01T17:12:43.354Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : Barnes & Jones",
+      "link": "https://www.ransomware.live/id/QmFybmVzICYgSm9uZXNAZHJhZ29uZm9yY2U=",
+      "summary": "Barnes &amp; Jones was founded before the turn of the century by two engineers: Walter Barnes, a graduate of The Massachusetts Institute of Technology, and Bill Jones, a graduate of The Worcester Polytechnic Institute. Around 1897, the two joined forces to design and layout two-pipe steam heating systems for new commercial construction projects throughout Boston, New York City and Chicago. By applying their engineering expertise, the partners built a strong reputation for designing quiet, trouble free and efficient steam heating systems. Because most steam traps of the day were inherently inefficient and problematic, Barnes and Jones focused their talents to develop a more efficient and reliable steam trap. In 1902, Barnes &amp; Jones introduced their first line of balanced-pressured thermostatic steam traps to improve overall system performance.",
+      "pubDate": "Thu, 01 Jan 2026 15:53:40 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/dragonforce?c60b0c2d3ab7c91869d95bc657a95cc3",
+      "group": "Dragonforce",
+      "victim": "Barnes & Jones",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : KOPA Kozmetik A",
       "link": "https://www.ransomware.live/id/S09QQSBLb3ptZXRpayBBQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "SW/WC Service Cooperative",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : CoreHQ",
-      "link": "https://www.ransomware.live/id/Q29yZUhRQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 05:03:00 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?1c6101ee97903b862fc1dd49cacff444",
-      "group": "Qilin",
-      "victim": "CoreHQ",
-      "country": ""
     }
   ]
 }
