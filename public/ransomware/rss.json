@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-02T16:14:49.137Z",
+  "updatedAt": "2026-01-02T17:11:26.556Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Röben Tonbaustoffe",
+      "link": "https://www.ransomware.live/id/UsO2YmVuIFRvbmJhdXN0b2ZmZUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 02 Jan 2026 16:22:27 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/qilin?20114242be6194e4f0ee0de6c12b9704",
+      "group": "Qilin",
+      "victim": "Röben Tonbaustoffe",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : NECO Equipment",
+      "link": "https://www.ransomware.live/id/TkVDTyBFcXVpcG1lbnRAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 02 Jan 2026 16:21:50 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?e34fb86e07b118a1761a781f164948ce",
+      "group": "Qilin",
+      "victim": "NECO Equipment",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : сj Global",
+      "link": "https://www.ransomware.live/id/0YFqIEdsb2JhbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 02 Jan 2026 16:21:14 +0000",
+      "category": "KR",
+      "guid": "https://www.ransomware.live/group/qilin?9183a54ccdc4450666a86f827e0354ad",
+      "group": "Qilin",
+      "victim": "сj Global",
+      "country": "KR"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Lakeside Title Company",
       "link": "https://www.ransomware.live/id/TGFrZXNpZGUgVGl0bGUgQ29tcGFueUBwbGF5",
@@ -2168,39 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Tri-State Metal Roofing Supply",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Chaos has just published a new victim : amsino.com",
-      "link": "https://www.ransomware.live/id/YW1zaW5vLmNvbUBjaGFvcw==",
-      "summary": "Amsinos superior quality and technological advancements have gained the trust of healthcare professionals worldwide. With over 25 years of experience, we are fully aware of what it takes to meet and exceed industry expectations. Our commitment to improving patient care is not only reflected in our p…",
-      "pubDate": "Wed, 24 Dec 2025 10:17:41 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/chaos?da5f80101fca59000834aef646791de8",
-      "group": "Chaos",
-      "victim": "amsino.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Worldleaks has just published a new victim : Ellison Educational Equipment, Inc",
-      "link": "https://www.ransomware.live/id/RWxsaXNvbiBFZHVjYXRpb25hbCBFcXVpcG1lbnQsIEluY0B3b3JsZGxlYWtz",
-      "summary": "[AI generated] Ellison Educational Equipment, Inc., is a company renowned for designing and manufacturing innovative die-cutting machines and die-cut products. Founded in 1977, the company&#x27;s products are primarily used in the education sector for various creative activities. Notable products include lettering, shapes, and numeral dies. Its offerings help teachers and educators enhance learning and creativity in the classroom.",
-      "pubDate": "Wed, 24 Dec 2025 10:05:39 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/worldleaks?52f6299d6d6dff0a224274d4916c6367",
-      "group": "Worldleaks",
-      "victim": "Ellison Educational Equipment, Inc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Usina Sao Jose Do Pinheiro",
-      "link": "https://www.ransomware.live/id/VXNpbmEgU2FvIEpvc2UgRG8gUGluaGVpcm9AdGhlZ2VudGxlbWVu",
-      "summary": "www.usjp.com.br https://www.zoominfo.com/c/usina-sao-jose-do-pinheiro/465258703 Located in the municipality of Laranjeiras, Sergipe State, the São José do Pinheiro Sugar Mill is a century-old company that provides excellent service in the commercialization and manufacture of sugar, alcohol, molasses, and energy generation for the entire Brazilian Northeast and some European and African countries Its formation stems from the founding of the São José sugar mill along with other mills in the region by Albano do Prado Pimentel Franco, as recorded in his inventory dated 1928. Recently, in the 2014/2015 harvest, Usina Pinheiro achieved its largest agricultural harvest, harvesting 1,032,155 tons of sugarcane. This harvest also saw the highest ethanol production, totaling 9,140,830 liters of hydrated alcohol and 15,311,764 liters of anhydrous alcohol. The constant pursuit of quality and concern for food safety led Usina Pinheiro to obtain the ISO 9001:2008 and ISO 22000:2005 certifications",
-      "pubDate": "Wed, 24 Dec 2025 10:03:03 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/thegentlemen?9c4a170963cc37d31a7dedb6a0e5cdc9",
-      "group": "Thegentlemen",
-      "victim": "Usina Sao Jose Do Pinheiro",
-      "country": "BR"
     }
   ]
 }
