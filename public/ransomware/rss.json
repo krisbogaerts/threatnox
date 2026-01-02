@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-02T19:08:20.894Z",
+  "updatedAt": "2026-01-02T20:13:28.598Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Ellison Educational Equipment",
+      "link": "https://www.ransomware.live/id/RWxsaXNvbiBFZHVjYXRpb25hbCBFcXVpcG1lbnRAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Fri, 02 Jan 2026 19:07:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?416e57b39f27b08705a7395ed2707d96",
+      "group": "Qilin",
+      "victim": "Ellison Educational Equipment",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Farmacia San Pablo",
+      "link": "https://www.ransomware.live/id/RmFybWFjaWEgU2FuIFBhYmxvQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 02 Jan 2026 19:06:54 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/qilin?22fa17d887c5946302676f136eb26569",
+      "group": "Qilin",
+      "victim": "Farmacia San Pablo",
+      "country": "MX"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Jing Cheng Enterprise Co., Ltd.",
+      "link": "https://www.ransomware.live/id/SmluZyBDaGVuZyBFbnRlcnByaXNlIENvLiwgTHRkLkBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Fri, 02 Jan 2026 19:06:16 +0000",
+      "category": "TW",
+      "guid": "https://www.ransomware.live/group/qilin?468a4f5bcf03a9fabd3215d8e14ddaf5",
+      "group": "Qilin",
+      "victim": "Jing Cheng Enterprise Co., Ltd.",
+      "country": "TW"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Sai Oral SurgeryOral",
       "link": "https://www.ransomware.live/id/U2FpIE9yYWwgU3VyZ2VyeU9yYWxAcWlsaW4=",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "LogicVein",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : SV-Büro Ing. Schulz GmbH",
-      "link": "https://www.ransomware.live/id/U1YtQsO8cm8gSW5nLiBTY2h1bHogR21iSEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 13:59:33 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/qilin?7d3c7593b9616afa7f3cde10c00033f9",
-      "group": "Qilin",
-      "victim": "SV-Büro Ing. Schulz GmbH",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Sipl",
-      "link": "https://www.ransomware.live/id/U2lwbEBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 13:58:08 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/qilin?b164e46358d5a3ae11573b0a2cdf4799",
-      "group": "Qilin",
-      "victim": "Sipl",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : J Grennan & Sons",
-      "link": "https://www.ransomware.live/id/SiBHcmVubmFuICYgU29uc0Bha2lyYQ==",
-      "summary": "J Grennan &amp; Sons is a family owned Agri-trading business. They co re business is the manufacturing and distribution, at both wholes ale and retail level of Animal Feeds, Farm Fertilisers and Agricu ltural Seeds. The retailing and wholesaling of Agrochemicals, Far m Hardware and Farm Plastics are also integral parts of our busin ess. We are going to upload company data soon. You will find financial data (audit, payment details,financial reports, invoices), emplo yees and customers information (passports, driver&#x27;s license ) A b it of personal files and customers data.",
-      "pubDate": "Wed, 24 Dec 2025 13:15:52 +0000",
-      "category": "IE",
-      "guid": "https://www.ransomware.live/group/akira?e2f6bf9c6782557316a63a9aabdeff50",
-      "group": "Akira",
-      "victim": "J Grennan & Sons",
-      "country": "IE"
     }
   ]
 }
