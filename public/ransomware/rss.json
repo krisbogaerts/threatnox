@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-01-02T12:23:09.679Z",
+  "updatedAt": "2026-01-02T13:27:25.710Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Lakeside Title Company",
+      "link": "https://www.ransomware.live/id/TGFrZXNpZGUgVGl0bGUgQ29tcGFueUBwbGF5",
+      "summary": "United States",
+      "pubDate": "Fri, 02 Jan 2026 13:06:58 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?8c6a88d18b8df502c846376c4c742b5d",
+      "group": "Play",
+      "victim": "Lakeside Title Company",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Wardell Builders",
+      "link": "https://www.ransomware.live/id/V2FyZGVsbCBCdWlsZGVyc0BwbGF5",
+      "summary": "United States",
+      "pubDate": "Fri, 02 Jan 2026 13:06:21 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?6aaae45022282e61ea65142511a1c346",
+      "group": "Play",
+      "victim": "Wardell Builders",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Garner Foods",
+      "link": "https://www.ransomware.live/id/R2FybmVyIEZvb2RzQHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Fri, 02 Jan 2026 13:05:43 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?d1b06eab55729f742210428f2b9eddb2",
+      "group": "Play",
+      "victim": "Garner Foods",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Pewarchuk CPA",
+      "link": "https://www.ransomware.live/id/UGV3YXJjaHVrIENQQUBwbGF5",
+      "summary": "Canada",
+      "pubDate": "Fri, 02 Jan 2026 13:05:05 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/play?607ac7c50ba6a1a3a4ea6c3035628b06",
+      "group": "Play",
+      "victim": "Pewarchuk CPA",
+      "country": "CA"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Benise-Dowling & Associates",
+      "link": "https://www.ransomware.live/id/QmVuaXNlLURvd2xpbmcgJiBBc3NvY2lhdGVzQHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Fri, 02 Jan 2026 13:04:27 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?485a637da72c25f5a0a6b12a1febf2e0",
+      "group": "Play",
+      "victim": "Benise-Dowling & Associates",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Rockport Technology Group",
       "link": "https://www.ransomware.live/id/Um9ja3BvcnQgVGVjaG5vbG9neSBHcm91cEBwbGF5",
@@ -2146,61 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "Usina Sao Jose Do Pinheiro",
       "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Ever Green Industria e Comercio Ltda",
-      "link": "https://www.ransomware.live/id/RXZlciBHcmVlbiBJbmR1c3RyaWEgZSBDb21lcmNpbyBMdGRhQHRoZWdlbnRsZW1lbg==",
-      "summary": "www.evergreen.com.br https://www.zoominfo.com/c/ever-green-industria-e-comercio-ltda/426965047 Ever Green Industria e Comercio Ltda is a company that operates in the Animals &amp; Livestock industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in Sao Bernardo do Campo, Sao Paulo, Brazil. Products are sold in Brazil, Latin America, and Africa, in food retail (wholesalers and retailers), the pharmaceutical channel, the hospital channel, and the institutional channel. Ever Green&#x27;s products are present in more than 130,000 points of sale. Founded in 1987, Ever Green operates in the Brazilian and international markets",
-      "pubDate": "Wed, 24 Dec 2025 10:02:26 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/thegentlemen?26828176d615374b186b579a0172d325",
-      "group": "Thegentlemen",
-      "victim": "Ever Green Industria e Comercio Ltda",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : All Rush",
-      "link": "https://www.ransomware.live/id/QWxsIFJ1c2hAdGhlZ2VudGxlbWVu",
-      "summary": "www.allrush.ca https://www.zoominfo.com/c/all-rush/5705893  AllRush is a full-service print shop located in Calgary, specializing in a variety of products including print materials, custom apparel, small and large format signage, and promotional products. They cater to clients of all sizes, providing quick turnaround times and high-quality branding solutions such as corporate wear, event tickets, and promotional items. Their expertise spans across various printing services and mailing capabilities, ensuring comprehensive support for marketing strategies. With over 20 years of experience, AllRush emphasizes timely delivery and exceptional customer service",
-      "pubDate": "Wed, 24 Dec 2025 10:01:50 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/thegentlemen?49f85cf809a40a2e1db1d5aae61c6d36",
-      "group": "Thegentlemen",
-      "victim": "All Rush",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Santa Casa de Assis",
-      "link": "https://www.ransomware.live/id/U2FudGEgQ2FzYSBkZSBBc3Npc0B0aGVnZW50bGVtZW4=",
-      "summary": "www.santacasadeassis.org.br https://www.zoominfo.com/c/santa-casa-de-assis/425726597 Santa Casa de Assis is a longstanding private health care institution in Assis, São Paulo, Brazil. Founded in 1919 and now holding the CEBAS (Certificate of Beneficent Entity in Social Assistance in Health), it operates one of the region’s most complete and modern hospital complexes, offering services such as emergency care, maternity, surgical and intensive care units, advanced orthopedics, hemodynamics, laboratory diagnostics, and specialized clinics.",
-      "pubDate": "Wed, 24 Dec 2025 10:01:12 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/thegentlemen?69fe2bcb997ad5cfa1e6162f8bc54e2a",
-      "group": "Thegentlemen",
-      "victim": "Santa Casa de Assis",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Solus Tecnologia em Sistemas LTDA",
-      "link": "https://www.ransomware.live/id/U29sdXMgVGVjbm9sb2dpYSBlbSBTaXN0ZW1hcyBMVERBQHRoZWdlbnRsZW1lbg==",
-      "summary": "www.solustecnologia.com https://www.zoominfo.com/c/solus-tecnologia-em-sistemas-ltda/462475393 Solus Tecnologia specializes in security monitoring by developing and installing closed-circuit television (CCTV) systems. They offer comprehensive and efficient access control solutions and provide structured cabling services ensuring optimal performance and organization of network infrastructure. Additionally, they cater to various telecommunication needs, from simple to complex installations. Since 2000, their main goal has been to meet client expectations, providing comfort, peace of mind, and security.",
-      "pubDate": "Wed, 24 Dec 2025 10:00:24 +0000",
-      "category": "BR",
-      "guid": "https://www.ransomware.live/group/thegentlemen?bd129cc114791903ed33d2c02745ee91",
-      "group": "Thegentlemen",
-      "victim": "Solus Tecnologia em Sistemas LTDA",
-      "country": "BR"
-    },
-    {
-      "title": "🏴‍☠️ Thegentlemen has just published a new victim : HSR Specialist Researchers",
-      "link": "https://www.ransomware.live/id/SFNSIFNwZWNpYWxpc3QgUmVzZWFyY2hlcnNAdGhlZ2VudGxlbWVu",
-      "summary": "hsr.specialistresearchers.com.br https://www.zoominfo.com/c/hsr-specialist-researchers/372422527 HSR Specialist Researchers is the largest independent market research company in Brazil, offering specialized research services across various sectors including automotive, education, finance, healthcare, telecom, technology, and retail. They provide innovative solutions for market research needs, such as exploratory studies, product launches, and customer experience analytics. Their robust multi-platform data collection structure supports a wide range of output types, from simple data bases to comprehensive analytical reports. HSR aims to empower businesses by delivering strategic insights to enhance decision-making and market positioning.",
-      "pubDate": "Wed, 24 Dec 2025 09:59:43 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/thegentlemen?497bc5eba5664536c51aec2cf1fe379e",
-      "group": "Thegentlemen",
-      "victim": "HSR Specialist Researchers",
-      "country": "GB"
     }
   ]
 }
