@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-02T05:18:41.780Z",
+  "updatedAt": "2026-01-02T06:20:29.600Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Csv Group",
+      "link": "https://www.ransomware.live/id/Q3N2IEdyb3VwQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 02 Jan 2026 05:54:06 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?777418696d2b267ce4652567d8817cdf",
+      "group": "Qilin",
+      "victim": "Csv Group",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sugawara Laboratories",
+      "link": "https://www.ransomware.live/id/U3VnYXdhcmEgTGFib3JhdG9yaWVzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Fri, 02 Jan 2026 05:53:29 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/qilin?8dd337b5a6bccc0db42ea94efdd8718d",
+      "group": "Qilin",
+      "victim": "Sugawara Laboratories",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : Barnes & Jones",
       "link": "https://www.ransomware.live/id/QmFybmVzICYgSm9uZXNAZHJhZ29uZm9yY2U=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Niradia Enterprises",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : daispa.it",
-      "link": "https://www.ransomware.live/id/ZGFpc3BhLml0QHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 05:04:51 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/qilin?dfef7a585303cdfacad3a60928d4b436",
-      "group": "Qilin",
-      "victim": "daispa.it",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : SW/WC Service Cooperative",
-      "link": "https://www.ransomware.live/id/U1cvV0MgU2VydmljZSBDb29wZXJhdGl2ZUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 05:03:57 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?74e00de0215cb3490cf188c66a0d35f2",
-      "group": "Qilin",
-      "victim": "SW/WC Service Cooperative",
-      "country": "US"
     }
   ]
 }
