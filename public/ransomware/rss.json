@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-02T20:13:28.598Z",
+  "updatedAt": "2026-01-02T21:10:04.530Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : UBS Office",
+      "link": "https://www.ransomware.live/id/VUJTIE9mZmljZUBkcmFnb25mb3JjZQ==",
+      "summary": "United Business Systems specializes in simplifying the management of hardcopy and digital documents for various industries, with a strong focus on education. Their offerings include printers, copiers, print management, document management, and cloud printing solutions, all designed to enhance efficiency and security. UBS is recognized for its commitment to service excellence, providing reliable support and technology solutions tailored to client needs. The company emphasizes sustainability and cost savings, making it a preferred partner for organizations looking to optimize their document workflows.",
+      "pubDate": "Fri, 02 Jan 2026 19:52:48 +0000",
+      "category": "CH",
+      "guid": "https://www.ransomware.live/group/dragonforce?ca24dc08ea1c2ab7a66563edea88c6a7",
+      "group": "Dragonforce",
+      "victim": "UBS Office",
+      "country": "CH"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Ellison Educational Equipment",
       "link": "https://www.ransomware.live/id/RWxsaXNvbiBFZHVjYXRpb25hbCBFcXVpcG1lbnRAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Felix Gonzalez Law Firm",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : LogicVein",
-      "link": "https://www.ransomware.live/id/TG9naWNWZWluQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 14:00:58 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/qilin?3a0fdbd913f00617cb8c822f311a3d80",
-      "group": "Qilin",
-      "victim": "LogicVein",
-      "country": "JP"
     }
   ]
 }
