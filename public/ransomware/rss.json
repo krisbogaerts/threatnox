@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-02T11:12:16.071Z",
+  "updatedAt": "2026-01-02T12:23:09.679Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Rockport Technology Group",
+      "link": "https://www.ransomware.live/id/Um9ja3BvcnQgVGVjaG5vbG9neSBHcm91cEBwbGF5",
+      "summary": "United States",
+      "pubDate": "Fri, 02 Jan 2026 12:06:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?2c20056568097379b4408c35fb75bf29",
+      "group": "Play",
+      "victim": "Rockport Technology Group",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Stoughton Steel",
+      "link": "https://www.ransomware.live/id/U3RvdWdodG9uIFN0ZWVsQHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Fri, 02 Jan 2026 12:05:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?60234a0a4363af20549b9c314fdfd7d1",
+      "group": "Play",
+      "victim": "Stoughton Steel",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : SINBON Electronics Co., Ltd",
       "link": "https://www.ransomware.live/id/U0lOQk9OIEVsZWN0cm9uaWNzIENvLiwgTHRkQGRyYWdvbmZvcmNl",
@@ -2179,28 +2201,6 @@
       "group": "Thegentlemen",
       "victim": "HSR Specialist Researchers",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Nightspire has just published a new victim : International Door, Inc",
-      "link": "https://www.ransomware.live/id/SW50ZXJuYXRpb25hbCBEb29yLCBJbmNAbmlnaHRzcGlyZQ==",
-      "summary": "International Door, Inc",
-      "pubDate": "Wed, 24 Dec 2025 09:51:07 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nightspire?aaf6f88059d445a5ccffe4f487b6f08f",
-      "group": "Nightspire",
-      "victim": "International Door, Inc",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Prime Label",
-      "link": "https://www.ransomware.live/id/UHJpbWUgTGFiZWxAZHJhZ29uZm9yY2U=",
-      "summary": "Prime Label Consultants (PLC) specializes in consulting services for food label compliance with USDA and FDA regulations. Their offerings include label expediting, consulting, training, software solutions, auditing, and outsourcing tailored for the food industry. PLC serves a diverse clientele, including manufacturers, retailers, and brand marketers, providing comprehensive support from label development to regulatory approval. With a strong track record and daily interactions with government regulators, PLC is a trusted partner for over half of the top 100 food companies in the U.S.",
-      "pubDate": "Wed, 24 Dec 2025 07:21:20 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?62947e2d732eddf6272ac983ae96c06c",
-      "group": "Dragonforce",
-      "victim": "Prime Label",
-      "country": ""
     }
   ]
 }
