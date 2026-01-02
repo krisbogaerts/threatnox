@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-02T06:20:29.600Z",
+  "updatedAt": "2026-01-02T07:17:40.613Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Dragonforce has just published a new victim : SINBON Electronics Co., Ltd",
+      "link": "https://www.ransomware.live/id/U0lOQk9OIEVsZWN0cm9uaWNzIENvLiwgTHRkQGRyYWdvbmZvcmNl",
+      "summary": "SINBON Electronics, a leading Taiwanese maker of electronic components that partners with firms such as ASML Holding N.V. and trades under the ticker 3023.TW, posted a notice on the Taiwan Stock Exchange about a cyber-attack on its network. The statement claimed an unknown group carried out the attack, that it was quickly detected and blocked, that a specialized organization would successfully decrypt the files, and that no data were taken. In fact, none of that is accurate. The breach was not anonymous. We always disclose that we performed the intrusion and include our contact information. It’s well known that no one can decrypt what we encrypt without our assistance. Any claim to the contrary has resulted in multi-billion-dollar losses for those who believed it. The incident was not resolved quickly. It unfolded over several weeks and impacted both the headquarters and the U.S. subsidiary. During our operation we exfiltrated a massive volume of company data, including executive-level information. We have now assembled a package of roughly 650,000 files for publication. The collection contains, as usual, financial and accounting records, reports, client data, and personal information. It also includes documentation of the collaboration with ASML Holding N.V., production records, and detailed evidence of product defects and the company’s financial condition. It appears the IT staff tried to conceal the scale of the breach from senior management and regulators to limit personal repercussions. That decision forced us to go public with the incident and its magnitude. We have already sent our contact details to the executives’ email addresses. Please use those details to reach out to us so we can discuss how to keep the data from being released while your company continues to grow and thrive. (The list of files prepared now isn’t final. If needed, we can expand it considerably by adding mail files and other data.)",
+      "pubDate": "Fri, 02 Jan 2026 06:24:56 +0000",
+      "category": "TW",
+      "guid": "https://www.ransomware.live/group/dragonforce?14cab6c4c39f2560e719b1768d2eaaf5",
+      "group": "Dragonforce",
+      "victim": "SINBON Electronics Co., Ltd",
+      "country": "TW"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Csv Group",
       "link": "https://www.ransomware.live/id/Q3N2IEdyb3VwQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Prime Label",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Niradia Enterprises",
-      "link": "https://www.ransomware.live/id/TmlyYWRpYSBFbnRlcnByaXNlc0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 05:06:16 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/qilin?7fa8782238c59eb90a525c7fbd72fbac",
-      "group": "Qilin",
-      "victim": "Niradia Enterprises",
-      "country": "IN"
     }
   ]
 }
