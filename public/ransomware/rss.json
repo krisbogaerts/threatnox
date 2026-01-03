@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-02T23:11:53.463Z",
+  "updatedAt": "2026-01-03T00:55:49.923Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : Handala Alert: Amplifying the Voice of Resistance",
+      "link": "https://www.ransomware.live/id/SGFuZGFsYSBBbGVydDogQW1wbGlmeWluZyB0aGUgVm9pY2Ugb2YgUmVzaXN0YW5jZUBoYW5kYWxh",
+      "summary": "Official Statement from Handala People’s Resistance Front of Truth-Seekers (HPR) on the Launch of Handala Alert We are proud to announce that the Handala People’s Resistance Front of Truth-Seekers (HPR), in line with expanding its range of activities and responding to the growing needs of freedom movements, has launched a new division called Handala Alert.…",
+      "pubDate": "Fri, 02 Jan 2026 22:54:49 +0000",
+      "category": "PS",
+      "guid": "https://www.ransomware.live/group/handala?ecef9a9ff9e7482ee78a0c63bf0eb0d4",
+      "group": "Handala",
+      "victim": "Handala Alert: Amplifying the Voice of Resistance",
+      "country": "PS"
+    },
     {
       "title": "🏴‍☠️ Dragonforce has just published a new victim : UBS Office",
       "link": "https://www.ransomware.live/id/VUJTIE9mZmljZUBkcmFnb25mb3JjZQ==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Happy Telecom",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Felix Gonzalez Law Firm",
-      "link": "https://www.ransomware.live/id/RmVsaXggR29uemFsZXogTGF3IEZpcm1AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 14:02:05 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?4939acf5ff3ffc1354993f3bb7a5470d",
-      "group": "Qilin",
-      "victim": "Felix Gonzalez Law Firm",
-      "country": "US"
     }
   ]
 }
