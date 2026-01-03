@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-03T19:09:20.784Z",
+  "updatedAt": "2026-01-03T20:13:13.169Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Youngblood Tyler & Associates",
+      "link": "https://www.ransomware.live/id/WW91bmdibG9vZCBUeWxlciAmIEFzc29jaWF0ZXNAc2lub2Jp",
+      "summary": "Youngblood, Tyler &amp; Associates, P.C. is a leading firm specializing in civil engineering, land surveying, site development, and land planning, serving clients in Virginia, North Carolina, and West Virginia for over 50 years. Their comprehensive services include environmental assessments, drainage system design, surveying for residential and commercial projects, and detailed site development planning. The company fosters strong client partnerships throughout all phases of development, addressing needs from land purchasing to zoning and government approvals. With a dedicated team of professionals, they emphasize quality service and tailored solutions for each project.",
+      "pubDate": "Sat, 03 Jan 2026 19:18:31 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?ad26530ba7b4f797a83d2d66d83cfb6c",
+      "group": "Sinobi",
+      "victim": "Youngblood Tyler & Associates",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Borough of Moonachie",
       "link": "https://www.ransomware.live/id/Qm9yb3VnaCBvZiBNb29uYWNoaWVAaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Dragonforce",
       "victim": "National Credit Regulator (NCR)",
       "country": "ZA"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : cmac-llc.com",
-      "link": "https://www.ransomware.live/id/Y21hYy1sbGMuY29tQHNhZmVwYXk=",
-      "summary": "cMAC LLC is a small, privately-held construction and general contracting firm based in Renton, Washington, serving residential and commercial clients …",
-      "pubDate": "Wed, 24 Dec 2025 19:26:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?f46d361f800c0e89b6d3a8be7936184e",
-      "group": "Safepay",
-      "victim": "cmac-llc.com",
-      "country": "US"
     }
   ]
 }
