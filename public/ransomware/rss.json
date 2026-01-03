@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-03T07:12:33.822Z",
+  "updatedAt": "2026-01-03T08:16:02.550Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Handala has just published a new victim : The Queen’s Secrets: Unveiling the Mysteries Behind Ayelet Shaked",
+      "link": "https://www.ransomware.live/id/VGhlIFF1ZWVu4oCZcyBTZWNyZXRzOiBVbnZlaWxpbmcgdGhlIE15c3RlcmllcyBCZWhpbmQgQXllbGV0IFNoYWtlZEBoYW5kYWxh",
+      "summary": "The Queen’s Secrets: Unveiling the Mysteries Behind Ayelet Shaked Once again, the cyber world has witnessed the true extent of our power! This time, our target was none other than Ayelet Shaked, the controversial figure and so-called security champion of the Zionist regime. Her iPhone 15 Pro, supposedly the pinnacle of advanced technology and personal…",
+      "pubDate": "Sat, 03 Jan 2026 07:22:56 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/handala?017407d1741699bc4b16b29bbf660e00",
+      "group": "Handala",
+      "victim": "The Queen’s Secrets: Unveiling the Mysteries Behind Ayelet Shaked",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Handala has just published a new victim : Handala Alert: Amplifying the Voice of Resistance",
       "link": "https://www.ransomware.live/id/SGFuZGFsYSBBbGVydDogQW1wbGlmeWluZyB0aGUgVm9pY2Ugb2YgUmVzaXN0YW5jZUBoYW5kYWxh",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/qilin?1f7144cbe308414d878a131186f1045a",
       "group": "Qilin",
       "victim": "ARO",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Happy Telecom",
-      "link": "https://www.ransomware.live/id/SGFwcHkgVGVsZWNvbUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 24 Dec 2025 14:03:31 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?cdc0eaebc4b6461fd59b5075f0ffee8b",
-      "group": "Qilin",
-      "victim": "Happy Telecom",
       "country": ""
     }
   ]
