@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-03T15:11:53.528Z",
+  "updatedAt": "2026-01-03T16:13:54.591Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lockbit5 has just published a new victim : mtspokanepediatrics.com",
+      "link": "https://www.ransomware.live/id/bXRzcG9rYW5lcGVkaWF0cmljcy5jb21AbG9ja2JpdDU=",
+      "summary": "Mt. Spokane Pediatrics offers comprehensive healthcare services for patients from birth through youn...",
+      "pubDate": "Sat, 03 Jan 2026 15:34:06 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/lockbit5?93bdac16135c5f377834a43162553a05",
+      "group": "Lockbit5",
+      "victim": "mtspokanepediatrics.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : proton-system_Serbia",
       "link": "https://www.ransomware.live/id/cHJvdG9uLXN5c3RlbV9TZXJiaWFAaW5jcmFuc29t",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "envases-group.com",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Akira has just published a new victim : Agralite Electric Cooperative",
-      "link": "https://www.ransomware.live/id/QWdyYWxpdGUgRWxlY3RyaWMgQ29vcGVyYXRpdmVAYWtpcmE=",
-      "summary": "Alex Rubbish &amp; Recycling provides residential and commercial garb age, recycling, yard waste, and roll-off container services in Al exandria, MN. The company also manages leftover ash/fines, leacha te, and organics recycling for the Pope/Douglas Waste to Energy f acility.  We will upload 136gb of corporate data soon. Detailed personal em ployee information (name, dob, and other information), client inf ormation, NDA and tons of other files.",
-      "pubDate": "Wed, 24 Dec 2025 15:46:42 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/akira?d36aef927fd386829711fa6d014afd0b",
-      "group": "Akira",
-      "victim": "Agralite Electric Cooperative",
-      "country": "US"
     }
   ]
 }
