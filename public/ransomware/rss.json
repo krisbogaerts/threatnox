@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-01-04T05:19:04.468Z",
+  "updatedAt": "2026-01-04T06:18:56.012Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : PernelMedia",
+      "link": "https://www.ransomware.live/id/UGVybmVsTWVkaWFAZGlyZXdvbGY=",
+      "summary": "Media",
+      "pubDate": "Sun, 04 Jan 2026 05:54:30 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/direwolf?5f661b25a4eed2e104d57cd1e5c01883",
+      "group": "Direwolf",
+      "victim": "PernelMedia",
+      "country": "FR"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : KwikLedgers",
+      "link": "https://www.ransomware.live/id/S3dpa0xlZGdlcnNAZGlyZXdvbGY=",
+      "summary": "Finance",
+      "pubDate": "Sun, 04 Jan 2026 05:53:57 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/direwolf?1928887948d71bfa091cb00f8e0f2af3",
+      "group": "Direwolf",
+      "victim": "KwikLedgers",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Laurenzano Logistics",
+      "link": "https://www.ransomware.live/id/TGF1cmVuemFubyBMb2dpc3RpY3NAZGlyZXdvbGY=",
+      "summary": "Logistics Services",
+      "pubDate": "Sun, 04 Jan 2026 05:53:23 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/direwolf?91e98035b72b00fd9d2c441a0391450e",
+      "group": "Direwolf",
+      "victim": "Laurenzano Logistics",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Sunzen Biotech Berhad",
+      "link": "https://www.ransomware.live/id/U3VuemVuIEJpb3RlY2ggQmVyaGFkQGRpcmV3b2xm",
+      "summary": "Manufacturing",
+      "pubDate": "Sun, 04 Jan 2026 05:52:50 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/direwolf?96b6537f590fda797ceea2dddb7a4df2",
+      "group": "Direwolf",
+      "victim": "Sunzen Biotech Berhad",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Varimed Medikal",
+      "link": "https://www.ransomware.live/id/VmFyaW1lZCBNZWRpa2FsQGRpcmV3b2xm",
+      "summary": "Manufacturing",
+      "pubDate": "Sun, 04 Jan 2026 05:52:16 +0000",
+      "category": "TR",
+      "guid": "https://www.ransomware.live/group/direwolf?28f77f76c80d964cc9ae98b235711950",
+      "group": "Direwolf",
+      "victim": "Varimed Medikal",
+      "country": "TR"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Youngblood Tyler & Associates",
       "link": "https://www.ransomware.live/id/WW91bmdibG9vZCBUeWxlciAmIEFzc29jaWF0ZXNAc2lub2Jp",
@@ -2146,61 +2201,6 @@
       "group": "Safepay",
       "victim": "47club.jp",
       "country": "JP"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : nhpsa.com.ar",
-      "link": "https://www.ransomware.live/id/bmhwc2EuY29tLmFyQHNhZmVwYXk=",
-      "summary": "NHPSA — formally New High Pack S.A. — is an Argentine packaging manufacturer and supplier based in Benavídez, Tigre, Province …",
-      "pubDate": "Wed, 24 Dec 2025 21:21:49 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/safepay?6b629f8777df0821a720002d2a79efd6",
-      "group": "Safepay",
-      "victim": "nhpsa.com.ar",
-      "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : vitatrac.com.gt",
-      "link": "https://www.ransomware.live/id/dml0YXRyYWMuY29tLmd0QHNhZmVwYXk=",
-      "summary": "Vitatrac S.A. is a long-established automotive service and tire distribution company headquartered in Guatemala City, Guatemala, with multiple service centers …",
-      "pubDate": "Wed, 24 Dec 2025 21:21:15 +0000",
-      "category": "GT",
-      "guid": "https://www.ransomware.live/group/safepay?959f5a3a148a358f1bc124476ba227bd",
-      "group": "Safepay",
-      "victim": "vitatrac.com.gt",
-      "country": "GT"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : eiconnect.com",
-      "link": "https://www.ransomware.live/id/ZWljb25uZWN0LmNvbUBzYWZlcGF5",
-      "summary": "Electronic Interconnect, often referred to as EI, is a U.S.-based manufacturer and supplier of printed circuit boards (PCBs) headquartered in …",
-      "pubDate": "Wed, 24 Dec 2025 21:20:39 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?c61f55cc217a80c7a41de6782d7f1151",
-      "group": "Safepay",
-      "victim": "eiconnect.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : massfd.org",
-      "link": "https://www.ransomware.live/id/bWFzc2ZkLm9yZ0BzYWZlcGF5",
-      "summary": "MassFD — as reflected by the domain massfd.org — appears to be the official website of the Massapequa Fire District, …",
-      "pubDate": "Wed, 24 Dec 2025 21:20:05 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?f9891b9a87df9658f9be0218dfb4a643",
-      "group": "Safepay",
-      "victim": "massfd.org",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : National Credit Regulator (NCR)",
-      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgQ3JlZGl0IFJlZ3VsYXRvciAoTkNSKUBkcmFnb25mb3JjZQ==",
-      "summary": "The National Credit Regulator (NCR) is the statutory body established under the National Credit Act 34 of 2005 to regulate the South African credit industry. The NCR is responsible for the registration of credit providers, credit bureaus, debt counsellors, payment distribution agents, and alternative dispute resolution agents. It monitors compliance with the Act, enforces regulations, and promotes consumer education to ensure a fair, transparent, and accessible credit market.",
-      "pubDate": "Wed, 24 Dec 2025 19:44:44 +0000",
-      "category": "ZA",
-      "guid": "https://www.ransomware.live/group/dragonforce?5d77d48c4fcbfea1760fecbf1052671c",
-      "group": "Dragonforce",
-      "victim": "National Credit Regulator (NCR)",
-      "country": "ZA"
     }
   ]
 }
