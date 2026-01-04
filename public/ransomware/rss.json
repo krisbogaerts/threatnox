@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-04T19:09:15.016Z",
+  "updatedAt": "2026-01-04T20:13:55.597Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Medusa has just published a new victim : Resource Corporation of America",
+      "link": "https://www.ransomware.live/id/UmVzb3VyY2UgQ29ycG9yYXRpb24gb2YgQW1lcmljYUBtZWR1c2E=",
+      "summary": "Resource Corporation of America specializes in converting hospitals&#x27; at-risk dollars into revenue, focusing on third-party eligibility solutions. With over 30 years of experience, they have achieved a 93% certification success rate and have managed more than two billion dollars in patient account charges. Their services are aimed at hospitals navigating complex healthcare policies and regulatory changes. The company stands as a trusted partner for healthcare leaders seeking to optimize revenue amid evolving Medicaid reforms.  The company headquarters is located in 1120 Marina Bay Dr, Kemah, TX 77565, United States. 201-500 Employees",
+      "pubDate": "Sun, 04 Jan 2026 19:22:42 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/medusa?741b460966de060f14452a6d0d0bb2c6",
+      "group": "Medusa",
+      "victim": "Resource Corporation of America",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Chrysler - Database leaked",
       "link": "https://www.ransomware.live/id/Q2hyeXNsZXIgLSBEYXRhYmFzZSBsZWFrZWRAZXZlcmVzdA==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Lynn Electrical",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : SEIMITSU THAI COMPANY LIMITED",
-      "link": "https://www.ransomware.live/id/U0VJTUlUU1UgVEhBSSBDT01QQU5ZIExJTUlURURAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Thu, 25 Dec 2025 08:32:00 +0000",
-      "category": "TH",
-      "guid": "https://www.ransomware.live/group/qilin?716b3cb3c3403d26b603a97295f755dd",
-      "group": "Qilin",
-      "victim": "SEIMITSU THAI COMPANY LIMITED",
-      "country": "TH"
     }
   ]
 }
