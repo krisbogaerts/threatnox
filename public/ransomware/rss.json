@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-04T06:18:56.012Z",
+  "updatedAt": "2026-01-04T07:14:46.384Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Hydrodiseño",
+      "link": "https://www.ransomware.live/id/SHlkcm9kaXNlw7FvQGRpcmV3b2xm",
+      "summary": "Manufacturing",
+      "pubDate": "Sun, 04 Jan 2026 06:32:33 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/direwolf?9b384e6d88c96ab0de0d423880e7f576",
+      "group": "Direwolf",
+      "victim": "Hydrodiseño",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Bina Darulaman Berhad",
+      "link": "https://www.ransomware.live/id/QmluYSBEYXJ1bGFtYW4gQmVyaGFkQGRpcmV3b2xm",
+      "summary": "Civil Engineering Construction",
+      "pubDate": "Sun, 04 Jan 2026 06:31:59 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/direwolf?6881d29dcc94cad1cb49939cd77aae5d",
+      "group": "Direwolf",
+      "victim": "Bina Darulaman Berhad",
+      "country": "MY"
+    },
     {
       "title": "🏴‍☠️ Direwolf has just published a new victim : PernelMedia",
       "link": "https://www.ransomware.live/id/UGVybmVsTWVkaWFAZGlyZXdvbGY=",
@@ -2179,28 +2201,6 @@
       "group": "Safepay",
       "victim": "polhun.pl",
       "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : maxdream.tur.ar",
-      "link": "https://www.ransomware.live/id/bWF4ZHJlYW0udHVyLmFyQHNhZmVwYXk=",
-      "summary": "Maxdream is an Argentine travel and tourism company headquartered in Buenos Aires, Argentina, that specialises in organising student travel experiences …",
-      "pubDate": "Wed, 24 Dec 2025 21:22:59 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/safepay?09188380b563c885542b00085193bed7",
-      "group": "Safepay",
-      "victim": "maxdream.tur.ar",
-      "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : 47club.jp",
-      "link": "https://www.ransomware.live/id/NDdjbHViLmpwQHNhZmVwYXk=",
-      "summary": "47CLUB (operated by Kabushiki Kaisha 47CLUB, or 株式会社47CLUB) is a Japanese e-commerce and regional marketing company based in Tokyo. Its …",
-      "pubDate": "Wed, 24 Dec 2025 21:22:23 +0000",
-      "category": "JP",
-      "guid": "https://www.ransomware.live/group/safepay?30cf8db59ec8577537b995700e466d6f",
-      "group": "Safepay",
-      "victim": "47club.jp",
-      "country": "JP"
     }
   ]
 }
