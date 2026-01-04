@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-04T14:11:03.347Z",
+  "updatedAt": "2026-01-04T15:11:27.196Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Chrysler - Database leaked",
+      "link": "https://www.ransomware.live/id/Q2hyeXNsZXIgLSBEYXRhYmFzZSBsZWFrZWRAZXZlcmVzdA==",
+      "summary": "[AI generated] Chrysler is a prominent American automobile manufacturer, known for several famous brands like Jeep and Dodge. In the past, it suffered a database leak incident, where confidential information related to customers, employees, or other important company data might have been exposed, leading to potential security and privacy issues. This often results from hacking, inadequate security measures, or other forms of data breach.",
+      "pubDate": "Sun, 04 Jan 2026 13:51:16 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?01207f2d35c5d9be4fa179c5fde8581f",
+      "group": "Everest",
+      "victim": "Chrysler - Database leaked",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Sönmezler Metal",
       "link": "https://www.ransomware.live/id/U8O2bm1lemxlciBNZXRhbEBxaWxpbg==",
@@ -326,11 +337,11 @@
       "link": "https://www.ransomware.live/id/0YFqIEdsb2JhbEBxaWxpbg==",
       "summary": "N/A",
       "pubDate": "Fri, 02 Jan 2026 16:21:14 +0000",
-      "category": "KR",
+      "category": "US",
       "guid": "https://www.ransomware.live/group/qilin?9183a54ccdc4450666a86f827e0354ad",
       "group": "Qilin",
       "victim": "сj Global",
-      "country": "KR"
+      "country": "US"
     },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Lakeside Title Company",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "SEIMITSU THAI COMPANY LIMITED",
       "country": "TH"
-    },
-    {
-      "title": "🏴‍☠️ Termite has just published a new victim : Hermes Medical Solutions",
-      "link": "https://www.ransomware.live/id/SGVybWVzIE1lZGljYWwgU29sdXRpb25zQHRlcm1pdGU=",
-      "summary": "Hermes Medical Solutions is a leader in molecular imaging software, offering an innovative suite designed for faster and more personalized diagnostics and therapies in the fields of nuclear medicine and molecular imaging. Their all-in-one software, Hermia, integrates various medical imaging modalities and advanced dosimetry tools, making it suitable for diverse clinical specialties.",
-      "pubDate": "Thu, 25 Dec 2025 01:40:47 +0000",
-      "category": "SE",
-      "guid": "https://www.ransomware.live/group/termite?142a7313a4207161076af2a2caa8af74",
-      "group": "Termite",
-      "victim": "Hermes Medical Solutions",
-      "country": "SE"
     }
   ]
 }
