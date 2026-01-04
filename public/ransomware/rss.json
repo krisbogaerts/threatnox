@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-04T12:22:26.121Z",
+  "updatedAt": "2026-01-04T13:24:29.099Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sönmezler Metal",
+      "link": "https://www.ransomware.live/id/U8O2bm1lemxlciBNZXRhbEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sun, 04 Jan 2026 13:09:28 +0000",
+      "category": "TR",
+      "guid": "https://www.ransomware.live/group/qilin?895e36812d8380e868900d5f9fe76d36",
+      "group": "Qilin",
+      "victim": "Sönmezler Metal",
+      "country": "TR"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Cal Spas, Inc.",
+      "link": "https://www.ransomware.live/id/Q2FsIFNwYXMsIEluYy5AcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 04 Jan 2026 13:08:52 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?0545f40a72eed8d0471d59e2e12df59c",
+      "group": "Qilin",
+      "victim": "Cal Spas, Inc.",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Tommotek",
       "link": "https://www.ransomware.live/id/VG9tbW90ZWtAcWlsaW4=",
@@ -2179,28 +2201,6 @@
       "group": "Termite",
       "victim": "Hermes Medical Solutions",
       "country": "SE"
-    },
-    {
-      "title": "🏴‍☠️ Killsec has just published a new victim : grade results",
-      "link": "https://www.ransomware.live/id/Z3JhZGUgcmVzdWx0c0BraWxsc2Vj",
-      "summary": "Price ??? Disclosures 0/1",
-      "pubDate": "Wed, 24 Dec 2025 23:55:01 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/killsec?b01e5b9e0a4daa496a35f53c5346047f",
-      "group": "Killsec",
-      "victim": "grade results",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Interlock has just published a new victim : The Salvation Army",
-      "link": "https://www.ransomware.live/id/VGhlIFNhbHZhdGlvbiBBcm15QGludGVybG9jaw==",
-      "summary": "The Salvation Army, established in 1865, has been offering an array of social services that range from providing food for the hungry, relief for disaster victims, assistance for the disabled, outreach to the elderly and ill, clothing and shelter to the homeless and opportunities for underprivileged children.",
-      "pubDate": "Wed, 24 Dec 2025 21:56:20 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/interlock?7f18dce738f40276a60598c5116cfe95",
-      "group": "Interlock",
-      "victim": "The Salvation Army",
-      "country": "US"
     }
   ]
 }
