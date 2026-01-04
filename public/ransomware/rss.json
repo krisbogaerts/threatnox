@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-04T11:10:28.425Z",
+  "updatedAt": "2026-01-04T12:22:26.121Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Tommotek",
+      "link": "https://www.ransomware.live/id/VG9tbW90ZWtAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 04 Jan 2026 11:59:01 +0000",
+      "category": "FI",
+      "guid": "https://www.ransomware.live/group/qilin?5b8f3adc86aba91dbafb31fcd760b4b2",
+      "group": "Qilin",
+      "victim": "Tommotek",
+      "country": "FI"
+    },
     {
       "title": "🏴‍☠️ Direwolf has just published a new victim : Hydrodiseño",
       "link": "https://www.ransomware.live/id/SHlkcm9kaXNlw7FvQGRpcmV3b2xm",
@@ -2190,17 +2201,6 @@
       "group": "Interlock",
       "victim": "The Salvation Army",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : polhun.pl",
-      "link": "https://www.ransomware.live/id/cG9saHVuLnBsQHNhZmVwYXk=",
-      "summary": "POL-HUN is a well-established Polish manufacturer and distributor of household cleaning products and consumer chemicals. Founded in 1990, the company …",
-      "pubDate": "Wed, 24 Dec 2025 21:23:43 +0000",
-      "category": "PL",
-      "guid": "https://www.ransomware.live/group/safepay?7514ecb491b8421a940cf8390d89e0e8",
-      "group": "Safepay",
-      "victim": "polhun.pl",
-      "country": "PL"
     }
   ]
 }
