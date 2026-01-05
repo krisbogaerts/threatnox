@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-05T03:47:09.436Z",
+  "updatedAt": "2026-01-05T04:50:03.961Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : DESY",
+      "link": "https://www.ransomware.live/id/REVTWUBldmVyZXN0",
+      "summary": "[AI generated] DESY, short for Deutsches Elektronen-Synchrotron, is a German research center funded by the Federal Republic of Germany, the states of Germany, and the German Research Foundation. Established in 1959 and based in Hamburg, it operates particle accelerators that are used to investigate the structure and function of matter. The center undertakes research in the fields of physics, photon science, nanotechnology, and much more.",
+      "pubDate": "Mon, 05 Jan 2026 04:01:05 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/everest?3b7595e7663d324b69328b8f35c77ff3",
+      "group": "Everest",
+      "victim": "DESY",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Bolttech.io",
+      "link": "https://www.ransomware.live/id/Qm9sdHRlY2guaW9AZXZlcmVzdA==",
+      "summary": "[AI generated] Bolttech.io is an insurtech company that drives digital transformation in the insurance and protection industry. They provide insurance technology solutions including device protection, insurtech as a service, and digital brokerage services. The company aims to improve customer experiences, offer innovative products and services, and drive growth across Asia, Europe, and North America.",
+      "pubDate": "Mon, 05 Jan 2026 04:00:02 +0000",
+      "category": "HK",
+      "guid": "https://www.ransomware.live/group/everest?d522540ea0bdf7c7cd6a4a71a9b34956",
+      "group": "Everest",
+      "victim": "Bolttech.io",
+      "country": "HK"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : IDeaS.com",
+      "link": "https://www.ransomware.live/id/SURlYVMuY29tQGV2ZXJlc3Q=",
+      "summary": "[AI generated] IDeaS is a global technology company specializing in revenue management solutions. They provide innovative software and services for profit optimization, forecasting and pricing to businesses like hotels, parking facilities, and rental agencies. Using advanced analytics, they help clients make data-driven decisions to increase revenue, control costs, and optimize business operations.",
+      "pubDate": "Mon, 05 Jan 2026 03:59:20 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?1e4cbaf3220ed45a90c9af8e06bff34c",
+      "group": "Everest",
+      "victim": "IDeaS.com",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Medusa has just published a new victim : Resource Corporation of America",
       "link": "https://www.ransomware.live/id/UmVzb3VyY2UgQ29ycG9yYXRpb24gb2YgQW1lcmljYUBtZWR1c2E=",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Madera County Superintendent of Schools",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Everest has just published a new victim : Chrysler",
-      "link": "https://www.ransomware.live/id/Q2hyeXNsZXJAZXZlcmVzdA==",
-      "summary": "[AI generated] Chrysler is an American automobile manufacturer that was first established in 1925. Known for their range of reliable family cars, luxury sedans, and sporty convertibles, the company has a significant role in the global automotive industry. It was founded by Walter Chrysler, and is currently a subsidiary of Stellantis, resulting from the merger of Fiat Chrysler and Groupe PSA.",
-      "pubDate": "Thu, 25 Dec 2025 17:53:46 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/everest?076b4011cfac542594ffdb87bba4d92d",
-      "group": "Everest",
-      "victim": "Chrysler",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : CYMA SYSTEMS",
-      "link": "https://www.ransomware.live/id/Q1lNQSBTWVNURU1TQG5vdmE=",
-      "summary": "CYMA Payroll and Accounting Software is designed for volume payroll processing and unique markets that process complex payroll. Through Employee Self-Service, the CYMA payroll software extends to the web allowing maximum flexibility. At its core, CYMA has been producing Accounting Software solutions since 1980 - ready to decrypt and return data + stop leak operation, reach us",
-      "pubDate": "Thu, 25 Dec 2025 15:24:12 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nova?68dd63dcac29744ba763658cd59be00f",
-      "group": "Nova",
-      "victim": "CYMA SYSTEMS",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Lynn Electrical",
-      "link": "https://www.ransomware.live/id/THlubiBFbGVjdHJpY2FsQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Thu, 25 Dec 2025 08:33:25 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/qilin?0b7e766ea6504c09b587663c3b99c412",
-      "group": "Qilin",
-      "victim": "Lynn Electrical",
-      "country": ""
     }
   ]
 }
