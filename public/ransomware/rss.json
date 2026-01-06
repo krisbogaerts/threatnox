@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-06T18:18:55.356Z",
+  "updatedAt": "2026-01-06T19:10:18.008Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Rhysida has just published a new victim : Charles Leonard Steel Services",
+      "link": "https://www.ransomware.live/id/Q2hhcmxlcyBMZW9uYXJkIFN0ZWVsIFNlcnZpY2VzQHJoeXNpZGE=",
+      "summary": "Charles Leonard Steel Services",
+      "pubDate": "Tue, 06 Jan 2026 19:00:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/rhysida?2c6546069a454cc1bfffaea2a445aab1",
+      "group": "Rhysida",
+      "victim": "Charles Leonard Steel Services",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : USArt",
+      "link": "https://www.ransomware.live/id/VVNBcnRAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 06 Jan 2026 18:57:29 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?f237df4ec383b880501df1a95ca4c292",
+      "group": "Qilin",
+      "victim": "USArt",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : Epi du Rouergue",
       "link": "https://www.ransomware.live/id/RXBpIGR1IFJvdWVyZ3VlQG5vdmE=",
@@ -2179,28 +2201,6 @@
       "group": "Lockbit5",
       "victim": "savantivibranti.com",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : puzio-saunierduval.fr",
-      "link": "https://www.ransomware.live/id/cHV6aW8tc2F1bmllcmR1dmFsLmZyQGxvY2tiaXQ1",
-      "summary": "Notre entreprise ETS PUZIO à CHELLES Chauffagiste à Chelles depuis 1973, nous sommes spécialiste de...",
-      "pubDate": "Fri, 26 Dec 2025 15:42:26 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/lockbit5?1c263cb10c09470c1fab049657d6ddca",
-      "group": "Lockbit5",
-      "victim": "puzio-saunierduval.fr",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : optral.com",
-      "link": "https://www.ransomware.live/id/b3B0cmFsLmNvbUBsb2NrYml0NQ==",
-      "summary": "OPTRAL specializes in the design and manufacturing of optical fiber cables, offering a wide range of...",
-      "pubDate": "Fri, 26 Dec 2025 15:41:53 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/lockbit5?a080b7bf2d62247de8419e8f5cf02204",
-      "group": "Lockbit5",
-      "victim": "optral.com",
-      "country": "ES"
     }
   ]
 }
