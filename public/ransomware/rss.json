@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-06T16:16:31.530Z",
+  "updatedAt": "2026-01-06T17:16:26.704Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : Epi du Rouergue",
+      "link": "https://www.ransomware.live/id/RXBpIGR1IFJvdWVyZ3VlQG5vdmE=",
+      "summary": "L&#x27;Epi du Rouergue is a bakery and pastry shop located in the Aveyron region, operating 12 stores across the Tarn and Aveyron departments and participating in over 80 markets in the South-West of France. The company specializes in a variety of handmade products including breads, pastries, cakes, sandwiches, and traditional Aveyron specialties like fouace. With a commitment to freshness, their products are made without freezing, ensuring high-quality offerings for their customers. Founded in 1973 by a group of local bakers, L&#x27;Epi du Rouergue has grown to employ around 250 staff members and offers online ordering with home delivery options",
+      "pubDate": "Tue, 06 Jan 2026 16:55:11 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/nova?0f91b4a1c300e34e3168507f300df9b3",
+      "group": "Nova",
+      "victim": "Epi du Rouergue",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Secorp Industries",
       "link": "https://www.ransomware.live/id/U2Vjb3JwIEluZHVzdHJpZXNAcWlsaW4=",
@@ -2190,17 +2201,6 @@
       "group": "Lockbit5",
       "victim": "optral.com",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : omf.org",
-      "link": "https://www.ransomware.live/id/b21mLm9yZ0Bsb2NrYml0NQ==",
-      "summary": "OMF is a global fellowship of Christians with a heart for East Asia. We are passionate to demonstra...",
-      "pubDate": "Fri, 26 Dec 2025 15:41:19 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?504b6e4ae3cd0b5e6bca7df832bf53b5",
-      "group": "Lockbit5",
-      "victim": "omf.org",
-      "country": "US"
     }
   ]
 }
