@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-01-06T11:11:56.421Z",
+  "updatedAt": "2026-01-06T12:25:39.703Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tengu has just published a new victim : baja.gob.mx",
+      "link": "https://www.ransomware.live/id/YmFqYS5nb2IubXhAdGVuZ3U=",
+      "summary": "This is the official website of the Baja California State Government in Mexico — an important government site used to provide e-services, official information, procedures for citizens, news, and local government programs.",
+      "pubDate": "Tue, 06 Jan 2026 12:05:28 +0000",
+      "category": "MX",
+      "guid": "https://www.ransomware.live/group/tengu?df1bf5f9d4660e0de0b2f523dcd3abc3",
+      "group": "Tengu",
+      "victim": "baja.gob.mx",
+      "country": "MX"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Autohaus Pichel GmbH",
+      "link": "https://www.ransomware.live/id/QXV0b2hhdXMgUGljaGVsIEdtYkhAcGxheQ==",
+      "summary": "Germany",
+      "pubDate": "Tue, 06 Jan 2026 11:57:51 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/play?fa52dbfaedd23837062ec731694b1e53",
+      "group": "Play",
+      "victim": "Autohaus Pichel GmbH",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Due Doyle Fanning",
+      "link": "https://www.ransomware.live/id/RHVlIERveWxlIEZhbm5pbmdAcGxheQ==",
+      "summary": "United States",
+      "pubDate": "Tue, 06 Jan 2026 11:56:46 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?f3905e94abc17efeef1e07d72a7c488a",
+      "group": "Play",
+      "victim": "Due Doyle Fanning",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Mill Brothers",
+      "link": "https://www.ransomware.live/id/TWlsbCBCcm90aGVyc0BwbGF5",
+      "summary": "United States",
+      "pubDate": "Tue, 06 Jan 2026 11:56:07 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/play?1dc35af16985a8e47fb1b16a2cffb860",
+      "group": "Play",
+      "victim": "Mill Brothers",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Brotherhood has just published a new victim : Italgrafica Sistemi",
       "link": "https://www.ransomware.live/id/SXRhbGdyYWZpY2EgU2lzdGVtaUBicm90aGVyaG9vZA==",
@@ -2157,50 +2201,6 @@
       "group": "Lockbit5",
       "victim": "prommgroup.com",
       "country": "RU"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : q-ads.com",
-      "link": "https://www.ransomware.live/id/cS1hZHMuY29tQGxvY2tiaXQ1",
-      "summary": "An advertising company specializing in outdoor advertising",
-      "pubDate": "Fri, 26 Dec 2025 15:39:14 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/lockbit5?1d7a515c346e2376eb3032871087a397",
-      "group": "Lockbit5",
-      "victim": "q-ads.com",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : smed.at",
-      "link": "https://www.ransomware.live/id/c21lZC5hdEBsb2NrYml0NQ==",
-      "summary": "S.Med Handels GmbH is an Austrian pharmaceutical company based in Vienna, owned by a family. The com...",
-      "pubDate": "Fri, 26 Dec 2025 15:38:40 +0000",
-      "category": "AT",
-      "guid": "https://www.ransomware.live/group/lockbit5?d9255f081afbb4d113953f23f743e4f5",
-      "group": "Lockbit5",
-      "victim": "smed.at",
-      "country": "AT"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : clipan.co.id",
-      "link": "https://www.ransomware.live/id/Y2xpcGFuLmNvLmlkQGxvY2tiaXQ1",
-      "summary": "PT Clipan Finance Indonesia Tbk is a financing company for new cars, used cars, heavy equipment, and...",
-      "pubDate": "Fri, 26 Dec 2025 15:38:06 +0000",
-      "category": "ID",
-      "guid": "https://www.ransomware.live/group/lockbit5?80afb7933b43592868cde12f13cbefef",
-      "group": "Lockbit5",
-      "victim": "clipan.co.id",
-      "country": "ID"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : mc2engineers.com",
-      "link": "https://www.ransomware.live/id/bWMyZW5naW5lZXJzLmNvbUBsb2NrYml0NQ==",
-      "summary": "MC Squared is a regional engineering consulting firm specializing in geotechnical, environmental, ma...",
-      "pubDate": "Fri, 26 Dec 2025 15:37:30 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/lockbit5?10d92e933a47cb709ebbad80db6a7d70",
-      "group": "Lockbit5",
-      "victim": "mc2engineers.com",
-      "country": "US"
     }
   ]
 }
