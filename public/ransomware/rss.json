@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-06T14:14:50.233Z",
+  "updatedAt": "2026-01-06T15:13:39.336Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Secorp Industries",
+      "link": "https://www.ransomware.live/id/U2Vjb3JwIEluZHVzdHJpZXNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 06 Jan 2026 14:49:37 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?e04f5628d7e701205bc06a0deac9d07f",
+      "group": "Qilin",
+      "victim": "Secorp Industries",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Medical Asset Management",
+      "link": "https://www.ransomware.live/id/TWVkaWNhbCBBc3NldCBNYW5hZ2VtZW50QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 06 Jan 2026 14:48:55 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?576f32aa89cda0da72173d67e73f2822",
+      "group": "Qilin",
+      "victim": "Medical Asset Management",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Health Bridge Chiropractic",
+      "link": "https://www.ransomware.live/id/SGVhbHRoIEJyaWRnZSBDaGlyb3ByYWN0aWNAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Tue, 06 Jan 2026 14:48:15 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?b0cc1a93c227414d56911bd4c217faa9",
+      "group": "Qilin",
+      "victim": "Health Bridge Chiropractic",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Tengu has just published a new victim : baja.gob.mx",
       "link": "https://www.ransomware.live/id/YmFqYS5nb2IubXhAdGVuZ3U=",
@@ -2168,39 +2201,6 @@
       "group": "Lockbit5",
       "victim": "omf.org",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : occgrouptr.com",
-      "link": "https://www.ransomware.live/id/b2NjZ3JvdXB0ci5jb21AbG9ja2JpdDU=",
-      "summary": "OCC Group&amp;#039;un temel amacı, grubun yan kuruluşları arasında oluşturduğu sinerjiyle, reklamverenle...",
-      "pubDate": "Fri, 26 Dec 2025 15:40:55 +0000",
-      "category": "TR",
-      "guid": "https://www.ransomware.live/group/lockbit5?b429a1cd3de3c5108a7e5dcb2f0a6f38",
-      "group": "Lockbit5",
-      "victim": "occgrouptr.com",
-      "country": "TR"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : mostykatowice.pl",
-      "link": "https://www.ransomware.live/id/bW9zdHlrYXRvd2ljZS5wbEBsb2NrYml0NQ==",
-      "summary": "Spółka Mosty Katowice to jeden z liderów rynku projektowego w Polsce.    Na swój sukces pracujemy...",
-      "pubDate": "Fri, 26 Dec 2025 15:40:21 +0000",
-      "category": "PL",
-      "guid": "https://www.ransomware.live/group/lockbit5?1ab96ea68b6ef516dd3484ade68c9b53",
-      "group": "Lockbit5",
-      "victim": "mostykatowice.pl",
-      "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : prommgroup.com",
-      "link": "https://www.ransomware.live/id/cHJvbW1ncm91cC5jb21AbG9ja2JpdDU=",
-      "summary": "PROMM GROUP is a diversified company originally founded under the name Prommaharaj Land Development....",
-      "pubDate": "Fri, 26 Dec 2025 15:39:48 +0000",
-      "category": "RU",
-      "guid": "https://www.ransomware.live/group/lockbit5?ab931994876cb1d0401889723cf9e129",
-      "group": "Lockbit5",
-      "victim": "prommgroup.com",
-      "country": "RU"
     }
   ]
 }
