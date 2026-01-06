@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-06T22:12:49.248Z",
+  "updatedAt": "2026-01-06T23:12:32.435Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Berkmann Wine Cellars",
+      "link": "https://www.ransomware.live/id/QmVya21hbm4gV2luZSBDZWxsYXJzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Tue, 06 Jan 2026 22:55:06 +0000",
+      "category": "GB",
+      "guid": "https://www.ransomware.live/group/qilin?1e8bcadfc040d02d0812e833ecf44dda",
+      "group": "Qilin",
+      "victim": "Berkmann Wine Cellars",
+      "country": "GB"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Complexul Energetic Oltenia",
       "link": "https://www.ransomware.live/id/Q29tcGxleHVsIEVuZXJnZXRpYyBPbHRlbmlhQHRoZWdlbnRsZW1lbg==",
@@ -2190,17 +2201,6 @@
       "group": "Lockbit5",
       "victim": "towellholding.com",
       "country": "OM"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : tecnicarobertorocca.edu.ar",
-      "link": "https://www.ransomware.live/id/dGVjbmljYXJvYmVydG9yb2NjYS5lZHUuYXJAbG9ja2JpdDU=",
-      "summary": "Somos una red de escuelas de excelencia que busca formar técnicos y técnicas de alta calidad, que de...",
-      "pubDate": "Fri, 26 Dec 2025 15:45:14 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/lockbit5?1a73b155cb6ec55d51cce43c43058845",
-      "group": "Lockbit5",
-      "victim": "tecnicarobertorocca.edu.ar",
-      "country": "AR"
     }
   ]
 }
