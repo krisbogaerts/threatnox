@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-07T09:20:24.684Z",
+  "updatedAt": "2026-01-07T10:15:08.312Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : Options",
+      "link": "https://www.ransomware.live/id/T3B0aW9uc0BseW54",
+      "summary": "Options Community Services Society is a company that operates in the Individual &amp; Family Services industry. It employs 101-250 people and has $25M-$50M of revenue. The company is headquartered in Surrey, British Columbia, Canada",
+      "pubDate": "Wed, 07 Jan 2026 09:53:08 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/lynx?822830024d19403f64c0a1ea03bf4d9a",
+      "group": "Lynx",
+      "victim": "Options",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Morgan Records Management",
       "link": "https://www.ransomware.live/id/TW9yZ2FuIFJlY29yZHMgTWFuYWdlbWVudEBldmVyZXN0",
@@ -2190,17 +2201,6 @@
       "group": "Lockbit5",
       "victim": "zszeleznice.cz",
       "country": "CZ"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : urfishtrade.com",
-      "link": "https://www.ransomware.live/id/dXJmaXNodHJhZGUuY29tQGxvY2tiaXQ1",
-      "summary": "urfishtrade.com",
-      "pubDate": "Fri, 26 Dec 2025 15:46:20 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/lockbit5?4de78ba4e0998f9ca8cc463b10024480",
-      "group": "Lockbit5",
-      "victim": "urfishtrade.com",
-      "country": "DE"
     }
   ]
 }
