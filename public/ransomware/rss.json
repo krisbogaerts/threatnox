@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-07T15:16:01.952Z",
+  "updatedAt": "2026-01-07T16:18:39.927Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Commercial Paving",
+      "link": "https://www.ransomware.live/id/Q29tbWVyY2lhbCBQYXZpbmdAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Wed, 07 Jan 2026 16:02:41 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?c4cf7b534fb9e87e068479ab431ead93",
+      "group": "Qilin",
+      "victim": "Commercial Paving",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : BUHLMANN GROUP",
+      "link": "https://www.ransomware.live/id/QlVITE1BTk4gR1JPVVBAYWtpcmE=",
+      "summary": "BUHLMANN GROUP is a premium trading company specializing in steel pipes, pipe fittings, and accessories, serving various industrie s including energy, chemicals, shipbuilding, and machine construc tion. We will upload more than 55gb of corporate data soon. Lots of dra wings and specifications, confidentiality agreements, employees p ersonal documents, project files, financials, contracts and agree ments, customers information and so on.",
+      "pubDate": "Wed, 07 Jan 2026 15:17:48 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/akira?204d533da87c005edb16f9577e429305",
+      "group": "Akira",
+      "victim": "BUHLMANN GROUP",
+      "country": "DE"
+    },
     {
       "title": "🏴‍☠️ Interlock has just published a new victim : Westlake Christian Academy",
       "link": "https://www.ransomware.live/id/V2VzdGxha2UgQ2hyaXN0aWFuIEFjYWRlbXlAaW50ZXJsb2Nr",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Dom Development",
       "country": "PL"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : BMW Guatemala",
-      "link": "https://www.ransomware.live/id/Qk1XIEd1YXRlbWFsYUBkcmFnb25mb3JjZQ==",
-      "summary": "BMW Guatemala is a company that operates in the Automobile Dealers industry. It employs 250to499 people and has 10Mto25M of revenue. The company is headquartered in Guatemala City, Guatemala, Guatemala",
-      "pubDate": "Sat, 27 Dec 2025 15:45:03 +0000",
-      "category": "GT",
-      "guid": "https://www.ransomware.live/group/dragonforce?6a83f37da1fcc839ae4179fbe30da073",
-      "group": "Dragonforce",
-      "victim": "BMW Guatemala",
-      "country": "GT"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Caramel",
-      "link": "https://www.ransomware.live/id/Q2FyYW1lbEBkcmFnb25mb3JjZQ==",
-      "summary": "Founded in 1999 and headquartered in London, England, Caramel is a company that manufactures and sells apparel items.",
-      "pubDate": "Sat, 27 Dec 2025 15:44:12 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?0aae7b48bf6f28f4b04044421e4f67ee",
-      "group": "Dragonforce",
-      "victim": "Caramel",
-      "country": ""
     }
   ]
 }
