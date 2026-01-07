@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-01-07T14:16:09.772Z",
+  "updatedAt": "2026-01-07T15:16:01.952Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : Westlake Christian Academy",
+      "link": "https://www.ransomware.live/id/V2VzdGxha2UgQ2hyaXN0aWFuIEFjYWRlbXlAaW50ZXJsb2Nr",
+      "summary": "Westlake Christian Academy is a private Christian school located in Grayslake. Due to security issues, its database, including its entire student list and staff information, was made publicly available. The staff at this institution exhibits extreme indifference and inappropriate behavior toward its students and staff.",
+      "pubDate": "Wed, 07 Jan 2026 14:22:31 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/interlock?b319a50bc27b225c903e973de7fafbc9",
+      "group": "Interlock",
+      "victim": "Westlake Christian Academy",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Interlock has just published a new victim : RGD Consulting Engineers",
+      "link": "https://www.ransomware.live/id/UkdEIENvbnN1bHRpbmcgRW5naW5lZXJzQGludGVybG9jaw==",
+      "summary": "RGD Consulting Engineers is a full-service engineering firm specializing in mechanical, electrical, plumbing, and structural design, based in Florida. RGD is focused on providing engineering solutions, exceptional customer service, and cost-effective systems. Serving a variety of markets throughout Florida, the United States, and the Caribbean, RGD collaborates closely with its clients.",
+      "pubDate": "Wed, 07 Jan 2026 14:21:53 +0000",
+      "category": "AU",
+      "guid": "https://www.ransomware.live/group/interlock?9e9860cd90cb7555502f24192fda4737",
+      "group": "Interlock",
+      "victim": "RGD Consulting Engineers",
+      "country": "AU"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : RJS",
+      "link": "https://www.ransomware.live/id/UkpTQGFraXJh",
+      "summary": "RJS Corporation is a global supplier of equipment for the tire ma nufacturing industry, specializing in products such as tension co ntrollers, creel systems, and specialty tire equipment. We will upload corporate data soon. You will find detailed employ ee information (SSNs, passport numbers, DLs, addresses and so on) , financials, agreements with Goddyear, Bridgestone, Nokia, Yokoh ama, Michelin, Pirelli and so on, NDAs and other files.",
+      "pubDate": "Wed, 07 Jan 2026 14:12:22 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?5b5a1c25888918a00a6ff8b4a439128b",
+      "group": "Akira",
+      "victim": "RJS",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Labeltex Group",
+      "link": "https://www.ransomware.live/id/TGFiZWx0ZXggR3JvdXBAYWtpcmE=",
+      "summary": "Labeltex Group Srl offers products made with certified raw materi als in a continuous process that looks to the future of the texti le industry and the planet. We will upload corporate data soon. Financial data, agreements an d other internal files.",
+      "pubDate": "Wed, 07 Jan 2026 14:12:17 +0000",
+      "category": "HK",
+      "guid": "https://www.ransomware.live/group/akira?49705933aaeb5e09524d7d3f70b79680",
+      "group": "Akira",
+      "victim": "Labeltex Group",
+      "country": "HK"
+    },
     {
       "title": "🏴‍☠️ Tengu has just published a new victim : strategic-ts.com",
       "link": "https://www.ransomware.live/id/c3RyYXRlZ2ljLXRzLmNvbUB0ZW5ndQ==",
@@ -2157,50 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Caramel",
       "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Centro Médico Palafox",
-      "link": "https://www.ransomware.live/id/Q2VudHJvIE3DqWRpY28gUGFsYWZveEBkcmFnb25mb3JjZQ==",
-      "summary": "At Palafox Medical Center, we offer comprehensive healthcare services through a wide range of medical specialties. Our center boasts a broad spectrum of services and professionals, ensuring the complete well-being of you and your loved ones.",
-      "pubDate": "Sat, 27 Dec 2025 15:43:18 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/dragonforce?e4c40c77a21738eb94a0c5389d8b3267",
-      "group": "Dragonforce",
-      "victim": "Centro Médico Palafox",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Morpheus has just published a new victim : VALLEREDONDO",
-      "link": "https://www.ransomware.live/id/VkFMTEVSRURPTkRPQG1vcnBoZXVz",
-      "summary": "**Website**: valleredondo.com.mx **Revenue**: $50 Million Family owned, founded in 1964 by Don Luis Ferruccio Cetto, right in the center of México, in Aguascalientes. With more than 60 years special",
-      "pubDate": "Sat, 27 Dec 2025 10:48:26 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/morpheus?b31d8d86bd6fbdf41afd817e238caf7a",
-      "group": "Morpheus",
-      "victim": "VALLEREDONDO",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Hometech Window",
-      "link": "https://www.ransomware.live/id/SG9tZXRlY2ggV2luZG93QHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Fri, 26 Dec 2025 17:55:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?2172c6f471d16a08151fe128b280a6c7",
-      "group": "Qilin",
-      "victim": "Hometech Window",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Georgia Dermatology & Skin Cancer Center",
-      "link": "https://www.ransomware.live/id/R2VvcmdpYSBEZXJtYXRvbG9neSAmIFNraW4gQ2FuY2VyIENlbnRlckBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Fri, 26 Dec 2025 17:54:59 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?a5641d83f4248e4e8ede380d7cab0a5e",
-      "group": "Qilin",
-      "victim": "Georgia Dermatology & Skin Cancer Center",
-      "country": "US"
     }
   ]
 }
