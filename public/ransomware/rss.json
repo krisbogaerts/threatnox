@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-07T11:12:58.301Z",
+  "updatedAt": "2026-01-07T12:26:11.132Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Wamtechnik",
+      "link": "https://www.ransomware.live/id/V2FtdGVjaG5pa0B0aGVnZW50bGVtZW4=",
+      "summary": "www.wamtechnik.pl https://www.zoominfo.com/c/wamtechnik-ltd/398138337  Wamtechnik specializes in the production and distribution of batteries and accumulator packs, focusing on lithium-ion technology and other battery types for industrial applications. The company offers tailored battery solutions and professional consulting services for various sectors, including automotive, medical, and industrial electronics. With over 30 years of experience, Wamtechnik has established itself as a leading manufacturer in the battery systems industry, collaborating with global leaders like Panasonic and LG Chem. Their commitment to quality and safety ensures reliable power solutions for a wide range of devices.",
+      "pubDate": "Wed, 07 Jan 2026 12:03:02 +0000",
+      "category": "PL",
+      "guid": "https://www.ransomware.live/group/thegentlemen?770e3138e2ecedd051a6f1df98b186ad",
+      "group": "Thegentlemen",
+      "victim": "Wamtechnik",
+      "country": "PL"
+    },
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Systherm Grupa",
+      "link": "https://www.ransomware.live/id/U3lzdGhlcm0gR3J1cGFAdGhlZ2VudGxlbWVu",
+      "summary": "https://www.systherm.pl https://www.emis.com/php/company-profile/PL/Systherm_Danuta_Gazinska_sp_j_en_3366600.html SYSTHERM Chłodnictwo i Klimatyzacja sp  SYSTHERM Technik sp  SYSTHERM Danuta Gazińska sp. Export and import of components for refrigeration and air conditioning, publishing activities, installation and service of refrigeration and air conditioning equipment.",
+      "pubDate": "Wed, 07 Jan 2026 12:01:52 +0000",
+      "category": "PL",
+      "guid": "https://www.ransomware.live/group/thegentlemen?157b423b5d8e5cb2312d7b7aa1e4593a",
+      "group": "Thegentlemen",
+      "victim": "Systherm Grupa",
+      "country": "PL"
+    },
+    {
+      "title": "🏴‍☠️ Thegentlemen has just published a new victim : Hart",
+      "link": "https://www.ransomware.live/id/SGFydEB0aGVnZW50bGVtZW4=",
+      "summary": "https://hartphp.com.pl https://www.zoominfo.com/c/hart-sp-zoo/469629635 HART was founded in 1990 specialize in the wholesale of parts and accessories for passenger cars, vans and motorcycles, also offering workshop equipment and electric scooters. In addition to goods from renowned suppliers, HART also offers of equally high quality, including in particular private label products: HART, HART Premium, M.Line, e-HART, Presspower and Sigert. HART Sp. z o.o.",
+      "pubDate": "Wed, 07 Jan 2026 12:00:34 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/thegentlemen?ec026e700b9ef5133b289dc0f3d96cc9",
+      "group": "Thegentlemen",
+      "victim": "Hart",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : Options",
       "link": "https://www.ransomware.live/id/T3B0aW9uc0BseW54",
@@ -2168,39 +2201,6 @@
       "group": "Qilin",
       "victim": "Hopital La Rabta",
       "country": "TN"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : drako.com.mx",
-      "link": "https://www.ransomware.live/id/ZHJha28uY29tLm14QGxvY2tiaXQ1",
-      "summary": "Since 1962, at Grupo Drako® we have built a legacy of growth, innovation, and leadership. With more...",
-      "pubDate": "Fri, 26 Dec 2025 15:48:03 +0000",
-      "category": "MX",
-      "guid": "https://www.ransomware.live/group/lockbit5?5d4c75a5ff7464360f9e176d02324b37",
-      "group": "Lockbit5",
-      "victim": "drako.com.mx",
-      "country": "MX"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : inspired.ee",
-      "link": "https://www.ransomware.live/id/aW5zcGlyZWQuZWVAbG9ja2JpdDU=",
-      "summary": "Inspired Universal McCann is the largest media agency in Estonia and the Baltics. We create and impl...",
-      "pubDate": "Fri, 26 Dec 2025 15:47:29 +0000",
-      "category": "EE",
-      "guid": "https://www.ransomware.live/group/lockbit5?505362c486a7bcd13d89485d0587180b",
-      "group": "Lockbit5",
-      "victim": "inspired.ee",
-      "country": "EE"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : zszeleznice.cz",
-      "link": "https://www.ransomware.live/id/enN6ZWxlem5pY2UuY3pAbG9ja2JpdDU=",
-      "summary": "Masarykova základní škola a mateřská škola, Železnice",
-      "pubDate": "Fri, 26 Dec 2025 15:46:54 +0000",
-      "category": "CZ",
-      "guid": "https://www.ransomware.live/group/lockbit5?620afd840178c5c26d59ad7c05db2767",
-      "group": "Lockbit5",
-      "victim": "zszeleznice.cz",
-      "country": "CZ"
     }
   ]
 }
