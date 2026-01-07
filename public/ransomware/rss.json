@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-06T23:12:32.435Z",
+  "updatedAt": "2026-01-07T00:59:58.018Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Morgan Records Management",
+      "link": "https://www.ransomware.live/id/TW9yZ2FuIFJlY29yZHMgTWFuYWdlbWVudEBldmVyZXN0",
+      "summary": "[AI generated] Morgan Records Management is a company specializing in secure document storage, data protection, and document destruction services. They offer solutions for digital transitions, including scanning services, and electronic content management systems. Their focus is on protecting client information, helping businesses save space, reduce risk, and manage data more efficiently. They operate both domestically and internationally.",
+      "pubDate": "Tue, 06 Jan 2026 23:23:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/everest?f5789b0d03d808063ee5af85ba783b16",
+      "group": "Everest",
+      "victim": "Morgan Records Management",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Berkmann Wine Cellars",
       "link": "https://www.ransomware.live/id/QmVya21hbm4gV2luZSBDZWxsYXJzQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Lockbit5",
       "victim": "urfishtrade.com",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : towellholding.com",
-      "link": "https://www.ransomware.live/id/dG93ZWxsaG9sZGluZy5jb21AbG9ja2JpdDU=",
-      "summary": "Towell International Holding owns reputed companies in Kuwait and the MENA region. Our aim is to pro...",
-      "pubDate": "Fri, 26 Dec 2025 15:45:47 +0000",
-      "category": "OM",
-      "guid": "https://www.ransomware.live/group/lockbit5?7f973d51491ababeabd66fff2ca112e6",
-      "group": "Lockbit5",
-      "victim": "towellholding.com",
-      "country": "OM"
     }
   ]
 }
