@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-07T13:33:41.156Z",
+  "updatedAt": "2026-01-07T14:16:09.772Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Tengu has just published a new victim : strategic-ts.com",
+      "link": "https://www.ransomware.live/id/c3RyYXRlZ2ljLXRzLmNvbUB0ZW5ndQ==",
+      "summary": "The website https://strategic-ts.com/ belongs to a small US-based IT and technology services company—and serves as the official website for a company called Strategic Technology, which operates in IT services and technical support. This information is based on company data available from professional databases.",
+      "pubDate": "Wed, 07 Jan 2026 14:00:51 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/tengu?fa313a168219d03f3722ce9edd3191f4",
+      "group": "Tengu",
+      "victim": "strategic-ts.com",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Wilson Smith CochranDickerson",
+      "link": "https://www.ransomware.live/id/V2lsc29uIFNtaXRoIENvY2hyYW5EaWNrZXJzb25AYWtpcmE=",
+      "summary": "Wilson Smith Cochran Dickerson is a law firm specializing in tria l and appellate litigation, providing advocacy and advice for cli ents dealing with business and casualty disputes. We will upload 120gb of corporate data soon. We will upload numer ous files with personal information of clients, lots of court fil es, police reports, court hearings and other confidential legal f iles.",
+      "pubDate": "Wed, 07 Jan 2026 13:17:18 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?52d0ceb8349ec2d8fd018bc5226d0988",
+      "group": "Akira",
+      "victim": "Wilson Smith CochranDickerson",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Thegentlemen has just published a new victim : Wamtechnik",
       "link": "https://www.ransomware.live/id/V2FtdGVjaG5pa0B0aGVnZW50bGVtZW4=",
@@ -2179,28 +2201,6 @@
       "group": "Qilin",
       "victim": "Georgia Dermatology & Skin Cancer Center",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Ortho Mattress",
-      "link": "https://www.ransomware.live/id/T3J0aG8gTWF0dHJlc3NAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Fri, 26 Dec 2025 17:54:21 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?c93433d1e8268370ea4ee3b15cde55f1",
-      "group": "Qilin",
-      "victim": "Ortho Mattress",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Hopital La Rabta",
-      "link": "https://www.ransomware.live/id/SG9waXRhbCBMYSBSYWJ0YUBxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Fri, 26 Dec 2025 17:53:44 +0000",
-      "category": "TN",
-      "guid": "https://www.ransomware.live/group/qilin?74feb95f552ebb25be9ccdb243dc16bb",
-      "group": "Qilin",
-      "victim": "Hopital La Rabta",
-      "country": "TN"
     }
   ]
 }
