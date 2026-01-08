@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-08T22:13:17.513Z",
+  "updatedAt": "2026-01-08T23:11:51.223Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Anubis has just published a new victim : About Women Ob-Gyn",
+      "link": "https://www.ransomware.live/id/QWJvdXQgV29tZW4gT2ItR3luQGFudWJpcw==",
+      "summary": "Data Breach at Gynecology Clinic.",
+      "pubDate": "Thu, 08 Jan 2026 21:37:09 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/anubis?6de073eb0c4e049a3f40d20dab6c6f52",
+      "group": "Anubis",
+      "victim": "About Women Ob-Gyn",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Vect has just published a new victim : Federal University of Sergipe",
       "link": "https://www.ransomware.live/id/RmVkZXJhbCBVbml2ZXJzaXR5IG9mIFNlcmdpcGVAdmVjdA==",
@@ -2190,17 +2201,6 @@
       "group": "Gunra",
       "victim": "INHA University",
       "country": "KR"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Arkan",
-      "link": "https://www.ransomware.live/id/QXJrYW5AcmFuc29taG91c2U=",
-      "summary": "Steel Corners Industrial Co. is a prominent supplier of sanitary stainless steel valves and fittings, catering to the food, beverage, dairy, chemical, and pharmaceutical industries. Established in Riyadh in 2019, with a branch in Oman since 2020, the company specializes in manufacturing stainless steel products for industrial, construction, and pumping station sectors.",
-      "pubDate": "Mon, 29 Dec 2025 09:30:32 +0000",
-      "category": "EG",
-      "guid": "https://www.ransomware.live/group/ransomhouse?5674a41b6901012a95af0c177859754a",
-      "group": "Ransomhouse",
-      "victim": "Arkan",
-      "country": "EG"
     }
   ]
 }
