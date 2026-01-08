@@ -1,7 +1,139 @@
 {
-  "updatedAt": "2026-01-08T19:13:13.292Z",
+  "updatedAt": "2026-01-08T20:14:23.483Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Vect has just published a new victim : Federal University of Sergipe",
+      "link": "https://www.ransomware.live/id/RmVkZXJhbCBVbml2ZXJzaXR5IG9mIFNlcmdpcGVAdmVjdA==",
+      "summary": "Status: STATUS: NEGOTIATING | Sector: Education | financial records, students data, etc etc DATA SIZE: 150GB | Deadline: 3d 17h",
+      "pubDate": "Thu, 08 Jan 2026 19:12:15 +0000",
+      "category": "BR",
+      "guid": "https://www.ransomware.live/group/vect?91d040bb9b59bdf970df3f89a2d052ed",
+      "group": "Vect",
+      "victim": "Federal University of Sergipe",
+      "country": "BR"
+    },
+    {
+      "title": "🏴‍☠️ Lockbit5 has just published a new victim : hilden.in",
+      "link": "https://www.ransomware.live/id/aGlsZGVuLmluQGxvY2tiaXQ1",
+      "summary": "Hilden and Tula Engineering is specialized in the design, manufacturing and installation of complete...",
+      "pubDate": "Thu, 08 Jan 2026 17:48:29 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/lockbit5?561d33fb3ee924eb167b5043fdca3006",
+      "group": "Lockbit5",
+      "victim": "hilden.in",
+      "country": "IN"
+    },
+    {
+      "title": "🏴‍☠️ Clop has just published a new victim : MUTTI-PARMA.COM",
+      "link": "https://www.ransomware.live/id/TVVUVEktUEFSTUEuQ09NQGNsb3A=",
+      "summary": "[AI generated] MUTTI-PARMA.COM is the website for Mutti, a leading company in the production of paste-based tomatoes. Located in Parma, Italy, it has been family-run for over 100 years. The company is committed to sustainable farming, and its products are globally recognized for their superior quality. They offer a range of products like whole peel tomatoes, sauces, pasta and pastes.",
+      "pubDate": "Thu, 08 Jan 2026 17:47:46 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/clop?d7e2a6069a440ec6d6ddd5d6d34878c5",
+      "group": "Clop",
+      "victim": "MUTTI-PARMA.COM",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Clop has just published a new victim : CPJ.ORG",
+      "link": "https://www.ransomware.live/id/Q1BKLk9SR0BjbG9w",
+      "summary": "[AI generated] CPJ.ORG, or the Committee to Protect Journalists, is a non-profit organization based in New York. Its mission is to promote press freedom worldwide and defend the rights of journalists to report the news without fear of reprisal. It does this by monitoring and documenting violations against press freedom and providing safety guides and other resources for journalists.",
+      "pubDate": "Thu, 08 Jan 2026 17:47:07 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/clop?795e8a4aefd6be5a53c1200c2f262519",
+      "group": "Clop",
+      "victim": "CPJ.ORG",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Clop has just published a new victim : BORING.COM",
+      "link": "https://www.ransomware.live/id/Qk9SSU5HLkNPTUBjbG9w",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Thu, 08 Jan 2026 17:46:29 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/clop?1e3f41fc1de33ba972be8b145ebf51d9",
+      "group": "Clop",
+      "victim": "BORING.COM",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : TriVector Services",
+      "link": "https://www.ransomware.live/id/VHJpVmVjdG9yIFNlcnZpY2VzQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 17:32:55 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?8401302cf13c63c4f5dfb3208ea77ae1",
+      "group": "Qilin",
+      "victim": "TriVector Services",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Gaviota",
+      "link": "https://www.ransomware.live/id/R2F2aW90YUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 17:32:17 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?a658f6078419f53c4ff3a5596096af72",
+      "group": "Qilin",
+      "victim": "Gaviota",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : STESAD",
+      "link": "https://www.ransomware.live/id/U1RFU0FEQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 17:31:34 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/qilin?6bc832ddef115c8884fba82a0fda2473",
+      "group": "Qilin",
+      "victim": "STESAD",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Softlab SpA",
+      "link": "https://www.ransomware.live/id/U29mdGxhYiBTcEFAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 17:30:53 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?570d6e13eebfdf0d645a9cb78f73f2b5",
+      "group": "Qilin",
+      "victim": "Softlab SpA",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Spring Grove Area School District",
+      "link": "https://www.ransomware.live/id/U3ByaW5nIEdyb3ZlIEFyZWEgU2Nob29sIERpc3RyaWN0QHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 17:30:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?930a2d111dad863a7a4714a86f1509d2",
+      "group": "Qilin",
+      "victim": "Spring Grove Area School District",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Retrofit Service",
+      "link": "https://www.ransomware.live/id/UmV0cm9maXQgU2VydmljZUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 17:29:33 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?fbcf7ff85e01e22a3acf6ab960b065f6",
+      "group": "Qilin",
+      "victim": "Retrofit Service",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : https://lpollockpr.com/",
+      "link": "https://www.ransomware.live/id/aHR0cHM6Ly9scG9sbG9ja3ByLmNvbS9AaW5jcmFuc29t",
+      "summary": "all data  corp / all client data",
+      "pubDate": "Thu, 08 Jan 2026 16:57:00 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?667b00752b24503d7a8fd35e1f17d193",
+      "group": "Incransom",
+      "victim": "https://lpollockpr.com/",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Ransomhouse has just published a new victim : Fedcap",
       "link": "https://www.ransomware.live/id/RmVkY2FwQHJhbnNvbWhvdXNl",
@@ -2069,138 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "Arkan",
       "country": "EG"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : pau.at",
-      "link": "https://www.ransomware.live/id/cGF1LmF0QHNhZmVwYXk=",
-      "summary": "PAUAT Architekten is a regional architectural practice based in Wels, Austria, founded in 1999 and led by architect Heinz Plöderl. …",
-      "pubDate": "Mon, 29 Dec 2025 08:24:13 +0000",
-      "category": "AT",
-      "guid": "https://www.ransomware.live/group/safepay?2cb471b5be1c1d753466e0c69779d1be",
-      "group": "Safepay",
-      "victim": "pau.at",
-      "country": "AT"
-    },
-    {
-      "title": "🏴‍☠️ Nova has just published a new victim : APC Home Health Service",
-      "link": "https://www.ransomware.live/id/QVBDIEhvbWUgSGVhbHRoIFNlcnZpY2VAbm92YQ==",
-      "summary": "Founded in 1982, APC Home Health Services is a home care provider, servicing Harlingen, Texas. Their services allows the elderly to stay in their home and receive medical care for health conditions, receiving assistance with daily tasks or homecare during day or night depending on their need.",
-      "pubDate": "Mon, 29 Dec 2025 06:17:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/nova?645dc2b2df0814a99b321c8847701c39",
-      "group": "Nova",
-      "victim": "APC Home Health Service",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : omrania",
-      "link": "https://www.ransomware.live/id/b21yYW5pYUBpbmNyYW5zb20=",
-      "summary": "Omrania\r Website:www.omrania.com \r \r WE HAS COLLECTED SUCH DATA AS: \r \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Corporate data\r - Business Agreements\r - Projects \r - Drawings\r \r - Total: 4000GB\r \r And a lot of other VERY IMPORTANT information!",
-      "pubDate": "Mon, 29 Dec 2025 01:49:09 +0000",
-      "category": "JO",
-      "guid": "https://www.ransomware.live/group/incransom?b29a8fd7a3b6c560789746195a2b309c",
-      "group": "Incransom",
-      "victim": "omrania",
-      "country": "JO"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : klingele",
-      "link": "https://www.ransomware.live/id/a2xpbmdlbGVAaW5jcmFuc29t",
-      "summary": "Klingele Paper &amp; Packaging\r Website: www.klingele.com\r \r WE HAS COLLECTED SUCH DATA AS: \r \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Operations\r - Corporate data\r - Business Agreements\r - Technology\r \r - Total: 450GB\r   \r And a lot of other VERY IMPORTANT information!",
-      "pubDate": "Sun, 28 Dec 2025 21:47:04 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/incransom?faebc9f89737dead541568e472bb51ac",
-      "group": "Incransom",
-      "victim": "klingele",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Questica",
-      "link": "https://www.ransomware.live/id/UXVlc3RpY2FAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Sun, 28 Dec 2025 19:20:12 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/qilin?065323df29d0e7fc16852f90e41bbe05",
-      "group": "Qilin",
-      "victim": "Questica",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Seac",
-      "link": "https://www.ransomware.live/id/U2VhY0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Sun, 28 Dec 2025 19:19:33 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/qilin?94cd3aaf8967d49cc0682cb9f58a2d63",
-      "group": "Qilin",
-      "victim": "Seac",
-      "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Goodwin College",
-      "link": "https://www.ransomware.live/id/R29vZHdpbiBDb2xsZWdlQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Sun, 28 Dec 2025 19:18:52 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?37517677c2c43d3e46a6d6551b91c114",
-      "group": "Qilin",
-      "victim": "Goodwin College",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Neurological Associates",
-      "link": "https://www.ransomware.live/id/TmV1cm9sb2dpY2FsIEFzc29jaWF0ZXNAZHJhZ29uZm9yY2U=",
-      "summary": "Neuro Associates, located in Kirkland, Washington, is a neurology clinic established in 1974 with a team of four highly experienced neurologists. The clinic offers comprehensive neurological services, including advanced MRI diagnostics, while prioritizing personalized and compassionate patient care. They emphasize accessibility and cost-effectiveness, not charging facility fees, and focus on one-on-one consultations between patients and their physicians. Neuro Associates aims to support patients with a wide range of neurological conditions through tailored treatment plans and a commitment to improving their quality of life.",
-      "pubDate": "Sun, 28 Dec 2025 15:50:08 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/dragonforce?27f5e14101e37256ed0af7b775fa6059",
-      "group": "Dragonforce",
-      "victim": "Neurological Associates",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : Intonu.com",
-      "link": "https://www.ransomware.live/id/SW50b251LmNvbUBkZXZtYW4=",
-      "summary": "Financial, Hr documents, claims",
-      "pubDate": "Sun, 28 Dec 2025 15:48:35 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?fc3c27af2909f02b0d7ae0ed790c2d88",
-      "group": "Devman",
-      "victim": "Intonu.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : oppor**nity*****.org",
-      "link": "https://www.ransomware.live/id/b3Bwb3IqKm5pdHkqKioqKi5vcmdAZGV2bWFu",
-      "summary": "Patients data, financial data",
-      "pubDate": "Sun, 28 Dec 2025 15:47:14 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?a24f17e32b57d05328e2d3e58f4137dd",
-      "group": "Devman",
-      "victim": "oppor**nity*****.org",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : Jennings SD",
-      "link": "https://www.ransomware.live/id/SmVubmluZ3MgU0RAZGV2bWFu",
-      "summary": "Financial data, HR data",
-      "pubDate": "Sun, 28 Dec 2025 15:45:51 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?a37b20d28c6f701c2db9d1b3057753e4",
-      "group": "Devman",
-      "victim": "Jennings SD",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Devman has just published a new victim : sharinc.org",
-      "link": "https://www.ransomware.live/id/c2hhcmluYy5vcmdAZGV2bWFu",
-      "summary": "Financial, Custommer data",
-      "pubDate": "Sun, 28 Dec 2025 15:44:29 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/devman?276c72c3e62b27612cb31de8ff4ba56c",
-      "group": "Devman",
-      "victim": "sharinc.org",
-      "country": "US"
     }
   ]
 }
