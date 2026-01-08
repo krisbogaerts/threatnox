@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-08T00:59:44.912Z",
+  "updatedAt": "2026-01-08T02:57:38.261Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : The Structures Group",
+      "link": "https://www.ransomware.live/id/VGhlIFN0cnVjdHVyZXMgR3JvdXBAc2lub2Jp",
+      "summary": "The Structures Group, Inc is a consulting engineering firm specializing in structural engineering, special inspections, and forensic analysis. They offer services including independent review plans and due diligence/risk analysis, catering to a diverse clientele that includes commercial, residential, and institutional projects. Their expertise spans various sectors such as healthcare, education, and justice facilities. The company is committed to delivering high-quality engineering solutions to enhance structural integrity and safety.",
+      "pubDate": "Thu, 08 Jan 2026 01:07:12 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/sinobi?b5439f815ee6543b326932c58a3f0e6e",
+      "group": "Sinobi",
+      "victim": "The Structures Group",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Evergreen Printing",
       "link": "https://www.ransomware.live/id/RXZlcmdyZWVuIFByaW50aW5nQHFpbGlu",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "inpipeproducts.com",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : larosadelmonte.com",
-      "link": "https://www.ransomware.live/id/bGFyb3NhZGVsbW9udGUuY29tQHNhZmVwYXk=",
-      "summary": "La Rosa Del Monte is a long-standing family-owned moving and logistics company based in Bronx, New York, with operations extending …",
-      "pubDate": "Sat, 27 Dec 2025 20:39:38 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?13b5e8de667c5a0c8307fdf7cb3317bd",
-      "group": "Safepay",
-      "victim": "larosadelmonte.com",
-      "country": "US"
     }
   ]
 }
