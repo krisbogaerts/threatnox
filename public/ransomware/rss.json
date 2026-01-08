@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-08T10:15:42.435Z",
+  "updatedAt": "2026-01-08T11:13:39.191Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : PTS Goldkist Industries Sdn Bhd",
+      "link": "https://www.ransomware.live/id/UFRTIEdvbGRraXN0IEluZHVzdHJpZXMgU2RuIEJoZEBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 10:56:27 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/qilin?2964d57d97c986b6e4ec660c51b6ece2",
+      "group": "Qilin",
+      "victim": "PTS Goldkist Industries Sdn Bhd",
+      "country": "MY"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : The Cressi",
+      "link": "https://www.ransomware.live/id/VGhlIENyZXNzaUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 10:55:50 +0000",
+      "category": "IT",
+      "guid": "https://www.ransomware.live/group/qilin?6f85da2e4ce124798ef2f4a79a67ca8a",
+      "group": "Qilin",
+      "victim": "The Cressi",
+      "country": "IT"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Telstar-Hommel",
+      "link": "https://www.ransomware.live/id/VGVsc3Rhci1Ib21tZWxAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 10:55:12 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?9c743c62af5b13124db598b0731912e4",
+      "group": "Qilin",
+      "victim": "Telstar-Hommel",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Blackshrantac has just published a new victim : National Water Authority",
       "link": "https://www.ransomware.live/id/TmF0aW9uYWwgV2F0ZXIgQXV0aG9yaXR5QGJsYWNrc2hyYW50YWM=",
@@ -2168,39 +2201,6 @@
       "group": "Safepay",
       "victim": "studioelad.it",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : debralmorrison.com",
-      "link": "https://www.ransomware.live/id/ZGVicmFsbW9ycmlzb24uY29tQHNhZmVwYXk=",
-      "summary": "Debra L. Morrison operates a professional coaching, speaking, and financial education practice associated with the domain DebraLMorrison.com, which serves as …",
-      "pubDate": "Sat, 27 Dec 2025 20:42:29 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?caf83658882279cb74935873ce7d8634",
-      "group": "Safepay",
-      "victim": "debralmorrison.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : hmpccpa.com",
-      "link": "https://www.ransomware.live/id/aG1wY2NwYS5jb21Ac2FmZXBheQ==",
-      "summary": "Harvey &amp; Martin, PLLC is a professional accounting firm based in Massachusetts, United States, with additional offices in Gloucester, MA …",
-      "pubDate": "Sat, 27 Dec 2025 20:41:55 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?ba02d69786858f7fe0f00644d18cc35e",
-      "group": "Safepay",
-      "victim": "hmpccpa.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : vanvenrooy.com",
-      "link": "https://www.ransomware.live/id/dmFudmVucm9veS5jb21Ac2FmZXBheQ==",
-      "summary": "Van Venrooy is a Dutch family-owned engineering and manufacturing company based in Oss, the Netherlands, that specialises in tailor-made utility …",
-      "pubDate": "Sat, 27 Dec 2025 20:41:21 +0000",
-      "category": "NL",
-      "guid": "https://www.ransomware.live/group/safepay?5d2b5ed2fb68a4e018574d031a7eeb53",
-      "group": "Safepay",
-      "victim": "vanvenrooy.com",
-      "country": "NL"
     }
   ]
 }
