@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-08T13:34:47.830Z",
+  "updatedAt": "2026-01-08T14:17:23.257Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Blacknevas has just published a new victim : Applied LNG",
+      "link": "https://www.ransomware.live/id/QXBwbGllZCBMTkdAYmxhY2tuZXZhcw==",
+      "summary": "file listing https://gofile.io/d/wsV8hlApplied LNG specializes in providing liquefied natural gas (LNG) solutions for various energy needs, including equipment financing, maintenance, and logistics. The company emphasizes the environmental benefits of natural gas, highlighting its clean-burning properties that contribute to reducing greenhouse gas emissions. Founded in 1995, Applied LNG has over 20 years of experience and expertise in the LNG sector, particularly in the motor fuel market and power generation.",
+      "pubDate": "Thu, 08 Jan 2026 12:47:11 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/blacknevas?2af754ea5fe6dc9b102882b8cacd32d4",
+      "group": "Blacknevas",
+      "victim": "Applied LNG",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : PTS Goldkist Industries Sdn Bhd",
       "link": "https://www.ransomware.live/id/UFRTIEdvbGRraXN0IEluZHVzdHJpZXMgU2RuIEJoZEBxaWxpbg==",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "ryc.org",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : studioelad.it",
-      "link": "https://www.ransomware.live/id/c3R1ZGlvZWxhZC5pdEBzYWZlcGF5",
-      "summary": "Studio Elad — legally registered as Elad S.r.l. — is an Italian company operating in the professional services and business …",
-      "pubDate": "Sat, 27 Dec 2025 20:43:03 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/safepay?461f00cd30f556c3c8e898f59683c2cf",
-      "group": "Safepay",
-      "victim": "studioelad.it",
-      "country": "IT"
     }
   ]
 }
