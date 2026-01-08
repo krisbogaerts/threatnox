@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-01-08T14:17:23.257Z",
+  "updatedAt": "2026-01-08T15:16:36.575Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Ransomhouse has just published a new victim : Luxshare Precision Industry Co. Ltd.",
+      "link": "https://www.ransomware.live/id/THV4c2hhcmUgUHJlY2lzaW9uIEluZHVzdHJ5IENvLiBMdGQuQHJhbnNvbWhvdXNl",
+      "summary": "Luxshare Precision Industry Co., Ltd. (Luxshare-ICT) is a leading global manufacturer of precision components, cable assemblies, connectors, and integrated interconnect solutions, primarily serving the electronics industry. The company&#x27;s core business segments include consumer electronics (accounting for approximately 79% of revenue), communications and data centers (high-speed interconnects for AI infrastructure), and automotive electronics (wiring harnesses and intelligent systems). Key clients feature Apple as the primary partner (contributing over 70% of revenue through supplies for iPhones, AirPods, Apple Watch, and Vision Pro), alongside NVIDIA, Meta, Qualcomm, and major automakers.Headquartered in Dongguan, China, Luxshare employs over 278,000 people worldwide and operates production facilities across China, Vietnam, India, and Europe.",
+      "pubDate": "Thu, 08 Jan 2026 14:27:01 +0000",
+      "category": "CN",
+      "guid": "https://www.ransomware.live/group/ransomhouse?674802975e6cc90718f5a553c5ed6272",
+      "group": "Ransomhouse",
+      "victim": "Luxshare Precision Industry Co. Ltd.",
+      "country": "CN"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Anteriad",
+      "link": "https://www.ransomware.live/id/QW50ZXJpYWRAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Thu, 08 Jan 2026 14:25:18 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?07b652b11d6ac56f2872893a1e3c0223",
+      "group": "Qilin",
+      "victim": "Anteriad",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Gordon Companies",
+      "link": "https://www.ransomware.live/id/R29yZG9uIENvbXBhbmllc0Bha2lyYQ==",
+      "summary": "Gordon Companies Inc. is a family operated &amp; owned business, Gord on Companies include Pool Central, Christmas Central, Daves and N orthlight retail stores. We will upload corporate data soon. Employee personal information (passport numbers, SSNs and other scanned documents), client dat a, financials, NDA and so on.",
+      "pubDate": "Thu, 08 Jan 2026 13:47:35 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?0b0958a01b4e29ccc9916731a7424e11",
+      "group": "Akira",
+      "victim": "Gordon Companies",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : These companies havebeen hacked.",
+      "link": "https://www.ransomware.live/id/VGhlc2UgY29tcGFuaWVzIGhhdmViZWVuIGhhY2tlZC5AYWtpcmE=",
+      "summary": "We didn&#x27;t take their data but you can try on your own. If you wan t details, leave your contacts. Gateway Fiber Shout! Factory FilmRise Huebsch Services Crawford Software Consulting",
+      "pubDate": "Thu, 08 Jan 2026 13:47:32 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/akira?f0699611ad73c70c5abc58a49fa7971d",
+      "group": "Akira",
+      "victim": "These companies havebeen hacked.",
+      "country": ""
+    },
     {
       "title": "🏴‍☠️ Blacknevas has just published a new victim : Applied LNG",
       "link": "https://www.ransomware.live/id/QXBwbGllZCBMTkdAYmxhY2tuZXZhcw==",
@@ -2156,50 +2200,6 @@
       "guid": "https://www.ransomware.live/group/medusa?98978a29c5e91810b540cc18d2225c4e",
       "group": "Medusa",
       "victim": "JBS",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Handala has just published a new victim : Bibi Gate: The Gatekeeper’s Fall | Tzachi Braverman",
-      "link": "https://www.ransomware.live/id/QmliaSBHYXRlOiBUaGUgR2F0ZWtlZXBlcuKAmXMgRmFsbCB8IFR6YWNoaSBCcmF2ZXJtYW5AaGFuZGFsYQ==",
-      "summary": "Bibi Gate Operation: The Gatekeeper’s Fall To Netanyahu’s inner circle, To every official still clutching the illusion of secrecy You feel it now: the tightening chest, the cold sweat, the gnawing dread. That’s not just fear, it’s the knowledge that every layer of your security, every secret entrusted to Tzachi Braverman, Netanyahu’s Chief of Staff,…",
-      "pubDate": "Sun, 28 Dec 2025 06:28:23 +0000",
-      "category": "IL",
-      "guid": "https://www.ransomware.live/group/handala?50582ae35c0ca3e00c3ad2ab8b754720",
-      "group": "Handala",
-      "victim": "Bibi Gate: The Gatekeeper’s Fall | Tzachi Braverman",
-      "country": "IL"
-    },
-    {
-      "title": "🏴‍☠️ Handala has just published a new victim : Netanyahu’s Cabinet Awaits Handala’s Next Move",
-      "link": "https://www.ransomware.live/id/TmV0YW55YWh14oCZcyBDYWJpbmV0IEF3YWl0cyBIYW5kYWxh4oCZcyBOZXh0IE1vdmVAaGFuZGFsYQ==",
-      "summary": "Handala Command acknowledges with gratitude the messages from Jews who oppose the killing of children. We remain steadfast in our commitment to liberate both Palestinians and Jews from the grip of the extremist Kahani sect leaders. While Handala Command previously invited feedback regarding four specific individuals for data release, the overwhelming volume of messages requesting…",
-      "pubDate": "Sat, 27 Dec 2025 23:16:14 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/handala?a162ed4768123412a4c6535e05e260ee",
-      "group": "Handala",
-      "victim": "Netanyahu’s Cabinet Awaits Handala’s Next Move",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : heatcel.co.uk",
-      "link": "https://www.ransomware.live/id/aGVhdGNlbC5jby51a0BzYWZlcGF5",
-      "summary": "Heatcel is a UK-based specialist supplier of central heating spares, components and equipment, operating as a stockist and distributor for …",
-      "pubDate": "Sat, 27 Dec 2025 20:44:12 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/safepay?adf3239c9d44be1e91aed949a103339b",
-      "group": "Safepay",
-      "victim": "heatcel.co.uk",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : ryc.org",
-      "link": "https://www.ransomware.live/id/cnljLm9yZ0BzYWZlcGF5",
-      "summary": "Raritan Yacht Club (RYC) is a private, member-owned recreational club located in Perth Amboy, New Jersey, with a history dating …",
-      "pubDate": "Sat, 27 Dec 2025 20:43:37 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?77ba46afa14c15f4ad72749496d0f6e7",
-      "group": "Safepay",
-      "victim": "ryc.org",
       "country": "US"
     }
   ]
