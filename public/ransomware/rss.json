@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-08T02:57:38.261Z",
+  "updatedAt": "2026-01-08T04:00:39.290Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : National Water Authority",
+      "link": "https://www.ransomware.live/id/TmF0aW9uYWwgV2F0ZXIgQXV0aG9yaXR5QGJsYWNrc2hyYW50YWM=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Thu, 08 Jan 2026 02:51:23 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/blackshrantac?cf34abb7e74f51acd384a5078276122e",
+      "group": "Blackshrantac",
+      "victim": "National Water Authority",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Blackshrantac has just published a new victim : SCHNEIDER PROTOTYPING INDIA PVT. LTD",
+      "link": "https://www.ransomware.live/id/U0NITkVJREVSIFBST1RPVFlQSU5HIElORElBIFBWVC4gTFREQGJsYWNrc2hyYW50YWM=",
+      "summary": "[AI generated] N/A",
+      "pubDate": "Thu, 08 Jan 2026 02:50:57 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/blackshrantac?a6362a832f53cf5b740a755e9b577e30",
+      "group": "Blackshrantac",
+      "victim": "SCHNEIDER PROTOTYPING INDIA PVT. LTD",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : The Structures Group",
       "link": "https://www.ransomware.live/id/VGhlIFN0cnVjdHVyZXMgR3JvdXBAc2lub2Jp",
@@ -2179,28 +2201,6 @@
       "group": "Safepay",
       "victim": "vanvenrooy.com",
       "country": "NL"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : wadzeck-stiftung.de",
-      "link": "https://www.ransomware.live/id/d2FkemVjay1zdGlmdHVuZy5kZUBzYWZlcGF5",
-      "summary": "Wadzeck-Stiftung is one of Germany’s oldest charitable youth-welfare organisations, founded in 1819 in Berlin as the first evangelical orphanage in …",
-      "pubDate": "Sat, 27 Dec 2025 20:40:48 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?08b61a768ec12864260df517ac1ec6f4",
-      "group": "Safepay",
-      "victim": "wadzeck-stiftung.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : inpipeproducts.com",
-      "link": "https://www.ransomware.live/id/aW5waXBlcHJvZHVjdHMuY29tQHNhZmVwYXk=",
-      "summary": "iNPIPE PRODUCTS is a British engineering and manufacturing company headquartered in Brompton on Swale, North Yorkshire, United Kingdom. The firm …",
-      "pubDate": "Sat, 27 Dec 2025 20:40:13 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/safepay?cd8a311287c1d0d5ac9a509982caf146",
-      "group": "Safepay",
-      "victim": "inpipeproducts.com",
-      "country": "GB"
     }
   ]
 }
