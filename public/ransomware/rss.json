@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-09T12:25:01.023Z",
+  "updatedAt": "2026-01-09T13:32:23.527Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Lynx has just published a new victim : Grupo Ruiz",
+      "link": "https://www.ransomware.live/id/R3J1cG8gUnVpekBseW54",
+      "summary": "Grupo Ruiz is a leading firm in sustainable and innovative mobility with over a century of experience in transforming transportation responsibly and efficiently. The company operates a significant proportion of its fleet using compressed natural gas and electricity, making it a pioneer in sustainable transport solutions in Spain. They also focus on technological innovation through AI to optimize processes and enhance user experience.",
+      "pubDate": "Fri, 09 Jan 2026 12:45:32 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/lynx?d7047114963efc17255308029d25a32f",
+      "group": "Lynx",
+      "victim": "Grupo Ruiz",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : stignatiusijamsville.org",
+      "link": "https://www.ransomware.live/id/c3RpZ25hdGl1c2lqYW1zdmlsbGUub3JnQGluY3JhbnNvbQ==",
+      "summary": "St Ignatius of Loyola Catholic Community is a company that operates in the Religious Organizations industry. It employs 10to19 people and has under500K of revenue. The company is headquartered in Ijamsville, Maryland\r Employees: 20\r Revenue: $5 Million\r Industry: Church Management\r Phone Number: (301) 695-8845",
+      "pubDate": "Fri, 09 Jan 2026 12:22:55 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?c307de62c19c5d112c4600bdfbdabede",
+      "group": "Incransom",
+      "victim": "stignatiusijamsville.org",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Anubis has just published a new victim : About Women Ob-Gyn",
       "link": "https://www.ransomware.live/id/QWJvdXQgV29tZW4gT2ItR3luQGFudWJpcw==",
@@ -2179,28 +2201,6 @@
       "group": "Ransomhouse",
       "victim": "ESSPL",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Willowdale Steeplechase",
-      "link": "https://www.ransomware.live/id/V2lsbG93ZGFsZSBTdGVlcGxlY2hhc2VAcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 29 Dec 2025 10:13:10 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?6c5c684d9f711d1057262847a76aa01f",
-      "group": "Qilin",
-      "victim": "Willowdale Steeplechase",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Gunra has just published a new victim : INHA University",
-      "link": "https://www.ransomware.live/id/SU5IQSBVbml2ZXJzaXR5QGd1bnJh",
-      "summary": "[AI generated] INHA University is a private research university located in Incheon, South Korea. It was established in 1954 and is currently known for its programs in engineering, technology, and management. The university is named after the acronym of the Independence and Nationalism sought in developing Highly skilled Authorities, highlighting its commitment to fostering leaders.",
-      "pubDate": "Mon, 29 Dec 2025 10:02:27 +0000",
-      "category": "KR",
-      "guid": "https://www.ransomware.live/group/gunra?156cca7da5ed00239dfaddc7f09c50e5",
-      "group": "Gunra",
-      "victim": "INHA University",
-      "country": "KR"
     }
   ]
 }
