@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-09T14:16:08.296Z",
+  "updatedAt": "2026-01-09T15:14:32.705Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : McCraw Oil",
+      "link": "https://www.ransomware.live/id/TWNDcmF3IE9pbEBha2lyYQ==",
+      "summary": "Founded in 1948, McCraw Oil provides gas, diesel, propane, agricu ltural chemicals and other products to service stations and custo mers in Texas and Oklahoma. Bonham, Texas. We will upload 40gb of corporate data soon. We will upload employ ee documents, lots of projects, specifications and drawings, NDA, client information, contracts and so on.",
+      "pubDate": "Fri, 09 Jan 2026 14:11:04 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?f646b588562f59bb290143752dfb00ae",
+      "group": "Akira",
+      "victim": "McCraw Oil",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Lynx has just published a new victim : Grupo Ruiz",
       "link": "https://www.ransomware.live/id/R3J1cG8gUnVpekBseW54",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "Sintac Recycling",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Ransomhouse has just published a new victim : ESSPL",
-      "link": "https://www.ransomware.live/id/RVNTUExAcmFuc29taG91c2U=",
-      "summary": "ESSPL is a leading software solutions provider specializing in supply chain management and logistics, with over 27 years of experience. The company offers a comprehensive range of services including custom software development, consulting, business intelligence, and managed application services. ESSPL focuses on delivering innovative solutions that enhance operational efficiency and customer satisfaction for logistics and supply chain companies globally.",
-      "pubDate": "Mon, 29 Dec 2025 11:01:07 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/ransomhouse?2327a2fceafcb5e36460c4d5da160a67",
-      "group": "Ransomhouse",
-      "victim": "ESSPL",
-      "country": "IN"
     }
   ]
 }
