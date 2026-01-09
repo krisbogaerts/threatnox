@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-09T15:14:32.705Z",
+  "updatedAt": "2026-01-09T16:15:58.743Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : The Carlson Law Firm",
+      "link": "https://www.ransomware.live/id/VGhlIENhcmxzb24gTGF3IEZpcm1AaW5jcmFuc29t",
+      "summary": "Established in 1976, The Carlson Law Firm has built a reputation not only for our formidable presence in courtrooms but for our deep-rooted desire to serve the community. Our foundation rests on the shoulders of our Managing Partner, Craig Carlson. A proud veteran, Craig&#x27;s values are the compass that has guided our firm&#x27;s journey, helping us grow from a modest establishment in Killeen, Texas, to a renowned legal powerhouse with 17 locations in Texas, an office in California, and another in Florida.",
+      "pubDate": "Fri, 09 Jan 2026 15:17:12 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?9e49a72d3a2671c6f6664490d4890a75",
+      "group": "Incransom",
+      "victim": "The Carlson Law Firm",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Swavelle Group, Wearbest Sil-Tex Mills",
+      "link": "https://www.ransomware.live/id/U3dhdmVsbGUgR3JvdXAsIFdlYXJiZXN0IFNpbC1UZXggTWlsbHNAYWtpcmE=",
+      "summary": "Swavelle Group Fabric Solutions is a diverse textile supplier tha t offers a wide array of fabrics suitable for various decorating  needs. Wearbest Siltex Mills is a family-run textile manufacturer locate d in Garfield, New Jersey. The firm serves residential clients an d furniture manufacturers. We will upload 165gb of corporate data soon. Detailed personal in formation of every employee (SSN, passport numbers and scans, DL, birth certificates, addresses, phones, emails and so on), client documentation, projects, NDA, so on.",
+      "pubDate": "Fri, 09 Jan 2026 15:10:25 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/akira?27f35392ac0dac8ee247eb4471b28261",
+      "group": "Akira",
+      "victim": "Swavelle Group, Wearbest Sil-Tex Mills",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Akira has just published a new victim : Triple Eight Transport",
+      "link": "https://www.ransomware.live/id/VHJpcGxlIEVpZ2h0IFRyYW5zcG9ydEBha2lyYQ==",
+      "summary": "Triple Eight Transport is an asset-based carrier company offering services in reefer, dry and heat van, and more. We will upload almost 30gb of corporate data soon. Detailed perso nal information of every employee (SSN, passports, visa documents , credit cards, DL, birth certificates, addresses, phones, emails and so on), financials and payment details, client information,  NDA, so on.",
+      "pubDate": "Fri, 09 Jan 2026 15:10:22 +0000",
+      "category": "CA",
+      "guid": "https://www.ransomware.live/group/akira?a41b7d2620657e30477f2f164ea5e6ba",
+      "group": "Akira",
+      "victim": "Triple Eight Transport",
+      "country": "CA"
+    },
     {
       "title": "🏴‍☠️ Akira has just published a new victim : McCraw Oil",
       "link": "https://www.ransomware.live/id/TWNDcmF3IE9pbEBha2lyYQ==",
@@ -2168,39 +2201,6 @@
       "group": "Kazu",
       "victim": "Saudi Icon",
       "country": "SA"
-    },
-    {
-      "title": "🏴‍☠️ Incransom has just published a new victim : selp",
-      "link": "https://www.ransomware.live/id/c2VscEBpbmNyYW5zb20=",
-      "summary": "selp.fr\r Clients: apple, loreal, google, ikea...\r WE HAS COLLECTED SUCH DATA AS: \r - Confidential documents\r - Clients Data\r - NDA\r - Financial data\r - Operations\r - Corporate data\r - Business Agreements\r - Source Code\r And a lot of other VERY IMPORTANT information!",
-      "pubDate": "Mon, 29 Dec 2025 16:23:18 +0000",
-      "category": "FR",
-      "guid": "https://www.ransomware.live/group/incransom?8ef8ec0d7241e47fccff0235b94f7d33",
-      "group": "Incransom",
-      "victim": "selp",
-      "country": "FR"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Grupo Hafesa",
-      "link": "https://www.ransomware.live/id/R3J1cG8gSGFmZXNhQHFpbGlu",
-      "summary": "N/A",
-      "pubDate": "Mon, 29 Dec 2025 14:45:34 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?60e006c220bb4440c345c07fe0fec47e",
-      "group": "Qilin",
-      "victim": "Grupo Hafesa",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : Sintac Recycling",
-      "link": "https://www.ransomware.live/id/U2ludGFjIFJlY3ljbGluZ0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Mon, 29 Dec 2025 14:44:56 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/qilin?8d3e57118be20c4aaba8afe6cf7eabe4",
-      "group": "Qilin",
-      "victim": "Sintac Recycling",
-      "country": "ES"
     }
   ]
 }
