@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-09T19:14:20.320Z",
+  "updatedAt": "2026-01-09T20:14:42.214Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Bauerfeind",
+      "link": "https://www.ransomware.live/id/QmF1ZXJmZWluZEBkaXJld29sZg==",
+      "summary": "Manufacturing",
+      "pubDate": "Fri, 09 Jan 2026 19:23:20 +0000",
+      "category": "DE",
+      "guid": "https://www.ransomware.live/group/direwolf?6984b0a4d358f6f4674e3b41b2c0437d",
+      "group": "Direwolf",
+      "victim": "Bauerfeind",
+      "country": "DE"
+    },
+    {
+      "title": "🏴‍☠️ Direwolf has just published a new victim : Mohammad Omar Bin Haider Holding Group",
+      "link": "https://www.ransomware.live/id/TW9oYW1tYWQgT21hciBCaW4gSGFpZGVyIEhvbGRpbmcgR3JvdXBAZGlyZXdvbGY=",
+      "summary": "Business Services",
+      "pubDate": "Fri, 09 Jan 2026 19:22:45 +0000",
+      "category": "AE",
+      "guid": "https://www.ransomware.live/group/direwolf?3b241251d8006955d7fc324926a52c3d",
+      "group": "Direwolf",
+      "victim": "Mohammad Omar Bin Haider Holding Group",
+      "country": "AE"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : The Carlson Law Firm",
       "link": "https://www.ransomware.live/id/VGhlIENhcmxzb24gTGF3IEZpcm1AaW5jcmFuc29t",
@@ -2179,28 +2201,6 @@
       "group": "Dragonforce",
       "victim": "Burnex",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : NK Technologies",
-      "link": "https://www.ransomware.live/id/TksgVGVjaG5vbG9naWVzQGRyYWdvbmZvcmNl",
-      "summary": "Founded in 1982, NK Technologies is a current sensing technology manufacturer and distributor headquartered in San Jose, California. Products include sensing switches, AC transducers, fault sensors, and more. As a leader in the industry, NK Technologies takes its commitment to customers seriously and considers customer satisfaction a top priority. Timely response to customer inquiries; knowledgeable technical support; a willingness to develop custom solutions to meet specific customer needs; and an organizational commitment to delivering reliable, quality product on time are the hallmarks of excellence which our customers have come to rely on and expect from NK Technologies, a company built upon a history of innovation",
-      "pubDate": "Mon, 29 Dec 2025 17:15:26 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?2f2fdd99157fc0c26d92c0ef0da5812e",
-      "group": "Dragonforce",
-      "victim": "NK Technologies",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Kazu has just published a new victim : Saudi Icon",
-      "link": "https://www.ransomware.live/id/U2F1ZGkgSWNvbkBrYXp1",
-      "summary": "Saudi Icon specializes in design and build solutions, offering a holistic approach to construction and turn-key services. The company caters to a diverse clientele, including hotels, workspaces, restaurants, gyms, and healthcare facilities across Saudi Arabia. With a focus on creativity, functionality, and quality construction, Saudi Icon aims to redefine modern living through thoughtful design and tailored services. Their extensive portfolio showcases significant projects, along with a reputation for delivering high-end fit-out solutions and innovative constructions",
-      "pubDate": "Mon, 29 Dec 2025 16:26:33 +0000",
-      "category": "SA",
-      "guid": "https://www.ransomware.live/group/kazu?a88e2f7b706e258634576aae91bcc031",
-      "group": "Kazu",
-      "victim": "Saudi Icon",
-      "country": "SA"
     }
   ]
 }
