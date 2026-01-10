@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-10T04:26:28.268Z",
+  "updatedAt": "2026-01-10T05:14:19.429Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Killsec has just published a new victim : publicsafety.ohio.gov",
+      "link": "https://www.ransomware.live/id/cHVibGljc2FmZXR5Lm9oaW8uZ292QGtpbGxzZWM=",
+      "summary": "Price ??? Disclosures 0/1",
+      "pubDate": "Sat, 10 Jan 2026 04:04:09 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/killsec?31cb2257600596b8c11967f5177f656f",
+      "group": "Killsec",
+      "victim": "publicsafety.ohio.gov",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : CompactInd",
+      "link": "https://www.ransomware.live/id/Q29tcGFjdEluZEBpbmNyYW5zb20=",
+      "summary": "Compact Industries, Inc. is a leading contract manufacturer specializing in dry food products, particularly powdered food items and sugar-based drink mixes. Established in 1963, the company offers custom blending and contract packaging services, catering to a diverse range of clients. \r Laek: 100GB \r WE HAS COLLECTED SUCH DATA AS: \r - Confidential documents \r - Clients Data \r - NDA \r - Financial data \r - Operations \r - Corporate data \r - Business Agreements \r - Development \r \r And a lot of other VERY IMPORTANT information",
+      "pubDate": "Sat, 10 Jan 2026 03:59:48 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?8473ca9a17f2c87e183aeb09d8379e44",
+      "group": "Incransom",
+      "victim": "CompactInd",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Osiris has just published a new victim : American Vanguard",
       "link": "https://www.ransomware.live/id/QW1lcmljYW4gVmFuZ3VhcmRAb3Npcmlz",
@@ -2179,28 +2201,6 @@
       "group": "Lockbit5",
       "victim": "labayenylaborde.com",
       "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : samkee.com",
-      "link": "https://www.ransomware.live/id/c2Fta2VlLmNvbUBsb2NrYml0NQ==",
-      "summary": "Founded in 1978, Samkee Automotive specializes in injection molding vehicles, providing global equi...",
-      "pubDate": "Mon, 29 Dec 2025 19:51:35 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/lockbit5?8192657daa8ada580d1e019dbd89bd3e",
-      "group": "Lockbit5",
-      "victim": "samkee.com",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : SEACSUB S.p.a.",
-      "link": "https://www.ransomware.live/id/U0VBQ1NVQiBTLnAuYS5AcWlsaW4=",
-      "summary": "N/A",
-      "pubDate": "Mon, 29 Dec 2025 18:27:13 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/qilin?fd05068bd7954f6561271a5d56e632d4",
-      "group": "Qilin",
-      "victim": "SEACSUB S.p.a.",
-      "country": "IT"
     }
   ]
 }
