@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-10T18:17:45.337Z",
+  "updatedAt": "2026-01-10T19:09:14.916Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Virginia Records",
+      "link": "https://www.ransomware.live/id/VmlyZ2luaWEgUmVjb3Jkc0BldmVyZXN0",
+      "summary": "[AI generated] Virginia Records is a Bulgarian record company and producer of music in a variety of genres, from pop and rock to jazz and folk. Founded in the mid-90s, it’s one of the oldest private music companies in Bulgaria. The company has a strong focus on discovering and developing new artists and has achieved fame and success with a number of Bulgarian musicians.",
+      "pubDate": "Sat, 10 Jan 2026 18:21:13 +0000",
+      "category": "BG",
+      "guid": "https://www.ransomware.live/group/everest?80e1e04c78c5039e61225db6a819776f",
+      "group": "Everest",
+      "victim": "Virginia Records",
+      "country": "BG"
+    },
+    {
+      "title": "🏴‍☠️ Everest has just published a new victim : Nissan Motor Corporation",
+      "link": "https://www.ransomware.live/id/Tmlzc2FuIE1vdG9yIENvcnBvcmF0aW9uQGV2ZXJlc3Q=",
+      "summary": "[AI generated] Nissan Motor Corporation is a multinational automobile manufacturer headquartered in Yokohama, Japan. The company, founded in 1933, produces a comprehensive range of vehicles, from luxury cars to commercial trucks. Nissan is known for its innovation in electric and autonomous driving technology. It includes brands like Infiniti and Datsun. It also has partnerships with Renault and Mitsubishi.",
+      "pubDate": "Sat, 10 Jan 2026 18:20:53 +0000",
+      "category": "JP",
+      "guid": "https://www.ransomware.live/group/everest?388a17d2c16d68cb0fa487e68ec4e316",
+      "group": "Everest",
+      "victim": "Nissan Motor Corporation",
+      "country": "JP"
+    },
     {
       "title": "🏴‍☠️ Qilin has just published a new victim : Bouygues Energies & Services",
       "link": "https://www.ransomware.live/id/Qm91eWd1ZXMgRW5lcmdpZXMgJiBTZXJ2aWNlc0BxaWxpbg==",
@@ -2179,28 +2201,6 @@
       "group": "Play",
       "victim": "MP Filtri",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : C&r Electric",
-      "link": "https://www.ransomware.live/id/QyZyIEVsZWN0cmljQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Mon, 29 Dec 2025 20:03:19 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?ee42a7608938c22760be7e1a0871932d",
-      "group": "Play",
-      "victim": "C&r Electric",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : surfishtrade.com",
-      "link": "https://www.ransomware.live/id/c3VyZmlzaHRyYWRlLmNvbUBsb2NrYml0NQ==",
-      "summary": "We are a company dedicated to buying and selling whole and processed fish while complying with stric...",
-      "pubDate": "Mon, 29 Dec 2025 19:53:37 +0000",
-      "category": "PE",
-      "guid": "https://www.ransomware.live/group/lockbit5?49c27be838e518fe671a17d2c6f3f031",
-      "group": "Lockbit5",
-      "victim": "surfishtrade.com",
-      "country": "PE"
     }
   ]
 }
