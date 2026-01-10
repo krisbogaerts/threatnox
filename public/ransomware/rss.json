@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-10T12:22:00.991Z",
+  "updatedAt": "2026-01-10T13:24:02.483Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Incransom has just published a new victim : Foshee Architecture",
+      "link": "https://www.ransomware.live/id/Rm9zaGVlIEFyY2hpdGVjdHVyZUBpbmNyYW5zb20=",
+      "summary": "Foshee Architecture is a Montgomery, Alabama-based architecture firm specializing in comprehensive design services for a variety of sectors including multi-family housing, healthcare facilities, office spaces, retail, and restaurants. Founded by John H. Foshee, the firm utilizes a personalized design process informed by a rich family history in the construction industry. By collaborating with experts in engineering and other disciplines, they provide tailored architectural solutions that prioritize client objectives and budgets. Their extensive experience positions them to effectively manage complex projects while ensuring high standards of functionality and aesthetic appeal.",
+      "pubDate": "Sat, 10 Jan 2026 12:18:39 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/incransom?feea86ea38b52a228c36e00caf802e61",
+      "group": "Incransom",
+      "victim": "Foshee Architecture",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Killsec has just published a new victim : publicsafety.ohio.gov",
       "link": "https://www.ransomware.live/id/cHVibGljc2FmZXR5Lm9oaW8uZ292QGtpbGxzZWM=",
@@ -2190,17 +2201,6 @@
       "group": "Lockbit5",
       "victim": "klax.de",
       "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : labayenylaborde.com",
-      "link": "https://www.ransomware.live/id/bGFiYXllbnlsYWJvcmRlLmNvbUBsb2NrYml0NQ==",
-      "summary": "LABAYEN Y LABORDE S.L. A group of companies specialized in rotary machines",
-      "pubDate": "Mon, 29 Dec 2025 19:52:09 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/lockbit5?f5716052a624655a26f2f52924556101",
-      "group": "Lockbit5",
-      "victim": "labayenylaborde.com",
-      "country": "ES"
     }
   ]
 }
