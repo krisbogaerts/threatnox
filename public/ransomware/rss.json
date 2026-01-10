@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-09T23:12:35.056Z",
+  "updatedAt": "2026-01-10T00:58:10.787Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Osiris has just published a new victim : American Vanguard",
+      "link": "https://www.ransomware.live/id/QW1lcmljYW4gVmFuZ3VhcmRAb3Npcmlz",
+      "summary": "American Vanguard Corporation is a U.S.-based company specializing in agricultural chemicals, primarily focused on crop protection products like herbicides, insecticides, fungicides, and fumigants. Founded in 1969 and headquartered in Newport Beach, California, the company markets products under its AMVAC brand and other specialized labels, serving global agricultural markets. Through a combination of research and development, strategic acquisitions, and a focus on sustainable practices, American Vanguard aims to enhance crop yields while minimizing environmental impact. It invests in greener alternatives to traditional chemicals and emphasizes innovation in pest control solutions. As a publicly traded company (NYSE: AVD), its financial performance is closely tied to agricultural trends and regulatory changes within the industry.",
+      "pubDate": "Fri, 09 Jan 2026 23:59:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/osiris?a82eb25cc245219897c8c2be12c2e406",
+      "group": "Osiris",
+      "victim": "American Vanguard",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Direwolf has just published a new victim : Bauerfeind",
       "link": "https://www.ransomware.live/id/QmF1ZXJmZWluZEBkaXJld29sZg==",
@@ -2190,17 +2201,6 @@
       "group": "Qilin",
       "victim": "SEACSUB S.p.a.",
       "country": "IT"
-    },
-    {
-      "title": "🏴‍☠️ Dragonforce has just published a new victim : Burnex",
-      "link": "https://www.ransomware.live/id/QnVybmV4QGRyYWdvbmZvcmNl",
-      "summary": "Burnex Corporation is a leading manufacturer of precision metal stampings and wire forms, offering both custom and standard metal parts for various industries since 1972. The company utilizes innovative technology and unique manufacturing capabilities, including Planetary Geared stamping and bending technology, to provide a wide range of forming possibilities. With a focus on design flexibility and short lead times, Burnex serves clients globally across sectors such as aeronautics, automotive, medical, and electrical. Their experienced team, with an average tenure of 18 years, ensures a high level of expertise and continuity in meeting diverse customer needs",
-      "pubDate": "Mon, 29 Dec 2025 17:16:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/dragonforce?1123065ed7b867b4447bc2365139eed0",
-      "group": "Dragonforce",
-      "victim": "Burnex",
-      "country": "US"
     }
   ]
 }
