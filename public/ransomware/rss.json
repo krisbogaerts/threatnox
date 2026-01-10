@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-10T20:12:43.336Z",
+  "updatedAt": "2026-01-10T21:10:47.172Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Launie & Marino",
+      "link": "https://www.ransomware.live/id/TGF1bmllICYgTWFyaW5vQHBsYXk=",
+      "summary": "United States",
+      "pubDate": "Sat, 10 Jan 2026 20:56:16 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/play?6fd710d482e4474ac625f2aee9546bb5",
+      "group": "Play",
+      "victim": "Launie & Marino",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : Denny's 5th Avenue Bakery",
+      "link": "https://www.ransomware.live/id/RGVubnkncyA1dGggQXZlbnVlIEJha2VyeUBwbGF5",
+      "summary": "United States",
+      "pubDate": "Sat, 10 Jan 2026 20:55:38 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?8e09361191386f6f2810cdd5f41a773a",
+      "group": "Play",
+      "victim": "Denny's 5th Avenue Bakery",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Play has just published a new victim : WiZiX Technology Group",
+      "link": "https://www.ransomware.live/id/V2laaVggVGVjaG5vbG9neSBHcm91cEBwbGF5",
+      "summary": "United States",
+      "pubDate": "Sat, 10 Jan 2026 20:54:58 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/play?f1d98ae6d6f6010ff2678542264e5ff7",
+      "group": "Play",
+      "victim": "WiZiX Technology Group",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Everest has just published a new victim : Virginia Records",
       "link": "https://www.ransomware.live/id/VmlyZ2luaWEgUmVjb3Jkc0BldmVyZXN0",
@@ -2168,39 +2201,6 @@
       "group": "Play",
       "victim": "Genoa Lakes",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Esquire Brands",
-      "link": "https://www.ransomware.live/id/RXNxdWlyZSBCcmFuZHNAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Mon, 29 Dec 2025 20:04:53 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?9aca3683e99f1dd7805e9233424ce54b",
-      "group": "Play",
-      "victim": "Esquire Brands",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : JZ Russell Industries",
-      "link": "https://www.ransomware.live/id/SlogUnVzc2VsbCBJbmR1c3RyaWVzQHBsYXk=",
-      "summary": "United States",
-      "pubDate": "Mon, 29 Dec 2025 20:04:36 +0000",
-      "category": "N/A",
-      "guid": "https://www.ransomware.live/group/play?e0d44ba0549f9c9d8eb5d12af0e3cb6a",
-      "group": "Play",
-      "victim": "JZ Russell Industries",
-      "country": ""
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : MP Filtri",
-      "link": "https://www.ransomware.live/id/TVAgRmlsdHJpQHBsYXk=",
-      "summary": "Canada",
-      "pubDate": "Mon, 29 Dec 2025 20:03:57 +0000",
-      "category": "IT",
-      "guid": "https://www.ransomware.live/group/play?be834ad76a364e460941db717111f51d",
-      "group": "Play",
-      "victim": "MP Filtri",
-      "country": "IT"
     }
   ]
 }
