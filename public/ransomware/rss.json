@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-10T16:13:55.015Z",
+  "updatedAt": "2026-01-10T17:10:44.206Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Bouygues Energies & Services",
+      "link": "https://www.ransomware.live/id/Qm91eWd1ZXMgRW5lcmdpZXMgJiBTZXJ2aWNlc0BxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sat, 10 Jan 2026 16:47:02 +0000",
+      "category": "FR",
+      "guid": "https://www.ransomware.live/group/qilin?28300b841b6f8d3c7e28d46991f0ac0a",
+      "group": "Qilin",
+      "victim": "Bouygues Energies & Services",
+      "country": "FR"
+    },
     {
       "title": "🏴‍☠️ Incransom has just published a new victim : Foshee Architecture",
       "link": "https://www.ransomware.live/id/Rm9zaGVlIEFyY2hpdGVjdHVyZUBpbmNyYW5zb20=",
@@ -2190,17 +2201,6 @@
       "group": "Lockbit5",
       "victim": "surfishtrade.com",
       "country": "PE"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : klax.de",
-      "link": "https://www.ransomware.live/id/a2xheC5kZUBsb2NrYml0NQ==",
-      "summary": "Wir sind Klax Klax fördert individuelles Lernen und Kreativität mit Bildungs- und Freizeitangeboten...",
-      "pubDate": "Mon, 29 Dec 2025 19:52:45 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/lockbit5?56cb6d09995a7032a663ced7f94a164d",
-      "group": "Lockbit5",
-      "victim": "klax.de",
-      "country": "DE"
     }
   ]
 }
