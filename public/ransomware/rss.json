@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-11T11:10:25.896Z",
+  "updatedAt": "2026-01-11T12:22:36.593Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Nova has just published a new victim : Cisneros group",
+      "link": "https://www.ransomware.live/id/Q2lzbmVyb3MgZ3JvdXBAbm92YQ==",
+      "summary": "Founded in 1929, Cisneros is a global media and entertainment enterprise headquartered in Miami, Florida. The company specializes in broadcasting, digital advertising, and real estate development with operations across North and South America, including Mexico. Cisneros offers mobile applications and technology solutions while maintaining a diverse portfolio of media properties and entertainment content. The company combines traditional broadcasting with digital innovation to deliver content and services to both business and consumer markets worldwide - corp you have 7 days to contact and get in touch, sample provided.",
+      "pubDate": "Sun, 11 Jan 2026 11:54:02 +0000",
+      "category": "VE",
+      "guid": "https://www.ransomware.live/group/nova?1128c5e4e359c0277c08567ada3172dc",
+      "group": "Nova",
+      "victim": "Cisneros group",
+      "country": "VE"
+    },
     {
       "title": "🏴‍☠️ Obscura has just published a new victim : CleverPower",
       "link": "https://www.ransomware.live/id/Q2xldmVyUG93ZXJAb2JzY3VyYQ==",
@@ -2190,17 +2201,6 @@
       "group": "Safepay",
       "victim": "moorelumber.com",
       "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : usdaw.org.uk",
-      "link": "https://www.ransomware.live/id/dXNkYXcub3JnLnVrQHNhZmVwYXk=",
-      "summary": "Usdaw — formally the Union of Shop, Distributive and Allied Workers — is one of the United Kingdom’s largest and …",
-      "pubDate": "Mon, 29 Dec 2025 20:11:37 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/safepay?7c372ae0bf6b18349a9648d375075eeb",
-      "group": "Safepay",
-      "victim": "usdaw.org.uk",
-      "country": "GB"
     }
   ]
 }
