@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-01-11T13:24:44.145Z",
+  "updatedAt": "2026-01-11T14:11:40.679Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Pensam Residential",
+      "link": "https://www.ransomware.live/id/UGVuc2FtIFJlc2lkZW50aWFsQHFpbGlu",
+      "summary": "N/A",
+      "pubDate": "Sun, 11 Jan 2026 13:48:02 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/qilin?c26ef5edff32b097e1f59ab54731af86",
+      "group": "Qilin",
+      "victim": "Pensam Residential",
+      "country": "US"
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : Sarl Alliance",
+      "link": "https://www.ransomware.live/id/U2FybCBBbGxpYW5jZUBxaWxpbg==",
+      "summary": "N/A",
+      "pubDate": "Sun, 11 Jan 2026 13:47:24 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/qilin?52e0ba96908323efc9ea8a6c12d9ec61",
+      "group": "Qilin",
+      "victim": "Sarl Alliance",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Qilin has just published a new victim : San Silvestre School",
+      "link": "https://www.ransomware.live/id/U2FuIFNpbHZlc3RyZSBTY2hvb2xAcWlsaW4=",
+      "summary": "N/A",
+      "pubDate": "Sun, 11 Jan 2026 13:46:42 +0000",
+      "category": "PE",
+      "guid": "https://www.ransomware.live/group/qilin?e3623a87c0f891ebdf448a63970633f9",
+      "group": "Qilin",
+      "victim": "San Silvestre School",
+      "country": "PE"
+    },
     {
       "title": "🏴‍☠️ Genesis has just published a new victim : Novelty Technology Care Espana (Part of GRUPO NTC)",
       "link": "https://www.ransomware.live/id/Tm92ZWx0eSBUZWNobm9sb2d5IENhcmUgRXNwYW5hIChQYXJ0IG9mIEdSVVBPIE5UQylAZ2VuZXNpcw==",
@@ -2168,39 +2201,6 @@
       "group": "Kazu",
       "victim": "ManageMyHealth - New Zealand",
       "country": "NZ"
-    },
-    {
-      "title": "🏴‍☠️ Spacebears has just published a new victim : Firmengruppe Hoffmann",
-      "link": "https://www.ransomware.live/id/RmlybWVuZ3J1cHBlIEhvZmZtYW5uQHNwYWNlYmVhcnM=",
-      "summary": "Since 2003, the Hoffmann Group from Bernau has been a reliable partner in the areas of transport and recycling, earthworks and demolition, as well as ready-mix concrete and waste wood processing, enabling its customers to obtain all services related to a construction project from a single source. In addition to maintenance and repair, the company also serves as a competent contact for the sale of construction machineryDatabaseFinancial documentsPersonal information of employees and clients https://www.firmengruppe-hoffmann.de/",
-      "pubDate": "Tue, 30 Dec 2025 02:04:33 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/spacebears?7792a49f6f4360e989240dfdb91d8476",
-      "group": "Spacebears",
-      "victim": "Firmengruppe Hoffmann",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : setex-textil.de",
-      "link": "https://www.ransomware.live/id/c2V0ZXgtdGV4dGlsLmRlQHNhZmVwYXk=",
-      "summary": "SETEX-Textil GmbH is a vertically integrated German textile manufacturer headquartered in Hamminkeln-Dingden, North Rhine-Westphalia. The company operates comprehensive textile production …",
-      "pubDate": "Mon, 29 Dec 2025 20:13:59 +0000",
-      "category": "DE",
-      "guid": "https://www.ransomware.live/group/safepay?9bc443ff7e971969322628ad807a1382",
-      "group": "Safepay",
-      "victim": "setex-textil.de",
-      "country": "DE"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : davidrosenbakerysupply.com",
-      "link": "https://www.ransomware.live/id/ZGF2aWRyb3NlbmJha2VyeXN1cHBseS5jb21Ac2FmZXBheQ==",
-      "summary": "David Rosen Bakery Supply is a long-established wholesale bakery supply and distribution company headquartered in Maspeth, New York, serving commercial …",
-      "pubDate": "Mon, 29 Dec 2025 20:13:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?c7c76d65d6a958bf2a882d7877b46bfb",
-      "group": "Safepay",
-      "victim": "davidrosenbakerysupply.com",
-      "country": "US"
     }
   ]
 }
