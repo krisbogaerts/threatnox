@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-11T20:13:41.053Z",
+  "updatedAt": "2026-01-11T21:11:01.245Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : FOX Architects",
+      "link": "https://www.ransomware.live/id/Rk9YIEFyY2hpdGVjdHNAc2lub2Jp",
+      "summary": "FOX Architects LLC is an architecture and interior design firm that specializes in transforming workplace environments through strategic design and comprehensive planning. The firm brings together expertise in spatial strategy, building systems, and user-centered design to create functional, innovative work spaces that enhance organizational performance and employee experience. The company&#x27;s service offerings span the full spectrum of workplace transformation, from detailed zoning research and regulatory compliance analysis to large-scale master planning initiatives. FOX Architects conducts thorough site planning and analysis to evaluate property potential, then executes building renovations that modernize infrastructure while preserving architectural integrity. This integrated approach allows the firm to address both immediate renovation needs and long-term strategic facility goals within a cohesive framework.",
+      "pubDate": "Sun, 11 Jan 2026 20:59:32 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/sinobi?e4886794c642569153e0fd874b3083df",
+      "group": "Sinobi",
+      "victim": "FOX Architects",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : Cardiovascular Medical Group of Southern California (CVMG)",
       "link": "https://www.ransomware.live/id/Q2FyZGlvdmFzY3VsYXIgTWVkaWNhbCBHcm91cCBvZiBTb3V0aGVybiBDYWxpZm9ybmlhIChDVk1HKUBzaW5vYmk=",
@@ -2189,17 +2200,6 @@
       "guid": "https://www.ransomware.live/group/play?d76618fbdf77654e50f3ab385e704ba5",
       "group": "Play",
       "victim": "Infinite Computing Systems",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Qilin has just published a new victim : BNZ Materials",
-      "link": "https://www.ransomware.live/id/Qk5aIE1hdGVyaWFsc0BxaWxpbg==",
-      "summary": "N/A",
-      "pubDate": "Wed, 31 Dec 2025 16:20:22 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/qilin?1709ef541d0219a5fae158148f6e3ee0",
-      "group": "Qilin",
-      "victim": "BNZ Materials",
       "country": "US"
     }
   ]
