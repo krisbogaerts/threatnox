@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-01-11T10:12:35.946Z",
+  "updatedAt": "2026-01-11T11:10:25.896Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : CleverPower",
+      "link": "https://www.ransomware.live/id/Q2xldmVyUG93ZXJAb2JzY3VyYQ==",
+      "summary": "Technology leader for modern energy infrastructure",
+      "pubDate": "Sun, 11 Jan 2026 10:49:08 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/obscura?0a72cf356a71039ae3be581b40de259f",
+      "group": "Obscura",
+      "victim": "CleverPower",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : Trend Import Export",
+      "link": "https://www.ransomware.live/id/VHJlbmQgSW1wb3J0IEV4cG9ydEBvYnNjdXJh",
+      "summary": "IT company specializing in enterprise solutions and hardware",
+      "pubDate": "Sun, 11 Jan 2026 10:48:43 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/obscura?c0d363aa8587d8fff4c76b5b3d018fe3",
+      "group": "Obscura",
+      "victim": "Trend Import Export",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : Thai Petroleum & Trading",
+      "link": "https://www.ransomware.live/id/VGhhaSBQZXRyb2xldW0gJiBUcmFkaW5nQG9ic2N1cmE=",
+      "summary": "Thai Petroleum &amp; Trading Co., Ltd. had been the sole importer and distributor for PENNZOIL and BARDAHL oil additive",
+      "pubDate": "Sun, 11 Jan 2026 10:48:18 +0000",
+      "category": "TH",
+      "guid": "https://www.ransomware.live/group/obscura?6bab6fcae13c81e513448346a3ae1c88",
+      "group": "Obscura",
+      "victim": "Thai Petroleum & Trading",
+      "country": "TH"
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : STC Concrete Product",
+      "link": "https://www.ransomware.live/id/U1RDIENvbmNyZXRlIFByb2R1Y3RAb2JzY3VyYQ==",
+      "summary": "STC Concrete Product Public Company Limited engages in the manufacture and distribution of precast concrete products in Thailand.",
+      "pubDate": "Sun, 11 Jan 2026 10:47:54 +0000",
+      "category": "N/A",
+      "guid": "https://www.ransomware.live/group/obscura?10ca0cec905e9d33bc799cc2956425d4",
+      "group": "Obscura",
+      "victim": "STC Concrete Product",
+      "country": ""
+    },
+    {
+      "title": "🏴‍☠️ Obscura has just published a new victim : REDtone",
+      "link": "https://www.ransomware.live/id/UkVEdG9uZUBvYnNjdXJh",
+      "summary": "REDtone International is a telecommunications service provider for to niche markets.",
+      "pubDate": "Sun, 11 Jan 2026 10:47:29 +0000",
+      "category": "MY",
+      "guid": "https://www.ransomware.live/group/obscura?98d3d67852623ff3c20322a7904a3eb0",
+      "group": "Obscura",
+      "victim": "REDtone",
+      "country": "MY"
+    },
     {
       "title": "🏴‍☠️ Play has just published a new victim : Launie & Marino",
       "link": "https://www.ransomware.live/id/TGF1bmllICYgTWFyaW5vQHBsYXk=",
@@ -2146,61 +2201,6 @@
       "group": "Safepay",
       "victim": "usdaw.org.uk",
       "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : investigacionesmedicas.com",
-      "link": "https://www.ransomware.live/id/aW52ZXN0aWdhY2lvbmVzbWVkaWNhcy5jb21Ac2FmZXBheQ==",
-      "summary": "Investigaciones Médicas is a private medical diagnostics and imaging services provider based in Buenos Aires, Argentina. Founded in 1991, it …",
-      "pubDate": "Mon, 29 Dec 2025 20:11:00 +0000",
-      "category": "AR",
-      "guid": "https://www.ransomware.live/group/safepay?8a8212862a1475480750e497bd03ece4",
-      "group": "Safepay",
-      "victim": "investigacionesmedicas.com",
-      "country": "AR"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : sproutnet.com",
-      "link": "https://www.ransomware.live/id/c3Byb3V0bmV0LmNvbUBzYWZlcGF5",
-      "summary": "SproutNet — operating under International Specialty Supply — is a U.S. producer and supplier of sprouting seeds, sprouts, natural ingredients …",
-      "pubDate": "Mon, 29 Dec 2025 20:10:24 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?71ec33cfbc03069d3375a893916a5457",
-      "group": "Safepay",
-      "victim": "sproutnet.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : precisionaluminum.ca",
-      "link": "https://www.ransomware.live/id/cHJlY2lzaW9uYWx1bWludW0uY2FAc2FmZXBheQ==",
-      "summary": "Precision Aluminum Manufacturing Inc. is a Canadian metal fabrication and architectural products company headquartered in Rocky View County (near Calgary), …",
-      "pubDate": "Mon, 29 Dec 2025 20:09:48 +0000",
-      "category": "CA",
-      "guid": "https://www.ransomware.live/group/safepay?542d3f32ffb1035b42750f7e89e600e7",
-      "group": "Safepay",
-      "victim": "precisionaluminum.ca",
-      "country": "CA"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : estrumar.es",
-      "link": "https://www.ransomware.live/id/ZXN0cnVtYXIuZXNAc2FmZXBheQ==",
-      "summary": "Metálicas Estrumar is a Spanish metal fabrication and structural engineering company headquartered in Burgos, Castilla y León, Spain. It is …",
-      "pubDate": "Mon, 29 Dec 2025 20:09:13 +0000",
-      "category": "ES",
-      "guid": "https://www.ransomware.live/group/safepay?a756fd15276b2cfff43bb96275af3328",
-      "group": "Safepay",
-      "victim": "estrumar.es",
-      "country": "ES"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Genoa Lakes",
-      "link": "https://www.ransomware.live/id/R2Vub2EgTGFrZXNAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Mon, 29 Dec 2025 20:05:31 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?ee2b78058ba6eb3ec84f0fcce41dbcc4",
-      "group": "Play",
-      "victim": "Genoa Lakes",
-      "country": "US"
     }
   ]
 }
