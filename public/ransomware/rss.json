@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-11T12:22:36.593Z",
+  "updatedAt": "2026-01-11T13:24:44.145Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Novelty Technology Care Espana (Part of GRUPO NTC)",
+      "link": "https://www.ransomware.live/id/Tm92ZWx0eSBUZWNobm9sb2d5IENhcmUgRXNwYW5hIChQYXJ0IG9mIEdSVVBPIE5UQylAZ2VuZXNpcw==",
+      "summary": "A Pharmaceutical company from Spain",
+      "pubDate": "Sun, 11 Jan 2026 12:23:53 +0000",
+      "category": "ES",
+      "guid": "https://www.ransomware.live/group/genesis?0d3de9d5f0529d714ad4c64f9fd2a16d",
+      "group": "Genesis",
+      "victim": "Novelty Technology Care Espana (Part of GRUPO NTC)",
+      "country": "ES"
+    },
+    {
+      "title": "🏴‍☠️ Genesis has just published a new victim : Advanced Family Surgery Center (Covenant Health)",
+      "link": "https://www.ransomware.live/id/QWR2YW5jZWQgRmFtaWx5IFN1cmdlcnkgQ2VudGVyIChDb3ZlbmFudCBIZWFsdGgpQGdlbmVzaXM=",
+      "summary": "A provider of surgical services",
+      "pubDate": "Sun, 11 Jan 2026 12:23:13 +0000",
+      "category": "US",
+      "guid": "https://www.ransomware.live/group/genesis?447483142681e80efa851c1fea0933c2",
+      "group": "Genesis",
+      "victim": "Advanced Family Surgery Center (Covenant Health)",
+      "country": "US"
+    },
     {
       "title": "🏴‍☠️ Nova has just published a new victim : Cisneros group",
       "link": "https://www.ransomware.live/id/Q2lzbmVyb3MgZ3JvdXBAbm92YQ==",
@@ -2178,28 +2200,6 @@
       "guid": "https://www.ransomware.live/group/safepay?c7c76d65d6a958bf2a882d7877b46bfb",
       "group": "Safepay",
       "victim": "davidrosenbakerysupply.com",
-      "country": "US"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : knightgroup.co.uk",
-      "link": "https://www.ransomware.live/id/a25pZ2h0Z3JvdXAuY28udWtAc2FmZXBheQ==",
-      "summary": "Knight Group is a UK-based precision metal stockist and processor with a long history dating back to 1943. The company …",
-      "pubDate": "Mon, 29 Dec 2025 20:12:49 +0000",
-      "category": "GB",
-      "guid": "https://www.ransomware.live/group/safepay?0b8e34c727493760be14f245a69ed790",
-      "group": "Safepay",
-      "victim": "knightgroup.co.uk",
-      "country": "GB"
-    },
-    {
-      "title": "🏴‍☠️ Safepay has just published a new victim : moorelumber.com",
-      "link": "https://www.ransomware.live/id/bW9vcmVsdW1iZXIuY29tQHNhZmVwYXk=",
-      "summary": "Moore Lumber &amp; Hardware Co. is a U.S. building-materials retailer and hardware supplier based in Ayer, Massachusetts. Founded in the …",
-      "pubDate": "Mon, 29 Dec 2025 20:12:13 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/safepay?081974cab32eda6e14c29a66396cf20d",
-      "group": "Safepay",
-      "victim": "moorelumber.com",
       "country": "US"
     }
   ]
