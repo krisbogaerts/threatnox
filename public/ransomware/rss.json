@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-12T01:02:39.576Z",
+  "updatedAt": "2026-01-12T03:30:17.339Z",
   "count": 200,
   "items": [
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : InvivoGen HK",
+      "link": "https://www.ransomware.live/id/SW52aXZvR2VuIEhLQHNpbm9iaQ==",
+      "summary": "InvivoGen&#x27;s conducts bio research and has unparalleled skill in microbial fermentation that enables them to provide a wide range of biological molecules, including ultra-pure antibiotics, novel mycoplasma treatments and the largest collection of pattern recognition receptor agonists derived from a wide range of micro-organisms.",
+      "pubDate": "Mon, 12 Jan 2026 00:56:24 +0000",
+      "category": "HK",
+      "guid": "https://www.ransomware.live/group/sinobi?b0c457a5b9673322c9107acb08fc5b61",
+      "group": "Sinobi",
+      "victim": "InvivoGen HK",
+      "country": "HK"
+    },
+    {
+      "title": "🏴‍☠️ Sinobi has just published a new victim : Alpha Alternatives",
+      "link": "https://www.ransomware.live/id/QWxwaGEgQWx0ZXJuYXRpdmVzQHNpbm9iaQ==",
+      "summary": "Alpha Alternatives is a multi-asset class asset management firm that creates sophisticated investment solutions for proprietary and client capital.",
+      "pubDate": "Mon, 12 Jan 2026 00:56:01 +0000",
+      "category": "IN",
+      "guid": "https://www.ransomware.live/group/sinobi?b8b3792ae9f74479ffd37bd8dc5d9299",
+      "group": "Sinobi",
+      "victim": "Alpha Alternatives",
+      "country": "IN"
+    },
     {
       "title": "🏴‍☠️ Sinobi has just published a new victim : FOX Architects",
       "link": "https://www.ransomware.live/id/Rk9YIEFyY2hpdGVjdHNAc2lub2Jp",
@@ -2179,28 +2201,6 @@
       "group": "Lockbit5",
       "victim": "esopdirect.com",
       "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Lockbit5 has just published a new victim : fortishealthcare.com",
-      "link": "https://www.ransomware.live/id/Zm9ydGlzaGVhbHRoY2FyZS5jb21AbG9ja2JpdDU=",
-      "summary": "Fortis Hospital, Bannerghatta Road, Bengaluru, is a 284-bed hospital, well equipped with  state-of-...",
-      "pubDate": "Wed, 31 Dec 2025 17:16:14 +0000",
-      "category": "IN",
-      "guid": "https://www.ransomware.live/group/lockbit5?9241de08680f89025389b3bd660871b0",
-      "group": "Lockbit5",
-      "victim": "fortishealthcare.com",
-      "country": "IN"
-    },
-    {
-      "title": "🏴‍☠️ Play has just published a new victim : Infinite Computing Systems",
-      "link": "https://www.ransomware.live/id/SW5maW5pdGUgQ29tcHV0aW5nIFN5c3RlbXNAcGxheQ==",
-      "summary": "United States",
-      "pubDate": "Wed, 31 Dec 2025 17:01:53 +0000",
-      "category": "US",
-      "guid": "https://www.ransomware.live/group/play?d76618fbdf77654e50f3ab385e704ba5",
-      "group": "Play",
-      "victim": "Infinite Computing Systems",
-      "country": "US"
     }
   ]
 }
